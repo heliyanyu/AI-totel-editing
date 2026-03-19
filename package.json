@@ -1,0 +1,48 @@
+{
+    "name": "video-engine",
+    "version": "1.0.0",
+    "description": "全链路自动视频生产 Pipeline",
+    "type": "module",
+    "scripts": {
+        "pipeline": "npx tsx src/pipeline.ts",
+        "analyze": "npx tsx src/analyze/index.ts",
+        "cut": "npx tsx src/cut/index.ts",
+        "cut:legacy": "npx tsx src/cut/index.ts",
+        "timing:direct": "npx tsx src/timing/build-direct-timing-map.ts",
+        "timing:check": "npx tsx src/timing/check-timing-plan.ts",
+        "remotion:preview": "npx remotion preview src/remotion/index.ts",
+        "render": "npx remotion render src/remotion/index.ts AutoPipeline",
+        "typecheck": "tsc --noEmit",
+        "editor": "npx tsx editor/server.ts",
+        "editor:dev": "cd editor/app && npx vite",
+        "review:replay": "npx tsx src/analyze/replay-transcript-review.ts"
+    },
+    "dependencies": {
+        "@anthropic-ai/sdk": "^0.78.0",
+        "@remotion/bundler": "4.0.429",
+        "@remotion/cli": "4.0.429",
+        "@remotion/lottie": "4.0.429",
+        "@remotion/paths": "4.0.429",
+        "@remotion/renderer": "4.0.429",
+        "@remotion/shapes": "4.0.429",
+        "@remotion/transitions": "4.0.429",
+        "@vitejs/plugin-react": "^5.1.4",
+        "healthicons-react": "^3.5.0",
+        "immer": "^11.1.4",
+        "lucide-react": "^0.575.0",
+        "mammoth": "^1.11.0",
+        "openai": "^6.29.0",
+        "react": "^19.2.4",
+        "react-dom": "^19.2.4",
+        "remotion": "4.0.429",
+        "vite": "^7.3.1",
+        "zod": "^3.23.0",
+        "zustand": "^5.0.11"
+    },
+    "devDependencies": {
+        "@types/node": "^22.0.0",
+        "@types/react": "^19.0.0",
+        "tsx": "^4.21.0",
+        "typescript": "^5.9.3"
+    }
+}
