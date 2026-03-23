@@ -1,0 +1,47 @@
+{
+  "name": "editing-v1-core",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "analyze": "npx tsx src/analyze/index.ts",
+    "transcribe:qwen": "python scripts/transcribe-qwen.py",
+    "force-align:qwen": "python scripts/force-align-qwen.py",
+    "report:pipeline": "npx tsx scripts/visualize-pipeline-report.ts",
+    "timing:direct": "npx tsx src/timing/build-direct-timing-map.ts",
+    "render": "npx tsx src/renderer/render.ts",
+    "remotion:preview": "npx remotion preview src/remotion/index.ts",
+    "rebuild:output": "npx tsx scripts/rebuild-output-from-blueprint.ts",
+    "editor:dev": "vite app",
+    "editor:build": "vite build app",
+    "editor:serve": "npx tsx server.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0",
+    "@remotion/bundler": "4.0.429",
+    "@remotion/cli": "4.0.429",
+    "@remotion/lottie": "4.0.429",
+    "@remotion/paths": "4.0.429",
+    "@remotion/renderer": "4.0.429",
+    "@remotion/shapes": "4.0.429",
+    "@remotion/transitions": "4.0.429",
+    "healthicons-react": "^3.5.0",
+    "lucide-react": "^0.575.0",
+    "mammoth": "^1.11.0",
+    "openai": "^6.29.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "4.0.429",
+    "zod": "^3.23.0",
+    "zustand": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "vite": "^6.0.0"
+  }
+}

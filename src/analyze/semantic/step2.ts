@@ -1,0 +1,369 @@
+import type { Step1Atom } from "./step1.js";
+
+const SUPPORTED_TEMPLATES = new Set([
+  "hero_text",
+  "number_center",
+  "warning_alert",
+  "image_overlay",
+  "list_fade",
+  "color_grid",
+  "body_annotate",
+  "step_arrow",
+  "branch_path",
+  "brick_stack",
+  "split_column",
+  "myth_buster",
+  "category_table",
+  "vertical_timeline",
+]);
+
+export const SYSTEM_PROMPT_STEP2 = `你是医学科普视频的视觉编排专家。任务：为已分组的语义结构选择渲染模板，并提取屏幕展示条目。
+
+输入：
+- 文本已经按 scene 和 logic block 分组
+- 每个 logic block 只包含 keep 内容的拼接文本
+- 文本顺序已经固定，你不能重排结构
+
+你的任务：
+1. 为每个 scene 起短标题，并选择画面模式：overlay 或 graphics
+2. 为每个 logic block 选择最匹配的渲染模板
+3. 为每个 logic block 提炼可上屏的 items
+4. 为需要额外参数的模板填写 template_props
+
+画面模式：
+- overlay：医生出镜 + 叠加图形，适合开场、总结、点题、金句、情感表达
+- graphics：纯信息图形全屏，适合列表、因果链、对比、分级、时间线等信息密集段
+- 整体上要合理交替，不要全程只有一种 view
+
+模板选择：
+你必须严格从下面这些模板名中选择，不得自造模板名，不得使用别名：
+- hero_text
+- number_center
+- warning_alert
+- image_overlay
+- list_fade
+- color_grid
+- body_annotate
+- step_arrow
+- branch_path
+- brick_stack
+- split_column
+- myth_buster
+- category_table
+- vertical_timeline
+
+先判断 logic block 的语义模式，再选最匹配的模板：
+- 因果递进 -> step_arrow
+- 多因素汇聚到结果 -> brick_stack
+- 对比 / 对照 -> split_column
+- 误区纠正 -> myth_buster
+- 关键数字 -> number_center
+- 警示 / 后果 -> warning_alert
+- 条件分叉 -> branch_path
+- 时间线 / 阶段变化 -> vertical_timeline
+- 金句 / 点题 / 结论 -> hero_text
+- 并列要点 -> list_fade 或 color_grid
+- 画面叠字说明 -> image_overlay
+- 部位标注 -> body_annotate
+- 分级表格 -> category_table
+
+items 数量约束：
+- hero_text = 1
+- number_center = 1
+- warning_alert = 1-2
+- image_overlay = 1-2
+- list_fade = 2-6
+- color_grid = 2-4
+- body_annotate = 2-5
+- step_arrow = 2-5
+- branch_path = 3
+- brick_stack = 3-6
+- split_column = 偶数
+- myth_buster = 偶数
+- category_table = 偶数
+- vertical_timeline = 2-6
+
+结构化模板要求：
+- split_column：items 必须左右交替排列，并提供 template_props.left_label / right_label
+- myth_buster：items 必须按“误区 / 正解”成对出现，并提供 template_props.dosCount
+- number_center：items[0].text 应是核心数字本体，说明写入 template_props.context / unit
+- branch_path：3 个 items 依次表示“条件 / 正向结果 / 负向结果”
+- vertical_timeline：每个 item 应尽量体现“阶段或时间 + 内容”
+- 未使用额外参数时，template_props 也必须输出 {}
+
+items 规则：
+- 每条 text 不超过 18 个字
+- 每条都要语义完整，能独立理解
+- items 是屏幕展示语，不是 transcript 原文回显，也不是标题党改写
+- 先保证语义准确和信息结构清晰，再考虑视觉简洁
+- 每条 item 都应该带 emoji 字段，用来做视觉焦点
+- emoji 要和内容语义匹配（如鱼→🐟、药丸→💊、心脏→🫀、蔬菜→🥬、警告→⚠️）
+- 不要用万能 emoji（如 ✅、📌、💡），要用具体的、有画面感的 emoji
+- emoji 只放在 emoji 字段里，text 里不要重复写 emoji（错误示例：{"emoji":"🐟","text":"🐟 三文鱼"}，正确：{"emoji":"🐟","text":"三文鱼"}）
+
+硬性约束：
+- 按输入的 scene 和 logic block 顺序逐个输出
+- scenes 数量必须与输入 scene 数量完全一致
+- 每个 scene.logic_segments 数量必须与该 scene 的 logic_blocks 数量完全一致
+- 不得合并 logic block
+- 不得跳过 logic block
+- 不得把后一个 logic block 的内容提前写进前一个 logic block
+- 即使某个 logic block 很短，也必须保留为独立 logic_segment
+- 如果内容较短或信息量不足，选择最保守、最匹配的模板，不要和相邻块合并
+- 不要回显原文
+- 只输出 JSON
+
+输出格式：
+{
+  "title": "视频标题",
+  "scenes": [
+    {
+      "title": "场景短标题",
+      "view": "overlay",
+      "logic_segments": [
+        {
+          "transition_type": "语义功能描述",
+          "template": "hero_text",
+          "items": [{ "text": "核心表达", "emoji": "🫀" }],
+          "template_props": {}
+        }
+      ]
+    }
+  ]
+}`;
+
+interface GroupedLogicBlock {
+  keepText: string;
+  atomIds: number[];
+}
+
+interface GroupedScene {
+  logicBlocks: GroupedLogicBlock[];
+}
+
+function dedupeTexts(texts: string[]): string[] {
+  const result: string[] = [];
+  for (const text of texts) {
+    const value = text.trim();
+    if (!value) continue;
+    if (result[result.length - 1] === value) continue;
+    result.push(value.length > 18 ? value.slice(0, 18) : value);
+  }
+  return result;
+}
+
+function pickFallbackItems(blockAtoms: Step1Atom[]): Array<{ text: string; emoji?: string }> {
+  const keepTexts = dedupeTexts(
+    blockAtoms.filter((atom) => atom.status === "keep").map((atom) => atom.text)
+  );
+
+  if (keepTexts.length === 0) {
+    return [{ text: "待人工确认", emoji: "*" }];
+  }
+
+  return keepTexts.slice(0, 5).map((text, index) => ({
+    text,
+    ...(keepTexts.length === 1 && index === 0 ? { emoji: "*" } : {}),
+  }));
+}
+
+function pickFallbackTemplate(items: Array<{ text: string; emoji?: string }>): string {
+  return items.length === 1 ? "hero_text" : "list_fade";
+}
+
+function normalizeTemplate(template: unknown, items: Array<{ text: string; emoji?: string }>): string {
+  if (typeof template === "string" && SUPPORTED_TEMPLATES.has(template)) {
+    return template;
+  }
+
+  const alias = typeof template === "string" ? template.trim().toLowerCase() : "";
+  if (alias === "bullet_list" || alias === "bullet-list" || alias === "list") {
+    return "list_fade";
+  }
+
+  return pickFallbackTemplate(items);
+}
+
+export function groupStep1Atoms(step1Result: { atoms?: Step1Atom[] }): GroupedScene[] {
+  const atoms = step1Result.atoms ?? [];
+  const scenes: GroupedScene[] = [];
+  let currentScene: GroupedScene | null = null;
+  let currentBlock: GroupedLogicBlock | null = null;
+
+  for (const atom of atoms) {
+    if (!currentScene || atom.boundary === "scene") {
+      currentBlock = { keepText: "", atomIds: [] };
+      currentScene = { logicBlocks: [currentBlock] };
+      scenes.push(currentScene);
+    } else if (atom.boundary === "logic" || !currentBlock) {
+      currentBlock = { keepText: "", atomIds: [] };
+      currentScene.logicBlocks.push(currentBlock);
+    }
+
+    currentBlock.atomIds.push(atom.id);
+    if (atom.status === "keep") {
+      currentBlock.keepText += atom.text;
+    }
+  }
+
+  return scenes;
+}
+
+export function buildUserPromptStep2(
+  step1Result: { atoms?: Step1Atom[] },
+  _words: Array<{ text: string; start: number; end: number }>
+): string {
+  const grouped = groupStep1Atoms(step1Result);
+  const input = grouped.map((scene, sceneIndex) => ({
+    scene: sceneIndex + 1,
+    logic_block_count: scene.logicBlocks.length,
+    logic_blocks: scene.logicBlocks.map((logicBlock, logicIndex) => ({
+      block: logicIndex + 1,
+      text: logicBlock.keepText,
+    })),
+  }));
+
+  return [
+    `Scenes: ${grouped.length}`,
+    `Logic blocks: ${grouped.reduce((sum, scene) => sum + scene.logicBlocks.length, 0)}`,
+    "请严格保持 scene 和 logic block 数量一致。",
+    "请不要回显原文，只输出结构化决策 JSON。",
+    JSON.stringify(input),
+  ].join("\n\n");
+}
+
+function buildFallbackSegment(
+  sceneIndex: number,
+  logicIndex: number,
+  groupedBlock: GroupedLogicBlock,
+  atomById: Map<number, Step1Atom>,
+  step2Segment?: any
+) {
+  const blockAtoms = groupedBlock.atomIds
+    .map((id) => atomById.get(id))
+    .filter((atom): atom is Step1Atom => Boolean(atom));
+
+  const items =
+    Array.isArray(step2Segment?.items) && step2Segment.items.length > 0
+      ? step2Segment.items
+      : pickFallbackItems(blockAtoms);
+  const template = normalizeTemplate(step2Segment?.template, items);
+
+  return {
+    id: `S${sceneIndex + 1}-L${logicIndex + 1}`,
+    transition_type:
+      step2Segment?.transition_type ||
+      `Logic block ${sceneIndex + 1}-${logicIndex + 1}`,
+    template,
+    items,
+    atoms: blockAtoms.map((atom) => {
+      const result: any = {
+        id: atom.id,
+        start_id: atom.start_id,
+        end_id: atom.end_id,
+        text: atom.text,
+        time: {
+          start: atom.time.s,
+          end: atom.time.e,
+        },
+        status: atom.status,
+      };
+      if (atom.audio_span_id) {
+        result.audio_span_id = atom.audio_span_id;
+      }
+      if (atom.status === "discard" && atom.reason) {
+        result.reason = atom.reason;
+      }
+      return result;
+    }),
+    template_props: step2Segment?.template_props || {},
+  };
+}
+
+export function buildSubtitleOnlyBlueprint(
+  step1Result: { atoms?: Step1Atom[] },
+  title = "医生字幕版"
+): any {
+  const grouped = groupStep1Atoms(step1Result);
+  const atoms = step1Result.atoms ?? [];
+  const atomById = new Map<number, Step1Atom>(atoms.map((atom) => [atom.id, atom]));
+
+  return {
+    title,
+    scenes: grouped.map((scene, sceneIndex) => ({
+      id: `S${sceneIndex + 1}`,
+      title: `口播片段 ${sceneIndex + 1}`,
+      view: "overlay",
+      logic_segments: scene.logicBlocks.map((groupedBlock, logicIndex) =>
+        buildFallbackSegment(
+          sceneIndex,
+          logicIndex,
+          groupedBlock,
+          atomById,
+          {
+            transition_type: "subtitle_only",
+            template: "subtitle_only",
+            items: [],
+            template_props: {},
+          }
+        )
+      ),
+    })),
+  };
+}
+
+export function mergeStep2WithAtoms(
+  step1Result: { atoms?: Step1Atom[] },
+  step2Result: any
+): any {
+  const grouped = groupStep1Atoms(step1Result);
+  const atoms = step1Result.atoms ?? [];
+  const atomById = new Map<number, Step1Atom>(atoms.map((atom) => [atom.id, atom]));
+  const scenes = Array.isArray(step2Result?.scenes) ? step2Result.scenes : [];
+
+  const merged: any = {
+    title: step2Result?.title || "",
+    scenes: [],
+  };
+
+  const sceneCount = Math.max(grouped.length, scenes.length);
+  for (let sceneIndex = 0; sceneIndex < sceneCount; sceneIndex++) {
+    const groupedScene = grouped[sceneIndex];
+    if (!groupedScene) {
+      continue;
+    }
+
+    const step2Scene = scenes[sceneIndex] || {};
+    const mergedScene: any = {
+      id: `S${sceneIndex + 1}`,
+      title: step2Scene.title || `Scene ${sceneIndex + 1}`,
+      view: step2Scene.view || "overlay",
+      logic_segments: [],
+    };
+
+    const segments = Array.isArray(step2Scene.logic_segments)
+      ? step2Scene.logic_segments
+      : [];
+    const logicCount = Math.max(groupedScene.logicBlocks.length, segments.length);
+
+    for (let logicIndex = 0; logicIndex < logicCount; logicIndex++) {
+      const groupedBlock = groupedScene.logicBlocks[logicIndex];
+      if (!groupedBlock) {
+        continue;
+      }
+      mergedScene.logic_segments.push(
+        buildFallbackSegment(
+          sceneIndex,
+          logicIndex,
+          groupedBlock,
+          atomById,
+          segments[logicIndex]
+        )
+      );
+    }
+
+    merged.scenes.push(mergedScene);
+  }
+
+  return merged;
+}

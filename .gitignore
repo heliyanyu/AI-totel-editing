@@ -1,0 +1,19 @@
+node_modules/
+dist/
+app/nul
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.whl
+.tmp_qwen_meta/
+output/
+.claude/
+.stills/
+**/.stills/
+
+# Large local test/output assets
+test/**/*.mp4
+test/**/*.docx
+out/
+**/out/*.mp4
