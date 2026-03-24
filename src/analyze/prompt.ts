@@ -65,12 +65,11 @@ Item = { "text": "≤18字", "emoji": "🫀" }
 - 核心结论、金句、开场/结尾点题 → hero_text
 - 并列要点无特殊关系 → list_fade / color_grid
 
-## 15 种模板（template）
+## 14 种模板（template）
 - hero_text      : 全屏大字。items=1（必带emoji）。
 - number_center  : 大数字。items=1。props: {"context":"说明","unit":"单位"}。
 - warning_alert  : 警示。items=1-2 [标题,说明]。首项带emoji替代默认⚠️。
 - term_card      : 术语卡。items=2 [术语,释义]。术语项带emoji。
-- image_overlay  : 画面叠字。items=1-2。
 - list_fade      : 逐条列表。items=2-6。每项带emoji替代编号。
 - color_grid     : 网格。items=2-4。每项带emoji。
 - body_annotate  : 部位标注。items=2-5。

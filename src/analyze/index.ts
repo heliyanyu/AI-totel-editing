@@ -56,6 +56,7 @@ import {
   buildUserPromptStep2,
   buildSubtitleOnlyBlueprint,
   mergeStep2WithAtoms,
+  parseStep2MarkedText,
 } from "./semantic/index.js";
 import {
   extractJson,
@@ -107,7 +108,7 @@ const MAX_RETRIES = 2;
 const MAX_TOKENS_REVIEW = 8192;
 const MAX_TOKENS_STEP1 = 16384;
 const MAX_TOKENS_TAKE_PASS = 8192;
-const MAX_TOKENS_STEP2 = 8192;
+const MAX_TOKENS_STEP2 = 16384;
 const DEFAULT_GEMINI_API_BASE_URL =
   "https://generativelanguage.googleapis.com/v1beta";
 
@@ -455,10 +456,13 @@ async function callLLM(opts: CallLLMOptions): Promise<unknown> {
       console.log(`  重试 ${attempt}/${opts.maxRetries} ...`);
     }
 
+    let ticker: ReturnType<typeof setInterval> | null = null;
     try {
-      console.log(
-        `  调用 ${opts.provider}:${opts.model} [${opts.debugPrefix}] ...`
+      const startMs = Date.now();
+      process.stdout.write(
+        `  调用 ${opts.provider}:${opts.model} [${opts.debugPrefix}] `
       );
+      ticker = setInterval(() => process.stdout.write("."), 5000);
 
       let rawText = "";
       let parsedJson: unknown | undefined;
@@ -642,6 +646,10 @@ async function callLLM(opts: CallLLMOptions): Promise<unknown> {
         );
       }
 
+      clearInterval(ticker);
+      ticker = null;
+      process.stdout.write(` ${((Date.now() - startMs) / 1000).toFixed(0)}s\n`);
+
       if (!rawText) {
         throw new Error("LLM 响应中没有文本内容");
       }
@@ -675,6 +683,11 @@ async function callLLM(opts: CallLLMOptions): Promise<unknown> {
 
       return rawJson;
     } catch (err) {
+      if (ticker !== null) {
+        clearInterval(ticker);
+        ticker = null;
+        process.stdout.write("\n");
+      }
       lastError = err instanceof Error ? err : new Error(String(err));
       console.warn(`  尝试 ${attempt + 1} 失败: ${lastError.message}`);
     }
@@ -845,7 +858,7 @@ async function callStep2(
 ): Promise<any> {
   console.log("\n  ── Step 2: 结构编排（view / template / items） ──");
 
-  const rawJson = await callLLM({
+  const rawText = await callLLM({
     provider: stage.provider,
     model: stage.model,
     systemPrompt: SYSTEM_PROMPT_STEP2,
@@ -861,11 +874,12 @@ async function callStep2(
     geminiApiKey: credentials?.geminiApiKey,
     geminiApiBaseUrl: credentials?.geminiApiBaseUrl,
     geminiThinkingLevel: "low",
-  });
+    returnRawText: true,
+  }) as string;
 
-  const result = rawJson as any;
-  if (!result?.scenes || !Array.isArray(result.scenes)) {
-    throw new Error("Step 2 输出格式错误: 缺少 scenes 数组");
+  const result = parseStep2MarkedText(rawText);
+  if (!result?.scenes || !Array.isArray(result.scenes) || result.scenes.length === 0) {
+    throw new Error("Step 2 输出格式错误: 缺少 scenes");
   }
 
   const totalSegments = result.scenes.reduce(

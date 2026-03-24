@@ -23,6 +23,7 @@ import {
   SYSTEM_PROMPT_STEP2,
   buildUserPromptStep2,
   mergeStep2WithAtoms,
+  parseStep2MarkedText,
 } from "./semantic/index.js";
 import {
   extractJson,
@@ -243,6 +244,7 @@ async function callLLM(options: {
   debugPrefix: string;
   clients: ClientPool;
   openaiBaseUrl?: string;
+  returnRawText?: boolean;
 }): Promise<unknown> {
   let rawText = "";
 
@@ -333,6 +335,10 @@ async function callLLM(options: {
     "utf-8"
   );
 
+  if (options.returnRawText) {
+    return rawText;
+  }
+
   const rawJson = extractJson(rawText);
   writeFileSync(
     join(options.debugDir, `llm-${options.debugPrefix}-parsed.json`),
@@ -380,36 +386,26 @@ async function replay(): Promise<void> {
     "utf-8"
   );
 
-  // callLLM saves raw text to llm-take-pass-raw.txt, then tries extractJson.
-  // We run it but may ignore its JSON result, preferring marked-text parsing.
-  let takePassJsonFallback: unknown;
-  try {
-    takePassJsonFallback = await callLLM({
-      provider: args.takePassProvider,
-      model: args.takePassModel,
-      systemPrompt: SYSTEM_PROMPT_TAKE_PASS,
-      userPrompt: buildUserPromptTakePass(step1Result.atoms, reviewedTranscript.words),
-      maxTokens: 8192,
-      debugDir: outputDir,
-      debugPrefix: "take-pass",
-      clients,
-      openaiBaseUrl: args.openaiBaseUrl,
-    });
-  } catch {
-    // extractJson failed (expected for marked text output) — that's fine.
-    takePassJsonFallback = null;
-  }
+  const takePassRawText = await callLLM({
+    provider: args.takePassProvider,
+    model: args.takePassModel,
+    systemPrompt: SYSTEM_PROMPT_TAKE_PASS,
+    userPrompt: buildUserPromptTakePass(step1Result.atoms, reviewedTranscript.words),
+    maxTokens: 8192,
+    debugDir: outputDir,
+    debugPrefix: "take-pass",
+    clients,
+    openaiBaseUrl: args.openaiBaseUrl,
+    returnRawText: true,
+  }) as string;
 
-  // Primary: parse marked text from the raw debug file.
-  // Fallback: use the JSON result if marked parsing fails.
-  const rawText = readFileSync(join(outputDir, "llm-take-pass-raw.txt"), "utf-8");
   let takePass: TakePassResult;
   try {
-    takePass = parseMarkedTakePass(rawText, step1Result.atoms);
+    takePass = parseMarkedTakePass(takePassRawText, step1Result.atoms);
   } catch (markedError) {
-    if (takePassJsonFallback) {
-      takePass = normalizeTakePassResult(takePassJsonFallback);
-    } else {
+    try {
+      takePass = normalizeTakePassResult(extractJson(takePassRawText));
+    } catch {
       throw markedError;
     }
   }
@@ -435,18 +431,20 @@ async function replay(): Promise<void> {
     `  Take Pass 完成: ${takeStats.takeCount} �?take, ${takeStats.keptAtomCount} keep, ${takeStats.discardedAtomCount} discard`
   );
 
-  const step2Result = await callLLM({
+  const step2RawText = await callLLM({
     provider: args.step2Provider,
     model: args.step2Model,
     systemPrompt: SYSTEM_PROMPT_STEP2,
     userPrompt: buildUserPromptStep2(step1Taken, reviewedTranscript.words),
-    maxTokens: 8192,
+    maxTokens: 16384,
     debugDir: outputDir,
     debugPrefix: "step2",
     clients,
     openaiBaseUrl: args.openaiBaseUrl,
-  });
+    returnRawText: true,
+  }) as string;
 
+  const step2Result = parseStep2MarkedText(step2RawText);
   writeFileSync(
     join(outputDir, "step2_result.json"),
     JSON.stringify(step2Result, null, 2),

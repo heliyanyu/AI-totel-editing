@@ -79,6 +79,20 @@ export function validateTimingPlan(
   }
 
   for (const atom of keeps) {
+    const playback = atomPlaybackRange(atom, mode);
+
+    // Zero-duration atom: timing builder skips these intentionally (e.g. last atom at video end).
+    // Emit a single warning and skip all further checks for this atom.
+    if (!hasPositiveRange(playback.start, playback.end)) {
+      pushIssue(issues, {
+        code: "zero_duration_keep_atom",
+        severity: "warn",
+        message: `keep atom ${atom.id} 无有效音频时间窗口 (${playback.start})，已跳过`,
+        atom_id: atom.id,
+      });
+      continue;
+    }
+
     if (!hasPositiveRange(atom.time.start, atom.time.end)) {
       pushIssue(issues, {
         code: "invalid_keep_atom_semantic_range",
@@ -104,16 +118,6 @@ export function validateTimingPlan(
           atom_id: atom.id,
         });
       }
-    }
-
-    const playback = atomPlaybackRange(atom, mode);
-    if (!hasPositiveRange(playback.start, playback.end)) {
-      pushIssue(issues, {
-        code: "invalid_keep_atom_playback_range",
-        severity: "error",
-        message: `keep atom ${atom.id} 的 playback range 无效 (${playback.start} - ${playback.end})`,
-        atom_id: atom.id,
-      });
     }
 
     const mapped = segmentMap.get(atom.id) ?? [];

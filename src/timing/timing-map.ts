@@ -35,6 +35,9 @@ export function buildTimingSegments(
         continue;
       }
       const playback = getAtomPlaybackRange(atom, strategy);
+      if (playback.end - playback.start <= 0) {
+        continue; // skip zero-duration atoms (e.g. last atom at exact video end)
+      }
       const atomOffset = playback.start - clip.source.start;
       segments.push({
         atom_id: atom.id,

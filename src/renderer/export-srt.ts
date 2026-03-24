@@ -44,6 +44,13 @@ export function buildSrt(
   // Sort by start time.
   entries.sort((a, b) => a.start - b.start);
 
+  // Extend each entry's end to the next entry's start, eliminating gaps.
+  for (let i = 0; i < entries.length - 1; i++) {
+    if (entries[i].end < entries[i + 1].start) {
+      entries[i].end = entries[i + 1].start;
+    }
+  }
+
   // Format as SRT.
   return entries
     .map(

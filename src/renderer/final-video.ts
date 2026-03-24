@@ -88,13 +88,14 @@ function applyNvencOverride(args: string[]): string[] {
 
 function logBrowserMessage(stage: "select" | "render") {
   return (log: { type: string; text: string }) => {
+    if (log.text.includes("__remotion_level_verbose")) return;
     const prefix = `[remotion:${stage}:${log.type}]`;
     const message = `${prefix} ${log.text}`;
     if (log.type === "error") {
       console.error(message);
       return;
     }
-    console.log(message);
+    console.warn(message);
   };
 }
 
@@ -324,7 +325,7 @@ export async function renderFinalVideo(
         }
       : {}),
     binariesDirectory: remotionBinariesDirectory,
-    dumpBrowserLogs: true,
+    dumpBrowserLogs: false,
     onBrowserLog: logBrowserMessage("render"),
     onProgress: ({ progress }) => {
       if (Math.round(progress * 100) % 10 === 0) {

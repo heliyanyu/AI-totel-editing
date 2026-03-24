@@ -25,7 +25,6 @@ export const TemplateId = z.enum([
   "number_center",
   "warning_alert",
   "term_card",
-  "image_overlay",
   "list_fade",
   "color_grid",
   "body_annotate",

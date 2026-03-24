@@ -329,14 +329,13 @@ export type LogicType =
   | "comparison"    // 对比
   | "process";      // 流程步骤
 
-/** 视觉变体 ID — 15 个模板 */
+/** 视觉变体 ID — 14 个模板 */
 export type VariantId =
   // 叙述强调 × 5
   | "hero_text"          // 全屏大字（核心结论、金句）
   | "number_center"      // 大数字居中（关键数据）
   | "warning_alert"      // 警示卡片（危害、禁忌）
   | "term_card"          // 术语卡片（名词解释）
-  | "image_overlay"      // 图片叠加文字（场景描写）
   // 列举 × 3
   | "list_fade"          // 逐条弹入列表（有序列举）
   | "color_grid"         // 多色块网格（并列分类）
@@ -354,7 +353,7 @@ export type VariantId =
 
 /** 逻辑类型 → 可用变体的映射 */
 export const LOGIC_TYPE_VARIANTS: Record<LogicType, VariantId[]> = {
-  emphasis: ["hero_text", "number_center", "warning_alert", "term_card", "image_overlay"],
+  emphasis: ["hero_text", "number_center", "warning_alert", "term_card"],
   enumeration: ["list_fade", "color_grid", "body_annotate"],
   causal_chain: ["step_arrow", "branch_path", "brick_stack"],
   comparison: ["split_column", "myth_buster", "category_table"],

@@ -64,14 +64,14 @@ export async function buildDirectTimingMap(
   const timingValidation = validateTimingPlan(effectiveBlueprint, timingMap);
   const timingValidationPath = writeTimingValidationReport(resolvedOutputDir, timingValidation);
 
-  writeFileSync(timingMapPath, JSON.stringify(timingMap, null, 2), "utf-8");
-  writeFileSync(debugPath, JSON.stringify(timingMap.clips, null, 2), "utf-8");
-
   if (hasBlockingTimingIssues(timingValidation)) {
     throw new Error(
       `timing_map 校验失败:\n${formatTimingValidationFailures(timingValidation)}`
     );
   }
+
+  writeFileSync(timingMapPath, JSON.stringify(timingMap, null, 2), "utf-8");
+  writeFileSync(debugPath, JSON.stringify(timingMap.clips, null, 2), "utf-8");
 
   return { timingMapPath, timingMap, timingValidationPath, timingValidation };
 }

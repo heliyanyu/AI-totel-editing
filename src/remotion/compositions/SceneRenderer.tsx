@@ -1,5 +1,5 @@
 /**
- * SceneRenderer — 根据 variant_id 路由到 15 个模板组件
+ * SceneRenderer — 根据 variant_id 路由到 14 个模板组件
  */
 
 import React from "react";
@@ -7,12 +7,11 @@ import { AbsoluteFill } from "remotion";
 import type { SceneProps } from "../types";
 import { BACKGROUND, SAFE_AREA } from "../design-system";
 
-// 15 个模板组件
+// 14 个模板组件
 import { HeroText } from "./templates/HeroText";
 import { NumberCenter } from "./templates/NumberCenter";
 import { WarningAlert } from "./templates/WarningAlert";
 import { TermCard } from "./templates/TermCard";
-import { ImageOverlay } from "./templates/ImageOverlay";
 import { ListFade } from "./templates/ListFade";
 import { ColorGrid } from "./templates/ColorGrid";
 import { BodyAnnotate } from "./templates/BodyAnnotate";
@@ -32,7 +31,6 @@ const VARIANT_MAP: Record<string, React.FC<SceneProps>> = {
   number_center: NumberCenter,
   warning_alert: WarningAlert,
   term_card: TermCard,
-  image_overlay: ImageOverlay,
   list_fade: ListFade,
   color_grid: ColorGrid,
   body_annotate: BodyAnnotate,

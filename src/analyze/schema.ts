@@ -22,21 +22,80 @@ const MIN_ATOM_DURATION_SEC = 0.02;
 // ══════════════════════════════════════════════════════
 
 /**
+ * 修复 JSON 字符串中未转义的双引号。
+ * 例如模型输出 "常见于"缓解鼻塞"类药物" → "常见于\"缓解鼻塞\"类药物"
+ */
+function repairUnescapedQuotes(jsonText: string): string {
+  let result = "";
+  let inString = false;
+  let i = 0;
+
+  while (i < jsonText.length) {
+    const ch = jsonText[i];
+
+    if (!inString) {
+      result += ch;
+      if (ch === '"') inString = true;
+      i++;
+      continue;
+    }
+
+    // Inside a string
+    if (ch === "\\") {
+      // Proper escape sequence — copy both chars as-is
+      result += ch + (jsonText[i + 1] ?? "");
+      i += 2;
+      continue;
+    }
+
+    if (ch === '"') {
+      // Determine whether this quote ends the string or is an internal bare quote.
+      // A legitimate closing quote is followed by JSON structural characters.
+      const after = jsonText.slice(i + 1).trimStart();
+      const isClosing = after.length === 0 || /^[,\]\}:]/.test(after);
+      if (isClosing) {
+        result += '"';
+        inString = false;
+      } else {
+        result += '\\"';
+      }
+      i++;
+      continue;
+    }
+
+    result += ch;
+    i++;
+  }
+
+  return result;
+}
+
+/**
  * 从 LLM 返回的文本中提取 JSON
- * 支持 ```json...``` 包裹和裸 JSON
+ * 支持 ```json...``` 包裹和裸 JSON，失败时尝试自动修复未转义引号
  */
 export function extractJson(text: string): unknown {
   // 尝试 ```json ... ```
   const fenced = text.match(/```(?:json)?\s*([\s\S]*?)```/);
   if (fenced) {
-    return JSON.parse(fenced[1].trim());
+    const raw = fenced[1].trim();
+    try {
+      return JSON.parse(raw);
+    } catch {
+      return JSON.parse(repairUnescapedQuotes(raw));
+    }
   }
 
   // 尝试裸 JSON（找第一个 { 到最后一个 }）
   const start = text.indexOf("{");
   const end = text.lastIndexOf("}");
   if (start !== -1 && end !== -1 && end > start) {
-    return JSON.parse(text.substring(start, end + 1));
+    const raw = text.substring(start, end + 1);
+    try {
+      return JSON.parse(raw);
+    } catch {
+      return JSON.parse(repairUnescapedQuotes(raw));
+    }
   }
 
   throw new Error("无法从 LLM 响应中提取 JSON");

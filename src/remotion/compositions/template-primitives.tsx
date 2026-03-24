@@ -193,17 +193,19 @@ export const TemplateHeader: React.FC<TemplateHeaderProps> = ({
         }}
       >
         {eyebrow ? <EyebrowPill label={eyebrow} tone={tone ?? meta.tone} /> : null}
-        <div
-          style={{
-            fontFamily: FONT_FAMILY.sans,
-            fontSize: TYPOGRAPHY.caption.fontSize - 10,
-            fontWeight: 700,
-            color: withAlpha("#0F172A", 0.52),
-            letterSpacing: 1.2,
-          }}
-        >
-          {meta.topicLabel}
-        </div>
+        {meta.topicLabel && meta.topicLabel !== (title ?? scene.title) && (
+          <div
+            style={{
+              fontFamily: FONT_FAMILY.sans,
+              fontSize: TYPOGRAPHY.caption.fontSize - 10,
+              fontWeight: 700,
+              color: withAlpha("#0F172A", 0.52),
+              letterSpacing: 1.2,
+            }}
+          >
+            {meta.topicLabel}
+          </div>
+        )}
       </div>
 
       {(title ?? scene.title) && (

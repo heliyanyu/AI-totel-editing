@@ -1,10 +1,8 @@
 /**
  * NavigationMap 导览图叠层 v3
  *
- * 动画升级：
- * - 容器：slideUp heavy spring（从 60px 下方升入）
- * - 标题 "内容导览"：blurIn smooth spring
- * - 节点 stagger 入场：slideUp + blurIn，每节点间隔 6 帧
+ * 动画：
+ * - 节点 stagger 入场：slideUp，每节点间隔 8 帧，从下往上依次出现
  * - 连接线：height spring 动画，跟随上方节点
  * - 活跃节点：pulseGlowShadow 呼吸发光 + sin 波微缩放
  * - 已完成节点：SVG 勾号 stroke-dashoffset 描绘动画 + 完成闪光
@@ -36,9 +34,7 @@ import type {
 } from "../../compose/visual-planner";
 import {
   slideUp,
-  blurIn,
   stagger,
-  mergeStyles,
   SPRING_PRESETS,
 } from "../animations/index";
 import { pulseGlowShadow } from "../animations/compose";
@@ -137,8 +133,8 @@ const ConnectorLine: React.FC<{
 // ========== NavNodeCard ==========
 
 /**
- * Individual navigation node card with v3 animations:
- * - Stagger entrance: slideUp + blurIn, 6 frames apart
+ * Individual navigation node card:
+ * - Stagger entrance: slideUp, 8 frames apart
  * - Active: glow pulse breathing + scale breathing via sin wave
  * - Completed: animated SVG checkmark + subtle completion flash
  * - Pending: opacity 0.6
@@ -164,11 +160,9 @@ const NavNodeCard: React.FC<{
   toneColor,
   exitStyle,
 }) => {
-  // ---- Stagger entrance: slideUp + blurIn, 6 frames apart ----
-  const delay = stagger(staggerIdx, 6);
-  const entrySlide = slideUp(frame, delay, fps, "snappy", 40);
-  const entryBlur = blurIn(frame, delay, fps, "smooth");
-  const entryMerged = mergeStyles(entrySlide, entryBlur);
+  // ---- Stagger entrance: slideUp, 8 frames apart ----
+  const delay = stagger(staggerIdx, 8);
+  const entrySlide = slideUp(frame, delay, fps, "enter", 40);
 
   // ---- Active node animations ----
   let activeScale = 1;
@@ -208,11 +202,11 @@ const NavNodeCard: React.FC<{
 
   // ---- Build final opacity ----
   const combinedOpacity =
-    entryMerged.opacity * exitStyle.opacity * pendingDim * completionFlash;
+    entrySlide.opacity * exitStyle.opacity * pendingDim * completionFlash;
 
   // ---- Build final transform ----
   const transforms: string[] = [];
-  if (entryMerged.transform) transforms.push(entryMerged.transform);
+  if (entrySlide.transform) transforms.push(entrySlide.transform);
   if (exitStyle.transform) transforms.push(exitStyle.transform);
   if (activeScale !== 1) transforms.push(`scale(${activeScale})`);
   const finalTransform =
@@ -220,7 +214,6 @@ const NavNodeCard: React.FC<{
 
   // ---- Build final filter ----
   const filters: string[] = [];
-  if (entryMerged.filter) filters.push(entryMerged.filter);
   if (exitStyle.filter) filters.push(exitStyle.filter);
   const finalFilter = filters.length > 0 ? filters.join(" ") : undefined;
 
@@ -347,9 +340,6 @@ export const NavigationMap: React.FC<NavigationMapProps> = ({
 
   const totalFrames = Math.max(1, appearance.endFrame - appearance.startFrame);
 
-  // ---- Container entrance: slideUp with heavy spring (60px) ----
-  const containerEntry = slideUp(frame, 0, fps, "heavy", 60);
-
   // ---- Exit handling ----
   let exitStyle = { opacity: 1 } as {
     opacity: number;
@@ -372,12 +362,6 @@ export const NavigationMap: React.FC<NavigationMapProps> = ({
     exitStyle = { opacity: exitOpacity };
   }
 
-  // Merge container entry + exit
-  const containerStyle = mergeStyles(containerEntry, exitStyle);
-
-  // ---- Title: blurIn with smooth spring ----
-  const titleStyle = blurIn(frame, 0, fps, "smooth");
-  const titleMerged = mergeStyles(titleStyle, exitStyle);
 
   return (
     <AbsoluteFill
@@ -398,17 +382,14 @@ export const NavigationMap: React.FC<NavigationMapProps> = ({
           gap: 0,
           width: "80%",
           maxWidth: 800,
-          opacity: containerStyle.opacity,
-          transform: containerStyle.transform,
-          filter: containerStyle.filter,
+          opacity: exitStyle.opacity,
         }}
       >
         {/* 导览图标题 */}
         <div
           style={{
             marginBottom: 32,
-            opacity: titleMerged.opacity * 0.7,
-            filter: titleMerged.filter,
+            opacity: exitStyle.opacity * 0.7,
           }}
         >
           <span

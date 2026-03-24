@@ -20,7 +20,6 @@ const TEMPLATE_RULES: Record<string, TemplateRule> = {
   number_center: { exact: 1, requiredProps: ["context", "unit"], preferredView: "graphics" },
   warning_alert: { min: 1, max: 2, preferredView: "graphics" },
   term_card: { exact: 2, preferredView: "graphics" },
-  image_overlay: { min: 1, max: 2, preferredView: "overlay" },
   list_fade: { min: 2, max: 6, preferredView: "graphics" },
   color_grid: { min: 2, max: 4, preferredView: "graphics" },
   body_annotate: { min: 2, max: 5, preferredView: "graphics" },
