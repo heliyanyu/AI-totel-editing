@@ -18,11 +18,18 @@ export interface AutoPipelineProps {
   blueprint: Blueprint;
   /** 输出时间映射 */
   timingMap: TimingMap;
+  /** Layer visibility toggles for split rendering */
+  showContent?: boolean;
+  showNavigation?: boolean;
+  showProgressBar?: boolean;
 }
 
 export const AutoPipeline: React.FC<AutoPipelineProps> = ({
   blueprint,
   timingMap,
+  showContent = true,
+  showNavigation = true,
+  showProgressBar = true,
 }) => {
   const { fps, durationInFrames: totalFrames } = useVideoConfig();
   const renderInfos = segmentsToRenderScenes(blueprint, timingMap);
@@ -36,7 +43,12 @@ export const AutoPipeline: React.FC<AutoPipelineProps> = ({
 
   return (
     <AbsoluteFill>
-      <FullVideo visualPlan={visualPlan} />
+      <FullVideo
+        visualPlan={visualPlan}
+        showContent={showContent}
+        showNavigation={showNavigation}
+        showProgressBar={showProgressBar}
+      />
     </AbsoluteFill>
   );
 };
