@@ -256,8 +256,13 @@ export function buildTimingClips(
   const buffers = getPlannerBuffers(mode);
   let outputOffset = 0;
 
-  for (let index = 0; index < windows.length; index++) {
-    const window = windows[index];
+  // Filter out windows with zero/near-zero content duration — these atoms have
+  // no meaningful audio and would produce clips that fail validation.
+  const EPSILON = 0.001;
+  const validWindows = windows.filter((w) => w.end - w.start > EPSILON);
+
+  for (let index = 0; index < validWindows.length; index++) {
+    const window = validWindows[index];
 
     let sourceStart =
       mode === "source_direct"
@@ -268,7 +273,7 @@ export function buildTimingClips(
       index > 0 &&
       (buffers.before > 0 || buffers.after > 0)
     ) {
-      const prev = windows[index - 1];
+      const prev = validWindows[index - 1];
       const gap = window.start - prev.end;
       if (gap < buffers.before + buffers.after) {
         sourceStart = prev.end + gap / 2;
@@ -278,10 +283,10 @@ export function buildTimingClips(
     let sourceEnd = Math.min(totalDuration, window.end + buffers.after);
     if (
       mode !== "source_direct" &&
-      index < windows.length - 1 &&
+      index < validWindows.length - 1 &&
       (buffers.before > 0 || buffers.after > 0)
     ) {
-      const next = windows[index + 1];
+      const next = validWindows[index + 1];
       const gap = next.start - window.end;
       if (gap < buffers.before + buffers.after) {
         sourceEnd = window.end + gap / 2;
@@ -298,7 +303,7 @@ export function buildTimingClips(
     }
 
     if (mode === "source_direct") {
-      const next = windows[index + 1];
+      const next = validWindows[index + 1];
       const nextKeepGap = next ? next.start - window.end : Number.POSITIVE_INFINITY;
       const endsSentenceLikeUnit =
         !next || nextKeepGap > DIRECT_SENTENCE_BREAK_GAP_SEC;

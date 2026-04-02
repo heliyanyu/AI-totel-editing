@@ -14,7 +14,6 @@ import {
   readFileSync,
   writeFileSync,
 } from "fs";
-import { createServer } from "net";
 import { basename, dirname, extname, resolve } from "path";
 import { VIDEO_FPS } from "../remotion/utils.js";
 import type { Blueprint, TimingMap } from "../schemas/blueprint.js";
@@ -99,27 +98,6 @@ function logBrowserMessage(stage: "select" | "render") {
   };
 }
 
-async function resolveRemotionPort(preferredPort = 3011): Promise<number | null> {
-  const tryPort = (port: number) =>
-    new Promise<boolean>((resolvePromise) => {
-      const server = createServer();
-      server.unref();
-      server.once("error", () => {
-        resolvePromise(false);
-      });
-      server.listen(port, "127.0.0.1", () => {
-        server.close(() => resolvePromise(true));
-      });
-    });
-
-  for (let port = preferredPort; port < preferredPort + 20; port++) {
-    if (await tryPort(port)) {
-      return port;
-    }
-  }
-
-  return null;
-}
 
 function copyOrLinkFile(sourcePath: string, destPath: string): void {
   if (resolve(sourcePath).toLowerCase() === resolve(destPath).toLowerCase()) {
@@ -271,15 +249,10 @@ export async function renderFinalVideo(
     ? prepareRemotionBinariesWithSystemFfmpeg()
     : null;
   const useNvenc = wantsNvenc && Boolean(remotionBinariesDirectory);
-  const remotionPort = await resolveRemotionPort(3011);
   if (useNvenc) {
     console.log(`  overlay 编码: 使用 ${hardwareEncoder}`);
   } else if (codec === "h264") {
     console.log("  overlay 编码: 未检测到可用的 H.264 硬件编码器，回退到 libx264");
-  }
-
-  if (remotionPort !== null) {
-    console.log(`  Remotion port: ${remotionPort}`);
   }
 
   const inputProps = {
@@ -290,7 +263,7 @@ export async function renderFinalVideo(
 
   const composition = await selectComposition({
     serveUrl: bundleLocation,
-    port: remotionPort,
+    port: undefined,
     id: "AutoPipeline",
     inputProps,
     onBrowserLog: logBrowserMessage("select"),
@@ -303,7 +276,7 @@ export async function renderFinalVideo(
       durationInFrames: totalDurationFrames,
     },
     serveUrl: bundleLocation,
-    port: remotionPort,
+    port: undefined,
     codec,
     outputLocation: resolvedOutput,
     inputProps,
@@ -327,14 +300,10 @@ export async function renderFinalVideo(
     binariesDirectory: remotionBinariesDirectory,
     dumpBrowserLogs: false,
     onBrowserLog: logBrowserMessage("render"),
-    onProgress: ({ progress }) => {
-      if (Math.round(progress * 100) % 10 === 0) {
-        process.stdout.write(`\r  渲染进度: ${Math.round(progress * 100)}%`);
-      }
-    },
+    onProgress: undefined,
   });
 
-  console.log(`\n  渲染完成: ${resolvedOutput}`);
+  console.log(`  render done: ${resolvedOutput}`);
 
   const renderOutputsPath = resolve(dirname(resolvedOutput), "render_outputs.json");
   const artifacts: RenderArtifacts = {

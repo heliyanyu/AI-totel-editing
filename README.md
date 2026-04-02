@@ -48,9 +48,8 @@ Current focus of the project:
 - case03 downstream alignment and timing quality
 
 Analyze-stage LLM defaults:
-- `review`, `step1`, `take-pass`, `step2` now default to `gemini-3.1-pro-preview`
-- default Gemini OpenAI-compatible endpoint: `https://generativelanguage.googleapis.com/v1beta/openai`
-- preferred env var: `GEMINI_API_KEY`
+- `review`, `step1`, `take-pass`, `step2` now default to `claude-sonnet-4-6` via Anthropic API
+- preferred env var: `ANTHROPIC_API_KEY`
 
 Qwen3-ASR integration:
 - standalone:

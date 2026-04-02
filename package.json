@@ -5,17 +5,18 @@
   "type": "module",
   "scripts": {
     "typecheck": "tsc --noEmit",
-    "analyze": "npx tsx src/analyze/index.ts",
+    "analyze": "npx tsx --env-file=.env src/analyze/index.ts",
     "transcribe:qwen": "python scripts/transcribe-qwen.py",
     "force-align:qwen": "python scripts/force-align-qwen.py",
-    "report:pipeline": "npx tsx scripts/visualize-pipeline-report.ts",
-    "timing:direct": "npx tsx src/timing/build-direct-timing-map.ts",
-    "render": "npx tsx src/renderer/render.ts",
+    "report:pipeline": "npx tsx --env-file=.env scripts/visualize-pipeline-report.ts",
+    "timing:direct": "npx tsx --env-file=.env src/timing/build-direct-timing-map.ts",
+    "render": "npx tsx --env-file=.env src/renderer/render.ts",
+    "render:landscape": "npx tsx --env-file=.env src/renderer/render-landscape.ts",
     "remotion:preview": "npx remotion preview src/remotion/index.ts",
-    "rebuild:output": "npx tsx scripts/rebuild-output-from-blueprint.ts",
+    "rebuild:output": "npx tsx --env-file=.env scripts/rebuild-output-from-blueprint.ts",
     "editor:dev": "vite app",
     "editor:build": "vite build app",
-    "editor:serve": "npx tsx server.ts"
+    "editor:serve": "npx tsx --env-file=.env server.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.78.0",

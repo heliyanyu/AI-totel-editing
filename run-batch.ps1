@@ -1,7 +1,7 @@
 [CmdletBinding()]
 param(
     [string]$RootPath = "",
-    [string]$RootPattern = 'P:\*\*\AIkaifa\AI total editing\260325',
+    [string]$RootPattern = 'P:\*\*\AIkaifa\AI total editing\260402',
     [string]$ProjectRoot = $PSScriptRoot
 )
 
@@ -48,7 +48,7 @@ function Invoke-CheckedStep {
     )
 
     Write-Host ("  -> {0}..." -f $Name) -ForegroundColor Gray
-    & $Command @Arguments
+    & $Command @Arguments | Out-Host
 
     if ($LASTEXITCODE -ne 0) {
         Write-Host ("  [FAIL] {0}" -f $FailureMessage) -ForegroundColor Red

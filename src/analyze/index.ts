@@ -316,7 +316,14 @@ function getAnthropicClient(options: {
     throw new Error("缺少 ANTHROPIC_API_KEY。");
   }
 
-  options.clients.anthropic = new Anthropic({ apiKey });
+  const baseURL = getEnvVar("ANTHROPIC_BASE_URL");
+  const proxyURL = baseURL ? normalizeBaseUrl(baseURL) : undefined;
+  options.clients.anthropic = new Anthropic({
+    apiKey,
+    ...(proxyURL
+      ? { fetch: ((_url: RequestInfo | URL, init?: RequestInit) => globalThis.fetch(proxyURL, init)) as typeof globalThis.fetch }
+      : {}),
+  });
   return options.clients.anthropic;
 }
 
