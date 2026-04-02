@@ -8,6 +8,11 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 
+# Force UTF-8 so Node.js Chinese output displays correctly
+[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+$OutputEncoding = [System.Text.Encoding]::UTF8
+chcp 65001 | Out-Null
+
 $env:HF_HUB_OFFLINE = "1"
 
 function Resolve-SinglePath {
@@ -211,6 +216,16 @@ try {
             Write-Host "  [FAIL] overlay.mp4 missing" -ForegroundColor Red
             $failedCount++
             continue
+        }
+
+        # Generate JianYing draft
+        $draftArgs = @(
+            "scripts/generate-jianying-draft.py",
+            $out
+        )
+
+        if (-not (Invoke-CheckedStep -Name "jianying draft" -Command "F:/miniconda3/envs/agent/python.exe" -Arguments $draftArgs -FailureMessage "jianying draft failed (non-fatal)")) {
+            Write-Host "  [WARN] jianying draft skipped" -ForegroundColor Yellow
         }
 
         Write-Host "  [DONE]" -ForegroundColor Green
