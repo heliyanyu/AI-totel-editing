@@ -1,13 +1,7 @@
 /**
- * NavigationMap 导览图叠层 v3
+ * NavigationMap 导览图叠层 v4
  *
- * 动画：
- * - 节点 stagger 入场：slideUp，每节点间隔 8 帧，从下往上依次出现
- * - 连接线：height spring 动画，跟随上方节点
- * - 活跃节点：pulseGlowShadow 呼吸发光 + sin 波微缩放
- * - 已完成节点：SVG 勾号 stroke-dashoffset 描绘动画 + 完成闪光
- * - 待定节点：opacity 0.6，无动画
- * - Flash 退出：smooth interpolate 淡出
+ * 简化动画：整体瞬间出现，快速淡出消失
  */
 
 import React from "react";
@@ -15,7 +9,6 @@ import {
   useCurrentFrame,
   useVideoConfig,
   interpolate,
-  spring,
   Easing,
 } from "remotion";
 import { AbsoluteFill } from "remotion";
@@ -32,12 +25,6 @@ import type {
   VisualNavAppearance,
   VisualTopicNode,
 } from "../../compose/visual-planner";
-import {
-  slideUp,
-  stagger,
-  SPRING_PRESETS,
-} from "../animations/index";
-import { pulseGlowShadow } from "../animations/compose";
 
 // ========== AnimatedCheckmark sub-component ==========
 
@@ -93,37 +80,18 @@ const AnimatedCheckmark: React.FC<{
  */
 const ConnectorLine: React.FC<{
   isCompleted: boolean;
-  frame: number;
-  fps: number;
-  staggerIdx: number;
   exitStyle: { opacity: number; transform?: string; filter?: string };
-}> = ({ isCompleted, frame, fps, staggerIdx, exitStyle }) => {
-  const nodeDelay = stagger(staggerIdx, 6);
-  const connectorDelay = nodeDelay + 3;
-
-  const heightProgress = spring({
-    frame: frame - connectorDelay,
-    fps,
-    config: SPRING_PRESETS.snappy,
-    durationInFrames: 15,
-  });
-
-  const animatedHeight = interpolate(heightProgress, [0, 1], [0, 24]);
-  const lineOpacity = interpolate(heightProgress, [0, 0.3], [0, 1], {
-    extrapolateLeft: "clamp",
-    extrapolateRight: "clamp",
-  });
-
+}> = ({ isCompleted, exitStyle }) => {
   return (
     <div
       style={{
         width: 4,
-        height: animatedHeight,
+        height: 24,
         borderRadius: 2,
         background: isCompleted
           ? SEMANTIC_COLORS.positive
           : withAlpha("#0F172A", 0.15),
-        opacity: lineOpacity * exitStyle.opacity,
+        opacity: exitStyle.opacity,
         overflow: "hidden",
       }}
     />
@@ -160,62 +128,23 @@ const NavNodeCard: React.FC<{
   toneColor,
   exitStyle,
 }) => {
-  // ---- Stagger entrance: slideUp, 8 frames apart ----
-  const delay = stagger(staggerIdx, 8);
-  const entrySlide = slideUp(frame, delay, fps, "enter", 40);
+  // ---- No per-card entrance animation: appear instantly ----
 
-  // ---- Active node animations ----
-  let activeScale = 1;
+  // ---- Active node: static highlight, no pulse/glow ----
   let activeGlow: string | undefined;
-
   if (isActive) {
-    const periodMs = 1200;
-    const periodFrames = (periodMs / 1000) * fps;
-    const phase = (frame % periodFrames) / periodFrames;
-    activeScale = 1 + 0.03 * Math.sin(phase * Math.PI * 2);
-
-    activeGlow = pulseGlowShadow(
-      frame,
-      fps,
-      toneColor,
-      1200,
-      28,
-      10,
-    );
-  }
-
-  // ---- Completed node: subtle flash on completion ----
-  let completionFlash = 1;
-  if (isCompleted) {
-    const flashStart = delay;
-    const elapsed = frame - flashStart;
-    if (elapsed >= 0 && elapsed < 14) {
-      completionFlash = interpolate(elapsed, [0, 3, 14], [1, 1.4, 1], {
-        extrapolateLeft: "clamp",
-        extrapolateRight: "clamp",
-      });
-    }
+    activeGlow = `0 0 16px 4px ${withAlpha(toneColor, 0.35)}`;
   }
 
   // ---- Pending node: dimmed but still legible ----
   const pendingDim = isPending ? 0.6 : 1;
 
   // ---- Build final opacity ----
-  const combinedOpacity =
-    entrySlide.opacity * exitStyle.opacity * pendingDim * completionFlash;
+  const combinedOpacity = exitStyle.opacity * pendingDim;
 
   // ---- Build final transform ----
-  const transforms: string[] = [];
-  if (entrySlide.transform) transforms.push(entrySlide.transform);
-  if (exitStyle.transform) transforms.push(exitStyle.transform);
-  if (activeScale !== 1) transforms.push(`scale(${activeScale})`);
-  const finalTransform =
-    transforms.length > 0 ? transforms.join(" ") : undefined;
-
-  // ---- Build final filter ----
-  const filters: string[] = [];
-  if (exitStyle.filter) filters.push(exitStyle.filter);
-  const finalFilter = filters.length > 0 ? filters.join(" ") : undefined;
+  const finalTransform = exitStyle.transform;
+  const finalFilter = exitStyle.filter;
 
   // ---- Card style by state ----
   const navCardBase: React.CSSProperties = {
@@ -247,8 +176,6 @@ const NavNodeCard: React.FC<{
       borderColor: withAlpha("#0F172A", 0.1),
     };
   }
-
-  const checkmarkStartFrame = delay + 8;
 
   return (
     <div
@@ -285,7 +212,7 @@ const NavNodeCard: React.FC<{
         {isCompleted ? (
           <AnimatedCheckmark
             frame={frame}
-            startFrame={checkmarkStartFrame}
+            startFrame={0}
             color="#FFFFFF"
             size={22}
           />
@@ -347,20 +274,19 @@ export const NavigationMap: React.FC<NavigationMapProps> = ({
     filter?: string;
   };
 
-  if (appearance.type === "flash") {
-    const fadeOutStart = totalFrames - Math.round(0.4 * fps);
-    const exitOpacity = interpolate(
-      frame,
-      [fadeOutStart, totalFrames],
-      [1, 0],
-      {
-        extrapolateLeft: "clamp",
-        extrapolateRight: "clamp",
-        easing: Easing.inOut(Easing.quad),
-      },
-    );
-    exitStyle = { opacity: exitOpacity };
-  }
+  // Simple fade out in the last few frames
+  const fadeFrames = Math.min(Math.round(0.2 * fps), totalFrames);
+  const fadeOutStart = totalFrames - fadeFrames;
+  const exitOpacity = interpolate(
+    frame,
+    [fadeOutStart, totalFrames],
+    [1, 0],
+    {
+      extrapolateLeft: "clamp",
+      extrapolateRight: "clamp",
+    },
+  );
+  exitStyle = { opacity: exitOpacity };
 
 
   return (
@@ -427,9 +353,6 @@ export const NavigationMap: React.FC<NavigationMapProps> = ({
               {idx < nodes.length - 1 && (
                 <ConnectorLine
                   isCompleted={isCompleted}
-                  frame={frame}
-                  fps={fps}
-                  staggerIdx={idx}
                   exitStyle={exitStyle}
                 />
               )}

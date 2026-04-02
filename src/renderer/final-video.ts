@@ -255,55 +255,91 @@ export async function renderFinalVideo(
     console.log("  overlay 编码: 未检测到可用的 H.264 硬件编码器，回退到 libx264");
   }
 
-  const inputProps = {
-    blueprint,
-    timingMap,
-    durationInFrames: totalDurationFrames,
-  };
-
-  const composition = await selectComposition({
-    serveUrl: bundleLocation,
-    port: undefined,
-    id: "AutoPipeline",
-    inputProps,
-    onBrowserLog: logBrowserMessage("select"),
-  });
-
-  console.log(`  开始渲染 overlay layer (codec: ${codec})...`);
-  await renderMedia({
-    composition: {
-      ...composition,
-      durationInFrames: totalDurationFrames,
+  const outputDir = dirname(resolvedOutput);
+  const layers: {
+    name: string;
+    output: string;
+    props: Record<string, boolean>;
+    transparent?: boolean;
+  }[] = [
+    {
+      name: "overlay",
+      output: resolvedOutput,
+      props: { showContent: true, showNavigation: false, showProgressBar: false },
     },
-    serveUrl: bundleLocation,
-    port: undefined,
-    codec,
-    outputLocation: resolvedOutput,
-    inputProps,
-    concurrency: resolvedConcurrency,
-    ffmpegOverride: useNvenc
-      ? ({ type, args }) => {
-          if (type !== "pre-stitcher" && type !== "stitcher") {
-            return args;
-          }
-          return applyNvencOverride(args);
-        }
-      : undefined,
-    muted: true,
-    ...(codec === "prores"
-      ? {
-          imageFormat: "png" as const,
-          pixelFormat: "yuva444p10le" as const,
-          proResProfile: "4444" as const,
-        }
-      : {}),
-    binariesDirectory: remotionBinariesDirectory,
-    dumpBrowserLogs: false,
-    onBrowserLog: logBrowserMessage("render"),
-    onProgress: undefined,
-  });
+    {
+      name: "progress_bar",
+      output: resolve(outputDir, "overlay_progress_bar.mov"),
+      props: { showContent: false, showNavigation: false, showProgressBar: true },
+      transparent: true,
+    },
+    {
+      name: "navigation",
+      output: resolve(outputDir, "overlay_navigation.mov"),
+      props: { showContent: false, showNavigation: true, showProgressBar: false },
+      transparent: true,
+    },
+  ];
 
-  console.log(`  render done: ${resolvedOutput}`);
+  for (const layer of layers) {
+    const inputProps = {
+      blueprint,
+      timingMap,
+      durationInFrames: totalDurationFrames,
+      ...layer.props,
+    };
+
+    const composition = await selectComposition({
+      serveUrl: bundleLocation,
+      port: undefined,
+      id: "AutoPipeline",
+      inputProps,
+      onBrowserLog: logBrowserMessage("select"),
+    });
+
+    const layerCodec = layer.transparent ? ("prores" as const) : codec;
+
+    console.log(`  rendering ${layer.name} (${layerCodec})...`);
+    await renderMedia({
+      composition: {
+        ...composition,
+        durationInFrames: totalDurationFrames,
+      },
+      serveUrl: bundleLocation,
+      port: undefined,
+      codec: layerCodec,
+      outputLocation: layer.output,
+      inputProps,
+      concurrency: resolvedConcurrency,
+      ffmpegOverride: !layer.transparent && useNvenc
+        ? ({ type, args }) => {
+            if (type !== "pre-stitcher" && type !== "stitcher") {
+              return args;
+            }
+            return applyNvencOverride(args);
+          }
+        : undefined,
+      muted: true,
+      ...(layer.transparent
+        ? {
+            imageFormat: "png" as const,
+            pixelFormat: "yuva444p10le" as const,
+            proResProfile: "4444" as const,
+          }
+        : layerCodec === "prores"
+          ? {
+              imageFormat: "png" as const,
+              pixelFormat: "yuva444p10le" as const,
+              proResProfile: "4444" as const,
+            }
+          : {}),
+      binariesDirectory: remotionBinariesDirectory,
+      dumpBrowserLogs: false,
+      onBrowserLog: logBrowserMessage("render"),
+      onProgress: undefined,
+    });
+    console.log(`  ${layer.name} done: ${layer.output}`);
+  }
 
   const renderOutputsPath = resolve(dirname(resolvedOutput), "render_outputs.json");
   const artifacts: RenderArtifacts = {

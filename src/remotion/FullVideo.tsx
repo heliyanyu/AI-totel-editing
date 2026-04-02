@@ -16,6 +16,9 @@ import type { VisualPlan } from "../compose/visual-planner";
 
 export interface FullVideoProps {
   visualPlan: VisualPlan;
+  showContent?: boolean;
+  showNavigation?: boolean;
+  showProgressBar?: boolean;
 }
 
 const TRANSITION_FRAMES = 18;
@@ -47,7 +50,12 @@ function getTransitionPresentation(
   }
 }
 
-export const FullVideo: React.FC<FullVideoProps> = ({ visualPlan }) => {
+export const FullVideo: React.FC<FullVideoProps> = ({
+  visualPlan,
+  showContent = true,
+  showNavigation = true,
+  showProgressBar = true,
+}) => {
   const { durationInFrames: totalFrames } = useVideoConfig();
 
   const segments = useMemo(
@@ -144,21 +152,24 @@ export const FullVideo: React.FC<FullVideoProps> = ({ visualPlan }) => {
   };
 
   return (
-    <AbsoluteFill style={{ background: BACKGROUND.canvas }}>
-      <TransitionSeries>{buildChildren()}</TransitionSeries>
+    <AbsoluteFill style={{ background: showContent ? BACKGROUND.canvas : "transparent" }}>
+      {showContent && <TransitionSeries>{buildChildren()}</TransitionSeries>}
 
-      {visualPlan.topicAppearances.map((appearance, index) => (
-        <Sequence
-          key={`nav-${index}`}
-          from={appearance.startFrame}
-          durationInFrames={appearance.endFrame - appearance.startFrame}
-          name={`Nav: ${appearance.activeNode}`}
-        >
-          <NavigationMap appearance={appearance} nodes={visualPlan.topicNodes} />
-        </Sequence>
-      ))}
+      {showNavigation &&
+        visualPlan.topicAppearances.map((appearance, index) => (
+          <Sequence
+            key={`nav-${index}`}
+            from={appearance.startFrame}
+            durationInFrames={appearance.endFrame - appearance.startFrame}
+            name={`Nav: ${appearance.activeNode}`}
+          >
+            <NavigationMap appearance={appearance} nodes={visualPlan.topicNodes} />
+          </Sequence>
+        ))}
 
-      <TopProgressBar segments={segments} nodes={visualPlan.topicNodes} />
+      {showProgressBar && (
+        <TopProgressBar segments={segments} nodes={visualPlan.topicNodes} />
+      )}
     </AbsoluteFill>
   );
 };

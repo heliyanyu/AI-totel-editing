@@ -213,6 +213,26 @@ try {
             continue
         }
 
+        # Split overlay into per-scene clips
+        $splitArgs = @(
+            "scripts/split-overlay-by-scene.py",
+            $out
+        )
+
+        if (-not (Invoke-CheckedStep -Name "split overlay" -Command "F:/miniconda3/envs/agent/python.exe" -Arguments $splitArgs -FailureMessage "split overlay failed (non-fatal)")) {
+            Write-Host "  [WARN] overlay split skipped" -ForegroundColor Yellow
+        }
+
+        # Generate JianYing draft
+        $draftArgs = @(
+            "scripts/generate-jianying-draft.py",
+            $out
+        )
+
+        if (-not (Invoke-CheckedStep -Name "jianying draft" -Command "F:/miniconda3/envs/agent/python.exe" -Arguments $draftArgs -FailureMessage "jianying draft failed (non-fatal)")) {
+            Write-Host "  [WARN] jianying draft skipped" -ForegroundColor Yellow
+        }
+
         Write-Host "  [DONE]" -ForegroundColor Green
         $completedCount++
     }
