@@ -1,5 +1,9 @@
 export const DEFAULT_ANTHROPIC_MODEL = "claude-opus-4-6";
 export const DEFAULT_ANTHROPIC_SONNET_MODEL = "claude-sonnet-4-6";
+export const DEFAULT_DEEPSEEK_MODEL = "deepseek-chat";
+export const DEFAULT_DEEPSEEK_BASE_URL = "https://api.deepseek.com/v1";
+export const DEFAULT_QWEN_MODEL = "qwen3.6-plus";
+export const DEFAULT_QWEN_BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1";
 export const DEFAULT_SEED_MODEL = "doubao-seed-2-0-pro-260215";
 export const DEFAULT_GEMINI_MODEL = "gemini-3.1-pro-preview";
 export const DEFAULT_OPENAI_COMPATIBLE_BASE_URL =

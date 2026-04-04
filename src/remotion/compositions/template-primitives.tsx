@@ -91,8 +91,7 @@ export const TemplateStage: React.FC<TemplateStageProps> = ({
 }) => {
   const meta = getPlannerMeta(scene);
   const alignItems = "center" as const;
-  const justifyContent =
-    vertical ?? (meta.layout === "spotlight" || meta.layout === "overlay_center" ? "center" : "flex-start");
+  const justifyContent = vertical ?? "flex-start";
   const topPadding =
     justifyContent === "center"
       ? SAFE_AREA.top

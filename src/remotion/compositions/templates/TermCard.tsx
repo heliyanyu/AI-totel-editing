@@ -15,6 +15,8 @@ import {
 import { slideUpIn, slideDownOut, fadeIn, mergeStyles } from "../../animations/index";
 import { msToFrame } from "../../utils";
 import { pulseGlowShadow } from "../../animations/compose";
+import { VISUAL_SHELL } from "../../visual-language";
+import { getPlannerMeta } from "../template-primitives";
 
 export const TermCard: React.FC<SceneProps> = ({ scene }) => {
   const frame = useCurrentFrame();
@@ -57,12 +59,16 @@ export const TermCard: React.FC<SceneProps> = ({ scene }) => {
 
   const glow = pulseGlowShadow(frame, fps, SEMANTIC_COLORS.info, 1500, 16, 4);
 
+  const meta = getPlannerMeta(scene);
+  const topPad = meta.isOverlay ? SAFE_AREA.top + VISUAL_SHELL.overlayTopOffset : SAFE_AREA.top;
+  const bottomPad = meta.isOverlay ? Math.max(160, SAFE_AREA.bottom - VISUAL_SHELL.overlayBottomInset) : SAFE_AREA.bottom;
+
   return (
     <AbsoluteFill
       style={{
-        padding: `${SAFE_AREA.top}px ${SAFE_AREA.horizontal}px ${SAFE_AREA.bottom}px`,
+        padding: `${topPad}px ${SAFE_AREA.horizontal}px ${bottomPad}px`,
         display: "flex",
-        justifyContent: "center",
+        justifyContent: "flex-start",
         alignItems: "center",
       }}
     >

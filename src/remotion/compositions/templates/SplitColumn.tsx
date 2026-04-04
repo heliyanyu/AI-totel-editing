@@ -41,7 +41,7 @@ export const SplitColumn: React.FC<SceneProps> = ({ scene }) => {
     <TemplateStage
       scene={scene}
       maxWidth={meta.isOverlay ? 640 : 860}
-      vertical={meta.isOverlay ? "top" : "center"}
+      vertical="top"
     >
       <div
         style={{

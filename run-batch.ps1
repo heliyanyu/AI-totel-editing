@@ -1,7 +1,7 @@
 [CmdletBinding()]
 param(
     [string]$RootPath = "",
-    [string]$RootPattern = 'P:\*\*\AIkaifa\AI total editing\260402',
+    [string]$RootPattern = 'P:\*\*\AIkaifa\AI total editing\260403',
     [string]$ProjectRoot = $PSScriptRoot
 )
 
@@ -48,9 +48,13 @@ function Invoke-CheckedStep {
     )
 
     Write-Host ("  -> {0}..." -f $Name) -ForegroundColor Gray
-    & $Command @Arguments | Out-Host
+    $prevEAP = $ErrorActionPreference
+    $ErrorActionPreference = "SilentlyContinue"
+    & $Command @Arguments *> $null
+    $stepExitCode = $LASTEXITCODE
+    $ErrorActionPreference = $prevEAP
 
-    if ($LASTEXITCODE -ne 0) {
+    if ($stepExitCode -ne 0) {
         Write-Host ("  [FAIL] {0}" -f $FailureMessage) -ForegroundColor Red
         return $false
     }
@@ -76,7 +80,7 @@ Push-Location -LiteralPath $resolvedProjectRoot
 try {
     $caseFiles = @(
         Get-ChildItem -LiteralPath $root -Recurse -File -Filter "*.mp4" |
-            Where-Object { $_.Directory.Name -ne "out" }
+            Where-Object { $_.FullName -notmatch '\\out\\' }
     )
 
     $cases = @(

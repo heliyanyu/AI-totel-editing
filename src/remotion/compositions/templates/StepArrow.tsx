@@ -35,7 +35,7 @@ export const StepArrow: React.FC<SceneProps> = ({ scene }) => {
     <TemplateStage
       scene={scene}
       maxWidth={meta.isOverlay ? 620 : 760}
-      vertical={meta.isOverlay ? "top" : "center"}
+      vertical="top"
     >
       <TemplateHeader
         scene={scene}

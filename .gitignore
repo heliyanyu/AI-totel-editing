@@ -18,3 +18,10 @@ test/**/*.mp4
 test/**/*.docx
 out/
 **/out/*.mp4
+
+# Asset video folders (large files, only index JSON is tracked)
+2 循环系统疾病/**/*.mp4
+2 循环系统疾病/**/*.mov
+动画素材片段/**/*.mp4
+动画素材片段/**/*.mov
+.env

@@ -38,7 +38,7 @@ export const HeroText: React.FC<SceneProps> = ({ scene }) => {
   return (
     <TemplateStage
       scene={scene}
-      vertical={meta.layout === "spotlight" || meta.layout === "overlay_center" ? "center" : "top"}
+      vertical="top"
       maxWidth={meta.isOverlay ? 680 : 900}
     >
       <TemplateHeader

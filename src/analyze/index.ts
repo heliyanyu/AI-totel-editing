@@ -44,6 +44,10 @@ import { dirname, resolve, join } from "path";
 import {
   DEFAULT_ANTHROPIC_MODEL,
   DEFAULT_ANTHROPIC_SONNET_MODEL,
+  DEFAULT_DEEPSEEK_MODEL,
+  DEFAULT_DEEPSEEK_BASE_URL,
+  DEFAULT_QWEN_MODEL,
+  DEFAULT_QWEN_BASE_URL,
   DEFAULT_GEMINI_MODEL,
   DEFAULT_OPENAI_COMPATIBLE_BASE_URL,
   DEFAULT_SEED_MODEL,
@@ -280,12 +284,13 @@ function getOpenAIClient(options: {
 
   const apiKey =
     options.apiKey ??
-    getEnvVar("ARK_API_KEY") ??
-    getEnvVar("OPENAI_API_KEY");
+    getEnvVar("OPENAI_API_KEY") ??
+    getEnvVar("DEEPSEEK_API_KEY") ??
+    getEnvVar("ARK_API_KEY");
 
   if (!apiKey) {
     throw new Error(
-      "缺少 Gemini API Key。请设置 GEMINI_API_KEY，或显式提供 OpenAI-compatible API Key。"
+      "缺少 API Key。请设置 OPENAI_API_KEY。"
     );
   }
 

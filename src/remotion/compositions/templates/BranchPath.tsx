@@ -15,6 +15,8 @@ import {
 import { slideUpIn, slideDownOut, mergeStyles } from "../../animations/index";
 import { msToFrame } from "../../utils";
 import { pulseGlowShadow } from "../../animations/compose";
+import { VISUAL_SHELL } from "../../visual-language";
+import { getPlannerMeta } from "../template-primitives";
 
 export const BranchPath: React.FC<SceneProps> = ({ scene }) => {
   const frame = useCurrentFrame();
@@ -75,14 +77,18 @@ export const BranchPath: React.FC<SceneProps> = ({ scene }) => {
     ? pulseGlowShadow(frame, fps, SEMANTIC_COLORS.negative, 1800, 14, 4)
     : undefined;
 
+  const meta = getPlannerMeta(scene);
+  const topPad = meta.isOverlay ? SAFE_AREA.top + VISUAL_SHELL.overlayTopOffset : SAFE_AREA.top;
+  const bottomPad = meta.isOverlay ? Math.max(160, SAFE_AREA.bottom - VISUAL_SHELL.overlayBottomInset) : SAFE_AREA.bottom;
+
   return (
     <AbsoluteFill
       style={{
-        padding: `${SAFE_AREA.top}px ${SAFE_AREA.horizontal}px ${SAFE_AREA.bottom}px`,
+        padding: `${topPad}px ${SAFE_AREA.horizontal}px ${bottomPad}px`,
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
-        justifyContent: "center",
+        justifyContent: "flex-start",
       }}
     >
       {/* 条件节点 */}

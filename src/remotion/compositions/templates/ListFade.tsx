@@ -33,7 +33,7 @@ export const ListFade: React.FC<SceneProps> = ({ scene }) => {
     <TemplateStage
       scene={scene}
       maxWidth={meta.isOverlay ? 560 : 840}
-      vertical={meta.isOverlay ? "top" : "center"}
+      vertical="top"
     >
       <div
         style={{

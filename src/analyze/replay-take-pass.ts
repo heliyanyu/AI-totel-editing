@@ -6,6 +6,7 @@ import { dirname, join, resolve } from "path";
 import {
   DEFAULT_ANTHROPIC_MODEL,
   DEFAULT_ANTHROPIC_SONNET_MODEL,
+  DEFAULT_DEEPSEEK_BASE_URL,
   DEFAULT_OPENAI_COMPATIBLE_BASE_URL,
   DEFAULT_SEED_MODEL,
 } from "../config/models.js";
@@ -200,16 +201,16 @@ function getOpenAIClient(clients: ClientPool, baseUrl?: string): OpenAI {
   if (clients.openai) {
     return clients.openai;
   }
-  const apiKey = getEnvVar("ARK_API_KEY") ?? getEnvVar("OPENAI_API_KEY");
+  const apiKey = getEnvVar("OPENAI_API_KEY") ?? getEnvVar("DEEPSEEK_API_KEY") ?? getEnvVar("ARK_API_KEY");
   if (!apiKey) {
-    throw new Error("ȱ�� ARK_API_KEY �� OPENAI_API_KEY��");
+    throw new Error("缺少 OPENAI_API_KEY。");
   }
   clients.openai = new OpenAI({
     apiKey,
     baseURL: normalizeBaseUrl(
       baseUrl ??
-        getEnvVar("ARK_BASE_URL") ??
         getEnvVar("OPENAI_BASE_URL") ??
+        getEnvVar("ARK_BASE_URL") ??
         DEFAULT_OPENAI_COMPATIBLE_BASE_URL
     ),
   });

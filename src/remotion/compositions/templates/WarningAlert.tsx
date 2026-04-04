@@ -38,7 +38,7 @@ export const WarningAlert: React.FC<SceneProps> = ({ scene }) => {
     <TemplateStage
       scene={scene}
       maxWidth={meta.isOverlay ? 580 : 720}
-      vertical={meta.layout === "spotlight" ? "center" : "top"}
+      vertical="top"
     >
       <div
         style={{
