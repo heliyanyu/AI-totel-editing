@@ -228,10 +228,14 @@ try {
         }
 
         # Generate JianYing draft
+        $assetIndex = Join-Path $resolvedProjectRoot "asset_index.json"
         $draftArgs = @(
             "scripts/generate-jianying-draft.py",
             $out
         )
+        if (Test-Path -LiteralPath $assetIndex) {
+            $draftArgs += @("--asset-index", $assetIndex)
+        }
 
         if (-not (Invoke-CheckedStep -Name "jianying draft" -Command "F:/miniconda3/envs/agent/python.exe" -Arguments $draftArgs -FailureMessage "jianying draft failed (non-fatal)")) {
             Write-Host "  [WARN] jianying draft skipped" -ForegroundColor Yellow

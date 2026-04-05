@@ -866,15 +866,19 @@ async function callStep2(
   clients: ClientPool,
   maxRetries: number,
   debugDir: string,
-  credentials?: LLMCredentials
+  credentials?: LLMCredentials,
+  availableAssetSubScenes?: string[]
 ): Promise<any> {
   console.log("\n  ── Step 2: 结构编排（view / template / items） ──");
+  if (availableAssetSubScenes?.length) {
+    console.log(`  可用素材场景: ${availableAssetSubScenes.length} 个`);
+  }
 
   const rawText = await callLLM({
     provider: stage.provider,
     model: stage.model,
     systemPrompt: SYSTEM_PROMPT_STEP2,
-    userPrompt: buildUserPromptStep2(step1Result, words),
+    userPrompt: buildUserPromptStep2(step1Result, words, availableAssetSubScenes),
     maxTokens: MAX_TOKENS_STEP2,
     maxRetries,
     debugDir,
@@ -972,6 +976,7 @@ export async function analyzeTranscript(
     scriptPath?: string;
     skipStep2?: boolean;
     skipReview?: boolean;
+    assetIndexPath?: string;
   }
 ): Promise<Blueprint> {
   const maxRetries = options?.maxRetries ?? MAX_RETRIES;
@@ -993,6 +998,24 @@ export async function analyzeTranscript(
   const step1Stage = resolveStageConfig("step1", options);
   const takePassStage = resolveStageConfig("takePass", options);
   const step2Stage = resolveStageConfig("step2", options);
+
+  // 加载素材索引，提取可用子场景列表
+  let availableAssetSubScenes: string[] | undefined;
+  if (options?.assetIndexPath) {
+    try {
+      const assetIndex = JSON.parse(readFileSync(options.assetIndexPath, "utf-8"));
+      const subSceneSet = new Set<string>();
+      for (const asset of assetIndex.assets ?? []) {
+        for (const sc of asset.sub_scenes ?? []) {
+          subSceneSet.add(sc);
+        }
+      }
+      availableAssetSubScenes = [...subSceneSet].sort();
+      console.log(`  素材索引: ${assetIndex.assets?.length ?? 0} 个素材, ${availableAssetSubScenes.length} 个子场景`);
+    } catch (e) {
+      console.warn(`  [WARN] 无法加载素材索引 ${options.assetIndexPath}: ${e}`);
+    }
+  }
 
   console.log(
     `  模型配置: review=${reviewStage.provider}:${reviewStage.model}, ` +
@@ -1239,7 +1262,8 @@ export async function analyzeTranscript(
       clients,
       maxRetries,
       debugDir,
-      credentials
+      credentials,
+      availableAssetSubScenes
     );
 
     if (debugDir) {
@@ -1363,6 +1387,7 @@ async function main() {
   let forceAlignGapThresholdSeconds: number | undefined;
   let forceAlignPaddingSeconds: number | undefined;
   let forceAlignBatchSize: number | undefined;
+  let assetIndexPath = "";
 
   for (let i = 0; i < args.length; i++) {
     switch (args[i]) {
@@ -1435,6 +1460,9 @@ async function main() {
         break;
       case "--skip-review":
         skipReview = true;
+        break;
+      case "--asset-index":
+        assetIndexPath = args[++i];
         break;
       case "--openai-base-url":
         openaiBaseUrl = args[++i];
@@ -1601,6 +1629,7 @@ async function main() {
     scriptPath: scriptPath ? resolve(scriptPath) : undefined,
     skipStep2,
     skipReview,
+    assetIndexPath: assetIndexPath ? resolve(assetIndexPath) : undefined,
     sourceTranscript,
     audioPath: resolvedAudioPath || undefined,
     forceAlign: {

@@ -2,10 +2,11 @@
 """Generate JianYing draft project from editing V1 pipeline output.
 
 Usage:
-  python scripts/generate-jianying-draft.py <case_out_dir> [--target <drafts_dir>]
+  python scripts/generate-jianying-draft.py <case_out_dir> [--target <drafts_dir>] [--asset-index <path>]
 """
 
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -76,10 +77,12 @@ def main():
     out_dir = Path(sys.argv[1]).resolve()
 
     target_dir = None
+    asset_index_path = None
     for i, arg in enumerate(sys.argv):
         if arg == "--target" and i + 1 < len(sys.argv):
             target_dir = Path(sys.argv[i + 1])
-            break
+        elif arg == "--asset-index" and i + 1 < len(sys.argv):
+            asset_index_path = Path(sys.argv[i + 1])
 
     source_video = out_dir / "source_direct_cut_video.mp4"
     overlay_video = out_dir / "overlay.mp4"
@@ -190,7 +193,67 @@ def main():
         ), "navigation")
         print("  + navigation track (single file)")
 
-    # Track 5: subtitles
+    # Track 5: asset clips (from blueprint asset_sub_scene + asset_index)
+    blueprint_file = out_dir / "blueprint.json"
+    if blueprint_file.exists() and asset_index_path and asset_index_path.exists():
+        bp = json.loads(blueprint_file.read_text(encoding="utf-8"))
+        asset_idx = json.loads(asset_index_path.read_text(encoding="utf-8"))
+        asset_root = asset_idx.get("asset_root", "")
+
+        # Build sub_scene -> asset file lookup (pick first match per sub_scene)
+        sub_scene_to_asset = {}
+        for asset in asset_idx.get("assets", []):
+            for sc in asset.get("sub_scenes", []):
+                if sc not in sub_scene_to_asset:
+                    sub_scene_to_asset[sc] = asset
+
+        # Build atom_id -> output time lookup from timing_map
+        seg_map = {}
+        for seg in timing_map.get("segments", []):
+            seg_map[seg["atom_id"]] = seg["output"]
+
+        # Find asset_clip segments and their time positions
+        asset_clips = []
+        for scene in bp.get("scenes", []):
+            for ls in scene.get("logic_segments", []):
+                sub_scene = ls.get("asset_sub_scene")
+                if not sub_scene or ls.get("template") != "asset_clip":
+                    continue
+                asset = sub_scene_to_asset.get(sub_scene)
+                if not asset:
+                    continue
+                # Get time range from keep atoms
+                keep_atoms = [a for a in ls.get("atoms", []) if a.get("status") == "keep"]
+                atom_ids = [a["id"] for a in keep_atoms]
+                times = [seg_map[aid] for aid in atom_ids if aid in seg_map]
+                if not times:
+                    continue
+                start_sec = min(t["start"] for t in times)
+                end_sec = max(t["end"] for t in times)
+                asset_path = os.path.join(asset_root, asset["file"])
+                if not os.path.exists(asset_path):
+                    continue
+                asset_clips.append({
+                    "path": asset_path,
+                    "start": start_sec,
+                    "end": end_sec,
+                    "sub_scene": sub_scene,
+                })
+
+        if asset_clips:
+            script.add_track(TrackType.video, "assets", relative_index=4)
+            for ac in asset_clips:
+                start_us = int(ac["start"] * SEC)
+                dur_us = int((ac["end"] - ac["start"]) * SEC)
+                if dur_us <= 0:
+                    continue
+                script.add_segment(VideoSegment(
+                    ac["path"],
+                    target_timerange=Timerange(start_us, dur_us),
+                ), "assets")
+            print(f"  + assets track ({len(asset_clips)} clips)")
+
+    # Track 6: subtitles
     subs = parse_srt(str(srt_file))
     script.add_track(TrackType.text, "subs")
 

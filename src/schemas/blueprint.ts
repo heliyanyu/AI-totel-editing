@@ -35,6 +35,7 @@ export const TemplateId = z.enum([
   "myth_buster",
   "category_table",
   "vertical_timeline",
+  "asset_clip",
 ]);
 export type TemplateId = z.infer<typeof TemplateId>;
 
@@ -178,10 +179,11 @@ export type BlueprintAtom = z.infer<typeof BlueprintAtom>;
 export const LogicSegment = z.object({
   id: z.string(),                                     // "S1-L1"
   transition_type: z.string(),                         // 语义功能描述
-  template: TemplateId,                                // 渲染模板（15 种之一）
+  template: TemplateId,                                // 渲染模板
   items: z.array(BlueprintItem),                       // 渲染条目
   atoms: z.array(BlueprintAtom),                       // 原子块（含 keep + discard）
   template_props: z.record(z.unknown()).optional().default({}),
+  asset_sub_scene: z.string().optional(),              // 素材子场景（仅 asset_clip 模板）
 });
 export type LogicSegment = z.infer<typeof LogicSegment>;
 
