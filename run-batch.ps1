@@ -10,6 +10,35 @@ $ErrorActionPreference = "Stop"
 
 $env:HF_HUB_OFFLINE = "1"
 
+# Editor name -> JianYing Drafts UNC path
+$EditorTargets = @{
+    "wangchen"     = "\\192.168.0.66\JianyingPro Drafts"
+    "zhangnan"     = "\\192.168.0.6\JianyingPro Drafts"
+    "xiyuting"     = "\\192.168.0.38\JianyingPro Drafts"
+    "wangningjuan" = "\\192.168.0.3\JianyingPro Drafts"
+    "zhouqi"       = "\\192.168.0.26\JianyingPro Drafts"
+    "guojie"       = "\\192.168.0.78\JianyingPro Drafts"
+    "wangchenglu"  = "\\192.168.0.8\JianyingPro Drafts"
+}
+
+function Get-EditorFromPath {
+    [CmdletBinding()]
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$CasePath,
+        [Parameter(Mandatory = $true)]
+        [string]$RootPath
+    )
+
+    $relative = $CasePath.Substring($RootPath.Length).TrimStart('\', '/')
+    $editorName = ($relative -split '[\\/]')[0].ToLower()
+
+    if ($EditorTargets.ContainsKey($editorName)) {
+        return $editorName
+    }
+    return $null
+}
+
 function Resolve-SinglePath {
     [CmdletBinding()]
     param(
@@ -239,6 +268,30 @@ try {
 
         if (-not (Invoke-CheckedStep -Name "jianying draft" -Command "F:/miniconda3/envs/agent/python.exe" -Arguments $draftArgs -FailureMessage "jianying draft failed (non-fatal)")) {
             Write-Host "  [WARN] jianying draft skipped" -ForegroundColor Yellow
+        }
+
+        # Distribute draft to editor's JianYing
+        $editor = Get-EditorFromPath -CasePath $dir -RootPath $root
+        if ($editor) {
+            $targetDrafts = $EditorTargets[$editor]
+            $caseName = (Split-Path $dir -Leaf)
+            $draftFolderName = "${caseName}_draft"
+            $localDraft = Join-Path $out $draftFolderName
+
+            if (Test-Path -LiteralPath $localDraft) {
+                $remoteDraft = Join-Path $targetDrafts $draftFolderName
+                try {
+                    if (Test-Path -LiteralPath $remoteDraft) {
+                        Remove-Item -LiteralPath $remoteDraft -Recurse -Force
+                    }
+                    Copy-Item -LiteralPath $localDraft -Destination $remoteDraft -Recurse -Force
+                    Write-Host ("  -> sent to {0} ({1})" -f $editor, $targetDrafts) -ForegroundColor Magenta
+                } catch {
+                    Write-Host ("  [WARN] failed to send to {0}: {1}" -f $editor, $_.Exception.Message) -ForegroundColor Yellow
+                }
+            }
+        } else {
+            Write-Host "  [WARN] unknown editor, draft not distributed" -ForegroundColor Yellow
         }
 
         Write-Host "  [DONE]" -ForegroundColor Green
