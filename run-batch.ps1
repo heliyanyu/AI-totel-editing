@@ -172,10 +172,10 @@ foreach ($dir in $cases) {
 $total = $caseInfos.Count
 Write-Host ("Found {0} cases" -f $total) -ForegroundColor Cyan
 
-# ── Phase 1: analyze (serial, ASR uses GPU) ──
+# ── Phase 1: ASR transcription (serial, GPU-bound) ──
 
 Write-Host ""
-Write-Host "=== Phase 1: analyze (serial, ASR uses GPU) ===" -ForegroundColor Yellow
+Write-Host "=== Phase 1: ASR transcription (serial) ===" -ForegroundColor Yellow
 
 $needsProcessing = @()
 $i = 0
@@ -186,10 +186,9 @@ try {
         $i++
         $out = $info.Out
         $mp4 = $info.Mp4
-        $docx = $info.Docx
         $overlayPath = Join-Path $out "overlay.mp4"
         $srtPath = Join-Path $out "subtitles.srt"
-        $blueprintPath = Join-Path $out "blueprint.json"
+        $transcriptRaw = Join-Path $out "transcript_raw.json"
 
         New-Item -ItemType Directory -Path $out -Force | Out-Null
 
@@ -202,24 +201,24 @@ try {
             continue
         }
 
-        # Analyze (ASR + LLM) already done
-        if (Test-Path -LiteralPath $blueprintPath) {
-            Write-Host ("[{0}/{1}] {2} - analyze exists" -f $i, $total, $info.Dir) -ForegroundColor DarkGray
-            $needsProcessing += $info
+        $needsProcessing += $info
+
+        # ASR already done
+        if (Test-Path -LiteralPath $transcriptRaw) {
+            Write-Host ("[{0}/{1}] {2} - ASR exists" -f $i, $total, $info.Dir) -ForegroundColor DarkGray
             continue
         }
 
-        # Run full analyze (includes ASR + LLM calls)
+        # Run ASR using Python directly (not npm, to use correct $PythonExe)
         Write-Host ""
         Write-Host ("[{0}/{1}] {2}" -f $i, $total, $info.Dir) -ForegroundColor Cyan
-        $analyzeArgs = @("run", "analyze", "--", "--audio", $mp4)
-        if ($docx) { $analyzeArgs += @("--script", $docx) }
-        $analyzeArgs += @("-o", $blueprintPath, "--transcribe-qwen", "--force-align-qwen")
-
-        if (Invoke-Step -Name "analyze" -Command "npm.cmd" -Arguments $analyzeArgs) {
-            $needsProcessing += $info
-        } else {
-            Write-Host "  [FAIL] analyze failed, skipping case" -ForegroundColor Red
+        $asrArgs = @(
+            "scripts/transcribe-qwen.py",
+            "--audio", $mp4,
+            "--output-dir", $out
+        )
+        if (-not (Invoke-Step -Name "ASR" -Command $PythonExe -Arguments $asrArgs)) {
+            Write-Host "  [WARN] ASR failed, will retry in analyze" -ForegroundColor Yellow
         }
     }
 } finally {
@@ -232,10 +231,10 @@ if ($needsProcessing.Count -eq 0) {
     exit 0
 }
 
-# ── Phase 2: render + post (parallel) ──
+# ── Phase 2: analyze + render + post (parallel, no GPU contention) ──
 
 Write-Host ""
-Write-Host ("=== Phase 2: render + post ({0} cases, {1} parallel) ===" -f $needsProcessing.Count, $Parallel) -ForegroundColor Yellow
+Write-Host ("=== Phase 2: analyze + render + post ({0} cases, {1} parallel) ===" -f $needsProcessing.Count, $Parallel) -ForegroundColor Yellow
 
 $caseScript = {
     param($CaseInfo, $ProjectRoot, $PythonExe, $AssetIndex, $Root, $EditorTargets, $SkipDistribute)
@@ -268,7 +267,21 @@ $caseScript = {
     $overlayPath = Join-Path $out "overlay.mp4"
     $srtPath = Join-Path $out "subtitles.srt"
 
-    # Timing (analyze already done in Phase 1)
+    # Analyze (ASR already done in Phase 1, this just does LLM calls)
+    if (Test-Path -LiteralPath $blueprintPath) {
+        Log "  analyze: exists, skip" "DarkGray"
+    } else {
+        $analyzeArgs = @("run", "analyze", "--", "--audio", $mp4)
+        if ($CaseInfo.Docx) { $analyzeArgs += @("--script", $CaseInfo.Docx) }
+        $analyzeArgs += @("-o", $blueprintPath, "--transcribe-qwen", "--force-align-qwen")
+        $code = RunStep "analyze" "npm.cmd" $analyzeArgs
+        if ($code -ne 0) {
+            Log "  [FAIL] analyze failed" "Red"
+            return @{ Status = "failed"; Log = $log }
+        }
+    }
+
+    # Timing
     if (Test-Path -LiteralPath $timingPath) {
         Log "  timing: exists, skip" "DarkGray"
     } else {
