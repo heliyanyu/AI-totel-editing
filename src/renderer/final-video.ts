@@ -269,15 +269,13 @@ export async function renderFinalVideo(
     },
     {
       name: "progress_bar",
-      output: resolve(outputDir, "overlay_progress_bar.mov"),
+      output: resolve(outputDir, "overlay_progress_bar.mp4"),
       props: { showContent: false, showNavigation: false, showProgressBar: true },
-      transparent: true,
     },
     {
       name: "navigation",
-      output: resolve(outputDir, "overlay_navigation.mov"),
+      output: resolve(outputDir, "overlay_navigation.mp4"),
       props: { showContent: false, showNavigation: true, showProgressBar: false },
-      transparent: true,
     },
   ];
 

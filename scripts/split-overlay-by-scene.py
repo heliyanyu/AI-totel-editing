@@ -153,8 +153,12 @@ def main():
 
     out_dir = Path(sys.argv[1]).resolve()
     overlay = out_dir / "overlay.mp4"
-    nav_video = out_dir / "overlay_navigation.mov"
-    pb_video = out_dir / "overlay_progress_bar.mov"
+    nav_video = out_dir / "overlay_navigation.mp4"
+    if not nav_video.exists():
+        nav_video = out_dir / "overlay_navigation.mov"  # legacy fallback
+    pb_video = out_dir / "overlay_progress_bar.mp4"
+    if not pb_video.exists():
+        pb_video = out_dir / "overlay_progress_bar.mov"  # legacy fallback
     bp_file = out_dir / "blueprint.json"
     tm_file = out_dir / "timing_map.json"
 
@@ -187,17 +191,19 @@ def main():
     else:
         print("  overlay.mp4 not found, skipping overlay split")
 
-    # Convert progress bar to a single cropped mp4 (top 100px strip, no split)
+    # Crop progress bar to top 100px strip
     if pb_video.exists():
-        pb_out = out_dir / "overlay_progress_bar.mp4"
+        pb_cropped = out_dir / "overlay_progress_bar_cropped.mp4"
         subprocess.run([
             "ffmpeg", "-y",
             "-i", str(pb_video),
             "-vf", "crop=1080:100:0:50",
             "-pix_fmt", "yuv420p",
-            "-an", str(pb_out),
+            "-an", str(pb_cropped),
         ], check=True, capture_output=True)
-        print(f"\n  progress bar: {pb_out.name} (cropped to 1080x100)")
+        # Replace original with cropped version
+        pb_cropped.replace(pb_video)
+        print(f"\n  progress bar: {pb_video.name} (cropped to 1080x100)")
     else:
         print("  overlay_progress_bar.mov not found, skipping")
 

@@ -89,8 +89,8 @@ def main():
 
     source_video = out_dir / "source_direct_cut_video.mp4"
     overlay_video = out_dir / "overlay.mp4"
-    progress_bar_video = out_dir / "overlay_progress_bar.mov"
-    navigation_video = out_dir / "overlay_navigation.mov"
+    progress_bar_video = out_dir / "overlay_progress_bar.mp4"
+    navigation_video = out_dir / "overlay_navigation.mp4"
     scene_manifest = out_dir / "overlay_scenes" / "manifest.json"
     srt_file = out_dir / "subtitles.srt"
     timing_map_file = out_dir / "timing_map.json"
