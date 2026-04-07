@@ -1,7 +1,7 @@
 [CmdletBinding()]
 param(
     [string]$RootPath = "",
-    [string]$RootPattern = 'P:\*\*\AIkaifa\AI total editing\260403',
+    [string]$RootPattern = 'P:\*\*\AIkaifa\AI total editing\test',
     [string]$ProjectRoot = $PSScriptRoot
 )
 
@@ -42,12 +42,27 @@ function Get-EditorFromPath {
         [string]$RootPath
     )
 
-    $relative = $CasePath.Substring($RootPath.Length).TrimStart('\', '/')
-    $editorName = ($relative -split '[\\/]')[0].ToLower()
+    $candidatePaths = @()
 
-    if ($EditorTargets.ContainsKey($editorName)) {
-        return $editorName
+    if ($CasePath.StartsWith($RootPath, [System.StringComparison]::OrdinalIgnoreCase)) {
+        $relative = $CasePath.Substring($RootPath.Length).TrimStart('\', '/')
+        if ($relative) {
+            $candidatePaths += $relative
+        }
     }
+
+    $candidatePaths += $CasePath
+
+    foreach ($candidatePath in $candidatePaths) {
+        $segments = $candidatePath -split '[\\/]'
+        foreach ($segment in $segments) {
+            $editorName = $segment.ToLower()
+            if ($EditorTargets.ContainsKey($editorName)) {
+                return $editorName
+            }
+        }
+    }
+
     return $null
 }
 
@@ -101,6 +116,47 @@ function Invoke-CheckedStep {
     }
 
     return $true
+}
+
+function Send-DraftToEditor {
+    [CmdletBinding()]
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$CaseDir,
+
+        [Parameter(Mandatory = $true)]
+        [string]$RootDir,
+
+        [Parameter(Mandatory = $true)]
+        [string]$OutDir
+    )
+
+    $editor = Get-EditorFromPath -CasePath $CaseDir -RootPath $RootDir
+    if (-not $editor) {
+        Write-Host "  [WARN] unknown editor, draft not distributed" -ForegroundColor Yellow
+        return
+    }
+
+    $targetDrafts = $EditorTargets[$editor]
+    $caseName = Split-Path $CaseDir -Leaf
+    $draftFolderName = "${caseName}_draft"
+    $localDraft = Join-Path $OutDir $draftFolderName
+
+    if (-not (Test-Path -LiteralPath $localDraft)) {
+        Write-Host ("  [WARN] local draft missing, skip distribute: {0}" -f $localDraft) -ForegroundColor Yellow
+        return
+    }
+
+    $remoteDraft = Join-Path $targetDrafts $draftFolderName
+    try {
+        if (Test-Path -LiteralPath $remoteDraft) {
+            Remove-Item -LiteralPath $remoteDraft -Recurse -Force
+        }
+        Copy-Item -LiteralPath $localDraft -Destination $remoteDraft -Recurse -Force
+        Write-Host ("  -> sent to {0} ({1})" -f $editor, $targetDrafts) -ForegroundColor Magenta
+    } catch {
+        Write-Host ("  [WARN] failed to send to {0}: {1}" -f $editor, $_.Exception.Message) -ForegroundColor Yellow
+    }
 }
 
 foreach ($requiredCommand in @("npm.cmd", "npx.cmd")) {
@@ -169,6 +225,7 @@ try {
 
         if ((Test-Path -LiteralPath $overlayPath) -and (Test-Path -LiteralPath $srtPath)) {
             Write-Host "  already done, skip" -ForegroundColor Yellow
+            Send-DraftToEditor -CaseDir $dir -RootDir $root -OutDir $out
             $skippedCount++
             continue
         }
@@ -283,28 +340,7 @@ try {
         }
 
         # Distribute draft to editor's JianYing
-        $editor = Get-EditorFromPath -CasePath $dir -RootPath $root
-        if ($editor) {
-            $targetDrafts = $EditorTargets[$editor]
-            $caseName = (Split-Path $dir -Leaf)
-            $draftFolderName = "${caseName}_draft"
-            $localDraft = Join-Path $out $draftFolderName
-
-            if (Test-Path -LiteralPath $localDraft) {
-                $remoteDraft = Join-Path $targetDrafts $draftFolderName
-                try {
-                    if (Test-Path -LiteralPath $remoteDraft) {
-                        Remove-Item -LiteralPath $remoteDraft -Recurse -Force
-                    }
-                    Copy-Item -LiteralPath $localDraft -Destination $remoteDraft -Recurse -Force
-                    Write-Host ("  -> sent to {0} ({1})" -f $editor, $targetDrafts) -ForegroundColor Magenta
-                } catch {
-                    Write-Host ("  [WARN] failed to send to {0}: {1}" -f $editor, $_.Exception.Message) -ForegroundColor Yellow
-                }
-            }
-        } else {
-            Write-Host "  [WARN] unknown editor, draft not distributed" -ForegroundColor Yellow
-        }
+        Send-DraftToEditor -CaseDir $dir -RootDir $root -OutDir $out
 
         Write-Host "  [DONE]" -ForegroundColor Green
         $completedCount++

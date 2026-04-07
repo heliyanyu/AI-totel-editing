@@ -102,13 +102,44 @@ function appendOptionalArg(
   args.push(name, String(value));
 }
 
+function resolvePythonExecutable(
+  explicitPython?: string,
+  envPython?: string,
+  fallbackPython?: string
+): string {
+  const candidates = [
+    explicitPython,
+    envPython,
+    fallbackPython,
+    process.platform === "win32"
+      ? "D:\\Anaconda_envs\\qwen-asr\\python.exe"
+      : undefined,
+    "python",
+  ];
+
+  for (const candidate of candidates) {
+    if (!candidate) {
+      continue;
+    }
+
+    if (candidate.toLowerCase().endsWith(".exe") && !existsSync(candidate)) {
+      continue;
+    }
+
+    return candidate;
+  }
+
+  return "python";
+}
+
 export function runQwenForcedAlign(
   options: RunQwenForcedAlignOptions
 ): RunQwenForcedAlignResult {
-  const pythonExecutable =
-    options.pythonExecutable ||
-    process.env.QWEN_FORCE_ALIGN_PYTHON ||
-    "python";
+  const pythonExecutable = resolvePythonExecutable(
+    options.pythonExecutable,
+    process.env.QWEN_FORCE_ALIGN_PYTHON,
+    process.env.PYTHON_PATH
+  );
   const scriptPath = buildPythonScriptPath();
   const transcriptPath = resolve(options.transcriptPath);
   const audioPath = resolve(options.audioPath);
