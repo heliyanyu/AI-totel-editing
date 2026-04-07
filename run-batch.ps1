@@ -3,7 +3,8 @@ param(
     [string]$RootPath = "",
     [string]$RootPattern = 'P:\*\*\AIkaifa\AI total editing\test',
     [string]$ProjectRoot = $PSScriptRoot,
-    [switch]$SkipDistribute
+    [switch]$SkipDistribute,
+    [int]$Parallel = 3
 )
 
 Set-StrictMode -Version Latest
@@ -22,8 +23,8 @@ if (Test-Path -LiteralPath $envFile) {
 }
 
 $PythonExe = if ($env:PYTHON_PATH) { $env:PYTHON_PATH } else { "python" }
-$WorkingRoot = $env:WORKING_ROOT   # e.g. Z:\AI editing\working files
-$AssetLibrary = $env:ASSET_LIBRARY # e.g. Z:\AI editing\asset library
+$WorkingRoot = $env:WORKING_ROOT
+$AssetLibrary = $env:ASSET_LIBRARY
 
 # Editor name -> JianYing Drafts UNC path
 $EditorTargets = @{
@@ -46,14 +47,10 @@ function Get-EditorFromPath {
     )
 
     $candidatePaths = @()
-
     if ($CasePath.StartsWith($RootPath, [System.StringComparison]::OrdinalIgnoreCase)) {
         $relative = $CasePath.Substring($RootPath.Length).TrimStart('\', '/')
-        if ($relative) {
-            $candidatePaths += $relative
-        }
+        if ($relative) { $candidatePaths += $relative }
     }
-
     $candidatePaths += $CasePath
 
     foreach ($candidatePath in $candidatePaths) {
@@ -65,90 +62,45 @@ function Get-EditorFromPath {
             }
         }
     }
-
     return $null
 }
 
 function Resolve-SinglePath {
     [CmdletBinding()]
-    param(
-        [Parameter(Mandatory = $true)]
-        [string]$Pattern
-    )
-
+    param([Parameter(Mandatory)][string]$Pattern)
     $resolvedPaths = @(Resolve-Path -Path $Pattern -ErrorAction SilentlyContinue)
-
-    if ($resolvedPaths.Count -eq 0) {
-        throw "No path matched pattern: $Pattern"
-    }
-
-    if ($resolvedPaths.Count -gt 1) {
-        $allPaths = $resolvedPaths | ForEach-Object { $_.Path }
-        throw ("Multiple paths matched pattern: {0}`n{1}" -f $Pattern, ($allPaths -join "`n"))
-    }
-
+    if ($resolvedPaths.Count -eq 0) { throw "No path matched: $Pattern" }
+    if ($resolvedPaths.Count -gt 1) { throw ("Multiple paths matched: {0}" -f ($resolvedPaths -join "`n")) }
     return $resolvedPaths[0].Path
 }
 
-function Invoke-CheckedStep {
-    [CmdletBinding()]
-    param(
-        [Parameter(Mandatory = $true)]
-        [string]$Name,
-
-        [Parameter(Mandatory = $true)]
-        [string]$Command,
-
-        [Parameter(Mandatory = $true)]
-        [string[]]$Arguments,
-
-        [Parameter(Mandatory = $true)]
-        [string]$FailureMessage
-    )
-
+function Invoke-Step {
+    param([string]$Name, [string]$Command, [string[]]$Arguments)
     Write-Host ("  -> {0}..." -f $Name) -ForegroundColor Gray
     $prevEAP = $ErrorActionPreference
     $ErrorActionPreference = "SilentlyContinue"
     & $Command @Arguments *> $null
-    $stepExitCode = $LASTEXITCODE
+    $code = $LASTEXITCODE
     $ErrorActionPreference = $prevEAP
-
-    if ($stepExitCode -ne 0) {
-        Write-Host ("  [FAIL] {0}" -f $FailureMessage) -ForegroundColor Red
+    if ($code -ne 0) {
+        Write-Host ("  [FAIL] {0}" -f $Name) -ForegroundColor Red
         return $false
     }
-
     return $true
 }
 
 function Send-DraftToEditor {
-    [CmdletBinding()]
-    param(
-        [Parameter(Mandatory = $true)]
-        [string]$CaseDir,
-
-        [Parameter(Mandatory = $true)]
-        [string]$RootDir,
-
-        [Parameter(Mandatory = $true)]
-        [string]$OutDir
-    )
+    param([string]$CaseDir, [string]$RootDir, [string]$OutDir)
 
     $editor = Get-EditorFromPath -CasePath $CaseDir -RootPath $RootDir
-    if (-not $editor) {
-        Write-Host "  [WARN] unknown editor, draft not distributed" -ForegroundColor Yellow
-        return
-    }
+    if (-not $editor) { return }
 
     $targetDrafts = $EditorTargets[$editor]
     $caseName = Split-Path $CaseDir -Leaf
     $draftFolderName = "${caseName}_draft"
     $localDraft = Join-Path $OutDir $draftFolderName
 
-    if (-not (Test-Path -LiteralPath $localDraft)) {
-        Write-Host ("  [WARN] local draft missing, skip distribute: {0}" -f $localDraft) -ForegroundColor Yellow
-        return
-    }
+    if (-not (Test-Path -LiteralPath $localDraft)) { return }
 
     $remoteDraft = Join-Path $targetDrafts $draftFolderName
     try {
@@ -156,228 +108,315 @@ function Send-DraftToEditor {
             Remove-Item -LiteralPath $remoteDraft -Recurse -Force
         }
         Copy-Item -LiteralPath $localDraft -Destination $remoteDraft -Recurse -Force
-        Write-Host ("  -> sent to {0} ({1})" -f $editor, $targetDrafts) -ForegroundColor Magenta
+        Write-Host ("  -> sent to {0}" -f $editor) -ForegroundColor Magenta
     } catch {
-        Write-Host ("  [WARN] failed to send to {0}: {1}" -f $editor, $_.Exception.Message) -ForegroundColor Yellow
+        Write-Host ("  [WARN] send failed: {0}" -f $_.Exception.Message) -ForegroundColor Yellow
     }
 }
 
-foreach ($requiredCommand in @("npm.cmd", "npx.cmd")) {
-    if (-not (Get-Command $requiredCommand -ErrorAction SilentlyContinue)) {
-        throw "Required command not found: $requiredCommand"
+# ── Resolve paths ──
+
+foreach ($cmd in @("npm.cmd", "npx.cmd")) {
+    if (-not (Get-Command $cmd -ErrorAction SilentlyContinue)) {
+        throw "Required command not found: $cmd"
     }
 }
 
 $resolvedProjectRoot = (Resolve-Path -LiteralPath $ProjectRoot).Path
-$root = if ($RootPath) {
-    (Resolve-Path -LiteralPath $RootPath).Path
-} else {
-    Resolve-SinglePath -Pattern $RootPattern
+$root = if ($RootPath) { (Resolve-Path -LiteralPath $RootPath).Path } else { Resolve-SinglePath $RootPattern }
+
+$assetIndex = ""
+if ($AssetLibrary) {
+    $libIndex = Join-Path $AssetLibrary "asset_index.json"
+    if (Test-Path -LiteralPath $libIndex) { $assetIndex = $libIndex }
+}
+if (-not $assetIndex) {
+    $localIndex = Join-Path $resolvedProjectRoot "asset_index.json"
+    if (Test-Path -LiteralPath $localIndex) { $assetIndex = $localIndex }
 }
 
-Push-Location -LiteralPath $resolvedProjectRoot
+# ── Discover cases ──
 
-try {
-    $caseFiles = @(
-        Get-ChildItem -LiteralPath $root -Recurse -File -Filter "*.mp4" |
-            Where-Object { $_.FullName -notmatch '\\out\\' }
-    )
+$caseFiles = @(
+    Get-ChildItem -LiteralPath $root -Recurse -File -Filter "*.mp4" |
+        Where-Object { $_.FullName -notmatch '\\out\\' }
+)
+$cases = @($caseFiles | ForEach-Object { $_.DirectoryName } | Sort-Object -Unique)
 
-    $cases = @(
-        $caseFiles |
-            ForEach-Object { $_.DirectoryName } |
-            Sort-Object -Unique
-    )
+if ($cases.Count -eq 0) {
+    Write-Host ("No cases found under {0}" -f $root) -ForegroundColor Yellow
+    exit 0
+}
 
-    if ($cases.Count -eq 0) {
-        Write-Host ("No cases found under {0}" -f $root) -ForegroundColor Yellow
-        return
+# Build case info list
+$caseInfos = @()
+foreach ($dir in $cases) {
+    $mp4Files = @(Get-ChildItem -LiteralPath $dir -File -Filter "*.mp4" | Sort-Object Name)
+    $docxFiles = @(Get-ChildItem -LiteralPath $dir -File -Filter "*.docx" | Sort-Object Name)
+    if ($mp4Files.Count -eq 0) { continue }
+
+    $mp4 = $mp4Files[0].FullName
+    $docx = if ($docxFiles.Count -gt 0) { $docxFiles[0].FullName } else { "" }
+
+    if ($WorkingRoot) {
+        $datePart = Split-Path $root -Leaf
+        $relative = $dir.Substring($root.Length).TrimStart('\', '/')
+        $out = Join-Path $WorkingRoot (Join-Path $datePart (Join-Path $relative "out"))
+    } else {
+        $out = Join-Path $dir "out"
     }
 
-    $total = $cases.Count
-    $completedCount = 0
-    $skippedCount = 0
-    $failedCount = 0
-    $i = 0
+    $caseInfos += @{ Dir = $dir; Mp4 = $mp4; Docx = $docx; Out = $out }
+}
 
-    foreach ($dir in $cases) {
+$total = $caseInfos.Count
+Write-Host ("Found {0} cases" -f $total) -ForegroundColor Cyan
+
+# ── Phase 1: ASR (serial, uses GPU) ──
+
+Write-Host ""
+Write-Host "═══ Phase 1: ASR transcription (serial) ═══" -ForegroundColor Yellow
+
+$needsProcessing = @()
+$i = 0
+
+Push-Location -LiteralPath $resolvedProjectRoot
+try {
+    foreach ($info in $caseInfos) {
         $i++
-
-        $mp4Files = @(Get-ChildItem -LiteralPath $dir -File -Filter "*.mp4" | Sort-Object Name)
-        $docxFiles = @(Get-ChildItem -LiteralPath $dir -File -Filter "*.docx" | Sort-Object Name)
-
-        Write-Host ""
-        Write-Host ("[{0}/{1}] {2}" -f $i, $total, $dir) -ForegroundColor Cyan
-
-        if ($mp4Files.Count -eq 0) {
-            Write-Host "  [FAIL] no source mp4 found" -ForegroundColor Red
-            $failedCount++
-            continue
-        }
-
-        $mp4 = $mp4Files[0].FullName
-        $docx = if ($docxFiles.Count -gt 0) { $docxFiles[0].FullName } else { $null }
-
-        # Mirror P-drive structure onto working drive (SSD)
-        # P:\...\260403\wangchen\某病例 -> Z:\AI editing\working files\260403\wangchen\某病例\out
-        if ($WorkingRoot) {
-            $datePart = Split-Path $root -Leaf
-            $relative = $dir.Substring($root.Length).TrimStart('\', '/')
-            $out = Join-Path $WorkingRoot (Join-Path $datePart (Join-Path $relative "out"))
-        } else {
-            $out = Join-Path $dir "out"
-        }
-
-        $blueprintPath = Join-Path $out "blueprint.json"
-        $timingPath = Join-Path $out "timing_map.json"
+        $out = $info.Out
+        $mp4 = $info.Mp4
         $overlayPath = Join-Path $out "overlay.mp4"
         $srtPath = Join-Path $out "subtitles.srt"
+        $transcriptRaw = Join-Path $out "transcript_raw.json"
 
         New-Item -ItemType Directory -Path $out -Force | Out-Null
 
+        # Already fully done
         if ((Test-Path -LiteralPath $overlayPath) -and (Test-Path -LiteralPath $srtPath)) {
-            Write-Host "  already done, skip" -ForegroundColor Yellow
+            Write-Host ("[{0}/{1}] {2} - skip (done)" -f $i, $total, (Split-Path $info.Dir -Leaf)) -ForegroundColor DarkGray
             if (-not $SkipDistribute) {
-            Send-DraftToEditor -CaseDir $dir -RootDir $root -OutDir $out
-        }
-            $skippedCount++
+                Send-DraftToEditor -CaseDir $info.Dir -RootDir $root -OutDir $out
+            }
             continue
         }
 
-        if (Test-Path -LiteralPath $blueprintPath) {
-            Write-Host "  analyze: blueprint.json exists, skip" -ForegroundColor DarkGray
-        } else {
-            $analyzeArgs = @("run", "analyze", "--", "--audio", $mp4)
-            if ($docx) {
-                $analyzeArgs += @("--script", $docx)
-            }
-            $analyzeArgs += @("-o", $blueprintPath, "--transcribe-qwen", "--force-align-qwen")
+        $needsProcessing += $info
 
-            if (-not (Invoke-CheckedStep -Name "analyze" -Command "npm.cmd" -Arguments $analyzeArgs -FailureMessage "analyze failed; skipping case")) {
-                $failedCount++
-                continue
-            }
-        }
-
-        if (Test-Path -LiteralPath $timingPath) {
-            Write-Host "  timing: timing_map.json exists, skip" -ForegroundColor DarkGray
-        } else {
-            $timingArgs = @(
-                "run",
-                "timing:direct",
-                "--",
-                "--input",
-                $mp4,
-                "-b",
-                $blueprintPath,
-                "-o",
-                $timingPath
-            )
-
-            if (-not (Invoke-CheckedStep -Name "timing" -Command "npm.cmd" -Arguments $timingArgs -FailureMessage "timing failed; skipping case")) {
-                $failedCount++
-                continue
-            }
-        }
-
-        if (Test-Path -LiteralPath $overlayPath) {
-            Write-Host "  render: overlay.mp4 exists, skip" -ForegroundColor DarkGray
-        } else {
-            $renderArgs = @(
-                "run",
-                "render",
-                "--",
-                "-b",
-                $blueprintPath,
-                "-t",
-                $timingPath,
-                "--source-video",
-                $mp4,
-                "-o",
-                $overlayPath
-            )
-
-            if (-not (Invoke-CheckedStep -Name "render" -Command "npm.cmd" -Arguments $renderArgs -FailureMessage "render failed; skipping case")) {
-                $failedCount++
-                continue
-            }
-        }
-
-        if (Test-Path -LiteralPath $srtPath) {
-            Write-Host "  srt: subtitles.srt exists, skip" -ForegroundColor DarkGray
-        } else {
-            $srtArgs = @(
-                "tsx",
-                "src/renderer/export-srt.ts",
-                "-b",
-                $blueprintPath,
-                "-t",
-                $timingPath,
-                "-o",
-                $srtPath
-            )
-
-            if (-not (Invoke-CheckedStep -Name "srt" -Command "npx.cmd" -Arguments $srtArgs -FailureMessage "srt failed; skipping case")) {
-                $failedCount++
-                continue
-            }
-        }
-
-        if (-not (Test-Path -LiteralPath $overlayPath)) {
-            Write-Host "  [FAIL] overlay.mp4 missing" -ForegroundColor Red
-            $failedCount++
+        # ASR already done
+        if (Test-Path -LiteralPath $transcriptRaw) {
+            Write-Host ("[{0}/{1}] {2} - ASR exists" -f $i, $total, (Split-Path $info.Dir -Leaf)) -ForegroundColor DarkGray
             continue
         }
 
-        # Split overlay into per-scene clips
-        $splitArgs = @(
-            "scripts/split-overlay-by-scene.py",
-            $out
+        # Run ASR only (transcribe-qwen produces transcript_raw.json)
+        Write-Host ("[{0}/{1}] {2}" -f $i, $total, (Split-Path $info.Dir -Leaf)) -ForegroundColor Cyan
+        $asrArgs = @(
+            "run", "transcribe:qwen", "--",
+            "--audio", $mp4,
+            "--output-dir", $out
         )
-
-        if (-not (Invoke-CheckedStep -Name "split overlay" -Command "$PythonExe" -Arguments $splitArgs -FailureMessage "split overlay failed (non-fatal)")) {
-            Write-Host "  [WARN] overlay split skipped" -ForegroundColor Yellow
+        if (-not (Invoke-Step -Name "ASR" -Command "npm.cmd" -Arguments $asrArgs)) {
+            Write-Host "  [WARN] ASR failed, will retry in analyze" -ForegroundColor Yellow
         }
-
-        # Generate JianYing draft
-        $draftArgs = @(
-            "scripts/generate-jianying-draft.py",
-            $out
-        )
-        # Try asset index from asset library, fall back to project root
-        $assetIndex = $null
-        if ($AssetLibrary) {
-            $libIndex = Join-Path $AssetLibrary "asset_index.json"
-            if (Test-Path -LiteralPath $libIndex) { $assetIndex = $libIndex }
-        }
-        if (-not $assetIndex) {
-            $localIndex = Join-Path $resolvedProjectRoot "asset_index.json"
-            if (Test-Path -LiteralPath $localIndex) { $assetIndex = $localIndex }
-        }
-        if ($assetIndex) {
-            $draftArgs += @("--asset-index", $assetIndex)
-        }
-
-        if (-not (Invoke-CheckedStep -Name "jianying draft" -Command "$PythonExe" -Arguments $draftArgs -FailureMessage "jianying draft failed (non-fatal)")) {
-            Write-Host "  [WARN] jianying draft skipped" -ForegroundColor Yellow
-        }
-
-        # Distribute draft to editor's JianYing
-        if (-not $SkipDistribute) {
-            Send-DraftToEditor -CaseDir $dir -RootDir $root -OutDir $out
-        }
-
-        Write-Host "  [DONE]" -ForegroundColor Green
-        $completedCount++
     }
-
-    Write-Host ""
-    Write-Host ("Batch finished. total={0} completed={1} skipped={2} failed={3}" -f $total, $completedCount, $skippedCount, $failedCount) -ForegroundColor Cyan
-}
-finally {
+} finally {
     Pop-Location
 }
 
-if ($failedCount -gt 0) {
-    exit 1
+if ($needsProcessing.Count -eq 0) {
+    Write-Host ""
+    Write-Host ("All {0} cases already done." -f $total) -ForegroundColor Green
+    exit 0
 }
+
+# ── Phase 2: analyze + render + post (parallel) ──
+
+Write-Host ""
+Write-Host ("═══ Phase 2: analyze + render + post ({0} cases, {1} parallel) ═══" -f $needsProcessing.Count, $Parallel) -ForegroundColor Yellow
+
+$caseScript = {
+    param($CaseInfo, $ProjectRoot, $PythonExe, $AssetIndex, $Root, $EditorTargets, $SkipDistribute)
+
+    Set-StrictMode -Version Latest
+    $ErrorActionPreference = "Stop"
+    Set-Location -LiteralPath $ProjectRoot
+
+    $dir = $CaseInfo.Dir
+    $mp4 = $CaseInfo.Mp4
+    $docx = $CaseInfo.Docx
+    $out = $CaseInfo.Out
+
+    $log = [System.Collections.ArrayList]::new()
+    $status = "done"
+
+    function Log($msg, $color) { [void]$log.Add(@{ msg = $msg; color = $color }) }
+
+    function RunStep($name, $command, $arguments) {
+        Log ("  -> {0}..." -f $name) "Gray"
+        $prevEAP = $ErrorActionPreference
+        $ErrorActionPreference = "SilentlyContinue"
+        & $command @arguments *> $null
+        $code = $LASTEXITCODE
+        $ErrorActionPreference = $prevEAP
+        return $code
+    }
+
+    $blueprintPath = Join-Path $out "blueprint.json"
+    $timingPath = Join-Path $out "timing_map.json"
+    $overlayPath = Join-Path $out "overlay.mp4"
+    $srtPath = Join-Path $out "subtitles.srt"
+
+    # Analyze (ASR already done in Phase 1, this will skip it and do LLM calls)
+    if (Test-Path -LiteralPath $blueprintPath) {
+        Log "  analyze: exists, skip" "DarkGray"
+    } else {
+        $analyzeArgs = @("run", "analyze", "--", "--audio", $mp4)
+        if ($docx) { $analyzeArgs += @("--script", $docx) }
+        $analyzeArgs += @("-o", $blueprintPath, "--transcribe-qwen", "--force-align-qwen")
+        $code = RunStep "analyze" "npm.cmd" $analyzeArgs
+        if ($code -ne 0) {
+            Log "  [FAIL] analyze failed" "Red"
+            return @{ Status = "failed"; Log = $log }
+        }
+    }
+
+    # Timing
+    if (Test-Path -LiteralPath $timingPath) {
+        Log "  timing: exists, skip" "DarkGray"
+    } else {
+        $timingArgs = @("run", "timing:direct", "--", "--input", $mp4, "-b", $blueprintPath, "-o", $timingPath)
+        $code = RunStep "timing" "npm.cmd" $timingArgs
+        if ($code -ne 0) {
+            Log "  [FAIL] timing failed" "Red"
+            return @{ Status = "failed"; Log = $log }
+        }
+    }
+
+    # Render
+    if (Test-Path -LiteralPath $overlayPath) {
+        Log "  render: exists, skip" "DarkGray"
+    } else {
+        $renderArgs = @("run", "render", "--", "-b", $blueprintPath, "-t", $timingPath, "--source-video", $mp4, "-o", $overlayPath)
+        $code = RunStep "render" "npm.cmd" $renderArgs
+        if ($code -ne 0) {
+            Log "  [FAIL] render failed" "Red"
+            return @{ Status = "failed"; Log = $log }
+        }
+    }
+
+    # SRT
+    if (Test-Path -LiteralPath $srtPath) {
+        Log "  srt: exists, skip" "DarkGray"
+    } else {
+        $srtArgs = @("tsx", "src/renderer/export-srt.ts", "-b", $blueprintPath, "-t", $timingPath, "-o", $srtPath)
+        $code = RunStep "srt" "npx.cmd" $srtArgs
+        if ($code -ne 0) {
+            Log "  [FAIL] srt failed" "Red"
+            return @{ Status = "failed"; Log = $log }
+        }
+    }
+
+    if (-not (Test-Path -LiteralPath $overlayPath)) {
+        Log "  [FAIL] overlay.mp4 missing" "Red"
+        return @{ Status = "failed"; Log = $log }
+    }
+
+    # Split overlay
+    $code = RunStep "split overlay" $PythonExe @("scripts/split-overlay-by-scene.py", $out)
+    if ($code -ne 0) { Log "  [WARN] split skipped" "Yellow" }
+
+    # JianYing draft
+    $draftArgs = @("scripts/generate-jianying-draft.py", $out)
+    if ($AssetIndex) { $draftArgs += @("--asset-index", $AssetIndex) }
+    $code = RunStep "jianying draft" $PythonExe $draftArgs
+    if ($code -ne 0) { Log "  [WARN] draft failed" "Yellow" }
+
+    # Distribute
+    if (-not $SkipDistribute) {
+        $editorName = $null
+        if ($dir.StartsWith($Root, [System.StringComparison]::OrdinalIgnoreCase)) {
+            $relative = $dir.Substring($Root.Length).TrimStart('\', '/')
+            $segments = $relative -split '[\\/]'
+            foreach ($seg in $segments) {
+                if ($EditorTargets.ContainsKey($seg.ToLower())) {
+                    $editorName = $seg.ToLower()
+                    break
+                }
+            }
+        }
+        if ($editorName) {
+            $targetDrafts = $EditorTargets[$editorName]
+            $caseName = Split-Path $dir -Leaf
+            $draftFolderName = "${caseName}_draft"
+            $localDraft = Join-Path $out $draftFolderName
+            if (Test-Path -LiteralPath $localDraft) {
+                $remoteDraft = Join-Path $targetDrafts $draftFolderName
+                try {
+                    if (Test-Path -LiteralPath $remoteDraft) {
+                        Remove-Item -LiteralPath $remoteDraft -Recurse -Force
+                    }
+                    Copy-Item -LiteralPath $localDraft -Destination $remoteDraft -Recurse -Force
+                    Log ("  -> sent to {0}" -f $editorName) "Magenta"
+                } catch {
+                    Log ("  [WARN] send failed: {0}" -f $_.Exception.Message) "Yellow"
+                }
+            }
+        }
+    }
+
+    Log "  [DONE]" "Green"
+    return @{ Status = $status; Log = $log }
+}
+
+# Run parallel jobs
+$activeJobs = @{}
+$completedCount = 0
+$failedCount = 0
+$caseQueue = [System.Collections.Queue]::new($needsProcessing)
+$caseIndex = 0
+
+while ($caseQueue.Count -gt 0 -or $activeJobs.Count -gt 0) {
+    # Launch new jobs
+    while ($caseQueue.Count -gt 0 -and $activeJobs.Count -lt $Parallel) {
+        $info = $caseQueue.Dequeue()
+        $caseIndex++
+        $label = "[{0}/{1}] {2}" -f $caseIndex, $needsProcessing.Count, (Split-Path $info.Dir -Leaf)
+        Write-Host ""
+        Write-Host ("START {0}" -f $label) -ForegroundColor Cyan
+
+        $job = Start-Job -ScriptBlock $caseScript -ArgumentList @(
+            $info, $resolvedProjectRoot, $PythonExe, $assetIndex,
+            $root, $EditorTargets, [bool]$SkipDistribute
+        )
+        $activeJobs[$job.Id] = @{ Job = $job; Label = $label }
+    }
+
+    # Wait for any job to finish
+    if ($activeJobs.Count -gt 0) {
+        $jobs = $activeJobs.Values | ForEach-Object { $_.Job }
+        $finished = $jobs | Wait-Job -Any
+        foreach ($done in $finished) {
+            $entry = $activeJobs[$done.Id]
+            $result = Receive-Job -Job $done
+
+            Write-Host ""
+            Write-Host ("FINISH {0}" -f $entry.Label) -ForegroundColor Cyan
+            if ($result.Log) {
+                foreach ($line in $result.Log) {
+                    Write-Host $line.msg -ForegroundColor $line.color
+                }
+            }
+
+            if ($result.Status -eq "failed") { $failedCount++ } else { $completedCount++ }
+
+            Remove-Job -Job $done
+            $activeJobs.Remove($done.Id)
+        }
+    }
+}
+
+Write-Host ""
+Write-Host ("Batch finished. total={0} completed={1} failed={2}" -f $total, $completedCount, $failedCount) -ForegroundColor Cyan
+
+if ($failedCount -gt 0) { exit 1 }
