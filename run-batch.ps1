@@ -2,7 +2,8 @@
 param(
     [string]$RootPath = "",
     [string]$RootPattern = 'P:\*\*\AIkaifa\AI total editing\test',
-    [string]$ProjectRoot = $PSScriptRoot
+    [string]$ProjectRoot = $PSScriptRoot,
+    [switch]$SkipDistribute
 )
 
 Set-StrictMode -Version Latest
@@ -236,7 +237,9 @@ try {
 
         if ((Test-Path -LiteralPath $overlayPath) -and (Test-Path -LiteralPath $srtPath)) {
             Write-Host "  already done, skip" -ForegroundColor Yellow
+            if (-not $SkipDistribute) {
             Send-DraftToEditor -CaseDir $dir -RootDir $root -OutDir $out
+        }
             $skippedCount++
             continue
         }
@@ -360,7 +363,9 @@ try {
         }
 
         # Distribute draft to editor's JianYing
-        Send-DraftToEditor -CaseDir $dir -RootDir $root -OutDir $out
+        if (-not $SkipDistribute) {
+            Send-DraftToEditor -CaseDir $dir -RootDir $root -OutDir $out
+        }
 
         Write-Host "  [DONE]" -ForegroundColor Green
         $completedCount++
