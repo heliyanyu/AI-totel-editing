@@ -178,6 +178,7 @@ Write-Host ""
 Write-Host "=== Phase 1: ASR transcription (serial) ===" -ForegroundColor Yellow
 
 $needsProcessing = @()
+$skippedCount = 0
 $i = 0
 
 Push-Location -LiteralPath $resolvedProjectRoot
@@ -198,6 +199,7 @@ try {
             if (-not $SkipDistribute) {
                 Send-DraftToEditor -CaseDir $info.Dir -RootDir $root -OutDir $out
             }
+            $skippedCount++
             continue
         }
 
@@ -209,7 +211,7 @@ try {
             continue
         }
 
-        # Run ASR using Python directly (not npm, to use correct $PythonExe)
+        # Run ASR using $PythonExe directly
         Write-Host ""
         Write-Host ("[{0}/{1}] {2}" -f $i, $total, $info.Dir) -ForegroundColor Cyan
         $asrArgs = @(
@@ -227,11 +229,11 @@ try {
 
 if ($needsProcessing.Count -eq 0) {
     Write-Host ""
-    Write-Host ("All {0} cases already done." -f $total) -ForegroundColor Green
+    Write-Host ("All {0} cases already done. skipped={1}" -f $total, $skippedCount) -ForegroundColor Green
     exit 0
 }
 
-# ── Phase 2: analyze + render + post (parallel, no GPU contention) ──
+# ── Phase 2: analyze + render + post (parallel) ──
 
 Write-Host ""
 Write-Host ("=== Phase 2: analyze + render + post ({0} cases, {1} parallel) ===" -f $needsProcessing.Count, $Parallel) -ForegroundColor Yellow
