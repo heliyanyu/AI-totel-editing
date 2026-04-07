@@ -10,6 +10,30 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 
+# Disable QuickEdit mode to prevent accidental clicks from freezing the console
+$QuickEditCode = @'
+using System;
+using System.Runtime.InteropServices;
+public class ConsoleMode {
+    [DllImport("kernel32.dll", SetLastError = true)]
+    static extern IntPtr GetStdHandle(int h);
+    [DllImport("kernel32.dll", SetLastError = true)]
+    static extern bool GetConsoleMode(IntPtr h, out uint m);
+    [DllImport("kernel32.dll", SetLastError = true)]
+    static extern bool SetConsoleMode(IntPtr h, uint m);
+    public static void DisableQuickEdit() {
+        IntPtr h = GetStdHandle(-10);
+        uint m; GetConsoleMode(h, out m);
+        m &= ~(uint)0x0040; // ENABLE_QUICK_EDIT_MODE
+        SetConsoleMode(h, m);
+    }
+}
+'@
+try {
+    Add-Type -TypeDefinition $QuickEditCode -ErrorAction SilentlyContinue
+    [ConsoleMode]::DisableQuickEdit()
+} catch {}
+
 $env:HF_HUB_OFFLINE = "1"
 
 # Load .env file for machine-specific config
