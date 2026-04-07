@@ -383,7 +383,7 @@ while ($caseQueue.Count -gt 0 -or $activeJobs.Count -gt 0) {
     while ($caseQueue.Count -gt 0 -and $activeJobs.Count -lt $Parallel) {
         $info = $caseQueue.Dequeue()
         $caseIndex++
-        $label = "[{0}/{1}] {2}" -f $caseIndex, $needsProcessing.Count, (Split-Path $info.Dir -Leaf)
+        $label = "[{0}/{1}] {2}" -f $caseIndex, $needsProcessing.Count, $info.Dir
         Write-Host ""
         Write-Host ("START {0}" -f $label) -ForegroundColor Cyan
 
