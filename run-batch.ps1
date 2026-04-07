@@ -201,7 +201,8 @@ try {
         # Check if fully done (overlay + srt + draft)
         $caseName = Split-Path $info.Dir -Leaf
         $draftPath = Join-Path $out "${caseName}_draft"
-        $hasDraft = Test-Path -LiteralPath $draftPath
+        $draftJson = Join-Path $draftPath "draft_content.json"
+        $hasDraft = Test-Path -LiteralPath $draftJson
 
         if ((Test-Path -LiteralPath $overlayPath) -and (Test-Path -LiteralPath $srtPath) -and $hasDraft) {
             Write-Host ("[{0}/{1}] {2} - skip (done)" -f $i, $total, $info.Dir) -ForegroundColor DarkGray
