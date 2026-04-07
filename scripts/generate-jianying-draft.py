@@ -78,11 +78,14 @@ def main():
 
     target_dir = None
     asset_index_path = None
+    server_unc = os.environ.get("SERVER_UNC")
     for i, arg in enumerate(sys.argv):
         if arg == "--target" and i + 1 < len(sys.argv):
             target_dir = Path(sys.argv[i + 1])
         elif arg == "--asset-index" and i + 1 < len(sys.argv):
             asset_index_path = Path(sys.argv[i + 1])
+        elif arg == "--server-unc" and i + 1 < len(sys.argv):
+            server_unc = sys.argv[i + 1]
 
     source_video = out_dir / "source_direct_cut_video.mp4"
     overlay_video = out_dir / "overlay.mp4"
@@ -273,7 +276,59 @@ def main():
     print(f"  + subtitle track ({len(subs)} entries)")
 
     script.save()
+
+    # Rewrite local paths to UNC paths so editors can access files over network
+    if server_unc:
+        draft_folder = draft_parent / draft_name
+        _rewrite_paths_to_unc(draft_folder, server_unc)
+
     print(f"  -> {draft_parent / draft_name}")
+
+
+def _rewrite_paths_to_unc(draft_folder: Path, server_unc: str):
+    """Replace local drive paths (D:\\...) with UNC paths (\\\\server\\share\\...)
+    in all draft JSON files so JianYing on editors' computers can find the media."""
+
+    # Collect local drive prefixes that appear in the draft
+    # e.g. D:\AI editing\working files -> \\192.168.0.93\working files
+    #      D:\AI editing\asset library -> \\192.168.0.93\asset library
+    # Convention: D:\AI editing\<share_name>\... -> \\server\<share_name>\...
+    #
+    # We scan for all "D:\\" patterns and build replacements automatically.
+    # The share name is the folder directly under the common root "AI editing".
+
+    server_unc = server_unc.rstrip("\\")
+
+    for fname in ["draft_content.json", "draft_content.json.bak", "template-2.tmp"]:
+        fpath = draft_folder / fname
+        if not fpath.exists():
+            continue
+        raw = fpath.read_bytes()
+
+        # Find drive letter paths like X:\\AI editing\\ in the JSON bytes
+        # Match pattern: single uppercase letter + :\ + \AI editing\ (with JSON escaping \\)
+        for m in set(re.findall(rb'[A-Z]:\x5c\x5cAI editing\x5c\x5c([^\x5c"]+)\x5c\x5c', raw)):
+            share_name = m  # e.g. b"working files" or b"asset library"
+            old_prefix = re.escape(m)
+            # D:\\AI editing\\working files\\ -> \\\\192.168.0.93\\working files\\
+            pattern = rb'[A-Z]:\x5c\x5cAI editing\x5c\x5c' + old_prefix + rb'\x5c\x5c'
+            replacement = server_unc.replace("\\", "\\\\").encode() + b"\x5c\x5c" + share_name + b"\x5c\x5c"
+            raw = re.sub(pattern, replacement, raw)
+
+        fpath.write_bytes(raw)
+
+    count = 0
+    try:
+        import json as _json
+        data = _json.loads((draft_folder / "draft_content.json").read_text(encoding="utf-8"))
+        for m in data.get("materials", {}).get("videos", []):
+            p = m.get("path", "")
+            if server_unc.replace("\\\\", "\\") in p or server_unc in p:
+                count += 1
+    except Exception:
+        pass
+    if count:
+        print(f"  + paths rewritten to UNC ({count} materials)")
 
 
 if __name__ == "__main__":

@@ -88,8 +88,10 @@ def main():
     srt_file = out_dir / "subtitles.srt"
     timing_map_file = out_dir / "timing_map.json"
     blueprint_file = out_dir / "blueprint.json"
-    # Prefer v2 matches > atoms > original
-    matches_file = out_dir / "asset_matches_v2.json"
+    # Prefer v3 > v2 > atoms > original
+    matches_file = out_dir / "asset_matches_v3.json"
+    if not matches_file.exists():
+        matches_file = out_dir / "asset_matches_v2.json"
     if not matches_file.exists():
         matches_file = out_dir / "asset_matches_atoms.json"
     if not matches_file.exists():
@@ -249,15 +251,21 @@ def main():
         for ac in asset_clips:
             output_start_us = int(ac["output_start"] * SEC)
             output_dur_us = int((ac["output_end"] - ac["output_start"]) * SEC)
-            # Source trimming: start from asset_start within the source video
             source_start_us = int(ac["asset_start"] * SEC)
-            if output_dur_us <= 0:
+            asset_avail_us = int((ac["asset_end"] - ac["asset_start"]) * SEC)
+            source_dur_us = min(output_dur_us, asset_avail_us)
+            # Safety margin: reduce by 100ms to avoid exceeding actual file duration
+            source_dur_us = max(source_dur_us - 100000, SEC)
+            if source_dur_us <= 0 or output_dur_us <= 0:
                 continue
-            script.add_segment(VideoSegment(
-                ac["asset_path"],
-                target_timerange=Timerange(output_start_us, output_dur_us),
-                source_timerange=Timerange(source_start_us, output_dur_us),
-            ), "assets")
+            try:
+                script.add_segment(VideoSegment(
+                    ac["asset_path"],
+                    target_timerange=Timerange(output_start_us, source_dur_us),
+                    source_timerange=Timerange(source_start_us, source_dur_us),
+                ), "assets")
+            except ValueError as e:
+                print(f"  [WARN] Skipping {ac['seg_id']}: {e}")
         print(f"  + assets track ({len(asset_clips)} clips)")
 
     # Track 6: subtitles

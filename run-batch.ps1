@@ -21,6 +21,8 @@ if (Test-Path -LiteralPath $envFile) {
 }
 
 $PythonExe = if ($env:PYTHON_PATH) { $env:PYTHON_PATH } else { "python" }
+$WorkingRoot = $env:WORKING_ROOT   # e.g. Z:\AI editing\working files
+$AssetLibrary = $env:ASSET_LIBRARY # e.g. Z:\AI editing\asset library
 
 # Editor name -> JianYing Drafts UNC path
 $EditorTargets = @{
@@ -159,7 +161,16 @@ try {
         $mp4 = $mp4Files[0].FullName
         $docx = if ($docxFiles.Count -gt 0) { $docxFiles[0].FullName } else { $null }
 
-        $out = Join-Path $dir "out"
+        # Mirror P-drive structure onto working drive (SSD)
+        # P:\...\260403\wangchen\某病例 -> Z:\AI editing\working files\260403\wangchen\某病例\out
+        if ($WorkingRoot) {
+            $datePart = Split-Path $root -Leaf
+            $relative = $dir.Substring($root.Length).TrimStart('\', '/')
+            $out = Join-Path $WorkingRoot (Join-Path $datePart (Join-Path $relative "out"))
+        } else {
+            $out = Join-Path $dir "out"
+        }
+
         $blueprintPath = Join-Path $out "blueprint.json"
         $timingPath = Join-Path $out "timing_map.json"
         $overlayPath = Join-Path $out "overlay.mp4"
@@ -269,12 +280,21 @@ try {
         }
 
         # Generate JianYing draft
-        $assetIndex = Join-Path $resolvedProjectRoot "asset_index.json"
         $draftArgs = @(
             "scripts/generate-jianying-draft.py",
             $out
         )
-        if (Test-Path -LiteralPath $assetIndex) {
+        # Try asset index from asset library, fall back to project root
+        $assetIndex = $null
+        if ($AssetLibrary) {
+            $libIndex = Join-Path $AssetLibrary "asset_index.json"
+            if (Test-Path -LiteralPath $libIndex) { $assetIndex = $libIndex }
+        }
+        if (-not $assetIndex) {
+            $localIndex = Join-Path $resolvedProjectRoot "asset_index.json"
+            if (Test-Path -LiteralPath $localIndex) { $assetIndex = $localIndex }
+        }
+        if ($assetIndex) {
             $draftArgs += @("--asset-index", $assetIndex)
         }
 
