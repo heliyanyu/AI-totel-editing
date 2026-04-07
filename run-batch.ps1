@@ -10,6 +10,18 @@ $ErrorActionPreference = "Stop"
 
 $env:HF_HUB_OFFLINE = "1"
 
+# Load .env file for machine-specific config
+$envFile = Join-Path $PSScriptRoot ".env"
+if (Test-Path -LiteralPath $envFile) {
+    Get-Content $envFile | ForEach-Object {
+        if ($_ -match '^\s*([A-Z_]+)\s*=\s*(.+)$') {
+            [System.Environment]::SetEnvironmentVariable($Matches[1], $Matches[2])
+        }
+    }
+}
+
+$PythonExe = if ($env:PYTHON_PATH) { $env:PYTHON_PATH } else { "python" }
+
 # Editor name -> JianYing Drafts UNC path
 $EditorTargets = @{
     "wangchen"     = "\\192.168.0.66\JianyingPro Drafts"
@@ -252,7 +264,7 @@ try {
             $out
         )
 
-        if (-not (Invoke-CheckedStep -Name "split overlay" -Command "F:/miniconda3/envs/agent/python.exe" -Arguments $splitArgs -FailureMessage "split overlay failed (non-fatal)")) {
+        if (-not (Invoke-CheckedStep -Name "split overlay" -Command "$PythonExe" -Arguments $splitArgs -FailureMessage "split overlay failed (non-fatal)")) {
             Write-Host "  [WARN] overlay split skipped" -ForegroundColor Yellow
         }
 
@@ -266,7 +278,7 @@ try {
             $draftArgs += @("--asset-index", $assetIndex)
         }
 
-        if (-not (Invoke-CheckedStep -Name "jianying draft" -Command "F:/miniconda3/envs/agent/python.exe" -Arguments $draftArgs -FailureMessage "jianying draft failed (non-fatal)")) {
+        if (-not (Invoke-CheckedStep -Name "jianying draft" -Command "$PythonExe" -Arguments $draftArgs -FailureMessage "jianying draft failed (non-fatal)")) {
             Write-Host "  [WARN] jianying draft skipped" -ForegroundColor Yellow
         }
 
