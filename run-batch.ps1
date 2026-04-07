@@ -198,8 +198,12 @@ try {
 
         New-Item -ItemType Directory -Path $out -Force | Out-Null
 
-        # Already fully done
-        if ((Test-Path -LiteralPath $overlayPath) -and (Test-Path -LiteralPath $srtPath)) {
+        # Check if fully done (overlay + srt + draft)
+        $caseName = Split-Path $info.Dir -Leaf
+        $draftPath = Join-Path $out "${caseName}_draft"
+        $hasDraft = Test-Path -LiteralPath $draftPath
+
+        if ((Test-Path -LiteralPath $overlayPath) -and (Test-Path -LiteralPath $srtPath) -and $hasDraft) {
             Write-Host ("[{0}/{1}] {2} - skip (done)" -f $i, $total, $info.Dir) -ForegroundColor DarkGray
             if (-not $SkipDistribute) {
                 Send-DraftToEditor -CaseDir $info.Dir -RootDir $root -OutDir $out
