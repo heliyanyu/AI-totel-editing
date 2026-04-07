@@ -175,7 +175,7 @@ Write-Host ("Found {0} cases" -f $total) -ForegroundColor Cyan
 # ── Phase 1: ASR (serial, uses GPU) ──
 
 Write-Host ""
-Write-Host "═══ Phase 1: ASR transcription (serial) ═══" -ForegroundColor Yellow
+Write-Host "=== Phase 1: ASR transcription (serial) ===" -ForegroundColor Yellow
 
 $needsProcessing = @()
 $i = 0
@@ -233,7 +233,7 @@ if ($needsProcessing.Count -eq 0) {
 # ── Phase 2: analyze + render + post (parallel) ──
 
 Write-Host ""
-Write-Host ("═══ Phase 2: analyze + render + post ({0} cases, {1} parallel) ═══" -f $needsProcessing.Count, $Parallel) -ForegroundColor Yellow
+Write-Host ("=== Phase 2: analyze + render + post ({0} cases, {1} parallel) ===" -f $needsProcessing.Count, $Parallel) -ForegroundColor Yellow
 
 $caseScript = {
     param($CaseInfo, $ProjectRoot, $PythonExe, $AssetIndex, $Root, $EditorTargets, $SkipDistribute)
