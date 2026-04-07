@@ -79,11 +79,16 @@ function Invoke-Step {
     Write-Host ("  -> {0}..." -f $Name) -ForegroundColor Gray
     $prevEAP = $ErrorActionPreference
     $ErrorActionPreference = "SilentlyContinue"
-    & $Command @Arguments *> $null
+    $errOutput = & $Command @Arguments 2>&1 | Where-Object { $_ -is [System.Management.Automation.ErrorRecord] }
     $code = $LASTEXITCODE
     $ErrorActionPreference = $prevEAP
     if ($code -ne 0) {
         Write-Host ("  [FAIL] {0}" -f $Name) -ForegroundColor Red
+        if ($errOutput) {
+            foreach ($line in $errOutput) {
+                Write-Host ("  [ERR] {0}" -f $line) -ForegroundColor Red
+            }
+        }
         return $false
     }
     return $true
@@ -258,9 +263,14 @@ $caseScript = {
         Log ("  -> {0}..." -f $name) "Gray"
         $prevEAP = $ErrorActionPreference
         $ErrorActionPreference = "SilentlyContinue"
-        & $command @arguments *> $null
+        $errOutput = & $command @arguments 2>&1 | Where-Object { $_ -is [System.Management.Automation.ErrorRecord] }
         $code = $LASTEXITCODE
         $ErrorActionPreference = $prevEAP
+        if ($code -ne 0 -and $errOutput) {
+            foreach ($line in $errOutput) {
+                Log ("  [ERR] {0}" -f $line) "Red"
+            }
+        }
         return $code
     }
 
