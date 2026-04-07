@@ -39,7 +39,7 @@
 import { execFileSync, spawnSync } from "child_process";
 import Anthropic from "@anthropic-ai/sdk";
 import OpenAI from "openai";
-import { readFileSync, writeFileSync, mkdirSync } from "fs";
+import { existsSync, readFileSync, writeFileSync, mkdirSync } from "fs";
 import { dirname, resolve, join } from "path";
 import {
   DEFAULT_ANTHROPIC_MODEL,
@@ -1534,6 +1534,16 @@ async function main() {
       throw new Error("启用 --transcribe-qwen 时必须同时提供 --audio。");
     }
 
+    // Skip ASR if transcript_raw.json already exists (e.g. from Phase 1)
+    const existingRawTranscript = resolve(outputDir, "transcript_raw.json");
+    if (existsSync(existingRawTranscript)) {
+      console.log("\n── Transcribe: skipped (transcript_raw.json exists) ──");
+      transcriptPath = existingRawTranscript;
+      transcribeQwen = false;
+    }
+  }
+
+  if (transcribeQwen) {
     console.log("\n── Transcribe: Qwen3-ASR-1.7B ──");
     const transcribeResult = runQwenTranscribe({
       audioPath: resolvedAudioPath,
