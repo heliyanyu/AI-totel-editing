@@ -20,12 +20,9 @@ test/**/*.docx
 out/
 **/out/*.mp4
 
-# Asset video folders (large files, only index JSON is tracked)
-2 循环系统疾病/**/*.mp4
-2 循环系统疾病/**/*.mov
-2 循环系统疾病/**/*.wmv
-动画素材片段/**/*.mp4
-动画素材片段/**/*.mov
+# Asset libraries (managed separately, not part of this repo)
+2 循环系统疾病/
+动画素材片段/
 
 # Pipeline intermediate outputs
 *-Scenes.csv
