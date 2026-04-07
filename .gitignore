@@ -12,6 +12,7 @@ output/
 .claude/
 .stills/
 **/.stills/
+.env
 
 # Large local test/output assets
 test/**/*.mp4
@@ -22,6 +23,13 @@ out/
 # Asset video folders (large files, only index JSON is tracked)
 2 循环系统疾病/**/*.mp4
 2 循环系统疾病/**/*.mov
+2 循环系统疾病/**/*.wmv
 动画素材片段/**/*.mp4
 动画素材片段/**/*.mov
-.env
+
+# Pipeline intermediate outputs
+*-Scenes.csv
+scripts/cluster_atoms/
+scripts/cluster_results/
+scripts/*.txt
+scripts/*.json
