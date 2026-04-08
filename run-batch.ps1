@@ -129,7 +129,8 @@ function Send-DraftToEditor {
     $draftFolderName = "${caseName}_draft"
     $localDraft = Join-Path $OutDir $draftFolderName
 
-    if (-not (Test-Path -LiteralPath $localDraft)) { return }
+    $localDraftJson = Join-Path $localDraft "draft_content.json"
+    if (-not (Test-Path -LiteralPath $localDraftJson)) { return }
 
     $remoteDraft = Join-Path $targetDrafts $draftFolderName
     try {
@@ -391,7 +392,8 @@ $caseScript = {
             $caseName = Split-Path $dir -Leaf
             $draftFolderName = "${caseName}_draft"
             $localDraft = Join-Path $out $draftFolderName
-            if (Test-Path -LiteralPath $localDraft) {
+            $localDraftJson = Join-Path $localDraft "draft_content.json"
+            if ((Test-Path -LiteralPath $localDraft) -and (Test-Path -LiteralPath $localDraftJson)) {
                 $remoteDraft = Join-Path $targetDrafts $draftFolderName
                 try {
                     if (Test-Path -LiteralPath $remoteDraft) {
