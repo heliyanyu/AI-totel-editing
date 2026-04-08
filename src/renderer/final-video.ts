@@ -28,6 +28,9 @@ import { prepareRemotionBinariesWithSystemFfmpeg } from "./remotion-binaries.js"
 import { bundleRemotionProject } from "./bundle.js";
 import { resolveRenderConcurrency } from "./render-concurrency.js";
 import { renderSourceDirectCutVideo } from "./source-direct-video.js";
+import { segmentsToRenderScenes } from "../compose/segment-to-scene.js";
+import { buildRenderSegmentSequencePlans } from "../compose/pipeline-plan.js";
+import { buildVisualPlan } from "../compose/visual-planner.js";
 
 export interface RenderOptions {
   blueprintPath: string;
@@ -221,6 +224,38 @@ export async function renderFinalVideo(
   const resolvedOutput = normalizeOverlayOutputPath(outputPath, codec);
   mkdirSync(dirname(resolvedOutput), { recursive: true });
 
+  // Export visual plan JSON for Python renderers (progress_bar, navigation)
+  const renderInfos = segmentsToRenderScenes(blueprint, timingMap);
+  const renderSegmentPlans = buildRenderSegmentSequencePlans(
+    renderInfos,
+    timingMap,
+    VIDEO_FPS,
+    totalDurationFrames
+  );
+  const visualPlan = buildVisualPlan(blueprint, renderSegmentPlans);
+  const visualPlanPath = resolve(dirname(resolvedOutput), "visual_plan.json");
+  writeFileSync(
+    visualPlanPath,
+    JSON.stringify(
+      {
+        fps: VIDEO_FPS,
+        totalFrames: totalDurationFrames,
+        segments: visualPlan.segments.map((s) => ({
+          fromFrame: s.fromFrame,
+          contentDurationInFrames: s.contentDurationInFrames,
+          topicId: s.topicId,
+          tone: s.tone,
+        })),
+        topicNodes: visualPlan.topicNodes,
+        topicAppearances: visualPlan.topicAppearances,
+      },
+      null,
+      2
+    ),
+    "utf-8"
+  );
+  console.log(`  visual_plan.json: ${visualPlanPath}`);
+
   const media = ensureCutSourceVideo(timingMap, options);
   if (media.cutSourceVideoPath) {
     console.log(`  剪裁原视频: ${media.cutSourceVideoPath}`);
@@ -256,6 +291,9 @@ export async function renderFinalVideo(
   }
 
   const outputDir = dirname(resolvedOutput);
+  // progress_bar and navigation layers are now rendered by Python scripts
+  // (render_progress_bar.py / render_navigation.py) using visual_plan.json.
+  // Remotion only renders the main overlay layer.
   const layers: {
     name: string;
     output: string;
@@ -266,16 +304,6 @@ export async function renderFinalVideo(
       name: "overlay",
       output: resolvedOutput,
       props: { showContent: true, showNavigation: false, showProgressBar: false },
-    },
-    {
-      name: "progress_bar",
-      output: resolve(outputDir, "overlay_progress_bar.mp4"),
-      props: { showContent: false, showNavigation: false, showProgressBar: true },
-    },
-    {
-      name: "navigation",
-      output: resolve(outputDir, "overlay_navigation.mp4"),
-      props: { showContent: false, showNavigation: true, showProgressBar: false },
     },
   ];
 

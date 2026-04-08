@@ -364,6 +364,28 @@ $caseScript = {
         return @{ Status = "failed"; Log = $log }
     }
 
+    # Python renders (progress_bar + navigation) — CPU only, no GPU needed
+    $visualPlanPath = Join-Path $out "visual_plan.json"
+    if (Test-Path -LiteralPath $visualPlanPath) {
+        $pbPath = Join-Path $out "overlay_progress_bar.mp4"
+        if (-not (Test-Path -LiteralPath $pbPath)) {
+            $code = RunStep "progress_bar" $PythonExe @("scripts/render_progress_bar.py", $out)
+            if ($code -ne 0) { Log "  [WARN] progress_bar render failed" "Yellow" }
+        } else {
+            Log "  progress_bar: exists, skip" "DarkGray"
+        }
+
+        $navManifest = Join-Path $out "nav_scenes" "overlay_navigation_manifest.json"
+        if (-not (Test-Path -LiteralPath $navManifest)) {
+            $code = RunStep "navigation" $PythonExe @("scripts/render_navigation.py", $out)
+            if ($code -ne 0) { Log "  [WARN] navigation render failed" "Yellow" }
+        } else {
+            Log "  navigation: exists, skip" "DarkGray"
+        }
+    } else {
+        Log "  [WARN] visual_plan.json missing, skip Python renders" "Yellow"
+    }
+
     # Split overlay
     $code = RunStep "split overlay" $PythonExe @("scripts/split-overlay-by-scene.py", $out)
     if ($code -ne 0) { Log "  [WARN] split skipped" "Yellow" }
