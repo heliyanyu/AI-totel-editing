@@ -8,6 +8,7 @@ Usage:
 import json
 import os
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -107,7 +108,18 @@ def main():
 
     timing_map = json.loads(timing_map_file.read_text(encoding="utf-8"))
     total_duration = timing_map.get("totalDuration", 0)
-    # Use a slightly shorter duration to avoid exceeding actual media length
+
+    # Probe actual video duration to avoid exceeding media length
+    try:
+        probe = subprocess.run(
+            ["ffprobe", "-v", "quiet", "-show_entries", "format=duration",
+             "-of", "default=noprint_wrappers=1:nokey=1", str(source_video)],
+            capture_output=True, text=True, timeout=30,
+        )
+        video_duration = float(probe.stdout.strip())
+        total_duration = min(total_duration, video_duration)
+    except Exception:
+        pass
     total_us = int(total_duration * SEC) - 10000  # subtract 10ms safety margin
 
     draft_name = derive_draft_name(out_dir)
