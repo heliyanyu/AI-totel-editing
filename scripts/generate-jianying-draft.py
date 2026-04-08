@@ -74,7 +74,7 @@ def main():
         print("Usage: python scripts/generate-jianying-draft.py <case_out_dir> [--target <drafts_dir>]")
         sys.exit(1)
 
-    out_dir = Path(sys.argv[1]).resolve()
+    out_dir = Path(sys.argv[1]).absolute()
 
     target_dir = None
     asset_index_path = None
