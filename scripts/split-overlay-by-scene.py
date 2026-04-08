@@ -207,8 +207,12 @@ def main():
     else:
         print("  overlay_progress_bar.mov not found, skipping")
 
-    # Split navigation into per-scene clips (only the display window)
-    if nav_video.exists():
+    # Navigation clips: check if Python renderer already produced them
+    nav_py_manifest = out_dir / "nav_scenes" / "overlay_navigation_manifest.json"
+    if nav_py_manifest.exists():
+        print(f"\n  navigation: Python-rendered clips exist, skip split")
+    elif nav_video.exists():
+        # Legacy fallback: split monolithic navigation video
         nav_entries = [
             {**s, "duration": min(NAV_DISPLAY_SEC, s["end"] - s["start"])}
             for s in scenes
@@ -219,7 +223,7 @@ def main():
         )
         print(f"\n{len(nav_manifest)} navigation clips")
     else:
-        print("  overlay_navigation.mov not found, skipping nav split")
+        print("  navigation video not found, skipping nav split")
 
 
 if __name__ == "__main__":

@@ -168,11 +168,30 @@ def main():
         ), "progress_bar")
         print("  + progress bar track (cropped strip)")
 
-    # Track 4: navigation map — per-scene clips (.mp4) if available, otherwise single .mov file
-    nav_manifest = out_dir / "nav_scenes" / "manifest.json"
-    if nav_manifest.exists():
-        nav_clips = json.loads(nav_manifest.read_text(encoding="utf-8"))
-        nav_dir = out_dir / "nav_scenes"
+    # Track 4: navigation map — Python-rendered clips, legacy split clips, or single file
+    nav_py_manifest = out_dir / "nav_scenes" / "overlay_navigation_manifest.json"
+    nav_legacy_manifest = out_dir / "nav_scenes" / "manifest.json"
+    nav_dir = out_dir / "nav_scenes"
+
+    if nav_py_manifest.exists():
+        # Python-rendered per-appearance clips (preferred)
+        nav_clips = json.loads(nav_py_manifest.read_text(encoding="utf-8"))
+        script.add_track(TrackType.video, "navigation", relative_index=3)
+        for nc in nav_clips:
+            clip_path = nav_dir / nc["file"]
+            if not clip_path.exists():
+                continue
+            dur_us = int(nc["durationSec"] * SEC)
+            if dur_us <= 0:
+                continue
+            script.add_segment(VideoSegment(
+                str(clip_path),
+                target_timerange=Timerange(int(nc["startSec"] * SEC), dur_us),
+            ), "navigation")
+        print(f"  + navigation track ({len(nav_clips)} clips, Python-rendered)")
+    elif nav_legacy_manifest.exists():
+        # Legacy: split-overlay-by-scene clips
+        nav_clips = json.loads(nav_legacy_manifest.read_text(encoding="utf-8"))
         script.add_track(TrackType.video, "navigation", relative_index=3)
         for nc in nav_clips:
             clip_path = nav_dir / nc["filename"]
