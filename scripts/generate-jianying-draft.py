@@ -8,7 +8,6 @@ Usage:
 import json
 import os
 import re
-import subprocess
 import sys
 from pathlib import Path
 
@@ -109,24 +108,15 @@ def main():
     timing_map = json.loads(timing_map_file.read_text(encoding="utf-8"))
     total_duration = timing_map.get("totalDuration", 0)
 
-    # Probe actual video duration to avoid exceeding media length
-    try:
-        probe = subprocess.run(
-            ["ffprobe", "-v", "quiet", "-show_entries", "format=duration",
-             "-of", "default=noprint_wrappers=1:nokey=1", str(source_video)],
-            capture_output=True, text=True, timeout=30,
-        )
-        video_duration = float(probe.stdout.strip())
-        total_duration = min(total_duration, video_duration)
-    except Exception:
-        pass
-    total_us = int(total_duration * SEC) - 10000  # subtract 10ms safety margin
+    # Use material's own duration as the authoritative cap
+    source_material = VideoMaterial(str(source_video))
+    total_us = min(int(total_duration * SEC), source_material.duration)
 
     draft_name = derive_draft_name(out_dir)
     draft_parent = target_dir if target_dir else out_dir
     draft_parent.mkdir(parents=True, exist_ok=True)
 
-    print(f"Draft: {draft_name} ({total_duration:.1f}s)")
+    print(f"Draft: {draft_name} ({total_us / SEC:.1f}s)")
 
     folder = DraftFolder(str(draft_parent))
     script = folder.create_draft(draft_name, 1080, 1920, 30, allow_replace=True)
@@ -134,7 +124,7 @@ def main():
     # Track 1: main video
     script.add_track(TrackType.video, "main")
     script.add_segment(VideoSegment(
-        str(source_video),
+        source_material,
         target_timerange=Timerange(0, total_us),
     ), "main")
 
@@ -186,17 +176,20 @@ def main():
         nav_clips = json.loads(nav_manifest.read_text(encoding="utf-8"))
         nav_dir = out_dir / "nav_scenes"
         script.add_track(TrackType.video, "navigation", relative_index=3)
+        prev_end = 0
         for nc in nav_clips:
             clip_path = nav_dir / nc["filename"]
             if not clip_path.exists():
                 continue
-            dur_us = int(nc["duration"] * SEC)
+            start_us = max(int(nc["start"] * SEC), prev_end)
+            dur_us = int(nc["duration"] * SEC) - (start_us - int(nc["start"] * SEC))
             if dur_us <= 0:
                 continue
             script.add_segment(VideoSegment(
                 str(clip_path),
-                target_timerange=Timerange(int(nc["start"] * SEC), dur_us),
+                target_timerange=Timerange(start_us, dur_us),
             ), "navigation")
+            prev_end = start_us + dur_us
         print(f"  + navigation track ({len(nav_clips)} scene clips)")
     elif navigation_video.exists():
         script.add_track(TrackType.video, "navigation", relative_index=3)
