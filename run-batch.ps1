@@ -52,13 +52,13 @@ $AssetLibrary = $env:ASSET_LIBRARY
 
 # Editor name -> JianYing Drafts UNC path
 $EditorTargets = @{
-    "wangchen"     = "\\192.168.0.66\JianyingPro Drafts"
+    "wangchen"     = "\\192.168.0.14\JianyingPro Drafts"
     "zhangnan"     = "\\192.168.0.6\JianyingPro Drafts"
-    "xiyuting"     = "\\192.168.0.38\JianyingPro Drafts"
+    "xiyuting"     = "\\192.168.0.113\JianyingPro Drafts"
     "wangningjuan" = "\\BF-202507221612\JianyingPro Drafts"
-    "zhouqi"       = "\\192.168.0.26\JianyingPro Drafts"
+    "zhouqi"       = "\\192.168.0.109\JianyingPro Drafts"
     "guojie"       = "\\192.168.0.78\JianyingPro Drafts"
-    "wangchenglu"  = "\\192.168.0.8\JianyingPro Drafts"
+    "wangchenglu"  = "\\192.168.0.115\JianyingPro Drafts"
 }
 
 function Get-EditorFromPath {
