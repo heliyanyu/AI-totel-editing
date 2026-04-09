@@ -375,7 +375,7 @@ $caseScript = {
             Log "  progress_bar: exists, skip" "DarkGray"
         }
 
-        $navManifest = Join-Path $out "nav_scenes" "overlay_navigation_manifest.json"
+        $navManifest = Join-Path (Join-Path $out "nav_scenes") "overlay_navigation_manifest.json"
         if (-not (Test-Path -LiteralPath $navManifest)) {
             $code = RunStep "navigation" $PythonExe @("scripts/render_navigation.py", $out)
             if ($code -ne 0) { Log "  [WARN] navigation render failed" "Yellow" }
