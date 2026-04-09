@@ -1111,10 +1111,9 @@ export async function analyzeTranscript(
     }
   }
 
-  // 通道 2：语义结构
+  // 通道 2：force-align（Review 后的文本 + 原音频 → 精确时间戳）
   const shouldForceAlign =
-    Boolean(options?.audioPath) &&
-    (options?.forceAlign?.enabled ?? !options?.sourceTranscript);
+    Boolean(options?.forceAlign?.enabled) && Boolean(options?.audioPath);
 
   if (shouldForceAlign && options?.audioPath) {
     mkdirSync(runtimeOutputDir, { recursive: true });
@@ -1567,48 +1566,10 @@ async function main() {
         `detected=${transcribeResult.manifest.languageDetected || "unknown"}`
     );
 
-    if (forceAlignQwen) {
-      console.log(
-        "  已跳过单独的 --force-align-qwen，因为 Qwen 转录阶段已经返回了对齐时间戳。"
-      );
-      forceAlignQwen = true;
-    }
   }
 
   if (forceAlignQwen && !resolvedAudioPath) {
     throw new Error("`--force-align-qwen` requires `--audio`.");
-  }
-
-  if (false && forceAlignQwen) {
-    if (!resolvedAudioPath) {
-      throw new Error("启用 --force-align-qwen 时必须同时提供 --audio。");
-    }
-
-    console.log("\n── Force Align: Qwen3-ForcedAligner ──");
-    const forceAlignResult = runQwenForcedAlign({
-      audioPath: resolvedAudioPath,
-      transcriptPath,
-      outputDir,
-      pythonExecutable: forceAlignPython || undefined,
-      model: forceAlignModel || undefined,
-      language: forceAlignLanguage || undefined,
-      deviceMap: forceAlignDeviceMap || undefined,
-      dtype: forceAlignDType,
-      maxChunkSeconds: forceAlignMaxChunkSeconds,
-      minChunkSeconds: forceAlignMinChunkSeconds,
-      gapThresholdSeconds: forceAlignGapThresholdSeconds,
-      paddingSeconds: forceAlignPaddingSeconds,
-      batchSize: forceAlignBatchSize,
-    });
-    transcriptPath = forceAlignResult.alignedWordTranscriptPath;
-    sourceTranscriptPath = forceAlignResult.alignedTokenTranscriptPath;
-    console.log(`  aligned words: ${forceAlignResult.alignedWordTranscriptPath}`);
-    console.log(`  aligned tokens: ${forceAlignResult.alignedTokenTranscriptPath}`);
-    console.log(
-      `  chunks=${forceAlignResult.manifest.summary.chunkCount}, ` +
-        `tokens=${forceAlignResult.manifest.summary.alignedTokenCount}, ` +
-        `fallback words=${forceAlignResult.manifest.summary.fallbackWordCount}`
-    );
   }
 
   if (sourceTranscriptPath !== "") {
@@ -1643,7 +1604,7 @@ async function main() {
     sourceTranscript,
     audioPath: resolvedAudioPath || undefined,
     forceAlign: {
-      enabled: forceAlignQwen ? true : undefined,
+      enabled: forceAlignQwen,
       pythonExecutable: forceAlignPython || undefined,
       model: forceAlignModel || undefined,
       language: forceAlignLanguage || undefined,
