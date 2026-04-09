@@ -78,14 +78,15 @@ def main():
 
     target_dir = None
     asset_index_path = None
-    server_unc = os.environ.get("SERVER_UNC")
+    editor_drive = os.environ.get("EDITOR_DRIVE")
+    server_local_root = os.environ.get("SERVER_LOCAL_ROOT")
     for i, arg in enumerate(sys.argv):
         if arg == "--target" and i + 1 < len(sys.argv):
             target_dir = Path(sys.argv[i + 1])
         elif arg == "--asset-index" and i + 1 < len(sys.argv):
             asset_index_path = Path(sys.argv[i + 1])
-        elif arg == "--server-unc" and i + 1 < len(sys.argv):
-            server_unc = sys.argv[i + 1]
+        elif arg == "--editor-drive" and i + 1 < len(sys.argv):
+            editor_drive = sys.argv[i + 1]
 
     source_video = out_dir / "source_direct_cut_video.mp4"
     overlay_video = out_dir / "overlay.mp4"
@@ -301,56 +302,74 @@ def main():
 
     script.save()
 
-    # Rewrite local paths to UNC paths so editors can access files over network
-    if server_unc:
+    # Rewrite local paths to mapped drive so editors can open drafts
+    if editor_drive and server_local_root:
         draft_folder = draft_parent / draft_name
-        _rewrite_paths_to_unc(draft_folder, server_unc)
+        _rewrite_paths_to_editor_drive(draft_folder, server_local_root, editor_drive)
 
     print(f"  -> {draft_parent / draft_name}")
 
 
-def _rewrite_paths_to_unc(draft_folder: Path, server_unc: str):
-    """Replace local drive paths (D:\\...) with UNC paths (\\\\server\\share\\...)
-    in all draft JSON files so JianYing on editors' computers can find the media."""
+def _rewrite_paths_to_editor_drive(draft_folder: Path, server_local_root: str, editor_drive: str):
+    """Replace server local paths with mapped drive paths using forward slashes.
 
-    # Convention: D:\AI editing\<share_name>\... -> \\server\<share_name>\...
-    # In JSON, backslashes are escaped: D:\\AI editing\\working files\\
-    # must become \\\\192.168.0.93\\working files\\
+    JianYing requires forward slashes for network-mapped drives.
+    Example: D:\\AI editing\\working files\\... -> W:/working files/...
+    """
 
-    server_unc = server_unc.rstrip("\\")
-    # Build the JSON-escaped UNC prefix: \\192.168.0.93 -> \\\\192.168.0.93
-    unc_escaped = server_unc.replace("\\", "\\\\")  # e.g. "\\\\192.168.0.93"
+    editor_drive = editor_drive.rstrip(":/\\") + ":"  # ensure "W:"
 
-    for fname in ["draft_content.json", "draft_content.json.bak", "template-2.tmp"]:
+    # In the JSON file, backslashes are stored as \x5c\x5c (two bytes per separator).
+    # We replace the server root prefix with editor_drive + forward slashes.
+    #
+    # The server_local_root might be "D:\AI editing" which in JSON bytes is
+    # b'D:\x5c\x5cAI editing' (with \\ as separator).
+
+    # Build the byte pattern to find
+    root_normalized = server_local_root.replace("/", "\\").rstrip("\\")
+    # e.g. "D:\AI editing" -> parts ["D:", "AI editing"]
+    parts = root_normalized.split("\\")
+    # In JSON bytes: D:\x5c\x5cAI editing
+    old_pattern = parts[0].encode() + b''.join(b'\x5c\x5c' + p.encode() for p in parts[1:])
+
+    # Replacement: W: (then we also need to fix remaining \\ to /)
+    new_prefix = editor_drive.encode()
+
+    for fname in ["draft_content.json"]:
         fpath = draft_folder / fname
         if not fpath.exists():
             continue
 
-        text = fpath.read_text(encoding="utf-8")
+        raw = fpath.read_bytes()
+        if old_pattern not in raw:
+            continue
 
-        # Find drive letter paths in JSON-escaped form: X:\\AI editing\\<share>\\
-        for m in set(re.findall(r'[A-Z]:\\\\AI editing\\\\([^\\\"]+)\\\\', text)):
-            share_name = m  # e.g. "working files" or "asset library"
-            old_prefix = re.escape(m)
-            # Replace: D:\\AI editing\\working files\\ -> \\\\192.168.0.93\\working files\\
-            pattern = r'[A-Z]:\\\\AI editing\\\\' + old_prefix + r'\\\\'
-            replacement = unc_escaped + '\\\\' + share_name + '\\\\'
-            text = re.sub(pattern, replacement, text)
+        # Replace root prefix
+        raw = raw.replace(old_pattern + b'\x5c\x5c', new_prefix + b'/')
+        raw = raw.replace(old_pattern, new_prefix)
 
-        fpath.write_text(text, encoding="utf-8")
+        # Now fix remaining backslash separators after W: within path strings
+        # Find all "W:..." path strings and replace \\ with /
+        import re as _re
+        def fix_fwd_slash(m):
+            return m.group(0).replace(b'\x5c\x5c', b'/')
+        raw = _re.sub(_re.escape(new_prefix) + rb'[^"]*', fix_fwd_slash, raw)
 
+        fpath.write_bytes(raw)
+
+    # Verify and count
     count = 0
     try:
         import json as _json
         data = _json.loads((draft_folder / "draft_content.json").read_text(encoding="utf-8"))
         for m in data.get("materials", {}).get("videos", []):
             p = m.get("path", "")
-            if server_unc.replace("\\\\", "\\") in p or server_unc in p:
+            if p.startswith(editor_drive):
                 count += 1
     except Exception:
         pass
     if count:
-        print(f"  + paths rewritten to UNC ({count} materials)")
+        print(f"  + paths rewritten to {editor_drive} ({count} materials)")
 
 
 if __name__ == "__main__":
