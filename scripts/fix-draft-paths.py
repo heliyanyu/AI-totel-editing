@@ -1,11 +1,14 @@
 # -*- coding: utf-8 -*-
 """Fix invalid JSON escapes in draft_content.json.
 
-Problem: UNC paths like \\192.168.0.93\working files\260407\...
-have unescaped backslashes that break JSON parsing.
+Problem: UNC paths have mix of single and double backslashes:
+  \\\\192.168.0.93\\working files\\260407\\\\wangningjuan\\\\...
+  (\\\\=correct, \\=wrong for path separators after share name)
 
-Solution: read as raw text, find ALL string values containing
-backslash-followed-by-non-escape-char, fix them.
+The single \\ before "working", "260407" etc are invalid JSON escapes.
+
+Fix: only target single backslashes that are NOT already part of a
+valid JSON escape sequence.
 
 Usage:
   python scripts/fix-draft-paths.py <root_dir>
@@ -19,80 +22,87 @@ import shutil
 
 
 def fix_draft(filepath):
-    """Fix unescaped backslashes in ALL JSON string values."""
-    # Restore from backup first if exists
+    """Fix unescaped backslashes in JSON string values."""
     backup = filepath + '.bak'
+
+    # If backup exists from previous bad fix, restore it first
     if os.path.exists(backup):
         shutil.copy2(backup, filepath)
         os.remove(backup)
 
-    with open(filepath, 'rb') as f:
-        raw = f.read()
+    with open(filepath, 'r', encoding='utf-8', errors='replace') as f:
+        text = f.read()
 
-    original = raw
-    text = raw.decode('utf-8', errors='replace')
+    # Test if already valid JSON
+    try:
+        json.loads(text)
+        return False  # already fine
+    except json.JSONDecodeError:
+        pass
 
-    # Backup original
-    backup = filepath + '.bak'
+    # Backup the original broken file
     shutil.copy2(filepath, backup)
 
-    # Process character by character to properly handle JSON strings
-    # Find each JSON string and fix backslashes inside it
+    # Fix: walk through each JSON string value, find unescaped backslashes
+    # An unescaped backslash is a single \ NOT followed by: " \ / b f n r t u
+    # AND NOT preceded by another \
+    #
+    # Strategy: process the file character by character, tracking whether
+    # we're inside a JSON string
     result = []
     i = 0
+    in_string = False
+
     while i < len(text):
-        if text[i] == '"':
-            # Start of a JSON string
-            result.append('"')
+        ch = text[i]
+
+        if not in_string:
+            result.append(ch)
+            if ch == '"':
+                in_string = True
             i += 1
-            while i < len(text) and text[i] != '"':
-                if text[i] == '\\':
-                    # Check next char
-                    if i + 1 < len(text):
-                        next_char = text[i + 1]
-                        if next_char in ('"', '\\', '/', 'b', 'f', 'n', 'r', 't'):
-                            # Valid escape, keep as-is
-                            result.append(text[i])
-                            result.append(text[i + 1])
-                            i += 2
-                            continue
-                        elif next_char == 'u':
-                            # Unicode escape \uXXXX, keep as-is
-                            result.append(text[i:i+6])
-                            i += 6
-                            continue
-                        else:
-                            # Invalid escape! Double the backslash
-                            result.append('\\\\')
-                            i += 1
-                            continue
+        else:
+            # Inside a JSON string
+            if ch == '"':
+                # End of string
+                result.append(ch)
+                in_string = False
+                i += 1
+            elif ch == '\\':
+                # Backslash inside string - check what follows
+                if i + 1 < len(text):
+                    next_ch = text[i + 1]
+                    if next_ch in ('"', '\\', '/', 'b', 'f', 'n', 'r', 't'):
+                        # Valid 2-char escape sequence, keep as-is
+                        result.append(ch)
+                        result.append(next_ch)
+                        i += 2
+                    elif next_ch == 'u':
+                        # Unicode escape \uXXXX, keep as-is
+                        result.append(text[i:i+6])
+                        i += 6
                     else:
-                        result.append(text[i])
+                        # Invalid escape like \w, \2, \c etc
+                        # Add extra backslash to make it \\w, \\2, \\c
+                        result.append('\\')
+                        result.append(ch)
                         i += 1
                 else:
-                    result.append(text[i])
+                    result.append(ch)
                     i += 1
-            if i < len(text):
-                result.append('"')
+            else:
+                result.append(ch)
                 i += 1
-        else:
-            result.append(text[i])
-            i += 1
 
     fixed = ''.join(result)
 
-    if fixed != text:
-        with open(filepath, 'w', encoding='utf-8', newline='') as f:
-            f.write(fixed)
-        return True
-    else:
-        # No changes needed, remove backup
-        os.remove(backup)
-        return False
+    with open(filepath, 'w', encoding='utf-8', newline='') as f:
+        f.write(fixed)
+    return True
 
 
 def main():
-    root = sys.argv[1] if len(sys.argv) > 1 else "Z:/AI editing/working files/260407"
+    root = sys.argv[1] if len(sys.argv) > 1 else "Z:/AI editing/working files"
 
     fixed_count = 0
     error_count = 0
@@ -111,7 +121,7 @@ def main():
                             json.load(f)
                         fixed_count += 1
                         print(f"  FIXED: {relpath}")
-                        # Remove backup after successful verify
+                        # Remove backup
                         backup = filepath + '.bak'
                         if os.path.exists(backup):
                             os.remove(backup)
