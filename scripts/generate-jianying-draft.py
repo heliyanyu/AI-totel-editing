@@ -313,33 +313,31 @@ def _rewrite_paths_to_unc(draft_folder: Path, server_unc: str):
     """Replace local drive paths (D:\\...) with UNC paths (\\\\server\\share\\...)
     in all draft JSON files so JianYing on editors' computers can find the media."""
 
-    # Collect local drive prefixes that appear in the draft
-    # e.g. D:\AI editing\working files -> \\192.168.0.93\working files
-    #      D:\AI editing\asset library -> \\192.168.0.93\asset library
     # Convention: D:\AI editing\<share_name>\... -> \\server\<share_name>\...
-    #
-    # We scan for all "D:\\" patterns and build replacements automatically.
-    # The share name is the folder directly under the common root "AI editing".
+    # In JSON, backslashes are escaped: D:\\AI editing\\working files\\
+    # must become \\\\192.168.0.93\\working files\\
 
     server_unc = server_unc.rstrip("\\")
+    # Build the JSON-escaped UNC prefix: \\192.168.0.93 -> \\\\192.168.0.93
+    unc_escaped = server_unc.replace("\\", "\\\\")  # e.g. "\\\\192.168.0.93"
 
     for fname in ["draft_content.json", "draft_content.json.bak", "template-2.tmp"]:
         fpath = draft_folder / fname
         if not fpath.exists():
             continue
-        raw = fpath.read_bytes()
 
-        # Find drive letter paths like X:\\AI editing\\ in the JSON bytes
-        # Match pattern: single uppercase letter + :\ + \AI editing\ (with JSON escaping \\)
-        for m in set(re.findall(rb'[A-Z]:\x5c\x5cAI editing\x5c\x5c([^\x5c"]+)\x5c\x5c', raw)):
-            share_name = m  # e.g. b"working files" or b"asset library"
+        text = fpath.read_text(encoding="utf-8")
+
+        # Find drive letter paths in JSON-escaped form: X:\\AI editing\\<share>\\
+        for m in set(re.findall(r'[A-Z]:\\\\AI editing\\\\([^\\\"]+)\\\\', text)):
+            share_name = m  # e.g. "working files" or "asset library"
             old_prefix = re.escape(m)
-            # D:\\AI editing\\working files\\ -> \\\\192.168.0.93\\working files\\
-            pattern = rb'[A-Z]:\x5c\x5cAI editing\x5c\x5c' + old_prefix + rb'\x5c\x5c'
-            replacement = server_unc.replace("\\", "\\\\").encode() + b"\x5c\x5c" + share_name + b"\x5c\x5c"
-            raw = re.sub(pattern, replacement, raw)
+            # Replace: D:\\AI editing\\working files\\ -> \\\\192.168.0.93\\working files\\
+            pattern = r'[A-Z]:\\\\AI editing\\\\' + old_prefix + r'\\\\'
+            replacement = unc_escaped + '\\\\' + share_name + '\\\\'
+            text = re.sub(pattern, replacement, text)
 
-        fpath.write_bytes(raw)
+        fpath.write_text(text, encoding="utf-8")
 
     count = 0
     try:
