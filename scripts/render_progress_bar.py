@@ -26,13 +26,20 @@ FPS = 30
 
 # ── Progress Bar Layout ──────────────────────────────
 BAR_TOP = 78
-BAR_HEIGHT = 88
-CHIP_GAP = 10
-CHIP_PADDING_H = 28
-INDICATOR_W = 32
-CONNECTOR_W = 18 + CHIP_GAP * 2
-FONT_SIZE = 34
-BORDER_RADIUS_MD = 18
+BAR_HEIGHT = 84
+FONT_SIZE = 44
+SECTION_PAD_H = 56            # horizontal padding inside each section
+BORDER_RADIUS_MD = 14
+SEPARATOR_WIDTH = 4
+SEPARATOR_VMARGIN = 10
+TEXT_STROKE_WIDTH = 3
+
+# ── Color palette (matches reference screenshots) ─────
+BAR_PENDING_BG = "#7DB7D9"   # light sky blue
+BAR_FILLED_BG = "#2C6FA8"    # darker blue — progress fill
+BAR_SEPARATOR = "#B91C1C"    # red separator between sections
+TEXT_COLOR = "#FFFFFF"
+TEXT_STROKE = "#000000"
 
 # ── Colors ────────────────────────────────────────────
 SCENE_TONE_SOLID: dict[str, str] = {
@@ -229,13 +236,13 @@ def measure_text_width(text: str, font: ImageFont.FreeTypeFont) -> int:
 # ── Chip Renderer ─────────────────────────────────────
 
 def compute_chip_width(label: str, compact: bool) -> int:
-    font_size = 28 if compact else FONT_SIZE
+    font_size = 36 if compact else FONT_SIZE
     font = get_font(font_size)
     text_w = measure_text_width(label, font)
-    indicator_size = 26 if compact else 30
-    gap = 6 if compact else 7
-    pad_l = 12 if compact else 14
-    pad_r = 16 if compact else 20
+    indicator_size = 34 if compact else 40
+    gap = 8 if compact else 10
+    pad_l = 14 if compact else 18
+    pad_r = 20 if compact else 24
     return pad_l + indicator_size + gap + text_w + pad_r
 
 
@@ -243,13 +250,13 @@ def render_chip(img: Image.Image, x: int, y: int, label: str, index: int,
                 state: str, tone_color: str, breathe_scale: float,
                 compact: bool) -> int:
     """Render a chip at (x, y) and return its width."""
-    font_size = 28 if compact else FONT_SIZE
-    indicator_size = 26 if compact else 30
-    gap = 6 if compact else 7
-    pad_top = 10 if compact else 11
-    pad_bottom = 10 if compact else 11
-    pad_l = 12 if compact else 14
-    pad_r = 16 if compact else 20
+    font_size = 36 if compact else FONT_SIZE
+    indicator_size = 34 if compact else 40
+    gap = 8 if compact else 10
+    pad_top = 12 if compact else 14
+    pad_bottom = 12 if compact else 14
+    pad_l = 14 if compact else 18
+    pad_r = 20 if compact else 24
     chip_h = pad_top + max(indicator_size, int(font_size * 1.2)) + pad_bottom
 
     font = get_font(font_size, bold=(state == "active"))
@@ -290,12 +297,12 @@ def render_chip(img: Image.Image, x: int, y: int, label: str, index: int,
     # Indicator content
     if state == "active":
         # White filled dot
-        draw_circle(cd, ind_cx, ind_cy, 4, fill=(255, 255, 255, 255))
+        draw_circle(cd, ind_cx, ind_cy, 5, fill=(255, 255, 255, 255))
     elif state == "completed":
         draw_checkmark(cd, ind_cx, ind_cy, size=indicator_size)
     else:
         # Number
-        num_font = get_font(12)
+        num_font = get_font(16)
         num_text = str(index + 1)
         num_color = rgba_mix(DARK_BASE, 0.45)
         num_w = measure_text_width(num_text, num_font)
@@ -333,8 +340,8 @@ def render_connector(draw: ImageDraw.ImageDraw, x: int, y: int,
     else:
         color = rgba_mix(DARK_BASE, 0.12)
 
-    line_w = 14
-    line_h = 2
+    line_w = 18
+    line_h = 3
     draw.rectangle(
         [x, y - line_h // 2, x + line_w, y + line_h // 2],
         fill=color,
@@ -345,110 +352,128 @@ def render_connector(draw: ImageDraw.ImageDraw, x: int, y: int,
 
 def render_frame(frame: int, fps: int, segments: list[dict],
                  nodes: list[dict]) -> Image.Image:
-    """Render a single progress bar frame (1080x1920 RGBA)."""
+    """Render a single progress bar frame (1080x1920 RGBA).
+
+    Layout: a virtual bar wider than the canvas. Each topic section is sized
+    by its own label width (plus fixed padding) so text never collapses. As
+    progress advances 0→1, the bar scrolls left so later sections come into
+    view, and a darker "filled" color grows left→right across the whole
+    virtual bar to indicate overall progress. Red rules separate sections;
+    labels are bold white with a black stroke.
+    """
     img = Image.new("RGBA", (VIDEO_W, VIDEO_H), (0, 0, 0, 0))
 
     if not nodes or not segments:
         return img
 
-    active_seg = get_active_segment(frame, segments)
-    if not active_seg:
+    total_span = max(
+        s["fromFrame"] + s["contentDurationInFrames"] for s in segments
+    )
+    if total_span <= 0:
         return img
 
-    node_states = get_node_states(active_seg["topicId"], nodes)
-    tone_color = SCENE_TONE_SOLID.get(active_seg["tone"], SCENE_TONE_SOLID["brand"])
-
-    # Entry animation (spring)
+    # Entry animation (spring slide-in from top).
     entry = spring_value(frame, fps, mass=1.0, damping=16.0,
                          stiffness=100.0, duration_frames=24)
     translate_y = interpolate(entry, [0, 1], [-(BAR_HEIGHT + BAR_TOP), 0])
     entry_opacity = interpolate(entry, [0, 0.4, 1], [0, 0.5, 1])
-
     if entry_opacity < 0.01:
         return img
 
-    # Breathing for active chip
-    breathe_period = (1200 / 1000) * fps  # 36 frames
-    breathe_phase = (frame % breathe_period) / breathe_period
-    breathe_scale = 1 + 0.008 * math.sin(breathe_phase * math.pi * 2)
+    # Natural section widths: whatever each label needs plus fixed padding.
+    label_font = get_font(FONT_SIZE, bold=True)
+    section_widths = [
+        measure_text_width(n["label"], label_font) + 2 * SECTION_PAD_H
+        for n in nodes
+    ]
+    total_bar_w = sum(section_widths)
+    if total_bar_w <= 0:
+        return img
 
-    # Calculate chip widths for scroll logic
-    chip_widths = [compute_chip_width(n["label"], compact=False) for n in nodes]
-    total_content_w = sum(chip_widths) + (len(nodes) - 1) * CONNECTOR_W
-    needs_scroll = total_content_w > VIDEO_W - 32
+    # Build the virtual bar (may be wider than VIDEO_W).
+    virtual = Image.new("RGBA", (total_bar_w, BAR_HEIGHT + 4), (0, 0, 0, 0))
+    vd = ImageDraw.Draw(virtual)
 
-    # Recalculate with compact if needed
-    if needs_scroll:
-        chip_widths = [compute_chip_width(n["label"], compact=True) for n in nodes]
-        total_content_w = sum(chip_widths) + (len(nodes) - 1) * CONNECTOR_W
+    pending_rgba = hex_to_rgba(BAR_PENDING_BG)
+    filled_rgba = hex_to_rgba(BAR_FILLED_BG)
+    separator_rgba = hex_to_rgba(BAR_SEPARATOR)
+    text_rgba = hex_to_rgba(TEXT_COLOR)
+    stroke_rgba = hex_to_rgba(TEXT_STROKE)
 
-    active_idx = -1
-    for i, node in enumerate(nodes):
-        if node_states.get(node["id"]) == "active":
-            active_idx = i
-            break
+    draw_rounded_rect(
+        vd, (0, 0, total_bar_w, BAR_HEIGHT),
+        radius=BORDER_RADIUS_MD, fill=pending_rgba,
+    )
 
-    scroll_x = 0
-    if needs_scroll and active_idx >= 0:
-        center_x = sum(chip_widths[:active_idx]) + active_idx * CONNECTOR_W
-        center_x += chip_widths[active_idx] / 2
-        scroll_x = VIDEO_W / 2 - center_x
-        max_scroll = 0
-        min_scroll = VIDEO_W - total_content_w - 16
-        scroll_x = max(min_scroll, min(max_scroll, scroll_x))
+    progress = min(1.0, max(0.0, frame / total_span))
+    fill_w = int(progress * total_bar_w)
+    if fill_w > 0:
+        fill_scratch = Image.new("RGBA", (total_bar_w, BAR_HEIGHT), (0, 0, 0, 0))
+        fs = ImageDraw.Draw(fill_scratch)
+        fs.rounded_rectangle(
+            (0, 0, total_bar_w, BAR_HEIGHT),
+            radius=BORDER_RADIUS_MD, fill=filled_rgba,
+        )
+        virtual.alpha_composite(
+            fill_scratch.crop((0, 0, fill_w, BAR_HEIGHT)), (0, 0)
+        )
 
-    # Create bar layer
-    bar_img = Image.new("RGBA", (VIDEO_W, BAR_HEIGHT + 2), (0, 0, 0, 0))
-    bar_draw = ImageDraw.Draw(bar_img)
-
-    # Background: semi-transparent white
-    bar_draw.rectangle([0, 0, VIDEO_W, BAR_HEIGHT],
-                       fill=(255, 255, 255, 214))  # 0.84 * 255 ≈ 214
-    # Bottom border
-    bar_draw.line([0, BAR_HEIGHT, VIDEO_W, BAR_HEIGHT],
-                  fill=rgba_mix(DARK_BASE, 0.08), width=1)
-
-    # Draw chips and connectors
-    if needs_scroll:
-        start_x = 16 + int(scroll_x)
-    else:
-        start_x = (VIDEO_W - total_content_w) // 2
-
-    cursor_x = start_x
-    chip_center_y = BAR_HEIGHT // 2
-
+    # Section separators and labels on the virtual bar.
+    cursor = 0
     for idx, node in enumerate(nodes):
-        state = node_states.get(node["id"], "pending")
+        sw = section_widths[idx]
+        section_left = cursor
 
-        # Connector before chip (except first)
         if idx > 0:
-            prev_state = node_states.get(nodes[idx - 1]["id"], "pending")
-            connector_x = cursor_x
-            render_connector(bar_draw, connector_x + CHIP_GAP,
-                             chip_center_y, prev_state)
-            cursor_x += CONNECTOR_W
+            sep_x = section_left
+            vd.rectangle(
+                [sep_x - SEPARATOR_WIDTH // 2, SEPARATOR_VMARGIN,
+                 sep_x + SEPARATOR_WIDTH // 2 + SEPARATOR_WIDTH % 2,
+                 BAR_HEIGHT - SEPARATOR_VMARGIN],
+                fill=separator_rgba,
+            )
 
-        # Chip
-        chip_h_approx = 50 if not needs_scroll else 44
-        chip_y = chip_center_y - chip_h_approx // 2
-        this_breathe = breathe_scale if state == "active" else 1.0
+        label = node["label"]
+        tw = measure_text_width(label, label_font)
+        tbbox = label_font.getbbox(label)
+        th = tbbox[3] - tbbox[1]
+        tx = int(section_left + sw / 2 - tw / 2)
+        ty = int(BAR_HEIGHT / 2 - th / 2 - tbbox[1])
+        vd.text(
+            (tx, ty), label,
+            fill=text_rgba, font=label_font,
+            stroke_width=TEXT_STROKE_WIDTH, stroke_fill=stroke_rgba,
+        )
 
-        # Render chip onto bar_img
-        chip_w = render_chip(bar_img, cursor_x, chip_y,
-                             node["label"], idx, state, tone_color,
-                             this_breathe, needs_scroll)
-        cursor_x += chip_w
+        cursor += sw
 
-    # Apply entry animation: translate Y + opacity
-    bar_y = int(BAR_TOP + translate_y)
+    # Scroll: bar left edge aligned with canvas at progress=0, right edge
+    # aligned with canvas right at progress=1. If the bar happens to fit,
+    # center it and don't scroll.
+    if total_bar_w > VIDEO_W:
+        scroll = -progress * (total_bar_w - VIDEO_W)
+    else:
+        scroll = (VIDEO_W - total_bar_w) / 2
+
+    # Crop the virtual bar to the visible window. With scroll ≤ 0 the window
+    # lands inside virtual coords [-scroll, -scroll+VIDEO_W]. Negative scroll
+    # bounds are safe because virtual is at least VIDEO_W wide here.
+    visible_left = int(round(-scroll))
+    if total_bar_w > VIDEO_W:
+        crop_box = (visible_left, 0, visible_left + VIDEO_W, virtual.height)
+        window = virtual.crop(crop_box)
+        dest_x = 0
+    else:
+        window = virtual
+        dest_x = int(round(scroll))
 
     if entry_opacity < 1.0:
-        # Apply opacity to the entire bar layer
-        alpha = bar_img.split()[3]
+        alpha = window.split()[3]
         alpha = alpha.point(lambda p: int(p * entry_opacity))
-        bar_img.putalpha(alpha)
+        window.putalpha(alpha)
 
-    img.alpha_composite(bar_img, (0, bar_y))
+    bar_y = int(BAR_TOP + translate_y)
+    img.alpha_composite(window, (dest_x, bar_y))
     return img
 
 
