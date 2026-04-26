@@ -1,82 +1,103 @@
 # Editing V1
 
-This folder is the curated core of the current editing pipeline.
+This repo now keeps the current end-to-end doctor-video editing pipeline.
 
-Included:
+## Current Pipeline
+
+1. Find raw doctor-video cases.
+2. Use the case `.docx` as Qwen ASR context/hotwords when available.
+3. Run Qwen ASR to create `transcript_raw.json`.
+4. Run LLM transcript review with the `.docx` as terminology/reference text.
+5. Run Qwen forced alignment on the reviewed tokens.
+6. Analyze the reviewed/aligned transcript into the 3-level semantic blueprint.
+7. Build the timing map and render overlay/subtitles.
+8. Infer visual asset needs from the blueprint.
+9. Recall candidate visual segments from the asset embedding index.
+10. Rerank candidates with one LLM pass.
+11. Generate a Jianying draft with doctor video, subtitles, overlay, and matched assets.
+12. Collect editor feedback and apply it to future matches.
+
+Main batch entry:
+
+```powershell
+.\run-batch.ps1
+```
+
+## Core Runtime
+
+TypeScript pipeline:
+
 - `src/analyze`
+- `src/timing`
+- `src/renderer`
+- `src/remotion`
+- `src/compose`
+- `src/schemas`
 - `src/transcribe`
 - `src/force-align`
-- `src/align`
-- `src/compose`
-- `src/config`
-- `src/remotion`
-- `src/renderer`
-- `src/schemas`
-- `src/timing`
-- `scripts/rebuild-output-from-blueprint.ts`
-- `ARCHITECTURE_REBUILD.md`
 
-Intentionally excluded:
-- `editor`
-- `output`
-- `node_modules`
-- `src/cut`
-- `src/matting`
-- `src/transcribe`
-- most ad-hoc scripts and reports
-- test assets and historical experiments
+Python/PowerShell runtime scripts:
 
-Recommended reading order:
-1. `ARCHITECTURE_REBUILD.md`
-2. `src/analyze`
-3. `src/align`
-4. `src/timing`
-5. `src/renderer`
-6. `src/compose`
-
-Main runtime entry points kept here:
 - `scripts/transcribe-qwen.py`
 - `scripts/force-align-qwen.py`
-- `src/analyze/index.ts`
-- `src/timing/build-direct-timing-map.ts`
-- `src/renderer/render.ts`
-- `scripts/rebuild-output-from-blueprint.ts`
+- `scripts/render_progress_bar.py`
+- `scripts/render_navigation.py`
+- `scripts/split-overlay-by-scene.py`
+- `scripts/infer_blueprint_visual_needs.py`
+- `scripts/infer_blueprint_visual_beats.py`
+- `scripts/match_visual_beats_to_segments.py`
+- `scripts/rerank_visual_matches_codex.py`
+- `scripts/codex_rerank_schema.json`
+- `scripts/generate-draft-from-matches.py`
+- `scripts/generate-jianying-draft.py`
+- `scripts/asset_feedback.py`
 
-Current focus of the project:
-- transcribe -> force-align -> review -> semantic -> audio take/pass -> align -> timing -> renderer/compose
-- source_direct audio path
-- case03 downstream alignment and timing quality
+Index build/deploy helpers:
 
-Analyze-stage LLM defaults:
-- `review`, `step1`, `take-pass`, `step2` now default to `claude-sonnet-4-6` via Anthropic API
-- preferred env var: `ANTHROPIC_API_KEY`
+- `scripts/build_visual_atom_index.py`
+- `scripts/build_visual_segment_index.py`
+- `scripts/sync-asset-index-for-editor.ps1`
 
-Qwen3-ASR integration:
-- standalone:
-  `python scripts/transcribe-qwen.py --audio doctor.mp4 --output-dir F:\AI total editing\output\caseXX`
-- integrated analyze:
-  `npx tsx src/analyze/index.ts --audio doctor.mp4 --transcribe-qwen -o blueprint.json`
-- outputs:
-  `transcript.json`
-  `transcript.txt`
-  `transcribe_qwen_manifest.json`
+## Asset Index
 
-Qwen3-ForcedAligner integration:
-- standalone:
-  `python scripts/force-align-qwen.py --audio doctor.mp4 --transcript transcript.json --output-dir F:\AI total editing\output\caseXX`
-- integrated analyze:
-  `npx tsx src/analyze/index.ts --transcript transcript.json --audio doctor.mp4 --force-align-qwen -o blueprint.json`
-- outputs:
-  `transcript_aligned_words.json`
-  `transcript_aligned_tokens.json`
-  `force_align_manifest.json`
+The generated asset index is intentionally not stored in git. On developer
+machines it lives under:
 
-Output convention:
-- Do not create a new `output` folder inside `editing V1`
-- Continue using the shared output root:
-  `F:\AI total editing\output`
-- Every render output directory now has two canonical video artifacts:
-  `overlay_layer.mp4` (silent overlay/render layer for manual downstream compositing)
-  `source_direct_cut_video.mp4` (the cut original-doctor video used for downstream stitching)
-- Every render output directory also writes:
-  `render_outputs.json`
+```text
+scripts/asset_index/
+```
+
+The current recommended deployable index bundle is:
+
+```text
+scripts/asset_index/visual_segments_cbj58_5000_plus_zh_chronic.jsonl
+scripts/asset_index/visual_segment_embeddings_cbj58_5000_plus_zh_chronic.npy
+scripts/asset_index/visual_segment_embeddings_cbj58_5000_plus_zh_chronic.keys.json
+```
+
+The real source videos referenced by the index currently point to:
+
+```text
+E:/nucleus download/totel nucleus video/...
+```
+
+The editing server must either keep the same path or rewrite `mp4_path` in the
+index before generating drafts.
+
+## Local Artifacts
+
+Old experiments, removed scripts, generated reports, temporary matches, logs,
+and local index data are archived or generated under:
+
+```text
+local_artifacts/
+```
+
+That directory is ignored by git.
+
+## Deployment Notes
+
+See:
+
+- `docs/editor-deployment-asset-matching.md`
+- `docs/asset-feedback.md`

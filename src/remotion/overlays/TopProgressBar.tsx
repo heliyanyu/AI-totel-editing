@@ -26,14 +26,14 @@ interface TopProgressBarProps {
 type NodeState = "pending" | "active" | "completed";
 
 export const PROGRESS_BAR_TOP = 78;
-export const PROGRESS_BAR_HEIGHT = 72;
+export const PROGRESS_BAR_HEIGHT = 96;
 
 const VIDEO_W = 1080;
 const CHIP_GAP = 8;
-const CHIP_PADDING_H = 24;
-const INDICATOR_W = 28;
+const CHIP_PADDING_H = 28;
+const INDICATOR_W = 36;
 const CONNECTOR_W = 16 + CHIP_GAP * 2;
-const FONT_SIZE = 28;
+const FONT_SIZE = 40;
 
 function getActiveSegment(frame: number, segments: VisualSegmentPlan[]): VisualSegmentPlan | null {
   for (const segment of segments) {
@@ -91,8 +91,8 @@ const Chip: React.FC<{
     indicatorContent = (
       <span
         style={{
-          width: 8,
-          height: 8,
+          width: 10,
+          height: 10,
           borderRadius: 999,
           background: "#FFFFFF",
           display: "inline-block",
@@ -106,7 +106,7 @@ const Chip: React.FC<{
     border = `1.5px solid ${withAlpha(SEMANTIC_COLORS.positive, 0.4)}`;
     indicatorBg = SEMANTIC_COLORS.positive;
     indicatorContent = (
-      <svg width={12} height={12} viewBox="0 0 24 24" fill="none">
+      <svg width={16} height={16} viewBox="0 0 24 24" fill="none">
         <path
           d="M6 13 L10.5 17.5 L18 8"
           stroke="#FFFFFF"
@@ -125,7 +125,7 @@ const Chip: React.FC<{
     indicatorContent = (
       <span
         style={{
-          fontSize: 12,
+          fontSize: 16,
           color: withAlpha("#0F172A", 0.45),
           fontWeight: 600,
           fontFamily: FONT_FAMILY.sans,
@@ -136,9 +136,9 @@ const Chip: React.FC<{
     );
   }
 
-  const fontSize = compact ? 24 : FONT_SIZE;
-  const chipPadding = compact ? "8px 14px 8px 10px" : "9px 18px 9px 12px";
-  const indicatorSize = compact ? 22 : 26;
+  const fontSize = compact ? 32 : FONT_SIZE;
+  const chipPadding = compact ? "10px 18px 10px 12px" : "12px 22px 12px 16px";
+  const indicatorSize = compact ? 30 : 36;
 
   return (
     <div
@@ -199,9 +199,9 @@ const Connector: React.FC<{
   return (
     <div
       style={{
-        width: 14,
-        height: 2,
-        borderRadius: 1,
+        width: 18,
+        height: 3,
+        borderRadius: 1.5,
         background: color,
         flexShrink: 0,
       }}

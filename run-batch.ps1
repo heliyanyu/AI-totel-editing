@@ -2,9 +2,19 @@
 param(
     [string]$RootPath = "",
     [string]$RootPattern = 'P:\*\*\AIkaifa\AI total editing\test',
-    [string]$ProjectRoot = $PSScriptRoot,
+    [string]$ProjectRoot = "",
     [switch]$SkipDistribute,
-    [int]$Parallel = 3
+    [int]$Parallel = 3,
+    [switch]$SkipAssetMatching,
+    [string]$VisualSegments = "",
+    [string]$VisualSegmentEmbeddings = "",
+    [string]$VisualSegmentKeys = "",
+    [string]$VisualNeedModel = "sonnet",
+    [int]$VisualNeedBatchSize = 6,
+    [int]$VisualNeedConcurrency = 8,
+    [string]$RerankModel = "gpt-5.4",
+    [int]$RerankConcurrency = 2,
+    [int]$RagTopK = 60
 )
 
 Set-StrictMode -Version Latest
@@ -36,8 +46,11 @@ try {
 
 $env:HF_HUB_OFFLINE = "1"
 
+$ScriptRootDir = if ($PSScriptRoot) { $PSScriptRoot } else { (Get-Location).Path }
+if (-not $ProjectRoot) { $ProjectRoot = $ScriptRootDir }
+
 # Load .env file for machine-specific config
-$envFile = Join-Path $PSScriptRoot ".env"
+$envFile = Join-Path $ScriptRootDir ".env"
 if (Test-Path -LiteralPath $envFile) {
     Get-Content $envFile | ForEach-Object {
         if ($_ -match '^\s*([A-Z_]+)\s*=\s*(.+)$') {
@@ -48,7 +61,6 @@ if (Test-Path -LiteralPath $envFile) {
 
 $PythonExe = if ($env:PYTHON_PATH) { $env:PYTHON_PATH } else { "python" }
 $WorkingRoot = $env:WORKING_ROOT
-$AssetLibrary = $env:ASSET_LIBRARY
 
 # Editor name -> JianYing Drafts UNC path
 $EditorTargets = @{
@@ -155,14 +167,26 @@ foreach ($cmd in @("npm.cmd", "npx.cmd")) {
 $resolvedProjectRoot = (Resolve-Path -LiteralPath $ProjectRoot).Path
 $root = if ($RootPath) { (Resolve-Path -LiteralPath $RootPath).Path } else { Resolve-SinglePath $RootPattern }
 
-$assetIndex = ""
-if ($AssetLibrary) {
-    $libIndex = Join-Path $AssetLibrary "asset_index.json"
-    if (Test-Path -LiteralPath $libIndex) { $assetIndex = $libIndex }
+$defaultAssetIndexDir = Join-Path $resolvedProjectRoot "scripts\asset_index"
+if (-not $VisualSegments) {
+    $VisualSegments = Join-Path $defaultAssetIndexDir "visual_segments_cbj58_5000_plus_zh_chronic.jsonl"
 }
-if (-not $assetIndex) {
-    $localIndex = Join-Path $resolvedProjectRoot "asset_index.json"
-    if (Test-Path -LiteralPath $localIndex) { $assetIndex = $localIndex }
+if (-not $VisualSegmentEmbeddings) {
+    $VisualSegmentEmbeddings = Join-Path $defaultAssetIndexDir "visual_segment_embeddings_cbj58_5000_plus_zh_chronic.npy"
+}
+if (-not $VisualSegmentKeys) {
+    $VisualSegmentKeys = Join-Path $defaultAssetIndexDir "visual_segment_embeddings_cbj58_5000_plus_zh_chronic.keys.json"
+}
+
+$assetMatchingEnabled = -not [bool]$SkipAssetMatching
+if ($assetMatchingEnabled) {
+    foreach ($requiredAssetPath in @($VisualSegments, $VisualSegmentEmbeddings, $VisualSegmentKeys)) {
+        if (-not (Test-Path -LiteralPath $requiredAssetPath)) {
+            Write-Host ("[WARN] visual asset index missing, skip asset matching: {0}" -f $requiredAssetPath) -ForegroundColor Yellow
+            $assetMatchingEnabled = $false
+            break
+        }
+    }
 }
 
 # ── Discover cases ──
@@ -254,6 +278,7 @@ try {
             "--audio", $mp4,
             "--output-dir", $out
         )
+        if ($info.Docx) { $asrArgs += @("--docx", $info.Docx) }
         if (-not (Invoke-Step -Name "ASR" -Command $PythonExe -Arguments $asrArgs)) {
             Write-Host "  [WARN] ASR failed, will retry in analyze" -ForegroundColor Yellow
         }
@@ -274,7 +299,24 @@ Write-Host ""
 Write-Host ("=== Phase 2: analyze + render + post ({0} cases, {1} parallel) ===" -f $needsProcessing.Count, $Parallel) -ForegroundColor Yellow
 
 $caseScript = {
-    param($CaseInfo, $ProjectRoot, $PythonExe, $AssetIndex, $Root, $EditorTargets, $SkipDistribute)
+    param(
+        $CaseInfo,
+        $ProjectRoot,
+        $PythonExe,
+        $Root,
+        $EditorTargets,
+        $SkipDistribute,
+        $AssetMatchingEnabled,
+        $VisualSegments,
+        $VisualSegmentEmbeddings,
+        $VisualSegmentKeys,
+        $VisualNeedModel,
+        $VisualNeedBatchSize,
+        $VisualNeedConcurrency,
+        $RerankModel,
+        $RerankConcurrency,
+        $RagTopK
+    )
 
     Set-StrictMode -Version Latest
     $ErrorActionPreference = "Stop"
@@ -390,10 +432,154 @@ $caseScript = {
     $code = RunStep "split overlay" $PythonExe @("scripts/split-overlay-by-scene.py", $out)
     if ($code -ne 0) { Log "  [WARN] split skipped" "Yellow" }
 
+    # Visual asset matching: blueprint -> visual needs -> visual beats -> RAG -> LLM rerank
+    $matchFile = $null
+    if ($AssetMatchingEnabled) {
+        $visualNeedsPath = Join-Path $out "visual_needs.json"
+        $visualBeatsPath = Join-Path $out "visual_beats.json"
+        $ragMatchesPath = Join-Path $out "asset_matches_rag.json"
+        $feedbackMatchesPath = Join-Path $out "asset_matches_rag_feedback.json"
+        $rerankedMatchesPath = Join-Path $out "asset_matches_visual_reranked.json"
+        $feedbackPath = Join-Path (Join-Path $ProjectRoot "scripts\asset_index") "asset_feedback.jsonl"
+
+        if (-not (Test-Path -LiteralPath $visualNeedsPath)) {
+            $code = RunStep "visual needs" $PythonExe @(
+                "scripts/infer_blueprint_visual_needs.py",
+                "--bp", $blueprintPath,
+                "--out", $visualNeedsPath,
+                "--model", $VisualNeedModel,
+                "--batch-size", "$VisualNeedBatchSize",
+                "--concurrency", "$VisualNeedConcurrency"
+            )
+            if ($code -ne 0) { Log "  [WARN] visual needs failed" "Yellow" }
+        } else {
+            Log "  visual needs: exists, skip" "DarkGray"
+        }
+
+        if ((Test-Path -LiteralPath $visualNeedsPath) -and -not (Test-Path -LiteralPath $visualBeatsPath)) {
+            $code = RunStep "visual beats" $PythonExe @(
+                "scripts/infer_blueprint_visual_beats.py",
+                "--bp", $blueprintPath,
+                "--timing-map", $timingPath,
+                "--visual-needs", $visualNeedsPath,
+                "--out", $visualBeatsPath,
+                "--max-beats-per-seg", "3",
+                "--min-sec-per-beat", "2.4"
+            )
+            if ($code -ne 0) { Log "  [WARN] visual beats failed" "Yellow" }
+        } elseif (Test-Path -LiteralPath $visualBeatsPath) {
+            Log "  visual beats: exists, skip" "DarkGray"
+        }
+
+        if ((Test-Path -LiteralPath $visualBeatsPath) -and -not (Test-Path -LiteralPath $ragMatchesPath)) {
+            $code = RunStep "asset RAG" $PythonExe @(
+                "scripts/match_visual_beats_to_segments.py",
+                "--visual-beats", $visualBeatsPath,
+                "--visual-segments", $VisualSegments,
+                "--emb", $VisualSegmentEmbeddings,
+                "--keys", $VisualSegmentKeys,
+                "--out", $ragMatchesPath,
+                "--top-k", "$RagTopK",
+                "--min-confidence", "0.45",
+                "--min-score", "0.0"
+            )
+            if ($code -ne 0) { Log "  [WARN] asset RAG failed" "Yellow" }
+        } elseif (Test-Path -LiteralPath $ragMatchesPath) {
+            Log "  asset RAG: exists, skip" "DarkGray"
+        }
+
+        $rerankInputPath = $ragMatchesPath
+        if ((Test-Path -LiteralPath $ragMatchesPath) -and (Test-Path -LiteralPath $feedbackPath)) {
+            if (-not (Test-Path -LiteralPath $feedbackMatchesPath)) {
+                $code = RunStep "asset feedback" $PythonExe @(
+                    "scripts/asset_feedback.py",
+                    "apply",
+                    "--matches", $ragMatchesPath,
+                    "--feedback", $feedbackPath,
+                    "--out", $feedbackMatchesPath,
+                    "--drop-rejected-candidates"
+                )
+                if ($code -eq 0) {
+                    $rerankInputPath = $feedbackMatchesPath
+                } else {
+                    Log "  [WARN] asset feedback apply failed" "Yellow"
+                }
+            } else {
+                Log "  asset feedback: exists, skip" "DarkGray"
+                $rerankInputPath = $feedbackMatchesPath
+            }
+        }
+
+        if ((Test-Path -LiteralPath $rerankInputPath) -and -not (Test-Path -LiteralPath $rerankedMatchesPath)) {
+            $code = RunStep "asset rerank" $PythonExe @(
+                "scripts/rerank_visual_matches_codex.py",
+                "--matches", $rerankInputPath,
+                "--out", $rerankedMatchesPath,
+                "--schema", "scripts/codex_rerank_schema.json",
+                "--model", $RerankModel,
+                "--top-candidates", "12",
+                "--batch-size", "3",
+                "--concurrency", "$RerankConcurrency",
+                "--min-fit-score", "0.72"
+            )
+            if ($code -ne 0) { Log "  [WARN] asset rerank failed" "Yellow" }
+        } elseif (Test-Path -LiteralPath $rerankedMatchesPath) {
+            Log "  asset rerank: exists, skip" "DarkGray"
+        }
+
+        if (Test-Path -LiteralPath $rerankedMatchesPath) {
+            $matchFile = $rerankedMatchesPath
+        } elseif (Test-Path -LiteralPath $feedbackMatchesPath) {
+            $matchFile = $feedbackMatchesPath
+        } elseif (Test-Path -LiteralPath $ragMatchesPath) {
+            $matchFile = $ragMatchesPath
+        }
+    } else {
+        Log "  asset matching: disabled or index missing" "Yellow"
+    }
+
     # JianYing draft
-    $draftArgs = @("scripts/generate-jianying-draft.py", $out)
-    if ($AssetIndex) { $draftArgs += @("--asset-index", $AssetIndex) }
-    $code = RunStep "jianying draft" $PythonExe $draftArgs
+    if (-not $matchFile) {
+        foreach ($name in @(
+            "asset_matches_visual_reranked.json",
+            "asset_matches_rag_feedback.json",
+            "asset_matches_rag.json",
+            "asset_matches_atom_v3.json",
+            "asset_matches_atom_v2.json",
+            "asset_matches_atom.json",
+            "asset_matches_v3.json",
+            "asset_matches_v2.json",
+            "asset_matches_atoms.json",
+            "asset_matches.json"
+        )) {
+            $candidate = Join-Path $out $name
+            if (Test-Path -LiteralPath $candidate) {
+                $matchFile = $candidate
+                break
+            }
+        }
+    }
+
+    if ($matchFile) {
+        $caseName = Split-Path $dir -Leaf
+        $draftArgs = @(
+            "scripts/generate-draft-from-matches.py",
+            $out,
+            "--matches", $matchFile,
+            "--draft-name", "${caseName}_draft",
+            "--min-fit-score", "0.72",
+            "--max-exact-clip-reuse", "1",
+            "--max-asset-file-reuse", "3",
+            "--max-asset-basename-reuse", "3",
+            "--min-asset-speed", "1.35",
+            "--max-asset-speed", "4.0",
+            "--max-asset-source-duration", "10.0"
+        )
+        $code = RunStep "jianying matched draft" $PythonExe $draftArgs
+    } else {
+        $draftArgs = @("scripts/generate-jianying-draft.py", $out)
+        $code = RunStep "jianying draft" $PythonExe $draftArgs
+    }
     if ($code -ne 0) { Log "  [WARN] draft failed" "Yellow" }
 
     # Distribute
@@ -451,8 +637,22 @@ while ($caseQueue.Count -gt 0 -or $activeJobs.Count -gt 0) {
         Write-Host ("START {0}" -f $label) -ForegroundColor Cyan
 
         $job = Start-Job -ScriptBlock $caseScript -ArgumentList @(
-            $info, $resolvedProjectRoot, $PythonExe, $assetIndex,
-            $root, $EditorTargets, [bool]$SkipDistribute
+            $info,
+            $resolvedProjectRoot,
+            $PythonExe,
+            $root,
+            $EditorTargets,
+            [bool]$SkipDistribute,
+            $assetMatchingEnabled,
+            $VisualSegments,
+            $VisualSegmentEmbeddings,
+            $VisualSegmentKeys,
+            $VisualNeedModel,
+            $VisualNeedBatchSize,
+            $VisualNeedConcurrency,
+            $RerankModel,
+            $RerankConcurrency,
+            $RagTopK
         )
         $activeJobs[$job.Id] = @{ Job = $job; Label = $label }
     }

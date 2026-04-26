@@ -1,0 +1,59 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "seg_id": {
+            "type": "string"
+          },
+          "pick": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "fit_score": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "match_type": {
+            "type": "string",
+            "enum": [
+              "same_visual_process",
+              "same_visual_object",
+              "direct_medical_action",
+              "supporting_context",
+              "related_topic",
+              "generic_advice",
+              "none"
+            ]
+          },
+          "reason": {
+            "type": "string"
+          },
+          "missing": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "seg_id",
+          "pick",
+          "fit_score",
+          "match_type",
+          "reason",
+          "missing"
+        ]
+      }
+    }
+  },
+  "required": [
+    "results"
+  ]
+}

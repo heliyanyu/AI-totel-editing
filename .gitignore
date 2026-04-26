@@ -30,3 +30,18 @@ scripts/cluster_atoms/
 scripts/cluster_results/
 scripts/*.txt
 scripts/*.json
+!scripts/codex_rerank_schema.json
+
+# Local generated artifacts for the visual asset matching pipeline.
+# These are synced/deployed separately from git because they are large and
+# machine/path dependent.
+local_artifacts/
+scripts/asset_index/*
+!scripts/asset_index/
+scripts/logs/
+scripts/matches/
+scripts/blueprint_w_test/
+scripts/ip_test/
+scripts/w_drive_fwdslash/
+scripts/w_drive_test2/
+scripts/wujie*/

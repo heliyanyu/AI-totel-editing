@@ -1543,6 +1543,15 @@ async function main() {
   }
 
   if (transcribeQwen) {
+    // Use script text as ASR hotword context when available
+    let asrContext = transcribeContext || "";
+    if (!asrContext && scriptPath) {
+      try {
+        asrContext = await extractScriptText(resolve(scriptPath));
+        console.log(`\n── Hotword context from docx: ${asrContext.length} chars ──`);
+      } catch {}
+    }
+
     console.log("\n── Transcribe: Qwen3-ASR-1.7B ──");
     const transcribeResult = runQwenTranscribe({
       audioPath: resolvedAudioPath,
@@ -1555,7 +1564,7 @@ async function main() {
       dtype: transcribeDType,
       maxInferenceBatchSize: transcribeMaxInferenceBatchSize,
       maxNewTokens: transcribeMaxNewTokens,
-      context: transcribeContext || undefined,
+      context: asrContext || undefined,
     });
     transcriptPath = transcribeResult.rawTranscriptPath;
     sourceTranscriptPath = "";

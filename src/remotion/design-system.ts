@@ -117,7 +117,7 @@ export const FONT_FAMILY = {
  * 画布: 1080 × 1920
  *
  * ┌──────────────────────┐ ← 0px
- * │   TopProgressBar     │ ← 78px ~ 150px (height=72)
+ * │   TopProgressBar     │ ← 78px ~ 174px (height=96)
  * │   ↓ SAFE_TOP 200px   │
  * ├──────────────────────┤ ← 200px
  * │                      │
@@ -133,7 +133,7 @@ export const FONT_FAMILY = {
  * ←86px→ [内容 908px] ←86px→  (8% 左右留白)
  */
 export const SAFE_AREA = {
-  /** 顶部安全区 — 进度条下方(78+72=150px) + 呼吸间距 */
+  /** 顶部安全区 — 进度条下方(78+96=174px) + 呼吸间距 */
   top: 200,
   /** 底部字幕区 — 30% 屏幕高度 */
   bottom: 576,

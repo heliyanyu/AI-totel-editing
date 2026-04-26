@@ -67,7 +67,24 @@ def parse_args() -> argparse.Namespace:
         default="",
         help="Optional Qwen ASR context string.",
     )
+    parser.add_argument(
+        "--docx",
+        default="",
+        help="Path to a .docx script file. Its text is used as ASR context (hotwords).",
+    )
     return parser.parse_args()
+
+
+def extract_docx_text(docx_path: str) -> str:
+    """Extract plain text from a .docx file (zip of XML)."""
+    import zipfile
+    import xml.etree.ElementTree as ET
+
+    with zipfile.ZipFile(docx_path) as zf:
+        xml_bytes = zf.read("word/document.xml")
+    root = ET.fromstring(xml_bytes)
+    ns = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
+    return "".join(node.text for node in root.iter(f"{{{ns['w']}}}t") if node.text)
 
 
 def write_json(path: Path, data: Any) -> None:
@@ -169,6 +186,16 @@ def main() -> None:
         eprint("[transcribe] cpu device_map detected, forcing dtype=float32")
         args.dtype = "float32"
 
+    # Build context: explicit --context takes priority, else extract from --docx
+    context = args.context
+    if not context and args.docx:
+        docx_path = Path(args.docx).resolve()
+        if docx_path.exists():
+            context = extract_docx_text(str(docx_path))
+            eprint(f"[transcribe] hotword context from docx: {len(context)} chars")
+        else:
+            eprint(f"[transcribe] warning: docx not found: {docx_path}")
+
     language = normalize_language_value(args.language)
 
     eprint(
@@ -198,7 +225,7 @@ def main() -> None:
     )
     results = model.transcribe(
         audio=(wav, sample_rate),
-        context=args.context,
+        context=context,
         language=language,
         return_time_stamps=True,
     )
@@ -231,7 +258,7 @@ def main() -> None:
         "outputTextPath": str(transcript_text_path),
         "languageRequested": language or "auto",
         "languageDetected": result.language,
-        "context": args.context,
+        "context": context,
         "deviceMap": args.device_map,
         "dtype": args.dtype,
         "summary": {
