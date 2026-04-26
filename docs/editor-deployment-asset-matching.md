@@ -49,12 +49,8 @@
 - `scripts/asset_index/visual_segment_embeddings_cbj58_5000_plus_zh_chronic.npy`
 - `scripts/asset_index/visual_segment_embeddings_cbj58_5000_plus_zh_chronic.keys.json`
 
-如果剪辑服务器也要继续扩库，还需要同步：
-
-- `scripts/asset_index/atoms.jsonl`
-- `scripts/asset_index/visual_atoms_cbj58_related_5000.jsonl`
-- `scripts/asset_index/visual_atoms_zh_chronic.jsonl`
-- 对应的 `visual_atom_embeddings_*.npy` 和 `*.keys.json`
+剪辑服务器不负责扩库，所以不需要同步 `atoms.jsonl`、`visual_atoms_*.jsonl`
+或 `visual_atom_embeddings_*.npy`。
 
 ## 实际视频素材
 
@@ -70,6 +66,86 @@ E:/nucleus download/totel nucleus video/...
 - 或者部署前批量把索引里的 `mp4_path` 改成剪辑服务器上的素材路径。
 
 如果路径不一致，剪映草稿会生成，但素材片段会找不到源文件。
+
+如果剪辑服务器项目在 `D:\editing V1`，素材库在服务器 D 盘，但剪辑师电脑通过
+`W:` 打开共享目录，推荐不要改索引本体，而是在服务器 `.env` 里配置运行时路径映射。
+
+例如服务器本机实际路径是：
+
+```text
+D:\jianji\素材库\...
+D:\jianji\<case>\out\...
+```
+
+剪辑师电脑看到的是：
+
+```text
+W:\素材库\...
+W:\<case>\out\...
+```
+
+则 `D:\editing V1\.env` 里加：
+
+```dotenv
+ASSET_INDEX_SOURCE_ROOT=E:/nucleus download/totel nucleus video
+ASSET_LOCAL_ROOT=D:/jianji/素材库
+ASSET_DRAFT_ROOT=W:/素材库
+DRAFT_PATH_SOURCE_ROOT=D:/jianji
+DRAFT_PATH_TARGET_ROOT=W:/
+```
+
+含义：
+
+- `ASSET_INDEX_SOURCE_ROOT`：索引里原本记录的开发机素材根路径。
+- `ASSET_LOCAL_ROOT`：运行脚本的机器用来检查/读取素材的路径。
+- `ASSET_DRAFT_ROOT`：写进剪映草稿、剪辑师电脑能打开的素材路径。
+- `DRAFT_PATH_SOURCE_ROOT`：服务器本机 out/case 路径根。
+- `DRAFT_PATH_TARGET_ROOT`：写进剪映草稿、剪辑师电脑能打开的 out/case 路径根。
+
+如果服务器上也把共享目录映射成了 `W:`，并且脚本直接在 `W:` 下跑，可以简化为：
+
+```dotenv
+ASSET_INDEX_SOURCE_ROOT=E:/nucleus download/totel nucleus video
+ASSET_LOCAL_ROOT=W:/素材库
+ASSET_DRAFT_ROOT=W:/素材库
+```
+
+同步索引文件仍然可以用：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\sync-asset-index-for-editor.ps1 `
+  -TargetDir "D:\editing V1"
+```
+
+如果确实想把索引里的 `mp4_path` 原地改成服务器路径，也可以用：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\sync-asset-index-for-editor.ps1 `
+  -TargetDir "D:\editing V1" `
+  -SourceAssetRoot "E:/nucleus download/totel nucleus video" `
+  -TargetAssetRoot "D:\你的素材库根目录" `
+  -RewriteOnly
+```
+
+但通常更推荐 `.env` 映射，因为扩库后只要复制新索引，不需要反复改文件。
+
+`ASSET_LOCAL_ROOT` / `ASSET_DRAFT_ROOT` 要填到能接上索引中相对路径的那一级。例如开发机索引是：
+
+```text
+E:/nucleus download/totel nucleus video/xxx/yyy.mp4
+```
+
+服务器素材如果是：
+
+```text
+D:/素材库/totel nucleus video/xxx/yyy.mp4
+```
+
+那就填：
+
+```text
+D:\素材库\totel nucleus video
+```
 
 ## 默认匹配原则
 

@@ -82,7 +82,15 @@ E:/nucleus download/totel nucleus video/...
 ```
 
 The editing server must either keep the same path or rewrite `mp4_path` in the
-index before generating drafts.
+index before generating drafts. Prefer configuring path mapping in `.env`:
+
+```dotenv
+ASSET_INDEX_SOURCE_ROOT=E:/nucleus download/totel nucleus video
+ASSET_LOCAL_ROOT=D:/jianji/素材库
+ASSET_DRAFT_ROOT=W:/素材库
+DRAFT_PATH_SOURCE_ROOT=D:/jianji
+DRAFT_PATH_TARGET_ROOT=W:/
+```
 
 ## Local Artifacts
 

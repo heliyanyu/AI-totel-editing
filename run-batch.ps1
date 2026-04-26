@@ -54,7 +54,8 @@ $envFile = Join-Path $ScriptRootDir ".env"
 if (Test-Path -LiteralPath $envFile) {
     Get-Content $envFile | ForEach-Object {
         if ($_ -match '^\s*([A-Z_]+)\s*=\s*(.+)$') {
-            [System.Environment]::SetEnvironmentVariable($Matches[1], $Matches[2])
+            $envValue = $Matches[2].Trim().Trim('"').Trim("'")
+            [System.Environment]::SetEnvironmentVariable($Matches[1], $envValue)
         }
     }
 }

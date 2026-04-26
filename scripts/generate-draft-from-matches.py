@@ -29,6 +29,7 @@ from pyJianYingDraft import (
     SEC,
 )
 
+REPO_ROOT = Path(__file__).resolve().parent.parent
 ASSET_ROOT = Path("P:/团队空间/公司通用/AIkaifa/nucleus/cardiology")
 DEFAULT_ACCEPTED_MATCH_TYPES = {
     "same_visual_process",
@@ -38,6 +39,84 @@ DEFAULT_ACCEPTED_MATCH_TYPES = {
 
 
 _MEDIA_DURATION_CACHE = {}
+
+
+def load_env_file() -> None:
+    env_path = REPO_ROOT / ".env"
+    if not env_path.exists():
+        return
+    for raw_line in env_path.read_text(encoding="utf-8").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
+
+
+def normalized_path_text(value: str) -> str:
+    return str(value or "").replace("\\", "/").rstrip("/")
+
+
+def rewrite_root(path_value: str, source_root: str, target_root: str) -> str:
+    if not path_value or not source_root or not target_root:
+        return path_value
+    path_norm = normalized_path_text(path_value)
+    source_norm = normalized_path_text(source_root)
+    target_norm = normalized_path_text(target_root)
+    path_lower = path_norm.lower()
+    source_lower = source_norm.lower()
+    if path_lower != source_lower and not path_lower.startswith(source_lower + "/"):
+        return path_value
+    suffix = path_norm[len(source_norm) :].lstrip("/")
+    return f"{target_norm}/{suffix}" if suffix else target_norm
+
+
+def join_under_root(root: str, path_value: str) -> str:
+    root_norm = normalized_path_text(root)
+    path_norm = normalized_path_text(path_value).lstrip("/")
+    return f"{root_norm}/{path_norm}" if path_norm else root_norm
+
+
+def to_draft_path(path: Path | str) -> str:
+    value = str(path)
+    mapped = rewrite_root(
+        value,
+        os.environ.get("DRAFT_PATH_SOURCE_ROOT", ""),
+        os.environ.get("DRAFT_PATH_TARGET_ROOT", ""),
+    )
+    return mapped
+
+
+def asset_source_value(picked: dict) -> str:
+    mp4_path = picked.get("mp4_path")
+    if mp4_path:
+        return str(mp4_path)
+    file_value = str(picked.get("file", ""))
+    if Path(file_value).is_absolute():
+        return file_value
+    return join_under_root(str(ASSET_ROOT), file_value)
+
+
+def map_asset_value_for_root(source_value: str, target_root: str) -> str:
+    source_root = os.environ.get("ASSET_INDEX_SOURCE_ROOT", "")
+    mapped = rewrite_root(source_value, source_root, target_root)
+    if mapped != source_value:
+        return mapped
+    if target_root and not Path(source_value).is_absolute():
+        return join_under_root(target_root, source_value)
+    return mapped
+
+
+def resolve_asset_paths(picked: dict) -> tuple[Path, str]:
+    source_value = asset_source_value(picked)
+    local_root = os.environ.get("ASSET_LOCAL_ROOT") or os.environ.get("ASSET_DRAFT_ROOT") or ""
+    draft_root = os.environ.get("ASSET_DRAFT_ROOT") or local_root
+    local_value = map_asset_value_for_root(source_value, local_root) if local_root else source_value
+    draft_value = map_asset_value_for_root(source_value, draft_root) if draft_root else local_value
+    return Path(local_value), draft_value
 
 
 def probe_media_duration_us(path: Path) -> int | None:
@@ -91,17 +170,6 @@ def pick_matches_file(out_dir: Path, explicit_path: Path | None) -> Path:
         if path.exists():
             return path
     return out_dir / candidates[0]
-
-
-def resolve_asset_path(picked: dict) -> Path:
-    mp4_path = picked.get("mp4_path")
-    if mp4_path:
-        return Path(mp4_path)
-    file_value = picked.get("file", "")
-    file_path = Path(file_value)
-    if file_path.is_absolute():
-        return file_path
-    return ASSET_ROOT / file_value
 
 
 def should_accept_match(m: dict, picked: dict, min_fit_score: float, min_cosine: float, accepted_types: set[str]) -> tuple[bool, str]:
@@ -172,6 +240,8 @@ def get_logic_segment_time(ls: dict, atom_times: dict) -> tuple:
 
 
 def main():
+    load_env_file()
+
     if len(sys.argv) < 2:
         print("Usage: python scripts/generate-draft-from-matches.py <case_out_dir> [--target <drafts_dir>]")
         sys.exit(1)
@@ -299,19 +369,19 @@ def main():
                 skipped_matches.append((seg_id, "invalid beat output timing"))
                 continue
 
-        asset_path = resolve_asset_path(picked)
-        if not asset_path.exists():
-            print(f"  [WARN] asset not found: {asset_path}")
-            skipped_matches.append((seg_id, f"asset not found: {asset_path}"))
+        asset_local_path, asset_draft_path = resolve_asset_paths(picked)
+        if not asset_local_path.exists():
+            print(f"  [WARN] asset not found: {asset_local_path}")
+            skipped_matches.append((seg_id, f"asset not found: {asset_local_path}"))
             continue
 
         reuse_key = (
-            str(asset_path).lower(),
+            str(asset_local_path).lower(),
             round(float(picked["start"]), 2),
             round(float(picked["end"]), 2),
         )
-        file_reuse_key = str(asset_path).lower()
-        basename_reuse_key = asset_path.name.lower()
+        file_reuse_key = str(asset_local_path).lower()
+        basename_reuse_key = asset_local_path.name.lower()
         file_reuse_count = asset_file_reuse.get(file_reuse_key, 0)
         if file_reuse_count >= max_asset_file_reuse:
             skipped_matches.append((seg_id, f"asset file reused {file_reuse_count} times"))
@@ -332,7 +402,8 @@ def main():
             "seg_id": seg_id,
             "output_start": start_sec,
             "output_end": end_sec,
-            "asset_path": str(asset_path),
+            "asset_local_path": str(asset_local_path),
+            "asset_draft_path": asset_draft_path,
             "asset_start": picked["start"],
             "asset_end": picked["end"],
             "items": m.get("items", []),
@@ -346,7 +417,7 @@ def main():
     print(f"Matches: {matches_file}")
     print(f"Asset clips to place: {len(asset_clips)}")
     for ac in asset_clips:
-        print(f"  {ac['seg_id']} [{ac['output_start']:.2f}-{ac['output_end']:.2f}s] → {Path(ac['asset_path']).name[:50]} [{ac['asset_start']:.1f}-{ac['asset_end']:.1f}s]")
+        print(f"  {ac['seg_id']} [{ac['output_start']:.2f}-{ac['output_end']:.2f}s] → {Path(ac['asset_local_path']).name[:50]} [{ac['asset_start']:.1f}-{ac['asset_end']:.1f}s]")
 
     if skipped_matches:
         print(f"Skipped matches: {len(skipped_matches)}")
@@ -368,7 +439,7 @@ def main():
     # Track 1: main video
     script.add_track(TrackType.video, "main")
     script.add_segment(VideoSegment(
-        str(source_video),
+        to_draft_path(source_video),
         target_timerange=Timerange(0, total_us),
     ), "main")
     print("  + main track")
@@ -389,14 +460,14 @@ def main():
             if dur_us <= 0:
                 continue
             script.add_segment(VideoSegment(
-                str(clip_path),
+                to_draft_path(clip_path),
                 target_timerange=Timerange(start_us, dur_us),
             ), "overlay")
             prev_end = start_us + dur_us
         print(f"  + overlay track ({len(scene_clips)} clips)")
     elif overlay_video.exists():
         script.add_segment(VideoSegment(
-            str(overlay_video),
+            to_draft_path(overlay_video),
             target_timerange=Timerange(0, total_us),
         ), "overlay")
         print("  + overlay track (single file)")
@@ -406,7 +477,7 @@ def main():
         script.add_track(TrackType.video, "progress_bar", relative_index=2)
         pb_position = ClipSettings(transform_y=-0.948)
         script.add_segment(VideoSegment(
-            str(pb_mp4),
+            to_draft_path(pb_mp4),
             target_timerange=Timerange(0, total_us),
             clip_settings=pb_position,
         ), "progress_bar")
@@ -425,7 +496,7 @@ def main():
             if dur_us <= 0:
                 continue
             script.add_segment(VideoSegment(
-                str(clip_path),
+                to_draft_path(clip_path),
                 target_timerange=Timerange(int(nc["start"] * SEC), dur_us),
             ), "navigation")
         print(f"  + navigation track ({len(nav_clips)} clips)")
@@ -441,7 +512,7 @@ def main():
             source_dur_us = asset_avail_us
             # Safety margin: reduce by 100ms to avoid exceeding actual file duration
             source_dur_us = max(source_dur_us - 100000, SEC)
-            media_duration_us = probe_media_duration_us(Path(ac["asset_path"]))
+            media_duration_us = probe_media_duration_us(Path(ac["asset_local_path"]))
             media_end_us = media_duration_us - 100000 if media_duration_us else None
             if min_asset_speed > 0 and output_dur_us > 0:
                 desired_source_dur_us = int(output_dur_us * min_asset_speed)
@@ -474,7 +545,7 @@ def main():
                 continue
             try:
                 script.add_segment(VideoSegment(
-                    ac["asset_path"],
+                    ac["asset_draft_path"],
                     target_timerange=Timerange(output_start_us, output_dur_us),
                     source_timerange=Timerange(source_start_us, source_dur_us),
                 ), "assets")
