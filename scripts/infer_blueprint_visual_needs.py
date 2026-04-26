@@ -25,10 +25,13 @@ def parse_args() -> argparse.Namespace:
     ap = argparse.ArgumentParser()
     ap.add_argument("--bp", required=True, help="Input blueprint.json")
     ap.add_argument("--out", required=True, help="Output visual_needs.json")
-    ap.add_argument("--model", default="sonnet", help="Claude CLI model name")
+    ap.add_argument("--provider", default="anthropic", choices=["anthropic", "openai", "cli"])
+    ap.add_argument("--model", default="claude-sonnet-4-6", help="LLM model name")
     ap.add_argument("--claude-cmd", default="claude")
     ap.add_argument("--batch-size", type=int, default=6)
     ap.add_argument("--concurrency", type=int, default=8)
+    ap.add_argument("--timeout", type=int, default=150)
+    ap.add_argument("--max-tokens", type=int, default=4096)
     ap.add_argument("--overwrite", action="store_true")
     return ap.parse_args()
 
@@ -139,6 +142,19 @@ def run_claude_json(prompt: str, claude_cmd: str, model: str, timeout: int = 150
     return parse_jsonish(outer.get("result", ""))
 
 
+def run_visual_need_json(prompt: str, args: argparse.Namespace) -> Any:
+    if args.provider == "cli":
+        return run_claude_json(
+            prompt,
+            claude_cmd=args.claude_cmd,
+            model=args.model,
+            timeout=args.timeout,
+        )
+    from rerank_visual_matches_llm import call_llm_json
+
+    return call_llm_json(prompt, args)
+
+
 def visual_need_prompt(batch: list[dict]) -> str:
     rows = []
     for segment in batch:
@@ -210,8 +226,7 @@ def normalize_need(segment: dict, need: dict | None) -> dict:
 def infer_visual_needs(
     segments: list[dict],
     out_path: Path,
-    claude_cmd: str,
-    model: str,
+    args: argparse.Namespace,
     batch_size: int,
     concurrency: int,
     overwrite: bool,
@@ -230,7 +245,7 @@ def infer_visual_needs(
     def process_batch(batch_index: int, batch: list[dict]) -> list[dict]:
         t0 = time.time()
         try:
-            data = run_claude_json(visual_need_prompt(batch), claude_cmd=claude_cmd, model=model)
+            data = run_visual_need_json(visual_need_prompt(batch), args)
             if isinstance(data, dict):
                 data = data.get("visual_needs") or data.get("items") or data.get("results") or []
             if not isinstance(data, list):
@@ -244,7 +259,7 @@ def infer_visual_needs(
             normalized = []
             for seg in batch:
                 try:
-                    data = run_claude_json(visual_need_prompt([seg]), claude_cmd=claude_cmd, model=model)
+                    data = run_visual_need_json(visual_need_prompt([seg]), args)
                     if isinstance(data, dict):
                         data = data.get("visual_needs") or data.get("items") or data.get("results") or [data]
                     if not isinstance(data, list):
@@ -282,12 +297,15 @@ def infer_visual_needs(
 
 def main() -> None:
     args = parse_args()
+    if args.provider != "cli":
+        from rerank_visual_matches_llm import load_env_file
+
+        load_env_file()
     segments, title, n_scenes = load_blueprint_segments(Path(args.bp))
     needs = infer_visual_needs(
         segments,
         Path(args.out),
-        claude_cmd=args.claude_cmd,
-        model=args.model,
+        args=args,
         batch_size=args.batch_size,
         concurrency=args.concurrency,
         overwrite=args.overwrite,
@@ -297,7 +315,7 @@ def main() -> None:
         "n_scenes": n_scenes,
         "n_logic_segments": len(segments),
         "n_visual_needs": sum(1 for n in needs if n.get("needs_animation")),
-        "method": "claude-visual-need-v1",
+        "method": f"{args.provider}-visual-need-v1",
         "visual_needs": needs,
     }
     write_json(Path(args.out), data)

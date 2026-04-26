@@ -9,12 +9,15 @@ param(
     [string]$VisualSegments = "",
     [string]$VisualSegmentEmbeddings = "",
     [string]$VisualSegmentKeys = "",
-    [string]$VisualNeedModel = "sonnet",
+    [string]$VisualNeedProvider = "anthropic",
+    [string]$VisualNeedModel = "claude-sonnet-4-6",
     [int]$VisualNeedBatchSize = 6,
     [int]$VisualNeedConcurrency = 8,
-    [string]$RerankModel = "gpt-5.4",
+    [string]$RerankProvider = "anthropic",
+    [string]$RerankModel = "claude-sonnet-4-6",
     [int]$RerankConcurrency = 2,
-    [int]$RagTopK = 60
+    [int]$RagTopK = 60,
+    [switch]$AllowRagFallback
 )
 
 Set-StrictMode -Version Latest
@@ -311,12 +314,15 @@ $caseScript = {
         $VisualSegments,
         $VisualSegmentEmbeddings,
         $VisualSegmentKeys,
+        $VisualNeedProvider,
         $VisualNeedModel,
         $VisualNeedBatchSize,
         $VisualNeedConcurrency,
+        $RerankProvider,
         $RerankModel,
         $RerankConcurrency,
-        $RagTopK
+        $RagTopK,
+        $AllowRagFallback
     )
 
     Set-StrictMode -Version Latest
@@ -448,6 +454,7 @@ $caseScript = {
                 "scripts/infer_blueprint_visual_needs.py",
                 "--bp", $blueprintPath,
                 "--out", $visualNeedsPath,
+                "--provider", $VisualNeedProvider,
                 "--model", $VisualNeedModel,
                 "--batch-size", "$VisualNeedBatchSize",
                 "--concurrency", "$VisualNeedConcurrency"
@@ -513,10 +520,10 @@ $caseScript = {
 
         if ((Test-Path -LiteralPath $rerankInputPath) -and -not (Test-Path -LiteralPath $rerankedMatchesPath)) {
             $code = RunStep "asset rerank" $PythonExe @(
-                "scripts/rerank_visual_matches_codex.py",
+                "scripts/rerank_visual_matches_llm.py",
                 "--matches", $rerankInputPath,
                 "--out", $rerankedMatchesPath,
-                "--schema", "scripts/codex_rerank_schema.json",
+                "--provider", $RerankProvider,
                 "--model", $RerankModel,
                 "--top-candidates", "12",
                 "--batch-size", "3",
@@ -530,9 +537,9 @@ $caseScript = {
 
         if (Test-Path -LiteralPath $rerankedMatchesPath) {
             $matchFile = $rerankedMatchesPath
-        } elseif (Test-Path -LiteralPath $feedbackMatchesPath) {
+        } elseif ($AllowRagFallback -and (Test-Path -LiteralPath $feedbackMatchesPath)) {
             $matchFile = $feedbackMatchesPath
-        } elseif (Test-Path -LiteralPath $ragMatchesPath) {
+        } elseif ($AllowRagFallback -and (Test-Path -LiteralPath $ragMatchesPath)) {
             $matchFile = $ragMatchesPath
         }
     } else {
@@ -541,10 +548,14 @@ $caseScript = {
 
     # JianYing draft
     if (-not $matchFile) {
-        foreach ($name in @(
-            "asset_matches_visual_reranked.json",
-            "asset_matches_rag_feedback.json",
-            "asset_matches_rag.json",
+        $matchCandidates = @("asset_matches_visual_reranked.json")
+        if ($AllowRagFallback) {
+            $matchCandidates += @(
+                "asset_matches_rag_feedback.json",
+                "asset_matches_rag.json"
+            )
+        }
+        $matchCandidates += @(
             "asset_matches_atom_v3.json",
             "asset_matches_atom_v2.json",
             "asset_matches_atom.json",
@@ -552,7 +563,8 @@ $caseScript = {
             "asset_matches_v2.json",
             "asset_matches_atoms.json",
             "asset_matches.json"
-        )) {
+        )
+        foreach ($name in $matchCandidates) {
             $candidate = Join-Path $out $name
             if (Test-Path -LiteralPath $candidate) {
                 $matchFile = $candidate
@@ -648,12 +660,15 @@ while ($caseQueue.Count -gt 0 -or $activeJobs.Count -gt 0) {
             $VisualSegments,
             $VisualSegmentEmbeddings,
             $VisualSegmentKeys,
+            $VisualNeedProvider,
             $VisualNeedModel,
             $VisualNeedBatchSize,
             $VisualNeedConcurrency,
+            $RerankProvider,
             $RerankModel,
             $RerankConcurrency,
-            $RagTopK
+            $RagTopK,
+            [bool]$AllowRagFallback
         )
         $activeJobs[$job.Id] = @{ Job = $job; Label = $label }
     }

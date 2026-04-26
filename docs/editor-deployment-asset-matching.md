@@ -35,6 +35,7 @@
 - `scripts/infer_blueprint_visual_needs.py`
 - `scripts/infer_blueprint_visual_beats.py`
 - `scripts/match_visual_beats_to_segments.py`
+- `scripts/rerank_visual_matches_llm.py`
 - `scripts/rerank_visual_matches_codex.py`
 - `scripts/generate-draft-from-matches.py`
 - `scripts/generate-jianying-draft.py`
@@ -172,6 +173,9 @@ docx hotword context -> Qwen ASR -> LLM transcript review -> Qwen force-align ->
 ```
 
 它不会再使用根目录旧的 `asset_index.json` 小素材库。
+默认 LLM rerank 走 `ANTHROPIC_API_KEY` / `ANTHROPIC_BASE_URL` 或
+`ANTHROPIC_OPENAI_BASE_URL` 配置的代理 API，不依赖 Codex CLI。
+如果 LLM rerank 失败，默认回退生成无素材草稿，不会拿纯 RAG 结果硬生成素材轨。
 
 ## 不进 git 的内容
 

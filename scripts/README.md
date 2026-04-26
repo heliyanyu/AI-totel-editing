@@ -15,6 +15,7 @@ pipeline and the visual asset matching step inside it.
 - `infer_blueprint_visual_needs.py`
 - `infer_blueprint_visual_beats.py`
 - `match_visual_beats_to_segments.py`
+- `rerank_visual_matches_llm.py`
 - `rerank_visual_matches_codex.py`
 - `codex_rerank_schema.json`
 - `generate-draft-from-matches.py`

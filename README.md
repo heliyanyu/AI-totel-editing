@@ -46,6 +46,7 @@ Python/PowerShell runtime scripts:
 - `scripts/infer_blueprint_visual_needs.py`
 - `scripts/infer_blueprint_visual_beats.py`
 - `scripts/match_visual_beats_to_segments.py`
+- `scripts/rerank_visual_matches_llm.py`
 - `scripts/rerank_visual_matches_codex.py`
 - `scripts/codex_rerank_schema.json`
 - `scripts/generate-draft-from-matches.py`
