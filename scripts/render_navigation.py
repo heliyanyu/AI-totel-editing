@@ -121,6 +121,50 @@ def get_font(size: int, bold: bool = False) -> ImageFont.FreeTypeFont:
     return font
 
 
+def load_progress_nav_labels(visual_plan_path: Path) -> dict | None:
+    label_path = visual_plan_path.parent / "progress_nav_labels.json"
+    if not label_path.exists():
+        return None
+    try:
+        return json.loads(label_path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        print(f"  [WARN] failed to read progress_nav_labels.json: {exc}", file=sys.stderr)
+        return None
+
+
+def navigation_from_labels(labels: dict, fps: int, total_frames: int) -> tuple[list[dict], list[dict]]:
+    nav_items = list(labels.get("navigation") or labels.get("tier1") or [])
+    if not nav_items:
+        return ([], [])
+
+    nodes: list[dict] = []
+    appearances: list[dict] = []
+    for index, item in enumerate(nav_items):
+        node_id = str(item.get("id") or f"N{index + 1}")
+        start_frame = int(round(float(item.get("start", 0)) * fps))
+        end_frame = int(round(float(item.get("end", 0)) * fps))
+        if end_frame <= start_frame:
+            end_frame = min(total_frames, start_frame + fps)
+        nodes.append({
+            "id": node_id,
+            "label": str(item.get("label") or node_id),
+            "sceneIds": list(item.get("covers_vu") or [node_id]),
+        })
+        clip_end = min(total_frames, start_frame + int(round(2.4 * fps)))
+        if clip_end > start_frame + 2:
+            appearances.append({
+                "type": "flash" if index > 0 else "stay",
+                "mode": "navigation",
+                "startFrame": start_frame,
+                "endFrame": clip_end,
+                "activeNode": node_id,
+                "completedNodes": [node["id"] for node in nodes[:index]],
+                "label": str(item.get("label") or node_id),
+                "tone": "brand",
+            })
+    return (nodes, appearances)
+
+
 def measure_text_width(text: str, font: ImageFont.FreeTypeFont) -> int:
     bbox = font.getbbox(text)
     return bbox[2] - bbox[0]
@@ -382,6 +426,12 @@ def render_video(visual_plan_path: str, output_path: str):
     total_frames = plan["totalFrames"]
     nodes = plan["topicNodes"]
     appearances = plan.get("topicAppearances", [])
+    labels = load_progress_nav_labels(Path(visual_plan_path))
+    if labels:
+        label_nodes, label_appearances = navigation_from_labels(labels, fps, total_frames)
+        if label_nodes and label_appearances:
+            nodes = label_nodes
+            appearances = label_appearances
 
     print(f"  Navigation renderer: {total_frames} frames @ {fps}fps")
     print(f"  Topics: {len(nodes)}, Appearances: {len(appearances)}")

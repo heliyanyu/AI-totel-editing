@@ -9,6 +9,11 @@
     "transcribe:qwen": "python scripts/transcribe-qwen.py",
     "force-align:qwen": "python scripts/force-align-qwen.py",
     "timing:direct": "npx tsx src/timing/build-direct-timing-map.ts",
+    "vu:cut": "npx tsx src/vu/cut-with-deepseek.ts",
+    "vu:from-blueprint": "npx tsx src/vu/build-from-blueprint.ts",
+    "vu:jobs": "npx tsx src/vu/build-render-jobs.ts",
+    "vu:plan": "npx tsx src/vu/deepseek-plan.ts",
+    "vu:render": "npx tsx src/vu/render-overlays.ts",
     "render": "npx tsx src/renderer/render.ts"
   },
   "dependencies": {

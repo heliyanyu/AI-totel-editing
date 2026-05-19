@@ -191,19 +191,19 @@ def main():
     else:
         print("  overlay.mp4 not found, skipping overlay split")
 
-    # Crop progress bar to top 100px strip
+    # Crop progress bar to a taller Tier-A strip (two-level progress bar).
     if pb_video.exists():
         pb_cropped = out_dir / "overlay_progress_bar_cropped.mp4"
         subprocess.run([
             "ffmpeg", "-y",
             "-i", str(pb_video),
-            "-vf", "crop=1080:100:0:50",
+            "-vf", "crop=1080:180:0:40",
             "-pix_fmt", "yuv420p",
             "-an", str(pb_cropped),
         ], check=True, capture_output=True)
         # Replace original with cropped version
         pb_cropped.replace(pb_video)
-        print(f"\n  progress bar: {pb_video.name} (cropped to 1080x100)")
+        print(f"\n  progress bar: {pb_video.name} (cropped to 1080x180)")
     else:
         print("  overlay_progress_bar.mov not found, skipping")
 

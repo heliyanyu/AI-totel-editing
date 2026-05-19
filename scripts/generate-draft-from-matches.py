@@ -23,6 +23,7 @@ from pyJianYingDraft import (
     TrackType,
     Timerange,
     VideoSegment,
+    VideoMaterial,
     TextSegment,
     TextStyle,
     ClipSettings,
@@ -475,9 +476,11 @@ def main():
     # Track 3: progress bar
     if pb_mp4.exists():
         script.add_track(TrackType.video, "progress_bar", relative_index=2)
-        pb_position = ClipSettings(transform_y=-0.948)
+        pb_material = VideoMaterial(str(pb_mp4))
+        pb_material.path = to_draft_path(pb_mp4)
+        pb_position = ClipSettings(transform_y=(pb_material.height / 2 - 960) / 960)
         script.add_segment(VideoSegment(
-            to_draft_path(pb_mp4),
+            pb_material,
             target_timerange=Timerange(0, total_us),
             clip_settings=pb_position,
         ), "progress_bar")

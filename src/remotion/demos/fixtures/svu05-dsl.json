@@ -1,0 +1,64 @@
+{
+  "vu_id": "SVU05",
+  "duration_s": 18.6,
+  "family": "svu05",
+  "beats": [
+    { "id": "b1", "start_s": 0.0,  "end_s": 4.6,  "narrative": "鱼油被奉为护心神药" },
+    { "id": "b2", "start_s": 4.6,  "end_s": 9.8,  "narrative": "医生指出两个问题" },
+    { "id": "b3", "start_s": 9.8,  "end_s": 18.6, "narrative": "+10% 房颤风险" }
+  ],
+  "elements": [
+    { "id": "fish_oil",   "type": "emoji",     "content": "🐟" },
+    { "id": "claim_card", "type": "text_card", "text": "护心神药？", "tone": "brand" },
+    {
+      "id": "problems",
+      "type": "numbered_list",
+      "prefix_word": "问题",
+      "items": [
+        { "label": "房颤风险", "highlight_at": "b3+0.3s" },
+        { "label": "出血叠加" }
+      ]
+    },
+    {
+      "id": "pct",
+      "type": "big_number",
+      "prefix": "+",
+      "value": 10,
+      "suffix": "%",
+      "annotation_above": "每多 1g 鱼油",
+      "annotation_below": "房颤风险增量",
+      "tone": "danger"
+    },
+    {
+      "id": "afib_video",
+      "type": "video_panel",
+      "asset_slot": "afib_animation",
+      "label": "★ NUCLEUS · 房颤心脏"
+    },
+    { "id": "ecg", "type": "svg_path", "preset": "ecg_chaotic", "stroke": "#FFFFFF" },
+    {
+      "id": "src",
+      "type": "data_card",
+      "title": "DATA SOURCE",
+      "primary": "Gencer et al. Circulation 2021",
+      "meta": "n=81,210 · meta-analysis"
+    }
+  ],
+  "timeline": [
+    { "at": "b1+0.0s", "do": "PopIn",       "el": "fish_oil",   "at_zone": "hero_right", "scale": 2.4 },
+    { "at": "b1+1.0s", "do": "PopIn",       "el": "claim_card", "at_zone": "below_hero_right" },
+
+    { "at": "b2+0.0s", "do": "Strike",      "el": "claim_card", "duration_s": 0.6 },
+    { "at": "b2+0.5s", "do": "Fade",        "el": "claim_card", "to": 0, "duration_s": 0.7 },
+    { "at": "b2+0.8s", "do": "StackReveal", "el": "problems",   "at_zone": "left_panel" },
+    { "at": "b2+1.3s", "do": "MagicMove",   "el": "fish_oil",   "to_zone": "right_top_small", "scale": 0.85 },
+
+    { "at": "b3-0.2s", "do": "Fade",        "el": "afib_video", "at_zone": "right_panel", "to": 1, "duration_s": 0.6 },
+    { "at": "b3+0.0s", "do": "Fade",        "el": "fish_oil",   "to": 0, "duration_s": 0.4 },
+    { "at": "b3+0.8s", "do": "Collapse",    "el": "problems",   "to_scale": 0.62, "to_zone": "left_top_small" },
+    { "at": "b3+1.0s", "do": "PathDraw",    "el": "ecg",        "at_zone": "right_panel_overlay", "duration_s": 1.2 },
+    { "at": "b3+1.4s", "do": "PopIn",       "el": "pct",        "at_zone": "left_number_band" },
+    { "at": "b3+1.5s", "do": "CountUp",     "el": "pct",        "from": 0, "to": 10, "duration_s": 0.9 },
+    { "at": "b3+4.5s", "do": "PopIn",       "el": "src",        "at_zone": "right_bottom_band" }
+  ]
+}

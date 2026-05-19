@@ -241,9 +241,16 @@ export async function renderFinalVideo(
         fps: VIDEO_FPS,
         totalFrames: totalDurationFrames,
         segments: visualPlan.segments.map((s) => ({
+          key: s.key,
           fromFrame: s.fromFrame,
           contentDurationInFrames: s.contentDurationInFrames,
           topicId: s.topicId,
+          topicSegmentIndex: s.topicSegmentIndex,
+          label:
+            s.renderScene.items[0]?.text ??
+            s.renderScene.title ??
+            s.renderScene.variant_id ??
+            s.key,
           tone: s.tone,
         })),
         topicNodes: visualPlan.topicNodes,

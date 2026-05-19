@@ -1,6 +1,8 @@
 export const DEFAULT_ANTHROPIC_MODEL = "claude-opus-4-6";
 export const DEFAULT_ANTHROPIC_SONNET_MODEL = "claude-sonnet-4-6";
-export const DEFAULT_DEEPSEEK_MODEL = "deepseek-chat";
+export const DEFAULT_DEEPSEEK_MODEL = "deepseek-v4-flash";
+export const DEFAULT_DEEPSEEK_VU_CUTTER_MODEL = "deepseek-v4-pro";
+export const DEFAULT_DEEPSEEK_VU_PLANNER_MODEL = "deepseek-v4-pro";
 export const DEFAULT_DEEPSEEK_BASE_URL = "https://api.deepseek.com/v1";
 export const DEFAULT_QWEN_MODEL = "qwen3.6-plus";
 export const DEFAULT_QWEN_BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1";

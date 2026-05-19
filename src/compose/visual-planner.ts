@@ -6,6 +6,15 @@ export interface VisualTopicNode {
   id: string;
   label: string;
   sceneIds: string[];
+  subNodes?: VisualSubNode[];
+}
+
+export interface VisualSubNode {
+  id: string;
+  label: string;
+  fromFrame: number;
+  durationInFrames: number;
+  endFrame: number;
 }
 
 export interface VisualNavAppearance {
@@ -110,6 +119,23 @@ function buildTopicNodes(blueprint: Blueprint): VisualTopicNode[] {
     label: scene.title?.trim() || scene.id,
     sceneIds: scene.logic_segments.map((segment) => segment.id),
   }));
+}
+
+function compactLabel(text: string | undefined, fallback: string): string {
+  const normalized = (text ?? "")
+    .replace(/\s+/g, "")
+    .replace(/[，。！？、；：,.!?:;\[\]【】（）()]/g, "");
+  const label = normalized || fallback;
+  return label.length > 9 ? `${label.slice(0, 8)}…` : label;
+}
+
+function deriveSubNodeLabel(segment: VisualSegmentPlan): string {
+  const scene = segment.renderScene;
+  const firstItemText = scene.items[0]?.text;
+  return compactLabel(
+    firstItemText || scene.title || scene.variant_id,
+    `${segment.topicSegmentIndex + 1}`
+  );
 }
 
 function isVoiceoverOnly(plan: RenderSegmentSequencePlan): boolean {
@@ -433,9 +459,23 @@ export function buildVisualPlan(
     );
   }
 
+  const topicNodesWithSubNodes = topicNodes.map((node) => {
+    const topicSegments = segments.filter((segment) => segment.topicId === node.id);
+    return {
+      ...node,
+      subNodes: topicSegments.map((segment) => ({
+        id: segment.key,
+        label: deriveSubNodeLabel(segment),
+        fromFrame: segment.fromFrame,
+        durationInFrames: segment.contentDurationInFrames,
+        endFrame: segment.fromFrame + segment.contentDurationInFrames,
+      })),
+    };
+  });
+
   return {
     segments,
-    topicNodes,
-    topicAppearances: buildNavAppearances(segments, topicNodes),
+    topicNodes: topicNodesWithSubNodes,
+    topicAppearances: buildNavAppearances(segments, topicNodesWithSubNodes),
   };
 }

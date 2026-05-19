@@ -161,11 +161,12 @@ def main():
     pb_mp4 = out_dir / "overlay_progress_bar.mp4"
     if pb_mp4.exists():
         script.add_track(TrackType.video, "progress_bar", relative_index=2)
-        # Canvas=1920, strip=100px. Center of strip at y=50px from top.
-        # In half-canvas units: (50 - 960) / 960 = -0.948
-        pb_position = ClipSettings(transform_y=-0.948)
+        pb_material = VideoMaterial(str(pb_mp4))
+        # Place the cropped strip flush to the top, regardless of whether the
+        # progress bar is 100px (legacy) or 180px (Tier-A two-level).
+        pb_position = ClipSettings(transform_y=(pb_material.height / 2 - 960) / 960)
         script.add_segment(VideoSegment(
-            str(pb_mp4),
+            pb_material,
             target_timerange=Timerange(0, total_us),
             clip_settings=pb_position,
         ), "progress_bar")
