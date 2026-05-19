@@ -1,0 +1,532 @@
+[
+  {
+    "global_index": 400,
+    "seg_id": "S1-L2",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两种人的故事",
+    "template": "hero_text",
+    "items": [
+      "今天把这两件事一起说清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 401,
+    "seg_id": "S1-L3",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两种人的故事",
+    "template": "branch_path",
+    "items": [
+      "面对胸痛，你怎么判断",
+      "警惕真正危险的信号，及时就医",
+      "误判信号，延误救治酿成大祸"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 402,
+    "seg_id": "S2-L1",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "胸痛大概率不是心脏",
+    "template": "hero_text",
+    "items": [
+      "胸口疼直觉是心脏病，大概率是错的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 403,
+    "seg_id": "S2-L2",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "胸痛大概率不是心脏",
+    "template": "color_grid",
+    "items": [
+      "心脏",
+      "血管",
+      "肋骨与肌肉",
+      "神经"
+    ],
+    "needs_animation": true,
+    "label": "胸腔解剖结构（心脏、血管、肋骨肌肉、神经）"
+  },
+  {
+    "global_index": 404,
+    "seg_id": "S3-L1",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "三大常见非心脏胸痛",
+    "template": "step_arrow",
+    "items": [
+      "饭后躺下胃酸上反",
+      "食管烧灼感胸骨后闷痛",
+      "位置与心绞痛几乎一样"
+    ],
+    "needs_animation": true,
+    "label": "胃食管反流烧灼食管过程"
+  },
+  {
+    "global_index": 405,
+    "seg_id": "S3-L2",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "三大常见非心脏胸痛",
+    "template": "list_fade",
+    "items": [
+      "某一个点刺痛，很快消失",
+      "手按可复现，是神经的事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 406,
+    "seg_id": "S3-L3",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "三大常见非心脏胸痛",
+    "template": "list_fade",
+    "items": [
+      "长期紧张压力大",
+      "胸口闷堵说不清",
+      "所有检查结果正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 407,
+    "seg_id": "S3-L4",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "三大常见非心脏胸痛",
+    "template": "hero_text",
+    "items": [
+      "胸口疼先别慌，大概率不是心脏病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 408,
+    "seg_id": "S4-L1",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "hero_text",
+    "items": [
+      "心脏真出问题，反而很多人不是胸口疼"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 409,
+    "seg_id": "S4-L2",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "split_column",
+    "items": [
+      "典型：胸骨后压榨性闷痛",
+      "不典型：疼的位置根本不在胸口",
+      "位置明确，容易识别",
+      "位置偏移，极易误判"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 410,
+    "seg_id": "S4-L3",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "hero_text",
+    "items": [
+      "疼的位置根本不在胸口"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 411,
+    "seg_id": "S4-L4",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "color_grid",
+    "items": [
+      "突然牙疼下颌不适",
+      "左肩左臂疼以为肩周炎",
+      "上腹痛以为是胃病",
+      "突然憋气大汗不觉胸痛"
+    ],
+    "needs_animation": true,
+    "label": "心梗放射痛神经传导通路"
+  },
+  {
+    "global_index": 412,
+    "seg_id": "S4-L5",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "list_fade",
+    "items": [
+      "老年人痛感反应迟钝",
+      "糖尿病患者感觉神经受损",
+      "女性心梗表现更不典型"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 413,
+    "seg_id": "S4-L6",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "step_arrow",
+    "items": [
+      "长期糖尿病损伤感觉神经",
+      "痛觉迟钝只觉闷累不觉疼",
+      "心梗发作却浑然不知"
+    ],
+    "needs_animation": true,
+    "label": "糖尿病损伤感觉神经导致痛觉迟钝过程"
+  },
+  {
+    "global_index": 414,
+    "seg_id": "S4-L7",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "myth_buster",
+    "items": [
+      "害怕的胸口疼",
+      "大概率不是心脏问题",
+      "没当回事的牙疼肩疼憋气",
+      "可能才是心梗在敲门"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 415,
+    "seg_id": "S4-L8",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "warning_alert",
+    "items": [
+      "没当回事的那个，才是真正危险的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 416,
+    "seg_id": "S4-L9",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "list_fade",
+    "items": [
+      "牙疼下颌疼",
+      "左肩左臂疼",
+      "上腹疼吃胃药无效",
+      "突然大汗憋气"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 417,
+    "seg_id": "S4-L10",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "hero_text",
+    "items": [
+      "不典型表现，可能才是心梗在敲门"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 418,
+    "seg_id": "S5-L1",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两步分辨法",
+    "template": "hero_text",
+    "items": [
+      "给你两个思路，学会自己判断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 419,
+    "seg_id": "S5-L2",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两步分辨法",
+    "template": "category_table",
+    "items": [
+      "走路爬楼加重，休息能缓解",
+      "与活动相关，需高度警惕",
+      "持续数分钟以上不缓解",
+      "持续时间长，需警惕",
+      "能用手指出准确痛点",
+      "能定位一点，大概率不是心脏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 420,
+    "seg_id": "S5-L3",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两步分辨法",
+    "template": "list_fade",
+    "items": [
+      "同时出汗了吗",
+      "同时胸闷憋气了吗",
+      "同时恶心呕吐了吗",
+      "活动后有加重特点吗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 421,
+    "seg_id": "S5-L4",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两步分辨法",
+    "template": "brick_stack",
+    "items": [
+      "非胸口的疼痛不适",
+      "有任意一条伴随症状",
+      "本身有高血压糖尿病吸烟史",
+      "立刻去查心脏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 422,
+    "seg_id": "S6-L1",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "高危人群与最终提醒",
+    "template": "warning_alert",
+    "items": [
+      "50岁以上女性和糖尿病患者不典型心梗概率远高于常人",
+      "不能因为不是典型胸口疼就排除心脏问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 423,
+    "seg_id": "S6-L2",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "高危人群与最终提醒",
+    "template": "hero_text",
+    "items": [
+      "你怕的大概率不是，你没怕的才要命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 424,
+    "seg_id": "S6-L3",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "高危人群与最终提醒",
+    "template": "hero_text",
+    "items": [
+      "记住这两个反转，关键时刻帮你做对判断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 425,
+    "seg_id": "S1-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "那些让你心慌的话",
+    "template": "hero_text",
+    "items": [
+      "放过支架？这几句话你一定听过"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 426,
+    "seg_id": "S1-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "那些让你心慌的话",
+    "template": "list_fade",
+    "items": [
+      "放了支架这辈子就废了",
+      "支架最多管十年到时候得换",
+      "谁谁放了支架没几年就走了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 427,
+    "seg_id": "S1-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "那些让你心慌的话",
+    "template": "hero_text",
+    "items": [
+      "不是恶意，但每句都在给你添堵"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 428,
+    "seg_id": "S1-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "那些让你心慌的话",
+    "template": "hero_text",
+    "items": [
+      "逐句拆解，听完心里不再慌"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 429,
+    "seg_id": "S2-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架≠废掉",
+    "template": "hero_text",
+    "items": [
+      "放了支架这辈子就废了？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 430,
+    "seg_id": "S2-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架≠废掉",
+    "template": "list_fade",
+    "items": [
+      "该上班上班，生活照常",
+      "该运动运动，质量更好",
+      "该旅游旅游，不受限制"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 431,
+    "seg_id": "S2-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架≠废掉",
+    "template": "step_arrow",
+    "items": [
+      "堵塞血管被打通",
+      "心脏供血全面恢复",
+      "工作条件比术前更好"
+    ],
+    "needs_animation": true,
+    "label": "冠脉支架植入后血管再通与心脏供血恢复"
+  },
+  {
+    "global_index": 432,
+    "seg_id": "S2-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架≠废掉",
+    "template": "number_center",
+    "items": [
+      "数百万"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 433,
+    "seg_id": "S2-L5",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架≠废掉",
+    "template": "hero_text",
+    "items": [
+      "支架只是帮你修了一段路"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 434,
+    "seg_id": "S3-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架没有使用年限",
+    "template": "hero_text",
+    "items": [
+      "支架最多管十年要换？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 435,
+    "seg_id": "S3-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架没有使用年限",
+    "template": "myth_buster",
+    "items": [
+      "支架像轮胎有使用年限",
+      "支架永久植入成为血管壁一部分",
+      "管十年后需要更换",
+      "没有医学依据不需要更换"
+    ],
+    "needs_animation": true,
+    "label": "支架内皮化与血管壁融合过程"
+  },
+  {
+    "global_index": 436,
+    "seg_id": "S3-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架没有使用年限",
+    "template": "hero_text",
+    "items": [
+      "管十年说法完全没有医学依据"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 437,
+    "seg_id": "S3-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架没有使用年限",
+    "template": "list_fade",
+    "items": [
+      "支架内是否再次狭窄",
+      "其他血管是否新生斑块"
+    ],
+    "needs_animation": true,
+    "label": "支架内再狭窄与新生斑块形成"
+  },
+  {
+    "global_index": 438,
+    "seg_id": "S3-L5",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架没有使用年限",
+    "template": "brick_stack",
+    "items": [
+      "坚持规律服药",
+      "血脂血压达标控制",
+      "长期健康生活方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 439,
+    "seg_id": "S4-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "早知道不放了？",
+    "template": "hero_text",
+    "items": [
+      "早知道不放了，吃药也能好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

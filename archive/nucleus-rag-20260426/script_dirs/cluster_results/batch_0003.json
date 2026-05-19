@@ -1,0 +1,521 @@
+[
+  {
+    "global_index": 120,
+    "seg_id": "S3-L1",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "大多数心律失常其实不可怕",
+    "template": "hero_text",
+    "items": [
+      "大部分心律失常，其实很温和"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 121,
+    "seg_id": "S3-L2",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "大多数心律失常其实不可怕",
+    "template": "list_fade",
+    "items": [
+      "心脏突然提前跳一下，感觉咯噔",
+      "健康人身上非常常见",
+      "不频繁、不连续，无需任何治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 122,
+    "seg_id": "S3-L3",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "大多数心律失常其实不可怕",
+    "template": "myth_buster",
+    "items": [
+      "窦性心律不齐听起来像心脏病",
+      "随呼吸波动，是完全正常生理现象"
+    ],
+    "needs_animation": true,
+    "label": "呼吸性窦性心律不齐的生理机制"
+  },
+  {
+    "global_index": 123,
+    "seg_id": "S4-L1",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "这三种心律失常要认真对待",
+    "template": "hero_text",
+    "items": [
+      "记住这三种需要重视的情况"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 124,
+    "seg_id": "S4-L2",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "这三种心律失常要认真对待",
+    "template": "step_arrow",
+    "items": [
+      "心跳突然飙升超过150次/分钟",
+      "伴头晕、胸闷、近乎晕厥",
+      "需做24小时动态心电图明确类型"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 125,
+    "seg_id": "S4-L3",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "这三种心律失常要认真对待",
+    "template": "step_arrow",
+    "items": [
+      "心率低于50次且头晕乏力",
+      "窦房结或传导线路出现故障",
+      "严重时可能需要安装起搏器"
+    ],
+    "needs_animation": true,
+    "label": "心脏传导系统功能障碍与起搏器植入"
+  },
+  {
+    "global_index": 126,
+    "seg_id": "S4-L4",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "这三种心律失常要认真对待",
+    "template": "warning_alert",
+    "items": [
+      "室颤发作：心脏哆嗦而非跳动",
+      "数分钟内可危及生命"
+    ],
+    "needs_animation": true,
+    "label": "心室颤动的病理过程"
+  },
+  {
+    "global_index": 127,
+    "seg_id": "S4-L5",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "这三种心律失常要认真对待",
+    "template": "hero_text",
+    "items": [
+      "有心脏基础病者，心慌必须更重视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 128,
+    "seg_id": "S5-L1",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "三个信号自测心律失常危险度",
+    "template": "hero_text",
+    "items": [
+      "怎么判断自己的心律失常危不危险？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 129,
+    "seg_id": "S5-L2",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "三个信号自测心律失常危险度",
+    "template": "color_grid",
+    "items": [
+      "心率不超过100次且节律规整",
+      "大概率问题不大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 130,
+    "seg_id": "S5-L3",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "三个信号自测心律失常危险度",
+    "template": "warning_alert",
+    "items": [
+      "心率超150次或节律完全紊乱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 131,
+    "seg_id": "S5-L4",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "三个信号自测心律失常危险度",
+    "template": "list_fade",
+    "items": [
+      "伴随胸痛",
+      "出现晕厥",
+      "呼吸困难"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 132,
+    "seg_id": "S6-L1",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "正确态度：既不自吓也不硬扛",
+    "template": "myth_buster",
+    "items": [
+      "查出心律失常 = 心脏有病",
+      "心律失常类型不同，意义完全不同"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 133,
+    "seg_id": "S6-L2",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "正确态度：既不自吓也不硬扛",
+    "template": "step_arrow",
+    "items": [
+      "做动态心电图明确类型",
+      "能放心的彻底放心",
+      "该治疗的尽早别拖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 134,
+    "seg_id": "S6-L3",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "正确态度：既不自吓也不硬扛",
+    "template": "hero_text",
+    "items": [
+      "既不值得吓自己，也不值得拿命去扛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 135,
+    "seg_id": "S1-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "喝的比吃的更影响血压",
+    "template": "hero_text",
+    "items": [
+      "喝进去的东西可能比吃的更影响血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 136,
+    "seg_id": "S1-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "喝的比吃的更影响血压",
+    "template": "myth_buster",
+    "items": [
+      "吃东西会注意少油少盐",
+      "喝的东西却从没在意过"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 137,
+    "seg_id": "S1-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "喝的比吃的更影响血压",
+    "template": "list_fade",
+    "items": [
+      "咖啡",
+      "茶",
+      "酒",
+      "奶茶饮料"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 138,
+    "seg_id": "S1-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "喝的比吃的更影响血压",
+    "template": "branch_path",
+    "items": [
+      "逐个过一遍",
+      "有的可以放心喝",
+      "有的最好不要碰"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 139,
+    "seg_id": "S2-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "咖啡与血压的关系",
+    "template": "hero_text",
+    "items": [
+      "咖啡与血压的关系比你想象的复杂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 140,
+    "seg_id": "S2-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "咖啡与血压的关系",
+    "template": "number_center",
+    "items": [
+      "5~10"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 141,
+    "seg_id": "S2-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "咖啡与血压的关系",
+    "template": "vertical_timeline",
+    "items": [
+      "初期饮用：血压短暂升高",
+      "规律饮用：身体产生耐受",
+      "长期来看：心血管风险不高于不喝者"
+    ],
+    "needs_animation": true,
+    "label": "咖啡因对血压的短期升高与耐受机制"
+  },
+  {
+    "global_index": 142,
+    "seg_id": "S2-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "咖啡与血压的关系",
+    "template": "number_center",
+    "items": [
+      "2~3杯"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 143,
+    "seg_id": "S2-L5",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "咖啡与血压的关系",
+    "template": "list_fade",
+    "items": [
+      "血压控制良好",
+      "保持每天两到三杯以内"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 144,
+    "seg_id": "S2-L6",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "咖啡与血压的关系",
+    "template": "warning_alert",
+    "items": [
+      "每天超过三杯要警惕",
+      "血压未控制稳定者先别喝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 145,
+    "seg_id": "S3-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "hero_text",
+    "items": [
+      "茶对血压整体偏友好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 146,
+    "seg_id": "S3-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "list_fade",
+    "items": [
+      "茶多酚改善血管内皮功能",
+      "轻度辅助降低血压"
+    ],
+    "needs_animation": true,
+    "label": "茶多酚改善血管内皮功能的机制"
+  },
+  {
+    "global_index": 147,
+    "seg_id": "S3-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "split_column",
+    "items": [
+      "长期规律饮茶者",
+      "不喝茶的人群",
+      "血压总体水平略低",
+      "血压水平相对较高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 148,
+    "seg_id": "S3-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "number_center",
+    "items": [
+      "≈1杯咖啡"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 149,
+    "seg_id": "S3-L5",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "warning_alert",
+    "items": [
+      "喝浓茶后血压短暂升高、心率加快"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 150,
+    "seg_id": "S3-L6",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "list_fade",
+    "items": [
+      "喝茶没问题，但别泡太浓",
+      "睡前不要喝茶"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 151,
+    "seg_id": "S3-L7",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "step_arrow",
+    "items": [
+      "睡前喝茶",
+      "影响睡眠质量",
+      "间接升高血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 152,
+    "seg_id": "S3-L8",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "split_column",
+    "items": [
+      "淡茶",
+      "浓茶",
+      "随便喝",
+      "悠着点"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 153,
+    "seg_id": "S4-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "hero_text",
+    "items": [
+      "关于酒，必须严肃说清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 154,
+    "seg_id": "S4-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "step_arrow",
+    "items": [
+      "饮酒量增加",
+      "血压随之升高",
+      "剂量越大升压越明显"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 155,
+    "seg_id": "S4-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "number_center",
+    "items": [
+      "1.5~2倍"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 156,
+    "seg_id": "S4-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "myth_buster",
+    "items": [
+      "少量红酒对心血管有保护作用",
+      "任何剂量的酒精均无保护作用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 157,
+    "seg_id": "S4-L5",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "number_center",
+    "items": [
+      "5~10"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 158,
+    "seg_id": "S4-L6",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "branch_path",
+    "items": [
+      "实在戒不掉酒",
+      "男性每天酒精不超过25克（约一瓶啤酒）",
+      "最好完全不喝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 159,
+    "seg_id": "S4-L7",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "warning_alert",
+    "items": [
+      "最好的选择就是不喝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

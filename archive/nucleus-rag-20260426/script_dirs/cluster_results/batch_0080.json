@@ -1,0 +1,519 @@
+[
+  {
+    "global_index": 3200,
+    "seg_id": "S6-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压是什么",
+    "template": "hero_text",
+    "items": [
+      "血液流动时对血管壁的压力"
+    ],
+    "needs_animation": true,
+    "label": "血液流动对血管壁产生压力的原理"
+  },
+  {
+    "global_index": 3201,
+    "seg_id": "S6-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压是什么",
+    "template": "body_annotate",
+    "items": [
+      "心脏收缩：泵血用力",
+      "此时压力最大 = 高压（收缩压）"
+    ],
+    "needs_animation": true,
+    "label": "心脏收缩期泵血与收缩压形成"
+  },
+  {
+    "global_index": 3202,
+    "seg_id": "S6-L3",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压是什么",
+    "template": "body_annotate",
+    "items": [
+      "心脏舒张：大动脉弹性维持",
+      "此时压力最低 = 低压（舒张压）"
+    ],
+    "needs_animation": true,
+    "label": "心脏舒张期大动脉弹性回缩维持舒张压"
+  },
+  {
+    "global_index": 3203,
+    "seg_id": "S6-L4",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压是什么",
+    "template": "split_column",
+    "items": [
+      "高压：收缩压，心脏泵血瞬间",
+      "低压：舒张压，心脏舒张瞬间",
+      "两个状态产生两个压力数值",
+      "合起来就是血压的完整读数"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3204,
+    "seg_id": "S7-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "一次偏高不等于高血压",
+    "template": "step_arrow",
+    "items": [
+      "不同时间段，规范测量",
+      "多次结果均 ≥ 140/90",
+      "才能诊断为高血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3205,
+    "seg_id": "S7-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "一次偏高不等于高血压",
+    "template": "branch_path",
+    "items": [
+      "偶尔一次测值偏高",
+      "规范重测多次仍正常→无需担心",
+      "多次规范测量仍超标→就医诊断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3206,
+    "seg_id": "S8-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "总结：学会读懂血压",
+    "template": "list_fade",
+    "items": [
+      "血压分三档：正常、高值、高血压",
+      "正常高值同样需要重视",
+      "越早干预，越难进展为高血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3207,
+    "seg_id": "S1-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "门诊最常被问的问题",
+    "template": "hero_text",
+    "items": [
+      "降压药吃了就不能停？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3208,
+    "seg_id": "S1-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "门诊最常被问的问题",
+    "template": "warning_alert",
+    "items": [
+      "怕有成瘾性，高血压多年不敢吃药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3209,
+    "seg_id": "S1-L3",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "门诊最常被问的问题",
+    "template": "hero_text",
+    "items": [
+      "大概率搞错了一个关键东西"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3210,
+    "seg_id": "S2-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "药没有成瘾性，是病好不了",
+    "template": "myth_buster",
+    "items": [
+      "降压药有成瘾性，吃了会上瘾",
+      "降压药无成瘾性，不同于安眠药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3211,
+    "seg_id": "S2-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "药没有成瘾性，是病好不了",
+    "template": "hero_text",
+    "items": [
+      "高血压本身就是需要长期治疗的病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3212,
+    "seg_id": "S2-L3",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "药没有成瘾性，是病好不了",
+    "template": "split_column",
+    "items": [
+      "药停不了",
+      "血压降不下来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3213,
+    "seg_id": "S3-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "近视眼镜类比",
+    "template": "split_column",
+    "items": [
+      "摘掉眼镜看不清",
+      "是眼睛有问题，不是眼镜有依赖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3214,
+    "seg_id": "S3-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "近视眼镜类比",
+    "template": "split_column",
+    "items": [
+      "停药后血压又升上去",
+      "是血压本就高，药只是压着"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3215,
+    "seg_id": "S3-L3",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "近视眼镜类比",
+    "template": "hero_text",
+    "items": [
+      "真正的问题：血压能否自己回到正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3216,
+    "seg_id": "S4-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "轻度高血压可先改生活方式",
+    "template": "category_table",
+    "items": [
+      "高压 140～160 之间",
+      "低压未超过 100",
+      "无糖尿病/肾病/心血管问题",
+      "先改变生活方式 3～6 个月"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3217,
+    "seg_id": "S4-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "轻度高血压可先改生活方式",
+    "template": "list_fade",
+    "items": [
+      "少盐、少熬夜、减重",
+      "规律运动、戒烟限酒",
+      "血压真的降正常，可先不用药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3218,
+    "seg_id": "S5-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "血压高+并发症风险，必须用药",
+    "template": "warning_alert",
+    "items": [
+      "血压超过 160，或合并糖尿病/肾病",
+      "血管已受损，千万别再硬扛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3219,
+    "seg_id": "S5-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "血压高+并发症风险，必须用药",
+    "template": "step_arrow",
+    "items": [
+      "血压持续偏高",
+      "血管每天承受冲击，损伤积累",
+      "损伤到一定程度，不可逆"
+    ],
+    "needs_animation": true,
+    "label": "高血压对血管壁的持续冲击与损伤积累"
+  },
+  {
+    "global_index": 3220,
+    "seg_id": "S5-L3",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "血压高+并发症风险，必须用药",
+    "template": "brick_stack",
+    "items": [
+      "怕停不了药，硬扛不吃",
+      "血管硬化、心脏肥大、肾脏受损",
+      "不只吃降压药，还要加护肾、护心药",
+      "一种药扛成三四种，得不偿失"
+    ],
+    "needs_animation": true,
+    "label": "高血压导致血管硬化、心脏肥大、肾脏损伤"
+  },
+  {
+    "global_index": 3221,
+    "seg_id": "S6-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "换角度看：吃药不是终身监禁",
+    "template": "hero_text",
+    "items": [
+      "很多人怕的是吃药像判了终身监禁"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3222,
+    "seg_id": "S6-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "换角度看：吃药不是终身监禁",
+    "template": "hero_text",
+    "items": [
+      "开始吃药，将来也有停药的可能"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3223,
+    "seg_id": "S6-L3",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "换角度看：吃药不是终身监禁",
+    "template": "list_fade",
+    "items": [
+      "认真控体重、改变生活习惯",
+      "部分人血压会慢慢好转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3224,
+    "seg_id": "S6-L4",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "换角度看：吃药不是终身监禁",
+    "template": "vertical_timeline",
+    "items": [
+      "初期：多种药联合控压",
+      "稳定后：在医生指导下逐步减药",
+      "理想状态：减至一种、剂量最小"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3225,
+    "seg_id": "S6-L5",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "换角度看：吃药不是终身监禁",
+    "template": "warning_alert",
+    "items": [
+      "不能自己偷偷停药，必须医生监测"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3226,
+    "seg_id": "S7-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "真相揭晓：关键在血压，不在药",
+    "template": "split_column",
+    "items": [
+      "血压自己正常了，药可以停",
+      "血压降不来，药就是你的拐杖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3227,
+    "seg_id": "S7-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "真相揭晓：关键在血压，不在药",
+    "template": "warning_alert",
+    "items": [
+      "真正该怕的：血压高了几年一直扛着",
+      "高血压并发症比吃一辈子药更严重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3228,
+    "seg_id": "S8-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "行动建议：别自己瞎猜",
+    "template": "list_fade",
+    "items": [
+      "拿不准时，找医生系统评估",
+      "确实需要吃药，该吃就吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3229,
+    "seg_id": "S8-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "行动建议：别自己瞎猜",
+    "template": "warning_alert",
+    "items": [
+      "别自己觉得没事就行，有感觉时已晚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3230,
+    "seg_id": "S1-L1",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "患者的困惑",
+    "template": "hero_text",
+    "items": [
+      "冠心病能吃鸡蛋吗？蛋黄要扔掉吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3231,
+    "seg_id": "S1-L2",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "患者的困惑",
+    "template": "hero_text",
+    "items": [
+      "门诊被问烂了的高频问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3232,
+    "seg_id": "S1-L3",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "患者的困惑",
+    "template": "hero_text",
+    "items": [
+      "患者不是不想吃，是被吓怕了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3233,
+    "seg_id": "S1-L4",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "患者的困惑",
+    "template": "hero_text",
+    "items": [
+      "很多人怕鸡蛋，不敢碰蛋黄"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3234,
+    "seg_id": "S1-L5",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "患者的困惑",
+    "template": "warning_alert",
+    "items": [
+      "好几年没碰蛋黄",
+      "白白损失大量营养"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3235,
+    "seg_id": "S2-L1",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "直接给结论",
+    "template": "hero_text",
+    "items": [
+      "今天把这件事彻底说清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3236,
+    "seg_id": "S2-L2",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "直接给结论",
+    "template": "myth_buster",
+    "items": [
+      "冠心病患者不能吃鸡蛋",
+      "鸡蛋能吃，蛋黄也不用扔"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3237,
+    "seg_id": "S3-L1",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "brick_stack",
+    "items": [
+      "蛋黄胆固醇含量高",
+      "吃进去血脂会升高",
+      "担心心脏出问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3238,
+    "seg_id": "S3-L2",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "myth_buster",
+    "items": [
+      "吃进胆固醇=血液胆固醇升高",
+      "饮食胆固醇与血脂不成正比"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3239,
+    "seg_id": "S3-L3",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "hero_text",
+    "items": [
+      "饮食胆固醇≠血液胆固醇直接换算"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

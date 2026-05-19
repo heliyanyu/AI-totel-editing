@@ -1,0 +1,13 @@
+S6-L5 [骗局三：替代正规药物]
+  items: 擅自停他汀阿司匹林 | 斑块越来越不稳定 | 斑块破裂引发急性心梗 | 后悔已经来不及
+  category: 斑块破裂与血栓形成
+  -> ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+     [80.0-85.5s] If this plaque ruptures, a blood clot can form and block the artery.
+     reason: 斑块破裂→血栓→堵塞冠脉，急性冠脉综合征专题
+  -> ANH16180_About Your Heart Attack.mp4
+     [71.4-77.6s] If this plaque became disrupted, a blood clot might form and severely worsen the narrowing
+     reason: 斑块破裂→血栓→完全堵塞，心梗专题片
+  -> ANC00093_Blood Clot Formation Around Plaque.mp4
+     [0.0-8.0s] Formation of a blood clot which can impede blood flow through the artery, leading to a heart attack 
+     reason: 斑块周围血栓形成致心梗
+

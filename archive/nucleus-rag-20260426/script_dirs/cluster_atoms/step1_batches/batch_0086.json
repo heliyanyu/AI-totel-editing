@@ -1,0 +1,565 @@
+[
+  {
+    "global_index": 3440,
+    "seg_id": "S1-L2",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死并非偶然",
+    "template": "hero_text",
+    "items": [
+      "今天科普心源性猝死预警与预防"
+    ],
+    "atoms_text": "今天 借着张雪峰老师的悲剧 跟大家 好好科普下 心源性猝死的 预警信号 和预防方法 希望所有人 都能引以为戒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3441,
+    "seg_id": "S2-L1",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死的根源机制",
+    "template": "number_center",
+    "items": [
+      "80%"
+    ],
+    "atoms_text": "我们说 心源性猝死的原因 百分之八十以上 都和 冠状动脉粥样硬化性心脏病 有关",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3442,
+    "seg_id": "S2-L2",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死的根源机制",
+    "template": "step_arrow",
+    "items": [
+      "血管长期受压形成斑块",
+      "斑块破裂引发血栓",
+      "心肌急性缺血坏死",
+      "短时间内致命"
+    ],
+    "atoms_text": "简单说 就是 心脏血管 长期经受各种压力 慢慢形成斑块 一旦斑块破裂 就会形成血栓 堵塞心脏血管 导致心肌急性缺血坏死 短时间内 就能致命",
+    "needs_animation": true,
+    "label": "心脏血管斑块形成→破裂→血栓堵塞→心肌急性缺血坏死全过程"
+  },
+  {
+    "global_index": 3443,
+    "seg_id": "S2-L3",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死的根源机制",
+    "template": "list_fade",
+    "items": [
+      "肥厚型心肌病",
+      "恶性心律失常",
+      "心肌炎"
+    ],
+    "atoms_text": "除此之外 肥厚型心肌病 恶性心律失常 心肌炎等 也是心源性猝死的 常见诱因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3444,
+    "seg_id": "S2-L4",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死的根源机制",
+    "template": "hero_text",
+    "items": [
+      "血管出事前往往早有信号"
+    ],
+    "atoms_text": "而更需要你重视的是 血管在出事之前 往往已经给过信号了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3445,
+    "seg_id": "S3-L1",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死前的四级预警",
+    "template": "warning_alert",
+    "items": [
+      "浑身发冷出冷汗怎么休息都累",
+      "心脏泵血下降四肢末梢供血不足"
+    ],
+    "atoms_text": "第一 经常浑身发冷 出冷汗 怎么休息都休息不好 很累 这是 心脏泵血能力下降 四肢末梢供血不足的 信号",
+    "needs_animation": true,
+    "label": "心脏泵血能力下降导致四肢末梢供血不足"
+  },
+  {
+    "global_index": 3446,
+    "seg_id": "S3-L2",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死前的四级预警",
+    "template": "hero_text",
+    "items": [
+      "此时干预仍有充足时间"
+    ],
+    "atoms_text": "但其实 如果你细心留意 此时干预 仍有充足时间 一定要 及时停下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3447,
+    "seg_id": "S3-L3",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死前的四级预警",
+    "template": "warning_alert",
+    "items": [
+      "指甲嘴唇发紫",
+      "心脏供血供氧已无法满足需求"
+    ],
+    "atoms_text": "第二 指甲嘴唇发紫 说明 心脏供血供氧 已经无法满足 身体的需求",
+    "needs_animation": true,
+    "label": "心脏供血供氧不足导致指甲嘴唇紫绀"
+  },
+  {
+    "global_index": 3448,
+    "seg_id": "S3-L4",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死前的四级预警",
+    "template": "body_annotate",
+    "items": [
+      "牙齿酸胀不适",
+      "左肩后背酸胀",
+      "下颌部位不适"
+    ],
+    "atoms_text": "第三 不典型表现疼痛 比如 左肩后背下颌 甚至牙齿的 酸胀不适 这也是 神经牵涉导致的 信号",
+    "needs_animation": true,
+    "label": "心脏缺血经神经牵涉引起左肩后背下颌放射性疼痛"
+  },
+  {
+    "global_index": 3449,
+    "seg_id": "S3-L5",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死前的四级预警",
+    "template": "warning_alert",
+    "items": [
+      "突发压榨样紧缩感胸痛",
+      "心肌严重缺血猝死前紧急信号"
+    ],
+    "atoms_text": "第四是 突发压榨样紧缩样胸痛 常伴有 左肩后背下颌放射痛 这是 心肌严重缺血的 典型信号 也是猝死前的 紧急预警",
+    "needs_animation": true,
+    "label": "心肌严重缺血引发压榨样胸痛伴左肩后背下颌放射痛"
+  },
+  {
+    "global_index": 3450,
+    "seg_id": "S3-L6",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死前的四级预警",
+    "template": "step_arrow",
+    "items": [
+      "不要拍打肘窝",
+      "立刻拨打120",
+      "原地平卧解开衣领腰带",
+      "保持呼吸通畅等待救援"
+    ],
+    "atoms_text": "但哪怕 走到这步 你也有自救时间 这时 千万别拍打肘窝 立刻拨打一二零 原地平卧休息 解开衣领腰带 保持呼吸通畅 减少心脏负荷 等待医务人员的救援",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3451,
+    "seg_id": "S4-L1",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "hero_text",
+    "items": [
+      "多种危险因素叠加的悲剧"
+    ],
+    "atoms_text": "张雪峰老师的情况 正是 多种危险因素叠加的结果",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3452,
+    "seg_id": "S4-L2",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "brick_stack",
+    "items": [
+      "常年熬夜高强度工作",
+      "长期睡眠不足激素节律紊乱",
+      "持续情绪波动诱发血管痉挛",
+      "2023年已因过劳住院心脏存隐患"
+    ],
+    "atoms_text": "身为创作者 他常年处于 高强度工作状态 熬夜更是家常便饭",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3453,
+    "seg_id": "S4-L3",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "step_arrow",
+    "items": [
+      "剧烈跑步后",
+      "立即喝冷水",
+      "诱发心源性猝死"
+    ],
+    "atoms_text": "长期睡眠不足 会打乱身体激素节律 让交感神经持续兴奋 升高血压 加重心脏负担",
+    "needs_animation": true,
+    "label": "睡眠不足打乱激素节律致交感神经持续兴奋升高血压加重心脏负担"
+  },
+  {
+    "global_index": 3454,
+    "seg_id": "S4-L4",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "hero_text",
+    "items": [
+      "惋惜悲剧更望大家引以为戒"
+    ],
+    "atoms_text": "持续的情绪波动 会诱发血管痉挛 进一步损伤血管内皮",
+    "needs_animation": true,
+    "label": "情绪波动诱发血管痉挛损伤血管内皮"
+  },
+  {
+    "global_index": 3455,
+    "seg_id": "S4-L5",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "list_fade",
+    "items": [
+      "更关键的",
+      "他二零在二三年",
+      "就曾经因过度劳累住院",
+      "本身心脏状态就不佳",
+      "存在潜在的"
+    ],
+    "atoms_text": "更关键的 他二零在二三年 就曾经因过度劳累住院 本身心脏状态就不佳 存在潜在的 心脏功能异常",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3456,
+    "seg_id": "S4-L6",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "list_fade",
+    "items": [
+      "此次跑步后喝冷水",
+      "成了",
+      "压垮心脏的最后一根稻草",
+      "最终诱发心源性猝死"
+    ],
+    "atoms_text": "此次跑步后喝冷水 成了 压垮心脏的最后一根稻草 最终诱发心源性猝死",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3457,
+    "seg_id": "S4-L7",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "list_fade",
+    "items": [
+      "所以",
+      "作为心内科医生",
+      "看到这样的悲剧",
+      "满心惋惜",
+      "更希望大家"
+    ],
+    "atoms_text": "所以 作为心内科医生 看到这样的悲剧 满心惋惜 更希望大家 能引以为戒 重视身体发出的 每一个预警 千万不要 拿健康当赌注",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3458,
+    "seg_id": "S5-L1",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "hero_text",
+    "items": [
+      "四点关键注意事项"
+    ],
+    "atoms_text": "在这里 给大家 四点关键注意事项",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3459,
+    "seg_id": "S5-L2",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "warning_alert",
+    "items": [
+      "连续3天少于6小时增加心律失常风险",
+      "无法避免熬夜后须尽快补足睡眠"
+    ],
+    "atoms_text": "第一 避免睡眠不足 连续三天 睡眠少于六小时 或者 长时间熬夜超过二十四小时 会让交感神经过度兴奋 心率和血压 持续变高 同时影响 心肌供血 和电活动稳定性 增加心律失常的风险",
+    "needs_animation": true,
+    "label": "交感神经过度兴奋致心率血压升高影响心肌供血和电活动稳定性引发心律失常"
+  },
+  {
+    "global_index": 3460,
+    "seg_id": "S5-L3",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "hero_text",
+    "items": [
+      "熬夜后尽快补足睡眠恢复节律"
+    ],
+    "atoms_text": "如果确实 因为工作等原因 无法避免 一定要 在之后 尽快补足睡眠",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3461,
+    "seg_id": "S5-L4",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "list_fade",
+    "items": [
+      "高血压糖尿病高血脂须遵医嘱服药",
+      "不可擅自停药或减药",
+      "指标控制不佳会持续损伤血管"
+    ],
+    "atoms_text": "第二 严格控制基础病 规范用药 如果有 高血压 糖尿病 高血脂等基础病 需遵医嘱规律服药 不可擅自停药减药 避免因指标控制不佳 损伤血管和心脏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3462,
+    "seg_id": "S5-L5",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "branch_path",
+    "items": [
+      "是否有心脏基础病或三高",
+      "先做心电图彩超明确耐受度再运动",
+      "有基础病者严禁剧烈运动"
+    ],
+    "atoms_text": "第三 运动前 一定要评估 自身健康状况 有心脏基础病 高血压 高血脂 糖尿病的人 严禁剧烈运动 运动前 要做好 心电图 心脏彩超等检查 明确身体的耐受度",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3463,
+    "seg_id": "S5-L6",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "list_fade",
+    "items": [
+      "出现胸闷头晕嘴唇发紫",
+      "立即停止运动原地休息"
+    ],
+    "atoms_text": "即使是健康人群 运动也需要循序渐进 避免突然进行高强度运动 运动中出现 胸闷 头晕 嘴唇发紫等不舒服 要立即停止休息",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3464,
+    "seg_id": "S5-L7",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "category_table",
+    "items": [
+      "隐匿性冠心病早期无症状",
+      "肥厚型心肌病沉默杀手",
+      "定期心电图发现潜在问题",
+      "定期心脏彩超早干预早治疗"
+    ],
+    "atoms_text": "第四 定期的体检 警惕隐匿性心脏问题 很多心脏问题 早期没有任何表现 属于沉默的杀手 比如 隐匿性冠心病 肥厚型心肌病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3465,
+    "seg_id": "S5-L8",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "hero_text",
+    "items": [
+      "定期体检从根源规避猝死风险"
+    ],
+    "atoms_text": "定期做 一个心电图 心脏彩超 细致检查 能及时发现潜在的问题 早干预 早治疗 从根源上 规避猝死风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3466,
+    "seg_id": "S5-L9",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "warning_alert",
+    "items": [
+      "心慌胸闷气短头晕切勿硬扛",
+      "及时就医不拖延"
+    ],
+    "atoms_text": "同时啊 出现不明原因的 心慌 胸闷 气短 头晕等症状 一定要及时就医 切勿硬扛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3467,
+    "seg_id": "S6-L1",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "医生寄语",
+    "template": "hero_text",
+    "items": [
+      "拼命奔跑是为了更好的生活"
+    ],
+    "atoms_text": "最后 我想跟大家 说句心里话 我们努力工作 拼命奔跑 初衷都是 为了更好的生活 可如果 连健康都没了 一切都无从谈起",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3468,
+    "seg_id": "S6-L2",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "医生寄语",
+    "template": "hero_text",
+    "items": [
+      "猝死是长期忽视透支身体的结果"
+    ],
+    "atoms_text": "每一次猝死 都不是意外 而是 长期忽视身体信号 过度透支的结果",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3469,
+    "seg_id": "S6-L3",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "医生寄语",
+    "template": "hero_text",
+    "items": [
+      "敬畏身体守护健康是最负责的选择"
+    ],
+    "atoms_text": "学会敬畏身体 守护健康 才是 对自己 对家人 最负责的选择",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3470,
+    "seg_id": "S1-L1",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动也会伤心脏？",
+    "template": "hero_text",
+    "items": [
+      "每月跑72公里，心脏却出问题了？"
+    ],
+    "atoms_text": "一个月跑量七十二公里 这么健康自律的运动方式 也会心脏不好吗 是以后都不能跑步了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3471,
+    "seg_id": "S1-L2",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动也会伤心脏？",
+    "template": "number_center",
+    "items": [
+      "41"
+    ],
+    "atoms_text": "四十一岁的考研名师张雪峰 用亲身经历告诉我们 运动虽好 过犹不及",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3472,
+    "seg_id": "S1-L3",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动也会伤心脏？",
+    "template": "warning_alert",
+    "items": [
+      "有心脏隐患者运动过量反埋雷"
+    ],
+    "atoms_text": "尤其啊 对于本身有心脏疾病的患者 一旦超出身体的负荷 反而会给健康埋雷",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3473,
+    "seg_id": "S2-L1",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动与心脏的关系",
+    "template": "hero_text",
+    "items": [
+      "有氧运动对心脏有保护作用"
+    ],
+    "atoms_text": "首先要明确 运动本身肯定是好的 尤其是有氧运动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3474,
+    "seg_id": "S2-L2",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动与心脏的关系",
+    "template": "list_fade",
+    "items": [
+      "增强心肌收缩力",
+      "改善全身血液循环"
+    ],
+    "atoms_text": "它能够增强你的心肌收缩力 改善血液循环 对于心脏有保护的作用",
+    "needs_animation": true,
+    "label": "有氧运动增强心肌收缩力改善血液循环保护心脏"
+  },
+  {
+    "global_index": 3475,
+    "seg_id": "S2-L3",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动与心脏的关系",
+    "template": "hero_text",
+    "items": [
+      "运动强度必须匹配自身身体状况"
+    ],
+    "atoms_text": "但是关键在于 运动强度必须匹配你自身的身体状况",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3476,
+    "seg_id": "S2-L4",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动与心脏的关系",
+    "template": "warning_alert",
+    "items": [
+      "超出承受范围，温和运动也变危险"
+    ],
+    "atoms_text": "一旦超出自身的承受范围 再温和的运动 也可能刺激本就有隐患的心脏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3477,
+    "seg_id": "S3-L1",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "step_arrow",
+    "items": [
+      "剧烈运动要求心脏超负荷泵血",
+      "心肌耗氧量急剧增加",
+      "心肌缺血产生微小损伤"
+    ],
+    "atoms_text": "一是会造成心肌细胞的损伤 剧烈运动之后 你这个心脏它需要一个超负荷的泵血 对吧",
+    "needs_animation": true,
+    "label": "剧烈运动后心脏超负荷泵血"
+  },
+  {
+    "global_index": 3478,
+    "seg_id": "S3-L2",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "step_arrow",
+    "items": [
+      "剧烈运动刺激交感神经过度兴奋",
+      "引发室性早搏、房颤等心律失常"
+    ],
+    "atoms_text": "心肌耗氧量急剧的增加 可能会导致心肌缺血 微小的损伤",
+    "needs_animation": true,
+    "label": "心肌耗氧量急剧增加导致心肌缺血微小损伤"
+  },
+  {
+    "global_index": 3479,
+    "seg_id": "S3-L3",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "warning_alert",
+    "items": [
+      "严重时诱发恶性心律失常猝死"
+    ],
+    "atoms_text": "第二个呢 就是会扰乱心脏的节律",
+    "needs_animation": true,
+    "label": "过度运动扰乱心脏电传导节律"
+  }
+]

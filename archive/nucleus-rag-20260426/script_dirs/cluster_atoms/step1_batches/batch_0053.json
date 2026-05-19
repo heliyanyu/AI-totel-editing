@@ -1,0 +1,560 @@
+[
+  {
+    "global_index": 2120,
+    "seg_id": "S2-L3",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢代谢紊乱",
+    "template": "warning_alert",
+    "items": [
+      "血管内皮出现微小损伤"
+    ],
+    "atoms_text": "血管内皮 一旦被这些脂质 反复刺激 就会出现微小损伤",
+    "needs_animation": true,
+    "label": "脂质反复刺激血管内皮造成微小损伤"
+  },
+  {
+    "global_index": 2121,
+    "seg_id": "S2-L4",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢代谢紊乱",
+    "template": "step_arrow",
+    "items": [
+      "身体启动炎症修补",
+      "修补过度积累",
+      "斑块慢慢形成"
+    ],
+    "atoms_text": "身体为了修补 会引发炎症反应 结果修补着修补着 斑块慢慢就形成了",
+    "needs_animation": true,
+    "label": "炎症修补过程中斑块逐渐形成"
+  },
+  {
+    "global_index": 2122,
+    "seg_id": "S3-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢久坐",
+    "template": "number_center",
+    "items": [
+      "2"
+    ],
+    "atoms_text": "第二是 不喜欢你久坐",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2123,
+    "seg_id": "S3-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢久坐",
+    "template": "step_arrow",
+    "items": [
+      "久坐活动少",
+      "代谢变差血脂偏高",
+      "血管弹性调节下降"
+    ],
+    "atoms_text": "当你久坐活动少 身体代谢会变差 血脂更容易偏高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2124,
+    "seg_id": "S3-L3",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢久坐",
+    "template": "warning_alert",
+    "items": [
+      "动脉硬化容易找上门"
+    ],
+    "atoms_text": "血管的弹性调节能力 也会下降",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2125,
+    "seg_id": "S3-L4",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢久坐",
+    "template": "hero_text",
+    "items": [
+      "长此以往，血管提前老化"
+    ],
+    "atoms_text": "长此以往呢 往往动脉硬化 就容易找上门",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2126,
+    "seg_id": "S4-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢反复刺激",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "atoms_text": "第三呢 是不喜欢 长期被反复的刺激",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2127,
+    "seg_id": "S4-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢反复刺激",
+    "template": "color_grid",
+    "items": [
+      "抽烟",
+      "熬夜",
+      "情绪波动大"
+    ],
+    "atoms_text": "抽烟熬夜 情绪波动大 会让交感神经持续兴奋",
+    "needs_animation": true,
+    "label": "交感神经持续兴奋引起血管反应"
+  },
+  {
+    "global_index": 2128,
+    "seg_id": "S4-L3",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢反复刺激",
+    "template": "step_arrow",
+    "items": [
+      "交感神经持续兴奋",
+      "血管反复收缩舒张",
+      "内皮逐渐变粗糙"
+    ],
+    "atoms_text": "血管一会儿收 一会儿放 血管内皮 就在这种反复拉扯下 会慢慢变得粗糙",
+    "needs_animation": true,
+    "label": "血管反复收缩舒张导致内皮变粗糙"
+  },
+  {
+    "global_index": 2129,
+    "seg_id": "S4-L4",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢反复刺激",
+    "template": "warning_alert",
+    "items": [
+      "表面粗糙，脂质更易粘附",
+      "斑块形成只是时间问题"
+    ],
+    "atoms_text": "一旦表面不再平整 脂质就更容易粘上去 后面的斑块形成 只是时间问题",
+    "needs_animation": true,
+    "label": "粗糙内皮表面脂质粘附并形成斑块"
+  },
+  {
+    "global_index": 2130,
+    "seg_id": "S5-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "转折过渡",
+    "template": "hero_text",
+    "items": [
+      "给它好的环境，血管有自我修复力"
+    ],
+    "atoms_text": "但好在 只要你对它好 改善血管的环境 它是有自我修复能力的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2131,
+    "seg_id": "S5-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "转折过渡",
+    "template": "hero_text",
+    "items": [
+      "血管喜欢的三件事"
+    ],
+    "atoms_text": "那我们再说下 它喜欢的这三件事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2132,
+    "seg_id": "S6-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢稳定内环境",
+    "template": "number_center",
+    "items": [
+      "1"
+    ],
+    "atoms_text": "一是呢 要给血管 一个相对稳定的内部环境",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2133,
+    "seg_id": "S6-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢稳定内环境",
+    "template": "color_grid",
+    "items": [
+      "血糖平稳",
+      "血脂平稳",
+      "血压平稳"
+    ],
+    "atoms_text": "当血糖血脂血压 整体平稳下来 血管内皮呢 就很容易 减少反复受伤的次数",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2134,
+    "seg_id": "S6-L3",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢稳定内环境",
+    "template": "step_arrow",
+    "items": [
+      "内皮减少反复受伤",
+      "胆固醇进入血管壁减少",
+      "炎症反应慢慢降下来"
+    ],
+    "atoms_text": "进入血管壁的胆固醇少了 炎症反应 自然会慢慢降下来",
+    "needs_animation": true,
+    "label": "胆固醇进入血管壁减少后炎症反应降低"
+  },
+  {
+    "global_index": 2135,
+    "seg_id": "S6-L4",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢稳定内环境",
+    "template": "hero_text",
+    "items": [
+      "长期管理，而不是只盯一次化验单"
+    ],
+    "atoms_text": "这也是为什么 我们强调长期管理 而不是只盯一次化验单",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2136,
+    "seg_id": "S7-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢规律运动",
+    "template": "number_center",
+    "items": [
+      "2"
+    ],
+    "atoms_text": "二是要规律运动 让血管重新恢复 应有的工作节奏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2137,
+    "seg_id": "S7-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢规律运动",
+    "template": "step_arrow",
+    "items": [
+      "心率适度增加血流更稳",
+      "内皮释放一氧化氮",
+      "血管舒张弹性恢复"
+    ],
+    "atoms_text": "规律运动时 心率和心输出量 适度的增加 血流更稳定",
+    "needs_animation": true,
+    "label": "运动时心输出量增加血流变稳定"
+  },
+  {
+    "global_index": 2138,
+    "seg_id": "S7-L3",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢规律运动",
+    "template": "hero_text",
+    "items": [
+      "内皮功能改善，坏胆固醇不易入侵"
+    ],
+    "atoms_text": "会刺激血管内皮 释放一氧化氮 帮助血管舒张 恢复弹性",
+    "needs_animation": true,
+    "label": "血管内皮释放一氧化氮促进血管舒张"
+  },
+  {
+    "global_index": 2139,
+    "seg_id": "S7-L4",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢规律运动",
+    "template": "color_grid",
+    "items": [
+      "快走",
+      "骑车",
+      "打太极"
+    ],
+    "atoms_text": "内皮功能改善后 低密度脂蛋白胆固醇 就不容易进入血管壁",
+    "needs_animation": true,
+    "label": "内皮功能改善后LDL不易穿入血管壁"
+  },
+  {
+    "global_index": 2140,
+    "seg_id": "S7-L5",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢规律运动",
+    "template": "hero_text",
+    "items": [
+      "心率略高于静息，胜过完全不动"
+    ],
+    "atoms_text": "每天快走啊 骑车呀 打太极 只要心率略高于静息水平 血管状态就会比完全不动好得多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2141,
+    "seg_id": "S8-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢足够蛋白质",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "atoms_text": "三是提供 血管修复的基础 就是蛋白质",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2142,
+    "seg_id": "S8-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢足够蛋白质",
+    "template": "warning_alert",
+    "items": [
+      "蛋白质不足，修复跟不上",
+      "血管变脆，稳定性下降"
+    ],
+    "atoms_text": "如果长期吃的太少 修复跟不上 血管就会变得脆 稳定性也会下降",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2143,
+    "seg_id": "S8-L3",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢足够蛋白质",
+    "template": "color_grid",
+    "items": [
+      "鱼类",
+      "鸡蛋",
+      "奶制品",
+      "豆制品"
+    ],
+    "atoms_text": "日常饮食里 合理安排鱼蛋奶豆制品 能给血管提供必要的 这个营养基础 让它更耐用 不容易出问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2144,
+    "seg_id": "S9-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "结尾收场",
+    "template": "hero_text",
+    "items": [
+      "好好对血管，它会回报你的健康"
+    ],
+    "atoms_text": "好了 关于如何养好血管 我讲明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2145,
+    "seg_id": "S1-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "开场共鸣",
+    "template": "hero_text",
+    "items": [
+      "饿到心慌，躺一会儿反而清醒了"
+    ],
+    "atoms_text": "没有过这种的体验 就是 饿的心慌没力气的时候 挺难受的 可是 再躺一会儿 反而觉得 脑子清醒了 人也精神了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2146,
+    "seg_id": "S1-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "开场共鸣",
+    "template": "hero_text",
+    "items": [
+      "这是身体在烧脂肪了吗？"
+    ],
+    "atoms_text": "那这是说明 身体开始脂肪供能 开始烧脂肪了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2147,
+    "seg_id": "S2-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "澄清误区",
+    "template": "myth_buster",
+    "items": [
+      "饿过劲儿有精神",
+      "并非进入健康脂肪供能"
+    ],
+    "atoms_text": "首先我先说啊 饿过劲儿 觉得有精神 并不等于 进入了一个 健康有效的脂肪供能状态",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2148,
+    "seg_id": "S2-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "澄清误区",
+    "template": "hero_text",
+    "items": [
+      "这是身体应激，不是代谢变好"
+    ],
+    "atoms_text": "它更多的是 身体的一次应激反应 而不是 代谢变好了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2149,
+    "seg_id": "S3-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "供能基础知识",
+    "template": "color_grid",
+    "items": [
+      "碳水化合物",
+      "脂肪",
+      "蛋白质",
+      "三者比例与顺序各不同"
+    ],
+    "atoms_text": "人体供能 本来就不是 只靠一种东西 而是是吃百家饭 碳水化合物啊 脂肪 蛋白质 都会参与供能 只是比例不同 顺序不同",
+    "needs_animation": true,
+    "label": "碳水脂肪蛋白质三大营养素共同参与供能"
+  },
+  {
+    "global_index": 2150,
+    "seg_id": "S3-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "供能基础知识",
+    "template": "hero_text",
+    "items": [
+      "正常进食时优先用葡萄糖供能"
+    ],
+    "atoms_text": "正常吃饭的情况下 身体最优先用的是葡萄糖 也就是 碳水分解来的这个能量 因为它最快最省事儿 对大脑也最友好",
+    "needs_animation": true,
+    "label": "葡萄糖作为优先能源供给大脑"
+  },
+  {
+    "global_index": 2151,
+    "seg_id": "S3-L3",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "供能基础知识",
+    "template": "hero_text",
+    "items": [
+      "挨饿后，供能会分阶段切换"
+    ],
+    "atoms_text": "当你开始挨饿的时候 身体供能会分阶段变化的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2152,
+    "seg_id": "S4-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "饥饿第一阶段",
+    "template": "step_arrow",
+    "items": [
+      "刚开始挨饿",
+      "肝脏释放肝糖原",
+      "尽力维持血糖稳定"
+    ],
+    "atoms_text": "刚饿没多久 最先动用的是肝糖原 肝脏会把存着的糖释放出来 尽量把血糖稳住",
+    "needs_animation": true,
+    "label": "肝脏释放肝糖原维持血糖稳定"
+  },
+  {
+    "global_index": 2153,
+    "seg_id": "S4-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "饥饿第一阶段",
+    "template": "warning_alert",
+    "items": [
+      "血糖下降，心慌饥饿",
+      "注意力下降，难集中"
+    ],
+    "atoms_text": "这一阶段呢 很多人会感觉 饿心慌 注意力下降 因为血糖在往下走",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2154,
+    "seg_id": "S5-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "激素应激登场",
+    "template": "step_arrow",
+    "items": [
+      "肝糖原耗尽",
+      "身体启动升糖机制",
+      "胰岛素骤降"
+    ],
+    "atoms_text": "如果你继续不吃 肝糖原慢慢消耗的差不多了 身体就不得不启动升糖机制",
+    "needs_animation": true,
+    "label": "肝糖原耗尽后身体启动升糖机制"
+  },
+  {
+    "global_index": 2155,
+    "seg_id": "S5-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "激素应激登场",
+    "template": "color_grid",
+    "items": [
+      "胰高血糖素升高",
+      "肾上腺素升高",
+      "皮质醇升高",
+      "保障大脑能量供应"
+    ],
+    "atoms_text": "这时候呢 胰岛素分泌明显下降 而胰高血糖素 肾上腺素 皮质醇 这些激素就会升高",
+    "needs_animation": true,
+    "label": "胰岛素下降而胰高血糖素肾上腺素皮质醇升高"
+  },
+  {
+    "global_index": 2156,
+    "seg_id": "S5-L3",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "激素应激登场",
+    "template": "hero_text",
+    "items": [
+      "唯一目标：保住大脑的能量"
+    ],
+    "atoms_text": "它们的任务只有一个 就是无论如何 要保障大脑有能量用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2157,
+    "seg_id": "S6-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "清醒感的真相",
+    "template": "step_arrow",
+    "items": [
+      "肾上腺素飙升",
+      "大脑供血增加",
+      "感觉突然清醒"
+    ],
+    "atoms_text": "也正是因为这个原因 你会感觉 在饿过劲儿之后 突然清醒 因为你的肾上腺素上来了 大脑供血增加了",
+    "needs_animation": true,
+    "label": "肾上腺素升高使大脑供血增加产生清醒感"
+  },
+  {
+    "global_index": 2158,
+    "seg_id": "S6-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "清醒感的真相",
+    "template": "split_column",
+    "items": [
+      "感觉轻松清醒",
+      "实为压力激素应激",
+      "以为身体减负",
+      "实际进入应激撑场"
+    ],
+    "atoms_text": "但这不是说明 你的身体变轻松了 而是进入了应激状态 不得不分泌压力激素来撑住",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2159,
+    "seg_id": "S7-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "脂肪供能的代价",
+    "template": "hero_text",
+    "items": [
+      "脂肪确实参与供能，但并不理想"
+    ],
+    "atoms_text": "那脂肪有没有参与供能 有 但并没有大家想的那么理想",
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "global_index": 2640,
+    "seg_id": "S6-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "myth_buster",
+    "items": [
+      "造影剂会损伤肾脏",
+      "肾功能正常者完全不用担心"
+    ],
+    "atoms_text": "我明确的告诉大家 肾功能正常的人 做造影 完全不用担心 伤肾的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2641,
+    "seg_id": "S6-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "step_arrow",
+    "items": [
+      "造影剂进入体内",
+      "24~48小时经尿液排出",
+      "术后多喝水加速排出",
+      "肾脏毫发无损"
+    ],
+    "atoms_text": "造影剂进入到身体后啊 二十四到四十八小时后 就会通过尿液 完全排出来了",
+    "needs_animation": true,
+    "label": "造影剂经肾脏过滤后24-48小时通过尿液排出体外"
+  },
+  {
+    "global_index": 2642,
+    "seg_id": "S6-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "branch_path",
+    "items": [
+      "肾功能是否正常？",
+      "正常人群无需担心伤肾",
+      "严重肾衰／尿毒症需特别谨慎"
+    ],
+    "atoms_text": "再要是你术后 在允许的范围内 多喝水多排尿 肾脏一点事儿都没有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2643,
+    "seg_id": "S6-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "list_fade",
+    "items": [
+      "医生提前做水化保护",
+      "风险可降至最低"
+    ],
+    "atoms_text": "如果本身就有 严重的肾功能衰竭 或者尿毒症的患者 才需要特别的谨慎",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2644,
+    "seg_id": "S6-L6",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "hero_text",
+    "items": [
+      "正常人做造影，肾脏一点事没有"
+    ],
+    "atoms_text": "医生会提前做好水化 去保护 风险也能降到最低",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2645,
+    "seg_id": "S6-L7",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "hero_text",
+    "items": [
+      "多喝水多排尿，无需担心伤肾"
+    ],
+    "atoms_text": "正常人群 根本不用担心 造影剂伤肾的这个风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2646,
+    "seg_id": "S7-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险三：出血与血管损伤",
+    "template": "hero_text",
+    "items": [
+      "风险三：出血血肿血管损伤"
+    ],
+    "atoms_text": "第三个风险呢 就是出血血肿 血管损伤的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2647,
+    "seg_id": "S7-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险三：出血与血管损伤",
+    "template": "myth_buster",
+    "items": [
+      "担心扎破血管大出血",
+      "手腕穿刺创伤极小，压迫即可止血"
+    ],
+    "atoms_text": "造影是从咱们的 手腕或者大腿根 穿刺 很多人担心 扎破血管出血",
+    "needs_animation": true,
+    "label": "经手腕或大腿根部穿刺血管进行造影的操作入路"
+  },
+  {
+    "global_index": 2648,
+    "seg_id": "S7-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险三：出血与血管损伤",
+    "template": "list_fade",
+    "items": [
+      "绝大多数选手腕桡动脉穿刺",
+      "术后压迫止血即可",
+      "严重出血血肿概率不到1%"
+    ],
+    "atoms_text": "实际上现在绝大多数 都是在手腕桡动脉 穿刺的",
+    "needs_animation": true,
+    "label": "经手腕桡动脉穿刺进入血管的操作过程"
+  },
+  {
+    "global_index": 2649,
+    "seg_id": "S7-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险三：出血与血管损伤",
+    "template": "hero_text",
+    "items": [
+      "轻微淤青几天自行消退，无影响"
+    ],
+    "atoms_text": "创伤极小 术后压迫止血 就可以了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2650,
+    "seg_id": "S7-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险三：出血与血管损伤",
+    "template": "number_center",
+    "items": [
+      "<1%"
+    ],
+    "atoms_text": "出现严重的 出血血肿的概率 不到百分之一",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2651,
+    "seg_id": "S7-L6",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险三：出血与血管损伤",
+    "template": "hero_text",
+    "items": [
+      "手腕穿刺创伤极小，安全可靠"
+    ],
+    "atoms_text": "就算有轻微的淤青 过几天 它自己就消失了 对身体没有任何的影响",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2652,
+    "seg_id": "S8-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险四：心律失常",
+    "template": "hero_text",
+    "items": [
+      "风险四：心律失常与心肌损伤"
+    ],
+    "atoms_text": "第四个风险呢 是心律失常 心肌损伤",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2653,
+    "seg_id": "S8-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险四：心律失常",
+    "template": "list_fade",
+    "items": [
+      "短暂心慌早搏属正常反应",
+      "医生随时监测处理"
+    ],
+    "atoms_text": "在操作过程中呢 可能会出现 短暂的心慌早搏 这都是正常反应 医生随时都能处理",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2654,
+    "seg_id": "S8-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险四：心律失常",
+    "template": "number_center",
+    "items": [
+      "<0.1%"
+    ],
+    "atoms_text": "导致严重心律失常 心肌损伤的概率 低于百分之零点一 几乎可以忽略不计的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2655,
+    "seg_id": "S9-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险五：辐射致癌",
+    "template": "hero_text",
+    "items": [
+      "风险五：辐射会致癌吗？"
+    ],
+    "atoms_text": "第五个风险 辐射的风险 大家都害怕辐射致癌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2656,
+    "seg_id": "S9-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险五：辐射致癌",
+    "template": "split_column",
+    "items": [
+      "冠脉造影辐射量",
+      "相当于1~3次胸部CT",
+      "长途飞行辐射量",
+      "与造影辐射量相当"
+    ],
+    "atoms_text": "我给大家对比一下 冠脉造影的辐射量呢 大约相当于 做一到三次的胸部CT 或者是做几次 长途飞机的辐射量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2657,
+    "seg_id": "S9-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险五：辐射致癌",
+    "template": "hero_text",
+    "items": [
+      "单次辐射量符合国际安全标准"
+    ],
+    "atoms_text": "一次检查的辐射 完全在国际安全标准以内 不会对身体造成 长期的伤害",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2658,
+    "seg_id": "S9-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险五：辐射致癌",
+    "template": "myth_buster",
+    "items": [
+      "做一次造影会导致癌症",
+      "单次辐射远在安全范围内"
+    ],
+    "atoms_text": "更不会因为 做一次造影 就导致癌症 这种恐慌完全是多余的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2659,
+    "seg_id": "S9-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险五：辐射致癌",
+    "template": "hero_text",
+    "items": [
+      "天天做造影的医生才是最好的证明"
+    ],
+    "atoms_text": "你想想啊 那些医生 天天给患者做造影检查 如果辐射量很大的话 最先受伤呢 应该是做造影的医生 才对",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2660,
+    "seg_id": "S10-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "最核心数据：危及生命概率",
+    "template": "number_center",
+    "items": [
+      "<0.2%"
+    ],
+    "atoms_text": "最重要的一点呢 危及生命的严重并发症 概率低于百分之零点二",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2661,
+    "seg_id": "S10-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "最核心数据：危及生命概率",
+    "template": "hero_text",
+    "items": [
+      "一千人中不到两人出现危及生命情况"
+    ],
+    "atoms_text": "也就是说 一千个人做造影 不到两个人 会出现危及生命的情况",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2662,
+    "seg_id": "S10-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "最核心数据：危及生命概率",
+    "template": "list_fade",
+    "items": [
+      "主要见于急性心梗病情极重者",
+      "全身基础状况极差的患者"
+    ],
+    "atoms_text": "而且这绝大多数啊 都是因为 本身病情极重 急性心梗 全身症状很差的患者",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2663,
+    "seg_id": "S10-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "最核心数据：危及生命概率",
+    "template": "hero_text",
+    "items": [
+      "普通排查性造影安全性远超你的想象"
+    ],
+    "atoms_text": "对于普通的 排查性的造影来说 安全性 比你想象中 要高的多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2664,
+    "seg_id": "S11-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "hero_text",
+    "items": [
+      "我知道，数据说再多你还是害怕"
+    ],
+    "atoms_text": "哎 我当然知道 就算我说数据 很多人还是害怕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2665,
+    "seg_id": "S11-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "hero_text",
+    "items": [
+      "对心脏操作，人天生有恐惧感"
+    ],
+    "atoms_text": "因为大家对心脏操作 天生就有一个恐惧感",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2666,
+    "seg_id": "S11-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "split_column",
+    "items": [
+      "坐车有车祸风险",
+      "不能因此不出门"
+    ],
+    "atoms_text": "我给大家打个比方 我们平时出门坐车 有出车祸的风险吧 有 但概率很低 我们不能因为有风险 就不出门",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2667,
+    "seg_id": "S11-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "branch_path",
+    "items": [
+      "是否接受造影检查？",
+      "极低风险，明确诊断早治疗",
+      "耽误病情，风险远大于检查"
+    ],
+    "atoms_text": "造影也是一样 它有很低的风险 但是不做造影呢 耽误病情的风险 远远大于 检查本身的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2668,
+    "seg_id": "S11-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "warning_alert",
+    "items": [
+      "拖延造影可能拖成急性心梗",
+      "血管严重狭窄却因恐惧错失诊断"
+    ],
+    "atoms_text": "很多人就是因为 害怕所谓的风险 明明胸闷胸痛 血管已经狭窄的很厉害了 却还是不敢做造影",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2669,
+    "seg_id": "S11-L6",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "hero_text",
+    "items": [
+      "因害怕造影拖成心梗，才是最可惜的"
+    ],
+    "atoms_text": "最后拖成了急性心梗 甚至危及生命 这才是最可惜的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2670,
+    "seg_id": "S11-L7",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "hero_text",
+    "items": [
+      "医生建议你做，是因为获益远大于风险"
+    ],
+    "atoms_text": "医生建议你做造影 一定是权衡了 获益远大于风险 才会让你做 绝对不会随便让你冒风险的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2671,
+    "seg_id": "S12-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "hero_text",
+    "items": [
+      "四招让你的造影更安全"
+    ],
+    "atoms_text": "我再给大家讲一下 怎么让造影更安全 其实很简单",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2672,
+    "seg_id": "S12-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "step_arrow",
+    "items": [
+      "选正规医院和专业心内科医生",
+      "如实告知病史过敏史肾功能",
+      "术后多喝水多排尿按医嘱止血休息",
+      "放松心态，紧张会增加操作难度"
+    ],
+    "atoms_text": "第一个 选择正规的医院 专业的心内科医生",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2673,
+    "seg_id": "S12-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "hero_text",
+    "items": [
+      "做完出来都说：原来这么简单！"
+    ],
+    "atoms_text": "第二呢 术前把自己的 病史过敏史 肾功能检查的情况 如实的告诉你的医生",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2674,
+    "seg_id": "S12-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "myth_buster",
+    "items": [
+      "术前吓得浑身发抖",
+      "做完发现根本不可怕"
+    ],
+    "atoms_text": "第三 术后多喝水多排尿 按照医生的要求啊 压迫止血休息",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2675,
+    "seg_id": "S12-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "hero_text",
+    "items": [
+      "不了解才恐惧，了解后自然不害怕"
+    ],
+    "atoms_text": "第四呢 就是放松心态 不要过度紧张 越紧张心率越快 反而增加操作的难度",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2676,
+    "seg_id": "S12-L6",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "hero_text",
+    "items": [
+      "早了解早做，早就安心了"
+    ],
+    "atoms_text": "我在临床上 见过太多的患者 进手术室前 吓得浑身发抖 做完出来都说 哇 原来这么简单啊 一点都不可怕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2677,
+    "seg_id": "S12-L7",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "hero_text",
+    "items": [
+      "了解清楚，造影真没那么可怕"
+    ],
+    "atoms_text": "早知道这么简单的话 我早就做了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2678,
+    "seg_id": "S12-L8",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "hero_text",
+    "items": [
+      "别让恐惧耽误了你的心脏健康"
+    ],
+    "atoms_text": "就是因为不了解 才会恐惧 了解清楚以后 你会发现 它真的没那么可怕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2679,
+    "seg_id": "S13-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "最后三句最关键的话"
+    ],
+    "atoms_text": "最后 我再给大家 总结三句 最关键的话",
+    "needs_animation": false,
+    "label": ""
+  }
+]

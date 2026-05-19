@@ -1,0 +1,562 @@
+[
+  {
+    "global_index": 360,
+    "seg_id": "S7-L6",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "step_arrow",
+    "items": [
+      "反复刷恐吓类健康短视频",
+      "焦虑加剧，交感神经更兴奋",
+      "心慌加重，又是恶性循环"
+    ],
+    "atoms_text": "第三 咖啡啊 一天最多喝一杯 下午三点后 就不要碰了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 361,
+    "seg_id": "S7-L7",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "list_fade",
+    "items": [
+      "咖啡因呢",
+      "本身就是",
+      "刺激交感神经",
+      "你一边心慌",
+      "一边灌咖啡"
+    ],
+    "atoms_text": "咖啡因呢 本身就是 刺激交感神经 你一边心慌 一边灌咖啡 那不是火上浇油吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 362,
+    "seg_id": "S7-L8",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "list_fade",
+    "items": [
+      "第四",
+      "就是少刷",
+      "那些三十岁心梗猝死的",
+      "那种短视频了"
+    ],
+    "atoms_text": "第四 就是少刷 那些三十岁心梗猝死的 那种短视频了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 363,
+    "seg_id": "S7-L9",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "list_fade",
+    "items": [
+      "越看越焦虑",
+      "越焦虑",
+      "交感神经越兴奋",
+      "越兴奋越心慌",
+      "又是一个恶性循环"
+    ],
+    "atoms_text": "越看越焦虑 越焦虑 交感神经越兴奋 越兴奋越心慌 又是一个恶性循环",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 364,
+    "seg_id": "S8-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "这些情况必须就医",
+    "template": "hero_text",
+    "items": [
+      "不是所有心慌都可以不管"
+    ],
+    "atoms_text": "当然 我也必须说清楚 不是所有的心慌 都不当回事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 365,
+    "seg_id": "S8-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "这些情况必须就医",
+    "template": "warning_alert",
+    "items": [
+      "心率超150次或节律忽快忽慢",
+      "伴胸闷头晕或接近晕倒感"
+    ],
+    "atoms_text": "如果你心慌的时候啊 心率超过了一百五十次 或者心跳特别不规律 忽快忽慢 又或者伴随的 胸闷啊 头晕啊 或者要晕倒的感觉",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 366,
+    "seg_id": "S8-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "这些情况必须就医",
+    "template": "list_fade",
+    "items": [
+      "做24小时动态心电图",
+      "排查房颤、室上速等心律失常"
+    ],
+    "atoms_text": "这些情况 一定要去做 二十四小时动态心电图 排除房颤 室上速 这种真正的心律失常",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 367,
+    "seg_id": "S8-L4",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "这些情况必须就医",
+    "template": "branch_path",
+    "items": [
+      "做完检查，看结果",
+      "有异常：针对真正心律失常治疗",
+      "没问题：别反复跑医院，改生活方式"
+    ],
+    "atoms_text": "但如果 查了一圈 都没有什么问题 就别再 反复的跑医院了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 368,
+    "seg_id": "S8-L5",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "这些情况必须就医",
+    "template": "myth_buster",
+    "items": [
+      "我心脏有问题要一直看医生",
+      "出问题的是你对待身体的方式"
+    ],
+    "atoms_text": "你的心脏没问题 出问题啊 是你对待身体的方式",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 369,
+    "seg_id": "S8-L6",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "这些情况必须就医",
+    "template": "hero_text",
+    "items": [
+      "把看病的时间拿去跑步，最管用"
+    ],
+    "atoms_text": "把看病的时间 拿去跑步 比什么都管用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 370,
+    "seg_id": "S1-L1",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "引发好奇：心律失常真的危险吗",
+    "template": "hero_text",
+    "items": [
+      "体检写了\"心律失常\"，你慌了吗？"
+    ],
+    "atoms_text": "昨天啊 我们诊 有个小姑娘啊 拿着体检报告进来 指着窦性心律不齐 这六个字 问我 医生啊 这严不严重",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 371,
+    "seg_id": "S1-L2",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "引发好奇：心律失常真的危险吗",
+    "template": "hero_text",
+    "items": [
+      "窦性心律不齐？根本无病"
+    ],
+    "atoms_text": "我说 这根本就无病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 372,
+    "seg_id": "S1-L3",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "引发好奇：心律失常真的危险吗",
+    "template": "myth_buster",
+    "items": [
+      "网上说心律失常会猝死",
+      "心律失常类型不同，危险差异极大"
+    ],
+    "atoms_text": "她不信 她说 网上说 心律失常 是会猝死的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 373,
+    "seg_id": "S1-L4",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "引发好奇：心律失常真的危险吗",
+    "template": "hero_text",
+    "items": [
+      "关键是：分清虚惊一场还是真危险"
+    ],
+    "atoms_text": "后来我想了一下 这也不能怪患者 心律失常这四个字啊 确实很容易把人吓住 因为大家分不清楚 哪些是虚惊一场 哪些是真危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 374,
+    "seg_id": "S1-L5",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "引发好奇：心律失常真的危险吗",
+    "template": "hero_text",
+    "items": [
+      "今天聊聊心律失常那些事"
+    ],
+    "atoms_text": "所以啊 今天啊 我们聊一聊 心律失常",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 375,
+    "seg_id": "S2-L1",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "心脏电路系统如何运作",
+    "template": "hero_text",
+    "items": [
+      "先搞清楚心脏怎么跳动"
+    ],
+    "atoms_text": "首先 咱们得搞清楚啊 心脏是怎么跳动的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 376,
+    "seg_id": "S2-L2",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "心脏电路系统如何运作",
+    "template": "step_arrow",
+    "items": [
+      "窦房结定时发放电信号",
+      "信号沿固定线路向下传导",
+      "心脏完成一次跳动"
+    ],
+    "atoms_text": "心脏里面 有一个天然的发电站 叫窦房结 它每隔一段时间啊 放一次电 电信号 沿着固定的线路 传导下去 心跳啊 就跳一次",
+    "needs_animation": true,
+    "label": "窦房结放电并沿固定传导线路引发一次心跳"
+  },
+  {
+    "global_index": 377,
+    "seg_id": "S2-L3",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "心脏电路系统如何运作",
+    "template": "number_center",
+    "items": [
+      "60～100"
+    ],
+    "atoms_text": "正常情况下 这套电路系统啊 运转的非常精密 一分钟啊 就跳六十到一百次 节奏是很稳定的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 378,
+    "seg_id": "S2-L4",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "心脏电路系统如何运作",
+    "template": "branch_path",
+    "items": [
+      "电路系统出了状况",
+      "发电站节奏紊乱或线路短路",
+      "异位起搏点偷偷放电"
+    ],
+    "atoms_text": "而所谓的心律失常 就是这套电路系统啊 出了点状况 要么 发电站节奏不对了 要么 线路上某个地方短路了 要么 根本就不是发电站在发电 而别的地方 自己偷偷的放电了",
+    "needs_animation": true,
+    "label": "心脏电路三种故障：窦房结节律异常、线路短路、异位点偷偷放电"
+  },
+  {
+    "global_index": 379,
+    "seg_id": "S3-L1",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "大多数心律失常其实不可怕",
+    "template": "hero_text",
+    "items": [
+      "大部分心律失常，其实很温和"
+    ],
+    "atoms_text": "听起来挺吓人的 但其实啊 大部分心律失常 是很温和的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 380,
+    "seg_id": "S3-L2",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "大多数心律失常其实不可怕",
+    "template": "list_fade",
+    "items": [
+      "心脏突然提前跳一下，感觉咯噔",
+      "健康人身上非常常见",
+      "不频繁、不连续，无需任何治疗"
+    ],
+    "atoms_text": "像最常见的早搏 就是心脏啊 突然提前跳了一下 你会感觉到 咯噔一下 或者心里一沉 这种啊 在健康人身上 非常常见 很多人一天啊 几十到上百次早搏 只要不是特别频繁 不是连着来的 绝大多数 不需要任何治疗",
+    "needs_animation": true,
+    "label": "心脏提前搏动（早搏）的发生过程"
+  },
+  {
+    "global_index": 381,
+    "seg_id": "S3-L3",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "大多数心律失常其实不可怕",
+    "template": "myth_buster",
+    "items": [
+      "窦性心律不齐听起来像心脏病",
+      "随呼吸波动，是完全正常生理现象"
+    ],
+    "atoms_text": "还有啊 窦性心律不齐 体检报告啊 经常写这个 说白了 就是你的发电站 节奏稍微有点波动 吸气的时候快一点 呼气的时候慢一点 这是完全正常生理现象 连病都算不上",
+    "needs_animation": true,
+    "label": "呼吸引起窦房结节律波动（吸气加快呼气减慢）"
+  },
+  {
+    "global_index": 382,
+    "seg_id": "S4-L1",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "这三种心律失常要认真对待",
+    "template": "hero_text",
+    "items": [
+      "记住这三种需要重视的情况"
+    ],
+    "atoms_text": "那什么样的心律失常 需要重视呢 那记住啊 这三点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 383,
+    "seg_id": "S4-L2",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "这三种心律失常要认真对待",
+    "template": "step_arrow",
+    "items": [
+      "心跳突然飙升超过150次/分钟",
+      "伴头晕、胸闷、近乎晕厥",
+      "需做24小时动态心电图明确类型"
+    ],
+    "atoms_text": "第一种 心跳啊 突然特别快 一下子蹿到一百五十次以上 持续好几分钟 甚至更久 有的人还会觉得是 头晕啊 胸闷啊 甚至快晕过去 这种往往是 室上性心动过速 或者房颤 在作怪 不是交感神经兴奋那种 慢慢加快那种感觉 而是突然啪的一下 心跳就飙上去了 如果你经常出现这种情况 一定要去做 二十四小时动态心电图 抓一下 看看是什么类型的",
+    "needs_animation": true,
+    "label": "室上性心动过速或房颤导致心率突然飙升至150以上"
+  },
+  {
+    "global_index": 384,
+    "seg_id": "S4-L3",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "这三种心律失常要认真对待",
+    "template": "step_arrow",
+    "items": [
+      "心率低于50次且头晕乏力",
+      "窦房结或传导线路出现故障",
+      "严重时可能需要安装起搏器"
+    ],
+    "atoms_text": "第二种 就是心跳特别慢 低于五十次 而且伴随着 头晕乏力 甚至眼前啊发黑 这可能是啊 窦房结功能出了问题 或者传导线路中间 有个地方堵住了 电信号传不下去 严重了 可能需要装起搏器 这是不能拖的",
+    "needs_animation": true,
+    "label": "窦房结功能障碍或传导线路阻滞导致电信号传不下去、心跳过缓"
+  },
+  {
+    "global_index": 385,
+    "seg_id": "S4-L4",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "这三种心律失常要认真对待",
+    "template": "warning_alert",
+    "items": [
+      "室颤发作：心脏哆嗦而非跳动",
+      "数分钟内可危及生命"
+    ],
+    "atoms_text": "第三种 也是最危险的一种 是室性心律失常 心室自己乱放电 尤其是室颤的时候 心脏基本在哆嗦 而不是在跳 没有什么泵血的功能 几分钟啊 人就没了 这种往往发生在 本身就有心脏病的人身上 心梗过的 心衰的 心肌病的 这些人",
+    "needs_animation": true,
+    "label": "心室乱放电（室颤）时心脏只哆嗦不泵血"
+  },
+  {
+    "global_index": 386,
+    "seg_id": "S4-L5",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "这三种心律失常要认真对待",
+    "template": "hero_text",
+    "items": [
+      "有心脏基础病者，心慌必须更重视"
+    ],
+    "atoms_text": "所以啊 有心脏基础疾病的人啊 出现心慌 一定要比健康人 更加重视",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 387,
+    "seg_id": "S5-L1",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "三个信号自测心律失常危险度",
+    "template": "hero_text",
+    "items": [
+      "怎么判断自己的心律失常危不危险？"
+    ],
+    "atoms_text": "说到这里 你可能有点慌了 那我怎么知道 自己心律失常 是不是危险的呢 其实啊 很简单 记住这三个关键的信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 388,
+    "seg_id": "S5-L2",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "三个信号自测心律失常危险度",
+    "template": "color_grid",
+    "items": [
+      "心率不超过100次且节律规整",
+      "大概率问题不大"
+    ],
+    "atoms_text": "第一个 心慌的时候 摸一下自己的脉搏 如果心率在一百次以内 而且节奏是规整的 大概率没有什么大事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 389,
+    "seg_id": "S5-L3",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "三个信号自测心律失常危险度",
+    "template": "warning_alert",
+    "items": [
+      "心率超150次或节律完全紊乱"
+    ],
+    "atoms_text": "第二个 如果心率超过一百五 或者心跳忽快忽慢 完全没有规律 赶紧去医院",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 390,
+    "seg_id": "S5-L4",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "三个信号自测心律失常危险度",
+    "template": "list_fade",
+    "items": [
+      "伴随胸痛",
+      "出现晕厥",
+      "呼吸困难"
+    ],
+    "atoms_text": "第三 不管心率多少 只要伴随的 胸痛啊 晕厥啊 或者呼吸困难 都必须马上就医",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 391,
+    "seg_id": "S6-L1",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "正确态度：既不自吓也不硬扛",
+    "template": "myth_buster",
+    "items": [
+      "查出心律失常 = 心脏有病",
+      "心律失常类型不同，意义完全不同"
+    ],
+    "atoms_text": "最后我说一句啊 查出心律失常 不等于心脏有病 但也不代表 可以完全无视",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 392,
+    "seg_id": "S6-L2",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "正确态度：既不自吓也不硬扛",
+    "template": "step_arrow",
+    "items": [
+      "做动态心电图明确类型",
+      "能放心的彻底放心",
+      "该治疗的尽早别拖"
+    ],
+    "atoms_text": "做个动态心电图 搞清楚是什么类型的 该放心的放心 该治的别拖",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 393,
+    "seg_id": "S6-L3",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "正确态度：既不自吓也不硬扛",
+    "template": "hero_text",
+    "items": [
+      "既不值得吓自己，也不值得拿命去扛"
+    ],
+    "atoms_text": "心脏的事啊 既不值得自己吓自己 也不值得拿命去扛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 394,
+    "seg_id": "S1-L1",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "颠覆认知的开场",
+    "template": "hero_text",
+    "items": [
+      "运动可能正在伤害你的血管"
+    ],
+    "atoms_text": "你知道吗 运动啊 可能是 对血管的 一种伤害",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 395,
+    "seg_id": "S1-L2",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "颠覆认知的开场",
+    "template": "myth_buster",
+    "items": [
+      "运动是好事，怎么会伤血管",
+      "有些人天天锻炼反而出事了"
+    ],
+    "atoms_text": "可能很多人 听到这个 觉得我在胡说八道 运动明明是好事 怎么会伤血管呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 396,
+    "seg_id": "S1-L3",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "颠覆认知的开场",
+    "template": "hero_text",
+    "items": [
+      "听完道理你就明白了"
+    ],
+    "atoms_text": "但你先别急 听我把道理讲完 你就知道 为什么有些人 天天锻炼 反而出事了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 397,
+    "seg_id": "S2-L1",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "血管受损的机制",
+    "template": "hero_text",
+    "items": [
+      "血管壁究竟是怎么受损的"
+    ],
+    "atoms_text": "我们先回到 一个最基本的问题 血管壁是怎么受损的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 398,
+    "seg_id": "S2-L2",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "血管受损的机制",
+    "template": "body_annotate",
+    "items": [
+      "血管内膜是有活组织的",
+      "每时每刻承受血液冲击"
+    ],
+    "atoms_text": "血管是有内膜的 活组织 每时每刻 都要承受 血液的冲击",
+    "needs_animation": true,
+    "label": "血管内膜作为活组织承受血液冲击"
+  },
+  {
+    "global_index": 399,
+    "seg_id": "S2-L3",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "血管受损的机制",
+    "template": "split_column",
+    "items": [
+      "安静时血流平缓",
+      "运动时心率血压骤升"
+    ],
+    "atoms_text": "正常安静的时候 血流比较平缓 这时候冲击 血管完全扛得住",
+    "needs_animation": true,
+    "label": "安静状态下平缓血流对血管壁的冲击"
+  }
+]

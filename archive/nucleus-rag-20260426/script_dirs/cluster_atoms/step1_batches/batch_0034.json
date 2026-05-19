@@ -1,0 +1,571 @@
+[
+  {
+    "global_index": 1360,
+    "seg_id": "S5-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局二：磁疗打通血管",
+    "template": "hero_text",
+    "items": [
+      "骗局二：磁疗仪打通血管"
+    ],
+    "atoms_text": "第二个骗局呢 号称能打通血管的疗仪磁疗仪",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1361,
+    "seg_id": "S5-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局二：磁疗打通血管",
+    "template": "list_fade",
+    "items": [
+      "护心项链",
+      "护心腰带",
+      "磁疗仪"
+    ],
+    "atoms_text": "很多商家会卖什么 护心项链 护心腰带 磁疗仪等等 说戴在身上就能打通血管 不用吃药 不用打针",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1362,
+    "seg_id": "S5-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局二：磁疗打通血管",
+    "template": "myth_buster",
+    "items": [
+      "戴在身上就能打通血管",
+      "血管在体内外部设备根本触及不到",
+      "磁疗仪不用吃药就能护心",
+      "这些全是智商税没有任何作用"
+    ],
+    "atoms_text": "我跟大家说啊 这全是智商税 我们的血管在身体里面 你说你靠外面的 一个磁疗仪 一个项链 根本不可能碰到血管 更别说打通了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1363,
+    "seg_id": "S5-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局二：磁疗打通血管",
+    "template": "warning_alert",
+    "items": [
+      "除了掏空钱包没有任何用处"
+    ],
+    "atoms_text": "这些东西 除了掏空你的钱包 没有任何用处",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1364,
+    "seg_id": "S6-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局三：替代正规药物",
+    "template": "hero_text",
+    "items": [
+      "骗局三：替代他汀和阿司匹林"
+    ],
+    "atoms_text": "第三个骗局呢 是号称能替代他汀 替代阿司匹林的产品",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1365,
+    "seg_id": "S6-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局三：替代正规药物",
+    "template": "split_column",
+    "items": [
+      "他汀伤肝阿司匹林伤胃",
+      "两者是冠心病二级预防基石",
+      "纳豆激酶鱼油辅酶Q10能替代",
+      "保健品只能辅助无法替代药物"
+    ],
+    "atoms_text": "很多商家会跟你说 他汀伤肝 阿司匹林伤胃 吃他们的 纳豆激酶 深海鱼油 辅酶Q十 就能替代这些药物 安全又有效",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1366,
+    "seg_id": "S6-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局三：替代正规药物",
+    "template": "warning_alert",
+    "items": [
+      "擅自停药会出人命"
+    ],
+    "atoms_text": "我在这里给大家敲个警钟 这是会出人命的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1367,
+    "seg_id": "S6-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局三：替代正规药物",
+    "template": "brick_stack",
+    "items": [
+      "全球几十年几百万患者验证",
+      "明确降低心梗风险",
+      "明确降低死亡率",
+      "冠心病二级预防基石"
+    ],
+    "atoms_text": "他汀和阿司匹林 是冠心病二级预防的基石 是全世界几十年 几百万患者验证过的 能明确降低心梗的风险和死亡率的药物",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1368,
+    "seg_id": "S6-L5",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局三：替代正规药物",
+    "template": "step_arrow",
+    "items": [
+      "擅自停他汀阿司匹林",
+      "斑块越来越不稳定",
+      "斑块破裂引发急性心梗",
+      "后悔已经来不及"
+    ],
+    "atoms_text": "而纳豆激酶 深海鱼油 这些东西 最多就是辅助调节一下血脂的保健品 它替代不了正规的药物",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1369,
+    "seg_id": "S6-L6",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局三：替代正规药物",
+    "template": "hero_text",
+    "items": [
+      "停药换保健品是拿命在赌"
+    ],
+    "atoms_text": "要是擅自停了药呢 斑块就会越来越不稳定 随时可能出现破裂 引发急性心梗 到时候 后悔都来不及",
+    "needs_animation": true,
+    "label": "停药后斑块不稳定破裂引发急性心梗"
+  },
+  {
+    "global_index": 1370,
+    "seg_id": "S7-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局四：祖传秘方",
+    "template": "hero_text",
+    "items": [
+      "骗局四：名医秘方祖传偏方"
+    ],
+    "atoms_text": "第四个骗局呢 打着名医秘方 祖传偏方旗号的护心药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1371,
+    "seg_id": "S7-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局四：祖传秘方",
+    "template": "list_fade",
+    "items": [
+      "网上短视频自称老中医",
+      "声称有祖传护心秘方",
+      "号称能治各种心脏病"
+    ],
+    "atoms_text": "很多人会在网上 在短视频里 说自己是某某老中医 有祖传的护心秘方 能治各种心脏病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1372,
+    "seg_id": "S7-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局四：祖传秘方",
+    "template": "myth_buster",
+    "items": [
+      "正规名医会在网上给陌生人开秘方",
+      "真正的医生绝不会网上随便开秘方",
+      "有万能秘方能包治各种心脏病",
+      "心脏病复杂需面诊检查才能定方案"
+    ],
+    "atoms_text": "真正的正规医生啊 绝对不会在网上 随便给陌生人 开所谓的秘方 更不会说 自己的药能包治百病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1373,
+    "seg_id": "S7-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局四：祖传秘方",
+    "template": "warning_alert",
+    "items": [
+      "每个人病情不同没有万能秘方"
+    ],
+    "atoms_text": "心脏病是非常复杂的疾病 每个人的情况都不一样 治疗方案 必须要经过医生面诊 详细的检查之后 才能确定的 哪有什么万能的秘方呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1374,
+    "seg_id": "S8-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "保健品合理使用",
+    "template": "hero_text",
+    "items": [
+      "保健品不是全都没用"
+    ],
+    "atoms_text": "那是不是保健品就全都没用呢 其实也不是",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1375,
+    "seg_id": "S8-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "保健品合理使用",
+    "template": "branch_path",
+    "items": [
+      "吃他汀出现肌肉酸痛",
+      "医生建议下补充辅酶Q10",
+      "自行停药换保健品"
+    ],
+    "atoms_text": "比如你吃他汀 出现了肌肉酸痛 医生可能会建议你 补充点辅酶Q十",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1376,
+    "seg_id": "S8-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "保健品合理使用",
+    "template": "split_column",
+    "items": [
+      "甘油三酯特别高",
+      "自行乱用深海鱼油",
+      "医生建议辅助用鱼油",
+      "作为辅助不可替代正规药"
+    ],
+    "atoms_text": "甘油三酯特别高的呀 医生也可能会建议 用点深海鱼油做辅助",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1377,
+    "seg_id": "S8-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "保健品合理使用",
+    "template": "warning_alert",
+    "items": [
+      "保健品必须在医生指导下使用",
+      "任何保健品都不能替代正规药物"
+    ],
+    "atoms_text": "但注意了啊 这些都是辅助 而且必须在医生的指导下用 不能替代正规的药物",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1378,
+    "seg_id": "S9-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "判断骗局的标准",
+    "template": "hero_text",
+    "items": [
+      "一个最简单的判断标准"
+    ],
+    "atoms_text": "最后我给大家 一个最简单的判断标准",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1379,
+    "seg_id": "S9-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "判断骗局的标准",
+    "template": "list_fade",
+    "items": [
+      "说能根治冠心病高血压糖尿病",
+      "说能逆转斑块替代正规药物",
+      "说不用去医院不用遵医嘱",
+      "说吃了就好不需要复诊"
+    ],
+    "atoms_text": "凡是跟你说 能根治冠心病 高血压 糖尿病的 能逆转斑块 替代正规药物的 就是骗局",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1380,
+    "seg_id": "S9-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "判断骗局的标准",
+    "template": "hero_text",
+    "items": [
+      "最不想看到患者因骗局突发心梗"
+    ],
+    "atoms_text": "凡是跟你说 不用去医院 不用遵医嘱 吃了就好的 这还是骗局",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1381,
+    "seg_id": "S9-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "判断骗局的标准",
+    "template": "warning_alert",
+    "items": [
+      "省吃俭用的养老钱全交给了骗子",
+      "钱没了身体也毁了"
+    ],
+    "atoms_text": "作为心内科医生呢 从医这么多年 最不想看到的 就是患者本来好好的 因为信了这些骗局 擅自停药 最后呢 突发心梗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1382,
+    "seg_id": "S9-L5",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "判断骗局的标准",
+    "template": "hero_text",
+    "items": [
+      "请帮老人识破骗局守护健康"
+    ],
+    "atoms_text": "尤其是很多老人 一辈子省吃俭用 舍不得吃 舍不得穿 结果把攒了一辈子的养老钱 全给了这些骗子 最后还害了自己的身体",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1383,
+    "seg_id": "S10-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "呼吁转发行动",
+    "template": "hero_text",
+    "items": [
+      "请把这条视频转发给爸妈"
+    ],
+    "atoms_text": "所以今天这条视频呢 我真的恳请大家 一定要转发给咱爸妈 转发给咱家里的老人 让他们看清这些骗局",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1384,
+    "seg_id": "S10-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "呼吁转发行动",
+    "template": "list_fade",
+    "items": [
+      "让家里老人看清骗局",
+      "点赞扩散帮助更多人",
+      "少一个上当多保一个家庭"
+    ],
+    "atoms_text": "也请大家 给这条视频呢 点个赞 转发扩散出去 少一个人上当 就可能多挽救一个家庭",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1385,
+    "seg_id": "S10-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "呼吁转发行动",
+    "template": "hero_text",
+    "items": [
+      "你家遇到过这类骗局吗？评论区聊聊"
+    ],
+    "atoms_text": "你们家里 有没有遇到过 类似的这种骗局呢 欢迎评论区 大家留言讨论 我们一起提醒更多的人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1386,
+    "seg_id": "S1-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "他汀怎么选，一文讲清楚"
+    ],
+    "atoms_text": "",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1387,
+    "seg_id": "S2-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "hero_text",
+    "items": [
+      "瑞舒伐他汀和阿托伐他汀怎么选"
+    ],
+    "atoms_text": "瑞舒伐他汀和阿托伐他汀怎么选",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1388,
+    "seg_id": "S2-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "split_column",
+    "items": [
+      "阿托伐他汀",
+      "瑞舒伐他汀",
+      "常用降血脂药",
+      "常用降血脂药"
+    ],
+    "atoms_text": "瑞舒伐他汀和阿托伐他汀 都是我们常用的降血脂药 两者有什么不一样呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1389,
+    "seg_id": "S2-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "hero_text",
+    "items": [
+      "你更适合哪一种？"
+    ],
+    "atoms_text": "你是适合于吃瑞舒伐他汀 还是更适合吃阿托伐他汀",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1390,
+    "seg_id": "S2-L4",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "hero_text",
+    "items": [
+      "今天一文讲清楚"
+    ],
+    "atoms_text": "今天一文讲清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1391,
+    "seg_id": "S2-L5",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "split_column",
+    "items": [
+      "强效降胆固醇保护血管",
+      "强效降胆固醇保护血管",
+      "上市早数据丰富",
+      "降脂效果略强"
+    ],
+    "atoms_text": "先给句核心 他们俩都是强效的他汀药 都能降胆固醇 保护血管 防治心脑血管疾病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1392,
+    "seg_id": "S2-L6",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "split_column",
+    "items": [
+      "使用人群更多",
+      "肝肾双通道排泄",
+      "研究数据更丰富",
+      "适用性更广泛"
+    ],
+    "atoms_text": "但阿托伐他汀 上市的时间更早 使用的人更多 研究的数据也更丰富",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1393,
+    "seg_id": "S2-L7",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "hero_text",
+    "items": [
+      "逐条来看五大差异"
+    ],
+    "atoms_text": "而瑞舒伐他汀 降血脂的效果略强 而且经过肝脏和肾脏两个通道排泄 适用性更广泛",
+    "needs_animation": true,
+    "label": "瑞舒伐他汀经肝脏和肾脏双通道排泄"
+  },
+  {
+    "global_index": 1394,
+    "seg_id": "S2-L8",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "list_fade",
+    "items": [
+      "降脂效果",
+      "服用时间",
+      "肌肉疼痛风险",
+      "肝肾功能影响",
+      "药物食物相互作用"
+    ],
+    "atoms_text": "咱们一条一条来看",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1395,
+    "seg_id": "S3-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "降脂效果比较",
+    "template": "hero_text",
+    "items": [
+      "第一点：降脂效果比较"
+    ],
+    "atoms_text": "第一 降脂效果比较",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1396,
+    "seg_id": "S3-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "降脂效果比较",
+    "template": "number_center",
+    "items": [
+      "5mg"
+    ],
+    "atoms_text": "瑞舒伐他汀似乎更强 五毫克的瑞舒伐他汀 差不多相当于 十毫克的阿托伐他汀",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1397,
+    "seg_id": "S3-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "降脂效果比较",
+    "template": "branch_path",
+    "items": [
+      "需要强效降脂",
+      "小剂量瑞舒伐他汀更合适",
+      "阿托伐他汀需加大剂量"
+    ],
+    "atoms_text": "所以你需要强效的降脂 小剂量的瑞舒伐他汀 可能更合适",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1398,
+    "seg_id": "S4-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "服用时间比较",
+    "template": "hero_text",
+    "items": [
+      "第二点：服用时间比较"
+    ],
+    "atoms_text": "第二 服用时间比较",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1399,
+    "seg_id": "S4-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "服用时间比较",
+    "template": "myth_buster",
+    "items": [
+      "他汀必须晚上吃才有效",
+      "两者均为长效药早晚均可",
+      "吃饭时间影响药效",
+      "与进餐时间无关"
+    ],
+    "atoms_text": "他汀类药物一般建议晚上吃 因为晚上胆固醇合成最活跃 效果会更好",
+    "needs_animation": true,
+    "label": "夜间胆固醇合成最活跃他汀夜间起效"
+  }
+]

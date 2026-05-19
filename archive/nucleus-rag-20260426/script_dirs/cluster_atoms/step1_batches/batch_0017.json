@@ -1,0 +1,570 @@
+[
+  {
+    "global_index": 680,
+    "seg_id": "S1-L4",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "你是不是也有这个问题",
+    "template": "warning_alert",
+    "items": [
+      "白天超8次或夜间超2次",
+      "单次尿量少且持续1~2天"
+    ],
+    "atoms_text": "要是白天排尿超过八次 夜间超过两次 而且单次的尿量少 持续超过一到两天 那你就留心了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 681,
+    "seg_id": "S1-L5",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "你是不是也有这个问题",
+    "template": "split_column",
+    "items": [
+      "生理性尿频",
+      "病理性尿频",
+      "调整生活即可缓解",
+      "需要就医规范治疗"
+    ],
+    "atoms_text": "但是大家不要紧张 这分两种情况 一种是生理性的频繁小便 不用吃药 不用看医生 调整一下就好 而另一种是病理性的 那咱们今天一条视频说清楚 视频有点长 但全是干货",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 682,
+    "seg_id": "S2-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "生理性尿频的三大原因",
+    "template": "hero_text",
+    "items": [
+      "生理性尿频，调整即可好转"
+    ],
+    "atoms_text": "先说生理性频繁小便 不用过多的担心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 683,
+    "seg_id": "S2-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "生理性尿频的三大原因",
+    "template": "color_grid",
+    "items": [
+      "短时间大量饮水果汁饮料",
+      "代谢加快，尿量自然增多"
+    ],
+    "atoms_text": "最普遍的就是饮水过多 比如短时间喝了大量的 水果汁 饮料 稀饭 身体代谢快 尿量自然多 这是正常的反应 不用紧张",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 684,
+    "seg_id": "S2-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "生理性尿频的三大原因",
+    "template": "color_grid",
+    "items": [
+      "气温低，抗利尿激素分泌减少",
+      "冬天如厕次数明显增多"
+    ],
+    "atoms_text": "天气冷 身体里面的抗利尿激素 分泌就会减少 对肾脏排尿的抑制就会减弱 尿量自然会增加 尤其是冬天 跑厕所的次数会明显的变多 这也是正常的",
+    "needs_animation": true,
+    "label": "天冷时抗利尿激素分泌减少导致肾脏排尿抑制减弱"
+  },
+  {
+    "global_index": 685,
+    "seg_id": "S2-L4",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "生理性尿频的三大原因",
+    "template": "color_grid",
+    "items": [
+      "焦虑压力大，交感神经兴奋",
+      "膀胱敏感，微量尿意就想排"
+    ],
+    "atoms_text": "另外就是 我们现在经常压力大 不管是工作压力大焦虑 还是遇到重要的事情 交感神经兴奋 膀胱就会敏感 哪怕只有一点点尿 也会有强烈的尿意",
+    "needs_animation": true,
+    "label": "交感神经兴奋使膀胱敏感产生尿意"
+  },
+  {
+    "global_index": 686,
+    "seg_id": "S2-L5",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "生理性尿频的三大原因",
+    "template": "branch_path",
+    "items": [
+      "每次尿量正常，无尿急尿痛",
+      "调整饮水与心态，1~2天缓解",
+      "未缓解或有其他症状，需就医"
+    ],
+    "atoms_text": "教大家一个简单好记的判断方法 如果每次小便量都正常 也没有尿急尿痛的不舒服 调整一下饮水量 饮食和心态 一到两天就缓解了 那就是生理性的 不用管它",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 687,
+    "seg_id": "S3-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频一：泌尿道感染",
+    "template": "hero_text",
+    "items": [
+      "有其他不适，就要警惕病理性尿频"
+    ],
+    "atoms_text": "重点来了 要是不属于上面的情况 还伴有其他的不舒服 就有可能是病理性的 下面这几种情况 大家对号入座 遇到就知道该怎么办了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 688,
+    "seg_id": "S3-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频一：泌尿道感染",
+    "template": "brick_stack",
+    "items": [
+      "细菌进入泌尿道繁殖产毒素",
+      "黏膜受到刺激，膀胱持续有尿意",
+      "女性尿道短直，感染风险更高"
+    ],
+    "atoms_text": "最常见的是泌尿道感染 细菌钻进泌尿道繁殖 并产生毒素 刺激膀胱黏膜 尤其多见于女性",
+    "needs_animation": true,
+    "label": "细菌进入泌尿道繁殖产生毒素刺激膀胱黏膜"
+  },
+  {
+    "global_index": 689,
+    "seg_id": "S3-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频一：泌尿道感染",
+    "template": "list_fade",
+    "items": [
+      "性生活频繁的女性",
+      "经期及绝经期后女性",
+      "长期憋尿的人",
+      "个人卫生习惯不佳者"
+    ],
+    "atoms_text": "女性的尿道短直宽 离肛门比较近 很容易被细菌污染 性生活后 经期 绝经期后的女性 风险更高 长期憋尿 个人卫生不好的人 也容易感染",
+    "needs_animation": true,
+    "label": "女性尿道短直宽且靠近肛门的解剖结构"
+  },
+  {
+    "global_index": 690,
+    "seg_id": "S3-L4",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频一：泌尿道感染",
+    "template": "list_fade",
+    "items": [
+      "排尿时有烧灼样疼痛",
+      "尿液浑浊，频繁上厕所",
+      "部分伴有低热",
+      "感染上行至肾脏可出现腰痛高烧"
+    ],
+    "atoms_text": "主要表现就是尿急尿痛 排尿时尿道有烧灼样的疼痛 尿液浑浊 还频繁的上厕所 部分人呢还会伴有低热 要是感染上行到肾脏 还会出现腰痛发高烧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 691,
+    "seg_id": "S4-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频二：前列腺问题",
+    "template": "number_center",
+    "items": [
+      "60%"
+    ],
+    "atoms_text": "再接下来就是前列腺 前列腺增生是中老年男性高发的问题 五十岁以上 有一半人多多少少都有问题 六十岁以上能达到百分之六十",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 692,
+    "seg_id": "S4-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频二：前列腺问题",
+    "template": "step_arrow",
+    "items": [
+      "前列腺增生压迫尿道",
+      "膀胱残余尿增多",
+      "尿频夜尿多，排尿困难尿不尽"
+    ],
+    "atoms_text": "增生的前列腺压迫尿道 导致膀胱残余尿增多 进而尿频 夜尿多 还会排尿困难 尿线变细 尿不尽",
+    "needs_animation": true,
+    "label": "增生的前列腺压迫尿道导致膀胱残余尿增多"
+  },
+  {
+    "global_index": 693,
+    "seg_id": "S4-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频二：前列腺问题",
+    "template": "warning_alert",
+    "items": [
+      "前列腺炎同样引发尿频",
+      "伴有小腹坠胀及尿急感"
+    ],
+    "atoms_text": "中青年男性呢 要注意前列腺炎 也会出现尿频 还伴有小肚子的坠胀 尿急感觉",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 694,
+    "seg_id": "S5-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频三：膀胱过度活动症",
+    "template": "step_arrow",
+    "items": [
+      "膀胱逼尿肌异常收缩",
+      "出现尿频尿急甚至漏尿",
+      "尿常规检查大多正常"
+    ],
+    "atoms_text": "还有就是膀胱过度活动症 主要是膀胱逼尿肌不听指挥 异常的收缩 出现尿频尿急 有的时候还会出现漏尿",
+    "needs_animation": true,
+    "label": "膀胱逼尿肌异常收缩导致尿频尿急"
+  },
+  {
+    "global_index": 695,
+    "seg_id": "S5-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频三：膀胱过度活动症",
+    "template": "number_center",
+    "items": [
+      "10%~15%"
+    ],
+    "atoms_text": "四十岁以上人群 发病率就是百分之十到十五了 女性偏高一些 因为生育绝经的因素 盆底肌的功能容易受损",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 696,
+    "seg_id": "S5-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频三：膀胱过度活动症",
+    "template": "split_column",
+    "items": [
+      "泌尿感染",
+      "膀胱过度活动症",
+      "尿常规有感染证据",
+      "尿常规通常无异常"
+    ],
+    "atoms_text": "这种情况没有明显的感染证据 尿常规检查也大多是正常的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 697,
+    "seg_id": "S6-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频四：糖尿病",
+    "template": "step_arrow",
+    "items": [
+      "血糖升高超过肾糖阈",
+      "葡萄糖无法完全重吸收",
+      "渗透性利尿，尿多且频繁"
+    ],
+    "atoms_text": "糖尿病也会引发尿频 血糖超过肾糖阈时 肾脏没办法完全重吸收葡萄糖 尿液中的葡萄糖会增多 产生渗透性的利尿 尿量多还频繁",
+    "needs_animation": true,
+    "label": "血糖超过肾糖阈时肾脏无法重吸收葡萄糖引发渗透性利尿"
+  },
+  {
+    "global_index": 698,
+    "seg_id": "S6-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频四：糖尿病",
+    "template": "list_fade",
+    "items": [
+      "多尿",
+      "多饮",
+      "多食",
+      "体重下降"
+    ],
+    "atoms_text": "典型的症状就是 多饮多食多尿 体重还下降 血糖控制不好 出现的概率会明显增高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 699,
+    "seg_id": "S7-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频五：结石与肿瘤",
+    "template": "warning_alert",
+    "items": [
+      "结石和肿瘤虽少见，切勿忽视"
+    ],
+    "atoms_text": "最后是泌尿系统结石和肿瘤 这类情况比较少见 但要高度警惕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 700,
+    "seg_id": "S7-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频五：结石与肿瘤",
+    "template": "list_fade",
+    "items": [
+      "刺激划伤膀胱黏膜和尿道",
+      "可能出现血尿",
+      "排尿中断"
+    ],
+    "atoms_text": "结石会刺激划伤膀胱黏膜和尿道 导致尿频尿急 还可能有血尿 排尿中断",
+    "needs_animation": true,
+    "label": "结石刺激划伤膀胱黏膜和尿道"
+  },
+  {
+    "global_index": 701,
+    "seg_id": "S7-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频五：结石与肿瘤",
+    "template": "list_fade",
+    "items": [
+      "早期出现无痛性肉眼血尿",
+      "后期伴尿频尿痛",
+      "长期吸烟者风险更高",
+      "接触化工物质者风险更高"
+    ],
+    "atoms_text": "肿瘤呢 早期可能只有无痛性肉眼血尿 后期会伴有尿频尿痛 中老年人 长期吸烟的 还有接触化工物质的人 风险会更高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 702,
+    "seg_id": "S8-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "hero_text",
+    "items": [
+      "出现红色警报，不要拖，立刻就医"
+    ],
+    "atoms_text": "下面这几个红色警报 只要出现一个 不要犹豫 要去医院查一查 别拖成大病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 703,
+    "seg_id": "S8-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "list_fade",
+    "items": [
+      "尿频伴发烧寒战腰痛"
+    ],
+    "atoms_text": "第一 尿频伴发烧寒战腰痛 可能是肾盂肾炎 比普通的尿路感染要严重",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 704,
+    "seg_id": "S8-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "warning_alert",
+    "items": [
+      "肉眼可见小便有血，无论多少"
+    ],
+    "atoms_text": "第二 肉眼看到小便有血 不管量多少 都要就医",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 705,
+    "seg_id": "S8-L4",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "warning_alert",
+    "items": [
+      "排尿疼痛剧烈甚至不敢排尿"
+    ],
+    "atoms_text": "第三 排尿疼痛剧烈 甚至不敢排尿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 706,
+    "seg_id": "S8-L5",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "list_fade",
+    "items": [
+      "尿线变细，排尿费力",
+      "中老年男性尤其警惕前列腺问题"
+    ],
+    "atoms_text": "第四 尿线突然变细 排尿费力 尿不出来 尤其是男性 可能是前列腺出了问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 707,
+    "seg_id": "S8-L6",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "warning_alert",
+    "items": [
+      "尿频持续超1~2周仍未改善"
+    ],
+    "atoms_text": "第五 尿频持续超过一到两周 调整后还没缓解 影响生活睡眠",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 708,
+    "seg_id": "S8-L7",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "list_fade",
+    "items": [
+      "全身乏力，没有胃口",
+      "下肢水肿，可能肾功能异常"
+    ],
+    "atoms_text": "第六 尿频伴浑身乏力 没胃口 下肢还水肿 可能是肾功能异常了 一定要重视",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 709,
+    "seg_id": "S9-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "改善尿频的实用建议",
+    "template": "hero_text",
+    "items": [
+      "坚持这些习惯，尿频可以改善"
+    ],
+    "atoms_text": "下面给你几个改善小便频繁的建议 不管是生理性尿频 还是想预防病理性问题 这几个办法坚持一段时间 都会有不同程度的改善",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 710,
+    "seg_id": "S9-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "改善尿频的实用建议",
+    "template": "list_fade",
+    "items": [
+      "每天饮水1000~2000ml，少量多次",
+      "高温出汗多时适当增加饮水",
+      "睡前两小时少喝水，减少夜尿"
+    ],
+    "atoms_text": "第一 饮水要少量多次 在没有严重肾病的情况下 成年人每天一千到两千毫升水 高温出汗多可适当增加 睡前两小时少喝水 减少夜尿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 711,
+    "seg_id": "S9-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "改善尿频的实用建议",
+    "template": "list_fade",
+    "items": [
+      "睡前少喝咖啡浓茶酒精",
+      "少吃辛辣刺激食物",
+      "控制盐的摄入"
+    ],
+    "atoms_text": "饮食要清淡 睡前少喝咖啡 浓茶 酒精 少吃辛辣刺激食物 控制盐的摄入",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 712,
+    "seg_id": "S9-L4",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "改善尿频的实用建议",
+    "template": "step_arrow",
+    "items": [
+      "收缩肛门及会阴肌，保持3~5秒",
+      "放松3~5秒，每组10~15次，每天3组",
+      "坚持4~6周，排尿控制明显改善"
+    ],
+    "atoms_text": "第二 凯格尔运动 男女都能练 收缩肛门及会阴部的肌肉 保持三到五秒 再放松三到五秒 每组十到十五次 每天三组 坚持四到六周 会有明显的改善",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 713,
+    "seg_id": "S9-L5",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "改善尿频的实用建议",
+    "template": "list_fade",
+    "items": [
+      "避免久坐",
+      "勤换内裤，穿透气裤子",
+      "保持好心态，缓解压力"
+    ],
+    "atoms_text": "平时别久坐 勤换内裤 穿透气的裤子 保持好心态 缓解压力",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 714,
+    "seg_id": "S10-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "尿频是警报，别忽视",
+    "template": "myth_buster",
+    "items": [
+      "尿频只是多喝水，不用管",
+      "尿频是身体警报，需找到根源",
+      "随便吃药调理就能好",
+      "规范治疗，早发现早改善"
+    ],
+    "atoms_text": "最后再跟大家说一句 频繁的小便真不是小事 不是多喝水就能解决的 是身体的健康警报 很多人要么忽视 要么随便吃药调理 反而耽误最佳的治疗时间",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 715,
+    "seg_id": "S10-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "尿频是警报，别忽视",
+    "template": "hero_text",
+    "items": [
+      "早发现早治疗，大多数尿频可以改善"
+    ],
+    "atoms_text": "正确的做法是 找到根源 再进行规范的治疗 其实不用怕 大多数尿频问题 早发现早治疗 都能改善 不影响生活",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 716,
+    "seg_id": "S10-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "尿频是警报，别忽视",
+    "template": "hero_text",
+    "items": [
+      "你有类似情况吗？评论区说说看"
+    ],
+    "atoms_text": "你有没有类似的情况 评论区里面说说看",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 717,
+    "seg_id": "S1-L1",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "hero_text",
+    "items": [
+      "肌酸激酶升高≠心梗，今天讲明白"
+    ],
+    "atoms_text": "肌酸激酶 这个指标 是什么意思呢 和心梗 有什么关系 今天我们 一次性讲明白 大家要 点赞收藏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 718,
+    "seg_id": "S1-L2",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "hero_text",
+    "items": [
+      "肌酸激酶是个大家族，有三个成员"
+    ],
+    "atoms_text": "首先 肌酸激酶啊 是一个大家族 有三个核心成员",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 719,
+    "seg_id": "S1-L3",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "list_fade",
+    "items": [
+      "CK-MM：存在于全身骨骼肌"
+    ],
+    "atoms_text": "老大是 CK-MM 主要存在于 全身骨骼肌里面 就是咱们 胳膊腿上的肌肉",
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "global_index": 880,
+    "seg_id": "S3-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号二：晕厥与眼前发黑",
+    "template": "warning_alert",
+    "items": [
+      "信号二：头晕眼前发黑甚至晕厥"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 881,
+    "seg_id": "S3-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号二：晕厥与眼前发黑",
+    "template": "hero_text",
+    "items": [
+      "运动时晕厥，非常非常危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 882,
+    "seg_id": "S3-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号二：晕厥与眼前发黑",
+    "template": "step_arrow",
+    "items": [
+      "心脏电信号出现紊乱",
+      "可能是恶性心律失常前兆",
+      "大脑供血不足，眼前发黑"
+    ],
+    "needs_animation": true,
+    "label": "心律失常导致脑供血不足机制"
+  },
+  {
+    "global_index": 883,
+    "seg_id": "S3-L4",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号二：晕厥与眼前发黑",
+    "template": "step_arrow",
+    "items": [
+      "心脏跳得太快太乱",
+      "大脑供血突然不足",
+      "眼前一黑，短暂失去意识"
+    ],
+    "needs_animation": true,
+    "label": "心律失常导致脑供血不足机制"
+  },
+  {
+    "global_index": 884,
+    "seg_id": "S3-L5",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号二：晕厥与眼前发黑",
+    "template": "myth_buster",
+    "items": [
+      "晕一下几秒就醒，接着练",
+      "这是在用性命赌博"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 885,
+    "seg_id": "S3-L6",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号二：晕厥与眼前发黑",
+    "template": "warning_alert",
+    "items": [
+      "运动晕厥一次必须去医院",
+      "做24小时动态心电图排查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 886,
+    "seg_id": "S4-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号三：心跳又快又乱",
+    "template": "hero_text",
+    "items": [
+      "信号三：心跳突然又快又乱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 887,
+    "seg_id": "S4-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号三：心跳又快又乱",
+    "template": "split_column",
+    "items": [
+      "跑越快心跳越快，匀速上升",
+      "突然心脏像被猛踹，毫无节奏",
+      "运动强度决定心率，规律变化",
+      "感觉空跳，节奏完全混乱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 888,
+    "seg_id": "S4-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号三：心跳又快又乱",
+    "template": "warning_alert",
+    "items": [
+      "可能是室性早搏或严重心律失常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 889,
+    "seg_id": "S4-L4",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号三：心跳又快又乱",
+    "template": "step_arrow",
+    "items": [
+      "立刻停下来",
+      "坐下或蹲下，不要躺平",
+      "等待心跳慢慢恢复正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 890,
+    "seg_id": "S4-L5",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号三：心跳又快又乱",
+    "template": "branch_path",
+    "items": [
+      "停下来等待几分钟",
+      "心跳恢复——密切观察就医",
+      "无法恢复——立即拨打120"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 891,
+    "seg_id": "S4-L6",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号三：心跳又快又乱",
+    "template": "warning_alert",
+    "items": [
+      "几分钟恢复不了，立即拨120"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 892,
+    "seg_id": "S5-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号四：肩臂下巴腹部疼痛",
+    "template": "hero_text",
+    "items": [
+      "信号四：左肩左臂下巴上腹突然痛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 893,
+    "seg_id": "S5-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号四：肩臂下巴腹部疼痛",
+    "template": "body_annotate",
+    "items": [
+      "心脏缺血疼痛不一定在胸口",
+      "向左肩、左臂内侧放射",
+      "向下巴、牙齿部位放射",
+      "向上腹部放射"
+    ],
+    "needs_animation": true,
+    "label": "心脏缺血牵涉痛放射路径"
+  },
+  {
+    "global_index": 894,
+    "seg_id": "S5-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号四：肩臂下巴腹部疼痛",
+    "template": "myth_buster",
+    "items": [
+      "以为是肌肉拉伤或牙齿问题",
+      "可能是心绞痛的不典型表现"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 895,
+    "seg_id": "S5-L4",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号四：肩臂下巴腹部疼痛",
+    "template": "step_arrow",
+    "items": [
+      "立刻停下来休息",
+      "几分钟内好转——尽快看心内科",
+      "越来越重——直接拨打120"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 896,
+    "seg_id": "S5-L5",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号四：肩臂下巴腹部疼痛",
+    "template": "warning_alert",
+    "items": [
+      "越来越重且伴随冒冷汗恶心",
+      "直接拨120，不要自己开车"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 897,
+    "seg_id": "S5-L6",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号四：肩臂下巴腹部疼痛",
+    "template": "warning_alert",
+    "items": [
+      "出现放射性疼痛需立即就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 898,
+    "seg_id": "S6-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号五：异常呼吸困难",
+    "template": "hero_text",
+    "items": [
+      "信号五：突然异常的呼吸困难"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 899,
+    "seg_id": "S6-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号五：异常呼吸困难",
+    "template": "split_column",
+    "items": [
+      "跑步时喘气，属于正常现象",
+      "像被掐住脖子，每口气吸不到底",
+      "运动强度越大越喘，成比例",
+      "停下好几分钟仍缓不过来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 900,
+    "seg_id": "S6-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号五：异常呼吸困难",
+    "template": "warning_alert",
+    "items": [
+      "可能是严重心肌缺血或支气管痉挛",
+      "不管哪种原因都不应硬撑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 901,
+    "seg_id": "S7-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "五大信号总结",
+    "template": "split_column",
+    "items": [
+      "正常累：全身均匀，停下很快恢复",
+      "危险信号：局部异常，停下不能恢复",
+      "正常喘：与运动强度成比例",
+      "异常感：与运动强度不成比例"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 902,
+    "seg_id": "S7-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "五大信号总结",
+    "template": "list_fade",
+    "items": [
+      "胸口压迫感、发闷发紧",
+      "突然晕厥或眼前发黑",
+      "心跳突然乱蹦无节奏",
+      "左肩下巴莫名疼痛",
+      "停下来仍缓不过来的喘"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 903,
+    "seg_id": "S7-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "五大信号总结",
+    "template": "hero_text",
+    "items": [
+      "停下来不丢人，硬撑出事才是真傻"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 904,
+    "seg_id": "S8-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "运动与心脏保护",
+    "template": "hero_text",
+    "items": [
+      "运动对心脏有保护作用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 905,
+    "seg_id": "S8-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "运动与心脏保护",
+    "template": "split_column",
+    "items": [
+      "不了解身体，盲目坚持运动",
+      "了解信号，知道何时该停下",
+      "把危险当挑战，风险极高",
+      "读懂身体信号，安全运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 906,
+    "seg_id": "S8-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "运动与心脏保护",
+    "template": "step_arrow",
+    "items": [
+      "从未做过心脏检查",
+      "花几百元做心电图或心脏彩超",
+      "给自己买一份安心再运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 907,
+    "seg_id": "S8-L4",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "运动与心脏保护",
+    "template": "hero_text",
+    "items": [
+      "你好好的，比跑多少公里都重要"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 908,
+    "seg_id": "S8-L5",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "运动与心脏保护",
+    "template": "hero_text",
+    "items": [
+      "这5个信号，你记住了吗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 909,
+    "seg_id": "S1-L1",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "hero_text",
+    "items": [
+      "运动到底会不会引发心梗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 910,
+    "seg_id": "S1-L2",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "hero_text",
+    "items": [
+      "规律有氧运动是对心脏最友好的生活方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 911,
+    "seg_id": "S1-L3",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "hero_text",
+    "items": [
+      "心梗的起点是血管内膜损伤"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 912,
+    "seg_id": "S1-L4",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "step_arrow",
+    "items": [
+      "血流反复猛烈冲击血管壁",
+      "血压升高 心率加快 冲击力增大",
+      "血管内膜受损 风险上升"
+    ],
+    "needs_animation": true,
+    "label": "血流冲击血管壁致内膜损伤过程"
+  },
+  {
+    "global_index": 913,
+    "seg_id": "S1-L5",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "number_center",
+    "items": [
+      "2"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 914,
+    "seg_id": "S1-L6",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "split_column",
+    "items": [
+      "适量运动",
+      "过量或带病运动",
+      "血管承受得住，长期利大于弊",
+      "冲击可能压垮脆弱血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 915,
+    "seg_id": "S1-L7",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "branch_path",
+    "items": [
+      "运动强度是否匹配血管状态？",
+      "匹配：心脏获益，功能增强",
+      "不匹配：冲击累积，风险骤增"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 916,
+    "seg_id": "S1-L8",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "warning_alert",
+    "items": [
+      "强度过大或血管已有问题时运动可能成为导火索"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 917,
+    "seg_id": "S2-L1",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "hero_text",
+    "items": [
+      "哪类人运动前必须认真评估？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 918,
+    "seg_id": "S2-L2",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "list_fade",
+    "items": [
+      "长期睡眠不足、压力过大",
+      "偶尔胸口发闷却从未就诊",
+      "心脏承受底线已远低于正常人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 919,
+    "seg_id": "S2-L3",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "warning_alert",
+    "items": [
+      "运动强度一上来，紧绷的线随时可能断裂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

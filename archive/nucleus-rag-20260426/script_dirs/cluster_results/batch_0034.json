@@ -1,0 +1,511 @@
+[
+  {
+    "global_index": 1360,
+    "seg_id": "S7-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "行动呼吁与结尾",
+    "template": "hero_text",
+    "items": [
+      "今年体检，认真看一眼那个数字"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1361,
+    "seg_id": "S1-L1",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "开场破认知",
+    "template": "hero_text",
+    "items": [
+      "内科张医生在线科普"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1362,
+    "seg_id": "S1-L2",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "开场破认知",
+    "template": "hero_text",
+    "items": [
+      "瘦同事体检血脂超标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1363,
+    "seg_id": "S1-L3",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "开场破认知",
+    "template": "myth_buster",
+    "items": [
+      "血脂高是胖人专利",
+      "瘦子血脂也可能爆表"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1364,
+    "seg_id": "S1-L4",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "开场破认知",
+    "template": "hero_text",
+    "items": [
+      "瘦子血脂比胖子还吓人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1365,
+    "seg_id": "S2-L1",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "胆固醇从哪来",
+    "template": "number_center",
+    "items": [
+      "20%~30%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1366,
+    "seg_id": "S2-L2",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "胆固醇从哪来",
+    "template": "number_center",
+    "items": [
+      "70%~80%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1367,
+    "seg_id": "S2-L3",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "胆固醇从哪来",
+    "template": "hero_text",
+    "items": [
+      "肝脏是24小时造脂工厂"
+    ],
+    "needs_animation": true,
+    "label": "肝脏合成胆固醇的生理机制"
+  },
+  {
+    "global_index": 1368,
+    "seg_id": "S2-L4",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "胆固醇从哪来",
+    "template": "split_column",
+    "items": [
+      "胖不胖",
+      "血脂高不高",
+      "身体脂肪堆积多少",
+      "肝脏造脂产量大不大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1369,
+    "seg_id": "S3-L1",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "瘦人血脂高的原因",
+    "template": "hero_text",
+    "items": [
+      "天生肝脏产脂量就大"
+    ],
+    "needs_animation": true,
+    "label": "肝脏合成胆固醇的生理机制"
+  },
+  {
+    "global_index": 1370,
+    "seg_id": "S3-L2",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "瘦人血脂高的原因",
+    "template": "warning_alert",
+    "items": [
+      "父母兄弟有高血脂要警惕",
+      "再瘦也必须认真筛查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1371,
+    "seg_id": "S3-L3",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "瘦人血脂高的原因",
+    "template": "hero_text",
+    "items": [
+      "不吃肥肉却大碗吃主食"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1372,
+    "seg_id": "S3-L4",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "瘦人血脂高的原因",
+    "template": "myth_buster",
+    "items": [
+      "不吃油就不会血脂高",
+      "碳水过量同样升高血脂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1373,
+    "seg_id": "S3-L5",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "瘦人血脂高的原因",
+    "template": "step_arrow",
+    "items": [
+      "米面糖摄入过量",
+      "肝脏将多余碳水加班转化",
+      "甘油三酯储存血脂升高"
+    ],
+    "needs_animation": true,
+    "label": "肝脏将碳水化合物转化为甘油三酯的代谢过程"
+  },
+  {
+    "global_index": 1374,
+    "seg_id": "S4-L1",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "最危险的是不查",
+    "template": "warning_alert",
+    "items": [
+      "瘦人从不主动查血脂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1375,
+    "seg_id": "S4-L2",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "最危险的是不查",
+    "template": "split_column",
+    "items": [
+      "胖人",
+      "瘦人",
+      "有危机感会主动体检",
+      "自认没事完全不查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1376,
+    "seg_id": "S4-L3",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "最危险的是不查",
+    "template": "hero_text",
+    "items": [
+      "外墙雪白内部水管早已锈透"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1377,
+    "seg_id": "S5-L1",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "三步行动方案",
+    "template": "hero_text",
+    "items": [
+      "三步走解决瘦人血脂问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1378,
+    "seg_id": "S5-L2",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "三步行动方案",
+    "template": "step_arrow",
+    "items": [
+      "每年至少查一次血脂",
+      "重点盯低密度脂蛋白"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1379,
+    "seg_id": "S5-L3",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "三步行动方案",
+    "template": "step_arrow",
+    "items": [
+      "米饭馒头面条每餐一拳头",
+      "多吃蔬菜和优质蛋白"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1380,
+    "seg_id": "S5-L4",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "三步行动方案",
+    "template": "branch_path",
+    "items": [
+      "家族有高血脂且指标异常",
+      "尽快就医不要硬扛",
+      "指标正常继续定期监测"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1381,
+    "seg_id": "S6-L1",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "结语行动号召",
+    "template": "hero_text",
+    "items": [
+      "化验单才是血管健康的裁判"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1382,
+    "seg_id": "S6-L2",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "结语行动号召",
+    "template": "hero_text",
+    "items": [
+      "今年体检记得多看一眼血脂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1383,
+    "seg_id": "S1-L1",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血糖不疼不痒的误区",
+    "template": "hero_text",
+    "items": [
+      "家庭科张医生"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1384,
+    "seg_id": "S1-L2",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血糖不疼不痒的误区",
+    "template": "myth_buster",
+    "items": [
+      "血糖高一点不疼不痒没关系",
+      "糖正把你血管从大到小泡坏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1385,
+    "seg_id": "S1-L3",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血糖不疼不痒的误区",
+    "template": "hero_text",
+    "items": [
+      "不难受干嘛非得吃药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1386,
+    "seg_id": "S1-L4",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血糖不疼不痒的误区",
+    "template": "number_center",
+    "items": [
+      "1000"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1387,
+    "seg_id": "S1-L5",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血糖不疼不痒的误区",
+    "template": "warning_alert",
+    "items": [
+      "每次听到这话都替患者捏一把汗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1388,
+    "seg_id": "S1-L6",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血糖不疼不痒的误区",
+    "template": "hero_text",
+    "items": [
+      "最可怕的不是数字，是血管被糖泡坏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1389,
+    "seg_id": "S2-L1",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血管损伤机制",
+    "template": "split_column",
+    "items": [
+      "血管壁光滑如滑滑梯",
+      "高血糖让内膜越来越粗糙"
+    ],
+    "needs_animation": true,
+    "label": "高血糖损伤血管内膜的病理过程"
+  },
+  {
+    "global_index": 1390,
+    "seg_id": "S2-L2",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血管损伤机制",
+    "template": "step_arrow",
+    "items": [
+      "内膜粗糙化",
+      "胆固醇脂肪附着堆积",
+      "血管变窄变硬形成斑块"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块形成过程"
+  },
+  {
+    "global_index": 1391,
+    "seg_id": "S2-L3",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血管损伤机制",
+    "template": "warning_alert",
+    "items": [
+      "糖尿病人心梗脑梗风险高出数倍",
+      "血管不是天生差，是被糖硬泡坏的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1392,
+    "seg_id": "S3-L1",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "三大靶器官损伤",
+    "template": "hero_text",
+    "items": [
+      "最先下手的是你感觉不到的地方"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1393,
+    "seg_id": "S3-L2",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "三大靶器官损伤",
+    "template": "step_arrow",
+    "items": [
+      "看东西模糊揉揉就好",
+      "视网膜已悄悄渗血",
+      "真正看不清时已晚"
+    ],
+    "needs_animation": true,
+    "label": "糖尿病视网膜微血管病变过程"
+  },
+  {
+    "global_index": 1394,
+    "seg_id": "S3-L3",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "三大靶器官损伤",
+    "template": "step_arrow",
+    "items": [
+      "微血管过滤网被泡坏",
+      "蛋白质漏入尿液起泡沫",
+      "最终走向长期透析"
+    ],
+    "needs_animation": true,
+    "label": "糖尿病肾小球滤过屏障损伤过程"
+  },
+  {
+    "global_index": 1395,
+    "seg_id": "S3-L4",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "三大靶器官损伤",
+    "template": "list_fade",
+    "items": [
+      "手脚麻木感觉迟钝",
+      "脚扎钉子不知道疼",
+      "伤口感染才被发现"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1396,
+    "seg_id": "S3-L5",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "三大靶器官损伤",
+    "template": "brick_stack",
+    "items": [
+      "高血糖持续损伤血管",
+      "神经同步被糖泡坏",
+      "小伤口感染失控",
+      "最终导致截肢"
+    ],
+    "needs_animation": true,
+    "label": "糖尿病周围神经病变与糖尿病足病理进展"
+  },
+  {
+    "global_index": 1397,
+    "seg_id": "S4-L1",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "控糖行动指南",
+    "template": "hero_text",
+    "items": [
+      "糖尿病是单行线，但你决定走多快"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1398,
+    "seg_id": "S4-L2",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "控糖行动指南",
+    "template": "number_center",
+    "items": [
+      "7%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1399,
+    "seg_id": "S4-L3",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "控糖行动指南",
+    "template": "number_center",
+    "items": [
+      "0.8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

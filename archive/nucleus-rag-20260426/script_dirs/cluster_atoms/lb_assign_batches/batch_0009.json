@@ -1,0 +1,286 @@
+[
+  {
+    "file": "ANH00016_Blood Transfusion.mp4",
+    "title": "ANH00016 Blood Transfusion",
+    "start_sec": 126.52,
+    "end_sec": 137.94,
+    "text_en": "After the bag is empty if you require more blood, another bag will be attached to the When your transfusion is completed, the needle will be removed.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00016_Blood Transfusion.mp4",
+    "title": "ANH00016 Blood Transfusion",
+    "start_sec": 137.94,
+    "end_sec": 150.0,
+    "text_en": "After your transfusion, your doctor will monitor your vital signs to make sure you're not having an adverse reaction. If necessary, you may be given a diuretic to reduce any swelling or fluid retention.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00019_Cardioversion.mp4",
+    "title": "ANH00019 Cardioversion",
+    "start_sec": 0.0,
+    "end_sec": 15.76,
+    "text_en": "If you have an abnormal heart rhythm, your doctor may perform electrical cardioversion, where he or she uses an electrical shock to restore your normal heart beat.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANH00019_Cardioversion.mp4",
+    "title": "ANH00019 Cardioversion",
+    "start_sec": 15.76,
+    "end_sec": 26.44,
+    "text_en": "The heart normally beats in a regular rhythm at 60 to 100 beats per minute. This steady and coordinated rhythm allows the heart to effectively pump blood.",
+    "category_ids": [
+      34
+    ]
+  },
+  {
+    "file": "ANH00019_Cardioversion.mp4",
+    "title": "ANH00019 Cardioversion",
+    "start_sec": 26.44,
+    "end_sec": 52.4,
+    "text_en": "The electrical signals that travel through the heart control the heart's rhythm. These electrical signals start in a cluster of cells called the Sinoatrial node or pacemaker. The Sinoatrial node or SA node is located in the wall of the right upper chamber of the heart, called the right atrium. When the electrical signals reach the heart muscle, they cause it to contract and pump blood.",
+    "category_ids": [
+      34
+    ]
+  },
+  {
+    "file": "ANH00019_Cardioversion.mp4",
+    "title": "ANH00019 Cardioversion",
+    "start_sec": 52.4,
+    "end_sec": 67.36,
+    "text_en": "An abnormal heart rhythm is called an arrhythmia. During atrial fibrillation, the atria quiver because of chaotic electrical signals in the heart, resulting in an abnormally fast or irregular heartbeat.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANH00019_Cardioversion.mp4",
+    "title": "ANH00019 Cardioversion",
+    "start_sec": 67.36,
+    "end_sec": 89.52,
+    "text_en": "Because of the abnormal heartbeat, blood may pool in the atria, which can result in the formation of a blood clot. If the blood clot passes into the general circulation, it may cause a stroke.",
+    "category_ids": [
+      120
+    ]
+  },
+  {
+    "file": "ANH00019_Cardioversion.mp4",
+    "title": "ANH00019 Cardioversion",
+    "start_sec": 89.52,
+    "end_sec": 102.92,
+    "text_en": "Before the procedure, you will be connected to an intravenous line. You will be sedated so you will sleep through the procedure. EKG electrodes will be placed on your chest to monitor your heart's electrical activity.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00019_Cardioversion.mp4",
+    "title": "ANH00019 Cardioversion",
+    "start_sec": 102.92,
+    "end_sec": 125.0,
+    "text_en": "Once you are sedated, special cardioversion pads or paddles will be placed on the skin of your chest or your chest and back. These pads or paddles will deliver electrical shock through your chest to your heart. The shock may be repeated several times until the heart resumes its normal rhythm.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANH00019_Cardioversion.mp4",
+    "title": "ANH00019 Cardioversion",
+    "start_sec": 125.0,
+    "end_sec": 137.64,
+    "text_en": "After your electrical cardioversion, you will be monitored closely in a recovery room or in the coronary care unit of the hospital. Once the sedation wears off and you are in stable condition, you will be set home.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00023_Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA).mp4",
+    "title": "ANH00023 Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA)",
+    "start_sec": 0.0,
+    "end_sec": 17.76,
+    "text_en": "Non-cardiac percutaneous transliminal angioplasty. A surgeon will perform a non-cardiac percutaneous transliminal angioplasty, or NCPTA, to restore blood flow in an artery blocked by an atherosclerotic plaque.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANH00023_Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA).mp4",
+    "title": "ANH00023 Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA)",
+    "start_sec": 17.76,
+    "end_sec": 40.16,
+    "text_en": "Fatty deposits called atherosclerotic plaques can build up inside your arteries, narrowing the passageway and interfering with blood flow. This arterial blockage is called stenosis. Insufficient blood flow to a tissue generally causes pain.",
+    "category_ids": [
+      1,
+      133
+    ]
+  },
+  {
+    "file": "ANH00023_Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA).mp4",
+    "title": "ANH00023 Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA)",
+    "start_sec": 84.76,
+    "end_sec": 106.04,
+    "text_en": "Watching on the fluoroscopy screen, your doctor will gently advance the catheter until it is positioned in the artery being treated and eject a special die. This die allows the fluoroscope to take x-ray images called angiograms, which lets your doctor identify the exact location of the blockages.",
+    "category_ids": [
+      54
+    ]
+  },
+  {
+    "file": "ANH00023_Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA).mp4",
+    "title": "ANH00023 Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA)",
+    "start_sec": 106.04,
+    "end_sec": 133.72,
+    "text_en": "Next, your doctor will move the catheter until the deflated balloon at its tip is positioned at the site of the stenosis. Then, by rapidly inflating and deflating the balloon, your doctor will gently push the plaque and vessel wall out, partially reestablishing blood flow. This procedure may be repeated for any additional blockages.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANH00023_Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA).mp4",
+    "title": "ANH00023 Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA)",
+    "start_sec": 154.52,
+    "end_sec": 159.32,
+    "text_en": "At the end of the procedure, your doctor will remove the catheter through the original insertion site.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00023_Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA).mp4",
+    "title": "ANH00023 Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA)",
+    "start_sec": 159.64,
+    "end_sec": 172.28,
+    "text_en": "After your procedure, a pressure bandage will be applied to the catheter insertion site, and you will be asked to lie still to prevent bleeding.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 0.0,
+    "end_sec": 12.0,
+    "text_en": "Your surgeon will perform an aortic valve replacement if your aortic valve is not functioning properly.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 12.0,
+    "end_sec": 51.0,
+    "text_en": "The heart is a muscular organ that pumps blood through the body. It consists of four chambers. The upper chambers are the right and left atria. The lower chambers are the right and left ventricles. The right and left atria connect to their respective ventricles. The right ventricle connects to the pulmonary artery and the left ventricle to the aorta. Valves are located at these connections to ensure that blood moves in only one direction. The parts of a valve that open and close are flaps of tissue called cusps.",
+    "category_ids": [
+      46
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 51.0,
+    "end_sec": 77.0,
+    "text_en": "The aortic valve is located between the left ventricle and the aorta. When the heart contracts, the aortic valve opens and blood is pumped into the aorta. When the heart relaxes, it closes to prevent blood from leaking back into the left ventricle. A normal aortic valve has three smooth cusps that open widely and close tightly.",
+    "category_ids": [
+      127,
+      46
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 77.0,
+    "end_sec": 96.0,
+    "text_en": "Your aortic valve may be leaky or narrowed, causing your heart to work harder and disrupt your blood flow. A leaky valve does not close all the way, causing blood to leak back into the ventricle between each heartbeat. This condition is called aortic regurgitation.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 96.0,
+    "end_sec": 109.0,
+    "text_en": "A narrowed aortic valve does not open all the way, which restricts the amount of blood passing out of the ventricle into the aorta. This condition is called aortic stenosis.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 110.0,
+    "end_sec": 122.0,
+    "text_en": "You may have been born with an abnormal aortic valve. For example, your aortic valve may only have two cusps instead of three, so it may not open and close properly.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 122.0,
+    "end_sec": 147.0,
+    "text_en": "Your aortic valve may have become damaged during your lifetime, a condition called acquired aortic valve disease. Causes include rheumatic fever, which can be a complication of untreated strep throat. Andocarditis, which is a bacterial infection of the valve, and sclerosis or hardening of the aortic leaflets.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 147.0,
+    "end_sec": 169.0,
+    "text_en": "After a period of time, a faulty aortic valve can cause the heart muscles to become enlarged and weakened. Depending on the nature of the valve's defect, the walls of the left ventricle may become abnormally thick or thin, and the problem can eventually affect the right side of the heart as well.",
+    "category_ids": [
+      127,
+      75,
+      134
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 169.0,
+    "end_sec": 188.0,
+    "text_en": "Patients with this condition known as heart failure may experience shortness of breath, chest pain or angina pectoris, dizziness, lightheadedness, and or fainting, swelling of the ankles, feet and legs, and fatigue.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 188.0,
+    "end_sec": 195.0,
+    "text_en": "An aortic valve replacement is performed to restore the valve to normal function.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 195.0,
+    "end_sec": 202.0,
+    "text_en": "Before your procedure, an IV line will be started in your arm to provide fluids and medications.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 202.0,
+    "end_sec": 207.0,
+    "text_en": "A catheter will be inserted into your bladder to drain urine.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 207.0,
+    "end_sec": 223.0,
+    "text_en": "Aortic valve replacements are done under general anesthesia. This means you will be asleep for the duration of the operation, and a tube will be placed through your mouth and into your windpipe to help you breathe during surgery.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 223.0,
+    "end_sec": 237.0,
+    "text_en": "Once the anesthesia takes effect, your surgeon will begin by making an incision in the chest. The traditional incision is made in the middle of the chest, overlying the breastbone or sternum.",
+    "category_ids": []
+  }
+]

@@ -1,0 +1,498 @@
+[
+  {
+    "global_index": 800,
+    "seg_id": "S4-L1",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "年轻人猝死的隐形病因",
+    "template": "color_grid",
+    "items": [
+      "扩张性心肌病",
+      "肥厚性心肌病"
+    ],
+    "needs_animation": true,
+    "label": "扩张性与肥厚性心肌病心脏结构对比"
+  },
+  {
+    "global_index": 801,
+    "seg_id": "S4-L2",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "年轻人猝死的隐形病因",
+    "template": "hero_text",
+    "items": [
+      "平时一点症状都没有，不查发现不了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 802,
+    "seg_id": "S4-L3",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "年轻人猝死的隐形病因",
+    "template": "hero_text",
+    "items": [
+      "问题早就埋在那儿，只是没人发现"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 803,
+    "seg_id": "S4-L4",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "年轻人猝死的隐形病因",
+    "template": "hero_text",
+    "items": [
+      "不是突然出问题，是一直没被发现"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 804,
+    "seg_id": "S4-L5",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "年轻人猝死的隐形病因",
+    "template": "hero_text",
+    "items": [
+      "早一点查出来，结果可能完全不同"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 805,
+    "seg_id": "S5-L1",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "身体已在发信号",
+    "template": "hero_text",
+    "items": [
+      "猝死前，身体其实发过信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 806,
+    "seg_id": "S5-L2",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "身体已在发信号",
+    "template": "list_fade",
+    "items": [
+      "反复胸痛、胸闷",
+      "心悸、气短",
+      "乏力、出汗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 807,
+    "seg_id": "S5-L3",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "身体已在发信号",
+    "template": "hero_text",
+    "items": [
+      "没当回事，以为忍忍就过去了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 808,
+    "seg_id": "S6-L1",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "请认真对待身体警报",
+    "template": "hero_text",
+    "items": [
+      "身体发出警告信号，请一定重视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 809,
+    "seg_id": "S6-L2",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "请认真对待身体警报",
+    "template": "list_fade",
+    "items": [
+      "该检查的检查，该用药的用药",
+      "别扛着，赶紧去医院查一查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 810,
+    "seg_id": "S6-L3",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "请认真对待身体警报",
+    "template": "hero_text",
+    "items": [
+      "这是对自己负责，也是对爱你的人负责"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 811,
+    "seg_id": "S6-L4",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "请认真对待身体警报",
+    "template": "hero_text",
+    "items": [
+      "反复不舒服出现，这不是小题大做"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 812,
+    "seg_id": "S7-L1",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "该查哪些检查",
+    "template": "hero_text",
+    "items": [
+      "具体查什么，来说清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 813,
+    "seg_id": "S7-L2",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "该查哪些检查",
+    "template": "list_fade",
+    "items": [
+      "心电图：看心脏电信号",
+      "心脏彩超：看结构和功能",
+      "抽血：血脂血糖肝肾功能",
+      "测血压：是否偏高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 814,
+    "seg_id": "S7-L3",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "该查哪些检查",
+    "template": "hero_text",
+    "items": [
+      "心电图发现心脏电信号异常"
+    ],
+    "needs_animation": true,
+    "label": "心脏电传导系统异常"
+  },
+  {
+    "global_index": 815,
+    "seg_id": "S7-L4",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "该查哪些检查",
+    "template": "hero_text",
+    "items": [
+      "彩超发现心脏扩大或心肌肥厚"
+    ],
+    "needs_animation": true,
+    "label": "心脏扩大与心肌肥厚结构对比"
+  },
+  {
+    "global_index": 816,
+    "seg_id": "S7-L5",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "该查哪些检查",
+    "template": "hero_text",
+    "items": [
+      "三高是心血管斑块的重要诱因"
+    ],
+    "needs_animation": true,
+    "label": "三高促进冠状动脉斑块形成"
+  },
+  {
+    "global_index": 817,
+    "seg_id": "S7-L6",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "该查哪些检查",
+    "template": "hero_text",
+    "items": [
+      "花费不多，能排除大部分心脏隐患"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 818,
+    "seg_id": "S7-L7",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "该查哪些检查",
+    "template": "hero_text",
+    "items": [
+      "简单检查，排除大多数心脏风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 819,
+    "seg_id": "S8-L1",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "高危人群做进阶检查",
+    "template": "list_fade",
+    "items": [
+      "超过40岁",
+      "有高血压糖尿病高血脂",
+      "长期吸烟熬夜压力大",
+      "偶尔出现胸闷心痛症状"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 820,
+    "seg_id": "S8-L2",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "高危人群做进阶检查",
+    "template": "hero_text",
+    "items": [
+      "直接看到血管斑块和堵塞程度"
+    ],
+    "needs_animation": true,
+    "label": "冠脉造影显示血管斑块与狭窄程度"
+  },
+  {
+    "global_index": 821,
+    "seg_id": "S8-L3",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "高危人群做进阶检查",
+    "template": "list_fade",
+    "items": [
+      "家族中有年轻猝死史",
+      "运动时晕倒过",
+      "出现过一过性眼前发黑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 822,
+    "seg_id": "S8-L4",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "高危人群做进阶检查",
+    "template": "hero_text",
+    "items": [
+      "24小时监测，揪出隐藏心律失常"
+    ],
+    "needs_animation": true,
+    "label": "心律失常的心脏电活动异常"
+  },
+  {
+    "global_index": 823,
+    "seg_id": "S8-L5",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "高危人群做进阶检查",
+    "template": "hero_text",
+    "items": [
+      "这些检查不复杂，但很多人从未做过"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 824,
+    "seg_id": "S9-L1",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "日常防护：别让斑块养大",
+    "template": "hero_text",
+    "items": [
+      "查完没问题，也要持续管理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 825,
+    "seg_id": "S9-L2",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "日常防护：别让斑块养大",
+    "template": "hero_text",
+    "items": [
+      "斑块是日积月累长出来的"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块逐步形成过程"
+  },
+  {
+    "global_index": 826,
+    "seg_id": "S9-L3",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "日常防护：别让斑块养大",
+    "template": "list_fade",
+    "items": [
+      "血压控制在正常范围",
+      "血糖控制在正常范围",
+      "血脂控制在正常范围"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 827,
+    "seg_id": "S9-L4",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "日常防护：别让斑块养大",
+    "template": "warning_alert",
+    "items": [
+      "血压血糖血脂是养大斑块的帮凶"
+    ],
+    "needs_animation": true,
+    "label": "三高促进冠状动脉斑块增大"
+  },
+  {
+    "global_index": 828,
+    "seg_id": "S9-L5",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "日常防护：别让斑块养大",
+    "template": "list_fade",
+    "items": [
+      "少油少盐，别暴饮暴食",
+      "一定要戒烟"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 829,
+    "seg_id": "S9-L6",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "日常防护：别让斑块养大",
+    "template": "warning_alert",
+    "items": [
+      "烟对血管内膜的损伤最直接"
+    ],
+    "needs_animation": true,
+    "label": "吸烟损伤血管内膜过程"
+  },
+  {
+    "global_index": 830,
+    "seg_id": "S9-L7",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "日常防护：别让斑块养大",
+    "template": "hero_text",
+    "items": [
+      "每周3~5次，每次30分钟有氧运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 831,
+    "seg_id": "S9-L8",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "日常防护：别让斑块养大",
+    "template": "list_fade",
+    "items": [
+      "保证睡眠，别长期熬夜",
+      "保持好心情，别什么都往心里去"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 832,
+    "seg_id": "S9-L9",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "日常防护：别让斑块养大",
+    "template": "hero_text",
+    "items": [
+      "情绪稳定，睡眠充足是护心关键"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 833,
+    "seg_id": "S9-L10",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "日常防护：别让斑块养大",
+    "template": "hero_text",
+    "items": [
+      "冠心病心衰患者，遵医嘱坚持治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 834,
+    "seg_id": "S9-L11",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "日常防护：别让斑块养大",
+    "template": "warning_alert",
+    "items": [
+      "没有症状就停药不复查，很危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 835,
+    "seg_id": "S9-L12",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "日常防护：别让斑块养大",
+    "template": "hero_text",
+    "items": [
+      "很多悲剧，就是因为擅自停药发生的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 836,
+    "seg_id": "S10-L1",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "结语：好好活着最重要",
+    "template": "hero_text",
+    "items": [
+      "最不愿看到：本可救回，却错过时机"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 837,
+    "seg_id": "S10-L2",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "结语：好好活着最重要",
+    "template": "hero_text",
+    "items": [
+      "猝死可怕，但它不是不可预防的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 838,
+    "seg_id": "S10-L3",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "结语：好好活着最重要",
+    "template": "hero_text",
+    "items": [
+      "你好好的，比什么都重要"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 839,
+    "seg_id": "S1-L1",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死并非偶然",
+    "template": "hero_text",
+    "items": [
+      "每次猝死都是蓄谋已久的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

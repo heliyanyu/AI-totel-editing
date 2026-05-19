@@ -1,0 +1,316 @@
+[
+  {
+    "file": "ANH14141_Left Ventricular Assist Device (LVAD).mp4",
+    "title": "ANH14141 Left Ventricular Assist Device (LVAD)",
+    "start_sec": 0,
+    "end_sec": 26.9,
+    "summary_zh": "心脏四腔结构介绍：右心房、左心房、右心室、左心室，以及左心室通过主动脉向全身泵血供氧的正常功能",
+    "text_en": "The heart has four muscular pumping chambers, the right atrium, the left atrium, the right ventricle, and the left ventricle. The left ventricle pumps blood out through a large artery called the aorta to supply the body with the oxygen and nutrients it needs.",
+    "category_ids": [
+      46,
+      126
+    ]
+  },
+  {
+    "file": "ANH14141_Left Ventricular Assist Device (LVAD).mp4",
+    "title": "ANH14141 Left Ventricular Assist Device (LVAD)",
+    "start_sec": 26.9,
+    "end_sec": 49.9,
+    "summary_zh": "左心衰竭的定义与分型：左心室无法泵出足够血液；舒张性心衰（左心室无法充分舒张充盈）和更常见的收缩性心衰（左心室收缩力不足）",
+    "text_en": "When left-sided heart failure, the left ventricle is not able to pump enough blood to the body. The two types of left-handed heart failure are diastolic, where the left ventricle can't relax enough to fill with blood, and more commonly systolic, where the left ventricle can't contract strongly enough to push blood to the body.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "ANH14141_Left Ventricular Assist Device (LVAD).mp4",
+    "title": "ANH14141 Left Ventricular Assist Device (LVAD)",
+    "start_sec": 49.9,
+    "end_sec": 70.4,
+    "summary_zh": "终末期心衰与LVAD适应症：严重心衰时心脏持续衰弱且对药物无反应，医生可能建议植入左心室辅助装置（LVAD）帮助心脏泵血",
+    "text_en": "In severe or end-stage heart failure, the heart is getting weaker and doesn't respond to medication. For left-sided end-stage systolic heart failure, a doctor may recommend an implantable left ventricular assist device, or LVAD, to help the heart pump enough blood to the body.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "ANH14141_Left Ventricular Assist Device (LVAD).mp4",
+    "title": "ANH14141 Left Ventricular Assist Device (LVAD)",
+    "start_sec": 70.4,
+    "end_sec": 93.5,
+    "summary_zh": "LVAD工作原理：LVAD是植入胸腔或腹腔的小型机械泵，血液从左心室经入流管进入泵体，再经出流管被推入主动脉，随后正常输送至全身",
+    "text_en": "An LVAD is a small mechanical pump implanted inside the chest or abdomen that takes over the job of the weak left ventricle. Blood flows from the left ventricle through an inflow tube to the pump. The pump pushes the blood through an outflow tube into the aorta. From here, the blood travels normally from the aorta to the rest of the body.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "ANH14141_Left Ventricular Assist Device (LVAD).mp4",
+    "title": "ANH14141 Left Ventricular Assist Device (LVAD)",
+    "start_sec": 93.5,
+    "end_sec": 124.5,
+    "summary_zh": "LVAD外部组件：驱动线缆连接体内泵与体外控制单元；控制单元是监控泵功能并发出警报的小型电脑；电池组为泵和控制单元供电；控制单元和电池装在轻便的患者背包中",
+    "text_en": "A cable, called a drive line, connects the LVAD pump inside the chest to a control unit located on the outside of the body. The control unit is a small computer that controls the functions of the pump and alerts the patient if there are any problems. The pump and control unit receive power through a cord connected to a battery pack. Finally, the control unit and battery pack are held in a lightweight patient pack.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH14141_Left Ventricular Assist Device (LVAD).mp4",
+    "title": "ANH14141 Left Ventricular Assist Device (LVAD)",
+    "start_sec": 124.5,
+    "end_sec": 137.3,
+    "summary_zh": "LVAD的临床用途：可作为等待心脏移植前的过渡治疗，或对于无法接受移植的患者用作终点治疗（长期治疗）",
+    "text_en": "An LVAD may be a temporary treatment until a heart transplant can be performed, or if the patient isn't able to have a heart transplant, an LVAD may be used for destination therapy, which is long-term treatment.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "ANH15144_Understanding Triglycerides.mp4",
+    "title": "ANH15144 Understanding Triglycerides",
+    "start_sec": 15,
+    "end_sec": 50,
+    "summary_zh": "甘油三酯的定义与来源：甘油三酯是血液中的一种脂质，为身体提供能量。其来源包括肝脏合成和饮食摄入。可升高甘油三酯的食物包括高脂肪食物（如热狗、热带油脂）、精制碳水化合物（如薯条）、高糖食物（如甜甜圈）以及酒精。",
+    "text_en": "Triglycerides are a type of fat or lipid found in your blood. Your body uses triglycerides for energy. One place triglycerides come from is your liver. Another is from the food you eat. Foods that may raise your triglycerides include fatty foods such as hot dogs and tropical oils, refined carbohydrates such as french fries, foods high in simple sugars such as donuts, and alcohol.",
+    "category_ids": [
+      107
+    ]
+  },
+  {
+    "file": "ANH15144_Understanding Triglycerides.mp4",
+    "title": "ANH15144 Understanding Triglycerides",
+    "start_sec": 50,
+    "end_sec": 93.9,
+    "summary_zh": "甘油三酯的转运与利用机制：食物中的甘油三酯经消化后到达肝脏，在肝脏中与蛋白质结合形成脂蛋白（lipoprotein）。脂蛋白通过血液循环将甘油三酯运送至全身细胞供能，多余的甘油三酯则被脂肪细胞储存为体脂。",
+    "text_en": "So how do triglycerides get to the cells that need them? Glycerides in food are digested and eventually reach your liver. In the liver, both the triglycerides from your food and those made in your liver are packaged together with proteins. Each resulting molecule is called a lipoprotein. The lipoproteins travel throughout the body in your bloodstream. They deliver triglycerides to your cells which use them for energy. Or if you have more than you need, fat cells store the triglycerides as body fat.",
+    "category_ids": [
+      107
+    ]
+  },
+  {
+    "file": "ANH15144_Understanding Triglycerides.mp4",
+    "title": "ANH15144 Understanding Triglycerides",
+    "start_sec": 93.9,
+    "end_sec": 136.5,
+    "summary_zh": "甘油三酯的检测与数值范围：美国国立卫生研究院建议20岁以上人群每5年进行一次空腹脂蛋白谱检测（禁食9-12小时后抽血）。正常空腹甘油三酯应低于150 mg/dL，500 mg/dL及以上属于极高水平，意味着血液中脂肪过多。",
+    "text_en": "If you are 20 years of age or older, the National Institutes of Health recommends you have a blood test every 5 years. The test is called a fasting lipoprotein profile. During this test, a blood sample will be taken from your arm after you have not eaten for 9-12 hours. This blood test can reveal whether your triglycerides fall into a healthy range. For most people, fasting triglycerides should be less than 150 mg per desoliter. 500 or higher puts you into the very high range. This means there is too much fat in your blood.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH15144_Understanding Triglycerides.mp4",
+    "title": "ANH15144 Understanding Triglycerides",
+    "start_sec": 136.5,
+    "end_sec": 151.4,
+    "summary_zh": "高甘油三酯的健康风险：极高的甘油三酯水平会增加胰腺炎及心血管疾病（如心脏病）的风险。建议咨询医生了解自身甘油三酯的目标水平。",
+    "text_en": "Very high triglycerides can increase your risk of pancreatitis and other cardiovascular events like heart disease. Ask your doctor what your triglyceride level should be.",
+    "category_ids": [
+      131
+    ]
+  },
+  {
+    "file": "ANH15144_Understanding Triglycerides.mp4",
+    "title": "ANH15144 Understanding Triglycerides",
+    "start_sec": 151.4,
+    "end_sec": 189.2,
+    "summary_zh": "甘油三酯的管理与治疗：生活方式改变（低糖低精制碳水饮食、限酒、规律运动、体重管理、戒烟）有助于维持健康的甘油三酯水平。药物也可用于治疗，需遵医嘱服药并报告副作用。",
+    "text_en": "In many cases, lifestyle changes can help maintain healthy triglyceride levels. These changes include eating a diet low in sweets, refined carbohydrates and alcohol, eating regular exercise, managing your weight and not smoking. Medications can also help treat impaired triglyceride levels. If your doctor prescribed medication to treat high triglycerides, it is important to take it as directed and report any side effects you may have.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH15145_LDL and HDL Cholesterol.mp4",
+    "title": "ANH15145 LDL and HDL Cholesterol",
+    "start_sec": 13.3,
+    "end_sec": 34.4,
+    "summary_zh": "胆固醇基础知识：胆固醇是肝脏合成的脂类物质，也来源于食物，被包装成脂蛋白颗粒。人体需要胆固醇来合成激素、维生素D和帮助消化的胆汁。",
+    "text_en": "Cholesterol is a fat-like substance made by your liver and also comes from foods you intake that is then packaged into particles called lipoproteins. Your body needs cholesterol to make hormones, vitamin D, and a substance that helps you digest food called bile.",
+    "category_ids": [
+      107
+    ]
+  },
+  {
+    "file": "ANH15145_LDL and HDL Cholesterol.mp4",
+    "title": "ANH15145 LDL and HDL Cholesterol",
+    "start_sec": 34.4,
+    "end_sec": 52.4,
+    "summary_zh": "两种脂蛋白介绍：低密度脂蛋白（LDL，坏胆固醇）和高密度脂蛋白（HDL，好胆固醇）的命名与分类。",
+    "text_en": "This video discusses two types of lipoproteins that carry cholesterol, low-density lipoprotein or LDL cholesterol, also known as bad cholesterol, and high-density lipoprotein or HDL cholesterol also known as good cholesterol.",
+    "category_ids": [
+      109
+    ]
+  },
+  {
+    "file": "ANH15145_LDL and HDL Cholesterol.mp4",
+    "title": "ANH15145 LDL and HDL Cholesterol",
+    "start_sec": 52.4,
+    "end_sec": 86,
+    "summary_zh": "LDL的作用与危害：LDL在血液中运输胆固醇至细胞；过量LDL沉积在动脉壁内，与其他物质形成脂肪斑块（粥样硬化），逐渐使动脉狭窄、血流减少，因此被称为坏胆固醇。",
+    "text_en": "LDL travels through your bloodstream, delivering cholesterol to the cells that need it. If your body has too much LDL, it can build up in the walls of your arteries. LDL and other substances in your artery wall form a fatty deposit called plaque. Over time, plaque can narrow the artery and reduce blood flow. LDL carries cholesterol into the plaque. This is why LDL is called the bad cholesterol.",
+    "category_ids": [
+      1,
+      109
+    ]
+  },
+  {
+    "file": "ANH15145_LDL and HDL Cholesterol.mp4",
+    "title": "ANH15145 LDL and HDL Cholesterol",
+    "start_sec": 86,
+    "end_sec": 111,
+    "summary_zh": "斑块导致的疾病：冠状动脉斑块堆积引发冠心病，增加心脏病发作风险；颈动脉等其他动脉的斑块堆积减少脑部血流，增加中风风险。",
+    "text_en": "A commonplace this plaque can build up is in your coronary arteries, which are the blood vessels that feed your heart. This plaque build up causes coronary artery disease and increases your risk of a heart attack. plaque build up in other arteries, such as the carotid arteries in your neck, can reduce blood flow to your brain and increase the risk of a stroke.",
+    "category_ids": [
+      133,
+      8
+    ]
+  },
+  {
+    "file": "ANH15145_LDL and HDL Cholesterol.mp4",
+    "title": "ANH15145 LDL and HDL Cholesterol",
+    "start_sec": 111,
+    "end_sec": 140.8,
+    "summary_zh": "HDL的保护作用：肝脏合成HDL（好胆固醇），HDL从细胞、组织和血管斑块中移除多余胆固醇，并将其运回肝脏排出体外，发挥逆向胆固醇转运的保护功能。",
+    "text_en": "Your liver also makes high-density lipoprotein or HDL also known as the good cholesterol. HDL helps remove excess cholesterol from your cells, tissues, and from plaque in your blood vessels. This is why HDL is called the good cholesterol. HDL returns the excess cholesterol to your liver, which removes it from your body.",
+    "category_ids": [
+      109
+    ]
+  },
+  {
+    "file": "ANH15146_High Cholesterol Management.mp4",
+    "title": "ANH15146 High Cholesterol Management",
+    "start_sec": 16.7,
+    "end_sec": 54.3,
+    "summary_zh": "心脏健康饮食与有害脂肪：饱和脂肪、氢化脂肪和反式脂肪会升高低密度脂蛋白（LDL）即坏胆固醇，这些脂肪存在于肉类、乳制品、热带油脂和加工食品中",
+    "text_en": "If your cholesterol levels are too high, it's important to eat a heart-healthy diet. To eat a heart-healthy diet, you need to understand how the types of fats you eat can affect your cholesterol level. For example, saturated fats, hydrogenated fats, and trans fats tend to raise the bad cholesterol, also called low-density lipoprotein or LDL cholesterol in your blood. These fats are found in meat and dairy products, tropical oils, and many processed foods, such as cakes and cookies.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH15146_High Cholesterol Management.mp4",
+    "title": "ANH15146 High Cholesterol Management",
+    "start_sec": 54.3,
+    "end_sec": 77.5,
+    "summary_zh": "不饱和脂肪的益处：用不饱和脂肪（多不饱和脂肪和单不饱和脂肪）替代饱和脂肪可降低坏胆固醇，这类脂肪存在于三文鱼、牛油果、坚果和橄榄油中",
+    "text_en": "Facing saturated fats with unsaturated fats may help lower the bad cholesterol in your blood when eaten as part of a heart-healthy diet. Unsaturated fats include polyunsaturated and mono-unsaturated fats and are found in foods such as salmon, avocados, nuts, and olive oils.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH15146_High Cholesterol Management.mp4",
+    "title": "ANH15146 High Cholesterol Management",
+    "start_sec": 77.5,
+    "end_sec": 102.2,
+    "summary_zh": "其他健康生活方式：戒烟和中等强度有氧运动（如每周五天每天30分钟步行骑车或游泳），建议咨询医生制定适合的饮食和运动计划",
+    "text_en": "Other heart-healthy lifestyle decisions you can make are to stop smoking and get adequate, moderate intensity aerobic exercise. Walking, biking, or swimming 30 minutes a day, five days a week, may be a good exercise Talk to your doctor about the type of diet and exercise plans most appropriate for your health and cholesterol levels.",
+    "category_ids": [
+      40
+    ]
+  },
+  {
+    "file": "ANH15146_High Cholesterol Management.mp4",
+    "title": "ANH15146 High Cholesterol Management",
+    "start_sec": 102.2,
+    "end_sec": 132.6,
+    "summary_zh": "他汀类药物：当生活方式改变不足以降低胆固醇时医生可能处方药物，他汀类是最常见的降LDL药物，通过减少肝脏合成胆固醇起效，同时可适度降低甘油三酯并升高HDL好胆固醇",
+    "text_en": "If lifestyle changes can't reduce your cholesterol levels enough, your doctor may prescribe certain medications to reduce it. Modest medicines are the most common medication for lowering LDL or bad cholesterol by reducing the amount made in your liver. However, they have modest effects on lowering another type of fat in your blood called triglycerides, and raising good cholesterol, also called high-density lipoprotein or HDL cholesterol.",
+    "category_ids": [
+      57
+    ]
+  },
+  {
+    "file": "ANH15146_High Cholesterol Management.mp4",
+    "title": "ANH15146 High Cholesterol Management",
+    "start_sec": 132.6,
+    "end_sec": 153.5,
+    "summary_zh": "胆酸结合剂：肝脏利用胆固醇合成胆汁帮助消化，胆酸结合药物与胆汁结合阻止其参与消化，迫使肝脏消耗更多胆固醇来制造胆汁从而降低血液中胆固醇水平",
+    "text_en": "Your liver uses cholesterol to make a substance called bile, which helps digest your food. Cholesterol acid binding drugs bind to bile and prevent it from being used in digestion. This causes the liver to use more cholesterol to make more bile, thereby decreasing the amount of cholesterol in your bloodstream.",
+    "category_ids": [
+      107
+    ]
+  },
+  {
+    "file": "ANH15146_High Cholesterol Management.mp4",
+    "title": "ANH15146 High Cholesterol Management",
+    "start_sec": 153.5,
+    "end_sec": 168.2,
+    "summary_zh": "胆固醇吸收抑制剂与贝特类药物：胆固醇吸收抑制剂阻断肠道对食物中胆固醇的吸收，贝特类药物主要降低甘油三酯同时可升高HDL水平",
+    "text_en": "Cholesterol absorption inhibitors block some of the cholesterol taken up by your intestines from the food you eat. Fibrates are mainly used to reduce triglyceride levels in your blood, but they can also raise HDL levels.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH15146_High Cholesterol Management.mp4",
+    "title": "ANH15146 High Cholesterol Management",
+    "start_sec": 168.2,
+    "end_sec": 178.2,
+    "summary_zh": "烟酸类药物：烟酸可降低LDL胆固醇和甘油三酯，同时增加肝脏合成的HDL胆固醇",
+    "text_en": "Cholesterol acid reduces LDL cholesterol and triglycerides and increases HDL cholesterol made in your liver.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH16169_Blood Test for Cholesterol.mp4",
+    "title": "ANH16169 Blood Test for Cholesterol",
+    "start_sec": 12.6,
+    "end_sec": 47.6,
+    "summary_zh": "空腹脂蛋白检测介绍：NIH建议20岁以上每5年检测一次，检测项目包括总胆固醇、LDL（坏胆固醇）、HDL（好胆固醇）和甘油三酯",
+    "text_en": "The National Institutes of Health cholesterol treatment guidelines recommend you have a blood test every five years if you are twenty years or older. The test, called a fasting lipoprotein profile, measures your levels of total cholesterol LDL, also known as bad cholesterol HDL, also known as good cholesterol and a type of fat in your blood called triglycerides.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH16169_Blood Test for Cholesterol.mp4",
+    "title": "ANH16169 Blood Test for Cholesterol",
+    "start_sec": 47.6,
+    "end_sec": 59.5,
+    "summary_zh": "空腹采血要求：采血前需禁食9-12小时，空腹对确保检测结果准确至关重要",
+    "text_en": "During this test, a blood sample will be taken after you have not eaten for nine to twelve Helping is important to ensure accurate results for this test.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH16169_Blood Test for Cholesterol.mp4",
+    "title": "ANH16169 Blood Test for Cholesterol",
+    "start_sec": 59.5,
+    "end_sec": 87.6,
+    "summary_zh": "各项血脂指标的理想目标值：总胆固醇<200mg/dL，HDL≥60，LDL<100，空腹甘油三酯<150",
+    "text_en": "The total cholesterol goal should be less than 200mg per deciliter. For most people, an ideal HDL or good cholesterol should be 60 or higher. An ideal LDL or bad cholesterol should be less than 100. And fasting triglycerides should be less than 150.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH16169_Blood Test for Cholesterol.mp4",
+    "title": "ANH16169 Blood Test for Cholesterol",
+    "start_sec": 87.6,
+    "end_sec": 116.2,
+    "summary_zh": "高胆固醇与心脏病的关系：高胆固醇增加心脏病风险，冠状动脉被含胆固醇的蜡状斑块堵塞，斑块减少或阻断富氧血液流向心肌，导致心脏病发作",
+    "text_en": "If you have high blood cholesterol levels, you have a greater risk of heart disease. In heart disease, blood vessels called coronary arteries become narrowed or blocked by a waxy substance containing cholesterol, called plaque. For time, plaque may reduce or block the flow of oxygen-rich blood to your heart muscle and cause a heart attack.",
+    "category_ids": [
+      133,
+      1
+    ]
+  },
+  {
+    "file": "ANH16169_Blood Test for Cholesterol.mp4",
+    "title": "ANH16169 Blood Test for Cholesterol",
+    "start_sec": 116.2,
+    "end_sec": 162.7,
+    "summary_zh": "心脏病的危险因素：可控因素包括高胆固醇和甘油三酯、高血压、糖尿病/糖尿病前期、超重/肥胖、吸烟、缺乏运动、不健康饮食和压力；不可控因素包括年龄、性别和心脏病家族史",
+    "text_en": "There are many known risk factors for heart disease. Risk factors you can control include high blood cholesterol and triglycerides, high blood pressure, diabetes, pre-diabetes, being overweight or obese. Smoking, lack of physical activity, an unhealthy diet, and stress. Risk factors you can't control include age, gender, and having a family history of heart",
+    "category_ids": [
+      6
+    ]
+  },
+  {
+    "file": "ANH16170_How High Blood Pressure Is Diagnosed.mp4",
+    "title": "ANH16170 How High Blood Pressure Is Diagnosed",
+    "start_sec": 12,
+    "end_sec": 21,
+    "summary_zh": "血压测量工具：使用血压袖带（血压计/sphygmomanometer）测量血压的方式。",
+    "text_en": "Your blood pressure can be measured with a blood pressure cuff called a sphigmomanometer.",
+    "category_ids": [
+      32
+    ]
+  },
+  {
+    "file": "ANH16170_How High Blood Pressure Is Diagnosed.mp4",
+    "title": "ANH16170 How High Blood Pressure Is Diagnosed",
+    "start_sec": 21,
+    "end_sec": 36,
+    "summary_zh": "收缩压与舒张压的定义：心脏跳动时血液对动脉壁的压力为收缩压，心脏在两次跳动之间舒张时的压力为舒张压。",
+    "text_en": "When your heart beats, the pressure of blood on the walls of your arteries is called systolic pressure. When your heart relaxes between beats, pressure on the artery wall is called diastolic pressure.",
+    "category_ids": [
+      32
+    ]
+  }
+]

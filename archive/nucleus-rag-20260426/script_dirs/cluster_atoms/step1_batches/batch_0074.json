@@ -1,0 +1,575 @@
+[
+  {
+    "global_index": 2960,
+    "seg_id": "S5-L4",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准一：残余肾功能",
+    "template": "warning_alert",
+    "items": [
+      "刚开始透析、还有尿量者，优先考虑腹透"
+    ],
+    "atoms_text": "腹膜透析是因为 持续缓慢的在做 对身体的冲击比较小 能让这点残余的肾功能 多撑几年",
+    "needs_animation": true,
+    "label": "腹膜透析持续缓慢清除对残余肾功能冲击小"
+  },
+  {
+    "global_index": 2961,
+    "seg_id": "S5-L5",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准一：残余肾功能",
+    "template": "hero_text",
+    "items": [
+      "透析起步阶段，腹透更护肾"
+    ],
+    "atoms_text": "而血液透析是因为 间歇性的猛的 血压波动大 残余肾功能往往掉的很快",
+    "needs_animation": true,
+    "label": "血液透析间歇性大流量冲击导致残余肾功能快速下降"
+  },
+  {
+    "global_index": 2962,
+    "seg_id": "S5-L6",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准一：残余肾功能",
+    "template": "hero_text",
+    "items": [
+      "还有尿量的患者，腹透是更好起点"
+    ],
+    "atoms_text": "所以如果你是 刚进入透析 还有尿量的患者 腹膜透析往往是 更好的起步选择",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2963,
+    "seg_id": "S6-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准二：身体条件",
+    "template": "hero_text",
+    "items": [
+      "看你的身体条件"
+    ],
+    "atoms_text": "第二 看你的身体条件",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2964,
+    "seg_id": "S6-L2",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准二：身体条件",
+    "template": "warning_alert",
+    "items": [
+      "糖尿病患者血管又硬又脆易堵"
+    ],
+    "atoms_text": "糖尿病肾病的朋友 血管条件往往不好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2965,
+    "seg_id": "S6-L3",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准二：身体条件",
+    "template": "step_arrow",
+    "items": [
+      "动脉与静脉手术吻合",
+      "血管变粗变壮承受扎针",
+      "糖尿病患者内瘘失败率更高"
+    ],
+    "atoms_text": "血液透析需要 在你的手臂 做一个动静脉内瘘 就是把一根动脉 和一根静脉 连接在一起 让血管变粗变壮 才能承受反复的扎针",
+    "needs_animation": true,
+    "label": "手臂动静脉内瘘制作：动脉与静脉吻合使血管增粗"
+  },
+  {
+    "global_index": 2966,
+    "seg_id": "S6-L4",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准二：身体条件",
+    "template": "hero_text",
+    "items": [
+      "血管条件差者，腹透更省事"
+    ],
+    "atoms_text": "而糖尿病病人呢 血管又硬又脆 还容易堵 内瘘做好了之后 不好用 容易出问题的比例 会比一般人高不少",
+    "needs_animation": true,
+    "label": "糖尿病患者血管硬化脆弱导致内瘘易堵塞失功"
+  },
+  {
+    "global_index": 2967,
+    "seg_id": "S6-L5",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准二：身体条件",
+    "template": "warning_alert",
+    "items": [
+      "有腹腔大手术史、粘连或疝气者不宜腹透"
+    ],
+    "atoms_text": "这种情况下 腹膜透析反而省事 不需要折腾血管",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2968,
+    "seg_id": "S6-L6",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准二：身体条件",
+    "template": "split_column",
+    "items": [
+      "糖尿病血管条件差",
+      "腹腔粘连或疝气",
+      "优先腹膜透析",
+      "优先血液透析"
+    ],
+    "atoms_text": "但反过来 如果你的肚子 做过大手术 有严重的腹腔粘连 或者腹壁有疝气 腹透就不太合适了 因为管子放不好 透析液进出不顺畅",
+    "needs_animation": true,
+    "label": "腹腔粘连或疝气导致腹透管路受阻、透析液进出不畅"
+  },
+  {
+    "global_index": 2969,
+    "seg_id": "S7-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准三：生活方式",
+    "template": "hero_text",
+    "items": [
+      "看你的生活方式，非常重要"
+    ],
+    "atoms_text": "第三 看你的生活方式 这一条其实很多人不重视 但我觉得非常非常重要",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2970,
+    "seg_id": "S7-L2",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准三：生活方式",
+    "template": "split_column",
+    "items": [
+      "有专业护士操作，无需自理",
+      "每周三次时间被绑死",
+      "省心省力",
+      "自由度极低"
+    ],
+    "atoms_text": "血液透析的好处是 有人替你干活 你到医院躺着 护士帮你接上机器 四个小时到了 就拔针走人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2971,
+    "seg_id": "S7-L3",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准三：生活方式",
+    "template": "split_column",
+    "items": [
+      "在家自操作，出行自由",
+      "需严格无菌，感染风险高",
+      "时间自主安排",
+      "腹膜炎一旦发生很麻烦"
+    ],
+    "atoms_text": "但坏处是 你的时间被绑死了 一周三次 风雨无阻",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2972,
+    "seg_id": "S7-L4",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准三：生活方式",
+    "template": "branch_path",
+    "items": [
+      "你更看重什么？",
+      "重自由 → 腹透更合适",
+      "重省心 → 血透更合适"
+    ],
+    "atoms_text": "腹膜透析的好处是 自由 你在家自己做 出差旅行都能带着 时间自己安排",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2973,
+    "seg_id": "S7-L5",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准三：生活方式",
+    "template": "hero_text",
+    "items": [
+      "透析方式应配合你的生活节奏"
+    ],
+    "atoms_text": "但坏处是 你需要自己动手换液 操作需要非常的注意无菌 一旦感染了 腹膜炎是很麻烦的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2974,
+    "seg_id": "S8-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准四与总结",
+    "template": "hero_text",
+    "items": [
+      "两种透析方式可以相互转换"
+    ],
+    "atoms_text": "第四 两种透析方式 是可以相互转换的 这是很多人不知道的一点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2975,
+    "seg_id": "S8-L2",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准四与总结",
+    "template": "myth_buster",
+    "items": [
+      "选了一种就要坚持一辈子",
+      "可以根据情况随时转换方式"
+    ],
+    "atoms_text": "很多人以为 选择了一种 就是一辈子 压力特别大 其实不是的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2976,
+    "seg_id": "S8-L3",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准四与总结",
+    "template": "vertical_timeline",
+    "items": [
+      "起步阶段：选腹透保护残肾",
+      "腹膜功能下降：转为血透",
+      "血透影响生活：转为腹透",
+      "特殊情况：腹透与血透搭配使用"
+    ],
+    "atoms_text": "你先做腹透 做了几年 腹膜功能下降了 透不动了 可以转为血透",
+    "needs_animation": true,
+    "label": "长期腹透后腹膜功能下降透析效率不足"
+  },
+  {
+    "global_index": 2977,
+    "seg_id": "S8-L4",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准四与总结",
+    "template": "list_fade",
+    "items": [
+      "残余肾功能多少",
+      "血管与腹腔身体条件",
+      "生活方式与自由需求",
+      "两种方案可动态切换"
+    ],
+    "atoms_text": "你先做血液透析 但觉得太影响生活了 也可以转为腹膜透析",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2978,
+    "seg_id": "S8-L5",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准四与总结",
+    "template": "hero_text",
+    "items": [
+      "没有最好的透析，只有最适合你的选择"
+    ],
+    "atoms_text": "甚至有的人 腹膜透析和血液透析 是搭配着做的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2979,
+    "seg_id": "S8-L6",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准四与总结",
+    "template": "hero_text",
+    "items": [
+      "讲明白了吗？欢迎评论告诉我"
+    ],
+    "atoms_text": "我讲明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2980,
+    "seg_id": "S1-L1",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "可吸收支架听起来很完美",
+    "template": "split_column",
+    "items": [
+      "2-3年自然降解为水和CO₂",
+      "血管恢复自然舒缩功能",
+      "彻底消失无残留异物",
+      "金属支架终身留在体内"
+    ],
+    "atoms_text": "为什么 国外的 可吸收支架 退市了 按理说呀 它 两三年 就能 自然降解成 水和二氧化碳 彻底消失",
+    "needs_animation": true,
+    "label": "可吸收支架在体内两三年降解为水和二氧化碳"
+  },
+  {
+    "global_index": 2981,
+    "seg_id": "S1-L2",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "可吸收支架听起来很完美",
+    "template": "hero_text",
+    "items": [
+      "听起来完美，到底哪里出了问题？"
+    ],
+    "atoms_text": "还能让 血管恢复 原本的 舒缩功能 不用带 一辈子 金属异物",
+    "needs_animation": true,
+    "label": "支架降解消失后血管恢复自主舒缩功能"
+  },
+  {
+    "global_index": 2982,
+    "seg_id": "S1-L3",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "可吸收支架听起来很完美",
+    "template": "list_fade",
+    "items": [
+      "听起来",
+      "完美无缺",
+      "到底哪里不好呢",
+      "今天给大家讲一下"
+    ],
+    "atoms_text": "听起来 完美无缺 到底哪里不好呢 今天给大家讲一下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2983,
+    "seg_id": "S2-L1",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "warning_alert",
+    "items": [
+      "退市的是第一代可吸收支架"
+    ],
+    "atoms_text": "首先要明确啊 国外退市的 是最早上市的 第一代可吸收支架",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2984,
+    "seg_id": "S2-L2",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "step_arrow",
+    "items": [
+      "核心问题：技术不成熟",
+      "解决了异物问题",
+      "却埋下更致命的临床隐患"
+    ],
+    "atoms_text": "它的完美理论 之所以 落地翻车 核心就是 技术不成熟",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2985,
+    "seg_id": "S2-L3",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "atoms_text": "看似解决了 金属支架的 异物问题 却埋下了 更致命的 临床隐患",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2986,
+    "seg_id": "S2-L4",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "brick_stack",
+    "items": [
+      "支架梁过厚阻碍血管内皮化",
+      "复杂病变贴壁差易致血栓",
+      "成本高昂安全性不及金属支架"
+    ],
+    "atoms_text": "具体有 三个关键的硬伤",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2987,
+    "seg_id": "S2-L5",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "warning_alert",
+    "items": [
+      "晚期血栓风险大幅升高",
+      "可能诱发急性心肌梗死"
+    ],
+    "atoms_text": "一是 支架梁过厚 阻碍 血管内皮化 大幅增加了 术后一到三年 晚期血栓的风险 而且 可能诱发 急性心梗",
+    "needs_animation": true,
+    "label": "过厚支架梁阻碍血管内皮覆盖引发晚期血栓和急性心梗"
+  },
+  {
+    "global_index": 2988,
+    "seg_id": "S2-L6",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "step_arrow",
+    "items": [
+      "复杂钙化病变通过性差",
+      "支架贴壁不佳",
+      "支架内血栓或再狭窄"
+    ],
+    "atoms_text": "二是 适应症把握不合适 对于一些 复杂病变 钙化病变 可吸收支架的 通过性差 可能出现 贴合血管壁不佳 容易出现 支架内血栓 或者再狭窄",
+    "needs_animation": true,
+    "label": "钙化病变中支架贴壁不良导致支架内血栓或再狭窄"
+  },
+  {
+    "global_index": 2989,
+    "seg_id": "S2-L7",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "vertical_timeline",
+    "items": [
+      "早期：理论完美上市推广",
+      "中期：临床隐患逐步暴露",
+      "2017年：全球正式退市"
+    ],
+    "atoms_text": "第三就是 成本高昂 收益失衡 安全性不及 金属支架 临床使用率低 企业啊 持续亏损 后来于 二零一七年 全球退市",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2990,
+    "seg_id": "S3-L1",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国外现在完全放弃了吗",
+    "template": "hero_text",
+    "items": [
+      "退市≠放弃，研发从未停止"
+    ],
+    "atoms_text": "那现在 国外 完全不用 可吸收支架了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2991,
+    "seg_id": "S3-L2",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国外现在完全放弃了吗",
+    "template": "step_arrow",
+    "items": [
+      "支架梁优化至100微米以下",
+      "改良可降解聚合物材料",
+      "兼顾支撑力与降解速度"
+    ],
+    "atoms_text": "嗯其实也不是 退市的 只是 第一代老支架 这些年 医学也未停下 研发的步 脚步 一直在攻关 新一代可吸收支架",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2992,
+    "seg_id": "S3-L3",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国外现在完全放弃了吗",
+    "template": "split_column",
+    "items": [
+      "新一代产品仍在三期临床",
+      "主流仍是金属药物洗脱支架",
+      "尚未大规模常规临床应用",
+      "传统支架经验成熟广泛使用"
+    ],
+    "atoms_text": "核心就是 针对第一代的硬伤 改良 一百微米以下 优化 可降解聚合物材料 兼顾 支撑力和降解速度 降低血栓风险",
+    "needs_animation": true,
+    "label": "新一代支架梁减至100微米以下并优化可降解聚合物材料"
+  },
+  {
+    "global_index": 2993,
+    "seg_id": "S3-L4",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国外现在完全放弃了吗",
+    "template": "list_fade",
+    "items": [
+      "但目前",
+      "国外这些",
+      "新一代产品",
+      "大多还处于",
+      "三期临床试验阶段"
+    ],
+    "atoms_text": "但目前 国外这些 新一代产品 大多还处于 三期临床试验阶段 尚未 大规模常规应用于临床 主流依然是 传统金属药物洗脱支架",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2994,
+    "seg_id": "S4-L1",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国产支架不是小白鼠",
+    "template": "myth_buster",
+    "items": [
+      "国外退市国内用是拿患者试验",
+      "国产支架完全独立重新研发改良",
+      "国产支架照搬了国外失败产品",
+      "充分吸取第一代教训从头攻关"
+    ],
+    "atoms_text": "再说说 咱们国内的情况啊 很多人质疑 国外都退市了 咱们国内还在用 是不是 拿我们当小白鼠啊 这个就 大错特错了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2995,
+    "seg_id": "S4-L2",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国产支架不是小白鼠",
+    "template": "vertical_timeline",
+    "items": [
+      "2019年：国内首款可吸收支架获批",
+      "此后：多款国产产品相继获批上市"
+    ],
+    "atoms_text": "咱们国产可吸收支架 是完完全全 吸取了 国外新一代产品的教训 从头研发改良的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2996,
+    "seg_id": "S4-L3",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国产支架不是小白鼠",
+    "template": "list_fade",
+    "items": [
+      "支架梁减薄至110-130微米",
+      "降解周期精准控制2-3年",
+      "涂层药物抑制血管再狭窄"
+    ],
+    "atoms_text": "二零一九年 国内首款 获批上市 后续又有 多款产品 相继获批",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2997,
+    "seg_id": "S4-L4",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国产支架不是小白鼠",
+    "template": "number_center",
+    "items": [
+      "2-3"
+    ],
+    "atoms_text": "国产可吸收支架的 核心改进是 支架梁减薄至 一百一到一百三十微米 优化降解性能 让降解周期 精准控制在 两到三年",
+    "needs_animation": true,
+    "label": "国产支架梁减薄至110-130微米并精准控制2-3年降解周期"
+  },
+  {
+    "global_index": 2998,
+    "seg_id": "S4-L5",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国产支架不是小白鼠",
+    "template": "split_column",
+    "items": [
+      "国产可吸收支架",
+      "最优金属支架",
+      "一年再狭窄率基本相当",
+      "晚期血栓发生率基本相当"
+    ],
+    "atoms_text": "同时啊 涂层抗增殖药物 抑制血管再狭窄",
+    "needs_animation": true,
+    "label": "涂层抗增殖药物抑制血管内膜增生防止再狭窄"
+  },
+  {
+    "global_index": 2999,
+    "seg_id": "S4-L6",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国产支架不是小白鼠",
+    "template": "hero_text",
+    "items": [
+      "安全性和有效性经得起临床验证"
+    ],
+    "atoms_text": "长期随访数据显示 其一年再狭窄率 晚期血栓发生率 与目前最好的 金属支架 基本是相当的 安全性和有效性 完全经得起 临床验证",
+    "needs_animation": false,
+    "label": ""
+  }
+]

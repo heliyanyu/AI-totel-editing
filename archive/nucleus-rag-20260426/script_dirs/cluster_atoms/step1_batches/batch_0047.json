@@ -1,0 +1,570 @@
+[
+  {
+    "global_index": 1880,
+    "seg_id": "S7-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "肝是哑巴，别等它开口",
+    "template": "hero_text",
+    "items": [
+      "肝是出了名的哑巴器官"
+    ],
+    "atoms_text": "咱们的肝呢 是出了名的 哑巴器官 平时受了委屈 受了伤 从来不会喊疼",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1881,
+    "seg_id": "S7-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "肝是哑巴，别等它开口",
+    "template": "warning_alert",
+    "items": [
+      "感觉到不舒服时，往往已经晚了"
+    ],
+    "atoms_text": "当你真的 感觉到不舒服的时候啊 往往已经晚了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1882,
+    "seg_id": "S7-L3",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "肝是哑巴，别等它开口",
+    "template": "hero_text",
+    "items": [
+      "少喝一口甜，胜过一瓶护肝片"
+    ],
+    "atoms_text": "少喝一口甜 多给肝脏减减负 比你吃再多的 护肝片 保健品 都不管用 嗯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1883,
+    "seg_id": "S1-L1",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "头晕的隐藏真相",
+    "template": "hero_text",
+    "items": [
+      "查了很久头晕，却忽略了眼睛"
+    ],
+    "atoms_text": "这么多年 就是头晕 怎么查也查不出原因 什么头核磁 耳鼻喉 颈动脉 都没事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1884,
+    "seg_id": "S1-L2",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "头晕的隐藏真相",
+    "template": "warning_alert",
+    "items": [
+      "眼睛问题也可能是头晕根源"
+    ],
+    "atoms_text": "这时候 你可能啊 忽略了 你的眼睛 有没有问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1885,
+    "seg_id": "S1-L3",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "头晕的隐藏真相",
+    "template": "color_grid",
+    "items": [
+      "视觉系统（眼睛）",
+      "前庭系统（耳朵）",
+      "躯体本体感觉"
+    ],
+    "atoms_text": "我们人体 维持平衡 主要靠三个系统 一是眼睛的视觉系统 二是耳朵的前庭系统 三是躯体本体感觉",
+    "needs_animation": true,
+    "label": "视觉、前庭、本体感觉三个系统协同维持人体平衡"
+  },
+  {
+    "global_index": 1886,
+    "seg_id": "S1-L4",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "头晕的隐藏真相",
+    "template": "hero_text",
+    "items": [
+      "眼睛是大脑的GPS加稳定器"
+    ],
+    "atoms_text": "这里面 眼睛提供的是 位置和运动的参考信号 就是你的GPS 加稳定器",
+    "needs_animation": true,
+    "label": "视觉系统向大脑提供位置与运动参考信号"
+  },
+  {
+    "global_index": 1887,
+    "seg_id": "S1-L5",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "头晕的隐藏真相",
+    "template": "step_arrow",
+    "items": [
+      "眼睛信号异常",
+      "大脑接收信息冲突",
+      "出现头晕症状"
+    ],
+    "atoms_text": "大脑接收的信息 就会出现冲突 人就会出现头晕",
+    "needs_animation": true,
+    "label": "大脑接收多系统信号冲突引发头晕"
+  },
+  {
+    "global_index": 1888,
+    "seg_id": "S2-L1",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "视疲劳性头晕",
+    "template": "step_arrow",
+    "items": [
+      "长时间盯手机电脑",
+      "睫状肌持续收缩紊乱",
+      "眼睛对焦能力下降"
+    ],
+    "atoms_text": "最常见的一种情况 就是视疲劳 长时间盯着手机电脑 睫状肌一直处于收缩状态 调节功能就会紊乱",
+    "needs_animation": true,
+    "label": "睫状肌长时间收缩导致调节功能紊乱"
+  },
+  {
+    "global_index": 1889,
+    "seg_id": "S2-L2",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "视疲劳性头晕",
+    "template": "list_fade",
+    "items": [
+      "头胀发沉",
+      "看东西发花模糊",
+      "大脑画面不稳定"
+    ],
+    "atoms_text": "这个时候 眼睛的对焦能力下降了 大脑接收到的画面不稳定 就会出现头胀发沉 看东西发花",
+    "needs_animation": true,
+    "label": "眼睛对焦能力下降致大脑接收画面不稳定"
+  },
+  {
+    "global_index": 1890,
+    "seg_id": "S2-L3",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "视疲劳性头晕",
+    "template": "myth_buster",
+    "items": [
+      "持续用眼后头晕加重",
+      "闭眼休息十几分钟即缓解"
+    ],
+    "atoms_text": "但闭上眼睛休息十几分钟 晕就明显减轻了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1891,
+    "seg_id": "S3-L1",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "眼镜不合适导致头晕",
+    "template": "list_fade",
+    "items": [
+      "度数偏高或偏低",
+      "散光未矫正",
+      "瞳距不准确"
+    ],
+    "atoms_text": "第二是 眼镜不合适导致的头晕 度数偏高 散光没矫正 瞳距不准确 都会让双眼成像不一致",
+    "needs_animation": true,
+    "label": "度数散光瞳距不准导致双眼成像不一致"
+  },
+  {
+    "global_index": 1892,
+    "seg_id": "S3-L2",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "眼镜不合适导致头晕",
+    "template": "step_arrow",
+    "items": [
+      "双眼成像不一致",
+      "大脑融合信息困难",
+      "头晕走路发飘"
+    ],
+    "atoms_text": "大脑在整合左右眼信息时 就会出现融合困难 时间一长 就会出现头晕 走路发飘",
+    "needs_animation": true,
+    "label": "大脑融合左右眼不一致图像时出现困难"
+  },
+  {
+    "global_index": 1893,
+    "seg_id": "S4-L1",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "老花眼未配对头晕",
+    "template": "hero_text",
+    "items": [
+      "老花眼没配对，也会引发头晕"
+    ],
+    "atoms_text": "第三是 老花眼没配对 或者提前出现老花",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1894,
+    "seg_id": "S4-L2",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "老花眼未配对头晕",
+    "template": "step_arrow",
+    "items": [
+      "看书看手机强行聚焦",
+      "眼部调节持续过载",
+      "头晕恶心出现"
+    ],
+    "atoms_text": "看手机看书的时候 眼睛强行的聚焦 时间一长 就会头晕恶心",
+    "needs_animation": true,
+    "label": "老花眼强行聚焦时的眼部调节负担"
+  },
+  {
+    "global_index": 1895,
+    "seg_id": "S4-L3",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "老花眼未配对头晕",
+    "template": "myth_buster",
+    "items": [
+      "以为是脑梗前兆",
+      "其实是眼部调节力下降"
+    ],
+    "atoms_text": "很多老人以为是脑梗前兆 其实 就是眼部调节能力下降了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1896,
+    "seg_id": "S5-L1",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "眼肌麻痹性头晕",
+    "template": "split_column",
+    "items": [
+      "一侧眼肌无力",
+      "看东西出现重影",
+      "双眼无法协调运动",
+      "一个东西看成两个"
+    ],
+    "atoms_text": "第四个是 眼肌麻痹 双眼不协调 比如一只眼睛的肌肉没劲儿 看东西就会出现重影 一个东西看成两个",
+    "needs_animation": true,
+    "label": "眼肌麻痹致一只眼肌肉无力产生重影"
+  },
+  {
+    "global_index": 1897,
+    "seg_id": "S5-L2",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "眼肌麻痹性头晕",
+    "template": "warning_alert",
+    "items": [
+      "大脑无法合成画面导致头晕恶心",
+      "走路跑偏平衡失调"
+    ],
+    "atoms_text": "大脑无法把两个画面合成一个 直接就会出现头晕恶心 甚至走路跑偏",
+    "needs_animation": true,
+    "label": "大脑无法将重影的双画面合成单一图像"
+  },
+  {
+    "global_index": 1898,
+    "seg_id": "S5-L3",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "眼肌麻痹性头晕",
+    "template": "branch_path",
+    "items": [
+      "闭上眼睛",
+      "重影消失，头晕即止",
+      "睁眼头晕持续存在"
+    ],
+    "atoms_text": "但这种晕 一闭眼就消失了 因为闭眼后 重影的信号就没了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1899,
+    "seg_id": "S6-L1",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "急性青光眼警示",
+    "template": "warning_alert",
+    "items": [
+      "急性青光眼：眼压突然升高的急症"
+    ],
+    "atoms_text": "还有一种 属于警惕的急症 就是急性青光眼 眼压突然升高",
+    "needs_animation": true,
+    "label": "急性青光眼眼压突然升高"
+  },
+  {
+    "global_index": 1900,
+    "seg_id": "S6-L2",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "急性青光眼警示",
+    "template": "list_fade",
+    "items": [
+      "眼睛胀痛视物模糊",
+      "看灯出现彩虹圈",
+      "剧烈头痛头晕",
+      "恶心呕吐"
+    ],
+    "atoms_text": "除了眼睛胀痛 看东西模糊 看灯有彩虹圈 还可能同时出现 明显的头痛 头晕 恶心呕吐",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1901,
+    "seg_id": "S6-L3",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "急性青光眼警示",
+    "template": "myth_buster",
+    "items": [
+      "表现似神经或心血管急症",
+      "不要自行判断需查眼压"
+    ],
+    "atoms_text": "因为这些表现 和部分神经科心血管急症有重叠 所以千万不要自己判断",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1902,
+    "seg_id": "S6-L4",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "急性青光眼警示",
+    "template": "warning_alert",
+    "items": [
+      "眼痛 + 视力下降需立即就医",
+      "务必检测眼压别漏掉"
+    ],
+    "atoms_text": "尤其一旦合并了 眼痛 视力下降 一定要尽快到医院 把眼压也查一查 别漏掉 这个需要尽快处理的眼科急症",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1903,
+    "seg_id": "S7-L1",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "头晕来源自查方法",
+    "template": "list_fade",
+    "items": [
+      "用眼后发作伴眼干眼胀",
+      "视物模糊休息后缓解",
+      "多为视觉相关头晕"
+    ],
+    "atoms_text": "我教你一个简单的判断方法 如果你的头晕 主要出现在长时间用眼之后 伴随眼干眼胀 视物模糊 休息后能缓解 大多数是视觉相关的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1904,
+    "seg_id": "S7-L2",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "头晕来源自查方法",
+    "template": "list_fade",
+    "items": [
+      "突然发作伴心慌胸闷",
+      "眼前发黑需考虑心脏"
+    ],
+    "atoms_text": "如果是突然发作 伴有心慌胸闷 眼前发黑 那要考虑心脏的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1905,
+    "seg_id": "S7-L3",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "头晕来源自查方法",
+    "template": "list_fade",
+    "items": [
+      "天旋地转感",
+      "与转头或体位变化相关",
+      "多为前庭耳鼻喉问题"
+    ],
+    "atoms_text": "如果是天旋地转 和转头体位有关系 多数是前庭耳鼻喉的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1906,
+    "seg_id": "S8-L1",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "实用护眼建议",
+    "template": "list_fade",
+    "items": [
+      "去眼科查视力和验光",
+      "测眼压检查眼肌"
+    ],
+    "atoms_text": "最后给大家几个实用的建议啊 长期头晕查不出原因 一定要去眼科 查查视力 验验光 测眼压 看眼肌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1907,
+    "seg_id": "S8-L2",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "实用护眼建议",
+    "template": "list_fade",
+    "items": [
+      "用眼40分钟远眺5分钟",
+      "少熬夜减少看手机",
+      "热敷眼睛缓解肌肉紧张"
+    ],
+    "atoms_text": "平时用眼四十分钟 就远眺个五分钟 少熬夜看手机 热敷眼睛 缓解肌肉紧张",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1908,
+    "seg_id": "S8-L3",
+    "bp_title": "头晕查不出原因？可能是眼睛的问题",
+    "scene_title": "实用护眼建议",
+    "template": "hero_text",
+    "items": [
+      "头晕查不出原因，别忘了查眼睛"
+    ],
+    "atoms_text": "好了 我讲明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1909,
+    "seg_id": "S1-L1",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "血脂管理的五个真相"
+    ],
+    "atoms_text": "拿出 你最近一次的 体检报告单 今天给你 讲清楚 血脂管理的 五个真相",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1910,
+    "seg_id": "S2-L1",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相一：正常值≠安全值",
+    "template": "hero_text",
+    "items": [
+      "体检正常值不等于你的安全值"
+    ],
+    "atoms_text": "第一个真相 体检的正常值 不等于 你的安全值",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1911,
+    "seg_id": "S2-L2",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相一：正常值≠安全值",
+    "template": "list_fade",
+    "items": [
+      "参考范围是针对普通人的平均标准",
+      "个体差异决定实际风险高低"
+    ],
+    "atoms_text": "体检报告上的参考范围 是给普通人的 平均标准",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1912,
+    "seg_id": "S2-L3",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相一：正常值≠安全值",
+    "template": "color_grid",
+    "items": [
+      "高血压",
+      "糖尿病",
+      "吸烟肥胖",
+      "家族早发心梗史"
+    ],
+    "atoms_text": "但如果你是 高血压 糖尿病 抽烟 肥胖 或者家里有人有 早发心梗 那你的血管 本来就容易受损",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1913,
+    "seg_id": "S2-L4",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相一：正常值≠安全值",
+    "template": "split_column",
+    "items": [
+      "普通人：LDL 3.0 尚可接受",
+      "高风险者：LDL 3.0 已偏高"
+    ],
+    "atoms_text": "这时候 同样是 低密度三点零 对别人啊 可能还行 对你来说 就已经偏高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1914,
+    "seg_id": "S2-L5",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相一：正常值≠安全值",
+    "template": "step_arrow",
+    "items": [
+      "高风险状态下血管更易受损",
+      "脂质更容易在血管壁沉积",
+      "斑块更快形成"
+    ],
+    "atoms_text": "因为在高风险状态下 血管更容易 让脂质沉积 斑块更容易形成",
+    "needs_animation": true,
+    "label": "高风险状态下脂质在血管壁沉积形成斑块"
+  },
+  {
+    "global_index": 1915,
+    "seg_id": "S3-L1",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相二：内皮受损是关键",
+    "template": "hero_text",
+    "items": [
+      "血管堵不堵关键在内皮是否受伤"
+    ],
+    "atoms_text": "第二个真相 血管会不会堵 关键在内皮 有没有受伤",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1916,
+    "seg_id": "S3-L2",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相二：内皮受损是关键",
+    "template": "list_fade",
+    "items": [
+      "健康内皮光滑，抑制炎症",
+      "正常内皮减少脂质沉积"
+    ],
+    "atoms_text": "血管里面这层内皮 本来是光滑的 可以抑制炎症 减少沉积",
+    "needs_animation": true,
+    "label": "血管内皮光滑表面抑制炎症和脂质沉积"
+  },
+  {
+    "global_index": 1917,
+    "seg_id": "S3-L3",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相二：内皮受损是关键",
+    "template": "brick_stack",
+    "items": [
+      "长期高血压",
+      "血糖反复波动",
+      "吸烟",
+      "长期熬夜"
+    ],
+    "atoms_text": "但长期的 高血压 血糖波动 吸烟 熬夜 会让内皮功能下降 甚至出现 微小的破损",
+    "needs_animation": true,
+    "label": "高血压和血糖波动损伤血管内皮致微小破损"
+  },
+  {
+    "global_index": 1918,
+    "seg_id": "S3-L4",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相二：内皮受损是关键",
+    "template": "step_arrow",
+    "items": [
+      "内皮屏障出现微小破损",
+      "LDL 更易进入血管壁",
+      "炎症反应激活，斑块慢慢长成"
+    ],
+    "atoms_text": "一旦这层保护屏障 不完整了 低密度脂蛋白胆固醇 就更容易进入血管壁 炎症反应 也会更容易被激活 斑块呢 就从这些地方 慢慢长出来了",
+    "needs_animation": true,
+    "label": "LDL-C穿过受损内皮进入血管壁引发炎症并形成斑块"
+  },
+  {
+    "global_index": 1919,
+    "seg_id": "S4-L1",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相三：血脂看的是长期水平",
+    "template": "hero_text",
+    "items": [
+      "血脂看的是长期水平而非单次结果"
+    ],
+    "atoms_text": "第三个真相 血脂看的是 长期水平 不是某一次结果",
+    "needs_animation": false,
+    "label": ""
+  }
+]

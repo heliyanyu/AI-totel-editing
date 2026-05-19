@@ -1,0 +1,561 @@
+[
+  {
+    "global_index": 1840,
+    "seg_id": "S5-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "hero_text",
+    "items": [
+      "没有人只有一个坏习惯"
+    ],
+    "atoms_text": "因为你不可能只有一个坏习惯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1841,
+    "seg_id": "S5-L3",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "hero_text",
+    "items": [
+      "真正关键的是坏习惯叠加了多久"
+    ],
+    "atoms_text": "真正决定你身体里会不会出问题的 不是某一个单独的因素 而是你身体上这些坏习惯 一个多个叠加在一起 有多久了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1842,
+    "seg_id": "S5-L4",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "hero_text",
+    "items": [
+      "但这也是个好消息：改变有突破口"
+    ],
+    "atoms_text": "但反过来想 其实这也是个好消息",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1843,
+    "seg_id": "S5-L5",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "step_arrow",
+    "items": [
+      "坏习惯彼此勾连一体",
+      "从任一环节打开缺口",
+      "其余的随之开始松动"
+    ],
+    "atoms_text": "因为这些东西啊是互相勾结的 只要你从其中一个环节突破 其他的很快就会松动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1844,
+    "seg_id": "S5-L6",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "vertical_timeline",
+    "items": [
+      "第一步：下决心减肥",
+      "随之：运动坚持起来",
+      "连带：晚上睡得更好",
+      "因此：白天精神好转",
+      "自然：不太想抽烟了",
+      "慢慢：酒也喝得少了"
+    ],
+    "atoms_text": "我见过很多人 从一开始只是下定决心减肥 结果运动起来了 晚上也睡得好了 睡得好了精神状态也好了 精神好了之后也不太想抽烟了 慢慢的酒也喝的少了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1845,
+    "seg_id": "S5-L7",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "hero_text",
+    "items": [
+      "推倒第一张骨牌，后面跟着倒"
+    ],
+    "atoms_text": "这就像多米诺骨牌一样 你推倒第一张 后面跟着倒一片",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1846,
+    "seg_id": "S6-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "从运动打开第一个缺口",
+    "template": "hero_text",
+    "items": [
+      "最容易突破的入口：先从运动开始"
+    ],
+    "atoms_text": "那从哪个开始最容易呢 我的建议是啊 先从运动开始",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1847,
+    "seg_id": "S6-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "从运动打开第一个缺口",
+    "template": "hero_text",
+    "items": [
+      "运动是唯一一个做加法的改变"
+    ],
+    "atoms_text": "因为运动是唯一一个做加法的改变",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1848,
+    "seg_id": "S6-L3",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "从运动打开第一个缺口",
+    "template": "list_fade",
+    "items": [
+      "戒烟：忍住不抽",
+      "减肥：控制不吃",
+      "戒酒：硬撑不喝"
+    ],
+    "atoms_text": "戒烟是忍着不抽 减肥是控制少吃 戒酒是克制的不喝 这些都是跟欲望较劲 很痛苦",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1849,
+    "seg_id": "S6-L4",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "从运动打开第一个缺口",
+    "template": "color_grid",
+    "items": [
+      "睡眠质量明显提升",
+      "心情情绪更加稳定",
+      "体重慢慢往下走"
+    ],
+    "atoms_text": "但运动不一样 运动是你做一件新的事 做完之后身体会给你一些正反馈 睡得更好啊 心情更好啊 体重慢慢的往下走",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1850,
+    "seg_id": "S6-L5",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "从运动打开第一个缺口",
+    "template": "step_arrow",
+    "items": [
+      "坚持运动之后",
+      "身体到点就困，自然早睡"
+    ],
+    "atoms_text": "当你开始运动之后 你会发现自然而然不太想熬夜了 因为啊身体到点就困",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1851,
+    "seg_id": "S6-L6",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "从运动打开第一个缺口",
+    "template": "hero_text",
+    "items": [
+      "不想让运动成果被一口吃垮"
+    ],
+    "atoms_text": "你也会开始在意啊吃什么 因为不想运动的时候啊 成果被一锅端了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1852,
+    "seg_id": "S7-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "迈出第一步就够了",
+    "template": "hero_text",
+    "items": [
+      "别纠结了，去快走半小时更值"
+    ],
+    "atoms_text": "所以别太纠结哪个危害最大 纠结这个问题的时间 还不如出去快走半个小时",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1853,
+    "seg_id": "S7-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "迈出第一步就够了",
+    "template": "hero_text",
+    "items": [
+      "迈出第一步，身体带你走完剩下的路"
+    ],
+    "atoms_text": "你只要迈出第一步 身体一定会带着你 把剩下的路啊慢慢的走完",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1854,
+    "seg_id": "S7-L3",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "迈出第一步就够了",
+    "template": "hero_text",
+    "items": [
+      "今天就到这里，关注我了解更多"
+    ],
+    "atoms_text": "好了今天就讲这么多 懂了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1855,
+    "seg_id": "S1-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "伤肝的不只有酒",
+    "template": "hero_text",
+    "items": [
+      "伤肝的不只有酒"
+    ],
+    "atoms_text": "你以为 伤肝 只有酒吗 其实啊 还有一种东西 很多人天天喝 也是肝的杀手",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1856,
+    "seg_id": "S1-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "伤肝的不只有酒",
+    "template": "color_grid",
+    "items": [
+      "奶茶",
+      "可乐",
+      "果汁",
+      "瓶装甜饮料"
+    ],
+    "atoms_text": "那就是 奶茶 可乐 果汁 饮料 这些含糖饮料",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1857,
+    "seg_id": "S1-L3",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "伤肝的不只有酒",
+    "template": "list_fade",
+    "items": [
+      "瓶装汽水主要甜成分：白砂糖",
+      "网红奶茶主要甜成分：果葡糖浆"
+    ],
+    "atoms_text": "咱们市面上 绝大多数的 甜饮料啊 无论是瓶装汽水 还是网红奶茶 核心甜成分 多数为 白砂糖 果葡糖浆",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1858,
+    "seg_id": "S1-L4",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "伤肝的不只有酒",
+    "template": "warning_alert",
+    "items": [
+      "果糖 = 伤肝头号隐形刺客"
+    ],
+    "atoms_text": "其中含有 大量的果糖 就是伤肝的 头号隐形刺客",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1859,
+    "seg_id": "S2-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "果糖为何专挑肝脏下手",
+    "template": "split_column",
+    "items": [
+      "葡萄糖",
+      "全身各器官均可代谢",
+      "果糖",
+      "几乎只在肝脏代谢"
+    ],
+    "atoms_text": "咱们吃进去的 葡萄糖 全身各个器官 都能分解代谢 家里分散了",
+    "needs_animation": true,
+    "label": "葡萄糖被全身各器官分散代谢"
+  },
+  {
+    "global_index": 1860,
+    "seg_id": "S2-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "果糖为何专挑肝脏下手",
+    "template": "number_center",
+    "items": [
+      "一天糖分超标好几倍"
+    ],
+    "atoms_text": "而果糖 主要在肝脏代谢",
+    "needs_animation": true,
+    "label": "果糖主要在肝脏中代谢"
+  },
+  {
+    "global_index": 1861,
+    "seg_id": "S2-L3",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "果糖为何专挑肝脏下手",
+    "template": "step_arrow",
+    "items": [
+      "果糖大量涌入肝脏",
+      "肝脏处理不完",
+      "多余果糖转化为脂肪"
+    ],
+    "atoms_text": "你一天 一杯奶茶 加一瓶可乐 糖分直接超标 好几倍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1862,
+    "seg_id": "S2-L4",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "果糖为何专挑肝脏下手",
+    "template": "hero_text",
+    "items": [
+      "脂肪就此堆进肝脏"
+    ],
+    "atoms_text": "肝脏本身 就忙不过来 只能把 处理不完的果糖 统统转化成脂肪 堆在肝脏里边",
+    "needs_animation": true,
+    "label": "肝脏将处理不完的果糖转化为脂肪并堆积在肝内"
+  },
+  {
+    "global_index": 1863,
+    "seg_id": "S2-L5",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "果糖为何专挑肝脏下手",
+    "template": "warning_alert",
+    "items": [
+      "这就是脂肪肝的起点"
+    ],
+    "atoms_text": "一开始 这就是 咱们常说的 脂肪肝",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1864,
+    "seg_id": "S3-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "脂肪肝会一步步走向癌变",
+    "template": "myth_buster",
+    "items": [
+      "脂肪肝不痛不痒没关系",
+      "沉默背后危机正在积累"
+    ],
+    "atoms_text": "很多人觉得 脂肪肝 不痛不痒 体检报告写了 也不当回事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1865,
+    "seg_id": "S3-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "脂肪肝会一步步走向癌变",
+    "template": "vertical_timeline",
+    "items": [
+      "单纯脂肪肝",
+      "脂肪性肝炎",
+      "肝纤维化",
+      "肝硬化",
+      "肝癌"
+    ],
+    "atoms_text": "可你 天天这么灌 甜饮料 肝脏里的脂肪 会越堆越多 就会从 单纯的脂肪肝 慢慢发展成 脂肪性肝炎",
+    "needs_animation": true,
+    "label": "肝脏脂肪持续堆积从单纯脂肪肝发展为脂肪性肝炎"
+  },
+  {
+    "global_index": 1866,
+    "seg_id": "S3-L3",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "脂肪肝会一步步走向癌变",
+    "template": "brick_stack",
+    "items": [
+      "多余糖转化为全身脂肪",
+      "血脂飙升",
+      "血糖失控"
+    ],
+    "atoms_text": "再往下走 肝纤维化 肝硬化 甚至肝癌 都是一步步熬出来的",
+    "needs_animation": true,
+    "label": "脂肪性肝炎逐步进展为肝纤维化、肝硬化、肝癌"
+  },
+  {
+    "global_index": 1867,
+    "seg_id": "S3-L4",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "脂肪肝会一步步走向癌变",
+    "template": "list_fade",
+    "items": [
+      "高血压",
+      "糖尿病",
+      "冠心病"
+    ],
+    "atoms_text": "而且这些 多余的糖 不光糟蹋你的肝 还会变成 全身的肥肉 让你的血脂血糖 一路飙升",
+    "needs_animation": true,
+    "label": "多余糖分转化为全身脂肪并导致血脂血糖升高"
+  },
+  {
+    "global_index": 1868,
+    "seg_id": "S3-L5",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "脂肪肝会一步步走向癌变",
+    "template": "hero_text",
+    "items": [
+      "一杯甜饮，全身买单"
+    ],
+    "atoms_text": "最后 高血压 糖尿病 冠心病 这些毛病啊 都会顺着 这个甜劲儿 找上门来了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1869,
+    "seg_id": "S4-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "无糖饮料也不是护身符",
+    "template": "myth_buster",
+    "items": [
+      "无糖奶茶完全无害",
+      "这是常见误区"
+    ],
+    "atoms_text": "而不少人认为 无糖奶茶 零卡饮料 无害 实则呀 是误区",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1870,
+    "seg_id": "S4-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "无糖饮料也不是护身符",
+    "template": "brick_stack",
+    "items": [
+      "奶盖含隐藏糖",
+      "糖浆小料含隐藏糖",
+      "总含糖量常超标"
+    ],
+    "atoms_text": "多数无糖奶茶 虽未添加白砂糖 但奶盖糖浆小料 仍含有大量的 隐藏糖 一杯含糖量 常常是超标",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1871,
+    "seg_id": "S4-L3",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "无糖饮料也不是护身符",
+    "template": "warning_alert",
+    "items": [
+      "长期摄入代糖会扰乱代谢"
+    ],
+    "atoms_text": "即便真的 零卡饮料 长期摄入代糖 也会扰乱 机体的代谢 并非健康的替代品",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1872,
+    "seg_id": "S4-L4",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "无糖饮料也不是护身符",
+    "template": "number_center",
+    "items": [
+      "一杯橙汁≈三个橙子的糖"
+    ],
+    "atoms_text": "还有人 用鲜榨果汁 替代饮料 殊不知 榨汁会流失 膳食纤维 一杯橙汁 含糖量 相当于三个橙子 肝脏照样扛不住",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1873,
+    "seg_id": "S5-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "偶尔解馋 vs 天天当水喝",
+    "template": "hero_text",
+    "items": [
+      "不是让你一口都不喝"
+    ],
+    "atoms_text": "当然呀 听了危害 也不要走极端 不是说 让你一口都不喝",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1874,
+    "seg_id": "S5-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "偶尔解馋 vs 天天当水喝",
+    "template": "split_column",
+    "items": [
+      "偶尔嘴馋喝一口",
+      "完全没有问题",
+      "天天喝当水喝",
+      "肝脏持续受损"
+    ],
+    "atoms_text": "咱们普通人 嘴馋了 想喝一口 解解馋 完全没有问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1875,
+    "seg_id": "S5-L3",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "偶尔解馋 vs 天天当水喝",
+    "template": "hero_text",
+    "items": [
+      "最佳饮品永远是白开水"
+    ],
+    "atoms_text": "怕就怕 你天天喝 把甜饮料当水喝",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1876,
+    "seg_id": "S5-L4",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "偶尔解馋 vs 天天当水喝",
+    "template": "list_fade",
+    "items": [
+      "泡茶",
+      "泡柠檬水"
+    ],
+    "atoms_text": "平时喝的最多的 永远应该是 白开水 又健康又省钱",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1877,
+    "seg_id": "S5-L5",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "偶尔解馋 vs 天天当水喝",
+    "template": "hero_text",
+    "items": [
+      "想喝有味儿的，选天然泡饮"
+    ],
+    "atoms_text": "要是实在 想喝带味儿的 泡点茶 泡点柠檬水",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1878,
+    "seg_id": "S6-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "学会看配料表控制摄入",
+    "template": "list_fade",
+    "items": [
+      "配料表前三含白砂糖需警惕",
+      "果葡糖浆出现需控制量",
+      "广告再好听也要看成分"
+    ],
+    "atoms_text": "真要喝饮料 先翻到背后 看看配料表 前三位里 有白砂糖 果葡糖浆的 果糖的 别管它广告 吹的多好听 一定要控制量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1879,
+    "seg_id": "S6-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "学会看配料表控制摄入",
+    "template": "number_center",
+    "items": [
+      "无糖饮料每月喝1-2次"
+    ],
+    "atoms_text": "就算是无糖饮料 一个月 喝个一两次 解馋就够了 千万别把它 当成日常饮品",
+    "needs_animation": false,
+    "label": ""
+  }
+]

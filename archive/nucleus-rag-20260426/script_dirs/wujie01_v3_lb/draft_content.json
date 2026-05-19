@@ -1,0 +1,1449 @@
+{
+    "canvas_config": {
+        "width": 1080,
+        "height": 1920,
+        "ratio": "original"
+    },
+    "color_space": 0,
+    "config": {
+        "adjust_max_index": 1,
+        "attachment_info": [],
+        "combination_max_index": 1,
+        "export_range": null,
+        "extract_audio_last_index": 1,
+        "lyrics_recognition_id": "",
+        "lyrics_sync": true,
+        "lyrics_taskinfo": [],
+        "maintrack_adsorb": true,
+        "material_save_mode": 0,
+        "multi_language_current": "none",
+        "multi_language_list": [],
+        "multi_language_main": "none",
+        "multi_language_mode": "none",
+        "original_sound_last_index": 1,
+        "record_audio_last_index": 1,
+        "sticker_max_index": 1,
+        "subtitle_keywords_config": null,
+        "subtitle_recognition_id": "",
+        "subtitle_sync": true,
+        "subtitle_taskinfo": [],
+        "system_font_list": [],
+        "video_mute": false,
+        "zoom_info_params": null
+    },
+    "cover": null,
+    "create_time": 0,
+    "duration": 325517000,
+    "extra_info": null,
+    "fps": 30,
+    "free_render_index_mode_on": false,
+    "group_container": null,
+    "id": "91E08AC5-22FB-47e2-9AA0-7DC300FAEA2B",
+    "keyframe_graph_list": [],
+    "keyframes": {
+        "adjusts": [],
+        "audios": [],
+        "effects": [],
+        "filters": [],
+        "handwrites": [],
+        "stickers": [],
+        "texts": [],
+        "videos": []
+    },
+    "last_modified_platform": {
+        "app_id": 3704,
+        "app_source": "lv",
+        "app_version": "5.9.0",
+        "os": "windows"
+    },
+    "platform": {
+        "app_id": 3704,
+        "app_source": "lv",
+        "app_version": "5.9.0",
+        "os": "windows"
+    },
+    "materials": {
+        "ai_translates": [],
+        "audio_balances": [],
+        "audio_effects": [],
+        "audio_fades": [],
+        "audio_track_indexes": [],
+        "audios": [],
+        "beats": [],
+        "canvases": [],
+        "chromas": [],
+        "color_curves": [],
+        "digital_humans": [],
+        "drafts": [],
+        "effects": [],
+        "flowers": [],
+        "green_screens": [],
+        "handwrites": [],
+        "hsl": [],
+        "images": [],
+        "log_color_wheels": [],
+        "loudnesses": [],
+        "manual_deformations": [],
+        "masks": [],
+        "material_animations": [],
+        "material_colors": [],
+        "multi_language_refs": [],
+        "placeholders": [],
+        "plugin_effects": [],
+        "primary_color_wheels": [],
+        "realtime_denoises": [],
+        "shapes": [],
+        "smart_crops": [],
+        "smart_relights": [],
+        "sound_channel_mappings": [],
+        "speeds": [
+            {
+                "curve_speed": null,
+                "id": "79678b4756be41e8934508404d84dfdc",
+                "mode": 0,
+                "speed": 1.0,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "68e5339bd0ac46cd9f2b5600e9696946",
+                "mode": 0,
+                "speed": 2.4557522123893807,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "3befb31bbb3e4fdb926004cfae1a7f4c",
+                "mode": 0,
+                "speed": 2.5634920634920633,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "9ded3aaf03024cc0bb63db38b53896a5",
+                "mode": 0,
+                "speed": 1.6907216494845347,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "6a8165437534484ea3ca179a7bcb336d",
+                "mode": 0,
+                "speed": 2.745098039215682,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "8e877783c2e84cb5a1023724af728147",
+                "mode": 0,
+                "speed": 1.5964912280701749,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "62ffdefc83e6447eb8f227a1065f57b2",
+                "mode": 0,
+                "speed": 1.0638297872340425,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "b7dcfda1841d443098c80fc1c88432e0",
+                "mode": 0,
+                "speed": 2.2127659574468144,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "0da5d7a0646243fdb8bdb0a19e6fe748",
+                "mode": 0,
+                "speed": 3.331081081081088,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "7bb9315712324049adc4d91c0d0b6d84",
+                "mode": 0,
+                "speed": 1.6653846153846183,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "d6273d9527494719a2c90f18ce87fa9c",
+                "mode": 0,
+                "speed": 2.735576923076915,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "c47c489a8f30408a8fee4da03c5d6809",
+                "mode": 0,
+                "speed": 1.0,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "a90738e031154d619c4e552b6c5a8e2b",
+                "mode": 0,
+                "speed": 3.3198198198198234,
+                "type": "speed"
+            },
+            {
+                "curve_speed": null,
+                "id": "825fe99f242a4f728ee1c0a3b48a461a",
+                "mode": 0,
+                "speed": 1.7500000000000082,
+                "type": "speed"
+            }
+        ],
+        "stickers": [],
+        "tail_leaders": [],
+        "text_templates": [],
+        "texts": [],
+        "time_marks": [],
+        "transitions": [],
+        "video_effects": [],
+        "video_trackings": [],
+        "videos": [
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 325534000,
+                "height": 1920,
+                "id": "14cefbd3b556438495ee5cfd9549b16c",
+                "local_material_id": "",
+                "material_id": "14cefbd3b556438495ee5cfd9549b16c",
+                "material_name": "source_direct_cut_video.mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\AI total editing\\260402\\zhouqi\\wujie01\\out\\source_direct_cut_video.mp4",
+                "type": "video",
+                "width": 1080
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 309567000,
+                "height": 1080,
+                "id": "e1e4613940b1487486b769a9c55ae520",
+                "local_material_id": "",
+                "material_id": "e1e4613940b1487486b769a9c55ae520",
+                "material_name": "ANH13113_Acute Coronary Syndrome and Heart Attack.mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\nucleus\\cardiology\\ANH13113_Acute Coronary Syndrome and Heart Attack.mp4",
+                "type": "video",
+                "width": 1920
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 309567000,
+                "height": 1080,
+                "id": "481c9519fd8a4ca097cf45ab004ab5e8",
+                "local_material_id": "",
+                "material_id": "481c9519fd8a4ca097cf45ab004ab5e8",
+                "material_name": "ANH13113_Acute Coronary Syndrome and Heart Attack.mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\nucleus\\cardiology\\ANH13113_Acute Coronary Syndrome and Heart Attack.mp4",
+                "type": "video",
+                "width": 1920
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 309567000,
+                "height": 1080,
+                "id": "5e89667477a840e69e7ef343bd2a4209",
+                "local_material_id": "",
+                "material_id": "5e89667477a840e69e7ef343bd2a4209",
+                "material_name": "ANH13113_Acute Coronary Syndrome and Heart Attack.mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\nucleus\\cardiology\\ANH13113_Acute Coronary Syndrome and Heart Attack.mp4",
+                "type": "video",
+                "width": 1920
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 186000000,
+                "height": 1080,
+                "id": "f2396ea8a40744c9a87292d300d9ec55",
+                "local_material_id": "",
+                "material_id": "f2396ea8a40744c9a87292d300d9ec55",
+                "material_name": "ANH00023_Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA).mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\nucleus\\cardiology\\ANH00023_Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA).mp4",
+                "type": "video",
+                "width": 1920
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 195867000,
+                "height": 270,
+                "id": "aa4f98dc0d97492f9147d8fd42724612",
+                "local_material_id": "",
+                "material_id": "aa4f98dc0d97492f9147d8fd42724612",
+                "material_name": "ANS00149_Atherosclerosis Bulleted Version.mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\nucleus\\cardiology\\ANS00149_Atherosclerosis Bulleted Version.mp4",
+                "type": "video",
+                "width": 480
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 118667000,
+                "height": 1080,
+                "id": "1f69e7826a5549a580e52924d3347a58",
+                "local_material_id": "",
+                "material_id": "1f69e7826a5549a580e52924d3347a58",
+                "material_name": "ANH16172_Complications of High Blood Pressure (Hypertension).mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\nucleus\\cardiology\\ANH16172_Complications of High Blood Pressure (Hypertension).mp4",
+                "type": "video",
+                "width": 1920
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 269700000,
+                "height": 1080,
+                "id": "e80f94a684fe433699e2d496d47b9b39",
+                "local_material_id": "",
+                "material_id": "e80f94a684fe433699e2d496d47b9b39",
+                "material_name": "ANH16180_About Your Heart Attack.mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\nucleus\\cardiology\\ANH16180_About Your Heart Attack.mp4",
+                "type": "video",
+                "width": 1920
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 278533000,
+                "height": 1080,
+                "id": "0f548a1095e9451f95b0c309ec286fb9",
+                "local_material_id": "",
+                "material_id": "0f548a1095e9451f95b0c309ec286fb9",
+                "material_name": "ANH14135_Cardiac Arrhythmia.mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\nucleus\\cardiology\\ANH14135_Cardiac Arrhythmia.mp4",
+                "type": "video",
+                "width": 1920
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 119533000,
+                "height": 1080,
+                "id": "2a386115fba1474d9eefd2d8b90954ba",
+                "local_material_id": "",
+                "material_id": "2a386115fba1474d9eefd2d8b90954ba",
+                "material_name": "Effects of Congestive Heart Failure.mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\nucleus\\cardiology\\Effects of Congestive Heart Failure.mp4",
+                "type": "video",
+                "width": 1920
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 309567000,
+                "height": 1080,
+                "id": "1ca366e5c6854f61a80635d49400ffee",
+                "local_material_id": "",
+                "material_id": "1ca366e5c6854f61a80635d49400ffee",
+                "material_name": "ANH13113_Acute Coronary Syndrome and Heart Attack.mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\nucleus\\cardiology\\ANH13113_Acute Coronary Syndrome and Heart Attack.mp4",
+                "type": "video",
+                "width": 1920
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 5067000,
+                "height": 240,
+                "id": "6efd6e38f7794950848603cfb6180d7b",
+                "local_material_id": "",
+                "material_id": "6efd6e38f7794950848603cfb6180d7b",
+                "material_name": "ANS00339_Electrocardiography (ECG).mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\nucleus\\cardiology\\ANS00339_Electrocardiography (ECG).mp4",
+                "type": "video",
+                "width": 320
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 529533000,
+                "height": 1080,
+                "id": "ec9c9b5bff304e1f95f190333b2ddde8",
+                "local_material_id": "",
+                "material_id": "ec9c9b5bff304e1f95f190333b2ddde8",
+                "material_name": "ANH12071_Health Effects of Smoking.mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\nucleus\\cardiology\\ANH12071_Health Effects of Smoking.mp4",
+                "type": "video",
+                "width": 1920
+            },
+            {
+                "audio_fade": null,
+                "category_id": "",
+                "category_name": "local",
+                "check_flag": 63487,
+                "crop": {
+                    "upper_left_x": 0.0,
+                    "upper_left_y": 0.0,
+                    "upper_right_x": 1.0,
+                    "upper_right_y": 0.0,
+                    "lower_left_x": 0.0,
+                    "lower_left_y": 1.0,
+                    "lower_right_x": 1.0,
+                    "lower_right_y": 1.0
+                },
+                "crop_ratio": "free",
+                "crop_scale": 1.0,
+                "duration": 427633000,
+                "height": 1080,
+                "id": "8e6e78936d154a99b0e681d6cd0d2d61",
+                "local_material_id": "",
+                "material_id": "8e6e78936d154a99b0e681d6cd0d2d61",
+                "material_name": "AND14017_After a Heart Attack_ Managing Your Recovery.mp4",
+                "media_path": "",
+                "path": "P:\\团队空间\\公司通用\\AIkaifa\\nucleus\\cardiology\\AND14017_After a Heart Attack_ Managing Your Recovery.mp4",
+                "type": "video",
+                "width": 1920
+            }
+        ],
+        "vocal_beautifys": [],
+        "vocal_separations": []
+    },
+    "mutable_config": null,
+    "name": "",
+    "new_version": "110.0.0",
+    "relationships": [],
+    "render_index_track_mode_on": false,
+    "retouch_cover": null,
+    "source": "default",
+    "static_cover_image_path": "",
+    "time_marks": null,
+    "tracks": [
+        {
+            "attribute": 0,
+            "flag": 0,
+            "id": "dffb0602906243598fe8dec7a552b64e",
+            "is_default_name": false,
+            "name": "main",
+            "segments": [
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "7d1e785741644da283f9ffad471ceca8",
+                    "material_id": "14cefbd3b556438495ee5cfd9549b16c",
+                    "target_timerange": {
+                        "start": 0,
+                        "duration": 325517000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 0,
+                        "duration": 325517000
+                    },
+                    "speed": 1.0,
+                    "volume": 1.0,
+                    "extra_material_refs": [
+                        "79678b4756be41e8934508404d84dfdc"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 0
+                }
+            ],
+            "type": "video"
+        },
+        {
+            "attribute": 0,
+            "flag": 0,
+            "id": "1827c5c194044fb0949f5800ae54fb7c",
+            "is_default_name": false,
+            "name": "assets",
+            "segments": [
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "aad36c2fb8d54ea6b73ecb3b4006e45c",
+                    "material_id": "e1e4613940b1487486b769a9c55ae520",
+                    "target_timerange": {
+                        "start": 0,
+                        "duration": 8958559
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 0,
+                        "duration": 22000000
+                    },
+                    "speed": 2.4557522123893807,
+                    "volume": 0.0,
+                    "extra_material_refs": [
+                        "68e5339bd0ac46cd9f2b5600e9696946"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 1
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "a3d6f8e009044f29990215c2f37c6c90",
+                    "material_id": "481c9519fd8a4ca097cf45ab004ab5e8",
+                    "target_timerange": {
+                        "start": 18240000,
+                        "duration": 10001981
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 128720000,
+                        "duration": 25640000
+                    },
+                    "speed": 2.5634920634920633,
+                    "volume": 0.0,
+                    "extra_material_refs": [
+                        "3befb31bbb3e4fdb926004cfae1a7f4c"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 1
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "9dbbd0d7272c425aafb50d95448f473e",
+                    "material_id": "5e89667477a840e69e7ef343bd2a4209",
+                    "target_timerange": {
+                        "start": 57220000,
+                        "duration": 7641707
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 43360000,
+                        "duration": 12919999
+                    },
+                    "speed": 1.6907216494845347,
+                    "volume": 0.0,
+                    "extra_material_refs": [
+                        "9ded3aaf03024cc0bb63db38b53896a5"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 1
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "3e38a3d55edb4b28829800441bf3449a",
+                    "material_id": "f2396ea8a40744c9a87292d300d9ec55",
+                    "target_timerange": {
+                        "start": 65459999,
+                        "duration": 8087142
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 17760000,
+                        "duration": 22199999
+                    },
+                    "speed": 2.745098039215682,
+                    "volume": 0.0,
+                    "extra_material_refs": [
+                        "6a8165437534484ea3ca179a7bcb336d"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 1
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "5910f6f6624f4284b6163187d5e225a9",
+                    "material_id": "aa4f98dc0d97492f9147d8fd42724612",
+                    "target_timerange": {
+                        "start": 74100000,
+                        "duration": 8994725
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 162520000,
+                        "duration": 14360000
+                    },
+                    "speed": 1.5964912280701749,
+                    "volume": 0.0,
+                    "extra_material_refs": [
+                        "8e877783c2e84cb5a1023724af728147"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 1
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "83af2f6bcb034261ba10aa8133aae6b2",
+                    "material_id": "1f69e7826a5549a580e52924d3347a58",
+                    "target_timerange": {
+                        "start": 83620000,
+                        "duration": 11092000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 58000000,
+                        "duration": 11800000
+                    },
+                    "speed": 1.0638297872340425,
+                    "volume": 0.0,
+                    "extra_material_refs": [
+                        "62ffdefc83e6447eb8f227a1065f57b2"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 1
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "5cece277d00845eba737a9a5adbce675",
+                    "material_id": "e80f94a684fe433699e2d496d47b9b39",
+                    "target_timerange": {
+                        "start": 134360000,
+                        "duration": 11189615
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 84240000,
+                        "duration": 24760000
+                    },
+                    "speed": 2.2127659574468144,
+                    "volume": 0.0,
+                    "extra_material_refs": [
+                        "b7dcfda1841d443098c80fc1c88432e0"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 1
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "30886437167d4d8fbf66386220492424",
+                    "material_id": "0f548a1095e9451f95b0c309ec286fb9",
+                    "target_timerange": {
+                        "start": 145960000,
+                        "duration": 5859959
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 179560000,
+                        "duration": 19520000
+                    },
+                    "speed": 3.331081081081088,
+                    "volume": 0.0,
+                    "extra_material_refs": [
+                        "0da5d7a0646243fdb8bdb0a19e6fe748"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 1
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "9488c350b694409ba1d12ece06dd3ca7",
+                    "material_id": "2a386115fba1474d9eefd2d8b90954ba",
+                    "target_timerange": {
+                        "start": 203360000,
+                        "duration": 10279907
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 100920000,
+                        "duration": 17119999
+                    },
+                    "speed": 1.6653846153846183,
+                    "volume": 0.0,
+                    "extra_material_refs": [
+                        "7bb9315712324049adc4d91c0d0b6d84"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 1
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "6deeda01bc6041f3afee1b010a6fa1e9",
+                    "material_id": "1ca366e5c6854f61a80635d49400ffee",
+                    "target_timerange": {
+                        "start": 247691000,
+                        "duration": 8246889
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 236120000,
+                        "duration": 22559999
+                    },
+                    "speed": 2.735576923076915,
+                    "volume": 0.0,
+                    "extra_material_refs": [
+                        "d6273d9527494719a2c90f18ce87fa9c"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 1
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "aa42424fe08246718e54ccd5a1498dcc",
+                    "material_id": "6efd6e38f7794950848603cfb6180d7b",
+                    "target_timerange": {
+                        "start": 267551000,
+                        "duration": 4800000
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 0,
+                        "duration": 4800000
+                    },
+                    "speed": 1.0,
+                    "volume": 0.0,
+                    "extra_material_refs": [
+                        "c47c489a8f30408a8fee4da03c5d6809"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 1
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "7a90bfd06f0a4b958f34166b07d14312",
+                    "material_id": "ec9c9b5bff304e1f95f190333b2ddde8",
+                    "target_timerange": {
+                        "start": 291751000,
+                        "duration": 8819756
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 130039999,
+                        "duration": 29280000
+                    },
+                    "speed": 3.3198198198198234,
+                    "volume": 0.0,
+                    "extra_material_refs": [
+                        "a90738e031154d619c4e552b6c5a8e2b"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 1
+                },
+                {
+                    "enable_adjust": true,
+                    "enable_color_correct_adjust": false,
+                    "enable_color_curves": true,
+                    "enable_color_match_adjust": false,
+                    "enable_color_wheels": true,
+                    "enable_lut": true,
+                    "enable_smart_color_adjust": false,
+                    "last_nonzero_volume": 1.0,
+                    "reverse": false,
+                    "track_attribute": 0,
+                    "track_render_index": 0,
+                    "visible": true,
+                    "id": "85841b220aff4bde82b1af687b652690",
+                    "material_id": "8e6e78936d154a99b0e681d6cd0d2d61",
+                    "target_timerange": {
+                        "start": 310571000,
+                        "duration": 10285714
+                    },
+                    "common_keyframes": [],
+                    "keyframe_refs": [],
+                    "source_timerange": {
+                        "start": 404280000,
+                        "duration": 18000000
+                    },
+                    "speed": 1.7500000000000082,
+                    "volume": 0.0,
+                    "extra_material_refs": [
+                        "825fe99f242a4f728ee1c0a3b48a461a"
+                    ],
+                    "is_tone_modify": false,
+                    "clip": {
+                        "alpha": 1.0,
+                        "flip": {
+                            "horizontal": false,
+                            "vertical": false
+                        },
+                        "rotation": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "transform": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "uniform_scale": {
+                        "on": true,
+                        "value": 1.0
+                    },
+                    "hdr_settings": {
+                        "intensity": 1.0,
+                        "mode": 1,
+                        "nits": 1000
+                    },
+                    "render_index": 1
+                }
+            ],
+            "type": "video"
+        }
+    ],
+    "update_time": 0,
+    "version": 360000
+}

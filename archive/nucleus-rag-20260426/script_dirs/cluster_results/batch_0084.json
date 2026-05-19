@@ -1,0 +1,523 @@
+[
+  {
+    "global_index": 3360,
+    "seg_id": "S5-L3",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查四：低密度脂蛋白",
+    "template": "category_table",
+    "items": [
+      "普通人群报告参考值",
+      "低于 3.4 mmol/L",
+      "高风险人群达标值",
+      "低于 2.6 甚至 1.8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3361,
+    "seg_id": "S5-L4",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查四：低密度脂蛋白",
+    "template": "myth_buster",
+    "items": [
+      "看报告没超标就放心了",
+      "应让医生评估个人达标值"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3362,
+    "seg_id": "S5-L5",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查四：低密度脂蛋白",
+    "template": "hero_text",
+    "items": [
+      "让医生告诉你该控制到多少"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3363,
+    "seg_id": "S6-L1",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "number_center",
+    "items": [
+      "05"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3364,
+    "seg_id": "S6-L2",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "color_grid",
+    "items": [
+      "几十元留个尿即可检测",
+      "发现肾小血管是否漏蛋白"
+    ],
+    "needs_animation": true,
+    "label": "肾小球滤过屏障漏蛋白过程"
+  },
+  {
+    "global_index": 3365,
+    "seg_id": "S6-L3",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "step_arrow",
+    "items": [
+      "高血压高血糖长期存在",
+      "最先损伤肾脏毛细血管"
+    ],
+    "needs_animation": true,
+    "label": "高血压高血糖损伤肾脏毛细血管过程"
+  },
+  {
+    "global_index": 3366,
+    "seg_id": "S6-L4",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "warning_alert",
+    "items": [
+      "肾小血管漏蛋白",
+      "意味着全身微循环出问题"
+    ],
+    "needs_animation": true,
+    "label": "肾小血管通透性增加与微循环损伤"
+  },
+  {
+    "global_index": 3367,
+    "seg_id": "S6-L5",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "branch_path",
+    "items": [
+      "发现尿微量白蛋白偏高",
+      "控好血压血糖，损伤可逆",
+      "拖延不查，肾损伤难逆转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3368,
+    "seg_id": "S6-L6",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "warning_alert",
+    "items": [
+      "等肌酐升高才发现",
+      "肾脏损伤将难以逆转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3369,
+    "seg_id": "S6-L7",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "vertical_timeline",
+    "items": [
+      "早期：微量白蛋白漏出，可干预",
+      "中期：持续损伤，干预效果下降",
+      "晚期：肌酐升高，损伤难逆转"
+    ],
+    "needs_animation": true,
+    "label": "肾脏损伤从微量白蛋白漏出到肌酐升高的病理进展"
+  },
+  {
+    "global_index": 3370,
+    "seg_id": "S7-L1",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "行动总结",
+    "template": "hero_text",
+    "items": [
+      "体检时把这条视频翻出来对照"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3371,
+    "seg_id": "S7-L2",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "行动总结",
+    "template": "split_column",
+    "items": [
+      "五项合计花费不多",
+      "可规避心梗脑梗大风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3372,
+    "seg_id": "S7-L3",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "行动总结",
+    "template": "hero_text",
+    "items": [
+      "这五项检查，你做过几项？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3373,
+    "seg_id": "S1-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "开场破题",
+    "template": "split_column",
+    "items": [
+      "脑梗：发生在脑袋",
+      "心梗：发生在心脏",
+      "位置不同",
+      "名字相似"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3374,
+    "seg_id": "S1-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "这两个病，爹妈是同一个"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3375,
+    "seg_id": "S1-L3",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "捋清楚，你就全明白了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3376,
+    "seg_id": "S2-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "共同的病根",
+    "template": "hero_text",
+    "items": [
+      "血管就像家里的水管，会积水垢"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3377,
+    "seg_id": "S2-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "共同的病根",
+    "template": "body_annotate",
+    "items": [
+      "冠状动脉：心脏供血管道",
+      "脑动脉：大脑供血管道",
+      "本质都是管子，都会长斑块"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉与脑动脉解剖结构"
+  },
+  {
+    "global_index": 3378,
+    "seg_id": "S2-L3",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "共同的病根",
+    "template": "color_grid",
+    "items": [
+      "高血压 / 高血糖 / 高血脂",
+      "抽烟",
+      "肥胖",
+      "不运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3379,
+    "seg_id": "S2-L4",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "共同的病根",
+    "template": "hero_text",
+    "items": [
+      "哪根管子薄弱，哪根先出事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3380,
+    "seg_id": "S3-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "同病异处",
+    "template": "hero_text",
+    "items": [
+      "同一种病，在不同地方发作"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3381,
+    "seg_id": "S3-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "同病异处",
+    "template": "step_arrow",
+    "items": [
+      "斑块堵住冠状动脉",
+      "心肌断血",
+      "心梗发生"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉斑块堵塞导致心肌缺血过程"
+  },
+  {
+    "global_index": 3382,
+    "seg_id": "S3-L3",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "同病异处",
+    "template": "step_arrow",
+    "items": [
+      "斑块堵住脑血管",
+      "脑组织断血",
+      "脑梗发生"
+    ],
+    "needs_animation": true,
+    "label": "脑动脉斑块堵塞导致脑组织缺血过程"
+  },
+  {
+    "global_index": 3383,
+    "seg_id": "S3-L4",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "同病异处",
+    "template": "hero_text",
+    "items": [
+      "共同病根：动脉粥样硬化"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3384,
+    "seg_id": "S4-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "为何发病部位不同",
+    "template": "hero_text",
+    "items": [
+      "哪根管子先扛不住，决定先发哪种"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3385,
+    "seg_id": "S4-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "为何发病部位不同",
+    "template": "list_fade",
+    "items": [
+      "冠状动脉仅约3-4毫米粗",
+      "心脏持续跳动冲击力极大",
+      "特别容易积累斑块"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉管径与血流冲击下斑块积累"
+  },
+  {
+    "global_index": 3386,
+    "seg_id": "S4-L3",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "为何发病部位不同",
+    "template": "list_fade",
+    "items": [
+      "颈动脉分叉处血流像撞墙",
+      "分叉区是斑块重灾区"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉分叉处血流动力学与斑块形成"
+  },
+  {
+    "global_index": 3387,
+    "seg_id": "S5-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "一损俱损",
+    "template": "warning_alert",
+    "items": [
+      "得过心梗，脑梗风险大幅升高",
+      "得过脑梗，心脏同样需要警惕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3388,
+    "seg_id": "S5-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "一损俱损",
+    "template": "hero_text",
+    "items": [
+      "病根没变，全身血管都在悄悄长斑块"
+    ],
+    "needs_animation": true,
+    "label": "全身动脉血管壁斑块同步生长过程"
+  },
+  {
+    "global_index": 3389,
+    "seg_id": "S5-L3",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "一损俱损",
+    "template": "split_column",
+    "items": [
+      "心梗术后查颈动脉和脑血管",
+      "脑梗后同步评估心脏状况",
+      "心脏出事",
+      "脑血管同步受累"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3390,
+    "seg_id": "S6-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "预防五件事",
+    "template": "hero_text",
+    "items": [
+      "病根相同，预防方法也一样"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3391,
+    "seg_id": "S6-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "预防五件事",
+    "template": "number_center",
+    "items": [
+      "1"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3392,
+    "seg_id": "S6-L3",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "预防五件事",
+    "template": "list_fade",
+    "items": [
+      "管好低密度脂蛋白胆固醇",
+      "它是斑块的原材料",
+      "该吃他汀不要硬扛"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白沉积形成动脉斑块过程"
+  },
+  {
+    "global_index": 3393,
+    "seg_id": "S6-L4",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "预防五件事",
+    "template": "hero_text",
+    "items": [
+      "糖尿病对血管的伤害是全身持续性的"
+    ],
+    "needs_animation": true,
+    "label": "高血糖对血管内皮的持续性损伤机制"
+  },
+  {
+    "global_index": 3394,
+    "seg_id": "S6-L5",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "预防五件事",
+    "template": "warning_alert",
+    "items": [
+      "烟让斑块更易形成，更易破裂"
+    ],
+    "needs_animation": true,
+    "label": "吸烟促进斑块形成与斑块破裂过程"
+  },
+  {
+    "global_index": 3395,
+    "seg_id": "S6-L6",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "预防五件事",
+    "template": "list_fade",
+    "items": [
+      "每周5天，每次30分钟",
+      "中等强度有氧运动",
+      "不花钱改善全身血管的方法"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3396,
+    "seg_id": "S7-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "紧急预警信号",
+    "template": "warning_alert",
+    "items": [
+      "突然肢体无力、嘴歪说话含糊→脑梗信号",
+      "突然胸痛出冷汗喘不上气→心梗信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3397,
+    "seg_id": "S8-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "结语收尾",
+    "template": "hero_text",
+    "items": [
+      "同一棵树上结的两颗果子"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3398,
+    "seg_id": "S8-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "结语收尾",
+    "template": "brick_stack",
+    "items": [
+      "控血压",
+      "管血脂",
+      "控血糖",
+      "戒烟",
+      "坚持运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3399,
+    "seg_id": "S1-L1",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "停药的危险",
+    "template": "hero_text",
+    "items": [
+      "脑梗后的药，好了也不能停"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

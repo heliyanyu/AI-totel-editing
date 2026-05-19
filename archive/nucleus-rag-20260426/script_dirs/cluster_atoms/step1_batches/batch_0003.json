@@ -1,0 +1,557 @@
+[
+  {
+    "global_index": 120,
+    "seg_id": "S8-L4",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "逆转的边界与希望",
+    "template": "hero_text",
+    "items": [
+      "说清楚了吗评论区告诉我"
+    ],
+    "atoms_text": "我都说明白了嘛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 121,
+    "seg_id": "S1-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言开场引入",
+    "template": "warning_alert",
+    "items": [
+      "偏方治糖尿病的视频满天飞",
+      "胰岛素会上瘾千万别打"
+    ],
+    "atoms_text": "你是不是 经常刷到 这样的视频 糖尿病不用吃药 这个偏方就能治好 打胰岛素会上瘾 千万别打",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 122,
+    "seg_id": "S1-L2",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言开场引入",
+    "template": "hero_text",
+    "items": [
+      "五条糖尿病谣言正在害人"
+    ],
+    "atoms_text": "关于糖尿病的 五条谣言呢 真是太害人了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 123,
+    "seg_id": "S1-L3",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言开场引入",
+    "template": "hero_text",
+    "items": [
+      "一条一条讲清楚谣言真相"
+    ],
+    "atoms_text": "今天我 一条一条 跟你讲清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 124,
+    "seg_id": "S2-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言一：糖吃多了才得糖尿病",
+    "template": "myth_buster",
+    "items": [
+      "糖尿病是糖吃多了吃出来的",
+      "这是传播最广的谣言"
+    ],
+    "atoms_text": "第一条 糖尿病是糖吃多了 吃出来的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 125,
+    "seg_id": "S2-L2",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言一：糖吃多了才得糖尿病",
+    "template": "hero_text",
+    "items": [
+      "胰腺正常吃一斤糖血糖照样能恢复"
+    ],
+    "atoms_text": "这大概是 传播最广的 一条谣言了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 126,
+    "seg_id": "S2-L3",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言一：糖吃多了才得糖尿病",
+    "template": "split_column",
+    "items": [
+      "嘴馋吃糖导致糖尿病",
+      "胰岛素不敏感或分泌不足才是根源"
+    ],
+    "atoms_text": "糖尿病呢 不是嘴馋的报应",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 127,
+    "seg_id": "S2-L4",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言一：糖吃多了才得糖尿病",
+    "template": "brick_stack",
+    "items": [
+      "久坐不动",
+      "遗传因素",
+      "内脏脂肪堆积",
+      "肥胖超重"
+    ],
+    "atoms_text": "你胰腺功能正常的话 今天吃一斤糖下去 血糖照样能够 调回到正常范围",
+    "needs_animation": true,
+    "label": "正常胰腺分泌胰岛素将大量糖摄入后的血糖调回正常范围"
+  },
+  {
+    "global_index": 128,
+    "seg_id": "S2-L5",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言一：糖吃多了才得糖尿病",
+    "template": "hero_text",
+    "items": [
+      "糖尿病的根是胰岛素出了问题"
+    ],
+    "atoms_text": "糖尿病真正的问题是 胰岛素不好使了 要么你身体对胰岛素不敏感 要么胰腺分泌的不够",
+    "needs_animation": true,
+    "label": "身体对胰岛素不敏感（胰岛素抵抗）与胰腺分泌胰岛素不足两条通路"
+  },
+  {
+    "global_index": 129,
+    "seg_id": "S2-L6",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言一：糖吃多了才得糖尿病",
+    "template": "list_fade",
+    "items": [
+      "遗传基因影响胰岛素功能",
+      "内脏脂肪干扰胰岛素敏感性",
+      "久坐加速胰岛素抵抗"
+    ],
+    "atoms_text": "肥胖 久坐 遗传 内脏脂肪的堆积 这些才是 真正的推手",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 130,
+    "seg_id": "S3-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言二：水果一口都不能碰",
+    "template": "myth_buster",
+    "items": [
+      "得糖尿病水果一口都不能碰",
+      "水果里的糖与含糖饮料完全不同"
+    ],
+    "atoms_text": "第二条 得了糖尿病 水果一口都不能碰 这个不敢吃 那个也不敢吃 一个苹果都要切成八瓣",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 131,
+    "seg_id": "S3-L2",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言二：水果一口都不能碰",
+    "template": "split_column",
+    "items": [
+      "含糖饮料糖分快速释放",
+      "水果含纤维糖分缓慢释放"
+    ],
+    "atoms_text": "其实水果里的糖 跟你喝的含糖饮料 完全两码事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 132,
+    "seg_id": "S3-L3",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言二：水果一口都不能碰",
+    "template": "list_fade",
+    "items": [
+      "草莓升糖速度低",
+      "蓝莓升糖速度低",
+      "柚子升糖速度低",
+      "樱桃升糖速度低"
+    ],
+    "atoms_text": "水果里面呢 有膳食纤维 糖的释放是缓慢的",
+    "needs_animation": true,
+    "label": "膳食纤维使水果中的糖在肠道缓慢释放吸收"
+  },
+  {
+    "global_index": 133,
+    "seg_id": "S3-L4",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言二：水果一口都不能碰",
+    "template": "step_arrow",
+    "items": [
+      "每天一拳头大小的量",
+      "放在两餐之间吃",
+      "对血糖影响很小"
+    ],
+    "atoms_text": "草莓 蓝莓 柚子 樱桃 这些水果的升糖速度 并不高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 134,
+    "seg_id": "S3-L5",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言二：水果一口都不能碰",
+    "template": "warning_alert",
+    "items": [
+      "水果榨汁后纤维消失等于喝糖水"
+    ],
+    "atoms_text": "每天吃一拳头大小的量 放在两餐之间 对血糖的影响很小",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 135,
+    "seg_id": "S3-L6",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言二：水果一口都不能碰",
+    "template": "myth_buster",
+    "items": [
+      "糖尿病人水果完全不能吃",
+      "选对品种控好量可以适量吃"
+    ],
+    "atoms_text": "真正要戒的是果汁 水果一榨汁 纤维没了 跟喝糖水没区别",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 136,
+    "seg_id": "S4-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "myth_buster",
+    "items": [
+      "血糖降得越低越好越安全",
+      "低血糖伤害比高血糖更快更急"
+    ],
+    "atoms_text": "第三条 血糖降的越低越好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 137,
+    "seg_id": "S4-L2",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "split_column",
+    "items": [
+      "高血糖伤害以年为单位累积",
+      "低血糖伤害以小时分钟计算"
+    ],
+    "atoms_text": "高血糖伤你 是用年来算的 低血糖伤你 是用小时甚至分钟来算",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 138,
+    "seg_id": "S4-L3",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "vertical_timeline",
+    "items": [
+      "低于3.9 心慌手抖冒冷汗",
+      "低于2.8 可能直接晕倒",
+      "极度低血糖 脑细胞缺糖致命"
+    ],
+    "atoms_text": "血糖低于三点九 你就可能 心慌手抖冒冷汗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 139,
+    "seg_id": "S4-L4",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "warning_alert",
+    "items": [
+      "老年人夜里低血糖自己毫无察觉"
+    ],
+    "atoms_text": "低于二点八 你可能直接晕过去",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 140,
+    "seg_id": "S4-L5",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "warning_alert",
+    "items": [
+      "不要自行加药追求血糖越低越好"
+    ],
+    "atoms_text": "最低的话 脑细胞缺糖 是会死人的",
+    "needs_animation": true,
+    "label": "脑细胞因严重缺糖而损伤死亡"
+  },
+  {
+    "global_index": 141,
+    "seg_id": "S4-L6",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "hero_text",
+    "items": [
+      "血糖目标应由医生根据个人情况设定"
+    ],
+    "atoms_text": "尤其是老年人 夜里低血糖 自己都不知道",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 142,
+    "seg_id": "S4-L7",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "number_center",
+    "items": [
+      "7～8"
+    ],
+    "atoms_text": "所以千万别 自己加药 追求越低越好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 143,
+    "seg_id": "S4-L8",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "hero_text",
+    "items": [
+      "适合自己的目标才是好目标"
+    ],
+    "atoms_text": "你的血糖目标 应该让医生 根据你的年龄和身体状况 来定",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 144,
+    "seg_id": "S4-L9",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "list_fade",
+    "items": [
+      "年龄影响血糖控制目标",
+      "身体基础状况决定安全范围",
+      "用药方案影响目标设定"
+    ],
+    "atoms_text": "六七十岁的人 空腹血糖 控制在七到八之间 也很好了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 145,
+    "seg_id": "S5-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言四：胰岛素打了会上瘾",
+    "template": "myth_buster",
+    "items": [
+      "胰岛素一打就停不了会上瘾",
+      "胰岛素是身体本来就有的物质"
+    ],
+    "atoms_text": "第四条 打胰岛素会上瘾 一打就停不了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 146,
+    "seg_id": "S5-L2",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言四：胰岛素打了会上瘾",
+    "template": "hero_text",
+    "items": [
+      "缺什么补什么这是最基本的道理"
+    ],
+    "atoms_text": "胰岛素呢 是你身体里 本来就有的东西 它不是毒品 怎么会上瘾呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 147,
+    "seg_id": "S5-L3",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言四：胰岛素打了会上瘾",
+    "template": "step_arrow",
+    "items": [
+      "早期注射胰岛素快速压低血糖",
+      "让胰腺得到充分休息恢复",
+      "之后可换回口服药甚至减药"
+    ],
+    "atoms_text": "你缺胰岛素 补上去 这是天经地义的事情",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 148,
+    "seg_id": "S5-L4",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言四：胰岛素打了会上瘾",
+    "template": "split_column",
+    "items": [
+      "打胰岛素配合治疗可减药",
+      "拒绝胰岛素血糖持续高并发症来袭"
+    ],
+    "atoms_text": "很多人在早期 用一段胰岛素 把血糖先压下来 让胰腺喘口气 之后反而可以 换回口服药 甚至有的人 能够减药",
+    "needs_animation": true,
+    "label": "外源胰岛素替胰腺分担工作使其功能得到恢复"
+  },
+  {
+    "global_index": 149,
+    "seg_id": "S5-L5",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言四：胰岛素打了会上瘾",
+    "template": "warning_alert",
+    "items": [
+      "血糖长期高着并发症才是真正回不了头"
+    ],
+    "atoms_text": "你不打 血糖一直高着 并发症来的更快 那才是真正回不了头",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 150,
+    "seg_id": "S6-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言五：瘦人不会得糖尿病",
+    "template": "myth_buster",
+    "items": [
+      "体型瘦所以不会得糖尿病",
+      "瘦人同样可能患上糖尿病"
+    ],
+    "atoms_text": "第五条 瘦人不会得糖尿病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 151,
+    "seg_id": "S6-L2",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言五：瘦人不会得糖尿病",
+    "template": "body_annotate",
+    "items": [
+      "肝脏脂肪从外表看不出来",
+      "胰腺上有脂肪影响功能",
+      "体重正常但内脏脂肪不少"
+    ],
+    "atoms_text": "你身边一定有这种人 体重正常甚至偏瘦 结果一查血糖 糖尿病 怎么回事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 152,
+    "seg_id": "S6-L3",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言五：瘦人不会得糖尿病",
+    "template": "warning_alert",
+    "items": [
+      "瘦人得糖尿病往往胰腺功能更弱更难逆转"
+    ],
+    "atoms_text": "因为他虽然看着瘦 但是内脏脂肪不少 肝脏有脂肪 胰腺上有脂肪 这呢你从外表上看不出",
+    "needs_animation": true,
+    "label": "瘦人肝脏和胰腺表面隐性内脏脂肪堆积"
+  },
+  {
+    "global_index": 153,
+    "seg_id": "S6-L4",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言五：瘦人不会得糖尿病",
+    "template": "list_fade",
+    "items": [
+      "有糖尿病家族史的瘦人",
+      "腰围偏大的隐性肥胖者",
+      "平时几乎不运动的瘦子"
+    ],
+    "atoms_text": "有些瘦的人 一旦得了糖尿病 往往说明 他的胰腺功能 本身就比较弱 比胖的人 更难以逆转",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 154,
+    "seg_id": "S6-L5",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言五：瘦人不会得糖尿病",
+    "template": "step_arrow",
+    "items": [
+      "每年定期检查一次",
+      "查空腹血糖了解即时状态",
+      "查糖化血红蛋白了解长期血糖"
+    ],
+    "atoms_text": "所以尤其是 有家族史的 腰围偏大的 平时不运动的 瘦子 一样要每年查一查 空腹血糖 和糖化血红蛋白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 155,
+    "seg_id": "S7-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "总结互动收尾",
+    "template": "hero_text",
+    "items": [
+      "这五条谣言你中了几条？家人信了几条？"
+    ],
+    "atoms_text": "好了 我说明白了吗 这五条害人的谣言 你中了几条 家里人有信几条",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 156,
+    "seg_id": "S1-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "hero_text",
+    "items": [
+      "体检正常，怎么突然就糖尿病了？"
+    ],
+    "atoms_text": "年年体检 空腹血糖都正常 怎么今年一查 就成糖尿病了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 157,
+    "seg_id": "S1-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "hero_text",
+    "items": [
+      "二型糖尿病从不突然降临"
+    ],
+    "atoms_text": "其实呢 对于绝大多数人来说 二型糖尿病 并不是突然降临的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 158,
+    "seg_id": "S1-L3",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "vertical_timeline",
+    "items": [
+      "早期：身体持续发出求救信号",
+      "中期：胰腺超负荷运转",
+      "晚期：血糖全线崩溃"
+    ],
+    "atoms_text": "在你真正被扣上糖尿病的帽子之前呢 大概有五到十年的时间 你的身体呢 已经在拼命向你求救 只是你根本没有听懂",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 159,
+    "seg_id": "S1-L4",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "hero_text",
+    "items": [
+      "这个阶段叫做胰岛素抵抗"
+    ],
+    "atoms_text": "这个拉响警报的阶段呢 就叫做胰岛素抵抗",
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,526 @@
+[
+  {
+    "global_index": 2040,
+    "seg_id": "S6-L1",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "降压强度选谁",
+    "template": "color_grid",
+    "items": [
+      "奥美沙坦",
+      "美阿沙坦"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2041,
+    "seg_id": "S6-L2",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "降压强度选谁",
+    "template": "list_fade",
+    "items": [
+      "分子结构经过优化",
+      "结合位点更多亲和力更强",
+      "降压幅度沙坦家族中拔尖"
+    ],
+    "needs_animation": true,
+    "label": "沙坦类药物与AT1受体结合机制"
+  },
+  {
+    "global_index": 2042,
+    "seg_id": "S6-L3",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "降压强度选谁",
+    "template": "warning_alert",
+    "items": [
+      "心衰或重度肾功能不全者慎用",
+      "老年体弱者慎用防低血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2043,
+    "seg_id": "S7-L1",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "全天平稳降压选谁",
+    "template": "hero_text",
+    "items": [
+      "需要24小时平稳控压，选替米沙坦"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2044,
+    "seg_id": "S7-L2",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "全天平稳降压选谁",
+    "template": "list_fade",
+    "items": [
+      "与受体结合紧密而持久",
+      "半衰期超过24小时",
+      "防止后半夜血压反弹"
+    ],
+    "needs_animation": true,
+    "label": "沙坦类药物与AT1受体结合机制"
+  },
+  {
+    "global_index": 2045,
+    "seg_id": "S8-L1",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "用药总结提醒",
+    "template": "hero_text",
+    "items": [
+      "了解医生选药逻辑，不是教你自选药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2046,
+    "seg_id": "S8-L2",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "用药总结提醒",
+    "template": "hero_text",
+    "items": [
+      "沙坦无好坏，关键看适配性"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2047,
+    "seg_id": "S8-L3",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "用药总结提醒",
+    "template": "list_fade",
+    "items": [
+      "遵医嘱规范用药",
+      "切勿自行减药停药换药",
+      "平稳降压保护靶器官"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2048,
+    "seg_id": "S1-L1",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "认知误区开场",
+    "template": "hero_text",
+    "items": [
+      "高血压患者能运动吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2049,
+    "seg_id": "S1-L2",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "认知误区开场",
+    "template": "myth_buster",
+    "items": [
+      "血压高，运动更危险，不敢动",
+      "适度规律运动有助控压",
+      "拼命练、跑到喘不上气",
+      "运动强度过猛同样有害"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2050,
+    "seg_id": "S1-L3",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "认知误区开场",
+    "template": "myth_buster",
+    "items": [
+      "怕血压升高，干脆完全不动",
+      "不运动才是真正的危险",
+      "举铁举到脸通红、拼命运动",
+      "过量运动与不动都走极端"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2051,
+    "seg_id": "S1-L4",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "认知误区开场",
+    "template": "hero_text",
+    "items": [
+      "这两种做法都是错的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2052,
+    "seg_id": "S2-L1",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "运动为何能降压",
+    "template": "step_arrow",
+    "items": [
+      "运动时肌肉需要更多血液",
+      "心脏加力泵血，血压短暂升高",
+      "停止运动后血压自然回落"
+    ],
+    "needs_animation": true,
+    "label": "运动时心脏泵血与血压调节过程"
+  },
+  {
+    "global_index": 2053,
+    "seg_id": "S2-L2",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "运动为何能降压",
+    "template": "hero_text",
+    "items": [
+      "长期规律运动使静息血压降低"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2054,
+    "seg_id": "S2-L3",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "运动为何能降压",
+    "template": "step_arrow",
+    "items": [
+      "心脏肌肉经锻炼后变强",
+      "每次跳动泵血量增加",
+      "无需高频强力收缩，血压下降"
+    ],
+    "needs_animation": true,
+    "label": "心肌增强与每搏输出量增加机制"
+  },
+  {
+    "global_index": 2055,
+    "seg_id": "S2-L4",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "运动为何能降压",
+    "template": "warning_alert",
+    "items": [
+      "不动→体重增→血管弹性差→血压更高"
+    ],
+    "needs_animation": true,
+    "label": "血管弹性下降与血压升高过程"
+  },
+  {
+    "global_index": 2056,
+    "seg_id": "S2-L5",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "运动为何能降压",
+    "template": "brick_stack",
+    "items": [
+      "不运动导致体重持续上涨",
+      "血管弹性越来越差",
+      "血压越来越难以控制",
+      "越害怕运动越不敢动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2057,
+    "seg_id": "S3-L1",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "高血压运动三禁区",
+    "template": "hero_text",
+    "items": [
+      "高血压运动有三个禁区"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2058,
+    "seg_id": "S3-L2",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "高血压运动三禁区",
+    "template": "warning_alert",
+    "items": [
+      "憋气深蹲硬拉瞬间推高血压",
+      "脑血管承受巨大冲击，极危险"
+    ],
+    "needs_animation": true,
+    "label": "憋气发力时血压骤升冲击脑血管过程"
+  },
+  {
+    "global_index": 2059,
+    "seg_id": "S3-L3",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "高血压运动三禁区",
+    "template": "warning_alert",
+    "items": [
+      "突然冲刺或打高强度球类运动",
+      "心脏来不及适应，极易出事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2060,
+    "seg_id": "S3-L4",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "高血压运动三禁区",
+    "template": "branch_path",
+    "items": [
+      "高压经常超过180mmHg",
+      "先用药将血压控制后再运动",
+      "强行运动如发动机过热踩油门"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2061,
+    "seg_id": "S4-L1",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "高血压科学运动方案",
+    "template": "hero_text",
+    "items": [
+      "高血压患者的正确运动方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2062,
+    "seg_id": "S4-L2",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "高血压科学运动方案",
+    "template": "color_grid",
+    "items": [
+      "快走：门槛低安全随时可做",
+      "游泳：全身低冲击有氧运动",
+      "骑车：节奏稳可控强度适宜",
+      "慢跑：每次30~40分钟每周4~5次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2063,
+    "seg_id": "S4-L3",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "高血压科学运动方案",
+    "template": "branch_path",
+    "items": [
+      "运动时能说话但不能唱歌",
+      "强度合适，继续保持",
+      "喘到说不出完整句子，要减速"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2064,
+    "seg_id": "S4-L4",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "高血压科学运动方案",
+    "template": "step_arrow",
+    "items": [
+      "运动前慢活动热身5分钟",
+      "进行有氧运动主体",
+      "运动后慢走5分钟缓慢放松",
+      "血压平稳回落，避免头晕眼黑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2065,
+    "seg_id": "S4-L5",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "高血压科学运动方案",
+    "template": "list_fade",
+    "items": [
+      "选小重量多次数的力量动作",
+      "弹力带、小哑铃弯举均可",
+      "全程禁止憋气发力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2066,
+    "seg_id": "S5-L1",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "指南数据支撑",
+    "template": "hero_text",
+    "items": [
+      "运动与吃药并列写入高血压治疗指南"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2067,
+    "seg_id": "S5-L2",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "指南数据支撑",
+    "template": "number_center",
+    "items": [
+      "5~8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2068,
+    "seg_id": "S6-L1",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "总结行动呼吁",
+    "template": "list_fade",
+    "items": [
+      "先将血压控制到相对安全范围",
+      "以中等强度有氧运动为主",
+      "避免憋气发力和突然剧烈运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2069,
+    "seg_id": "S6-L2",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "总结行动呼吁",
+    "template": "hero_text",
+    "items": [
+      "科学运动对血管只有好处没有坏处"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2070,
+    "seg_id": "S6-L3",
+    "bp_title": "高血压能运动吗？两种极端都在害你",
+    "scene_title": "总结行动呼吁",
+    "template": "hero_text",
+    "items": [
+      "别窝在沙发上，出去走半小时吧"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2071,
+    "seg_id": "S1-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "体检报告里的恐慌",
+    "template": "hero_text",
+    "items": [
+      "TI-RADS三级，这几个字看完就慌了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2072,
+    "seg_id": "S1-L2",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "体检报告里的恐慌",
+    "template": "list_fade",
+    "items": [
+      "有人说可能是癌",
+      "有人说要尽早手术",
+      "有人说没切后悔了一辈子"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2073,
+    "seg_id": "S1-L3",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "体检报告里的恐慌",
+    "template": "hero_text",
+    "items": [
+      "越搜越怕，越怕越觉得自己完了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2074,
+    "seg_id": "S2-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "你真正该搞清楚的问题",
+    "template": "number_center",
+    "items": [
+      "8/10"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2075,
+    "seg_id": "S2-L2",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "你真正该搞清楚的问题",
+    "template": "myth_buster",
+    "items": [
+      "第一反应是要不要切",
+      "先搞清楚结节到底是什么",
+      "手术才能解决问题",
+      "看懂报告才是第一步"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2076,
+    "seg_id": "S2-L3",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "你真正该搞清楚的问题",
+    "template": "hero_text",
+    "items": [
+      "来，我帮你看看报告"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2077,
+    "seg_id": "S3-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "TI-RADS分级解读",
+    "template": "hero_text",
+    "items": [
+      "TI-RADS是给结节打分的系统"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2078,
+    "seg_id": "S3-L2",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "TI-RADS分级解读",
+    "template": "vertical_timeline",
+    "items": [
+      "一级：完全正常，没有结节",
+      "二级：有结节，一看就是良性",
+      "三级：大概率良性，需要观察"
+    ],
+    "needs_animation": true,
+    "label": "甲状腺结节超声分级形态特征"
+  },
+  {
+    "global_index": 2079,
+    "seg_id": "S3-L3",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "TI-RADS分级解读",
+    "template": "number_center",
+    "items": [
+      "5%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

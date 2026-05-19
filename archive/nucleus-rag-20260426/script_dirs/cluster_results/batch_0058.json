@@ -1,0 +1,513 @@
+[
+  {
+    "global_index": 2320,
+    "seg_id": "S7-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第二步：叫",
+    "template": "split_column",
+    "items": [
+      "自己开车或打车去医院",
+      "拨打120等待专业急救"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2321,
+    "seg_id": "S7-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第二步：叫",
+    "template": "hero_text",
+    "items": [
+      "上了急救车等于进了半个急诊室"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2322,
+    "seg_id": "S8-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第三步：开",
+    "template": "step_arrow",
+    "items": [
+      "独居者拨打120后开大门",
+      "方便急救人员第一时间进入"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2323,
+    "seg_id": "S8-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第三步：开",
+    "template": "warning_alert",
+    "items": [
+      "破门每耽误一分钟消耗一分心肌希望"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2324,
+    "seg_id": "S9-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第四步：等",
+    "template": "list_fade",
+    "items": [
+      "保持情绪稳定安静等待",
+      "家人轻声安抚不要哭喊",
+      "肾上腺素飙升会收缩血管"
+    ],
+    "needs_animation": true,
+    "label": "肾上腺素导致血管收缩的生理机制"
+  },
+  {
+    "global_index": 2325,
+    "seg_id": "S9-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第四步：等",
+    "template": "warning_alert",
+    "items": [
+      "过度恐慌让血管进一步收缩"
+    ],
+    "needs_animation": true,
+    "label": "应激反应下血管收缩机制"
+  },
+  {
+    "global_index": 2326,
+    "seg_id": "S9-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第四步：等",
+    "template": "branch_path",
+    "items": [
+      "观察患者是否失去意识无呼吸",
+      "立刻开始胸外按压",
+      "继续安抚等待120到来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2327,
+    "seg_id": "S10-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "科学自救赢得生机",
+    "template": "hero_text",
+    "items": [
+      "不乱动不信偏方第一时间叫救援"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2328,
+    "seg_id": "S10-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "科学自救赢得生机",
+    "template": "hero_text",
+    "items": [
+      "科学自救才能赢得与死神的赛跑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2329,
+    "seg_id": "S1-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "认知误区引入",
+    "template": "hero_text",
+    "items": [
+      "两种血脂哪个更危险？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2330,
+    "seg_id": "S1-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "认知误区引入",
+    "template": "hero_text",
+    "items": [
+      "太多人把危险等级搞反了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2331,
+    "seg_id": "S1-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "认知误区引入",
+    "template": "myth_buster",
+    "items": [
+      "甘油三酯5点几，吓得睡不着",
+      "低密度脂蛋白4点0，觉得没大事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2332,
+    "seg_id": "S1-L4",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "认知误区引入",
+    "template": "hero_text",
+    "items": [
+      "优先管低密度脂蛋白，它危险得多"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2333,
+    "seg_id": "S2-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "低密度脂蛋白致病机制",
+    "template": "hero_text",
+    "items": [
+      "两者都是血脂，但干的事完全不同"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2334,
+    "seg_id": "S2-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "低密度脂蛋白致病机制",
+    "template": "step_arrow",
+    "items": [
+      "血管内壁轻微损伤",
+      "低密度脂蛋白钻入堆积引发炎症",
+      "免疫细胞被困越堆越多",
+      "形成动脉粥样硬化斑块"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白侵入血管壁形成动脉粥样硬化斑块过程"
+  },
+  {
+    "global_index": 2335,
+    "seg_id": "S2-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "低密度脂蛋白致病机制",
+    "template": "step_arrow",
+    "items": [
+      "斑块增大血管变窄堵死",
+      "斑块破裂形成血栓",
+      "心梗脑梗由此而来"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块破裂与血栓形成过程"
+  },
+  {
+    "global_index": 2336,
+    "seg_id": "S2-L4",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "低密度脂蛋白致病机制",
+    "template": "hero_text",
+    "items": [
+      "这一点医学界没有争议"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2337,
+    "seg_id": "S3-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的真实定位",
+    "template": "split_column",
+    "items": [
+      "甘油三酯升高",
+      "与心血管风险有关",
+      "但不是堵血管的核心凶手",
+      "直接损伤主要来自低密度脂蛋白"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2338,
+    "seg_id": "S3-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的真实定位",
+    "template": "hero_text",
+    "items": [
+      "单纯降甘油三酯不能显著减少心脑血管事件"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2339,
+    "seg_id": "S3-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的真实定位",
+    "template": "myth_buster",
+    "items": [
+      "甘油三酯高 = 主要心血管凶手",
+      "甘油三酯高 = 代谢紊乱的报警信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2340,
+    "seg_id": "S4-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "形象类比",
+    "template": "hero_text",
+    "items": [
+      "用一个比喻帮你彻底搞懂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2341,
+    "seg_id": "S4-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "形象类比",
+    "template": "split_column",
+    "items": [
+      "低密度脂蛋白是进屋砸墙的小偷",
+      "甘油三酯是小区治安变差的信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2342,
+    "seg_id": "S4-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "形象类比",
+    "template": "hero_text",
+    "items": [
+      "不抓小偷只整治安，家里照样遭殃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2343,
+    "seg_id": "S5-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "全球指南共识",
+    "template": "hero_text",
+    "items": [
+      "全球指南首要目标：低密度脂蛋白达标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2344,
+    "seg_id": "S6-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的专属风险",
+    "template": "hero_text",
+    "items": [
+      "甘油三酯也不能不管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2345,
+    "seg_id": "S6-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的专属风险",
+    "template": "warning_alert",
+    "items": [
+      "超过5.6 mmol/L胰腺炎风险大幅升高",
+      "重症胰腺炎来势凶猛，发作前无预兆"
+    ],
+    "needs_animation": true,
+    "label": "高甘油三酯诱发急性胰腺炎的病理过程"
+  },
+  {
+    "global_index": 2346,
+    "seg_id": "S6-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的专属风险",
+    "template": "hero_text",
+    "items": [
+      "甘油三酯高常伴胰岛素抵抗，糖尿病风险增加"
+    ],
+    "needs_animation": true,
+    "label": "甘油三酯与胰岛素抵抗的代谢关联机制"
+  },
+  {
+    "global_index": 2347,
+    "seg_id": "S6-L4",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的专属风险",
+    "template": "hero_text",
+    "items": [
+      "甘油三酯要管，但要分清主次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2348,
+    "seg_id": "S7-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "具体应对方案",
+    "template": "hero_text",
+    "items": [
+      "具体该怎么做？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2349,
+    "seg_id": "S7-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "具体应对方案",
+    "template": "step_arrow",
+    "items": [
+      "先调整生活方式观察半年",
+      "降不下来该吃他汀就吃他汀",
+      "别拖，血管伤害是累积的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2350,
+    "seg_id": "S7-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "具体应对方案",
+    "template": "brick_stack",
+    "items": [
+      "累积伤害 = 实测值 - 理想值 × 升高年数",
+      "每多高一天斑块就堆积一点",
+      "真正堵塞后再后悔已经晚了"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白累积导致斑块渐进堆积过程"
+  },
+  {
+    "global_index": 2351,
+    "seg_id": "S7-L4",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "具体应对方案",
+    "template": "warning_alert",
+    "items": [
+      "有高血压、糖尿病、吸烟史更不能等"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2352,
+    "seg_id": "S7-L5",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "具体应对方案",
+    "template": "branch_path",
+    "items": [
+      "甘油三酯是否超过5.6？",
+      "未超标：戒酒少油少精粮多运动",
+      "已超标：立刻用药，胰腺炎赌不起"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2353,
+    "seg_id": "S7-L6",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "具体应对方案",
+    "template": "hero_text",
+    "items": [
+      "甘油三酯受饮食影响极大，生活方式效果显著"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2354,
+    "seg_id": "S8-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "两者同时升高",
+    "template": "hero_text",
+    "items": [
+      "两者都高：优先降低密度脂蛋白，同步控甘油三酯"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2355,
+    "seg_id": "S9-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "最后总结一句"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2356,
+    "seg_id": "S9-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "总结收尾",
+    "template": "split_column",
+    "items": [
+      "低密度脂蛋白：堵血管的真凶",
+      "甘油三酯：代谢紊乱的信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2357,
+    "seg_id": "S9-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "总结收尾",
+    "template": "list_fade",
+    "items": [
+      "优先降低密度脂蛋白",
+      "管住嘴迈开腿",
+      "该吃药就吃药",
+      "别拿自己的血管开玩笑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2358,
+    "seg_id": "S1-L1",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "打破\"瘦人没风险\"的误区",
+    "template": "myth_buster",
+    "items": [
+      "血脂高是胖子和爱吃油的人的病",
+      "瘦人一查血脂照样超标",
+      "身材瘦就不用担心血脂",
+      "低密度脂蛋白偏高与体型无关"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2359,
+    "seg_id": "S1-L2",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "打破\"瘦人没风险\"的误区",
+    "template": "warning_alert",
+    "items": [
+      "瘦人血脂高不仅常见，风险可能更高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

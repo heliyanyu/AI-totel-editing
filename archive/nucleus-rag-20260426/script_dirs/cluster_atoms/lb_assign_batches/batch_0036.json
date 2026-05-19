@@ -1,0 +1,308 @@
+[
+  {
+    "file": "ANW10009_Echocardiogram.mp4",
+    "title": "ANW10009 Echocardiogram",
+    "start_sec": 59.0,
+    "end_sec": 83.0,
+    "text_en": "A stress echocardiogram evaluates images of the heart before and after exercise or following medication that simulates exercise on the heart. Comparing your echo results before and after activity provides your doctor information about certain heart problems, such as coronary artery disease, that may only occur with exertion.",
+    "category_ids": [
+      52
+    ]
+  },
+  {
+    "file": "ANW10009_Echocardiogram.mp4",
+    "title": "ANW10009 Echocardiogram",
+    "start_sec": 83.0,
+    "end_sec": 97.0,
+    "text_en": "A transisophageal echocardiogram sends sound waves through a transducer past gently down your throat while your under sedation. This test provides a closer, more detailed evaluation of your heart.",
+    "category_ids": [
+      52
+    ]
+  },
+  {
+    "file": "ANW10012_Implantable Cardioverter Defibrillator (ICD).mp4",
+    "title": "ANW10012 Implantable Cardioverter Defibrillator (ICD)",
+    "start_sec": 0.0,
+    "end_sec": 20.0,
+    "text_en": "Your heart pumps oxygenated blood throughout your body. Rhythmic electrical impulses inside your heart cause its muscular walls to contract, ensuring your heart beats steadily.",
+    "category_ids": [
+      34
+    ]
+  },
+  {
+    "file": "ANW10012_Implantable Cardioverter Defibrillator (ICD).mp4",
+    "title": "ANW10012 Implantable Cardioverter Defibrillator (ICD)",
+    "start_sec": 20.0,
+    "end_sec": 40.48,
+    "text_en": "If problems occur with your heart's electrical system, you may develop an abnormal, potentially life-threatening heart beat called arrhythmia. Your doctor may want you to have an implantable cardio-verter defibrillator or ICD to restore the heart's normal rhythm and prevent sudden cardiac death.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANW10012_Implantable Cardioverter Defibrillator (ICD).mp4",
+    "title": "ANW10012 Implantable Cardioverter Defibrillator (ICD)",
+    "start_sec": 40.48,
+    "end_sec": 51.16,
+    "text_en": "During the procedure, your doctor will thread a small wire through a vein until it reaches your right ventricle. The wires continuously monitor the heart's rhythm.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANW10012_Implantable Cardioverter Defibrillator (ICD).mp4",
+    "title": "ANW10012 Implantable Cardioverter Defibrillator (ICD)",
+    "start_sec": 51.16,
+    "end_sec": 60.0,
+    "text_en": "After verifying the wire is in the correct location and works properly, your doctor will attach the wire to the ICD generator.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANW10012_Implantable Cardioverter Defibrillator (ICD).mp4",
+    "title": "ANW10012 Implantable Cardioverter Defibrillator (ICD)",
+    "start_sec": 60.0,
+    "end_sec": 67.2,
+    "text_en": "Then your doctor will insert the ICD device under the skin of your chest below the collarbone.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANW10012_Implantable Cardioverter Defibrillator (ICD).mp4",
+    "title": "ANW10012 Implantable Cardioverter Defibrillator (ICD)",
+    "start_sec": 67.2,
+    "end_sec": 74.24,
+    "text_en": "The battery-powered ICD constantly monitors your heart beat using a computer.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANW10012_Implantable Cardioverter Defibrillator (ICD).mp4",
+    "title": "ANW10012 Implantable Cardioverter Defibrillator (ICD)",
+    "start_sec": 74.24,
+    "end_sec": 84.64,
+    "text_en": "If a life-threatening arrhythmia occurs, the ICD delivers an electrical shock to your heart, resetting your heart beat back to normal.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANW10012_Implantable Cardioverter Defibrillator (ICD).mp4",
+    "title": "ANW10012 Implantable Cardioverter Defibrillator (ICD)",
+    "start_sec": 84.64,
+    "end_sec": 89.92,
+    "text_en": "The ICD can also be programmed to paste the heart and restore its natural rhythm.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANZ23179_Ventricular Fibrillation.mp4",
+    "title": "ANZ23179 Ventricular Fibrillation",
+    "start_sec": 0,
+    "end_sec": 21.3,
+    "text_en": "请提供 ANZ23179 Ventricular Fibrillation 的英文旁白文本，我来进行 logic block 切分。",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "Common Causes of Heart Failure.mp4",
+    "title": "Common Causes of Heart Failure",
+    "start_sec": 0.0,
+    "end_sec": 10.0,
+    "text_en": "Any condition or disease that damages your heart's ability to pump blood can cause heart failure.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Common Causes of Heart Failure.mp4",
+    "title": "Common Causes of Heart Failure",
+    "start_sec": 10.0,
+    "end_sec": 21.04,
+    "text_en": "For example, the most common cause is coronary artery disease in which blood vessels that supply your heart muscle, called coronary arteries, become blocked by a fatty substance called",
+    "category_ids": [
+      75,
+      133
+    ]
+  },
+  {
+    "file": "Common Causes of Heart Failure.mp4",
+    "title": "Common Causes of Heart Failure",
+    "start_sec": 23.48,
+    "end_sec": 33.16,
+    "text_en": "Other common causes of heart failure include uncontrolled high blood pressure and high blood sugar in diabetes.",
+    "category_ids": [
+      75,
+      106
+    ]
+  },
+  {
+    "file": "Common Causes of Heart Failure.mp4",
+    "title": "Common Causes of Heart Failure",
+    "start_sec": 33.16,
+    "end_sec": 50.52,
+    "text_en": "Less common causes of heart failure include diseased, infected or damaged heart valves, your regular heartbeats, called arrhythmias, heart defects, poisons or substance abuse, lung diseases, and breathing problems during sleep, called sleep apnea.",
+    "category_ids": [
+      75,
+      134
+    ]
+  },
+  {
+    "file": "Effects of Congestive Heart Failure.mp4",
+    "title": "Effects of Congestive Heart Failure",
+    "start_sec": 0.0,
+    "end_sec": 11.28,
+    "text_en": "If you have heart failure, your heart has lost the ability to pump enough blood to meet your body's needs.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Effects of Congestive Heart Failure.mp4",
+    "title": "Effects of Congestive Heart Failure",
+    "start_sec": 11.28,
+    "end_sec": 19.6,
+    "text_en": "You may have weak or damaged ventricular walls that are not able to push enough blood out of your heart.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Effects of Congestive Heart Failure.mp4",
+    "title": "Effects of Congestive Heart Failure",
+    "start_sec": 19.6,
+    "end_sec": 30.76,
+    "text_en": "You may also have stiff and thickened ventricular walls that do not allow your heart to fill with enough blood.",
+    "category_ids": [
+      75,
+      106
+    ]
+  },
+  {
+    "file": "Effects of Congestive Heart Failure.mp4",
+    "title": "Effects of Congestive Heart Failure",
+    "start_sec": 30.76,
+    "end_sec": 44.0,
+    "text_en": "If you have left-sided heart failure, your left ventricle does not deliver enough oxygen rich blood to your body, making you feel tired and out of breath.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Effects of Congestive Heart Failure.mp4",
+    "title": "Effects of Congestive Heart Failure",
+    "start_sec": 44.0,
+    "end_sec": 65.8,
+    "text_en": "Your failing left ventricle also increases the blood pressure in the blood vessels between your lungs and left ventricle. This increased pressure forces fluid out of your blood and into your lung tissues, which makes it difficult for you to breathe.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Effects of Congestive Heart Failure.mp4",
+    "title": "Effects of Congestive Heart Failure",
+    "start_sec": 65.8,
+    "end_sec": 87.64,
+    "text_en": "If you have right-sided heart failure, your right ventricle is unable to contract with enough force to push blood to your lungs. The result is a build-up of blood in your veins, which causes a build-up of fluid called edema throughout the tissues in your body.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Effects of Congestive Heart Failure.mp4",
+    "title": "Effects of Congestive Heart Failure",
+    "start_sec": 87.64,
+    "end_sec": 100.92,
+    "text_en": "Over time, heart failure on either side of your heart results in weakened and large ventricles that deliver less blood to your body.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Effects of Congestive Heart Failure.mp4",
+    "title": "Effects of Congestive Heart Failure",
+    "start_sec": 100.92,
+    "end_sec": 118.24,
+    "text_en": "To make up for the decreased amount of blood, your nervous system releases stress hormones that increase the speed and force of your heart beat. Unfortunately, the continued release of these stress hormones makes your heart fail your worse because they damage the muscle cells in your ventricles.",
+    "category_ids": [
+      75,
+      21
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 0.0,
+    "end_sec": 14.0,
+    "text_en": "This video will help you understand some lifestyle changes you can make to treat heart failure. Please watch the entire video to learn about lifestyle changes for heart failure.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 14.0,
+    "end_sec": 29.0,
+    "text_en": "As a heart failure patient, you may need to make some lifestyle changes to prevent further damage to your heart. If you smoke, quitting is one of the most important things you can do for your heart.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 29.0,
+    "end_sec": 46.0,
+    "text_en": "Work with your healthcare provider to create a nutritious eating plan that also helps you maintain a healthy weight. A heart healthy diet includes vegetables, fruits, lean meats and whole grains, as well as low fat or fat-free dairy products.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 46.0,
+    "end_sec": 55.0,
+    "text_en": "High calorie foods such as cookies and soda should be replaced with fruits and vegetables that don't contain added salt and sugar.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 55.0,
+    "end_sec": 88.0,
+    "text_en": "Examples of foods in a healthy diet include vegetables such as carrots, broccoli and tomatoes, fruits such as apples, oranges and strawberries, lean proteins such as fish, chicken and beans, dairy foods such as low fat yogurt and cheese, starches such as whole wheat bread and sweet potatoes, and healthy drinks such as water and fat-free milk.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 88.0,
+    "end_sec": 99.0,
+    "text_en": "Reduce the amount of salt and sugar you eat. Keep sodium levels below 2000mg to reduce the amount of water retained by your body.",
+    "category_ids": [
+      75,
+      84
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 99.0,
+    "end_sec": 105.0,
+    "text_en": "Substitute solid fats with heart healthy oils such as olive oil.",
+    "category_ids": [
+      75
+    ]
+  }
+]

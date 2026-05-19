@@ -1,0 +1,554 @@
+[
+  {
+    "global_index": 240,
+    "seg_id": "S3-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架没有使用年限",
+    "template": "hero_text",
+    "items": [
+      "管十年说法完全没有医学依据"
+    ],
+    "atoms_text": "管十年这个说法 完全没有医学依据",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 241,
+    "seg_id": "S3-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架没有使用年限",
+    "template": "list_fade",
+    "items": [
+      "支架内是否再次狭窄",
+      "其他血管是否新生斑块"
+    ],
+    "atoms_text": "我们真正要关注的是 支架里面 会不会再狭窄 其他血管 会不会长新的斑块",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 242,
+    "seg_id": "S3-L5",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架没有使用年限",
+    "template": "brick_stack",
+    "items": [
+      "坚持规律服药",
+      "血脂血压达标控制",
+      "长期健康生活方式"
+    ],
+    "atoms_text": "但这靠的是 坚持吃药 管好血脂血压 跟支架到期啊 没有关系",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 243,
+    "seg_id": "S4-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "早知道不放了？",
+    "template": "hero_text",
+    "items": [
+      "早知道不放了，吃药也能好"
+    ],
+    "atoms_text": "早知道不放了 吃药也能好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 244,
+    "seg_id": "S4-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "早知道不放了？",
+    "template": "hero_text",
+    "items": [
+      "术后偶有不适时最容易冒出这句话"
+    ],
+    "atoms_text": "这是术后 偶尔还不舒服的时候 最容易冒出来的话",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 245,
+    "seg_id": "S4-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "早知道不放了？",
+    "template": "list_fade",
+    "items": [
+      "部分胸闷是正常恢复过程",
+      "部分不适与焦虑情绪有关"
+    ],
+    "atoms_text": "但放了支架 不是从此 再也不会胸闷了 有些胸闷不适 是正常的恢复过程 也可能跟焦虑有关系",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 246,
+    "seg_id": "S4-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "早知道不放了？",
+    "template": "warning_alert",
+    "items": [
+      "急性心梗不放支架你扛得过去吗"
+    ],
+    "atoms_text": "当初急性心梗 不放支架 你扛得过去吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 247,
+    "seg_id": "S4-L5",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "早知道不放了？",
+    "template": "hero_text",
+    "items": [
+      "医生基于病情做判断，不是拿结果质疑过程"
+    ],
+    "atoms_text": "那个决定 是医生 根据你的病情 做出的专业判断 而不是 事后拿结果 来质疑过程的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 248,
+    "seg_id": "S5-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "术后更要动起来",
+    "template": "hero_text",
+    "items": [
+      "放了支架不能运动？恰恰相反"
+    ],
+    "atoms_text": "那第四句啊 放了支架 就不能运动了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 249,
+    "seg_id": "S5-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "术后更要动起来",
+    "template": "myth_buster",
+    "items": [
+      "术后医生禁止一切运动",
+      "术后医生反而鼓励适当运动",
+      "越不动越安全越好",
+      "整天躺着肌肉萎缩体力下降更危险"
+    ],
+    "atoms_text": "那恰恰反过来 术后医生 不但不会禁止你运动 反而鼓励你动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 250,
+    "seg_id": "S5-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "术后更要动起来",
+    "template": "branch_path",
+    "items": [
+      "先与主治医生评估运动时机和强度",
+      "评估通过可开始适合的运动",
+      "未经评估盲目运动存在风险"
+    ],
+    "atoms_text": "当然运动之前 先要让你 跟主治医生评估一下 什么时候可以开始 适合什么强度的运动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 251,
+    "seg_id": "S5-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "术后更要动起来",
+    "template": "list_fade",
+    "items": [
+      "散步与快步行走",
+      "游泳",
+      "骑自行车"
+    ],
+    "atoms_text": "一般恢复期过后 散步啊 快步行走啊 游泳啊 骑车啊 都是可以的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 252,
+    "seg_id": "S5-L5",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "术后更要动起来",
+    "template": "warning_alert",
+    "items": [
+      "长期卧床危害远大于适当运动"
+    ],
+    "atoms_text": "整天躺着不动啊 肌肉萎缩啊 体力下降 反而比适当运动 危险得多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 253,
+    "seg_id": "S6-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "别拿个案来吓人",
+    "template": "hero_text",
+    "items": [
+      "谁谁放支架没几年就走了"
+    ],
+    "atoms_text": "第五就是 别人家谁谁谁 放了支架 没几年人就走了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 254,
+    "seg_id": "S6-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "别拿个案来吓人",
+    "template": "hero_text",
+    "items": [
+      "杀伤力最大、最没逻辑的一句话"
+    ],
+    "atoms_text": "这个啊 是杀伤力最大的 最没有逻辑的一句话",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 255,
+    "seg_id": "S6-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "别拿个案来吓人",
+    "template": "list_fade",
+    "items": [
+      "是支架本身出了问题吗",
+      "还是患了其他疾病",
+      "还是术后管理不规范导致"
+    ],
+    "atoms_text": "那个去世的原因 你知道吗 是支架的问题 还是患了别的病 还是术后不规范管理 造成的结果",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 256,
+    "seg_id": "S6-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "别拿个案来吓人",
+    "template": "warning_alert",
+    "items": [
+      "拿不了解细节的个案吓唬积极治疗的人"
+    ],
+    "atoms_text": "拿一个 根本就不了解细节的 个案 去吓唬 正在积极治疗的人 这是关心吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 257,
+    "seg_id": "S6-L5",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "别拿个案来吓人",
+    "template": "split_column",
+    "items": [
+      "规律吃药指标达标坚持运动",
+      "术后不管照样抽烟喝酒",
+      "预后良好生活质量高",
+      "风险极高预后极差"
+    ],
+    "atoms_text": "一个术后 规律吃药 指标达标 坚持运动的人 和一个术后 什么都不管 照样抽烟喝酒的人 他预后能一样吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 258,
+    "seg_id": "S7-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "比误解更有力的一句话",
+    "template": "hero_text",
+    "items": [
+      "不是恶意，只是不了解情况"
+    ],
+    "atoms_text": "这些话大多数 他不是恶意的 确实是不了解情况",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 259,
+    "seg_id": "S7-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "比误解更有力的一句话",
+    "template": "hero_text",
+    "items": [
+      "不如问一句：你最近恢复得怎么样"
+    ],
+    "atoms_text": "但如果你身边 有放了支架的 朋友和家里人 与其说这些话 让人心里不踏实 不如问一句 你最近恢复得怎么样 这比什么都强",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 260,
+    "seg_id": "S8-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "你的人生没有废掉",
+    "template": "hero_text",
+    "items": [
+      "写给所有放了支架的朋友"
+    ],
+    "atoms_text": "最后跟 所有放了支架的朋友 说一句",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 261,
+    "seg_id": "S8-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "你的人生没有废掉",
+    "template": "hero_text",
+    "items": [
+      "血管是通的，人生远没有废掉"
+    ],
+    "atoms_text": "你的支架在好好工作 你的血管是通的 你的人生 远远没有废掉",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 262,
+    "seg_id": "S8-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "你的人生没有废掉",
+    "template": "list_fade",
+    "items": [
+      "好好吃药不间断",
+      "指标控制达标",
+      "把自己的生活过好"
+    ],
+    "atoms_text": "你的药好好吃 然后把指标控制好管好 把生活过好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 263,
+    "seg_id": "S8-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "你的人生没有废掉",
+    "template": "hero_text",
+    "items": [
+      "这比听任何闲话都更重要"
+    ],
+    "atoms_text": "这比听谁的闲话 都要更重要",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 264,
+    "seg_id": "S1-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架误区引入",
+    "template": "body_annotate",
+    "items": [
+      "右冠状动脉狭窄70%",
+      "冠脉造影复查患者"
+    ],
+    "atoms_text": "前几天 来了 一个 五十多岁的大哥 然后 这个大哥 是之前 做过冠脉造影 来复查的 之前的造影结果 就是 右冠状动脉 狭窄百分之七十",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 265,
+    "seg_id": "S1-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架误区引入",
+    "template": "hero_text",
+    "items": [
+      "不放支架会不会心梗？"
+    ],
+    "atoms_text": "他老婆进来 第一句话就是 医生啊 这次该给他放支架了吧 再不放 是不是就要心梗了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 266,
+    "seg_id": "S1-L3",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架误区引入",
+    "template": "hero_text",
+    "items": [
+      "目前先吃药观察"
+    ],
+    "atoms_text": "我说 不着急啊 目前还是 先吃药观察吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 267,
+    "seg_id": "S1-L4",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架误区引入",
+    "template": "myth_buster",
+    "items": [
+      "现在不放以后堵更深",
+      "斑块进展与放支架无关",
+      "早放支架早安心",
+      "支架无法阻止新斑块"
+    ],
+    "atoms_text": "他老婆不乐意啊 说现在不放 以后堵到百分之九十 不还得再放吗 那早放早安心呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 268,
+    "seg_id": "S1-L5",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架误区引入",
+    "template": "hero_text",
+    "items": [
+      "血管通了就安全了？"
+    ],
+    "atoms_text": "说实话 这个想法 我见的太多了 很多人觉得 血管堵了就得通 通了就安全了 支架一放 万事大吉",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 269,
+    "seg_id": "S1-L6",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架误区引入",
+    "template": "hero_text",
+    "items": [
+      "70%狭窄很多情况下不需要放支架"
+    ],
+    "atoms_text": "那我今天 想把这件事情 给您说明白 血管狭窄百分之七十 在很多情况下 是真的不需要放支架的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 270,
+    "seg_id": "S2-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架的真正作用",
+    "template": "hero_text",
+    "items": [
+      "支架到底是干什么的？"
+    ],
+    "atoms_text": "先搞清楚一个问题 支架到底是干什么的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 271,
+    "seg_id": "S2-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架的真正作用",
+    "template": "split_column",
+    "items": [
+      "撑开严重堵塞部位",
+      "保健品、让血管健康",
+      "恢复局部血流通畅",
+      "预防以后继续堵塞"
+    ],
+    "atoms_text": "支架 它不是保健品 不是说放了之后 血管就健康了 它的作用很单一 它就是 把一个严重堵住影响血供的地方 撑开 让血流过去",
+    "needs_animation": true,
+    "label": "支架将严重狭窄处撑开让血流通过"
+  },
+  {
+    "global_index": 272,
+    "seg_id": "S2-L3",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架的真正作用",
+    "template": "hero_text",
+    "items": [
+      "支架治现在的堵，不防以后的堵"
+    ],
+    "atoms_text": "所以支架 是解决 现在堵的 影响的血供的问题 不是说 预防以后会不会堵的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 273,
+    "seg_id": "S3-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "需要放支架的情形",
+    "template": "hero_text",
+    "items": [
+      "什么情况下才需要放支架？"
+    ],
+    "atoms_text": "那什么情况下 才需要放呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 274,
+    "seg_id": "S3-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "需要放支架的情形",
+    "template": "warning_alert",
+    "items": [
+      "急性心梗：血管突然堵死须立刻打开"
+    ],
+    "atoms_text": "第一 急性心梗 血管突然堵死了 必须马上打开 是救命用的",
+    "needs_animation": true,
+    "label": "急性心梗时血管突然堵死需紧急支架开通"
+  },
+  {
+    "global_index": 275,
+    "seg_id": "S3-L3",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "需要放支架的情形",
+    "template": "list_fade",
+    "items": [
+      "走路爬坡出现胸闷胸痛",
+      "吃药仍控制不住症状",
+      "放支架可显著改善生活质量"
+    ],
+    "atoms_text": "第二个 就狭窄很严重了 而且已经有明显的症状了 走路爬坡 就有胸闷胸痛 吃了药 还控制不好 支架能改善生活质量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 276,
+    "seg_id": "S4-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "hero_text",
+    "items": [
+      "70%狭窄：有意义不等于必须放"
+    ],
+    "atoms_text": "那百分之七十的狭窄 属于哪一种呢 说实话 百分之七十 是个很微妙的数字 有意义 不等于必须放支架",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 277,
+    "seg_id": "S4-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "hero_text",
+    "items": [
+      "关键看两件事"
+    ],
+    "atoms_text": "关键看两件事情",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 278,
+    "seg_id": "S4-L3",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "branch_path",
+    "items": [
+      "日常走路爬坡有无不适？",
+      "无症状：心脏供血目前够用",
+      "有症状：需进一步评估干预"
+    ],
+    "atoms_text": "第一 你有没有症状 日常走路爬坡没有问题 说明心脏供血 目前是够用的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 279,
+    "seg_id": "S4-L4",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "split_column",
+    "items": [
+      "> 0.8，血流仍能通过",
+      "≤ 0.8，存在明显缺血",
+      "不需要放支架",
+      "需要考虑放支架"
+    ],
+    "atoms_text": "第二 狭窄的地方 到底缺不缺血 可以做一个叫FFR的检查 测一下 如果这个数值 大于零点八 就说明啊 虽然看着堵了 但血还过得去 不需要放支架",
+    "needs_animation": true,
+    "label": "FFR检查测量狭窄处血流储备判断是否缺血"
+  }
+]

@@ -1,0 +1,328 @@
+[
+  {
+    "file": "ANH00023_Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA).mp4",
+    "title": "ANH00023 Non-cardiac Percutaneous Transluminal Angioplasty (NCPTA)",
+    "start_sec": 154.5,
+    "end_sec": 186,
+    "summary_zh": "术后处理与恢复：拔除导管，穿刺部位加压包扎，患者需平卧防止出血；在恢复区监测血流情况，多数患者当日出院，部分需住院观察一至两天",
+    "text_en": "At the end of the procedure, your doctor will remove the catheter through the original insertion site. After your procedure, a pressure bandage will be applied to the catheter insertion site, and you will be asked to lie still to prevent bleeding. You will be carefully monitored in the recovery area to be sure blood flow through the affected artery is maintained. Most patients are discharged the same day as their procedure, but some remain in the hospital one to two days for observation.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 12,
+    "end_sec": 45,
+    "summary_zh": "心脏基本解剖结构：介绍心脏的四个腔室（左右心房、左右心室）、各腔室之间的连接关系（右心室连接肺动脉、左心室连接主动脉），以及瓣膜的位置和单向血流功能",
+    "text_en": "The heart is a muscular organ that pumps blood through the body. It consists of four chambers. The upper chambers are the right and left atria. The lower chambers are the right and left ventricles. The right and left atria connect to their respective ventricles. The right ventricle connects to the pulmonary artery and the left ventricle to the aorta. Valves are located at these connections to ensure that blood moves in only one direction.",
+    "category_ids": [
+      46,
+      127
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 45,
+    "end_sec": 70,
+    "summary_zh": "主动脉瓣的结构与正常功能：瓣膜由称为瓣叶的组织瓣组成，主动脉瓣位于左心室与主动脉之间，心脏收缩时瓣膜打开将血液泵入主动脉，舒张时关闭防止血液回流",
+    "text_en": "The parts of a valve that open and close are flaps of tissue called cusps. The aortic valve is located between the left ventricle and the aorta. When the heart contracts, the aortic valve opens and blood is pumped into the aorta. When the heart relaxes, it closes to prevent blood from leaking back into the left ventricle.",
+    "category_ids": [
+      127,
+      126
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 70,
+    "end_sec": 109,
+    "summary_zh": "主动脉瓣病变类型：正常瓣膜有三个光滑瓣叶；瓣膜关闭不全导致血液反流（主动脉瓣反流）；瓣膜狭窄导致开放受限、血流减少（主动脉瓣狭窄）",
+    "text_en": "A normal aortic valve has three smooth cusps that open widely and close tightly. Your aortic valve may be leaky or narrowed, causing your heart to work harder and disrupt your blood flow. A leaky valve does not close all the way, causing blood to leak back into the ventricle between each heartbeat. This condition is called aortic regurgitation. A narrowed aortic valve does not open all the way, which restricts the amount of blood passing out of the ventricle into the aorta. This condition is called aortic stenosis.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 110,
+    "end_sec": 147,
+    "summary_zh": "主动脉瓣病变的病因：先天性异常（如二叶式主动脉瓣）；后天获得性病变包括风湿热（链球菌咽喉炎并发症）、心内膜炎（细菌感染）和主动脉瓣叶硬化",
+    "text_en": "You may have been born with an abnormal aortic valve. For example, your aortic valve may only have two cusps instead of three, so it may not open and close properly. Your aortic valve may have become damaged during your lifetime, a condition called acquired aortic valve disease. Causes include rheumatic fever, which can be a complication of untreated strep throat. Andocarditis, which is a bacterial infection of the valve, and sclerosis or hardening of the aortic leaflets.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 147,
+    "end_sec": 188,
+    "summary_zh": "主动脉瓣病变的后果与症状：长期瓣膜故障导致心肌肥大或变薄，最终发展为心力衰竭，症状包括呼吸困难、胸痛（心绞痛）、头晕晕厥、下肢水肿和疲劳",
+    "text_en": "After a period of time, a faulty aortic valve can cause the heart muscles to become enlarged and weakened. Depending on the nature of the valve's defect, the walls of the left ventricle may become abnormally thick or thin, and the problem can eventually affect the right side of the heart as well. Patients with this condition known as heart failure may experience shortness of breath, chest pain or angina pectoris, dizziness, lightheadedness, and or fainting, swelling of the ankles, feet and legs, and fatigue.",
+    "category_ids": [
+      75,
+      127
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 188,
+    "end_sec": 223,
+    "summary_zh": "术前准备：建立静脉通路、留置导尿管、全身麻醉、气管插管辅助呼吸",
+    "text_en": "An aortic valve replacement is performed to restore the valve to normal function. Before your procedure, an IV line will be started in your arm to provide fluids and medications. A catheter will be inserted into your bladder to drain urine. Aortic valve replacements are done under general anesthesia. This means you will be asleep for the duration of the operation, and a tube will be placed through your mouth and into your windpipe to help you breathe during surgery.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 223,
+    "end_sec": 250,
+    "summary_zh": "手术入路：胸骨正中切口，分离胸骨暴露心包膜，打开心包暴露心脏",
+    "text_en": "Once the anesthesia takes effect, your surgeon will begin by making an incision in the chest. The traditional incision is made in the middle of the chest, overlying the breastbone or sternum. The surgeon then separates the sternum to expose the pericardium, which is a protective membrane encircling the heart. Your surgeon will then open the pericardium to expose the heart.",
+    "category_ids": [
+      127,
+      45
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 250,
+    "end_sec": 276,
+    "summary_zh": "体外循环建立：连接心肺机，通过管路将血液引流至机器代替心肺功能，心脏暂时停跳并排空血液，使主动脉瓣静止便于手术操作",
+    "text_en": "At this point, your heart will be connected to a heart lung machine. Tubes are used to rerot your blood into this machine, which takes over the functions of the heart and lungs during the operation. Once the heart lung machine has taken over, your heart will be temporarily stopped and the blood inside removed. This keeps the aortic valve still and allows your surgeon to see it.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 276,
+    "end_sec": 303,
+    "summary_zh": "瓣膜置换核心操作：切开主动脉暴露病变瓣膜，沿边缘切除旧瓣膜，缝合植入人工瓣膜，缝合主动脉，恢复血流检查新瓣膜功能",
+    "text_en": "Your surgeon will open the aorta to expose the aortic valve, make an incision around the edge of the damaged valve, and remove it. Your surgeon will then carefully sew the replacement valve into place and close the aorta with stitches. At this point, blood will again be allowed to flow into your heart to check the function of the new valve.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 303,
+    "end_sec": 325,
+    "summary_zh": "心脏复跳与脱离体外循环：必要时电击除颤重启心脏，心脏自主搏动后脱离心肺机，放置临时起搏导线确保恢复期心律正常",
+    "text_en": "If needed, an electric shock will be given to restart the heart. Once your heart is beating on its own, it will be detached from the heart lung machine. Generally, temporary pacemaker wires will be placed on the surface of the heart to ensure the heart maintains a normal rhythm during recovery.",
+    "category_ids": [
+      34,
+      20
+    ]
+  },
+  {
+    "file": "ANH00026_Aortic Valve Replacement.mp4",
+    "title": "ANH00026 Aortic Valve Replacement",
+    "start_sec": 325,
+    "end_sec": 347,
+    "summary_zh": "术后监护：转入重症监护室监测生命体征，保留气管插管（无法说话）、胸腔引流管和导尿管",
+    "text_en": "After surgery, you'll be taken to the intensive care unit where your vital functions will be monitored. You will still have a breathing tube in your throat, which will prevent you from talking. Several tubes will be in place to drain blood and fluid from your incision, and your bladder catheter will still be draining your urine.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00028_Carotid Endarterectomy.mp4",
+    "title": "ANH00028 Carotid Endarterectomy",
+    "start_sec": 12.3,
+    "end_sec": 25.7,
+    "summary_zh": "颈动脉解剖：颈部有两条主要血管称为颈动脉，将富氧血液从心脏输送到大脑，可在颈侧触及其脉搏",
+    "text_en": "In your neck are two major blood vessels called the carotid arteries, which carry oxygen rich blood from your heart to your brain. You can feel the pulse of the carotid artery in the side of your neck.",
+    "category_ids": [
+      108
+    ]
+  },
+  {
+    "file": "ANH00028_Carotid Endarterectomy.mp4",
+    "title": "ANH00028 Carotid Endarterectomy",
+    "start_sec": 25.7,
+    "end_sec": 55.1,
+    "summary_zh": "动脉粥样硬化与后果：脂肪沉积物（粥样硬化斑块）在颈动脉内壁堆积，导致管腔狭窄（狭窄症），可引起短暂性脑缺血发作（TIA）；血流完全阻断则导致中风",
+    "text_en": "Three deposits called atherosclerotic plaques can build up inside the carotid artery. These plaques can narrow the passageway of the artery and interfere with blood flow to the brain. This blockage or narrowing is called a stenosis. If blood flow to the brain is blocked temporarily, a transient ischemic attack, also known as a TIA, may occur. When the blood flow is completely obstructed, as in a carotid artery blockage, a stroke",
+    "category_ids": [
+      1,
+      4,
+      108
+    ]
+  },
+  {
+    "file": "ANH00028_Carotid Endarterectomy.mp4",
+    "title": "ANH00028 Carotid Endarterectomy",
+    "start_sec": 60.1,
+    "end_sec": 93.7,
+    "summary_zh": "术前准备与麻醉：建立静脉通路，通常采用全身麻醉并插入气管导管辅助呼吸；也可采用局部麻醉，患者保持清醒但颈部麻木，并给予适度镇静",
+    "text_en": "Before your procedure, an intravenous line will be started. A carotid and dardirectomy is usually done under general anesthesia, which will put you to sleep for the duration of the procedure. In this case, a breathing tube will be inserted through your mouth and into your windpipe to help you breathe during the operation. Sometimes a carotid and dardirectomy is done with local anesthesia. If local anesthesia is used, you will remain awake, but your neck will be numbed. You will probably also receive some sedation.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00028_Carotid Endarterectomy.mp4",
+    "title": "ANH00028 Carotid Endarterectomy",
+    "start_sec": 93.7,
+    "end_sec": 125.8,
+    "summary_zh": "手术切开与暴露动脉：沿阻塞动脉在颈侧做切口（从耳后到锁骨上方），找到颈动脉并临时夹闭血流，切开动脉后可放置分流管以维持脑部供血",
+    "text_en": "On the side of your neck along the blocked artery, the surgeon will make an incision that may run from just behind the ear to a point above the collarbone. Your surgeon will find the carotid artery and temporarily clamp off blood flow through Your surgeon will open up the artery and may place a shunt or temporary bypass to keep blood flowing to the brain.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00028_Carotid Endarterectomy.mp4",
+    "title": "ANH00028 Carotid Endarterectomy",
+    "start_sec": 125.8,
+    "end_sec": 156,
+    "summary_zh": "斑块切除与动脉修复：外科医生剥离动脉壁内的斑块，随后缝合动脉并通常放置补片（取自自体静脉或人工材料如涤纶）以略微扩宽动脉管腔",
+    "text_en": "Your surgeon will then remove the plaque within the arterial walls. After the blockage has been removed, here she will sew the artery back together, usually placing a patch to widen the artery slightly. The patch may be made of part of one of your veins or an artificial material such as Finally, your surgeon will close the incision with sutures or staples and cover it with",
+    "category_ids": [
+      1
+    ]
+  },
+  {
+    "file": "ANH00028_Carotid Endarterectomy.mp4",
+    "title": "ANH00028 Carotid Endarterectomy",
+    "start_sec": 156,
+    "end_sec": 163.1,
+    "summary_zh": "切口关闭：用缝线或钉合器关闭切口并覆盖敷料，伤口内常留置临时引流管",
+    "text_en": "A temporary drain is frequently left in the wound.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00028_Carotid Endarterectomy.mp4",
+    "title": "ANH00028 Carotid Endarterectomy",
+    "start_sec": 163.1,
+    "end_sec": 177.2,
+    "summary_zh": "术后恢复：患者被送至恢复区监测生命体征和神经功能状态，按需给予止痛药，饮食从流质逐步过渡到固体食物",
+    "text_en": "After your operation, you will be taken to a recovery area where the staff will monitor your vital signs and neurologic condition. You will be given pain medication as needed and will gradually progress from a liquid to a solid diet.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00029_Prevention of Deep Vein Thrombosis (DVT) and Pulmonary Embolism.mp4",
+    "title": "ANH00029 Prevention of Deep Vein Thrombosis (DVT) and Pulmonary Embolism",
+    "start_sec": 10.8,
+    "end_sec": 32.2,
+    "summary_zh": "静脉回流机制：与动脉依靠心脏泵血不同，静脉依靠肌肉收缩和瓣膜辅助血液回流，防止血液倒流和淤积",
+    "text_en": "A condition where a blood clot forms in a deep vein in the body, typically the leg. Unlike arteries which rely on the heart to force blood through them, veins transport blood with the help of muscle contractions while you move and walk. Plans also have valves that keep blood from flowing backward and pooling in your arms and legs.",
+    "category_ids": [
+      18
+    ]
+  },
+  {
+    "file": "ANH00029_Prevention of Deep Vein Thrombosis (DVT) and Pulmonary Embolism.mp4",
+    "title": "ANH00029 Prevention of Deep Vein Thrombosis (DVT) and Pulmonary Embolism",
+    "start_sec": 32.2,
+    "end_sec": 56.9,
+    "summary_zh": "深静脉血栓形成过程：长期不活动导致静脉循环减慢，凝血因子使缓慢流动的血液凝聚形成血栓（DVT）",
+    "text_en": "When you are a mobile for an extended period, your venous circulation slows down. As a result, clotting factors in the blood may cause the slow moving blood to clump together, forming a blood clot or thrombus. This condition is called deep vein thrombosis or DVT.",
+    "category_ids": [
+      18,
+      31
+    ]
+  },
+  {
+    "file": "ANH00029_Prevention of Deep Vein Thrombosis (DVT) and Pulmonary Embolism.mp4",
+    "title": "ANH00029 Prevention of Deep Vein Thrombosis (DVT) and Pulmonary Embolism",
+    "start_sec": 56.9,
+    "end_sec": 74.4,
+    "summary_zh": "DVT常见症状：腿部肿胀、静脉肿胀、疼痛或压痛、皮肤温度升高、皮肤发红或变色",
+    "text_en": "Common symptoms of DVT include swelling of the leg or a vein in the leg, pain or tenderness in the area, increased warmth in the skin, and red or discolored skin.",
+    "category_ids": [
+      18
+    ]
+  },
+  {
+    "file": "ANH00029_Prevention of Deep Vein Thrombosis (DVT) and Pulmonary Embolism.mp4",
+    "title": "ANH00029 Prevention of Deep Vein Thrombosis (DVT) and Pulmonary Embolism",
+    "start_sec": 74.4,
+    "end_sec": 114.7,
+    "summary_zh": "肺栓塞形成过程：血栓从深静脉脱落，经腹部静脉进入心脏，最终堵塞肺动脉或其分支，阻断肺部血流，可造成肺损伤甚至死亡",
+    "text_en": "In some DVT cases, a blood clot may detach from a deep vein and join the bloodstream. The clot travels from the deep veins of the leg through the veins of the abdomen, into the heart, and finally lodges in the pulmonary artery or its branches, blocking blood flow to the lungs. This condition called pulmonary embolism is very serious and may permanently damage a portion of the lung. If a clot is large or if there are many clots, pulmonary embolism may also cause death.",
+    "category_ids": [
+      18
+    ]
+  },
+  {
+    "file": "ANH00029_Prevention of Deep Vein Thrombosis (DVT) and Pulmonary Embolism.mp4",
+    "title": "ANH00029 Prevention of Deep Vein Thrombosis (DVT) and Pulmonary Embolism",
+    "start_sec": 114.7,
+    "end_sec": 137.2,
+    "summary_zh": "肺栓塞症状：呼吸急促、突发胸部剧痛、头晕目眩、心跳加快或不规则、咳血",
+    "text_en": "If you experience symptoms of PE, please tell your doctor or nurse immediately. These symptoms may include shortness of breath, a sudden sharp pain in the chest, a feeling of lightheadedness or dizziness, rapid or irregular heartbeat, or coughing that produces",
+    "category_ids": [
+      18
+    ]
+  },
+  {
+    "file": "ANH00029_Prevention of Deep Vein Thrombosis (DVT) and Pulmonary Embolism.mp4",
+    "title": "ANH00029 Prevention of Deep Vein Thrombosis (DVT) and Pulmonary Embolism",
+    "start_sec": 137.2,
+    "end_sec": 153.7,
+    "summary_zh": "预防措施：定期走动防止血液淤积、穿弹力压缩袜、服用抗凝药物",
+    "text_en": "To help prevent deep vein thrombosis and pulmonary embolism, your doctor may require you to do the following. Walk around periodically to keep the blood from pooling in your legs, wear compression stockings, and take anti-clothing medication.",
+    "category_ids": [
+      18,
+      31
+    ]
+  },
+  {
+    "file": "ANH11047_Atrial Fibrillation.mp4",
+    "title": "ANH11047 Atrial Fibrillation",
+    "start_sec": 0,
+    "end_sec": 21.1,
+    "summary_zh": "房颤的定义：房颤是一种心律失常，心房以快速、颤动的方式收缩，导致心跳不规则、不协调。",
+    "text_en": "Atrial fibrillation is a type of arrhythmia, which is an abnormality in the pace or force of your heartbeat. If you have atrial fibrillation, the heart's upper chambers contract in a fast, twitchy fashion, resulting in an irregular, uncoordinated heartbeat.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANH11047_Atrial Fibrillation.mp4",
+    "title": "ANH11047 Atrial Fibrillation",
+    "start_sec": 21.1,
+    "end_sec": 76.6,
+    "summary_zh": "正常心脏结构与血液循环：心脏由四个腔室组成（左右心房和左右心室），正常心跳时各腔室有节律地收缩和舒张，右心房收集全身血液经右心室泵入肺部进行气体交换，左心房接收肺部含氧血经左心室泵向全身。",
+    "text_en": "Your heart is a muscular organ, made up of four chambers, the right and left atria, and the right and left ventricles. During a normal heartbeat, the chambers of your heart contract and relax in a rhythmic pattern to deliver a consistent flow of blood throughout your body. The right atrium collects blood from the body, and the right ventricle pumps it to the lungs, which bring oxygen to and remove carbon dioxide from the blood. At the same time, the left atrium receives blood from the lungs, and the left ventricle pumps it out to supply your body's tissues with oxygen and nutrients.",
+    "category_ids": [
+      46,
+      126
+    ]
+  },
+  {
+    "file": "ANH11047_Atrial Fibrillation.mp4",
+    "title": "ANH11047 Atrial Fibrillation",
+    "start_sec": 76.6,
+    "end_sec": 125.3,
+    "summary_zh": "正常心脏电传导系统：窦房结（SA结）位于右心房壁，产生电信号扩散至两个心房使其收缩，信号经房室结（AV结）传至心室壁引起心室收缩，心室舒张后完成一次完整心跳，随即SA结产生新的电脉冲重复该过程。",
+    "text_en": "Each heartbeat begins in the heart's natural pacemaker called the Sinoatrial or SA node located in the wall of the right atrium. An electrical signal starts here, then spreads across both atria, causing them to contract and push blood into the ventricles. As the atria relax, the signal travels through the atrial ventricular or AV node to the ventricular walls, causing them to contract. The ventricles relax, completing one full heartbeat. Immediately the SA node generates a new electrical impulse, repeating the pattern.",
+    "category_ids": [
+      34
+    ]
+  },
+  {
+    "file": "ANH11047_Atrial Fibrillation.mp4",
+    "title": "ANH11047 Atrial Fibrillation",
+    "start_sec": 125.3,
+    "end_sec": 166.2,
+    "summary_zh": "房颤的电生理机制：异常电信号起源于心房和邻近肺静脉的异常位置，信号在心房内杂乱传播导致心房快速颤动，信号轰击AV结使心室快速收缩，但心室无法跟上心房的快速收缩节奏，导致心跳不协调。",
+    "text_en": "In atrial fibrillation, the electrical signals originate from unusual locations in the atria and nearby pulmonary veins. These abnormal signals travel through the atria haphazardly, causing the atria to contract in a jumble of rapid quivers and twitches. The signals bombard the AV node, causing the ventricles to contract rapidly. Even at a faster pace, the ventricular contractions cannot keep up with the rapid atrial contractions, resulting in an uncordenated heartbeat.",
+    "category_ids": [
+      20,
+      34
+    ]
+  },
+  {
+    "file": "ANH11047_Atrial Fibrillation.mp4",
+    "title": "ANH11047 Atrial Fibrillation",
+    "start_sec": 166.2,
+    "end_sec": 209.2,
+    "summary_zh": "房颤的并发症：不规则收缩后心腔无法完全排空，血液在心房内淤积可形成血栓；血栓可随血流进入脑部导致中风；心室血液淤积使组织缺氧缺营养；长期泵血不足可发展为心力衰竭。",
+    "text_en": "After these irregular contractions, the chambers may not empty completely, when blood collects in the atria, clots may form. A clot can flow out of your heart, through your neck, into your brain, where it can cause If your blood, pooling in your ventricles, deprives your body's tissues of oxygen and nutrients. If your heart is consistently unable to pump enough blood to meet the body's needs, you can develop heart failure.",
+    "category_ids": [
+      120,
+      75
+    ]
+  }
+]

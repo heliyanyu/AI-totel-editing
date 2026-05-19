@@ -1,0 +1,575 @@
+[
+  {
+    "global_index": 3560,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "真实病例开场",
+    "template": "warning_alert",
+    "items": [
+      "这几个信号，出现了不许再忍"
+    ],
+    "atoms_text": "所以今天我想说的 不是养生 不是保健 就几个信号 你一旦出现了 不许再忍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3561,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号一：胸口发闷",
+    "template": "body_annotate",
+    "items": [
+      "胸口沉闷、像有重物压着",
+      "疼痛向左肩放射",
+      "疼痛沿左臂向上蹿"
+    ],
+    "atoms_text": "第一个 胸口闷 像有个东西压着 不是很痛 就是很沉 有时候还会 往左肩呐 左臂啊 这边往上蹿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3562,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号一：胸口发闷",
+    "template": "myth_buster",
+    "items": [
+      "颈椎/胃/压力大导致的",
+      "心肌缺血正是这种钝痛感",
+      "疼痛尖锐才是心脏问题",
+      "不尖锐的堵闷感更需警惕"
+    ],
+    "atoms_text": "很多人以为啊 就是颈椎的问题 是胃的问题 是最近压力太大的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3563,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号一：胸口发闷",
+    "template": "branch_path",
+    "items": [
+      "停下来休息3-5分钟",
+      "缓解了——功能性可能大",
+      "没缓解甚至加重——立刻去医院"
+    ],
+    "atoms_text": "但我告诉你 心肌缺血的疼痛 偏偏就是这副模样 不尖锐 不激烈 就是钝钝的堵着 它不想让你发现它",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3564,
+    "seg_id": "S2-L4",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号一：胸口发闷",
+    "template": "hero_text",
+    "items": [
+      "休息后不缓解，别等，去医院"
+    ],
+    "atoms_text": "判断的方法很简单 停下来休息 三到五分钟 能够缓解的 大概率是功能性的 休息了还在 甚至越来越重 去医院啊 别等",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3565,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号二：心脏咯噔一下",
+    "template": "step_arrow",
+    "items": [
+      "盯屏幕或起身时突然发生",
+      "心脏乱跳一下、像漏了一拍",
+      "一闪而过，很快消失"
+    ],
+    "atoms_text": "第二个 就是心脏突然咯噔一下 你正在盯着屏幕 或者刚起身去倒水 心脏突然乱跳了一下 漏了一拍 一下子就过去了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3566,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号二：心脏咯噔一下",
+    "template": "split_column",
+    "items": [
+      "偶尔发作一次",
+      "一个月内反复出现",
+      "多数是早搏，一般不危险",
+      "需要认真排查心律失常"
+    ],
+    "atoms_text": "偶尔发作 多数是早搏 一般不危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3567,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号二：心脏咯噔一下",
+    "template": "warning_alert",
+    "items": [
+      "伴随头晕、胸闷、喘不上气",
+      "不是\"压力大\"三字能解释的"
+    ],
+    "atoms_text": "但如果啊 是这一个月里面 反复反复的出现 尤其是伴随着 头晕呢 胸闷呢 喘不上来气 那就不只是 最近压力 这三个字 能够解释了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3568,
+    "seg_id": "S3-L4",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号二：心脏咯噔一下",
+    "template": "hero_text",
+    "items": [
+      "拖着不查，不知心脏背着你做什么"
+    ],
+    "atoms_text": "心律失常这件事啊 拖着不查 永远不知道 自己的心脏 在背着你做什么",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3569,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号三：走两步就喘",
+    "template": "vertical_timeline",
+    "items": [
+      "去年：爬6楼不停歇",
+      "今年：爬3楼要扶墙缓气",
+      "活动耐力突然明显下降"
+    ],
+    "atoms_text": "第三个 就走两步路就喘 以前没有这样子 去年爬六楼啊 不带停 今年啊 爬三楼啊 就要扶着墙缓一缓",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3570,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号三：走两步就喘",
+    "template": "myth_buster",
+    "items": [
+      "体力下降了，该去跑步锻炼",
+      "心脏泵血能力出了问题",
+      "练练体能就能解决",
+      "不是练出来的，需要就诊"
+    ],
+    "atoms_text": "很多人觉得 是体力下降了 该去跑步了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3571,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号三：走两步就喘",
+    "template": "warning_alert",
+    "items": [
+      "平躺就憋气，需垫高枕头才能入睡",
+      "血液淤积在肺里，当天就要就诊"
+    ],
+    "atoms_text": "但活动耐力突然下降 是心脏在给你发信号 它的泵血能力 可能出了问题 不是练练体能 就能解决的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3572,
+    "seg_id": "S4-L4",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号三：走两步就喘",
+    "template": "hero_text",
+    "items": [
+      "出现夜间端坐呼吸，当天看诊"
+    ],
+    "atoms_text": "还有一种情况更要注意 平躺着反而觉得憋 要垫高枕头 才能入睡 这不是睡姿的问题 这是心脏没有能力 把血啊往前推 血液淤积在肺里面的表现 出现这种症状啊 请当天就去看诊",
+    "needs_animation": true,
+    "label": "心脏泵血不足导致血液淤积在肺部"
+  },
+  {
+    "global_index": 3573,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号四：眼前一黑",
+    "template": "myth_buster",
+    "items": [
+      "低血糖或没睡好导致的",
+      "可能是心律失常致脑供血不足",
+      "缓过来了就没事了",
+      "哪怕只发生一次也要认真查"
+    ],
+    "atoms_text": "第四个 突然眼前一黑 差点倒地 那扶住了桌子 缓了几秒钟 好了 告诉自己 哎这就是低血糖啊 或者昨晚没睡好 这也许是 也可能不是",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3574,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号四：眼前一黑",
+    "template": "step_arrow",
+    "items": [
+      "心脏短暂停跳几秒",
+      "脑供血中断，意识丧失",
+      "停跳时间更长则危及生命"
+    ],
+    "atoms_text": "一过性的晕厥 背后可能是 心律失常导致的 短暂性脑供血不足 心脏停跳几秒钟啊 人就可以失去意识 停久了 就是出事",
+    "needs_animation": true,
+    "label": "心律失常致心脏停跳数秒引发短暂脑供血不足"
+  },
+  {
+    "global_index": 3575,
+    "seg_id": "S5-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号四：眼前一黑",
+    "template": "hero_text",
+    "items": [
+      "晕厥哪怕只发生一次，也必须去查"
+    ],
+    "atoms_text": "晕厥这件事 哪怕只发生过一次 也值得认真地查一下 不要因为啊 后来好了 就当作没发生过",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3576,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号五：脚踝水肿",
+    "template": "split_column",
+    "items": [
+      "久坐久站后脚踝微肿",
+      "按下去凹陷久久不恢复",
+      "晚上肿、早上自然消退",
+      "伴随疲乏、体重莫名增加"
+    ],
+    "atoms_text": "第五个 脚踝肿了 按下去啊 一个坑 弹不回来 久坐或者站太久 脚踝就会肿 这正常 晚上消 早上好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3577,
+    "seg_id": "S6-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号五：脚踝水肿",
+    "template": "step_arrow",
+    "items": [
+      "心脏压力过大，泵血能力减弱",
+      "静脉血液回流受阻",
+      "液体淤积，出现凹陷性水肿"
+    ],
+    "atoms_text": "但如果是 凹陷性的水肿 用手指按下去 皮肤凹了 过了好一会儿 才慢慢的恢复 再配上 身体容易疲乏 最近体重啊 莫名其妙的增加",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3578,
+    "seg_id": "S6-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号五：脚踝水肿",
+    "template": "hero_text",
+    "items": [
+      "凹陷性水肿，是心脏在说撑不住了"
+    ],
+    "atoms_text": "这种种就不是腿累了 是心脏压力过大 静脉血液回流受阻的表现 是心脏在跟你说啊 它撑不住了",
+    "needs_animation": true,
+    "label": "心脏压力过大导致静脉血液回流受阻"
+  },
+  {
+    "global_index": 3579,
+    "seg_id": "S7-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "行动呼吁收尾",
+    "template": "number_center",
+    "items": [
+      "5"
+    ],
+    "atoms_text": "这五个症状 在我们科室啊 每天都有人 带着它们走进来 然后发现自己 拖晚了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3580,
+    "seg_id": "S7-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "行动呼吁收尾",
+    "template": "myth_buster",
+    "items": [
+      "身体是弹簧，忍忍就有韧性",
+      "身体不是弹簧，忍不出健康",
+      "忍能让加班少、工作轻",
+      "忍只会让信号被你错过"
+    ],
+    "atoms_text": "我不是要吓你 打工人的身体 不是弹簧 忍不是韧性 虽然不能让你 工作少一点 加班短一点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3581,
+    "seg_id": "S7-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "行动呼吁收尾",
+    "template": "hero_text",
+    "items": [
+      "身体发出信号，听一下，查一下，就这么简单"
+    ],
+    "atoms_text": "但这几件事啊 你得自己知道 身体出了信号 听一下 去查一下 就这么简单",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3582,
+    "seg_id": "S1-L1",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "hero_text",
+    "items": [
+      "运动到底会不会引发心梗？"
+    ],
+    "atoms_text": "运动真的对身体好吗 运动会引起急性心梗吗 今天 相信很多人 心里都揣着这个问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3583,
+    "seg_id": "S1-L2",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "hero_text",
+    "items": [
+      "规律有氧运动是对心脏最友好的生活方式"
+    ],
+    "atoms_text": "我想认真的回答你 运动是好的 规律的有氧的运动 是目前已知 对心脏最友好的生活方式 没有之一",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3584,
+    "seg_id": "S1-L3",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "hero_text",
+    "items": [
+      "心梗的起点是血管内膜损伤"
+    ],
+    "atoms_text": "但有一件事情 我要跟你说清楚 就是 心肌梗死的起点 是血管内膜的损伤",
+    "needs_animation": true,
+    "label": "心肌梗死起于血管内膜损伤"
+  },
+  {
+    "global_index": 3585,
+    "seg_id": "S1-L4",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "step_arrow",
+    "items": [
+      "血流反复猛烈冲击血管壁",
+      "血压升高 心率加快 冲击力增大",
+      "血管内膜受损 风险上升"
+    ],
+    "atoms_text": "而血管内膜的损伤的原因 是血流对血管壁的 反复猛烈的冲击",
+    "needs_animation": true,
+    "label": "血流反复猛烈冲击血管壁导致内膜损伤"
+  },
+  {
+    "global_index": 3586,
+    "seg_id": "S1-L5",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "number_center",
+    "items": [
+      "2"
+    ],
+    "atoms_text": "血压越高 心率越快 这个冲击就越大",
+    "needs_animation": true,
+    "label": "高血压和快心率加剧血流对血管壁的冲击力"
+  },
+  {
+    "global_index": 3587,
+    "seg_id": "S1-L6",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "split_column",
+    "items": [
+      "适量运动",
+      "过量或带病运动",
+      "血管承受得住，长期利大于弊",
+      "冲击可能压垮脆弱血管"
+    ],
+    "atoms_text": "运动时 血压会升 心率会快 这意味着 运动对血管壁本身 就是有直接压力的",
+    "needs_animation": true,
+    "label": "运动时血压升高心率加快对血管壁产生直接压力"
+  },
+  {
+    "global_index": 3588,
+    "seg_id": "S1-L7",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "branch_path",
+    "items": [
+      "运动强度是否匹配血管状态？",
+      "匹配：心脏获益，功能增强",
+      "不匹配：冲击累积，风险骤增"
+    ],
+    "atoms_text": "适量的运动 血管承受得住 长期来看 利大于弊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3589,
+    "seg_id": "S1-L8",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "运动与心脏的真相",
+    "template": "warning_alert",
+    "items": [
+      "强度过大或血管已有问题时运动可能成为导火索"
+    ],
+    "atoms_text": "但如果强度过大 或者血管本身就已经有问题了 那这个冲击啊 就有可能会压垮它一下",
+    "needs_animation": true,
+    "label": "过强冲击压垮已有病变的血管"
+  },
+  {
+    "global_index": 3590,
+    "seg_id": "S2-L1",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "hero_text",
+    "items": [
+      "哪类人运动前必须认真评估？"
+    ],
+    "atoms_text": "那什么样的人 现在需要停下来 认真的想一想 再决定怎么动呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3591,
+    "seg_id": "S2-L2",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "list_fade",
+    "items": [
+      "长期睡眠不足、压力过大",
+      "偶尔胸口发闷却从未就诊",
+      "心脏承受底线已远低于正常人"
+    ],
+    "atoms_text": "第一类 被工作长期透支的人 睡不够 压力大 偶尔胸口发闷 但没有去查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3592,
+    "seg_id": "S2-L3",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "warning_alert",
+    "items": [
+      "运动强度一上来，紧绷的线随时可能断裂"
+    ],
+    "atoms_text": "这种状态下的心脏 表面还在撑着 但它的承受底线 已经比正常人低很多了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3593,
+    "seg_id": "S2-L4",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "list_fade",
+    "items": [
+      "心电图曾提示异常",
+      "血压长期偏高",
+      "血糖在临界值徘徊"
+    ],
+    "atoms_text": "运动强度一上来 那条紧绷的线 随时可能就会断裂",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3594,
+    "seg_id": "S2-L5",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "warning_alert",
+    "items": [
+      "多重问题叠加是心脏在高风险下运转的信号"
+    ],
+    "atoms_text": "第二类 体检查出过问题 但没当回事的人 心电图提示过异常 血压长期偏高 血糖在临界值徘徊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3595,
+    "seg_id": "S2-L6",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "list_fade",
+    "items": [
+      "家族有猝死或早发心脏病史",
+      "往往无明显症状最易被忽略",
+      "遗传因素让心脏风险阈值天然偏低"
+    ],
+    "atoms_text": "这种问题啊 叠在一起 是心脏在高风险环境下工作的信号 不是可以继续忽略的小事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3596,
+    "seg_id": "S2-L7",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "hero_text",
+    "items": [
+      "有家族心脏病史，运动前必须认真评估"
+    ],
+    "atoms_text": "第三类 家族里有猝死或早发心脏病历史的人 这类人往往没有明显的症状 最容易被忽略",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3597,
+    "seg_id": "S2-L8",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "list_fade",
+    "items": [
+      "运动时喘得比别人厉害得多",
+      "心脏偶尔咯噔一下",
+      "爬两层楼就需要停下来缓一缓"
+    ],
+    "atoms_text": "但遗传因素 会让心脏的风险的阈值 天然偏低 运动前尤其需要认真评估",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3598,
+    "seg_id": "S2-L9",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "myth_buster",
+    "items": [
+      "喘不过气是体力太差",
+      "这是心脏在发出求救信号",
+      "爬楼腿软是太久没运动",
+      "这是心脏承受能力下降的警报"
+    ],
+    "atoms_text": "第四类 有过心脏发出信号 但自己没有意识到的人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3599,
+    "seg_id": "S2-L10",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "brick_stack",
+    "items": [
+      "运动喘息明显异于常人",
+      "心脏偶发咯噔感",
+      "轻微活动即需停歇恢复",
+      "心脏已在用极限方式求救"
+    ],
+    "atoms_text": "比如啊 运动时候喘的比别人厉害很多 以为是体力差 心脏偶尔咯噔一下 以为是没睡好 爬两层楼啊 需要停下来缓一缓 以为是最近太久没动",
+    "needs_animation": false,
+    "label": ""
+  }
+]

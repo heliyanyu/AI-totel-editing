@@ -1,0 +1,512 @@
+[
+  {
+    "global_index": 200,
+    "seg_id": "S5-L4",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "\"早放早安心\"逻辑错在哪",
+    "template": "hero_text",
+    "items": [
+      "动脉粥样硬化是全身病，支架只解决一个点"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化全身分布与支架局部作用对比"
+  },
+  {
+    "global_index": 201,
+    "seg_id": "S6-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "hero_text",
+    "items": [
+      "不让血管继续堵，该怎么做？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 202,
+    "seg_id": "S6-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "step_arrow",
+    "items": [
+      "他汀：稳定斑块，防止破裂",
+      "阿司匹林：防血栓形成",
+      "降压药：减少血管壁冲击"
+    ],
+    "needs_animation": true,
+    "label": "他汀稳定斑块与阿司匹林抗血栓及降压药保护血管壁的药物机制"
+  },
+  {
+    "global_index": 203,
+    "seg_id": "S6-L3",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "warning_alert",
+    "items": [
+      "没症状就偷偷停药，风险极大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 204,
+    "seg_id": "S6-L4",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "hero_text",
+    "items": [
+      "生活方式有四件事要注意"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 205,
+    "seg_id": "S6-L5",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "category_table",
+    "items": [
+      "低密度脂蛋白",
+      "已有斑块者控制到1.8以下",
+      "血压",
+      "控制在130mmHg以下"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 206,
+    "seg_id": "S6-L6",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "list_fade",
+    "items": [
+      "烟草直接损伤血管内膜",
+      "使斑块变得不稳定",
+      "没有折中方案，必须戒"
+    ],
+    "needs_animation": true,
+    "label": "烟草损伤血管内膜导致斑块不稳定的病理过程"
+  },
+  {
+    "global_index": 207,
+    "seg_id": "S6-L7",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "number_center",
+    "items": [
+      "3~5次/周"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 208,
+    "seg_id": "S6-L8",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "hero_text",
+    "items": [
+      "这些加在一起，对血管的保护比支架大得多"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 209,
+    "seg_id": "S6-L9",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "list_fade",
+    "items": [
+      "不需要住院",
+      "不需要手术",
+      "有氧运动完全不花钱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 210,
+    "seg_id": "S6-L10",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "hero_text",
+    "items": [
+      "药物+生活方式，才是全面保护血管的根本"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 211,
+    "seg_id": "S7-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "该放时不犹豫",
+    "template": "split_column",
+    "items": [
+      "急性心肌梗死救命",
+      "无症状稳定型冠心病",
+      "必须立刻放，毫不犹豫",
+      "不必放，吃药管理即可"
+    ],
+    "needs_animation": true,
+    "label": "急性心肌梗死时冠脉支架植入手术过程"
+  },
+  {
+    "global_index": 212,
+    "seg_id": "S7-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "该放时不犹豫",
+    "template": "hero_text",
+    "items": [
+      "没有症状，放支架不能一劳永逸"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 213,
+    "seg_id": "S8-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "结尾回归案例",
+    "template": "hero_text",
+    "items": [
+      "吃药观察，复查稳定，家属终于想通"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 214,
+    "seg_id": "S8-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "结尾回归案例",
+    "template": "hero_text",
+    "items": [
+      "管住血管不靠支架靠自己"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 215,
+    "seg_id": "S1-L1",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "颠覆认知的开场",
+    "template": "hero_text",
+    "items": [
+      "运动可能正在伤害你的血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 216,
+    "seg_id": "S1-L2",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "颠覆认知的开场",
+    "template": "myth_buster",
+    "items": [
+      "运动是好事，怎么会伤血管",
+      "有些人天天锻炼反而出事了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 217,
+    "seg_id": "S1-L3",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "颠覆认知的开场",
+    "template": "hero_text",
+    "items": [
+      "听完道理你就明白了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 218,
+    "seg_id": "S2-L1",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "血管受损的机制",
+    "template": "hero_text",
+    "items": [
+      "血管壁究竟是怎么受损的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 219,
+    "seg_id": "S2-L2",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "血管受损的机制",
+    "template": "body_annotate",
+    "items": [
+      "血管内膜是有活组织的",
+      "每时每刻承受血液冲击"
+    ],
+    "needs_animation": true,
+    "label": "血管壁三层结构与内膜承受血流冲击"
+  },
+  {
+    "global_index": 220,
+    "seg_id": "S2-L3",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "血管受损的机制",
+    "template": "split_column",
+    "items": [
+      "安静时血流平缓",
+      "运动时心率血压骤升"
+    ],
+    "needs_animation": true,
+    "label": "安静与运动状态下血流动力学变化对比"
+  },
+  {
+    "global_index": 221,
+    "seg_id": "S2-L4",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "血管受损的机制",
+    "template": "step_arrow",
+    "items": [
+      "运动启动心率上升",
+      "血压随之升高",
+      "血液冲击血管壁加剧"
+    ],
+    "needs_animation": true,
+    "label": "运动时血压升高血流冲击血管壁的生理过程"
+  },
+  {
+    "global_index": 222,
+    "seg_id": "S2-L5",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "血管受损的机制",
+    "template": "warning_alert",
+    "items": [
+      "运动对血管内膜造成物理损伤"
+    ],
+    "needs_animation": true,
+    "label": "血流冲击导致血管内膜物理损伤的病理过程"
+  },
+  {
+    "global_index": 223,
+    "seg_id": "S2-L6",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "血管受损的机制",
+    "template": "hero_text",
+    "items": [
+      "这是医学界的共识"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 224,
+    "seg_id": "S3-L1",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "运动的长期收益",
+    "template": "hero_text",
+    "items": [
+      "既然伤血管，为何还要运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 225,
+    "seg_id": "S3-L2",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "运动的长期收益",
+    "template": "split_column",
+    "items": [
+      "运动时的冲击是短暂的",
+      "运动带来的好处是长期的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 226,
+    "seg_id": "S3-L3",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "运动的长期收益",
+    "template": "step_arrow",
+    "items": [
+      "运动半小时冲击血管",
+      "运动结束启动修复机制",
+      "血管弹性逐渐增强"
+    ],
+    "needs_animation": true,
+    "label": "运动后血管内膜损伤修复与弹性增强机制"
+  },
+  {
+    "global_index": 227,
+    "seg_id": "S3-L4",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "运动的长期收益",
+    "template": "list_fade",
+    "items": [
+      "血管弹性变好",
+      "微循环更加丰富",
+      "安静时心率血压下降"
+    ],
+    "needs_animation": true,
+    "label": "长期运动后血管弹性改善与微循环增生"
+  },
+  {
+    "global_index": 228,
+    "seg_id": "S3-L5",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "运动的长期收益",
+    "template": "number_center",
+    "items": [
+      "23.5"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 229,
+    "seg_id": "S3-L6",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "运动的长期收益",
+    "template": "step_arrow",
+    "items": [
+      "举铁时肌肉纤维撕裂",
+      "休息后修复更强壮",
+      "血管也因适度冲击变韧"
+    ],
+    "needs_animation": true,
+    "label": "血管壁适应性重塑过程（类比肌肉修复）"
+  },
+  {
+    "global_index": 230,
+    "seg_id": "S3-L7",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "运动的长期收益",
+    "template": "hero_text",
+    "items": [
+      "运动当时的小伤远小于长期的大益"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 231,
+    "seg_id": "S3-L8",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "运动的长期收益",
+    "template": "hero_text",
+    "items": [
+      "但有些人的运动只有伤害没有修复"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 232,
+    "seg_id": "S3-L9",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "运动的长期收益",
+    "template": "hero_text",
+    "items": [
+      "这些人到底在做什么错误的事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 233,
+    "seg_id": "S4-L1",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "四类危险运动人群",
+    "template": "hero_text",
+    "items": [
+      "只有伤害没有修复的四种运动方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 234,
+    "seg_id": "S4-L2",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "四类危险运动人群",
+    "template": "warning_alert",
+    "items": [
+      "血压未控制时运动可飙至200",
+      "严重时直接导致脑出血"
+    ],
+    "needs_animation": true,
+    "label": "高血压状态下运动导致血管破裂脑出血"
+  },
+  {
+    "global_index": 235,
+    "seg_id": "S4-L3",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "四类危险运动人群",
+    "template": "hero_text",
+    "items": [
+      "先把血压降下来再谈运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 236,
+    "seg_id": "S4-L4",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "四类危险运动人群",
+    "template": "step_arrow",
+    "items": [
+      "长期熬夜睡眠不足",
+      "白天剧烈运动冲击血管",
+      "夜间无法修复损伤积累"
+    ],
+    "needs_animation": true,
+    "label": "睡眠不足时血管损伤修复失败与损伤累积"
+  },
+  {
+    "global_index": 237,
+    "seg_id": "S4-L5",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "四类危险运动人群",
+    "template": "warning_alert",
+    "items": [
+      "连续熬夜后猛跑十公里反而更危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 238,
+    "seg_id": "S4-L6",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "四类危险运动人群",
+    "template": "body_annotate",
+    "items": [
+      "血管内已有不稳定斑块",
+      "表面覆盖薄薄一层纤维帽"
+    ],
+    "needs_animation": true,
+    "label": "不稳定斑块结构（薄纤维帽与脂质核心）"
+  },
+  {
+    "global_index": 239,
+    "seg_id": "S4-L7",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "四类危险运动人群",
+    "template": "step_arrow",
+    "items": [
+      "剧烈运动血流猛烈冲击斑块",
+      "纤维帽破裂血栓形成",
+      "急性心肌梗死发作"
+    ],
+    "needs_animation": true,
+    "label": "斑块纤维帽破裂引发血栓致急性心肌梗死"
+  }
+]

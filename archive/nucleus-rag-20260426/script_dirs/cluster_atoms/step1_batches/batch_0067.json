@@ -1,0 +1,535 @@
+[
+  {
+    "global_index": 2680,
+    "seg_id": "S13-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "list_fade",
+    "items": [
+      "严重并发症不到0.2%，非常安全",
+      "肾功能正常者不用担心伤肾和辐射",
+      "不做造影耽误病情的风险更大"
+    ],
+    "atoms_text": "第一呢 冠脉造影 出现严重风险的概率极低 严重并发症 不到百分之零点二 非常安全",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2681,
+    "seg_id": "S13-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "相信医生，相信现代医学技术"
+    ],
+    "atoms_text": "第二个呢 肾功能正常的人 不用担心伤肾 辐射也在安全范围",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2682,
+    "seg_id": "S13-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "step_arrow",
+    "items": [
+      "早检查",
+      "早明确诊断",
+      "早治疗早安心"
+    ],
+    "atoms_text": "第三个呢 不做造影 耽误病情的风险 远大于检查本身的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2683,
+    "seg_id": "S13-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "别让不必要的恐惧留下终身遗憾"
+    ],
+    "atoms_text": "如果您或者家人 需要做冠脉造影啊 不用害怕 不用焦虑 相信医生 相信现代的医学技术",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2684,
+    "seg_id": "S13-L6",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "心脏健康无小事"
+    ],
+    "atoms_text": "早检查 早明确诊断 才能早治疗 早安心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2685,
+    "seg_id": "S13-L7",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "转发给你关心的人，远离恐慌"
+    ],
+    "atoms_text": "心脏健康没有小事儿 别因为不必要的恐惧 让自己留下遗憾",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2686,
+    "seg_id": "S13-L8",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "了解真相，才能真正保护自己的心脏"
+    ],
+    "atoms_text": "把这条视频 转给你关心的人 让更多人去了解真相 远离恐慌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2687,
+    "seg_id": "S1-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "开场引出",
+    "template": "hero_text",
+    "items": [
+      "急性心梗黄金十二小时有多重要"
+    ],
+    "atoms_text": "急性心梗 黄金十二小时 急诊造影 到底有多么重要",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2688,
+    "seg_id": "S1-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "开场引出",
+    "template": "hero_text",
+    "items": [
+      "时间就是心肌，时间就是生命"
+    ],
+    "atoms_text": "为什么说 时间就是心肌 时间就是生命呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2689,
+    "seg_id": "S1-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "开场引出",
+    "template": "hero_text",
+    "items": [
+      "这条视频是能救命的干货"
+    ],
+    "atoms_text": "这条视频 不是普通的科普 是能救命的干货",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2690,
+    "seg_id": "S1-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "开场引出",
+    "template": "list_fade",
+    "items": [
+      "中老年人家庭必看",
+      "有三高爱抽烟的人尤其要看",
+      "看完请转发给家人"
+    ],
+    "atoms_text": "尤其是 家里有中老年人 有三高 爱抽烟的人 一定要认真看完 转发给家人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2691,
+    "seg_id": "S1-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "开场引出",
+    "template": "hero_text",
+    "items": [
+      "关键时刻能保住一个家庭"
+    ],
+    "atoms_text": "关键时刻 能保住一条命 能保住一个家庭",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2692,
+    "seg_id": "S2-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "残酷现实",
+    "template": "hero_text",
+    "items": [
+      "先说一个残酷的现实"
+    ],
+    "atoms_text": "我先跟大家 说个残酷的现实",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2693,
+    "seg_id": "S2-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "残酷现实",
+    "template": "number_center",
+    "items": [
+      "15秒"
+    ],
+    "atoms_text": "咱们国家 每十五秒 就有一个人 因为心脑血管疾病 去世",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2694,
+    "seg_id": "S2-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "残酷现实",
+    "template": "warning_alert",
+    "items": [
+      "急性心梗是最凶险、死亡率最高的一种"
+    ],
+    "atoms_text": "而急性心梗 就是 最凶险 最突然 死亡率最高的 一种",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2695,
+    "seg_id": "S2-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "残酷现实",
+    "template": "hero_text",
+    "items": [
+      "我国心梗救治水平已经很高"
+    ],
+    "atoms_text": "其实咱们国家 心梗救治水平 已经很高了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2696,
+    "seg_id": "S2-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "残酷现实",
+    "template": "warning_alert",
+    "items": [
+      "很多人不是治不好，是耽误了时间错过黄金期"
+    ],
+    "atoms_text": "很多人 不是治不好 而是耽误了时间 错过了 最宝贵的黄金抢救期 最后留下遗憾 甚至失去生命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2697,
+    "seg_id": "S3-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间窗",
+    "template": "number_center",
+    "items": [
+      "12小时"
+    ],
+    "atoms_text": "心梗的黄金抢救时间 是十二小时",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2698,
+    "seg_id": "S3-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间窗",
+    "template": "hero_text",
+    "items": [
+      "前2小时是黄金期中的黄金期"
+    ],
+    "atoms_text": "更精准的说 前两小时 是黄金期中的黄金期",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2699,
+    "seg_id": "S3-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间窗",
+    "template": "step_arrow",
+    "items": [
+      "越早打通堵塞血管",
+      "救活的心肌越多",
+      "后遗症越少，死亡率越低"
+    ],
+    "atoms_text": "在这个时间里 你越早打通 堵塞的心脏血管 救活的心肌就越多 后遗症也就越少 死亡率也会变低",
+    "needs_animation": true,
+    "label": "打通堵塞冠脉后心肌重新获得血供而存活"
+  },
+  {
+    "global_index": 2700,
+    "seg_id": "S4-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗病理机制",
+    "template": "asset_clip",
+    "items": [
+      "心脏血管像给心脏供血的水管"
+    ],
+    "atoms_text": "咱们的心脏血管 就像 给心脏供血的水管",
+    "needs_animation": true,
+    "label": "冠状动脉作为心脏供血管道的解剖结构"
+  },
+  {
+    "global_index": 2701,
+    "seg_id": "S4-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗病理机制",
+    "template": "asset_clip",
+    "items": [
+      "血栓突然堵死冠状动脉"
+    ],
+    "atoms_text": "心梗呢 就是 血管突然被血栓堵死了",
+    "needs_animation": true,
+    "label": "血栓突然堵塞冠状动脉管腔"
+  },
+  {
+    "global_index": 2702,
+    "seg_id": "S4-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗病理机制",
+    "template": "asset_clip",
+    "items": [
+      "血流中断，心肌持续缺氧坏死"
+    ],
+    "atoms_text": "血流一断 心肌就没了 氧气和营养 每秒钟 都在持续的坏死",
+    "needs_animation": true,
+    "label": "血流中断后心肌细胞缺氧持续坏死"
+  },
+  {
+    "global_index": 2703,
+    "seg_id": "S4-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗病理机制",
+    "template": "step_arrow",
+    "items": [
+      "堵塞时间越长",
+      "坏死心肌越多",
+      "心衰、休克甚至猝死"
+    ],
+    "atoms_text": "堵的越久呢 坏死的心肌就越多 心脏就可能 衰竭 休克 甚至直接猝死 一点缓冲的余地都没有",
+    "needs_animation": true,
+    "label": "心肌坏死面积扩大导致心脏衰竭和休克"
+  },
+  {
+    "global_index": 2704,
+    "seg_id": "S5-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "造影 vs 溶栓",
+    "template": "hero_text",
+    "items": [
+      "药物溶栓不能通血管吗？"
+    ],
+    "atoms_text": "很多朋友会问 药物溶栓 不能通血管吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2705,
+    "seg_id": "S5-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "造影 vs 溶栓",
+    "template": "myth_buster",
+    "items": [
+      "药物溶栓成功率低且有出血风险",
+      "急诊冠脉造影更快更有效更安全",
+      "溶栓速度慢无法精准定位",
+      "造影直接看清堵塞位置和程度"
+    ],
+    "atoms_text": "能 但成功率低 速度慢 还可能有出血的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2706,
+    "seg_id": "S5-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "造影 vs 溶栓",
+    "template": "asset_clip",
+    "items": [
+      "直接看到血管哪里堵、堵多严重"
+    ],
+    "atoms_text": "急诊冠脉造影啊 是目前 最快最有效的 救命方法",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2707,
+    "seg_id": "S5-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "造影 vs 溶栓",
+    "template": "asset_clip",
+    "items": [
+      "用支架撑开血管，几分钟恢复血流"
+    ],
+    "atoms_text": "它能直接看到 血管到底是哪里堵了 堵的有多严重",
+    "needs_animation": true,
+    "label": "造影剂显示冠脉堵塞位置和严重程度"
+  },
+  {
+    "global_index": 2708,
+    "seg_id": "S5-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "造影 vs 溶栓",
+    "template": "hero_text",
+    "items": [
+      "全世界公认的最佳心梗抢救方式"
+    ],
+    "atoms_text": "然后用支架 把血管撑开 几分钟 就能让血流恢复",
+    "needs_animation": true,
+    "label": "支架撑开堵塞血管恢复血流"
+  },
+  {
+    "global_index": 2709,
+    "seg_id": "S5-L6",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "造影 vs 溶栓",
+    "template": "hero_text",
+    "items": [
+      "急诊冠脉造影是目前最快最有效的救命方法"
+    ],
+    "atoms_text": "这是 全世界公认的 最佳抢救方式",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2710,
+    "seg_id": "S6-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "关键时刻最容易栽的三件事"
+    ],
+    "atoms_text": "急性心梗发作 很多家庭 在关键时刻 就栽在这三件事上",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2711,
+    "seg_id": "S6-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "warning_alert",
+    "items": [
+      "害怕签字，商量半天耽误抢救时间"
+    ],
+    "atoms_text": "第一个 犹豫 家属不敢签字 害怕造影 害怕支架 非要商量半天 问遍所有的亲戚朋友",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2712,
+    "seg_id": "S6-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "asset_clip",
+    "items": [
+      "每一分钟犹豫，心肌就在坏死"
+    ],
+    "atoms_text": "时间一分一秒过去 心肌也在一点点坏死",
+    "needs_animation": true,
+    "label": "时间推移中心肌逐步坏死的过程"
+  },
+  {
+    "global_index": 2713,
+    "seg_id": "S6-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "这不是谨慎，这是在拿命赌"
+    ],
+    "atoms_text": "这不是谨慎 这是在拿命赌啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2714,
+    "seg_id": "S6-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "warning_alert",
+    "items": [
+      "非要去远处大医院，路上耽误数小时"
+    ],
+    "atoms_text": "第二个 转院 非要去更远的大医院 路上耽误几个小时 黄金时间全浪费了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2715,
+    "seg_id": "S6-L6",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "当地医院能做支架就尽快开通血管"
+    ],
+    "atoms_text": "等到了医院再抢救 也可能就晚了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2716,
+    "seg_id": "S6-L7",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "warning_alert",
+    "items": [
+      "拒绝造影只输液，拖进ICU无法挽回"
+    ],
+    "atoms_text": "如果你所在医院 能做支架手术 那就尽快 开通堵死的血管吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2717,
+    "seg_id": "S6-L8",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "本能救活的病，因耽误时间失去生命"
+    ],
+    "atoms_text": "第三个 不相信医生 非要吃药输液 保守治疗 觉得胸闷 歇一会儿就好了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2718,
+    "seg_id": "S6-L9",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "每次遇到这种情况医生都格外心痛"
+    ],
+    "atoms_text": "最后拖进ICU了 也没法挽回的地步 连后悔的机会都没有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2719,
+    "seg_id": "S6-L10",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "没做造影耽误时间，是最大的遗憾"
+    ],
+    "atoms_text": "每次遇到这种情况 我们医生 都特别特别的心痛",
+    "needs_animation": false,
+    "label": ""
+  }
+]

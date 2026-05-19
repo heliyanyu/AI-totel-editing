@@ -1,0 +1,190 @@
+[
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 105.0,
+    "end_sec": 115.0,
+    "text_en": "Limit the amount of fluid you drink. Ask your healthcare provider how much fluid you should drink each day. And remember, a heart healthy diet doesn't include alcohol.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 115.0,
+    "end_sec": 128.0,
+    "text_en": "Also, check with your healthcare provider about an exercise plan that's right for you. 30 minutes of daily low impact exercise can help strengthen your heart.",
+    "category_ids": [
+      75,
+      40
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 128.0,
+    "end_sec": 134.0,
+    "text_en": "Talk to your healthcare provider if you have any questions about lifestyle changes to help you manage heart failure.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Medication.mp4",
+    "title": "Heart Failure Treatment  Medication",
+    "start_sec": 0.0,
+    "end_sec": 9.0,
+    "text_en": "Your doctor may prescribe one or more types of medication to treat your heart failure.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Medication.mp4",
+    "title": "Heart Failure Treatment  Medication",
+    "start_sec": 9.0,
+    "end_sec": 18.0,
+    "text_en": "Diuretic medications reduce the swelling in your body by increasing the amount of urine produced by your kidneys.",
+    "category_ids": [
+      75,
+      43
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Medication.mp4",
+    "title": "Heart Failure Treatment  Medication",
+    "start_sec": 18.0,
+    "end_sec": 32.0,
+    "text_en": "Ace inhibitors are medications that allow your blood vessels to expand. This helps decrease your blood pressure and prevents further damage to your heart by making it easier for your heart to pump blood.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Medication.mp4",
+    "title": "Heart Failure Treatment  Medication",
+    "start_sec": 32.0,
+    "end_sec": 49.0,
+    "text_en": "Beta blockers are medications that block the effects of stress hormones on your heart. Although beta blockers slow down your heartbeat, they are mainly used to protect your heart muscle from the long-term damage caused by stress hormones.",
+    "category_ids": [
+      75,
+      35
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start_sec": 0.0,
+    "end_sec": 12.0,
+    "text_en": "This video will help you understand the main surgical procedures done to treat heart failure. Please watch the entire video to learn about the surgeries for heart failure.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start_sec": 12.0,
+    "end_sec": 22.0,
+    "text_en": "Surgery for advanced heart failure include coronary artery bypass surgery to improve blood flow to your heart muscle.",
+    "category_ids": [
+      55,
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start_sec": 23.0,
+    "end_sec": 29.0,
+    "text_en": "And heart valve reconstruction surgery to improve blood flow through your heart.",
+    "category_ids": [
+      75,
+      127
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start_sec": 31.0,
+    "end_sec": 62.0,
+    "text_en": "If the heart remains weak with standard heart failure treatments, advanced treatment options for severe heart failure include insertion of a pump for your heart. A ventricular assist device, or VAD, is a mechanical pump that's used to support heart function and blood flow in people who have weakened hearts. The device takes blood from a lower chamber of the heart and helps pump it to the body and vital organs just as a healthy heart would.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start_sec": 65.0,
+    "end_sec": 70.0,
+    "text_en": "Another advanced treatment for severe heart failure is a heart transplant.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start_sec": 73.0,
+    "end_sec": 104.0,
+    "text_en": "If you have advanced heart failure, your surgeon will determine the best type of treatment for you. The first step is to get the heart transplant. The second step is to get the heart transplant. The second step is to get the heart transplant.\n\n---\n\n**切分说明（6 个 logic blocks）：**\n\n| Block | 医学动作/步骤 |\n|-------|--------------|\n| 1 | 视频总览引入 |\n| 2 | 冠状动脉搭桥术（CABG） |\n| 3 | 心脏瓣膜重建术 |\n| 4 | 心室辅助装置（VAD）——从引出到工作原理，属同一装置展示 |\n| 5 | 心脏移植 |\n| 6 | 总结/收尾（含末尾 ASR 重复句） |\n\n> ⚠️ 末尾 \"The first step is to get the heart transplant…\" 连续重复，疑为 ASR 识别错误或素材循环，已保留原文不做改动。",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Normal Anatomy and Function of the Heart.mp4",
+    "title": "Normal Anatomy and Function of the Heart",
+    "start_sec": 0.0,
+    "end_sec": 29.54,
+    "text_en": "Your heart is a muscular organ that pumps blood containing the oxygen and nutrients your body needs. The pumping sections of the heart are the right atrium, right ventricle, left atrium, and left ventricle.",
+    "category_ids": [
+      46,
+      126
+    ]
+  },
+  {
+    "file": "Normal Anatomy and Function of the Heart.mp4",
+    "title": "Normal Anatomy and Function of the Heart",
+    "start_sec": 29.54,
+    "end_sec": 36.78,
+    "text_en": "In your heart, oxygen poor blood flows from your body through large veins into your right atrium.",
+    "category_ids": [
+      46
+    ]
+  },
+  {
+    "file": "Normal Anatomy and Function of the Heart.mp4",
+    "title": "Normal Anatomy and Function of the Heart",
+    "start_sec": 36.78,
+    "end_sec": 46.5,
+    "text_en": "Next, your blood moves into your right ventricle, which contracts, sending blood out of the heart to pick up oxygen from your lungs.",
+    "category_ids": [
+      46,
+      126
+    ]
+  },
+  {
+    "file": "Normal Anatomy and Function of the Heart.mp4",
+    "title": "Normal Anatomy and Function of the Heart",
+    "start_sec": 46.5,
+    "end_sec": 53.3,
+    "text_en": "Oxygen rich blood moves out of your lungs into your left atrium, then moves into your left ventricle.",
+    "category_ids": [
+      46
+    ]
+  },
+  {
+    "file": "Normal Anatomy and Function of the Heart.mp4",
+    "title": "Normal Anatomy and Function of the Heart",
+    "start_sec": 53.58,
+    "end_sec": 59.38,
+    "text_en": "Finally, your left ventricle contracts, sending oxygen rich blood out of your heart to",
+    "category_ids": [
+      46,
+      126
+    ]
+  }
+]

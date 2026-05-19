@@ -1,0 +1,562 @@
+[
+  {
+    "global_index": 1720,
+    "seg_id": "S3-L9",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "穿刺部位出血血肿",
+      "支架内血栓形成",
+      "造影剂过敏反应"
+    ],
+    "atoms_text": "四 心脏支架术的风险啊 相对较低 主要风险呢 是穿刺部位的一个出血 肢体的血肿 支架内血栓的形成 和造影剂过敏等风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1721,
+    "seg_id": "S3-L10",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "warning_alert",
+    "items": [
+      "可能出血感染或心律失常",
+      "严重时心衰甚至休克"
+    ],
+    "atoms_text": "心脏搭桥手术就不一样了 它的风险呢 相对较高一些 主要与创伤有关 可能会出现 出血感染啦 各种心律失常啦 心衰甚至休克啦 等并发症",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1722,
+    "seg_id": "S3-L11",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "warning_alert",
+    "items": [
+      "体外循环可能引发脑梗"
+    ],
+    "atoms_text": "还有呢就是 如果做心脏情况下的搭桥 还需要做体外循环 如果你的脑血管也不好 甚至很差 应该注意啊 有可能有脑梗的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1723,
+    "seg_id": "S3-L12",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "warning_alert",
+    "items": [
+      "主干病变支架术有骤停风险"
+    ],
+    "atoms_text": "但有时也不是绝对的 像心脏的主干病变 在做支架的时候啊 也有心脏骤停 和心律失常的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1724,
+    "seg_id": "S3-L13",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "两者术后均可能再狭窄",
+      "需长期服用抗血栓药物",
+      "部分患者需再次干预"
+    ],
+    "atoms_text": "第五 心脏支架和心脏搭桥术后啊 都有可能发生再狭窄 需要长期服用 抗血栓药物 抗栓治疗才行 部分患者呢 可能需要再次干预",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1725,
+    "seg_id": "S3-L14",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "color_grid",
+    "items": [
+      "可再次植入新支架",
+      "或行药物球囊扩张"
+    ],
+    "atoms_text": "心脏支架内再狭窄 可以再次做支架 或者药物球囊扩张术",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1726,
+    "seg_id": "S3-L15",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "hero_text",
+    "items": [
+      "动脉桥远期通畅率更高更持久"
+    ],
+    "atoms_text": "心脏搭桥的桥血管呢 远期通畅率也高 长期效果啊 可能更持久 尤其是动脉桥",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1727,
+    "seg_id": "S3-L16",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "warning_alert",
+    "items": [
+      "静脉桥易发生动脉硬化堵塞"
+    ],
+    "atoms_text": "但桥血管也有可能 随着时间的变化 发生动脉硬化甚至堵塞 尤其是静脉桥啊 很容易堵塞",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1728,
+    "seg_id": "S3-L17",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "branch_path",
+    "items": [
+      "桥血管发生堵塞",
+      "可行支架或球囊扩张",
+      "二次搭桥风险高难度大"
+    ],
+    "atoms_text": "当桥血管堵了之后呢 有些也是可以做支架 或者球囊扩张的 当然呢 也可以评估再次做搭桥手术 但二次手术的风险啊 相对更高 而且重复手术的难度会加大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1729,
+    "seg_id": "S3-L18",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "number_center",
+    "items": [
+      "2~3万元"
+    ],
+    "atoms_text": "第六点 心脏支架的费用啊 相对较低 单次手术费用啊 目前在两到三万元左右 支架集采后呢 价格就更低了 具体呢 因手术的方式和耗材不同啊 略有差别",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1730,
+    "seg_id": "S3-L19",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "冠脉旋磨术",
+      "切割或震波球囊",
+      "血管内超声OCT检查"
+    ],
+    "atoms_text": "像做冠脉旋磨啦 切割球囊 震波球囊了 或者血管内超声OCT啊 这些费用呢 就会多一些",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1731,
+    "seg_id": "S3-L20",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "number_center",
+    "items": [
+      "8~15万元"
+    ],
+    "atoms_text": "同时呢我们要知道 传统的心脏搭桥术啊 因手术复杂 体外循环全麻等 费用啊相对较高 整体费用 包括手术费 住院费 和术后康复等等 通常在八到十五万元左右",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1732,
+    "seg_id": "S3-L21",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "number_center",
+    "items": [
+      "12~20万元"
+    ],
+    "atoms_text": "当然了 现在呀 也有微创的搭桥手术了 这种啊 不需要体外循环 但技术要求高 需要特殊的设备和器械 费用啊 比传统的搭桥手术高 大约在十二万到二十万元左右",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1733,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "总结与建议",
+    "template": "list_fade",
+    "items": [
+      "均能恢复冠状动脉血流",
+      "有效改善心肌供血"
+    ],
+    "atoms_text": "最后总结一下 这两种手术啊 都是治疗冠心病严重狭窄的 一种重要的手段 都能够让心脏恢复血流 改善心肌供血",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1734,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "总结与建议",
+    "template": "brick_stack",
+    "items": [
+      "血管病变程度",
+      "患者整体身体状况",
+      "患者年龄因素",
+      "医生综合评估意见"
+    ],
+    "atoms_text": "但具体选择哪一种 还需要结合 你的血管病变程度 身体的状况 年龄 以及医生的综合评估 来综合决定",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1735,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "总结与建议",
+    "template": "list_fade",
+    "items": [
+      "信任并配合医生",
+      "遵医嘱规范按时服药",
+      "定期复查不可省略",
+      "保持健康的生活方式"
+    ],
+    "atoms_text": "无论你选择哪一种 请谨记 一定要相信医生 而且术后啊 必须要严格遵医嘱服药 定期复查 并且啊 要保持健康的生活方式",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1736,
+    "seg_id": "S4-L4",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "总结与建议",
+    "template": "hero_text",
+    "items": [
+      "手术是起点，康复才是终点"
+    ],
+    "atoms_text": "手术只是开始 不是结果 后续治疗与康复呢 都要跟上 这样你的心脏 才会越来越好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1737,
+    "seg_id": "S4-L5",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "总结与建议",
+    "template": "hero_text",
+    "items": [
+      "觉得有用就点赞转发吧"
+    ],
+    "atoms_text": "现在你明白了吗 如果觉得好的话 就点赞转发吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1738,
+    "seg_id": "S1-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "令人尴尬的口臭困扰",
+    "template": "hero_text",
+    "items": [
+      "说话时对方下意识往后躲"
+    ],
+    "atoms_text": "你有没有过 这种特别尴尬的时刻 一跟人说话 对方就下意识的往后躲 你自己闻不到 但别人都能感觉到",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1739,
+    "seg_id": "S1-L2",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "令人尴尬的口臭困扰",
+    "template": "hero_text",
+    "items": [
+      "口臭，究竟从哪里来？"
+    ],
+    "atoms_text": "这种口臭到底是哪来的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1740,
+    "seg_id": "S2-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "number_center",
+    "items": [
+      "80%–90%"
+    ],
+    "atoms_text": "其实口臭这个事儿 百分之八十到百分之九十的情况 源头就在你的嘴巴里",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1741,
+    "seg_id": "S2-L2",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "hero_text",
+    "items": [
+      "天天刷牙，为何还会有口臭？"
+    ],
+    "atoms_text": "很多人觉得 我天天刷牙 怎么还臭呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1742,
+    "seg_id": "S2-L3",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "split_column",
+    "items": [
+      "牙齿表面",
+      "真正产臭区根本没碰到"
+    ],
+    "atoms_text": "因为你刷的 只是牙齿表面的一点点地方 嘴巴里真正产臭的大本营 你根本没碰到",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1743,
+    "seg_id": "S2-L4",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "warning_alert",
+    "items": [
+      "舌苔后三分之一最易被忽略"
+    ],
+    "atoms_text": "最容易被忽略的 就是舌苔 尤其是舌头靠后的三分之一",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1744,
+    "seg_id": "S2-L5",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "step_arrow",
+    "items": [
+      "食物残渣藏在舌苔凸起间",
+      "厌氧菌大量繁殖",
+      "分解产生含硫臭味物质"
+    ],
+    "atoms_text": "舌头上有很多微小的凸起 藏着食物残渣 脱落的细胞 还有大量的厌氧菌 这些细菌就像一个个小的工厂 分解这些东西 产生带臭的硫化物 这就是口臭最核心的来源",
+    "needs_animation": true,
+    "label": "舌乳头凸起中厌氧菌分解食物残渣产生硫化物"
+  },
+  {
+    "global_index": 1745,
+    "seg_id": "S2-L6",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "warning_alert",
+    "items": [
+      "舌根深处刷牙刷不到",
+      "细菌在此持续产臭"
+    ],
+    "atoms_text": "而舌根那个位置很深 你平时刷牙根本刷不到 所以牙刷的再干净 这些细菌还在不停产臭",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1746,
+    "seg_id": "S2-L7",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "list_fade",
+    "items": [
+      "牙龈与牙齿间形成牙周袋",
+      "牙结石和细菌藏于其中",
+      "牙刷无法伸入清洁"
+    ],
+    "atoms_text": "除了舌苔 牙龈和牙齿之间 如果有牙周袋 里面藏着牙结石和细菌 牙刷呀也伸不进去",
+    "needs_animation": true,
+    "label": "牙龈牙齿间牙周袋内牙结石与细菌堆积"
+  },
+  {
+    "global_index": 1747,
+    "seg_id": "S2-L8",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "color_grid",
+    "items": [
+      "蛀牙洞",
+      "长歪的智齿",
+      "刷牙无法解决的死角"
+    ],
+    "atoms_text": "还有就是蛀牙洞 长歪的智齿 这些都是藏污纳垢的死角 光靠刷牙解决不了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1748,
+    "seg_id": "S3-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔之外的口臭来源",
+    "template": "number_center",
+    "items": [
+      "10%–20%"
+    ],
+    "atoms_text": "那剩下的百分之十到百分之二十的情况 就是非口源性的口臭",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1749,
+    "seg_id": "S3-L2",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔之外的口臭来源",
+    "template": "list_fade",
+    "items": [
+      "鼻窦炎/鼻炎引发鼻涕倒流",
+      "鼻腔分泌物分解产生臭味"
+    ],
+    "atoms_text": "比如鼻窦炎 鼻炎 鼻涕倒流到嗓子里 分解产臭",
+    "needs_animation": true,
+    "label": "鼻涕倒流至咽喉后被细菌分解产臭"
+  },
+  {
+    "global_index": 1750,
+    "seg_id": "S3-L3",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔之外的口臭来源",
+    "template": "warning_alert",
+    "items": [
+      "扁桃体隐窝形成黄白色结石",
+      "结石捏碎后气味极为难闻"
+    ],
+    "atoms_text": "扁桃体上的小隐窝 也长出黄白色的结石 捏碎了 巨臭无比",
+    "needs_animation": true,
+    "label": "扁桃体隐窝中形成黄白色结石"
+  },
+  {
+    "global_index": 1751,
+    "seg_id": "S3-L4",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔之外的口臭来源",
+    "template": "list_fade",
+    "items": [
+      "胃食管反流",
+      "幽门螺杆菌感染",
+      "此类口臭靠刷牙无效"
+    ],
+    "atoms_text": "还有就是胃食管反流 幽门螺杆菌感染 这些问题靠刷牙当然没用了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1752,
+    "seg_id": "S4-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "hero_text",
+    "items": [
+      "解决口臭，从两个关键点入手"
+    ],
+    "atoms_text": "那怎么解决口臭的问题呢 就两点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1753,
+    "seg_id": "S4-L2",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "hero_text",
+    "items": [
+      "第一：把基础口腔护理做到位"
+    ],
+    "atoms_text": "第一 先把能做的基础护理做到位",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1754,
+    "seg_id": "S4-L3",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "step_arrow",
+    "items": [
+      "牙刷毛斜45度贴紧牙龈",
+      "轻轻震颤清洁牙缝",
+      "每次刷牙不少于两分钟",
+      "早晚各刷一次"
+    ],
+    "atoms_text": "刷牙不要横着刷 要用巴氏刷牙法 牙刷毛斜四十五度 放在牙龈和牙齿交接的地方 轻轻的震颤 每次至少两分钟 早晚各一次",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1755,
+    "seg_id": "S4-L4",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "step_arrow",
+    "items": [
+      "刷完牙后清洁舌苔",
+      "从舌根向舌尖轻刷3-5下",
+      "能解决大半口臭问题"
+    ],
+    "atoms_text": "然后是重中之重 刷舌苔 每次刷完牙 用牙刷背面或专门的舌苔清洁器 从舌根往舌尖 轻轻刷三到五下 当然刚开始有的人会觉得恶心 要一点点来 不要太过用力 这一步能解决一大半口臭的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1756,
+    "seg_id": "S4-L5",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "list_fade",
+    "items": [
+      "每天至少用一次牙线",
+      "清洁牙刷触及不到的牙缝"
+    ],
+    "atoms_text": "再就是每天至少用一次牙线 清洁牙缝里牙刷刷不到的地方",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1757,
+    "seg_id": "S4-L6",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "list_fade",
+    "items": [
+      "唾液是口腔天然清洁剂",
+      "口干时细菌会大量繁殖",
+      "多喝水保持口腔湿润"
+    ],
+    "atoms_text": "平时要多喝水 保持口腔湿润 因为唾液是口腔里天然的清洁剂 口干了细菌就会疯狂繁殖 这也是为什么早上起来口臭最重",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1758,
+    "seg_id": "S4-L7",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "color_grid",
+    "items": [
+      "少抽烟",
+      "少喝酒",
+      "少吃大蒜韭菜重口食物"
+    ],
+    "atoms_text": "还有少抽烟 少喝酒 少吃大蒜韭菜这些重口味的食物 当然除非你爱他如命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1759,
+    "seg_id": "S4-L8",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "warning_alert",
+    "items": [
+      "长期抗菌漱口水破坏口腔菌群",
+      "反而导致口臭越来越重"
+    ],
+    "atoms_text": "另外提醒一句 不要长期用长效抗菌漱口水 短期能压住味道 但长期用会破坏口腔里的正常菌群 反而越来越臭",
+    "needs_animation": false,
+    "label": ""
+  }
+]

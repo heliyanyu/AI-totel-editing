@@ -1,0 +1,530 @@
+[
+  {
+    "global_index": 4160,
+    "seg_id": "S6-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局三：替代正规药物",
+    "template": "split_column",
+    "items": [
+      "他汀伤肝阿司匹林伤胃",
+      "两者是冠心病二级预防基石",
+      "纳豆激酶鱼油辅酶Q10能替代",
+      "保健品只能辅助无法替代药物"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4161,
+    "seg_id": "S6-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局三：替代正规药物",
+    "template": "warning_alert",
+    "items": [
+      "擅自停药会出人命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4162,
+    "seg_id": "S6-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局三：替代正规药物",
+    "template": "brick_stack",
+    "items": [
+      "全球几十年几百万患者验证",
+      "明确降低心梗风险",
+      "明确降低死亡率",
+      "冠心病二级预防基石"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4163,
+    "seg_id": "S6-L5",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局三：替代正规药物",
+    "template": "step_arrow",
+    "items": [
+      "擅自停他汀阿司匹林",
+      "斑块越来越不稳定",
+      "斑块破裂引发急性心梗",
+      "后悔已经来不及"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块破裂引发急性心梗过程"
+  },
+  {
+    "global_index": 4164,
+    "seg_id": "S6-L6",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局三：替代正规药物",
+    "template": "hero_text",
+    "items": [
+      "停药换保健品是拿命在赌"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4165,
+    "seg_id": "S7-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局四：祖传秘方",
+    "template": "hero_text",
+    "items": [
+      "骗局四：名医秘方祖传偏方"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4166,
+    "seg_id": "S7-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局四：祖传秘方",
+    "template": "list_fade",
+    "items": [
+      "网上短视频自称老中医",
+      "声称有祖传护心秘方",
+      "号称能治各种心脏病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4167,
+    "seg_id": "S7-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局四：祖传秘方",
+    "template": "myth_buster",
+    "items": [
+      "正规名医会在网上给陌生人开秘方",
+      "真正的医生绝不会网上随便开秘方",
+      "有万能秘方能包治各种心脏病",
+      "心脏病复杂需面诊检查才能定方案"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4168,
+    "seg_id": "S7-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局四：祖传秘方",
+    "template": "warning_alert",
+    "items": [
+      "每个人病情不同没有万能秘方"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4169,
+    "seg_id": "S8-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "保健品合理使用",
+    "template": "hero_text",
+    "items": [
+      "保健品不是全都没用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4170,
+    "seg_id": "S8-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "保健品合理使用",
+    "template": "branch_path",
+    "items": [
+      "吃他汀出现肌肉酸痛",
+      "医生建议下补充辅酶Q10",
+      "自行停药换保健品"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4171,
+    "seg_id": "S8-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "保健品合理使用",
+    "template": "split_column",
+    "items": [
+      "甘油三酯特别高",
+      "自行乱用深海鱼油",
+      "医生建议辅助用鱼油",
+      "作为辅助不可替代正规药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4172,
+    "seg_id": "S8-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "保健品合理使用",
+    "template": "warning_alert",
+    "items": [
+      "保健品必须在医生指导下使用",
+      "任何保健品都不能替代正规药物"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4173,
+    "seg_id": "S9-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "判断骗局的标准",
+    "template": "hero_text",
+    "items": [
+      "一个最简单的判断标准"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4174,
+    "seg_id": "S9-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "判断骗局的标准",
+    "template": "list_fade",
+    "items": [
+      "说能根治冠心病高血压糖尿病",
+      "说能逆转斑块替代正规药物",
+      "说不用去医院不用遵医嘱",
+      "说吃了就好不需要复诊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4175,
+    "seg_id": "S9-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "判断骗局的标准",
+    "template": "hero_text",
+    "items": [
+      "最不想看到患者因骗局突发心梗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4176,
+    "seg_id": "S9-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "判断骗局的标准",
+    "template": "warning_alert",
+    "items": [
+      "省吃俭用的养老钱全交给了骗子",
+      "钱没了身体也毁了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4177,
+    "seg_id": "S9-L5",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "判断骗局的标准",
+    "template": "hero_text",
+    "items": [
+      "请帮老人识破骗局守护健康"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4178,
+    "seg_id": "S10-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "呼吁转发行动",
+    "template": "hero_text",
+    "items": [
+      "请把这条视频转发给爸妈"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4179,
+    "seg_id": "S10-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "呼吁转发行动",
+    "template": "list_fade",
+    "items": [
+      "让家里老人看清骗局",
+      "点赞扩散帮助更多人",
+      "少一个上当多保一个家庭"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4180,
+    "seg_id": "S10-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "呼吁转发行动",
+    "template": "hero_text",
+    "items": [
+      "你家遇到过这类骗局吗？评论区聊聊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4181,
+    "seg_id": "S1-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "他汀怎么选，一文讲清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4182,
+    "seg_id": "S2-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "hero_text",
+    "items": [
+      "瑞舒伐他汀和阿托伐他汀怎么选"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4183,
+    "seg_id": "S2-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "split_column",
+    "items": [
+      "阿托伐他汀",
+      "瑞舒伐他汀",
+      "常用降血脂药",
+      "常用降血脂药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4184,
+    "seg_id": "S2-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "hero_text",
+    "items": [
+      "你更适合哪一种？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4185,
+    "seg_id": "S2-L4",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "hero_text",
+    "items": [
+      "今天一文讲清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4186,
+    "seg_id": "S2-L5",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "split_column",
+    "items": [
+      "强效降胆固醇保护血管",
+      "强效降胆固醇保护血管",
+      "上市早数据丰富",
+      "降脂效果略强"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4187,
+    "seg_id": "S2-L6",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "split_column",
+    "items": [
+      "使用人群更多",
+      "肝肾双通道排泄",
+      "研究数据更丰富",
+      "适用性更广泛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4188,
+    "seg_id": "S2-L7",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "hero_text",
+    "items": [
+      "逐条来看五大差异"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4189,
+    "seg_id": "S2-L8",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "两药核心对比导览",
+    "template": "list_fade",
+    "items": [
+      "降脂效果",
+      "服用时间",
+      "肌肉疼痛风险",
+      "肝肾功能影响",
+      "药物食物相互作用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4190,
+    "seg_id": "S3-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "降脂效果比较",
+    "template": "hero_text",
+    "items": [
+      "第一点：降脂效果比较"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4191,
+    "seg_id": "S3-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "降脂效果比较",
+    "template": "number_center",
+    "items": [
+      "5mg"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4192,
+    "seg_id": "S3-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "降脂效果比较",
+    "template": "branch_path",
+    "items": [
+      "需要强效降脂",
+      "小剂量瑞舒伐他汀更合适",
+      "阿托伐他汀需加大剂量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4193,
+    "seg_id": "S4-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "服用时间比较",
+    "template": "hero_text",
+    "items": [
+      "第二点：服用时间比较"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4194,
+    "seg_id": "S4-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "服用时间比较",
+    "template": "myth_buster",
+    "items": [
+      "他汀必须晚上吃才有效",
+      "两者均为长效药早晚均可",
+      "吃饭时间影响药效",
+      "与进餐时间无关"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4195,
+    "seg_id": "S4-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "服用时间比较",
+    "template": "hero_text",
+    "items": [
+      "每天固定一个时间吃就行"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4196,
+    "seg_id": "S4-L4",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "服用时间比较",
+    "template": "hero_text",
+    "items": [
+      "早晚饭前饭后均可服用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4197,
+    "seg_id": "S5-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肌肉疼痛风险比较",
+    "template": "hero_text",
+    "items": [
+      "第三点：肌肉疼痛风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4198,
+    "seg_id": "S5-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肌肉疼痛风险比较",
+    "template": "list_fade",
+    "items": [
+      "肌肉酸痛无力",
+      "肌酶升高风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4199,
+    "seg_id": "S5-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肌肉疼痛风险比较",
+    "template": "split_column",
+    "items": [
+      "肌肉风险相对更低",
+      "肌肉风险略微偏高",
+      "对肌肉更友好",
+      "风险稍高需留意"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

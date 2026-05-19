@@ -1,0 +1,525 @@
+[
+  {
+    "global_index": 440,
+    "seg_id": "S4-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "早知道不放了？",
+    "template": "hero_text",
+    "items": [
+      "术后偶有不适时最容易冒出这句话"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 441,
+    "seg_id": "S4-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "早知道不放了？",
+    "template": "list_fade",
+    "items": [
+      "部分胸闷是正常恢复过程",
+      "部分不适与焦虑情绪有关"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 442,
+    "seg_id": "S4-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "早知道不放了？",
+    "template": "warning_alert",
+    "items": [
+      "急性心梗不放支架你扛得过去吗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 443,
+    "seg_id": "S4-L5",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "早知道不放了？",
+    "template": "hero_text",
+    "items": [
+      "医生基于病情做判断，不是拿结果质疑过程"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 444,
+    "seg_id": "S5-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "术后更要动起来",
+    "template": "hero_text",
+    "items": [
+      "放了支架不能运动？恰恰相反"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 445,
+    "seg_id": "S5-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "术后更要动起来",
+    "template": "myth_buster",
+    "items": [
+      "术后医生禁止一切运动",
+      "术后医生反而鼓励适当运动",
+      "越不动越安全越好",
+      "整天躺着肌肉萎缩体力下降更危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 446,
+    "seg_id": "S5-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "术后更要动起来",
+    "template": "branch_path",
+    "items": [
+      "先与主治医生评估运动时机和强度",
+      "评估通过可开始适合的运动",
+      "未经评估盲目运动存在风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 447,
+    "seg_id": "S5-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "术后更要动起来",
+    "template": "list_fade",
+    "items": [
+      "散步与快步行走",
+      "游泳",
+      "骑自行车"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 448,
+    "seg_id": "S5-L5",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "术后更要动起来",
+    "template": "warning_alert",
+    "items": [
+      "长期卧床危害远大于适当运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 449,
+    "seg_id": "S6-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "别拿个案来吓人",
+    "template": "hero_text",
+    "items": [
+      "谁谁放支架没几年就走了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 450,
+    "seg_id": "S6-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "别拿个案来吓人",
+    "template": "hero_text",
+    "items": [
+      "杀伤力最大、最没逻辑的一句话"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 451,
+    "seg_id": "S6-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "别拿个案来吓人",
+    "template": "list_fade",
+    "items": [
+      "是支架本身出了问题吗",
+      "还是患了其他疾病",
+      "还是术后管理不规范导致"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 452,
+    "seg_id": "S6-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "别拿个案来吓人",
+    "template": "warning_alert",
+    "items": [
+      "拿不了解细节的个案吓唬积极治疗的人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 453,
+    "seg_id": "S6-L5",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "别拿个案来吓人",
+    "template": "split_column",
+    "items": [
+      "规律吃药指标达标坚持运动",
+      "术后不管照样抽烟喝酒",
+      "预后良好生活质量高",
+      "风险极高预后极差"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 454,
+    "seg_id": "S7-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "比误解更有力的一句话",
+    "template": "hero_text",
+    "items": [
+      "不是恶意，只是不了解情况"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 455,
+    "seg_id": "S7-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "比误解更有力的一句话",
+    "template": "hero_text",
+    "items": [
+      "不如问一句：你最近恢复得怎么样"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 456,
+    "seg_id": "S8-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "你的人生没有废掉",
+    "template": "hero_text",
+    "items": [
+      "写给所有放了支架的朋友"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 457,
+    "seg_id": "S8-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "你的人生没有废掉",
+    "template": "hero_text",
+    "items": [
+      "血管是通的，人生远没有废掉"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 458,
+    "seg_id": "S8-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "你的人生没有废掉",
+    "template": "list_fade",
+    "items": [
+      "好好吃药不间断",
+      "指标控制达标",
+      "把自己的生活过好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 459,
+    "seg_id": "S8-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "你的人生没有废掉",
+    "template": "hero_text",
+    "items": [
+      "这比听任何闲话都更重要"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 460,
+    "seg_id": "S1-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心慌找不到原因？",
+    "template": "list_fade",
+    "items": [
+      "二三十岁年轻人心慌频发",
+      "心电图彩超查完啥也没有"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 461,
+    "seg_id": "S1-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心慌找不到原因？",
+    "template": "hero_text",
+    "items": [
+      "明明没问题，却总觉得要出事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 462,
+    "seg_id": "S1-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心慌找不到原因？",
+    "template": "hero_text",
+    "items": [
+      "今天把心慌这件事讲清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 463,
+    "seg_id": "S2-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心脏听谁的指挥",
+    "template": "hero_text",
+    "items": [
+      "心脏是一坨肌肉，自己说不算"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 464,
+    "seg_id": "S2-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心脏听谁的指挥",
+    "template": "hero_text",
+    "items": [
+      "心跳快慢全靠植物神经指挥"
+    ],
+    "needs_animation": true,
+    "label": "植物神经调节心率机制"
+  },
+  {
+    "global_index": 465,
+    "seg_id": "S2-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心脏听谁的指挥",
+    "template": "split_column",
+    "items": [
+      "交感神经：油门，心跳加速",
+      "迷走神经：刹车，心跳减慢",
+      "兴奋状态时交感神经主导",
+      "安静状态时迷走神经主导"
+    ],
+    "needs_animation": true,
+    "label": "交感神经与迷走神经调节心率机制"
+  },
+  {
+    "global_index": 466,
+    "seg_id": "S2-L4",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心脏听谁的指挥",
+    "template": "hero_text",
+    "items": [
+      "两路平衡，该快就快该慢就慢"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 467,
+    "seg_id": "S2-L5",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心脏听谁的指挥",
+    "template": "list_fade",
+    "items": [
+      "正常情况下",
+      "两路",
+      "是保持平衡的",
+      "该快的时候快",
+      "该慢的时候慢"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 468,
+    "seg_id": "S3-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "年轻人为何心慌",
+    "template": "hero_text",
+    "items": [
+      "油门踩太多，刹车几乎不用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 469,
+    "seg_id": "S3-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "年轻人为何心慌",
+    "template": "brick_stack",
+    "items": [
+      "熬夜刷手机到凌晨一两点",
+      "工作压力大，长期焦虑",
+      "咖啡奶茶一杯接一杯",
+      "从不运动，久坐一整天"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 470,
+    "seg_id": "S3-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "年轻人为何心慌",
+    "template": "step_arrow",
+    "items": [
+      "每件事都刺激交感神经",
+      "交感神经持续亢奋",
+      "心率上升，感觉心慌"
+    ],
+    "needs_animation": true,
+    "label": "交感神经持续兴奋导致心率加速"
+  },
+  {
+    "global_index": 471,
+    "seg_id": "S3-L4",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "年轻人为何心慌",
+    "template": "list_fade",
+    "items": [
+      "这些事啊",
+      "每一件",
+      "都在刺激交感神经",
+      "让它持续兴奋"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 472,
+    "seg_id": "S3-L5",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "年轻人为何心慌",
+    "template": "list_fade",
+    "items": [
+      "交感神经一兴奋",
+      "心率就上来了",
+      "你就觉得心慌"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 473,
+    "seg_id": "S4-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "焦虑放大早搏感知",
+    "template": "hero_text",
+    "items": [
+      "交感亢奋还会引发早搏"
+    ],
+    "needs_animation": true,
+    "label": "交感神经亢奋引发心脏早搏"
+  },
+  {
+    "global_index": 474,
+    "seg_id": "S4-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "焦虑放大早搏感知",
+    "template": "number_center",
+    "items": [
+      "100"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 475,
+    "seg_id": "S4-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "焦虑放大早搏感知",
+    "template": "split_column",
+    "items": [
+      "普通人感知不到偶发早搏",
+      "焦虑者身体感知被放大",
+      "偶尔早搏不引发恐慌",
+      "一点风吹草动就以为出大事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 476,
+    "seg_id": "S4-L4",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "焦虑放大早搏感知",
+    "template": "step_arrow",
+    "items": [
+      "紧张害怕",
+      "交感神经更兴奋",
+      "早搏增多",
+      "更加恐惧，循环加剧"
+    ],
+    "needs_animation": true,
+    "label": "焦虑-交感兴奋-早搏恶性循环"
+  },
+  {
+    "global_index": 477,
+    "seg_id": "S5-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "植物神经紊乱全貌",
+    "template": "color_grid",
+    "items": [
+      "出汗手抖",
+      "胃口不好",
+      "睡眠很差",
+      "胸闷气吸不到底"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 478,
+    "seg_id": "S5-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "植物神经紊乱全貌",
+    "template": "hero_text",
+    "items": [
+      "去医院查，什么都没有"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 479,
+    "seg_id": "S5-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "植物神经紊乱全貌",
+    "template": "myth_buster",
+    "items": [
+      "心脏本身有病",
+      "是管心脏的神经系统失调了"
+    ],
+    "needs_animation": true,
+    "label": "植物神经功能紊乱机制"
+  }
+]

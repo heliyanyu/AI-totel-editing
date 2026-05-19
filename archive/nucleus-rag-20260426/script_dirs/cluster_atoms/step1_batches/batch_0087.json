@@ -1,0 +1,560 @@
+[
+  {
+    "global_index": 3480,
+    "seg_id": "S3-L4",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "list_fade",
+    "items": [
+      "肥厚型心肌病患者",
+      "冠状动脉狭窄患者"
+    ],
+    "atoms_text": "剧烈运动啊 刺激交感神经过度的兴奋 容易引发室性早搏 房颤 这些心律失常",
+    "needs_animation": true,
+    "label": "交感神经过度兴奋引发室性早搏和房颤"
+  },
+  {
+    "global_index": 3481,
+    "seg_id": "S3-L5",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "hero_text",
+    "items": [
+      "剧烈运动是隐匿心脏病的致命诱因"
+    ],
+    "atoms_text": "严重的话 会诱发恶性心律失常 直接导致猝死",
+    "needs_animation": true,
+    "label": "恶性心律失常导致心脏猝死"
+  },
+  {
+    "global_index": 3482,
+    "seg_id": "S3-L6",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "step_arrow",
+    "items": [
+      "剧烈运动",
+      "心脏负荷骤增",
+      "瞬间诱发心梗或心绞痛"
+    ],
+    "atoms_text": "第三个就是 对于本身有隐匿性的心脏问题的 比如说肥厚型心肌病啊 冠状动脉狭窄的这些人",
+    "needs_animation": true,
+    "label": "肥厚型心肌病和冠状动脉狭窄的解剖异常"
+  },
+  {
+    "global_index": 3483,
+    "seg_id": "S3-L7",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "hero_text",
+    "items": [
+      "结构异常的心脏无法承受负荷骤增"
+    ],
+    "atoms_text": "剧烈运动更是一个致命的诱因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3484,
+    "seg_id": "S3-L8",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "brick_stack",
+    "items": [
+      "心脏本身结构或功能异常",
+      "剧烈运动导致负荷骤增",
+      "心梗或心绞痛急性发作"
+    ],
+    "atoms_text": "因为这类人群啊 他的心脏本身就存在这个结构或者功能的异常",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3485,
+    "seg_id": "S3-L9",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "warning_alert",
+    "items": [
+      "心脏负荷骤增可瞬间致命"
+    ],
+    "atoms_text": "你剧烈运动的话 这个心脏负荷骤增 会瞬间诱发心肌梗死 或者心绞痛型",
+    "needs_animation": true,
+    "label": "心脏负荷骤增诱发急性心肌梗死"
+  },
+  {
+    "global_index": 3486,
+    "seg_id": "S4-L1",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "张雪峰案例复盘",
+    "template": "number_center",
+    "items": [
+      "2023"
+    ],
+    "atoms_text": "而这个张雪峰老师的话 二零二三年的时候 就曾经因为心脏问题住院",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3487,
+    "seg_id": "S4-L2",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "张雪峰案例复盘",
+    "template": "brick_stack",
+    "items": [
+      "长期承担高强度工作",
+      "频繁应对各种情绪波动",
+      "持续大量跑步运动"
+    ],
+    "atoms_text": "平时不仅要承担高强度的工作 还要应对各种情绪波动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3488,
+    "seg_id": "S4-L3",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "张雪峰案例复盘",
+    "template": "body_annotate",
+    "items": [
+      "跑步后嘴唇发紫",
+      "心脏供血供氧不足"
+    ],
+    "atoms_text": "之前就有过跑步以后嘴唇发紫的情况 也就是提示啊 心脏供血供氧不足",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3489,
+    "seg_id": "S4-L4",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "张雪峰案例复盘",
+    "template": "hero_text",
+    "items": [
+      "积累的隐患成为压垮心脏的最后一根稻草"
+    ],
+    "atoms_text": "最终成为压垮心脏的最后一根稻草",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3490,
+    "seg_id": "S5-L1",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "list_fade",
+    "items": [
+      "中老年人群",
+      "职场高压人群"
+    ],
+    "atoms_text": "所以啊 想要护心 对于中老年人 职场高压人群",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3491,
+    "seg_id": "S5-L2",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "split_column",
+    "items": [
+      "中等强度有氧运动",
+      "适度力量训练"
+    ],
+    "atoms_text": "健康的运动就是 中等强度的有氧 配合力量训练",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3492,
+    "seg_id": "S5-L3",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "list_fade",
+    "items": [
+      "快走",
+      "游泳",
+      "太极"
+    ],
+    "atoms_text": "有氧运动可以选择 快走 游泳 太极",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3493,
+    "seg_id": "S5-L4",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "number_center",
+    "items": [
+      "150"
+    ],
+    "atoms_text": "每周保持一百五十分钟 每次三十分钟左右",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3494,
+    "seg_id": "S5-L5",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "category_table",
+    "items": [
+      "目标心率公式",
+      "（220－年龄）×60%～70%"
+    ],
+    "atoms_text": "心率控制在 二百二十减去你的年龄 然后再乘以百分之六十到百分之七十",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3495,
+    "seg_id": "S5-L6",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "list_fade",
+    "items": [
+      "哑铃",
+      "弹力带"
+    ],
+    "atoms_text": "力量训练呢 可以选择哑铃啊 弹力带啊 对吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3496,
+    "seg_id": "S5-L7",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "number_center",
+    "items": [
+      "2～3"
+    ],
+    "atoms_text": "每周两到三次 每次十五到二十分钟 重点锻炼四肢和核心肌群",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3497,
+    "seg_id": "S5-L8",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "list_fade",
+    "items": [
+      "增强心肺功能",
+      "控制体重",
+      "避免心脏超负荷"
+    ],
+    "atoms_text": "这样的话 既能够增强心肺功能 控制体重 又能够避免心脏超负荷 对吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3498,
+    "seg_id": "S5-L9",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "hero_text",
+    "items": [
+      "改善情绪，缓解压力，身心双赢"
+    ],
+    "atoms_text": "还能够改善你的情绪 缓解压力",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3499,
+    "seg_id": "S6-L1",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "暖心收尾提醒",
+    "template": "hero_text",
+    "items": [
+      "最后一句暖心提醒送给你"
+    ],
+    "atoms_text": "最后想给大家一句暖心提醒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3500,
+    "seg_id": "S6-L2",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "暖心收尾提醒",
+    "template": "hero_text",
+    "items": [
+      "自律运动，是为了更好地生活"
+    ],
+    "atoms_text": "我们自律运动 努力工作 初衷是为了更好的生活",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3501,
+    "seg_id": "S6-L3",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "暖心收尾提醒",
+    "template": "warning_alert",
+    "items": [
+      "千万别拿身体来当赌注"
+    ],
+    "atoms_text": "可千万别拿身体来当赌注啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3502,
+    "seg_id": "S6-L4",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "暖心收尾提醒",
+    "template": "list_fade",
+    "items": [
+      "少熬夜，不透支体力",
+      "避免过度劳累"
+    ],
+    "atoms_text": "平时不要过度劳累 少熬夜 少透支",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3503,
+    "seg_id": "S6-L5",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "暖心收尾提醒",
+    "template": "hero_text",
+    "items": [
+      "守住健康底线，才能更好奔赴远方"
+    ],
+    "atoms_text": "留意身体发出的信号 守住健康的底线 才能够更好的奔赴远方 嗯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3504,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "冠心病患者的运动误区",
+    "template": "hero_text",
+    "items": [
+      "冠心病确诊后就不敢动了？"
+    ],
+    "atoms_text": "心脏病人呢 能不能运动 我在门诊呢 经常遇到 一种病人 就是 查出冠心病以后 就再也不敢动了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3505,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "冠心病患者的运动误区",
+    "template": "warning_alert",
+    "items": [
+      "走路都小心翼翼怕心脏出事"
+    ],
+    "atoms_text": "那走路啊 都哎 小心翼翼的 生怕 这个心脏 一使劲儿 它就梗了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3506,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "冠心病患者的运动误区",
+    "template": "list_fade",
+    "items": [
+      "家人跟着紧张焦虑",
+      "恨不得天天让他躺着睡觉"
+    ],
+    "atoms_text": "家里人呢 也跟着 紧张焦虑 恨不得 天天就让他 躺着睡觉",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3507,
+    "seg_id": "S1-L4",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "冠心病患者的运动误区",
+    "template": "myth_buster",
+    "items": [
+      "越安静越安全",
+      "完全不动反而更危险"
+    ],
+    "atoms_text": "那我特别能理解 这种情况啊 但说实话 这么做呀 反而更危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3508,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "不动为什么更伤心脏",
+    "template": "hero_text",
+    "items": [
+      "肌肉越用越强，心脏也一样"
+    ],
+    "atoms_text": "为什么呢 你想啊 我们的心脏 它是一个肌肉 肌肉呢 是越用越强的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3509,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "不动为什么更伤心脏",
+    "template": "brick_stack",
+    "items": [
+      "心肌力量退化",
+      "血液循环变慢",
+      "血脂更容易升高",
+      "斑块长得更快"
+    ],
+    "atoms_text": "如果你长期不动啊 这个心肌力量 就会慢慢的退化 这心肺功能啊 就会越来越差 血液循环 会变慢 血脂呢 更容易高 斑块呢 反而长得更快",
+    "needs_animation": true,
+    "label": "久坐不动致心肌退化血循环减慢斑块加速生长"
+  },
+  {
+    "global_index": 3510,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "不动为什么更伤心脏",
+    "template": "hero_text",
+    "items": [
+      "久卧伤心——真的伤你的心脏"
+    ],
+    "atoms_text": "所以啊 临床上有一句话 叫久卧伤心 哎不是那个伤心 是真的 伤你的心脏啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3511,
+    "seg_id": "S2-L4",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "不动为什么更伤心脏",
+    "template": "split_column",
+    "items": [
+      "心脏病人能运动吗",
+      "不但能动，运动本身就是治疗",
+      "传统观念：静养为主",
+      "国际指南：运动列为核心处方"
+    ],
+    "atoms_text": "国际上所有的 心脏康复指南 都把运动哎 列为一个核心处方 那就是说 心脏病人呢 他不但能运动 而且运动本身呢 就是一种治疗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3512,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "运动是双刃剑",
+    "template": "hero_text",
+    "items": [
+      "运动对血管是一把双刃剑"
+    ],
+    "atoms_text": "但这里面有一个关键问题 就是这个运动啊 对血管 其实它是一把双刃剑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3513,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "运动是双刃剑",
+    "template": "step_arrow",
+    "items": [
+      "运动时血压升高心率加快",
+      "血液对血管壁冲击力增大",
+      "血管内膜承受直接损伤"
+    ],
+    "atoms_text": "那我们运动的时候啊 这个血压会升高 心率会加快 血液啊 对血管壁的冲击力 是增大的 这对血管内膜 其实是一种直接的损伤",
+    "needs_animation": true,
+    "label": "运动时血流冲击血管壁损伤血管内膜"
+  },
+  {
+    "global_index": 3514,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "运动是双刃剑",
+    "template": "step_arrow",
+    "items": [
+      "运动后身体代谢增强",
+      "微循环变丰富心脏更有力",
+      "长远血压心率双双下降"
+    ],
+    "atoms_text": "那为什么我还鼓励运动呢 因为啊 这个中等强度的运动 虽然当时 对血管有一点点的冲击 但是在你运动之后 这个身体代谢哎 它就会变强了 这个微循环呢 也会变丰富 心脏呢 也会变得哎 更有劲儿了",
+    "needs_animation": true,
+    "label": "运动后微循环变丰富心肌增强的适应过程"
+  },
+  {
+    "global_index": 3515,
+    "seg_id": "S3-L4",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "运动是双刃剑",
+    "template": "split_column",
+    "items": [
+      "运动时血管承受轻微冲击",
+      "运动后修复能力大幅上升",
+      "短期：一点点损伤",
+      "长远：获益远大于损伤"
+    ],
+    "atoms_text": "那长远看呢 血压会下降 心率也会下降 对血管的修复能力 也会上升 那获得的好处啊 远远是大于 那么一丁点儿的损伤",
+    "needs_animation": true,
+    "label": "长期运动后血管修复能力提升血压心率下降"
+  },
+  {
+    "global_index": 3516,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "怎么动才安全有效",
+    "template": "branch_path",
+    "items": [
+      "运动时稍费力但能正常说话",
+      "中等强度，安全有效",
+      "喘到说不出话，强度过高需降低"
+    ],
+    "atoms_text": "所以核心就在于 这个强度 那什么叫合适的强度呢 记住一个标准 就是运动的时候呢 稍微觉得啊 有一点点费力 但是咱们 还能跟人 正常的聊天说话 哎这就是中等强度",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3517,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "怎么动才安全有效",
+    "template": "number_center",
+    "items": [
+      "3～5次"
+    ],
+    "atoms_text": "那如果说哎 你都喘的 说不出话来了 那算了啊 那你就 这个就不适合你啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3518,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "怎么动才安全有效",
+    "template": "color_grid",
+    "items": [
+      "快走",
+      "骑车",
+      "游泳"
+    ],
+    "atoms_text": "那一般建议 就是一周是三到五次 那每次半个小时左右啊 有氧运动就够了 什么呢 就是哎 快走 骑车 游泳 哎这些都可以",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3519,
+    "seg_id": "S4-L4",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "怎么动才安全有效",
+    "template": "list_fade",
+    "items": [
+      "去医院做心肺运动试验",
+      "医生制定个人安全心率范围",
+      "在范围内运动既有效又安全"
+    ],
+    "atoms_text": "如果你实在拿不准呢 去医院 就可以做一个 心肺运动试验 医生呢 可以根据你的心脏情况 给你定一个 安全的心率范围 那你在这个范围里运动啊 既有效益 又安全",
+    "needs_animation": false,
+    "label": ""
+  }
+]

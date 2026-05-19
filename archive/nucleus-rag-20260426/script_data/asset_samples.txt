@@ -1,0 +1,264 @@
+=== ANCE00174 Coronary Artery Angioplasty (Radial Access) ===
+  duration: 176.7s, sub_scenes: ['球囊扩张过程', '冠状动脉供血']
+  segments (34 total, 32 with narration):
+    [0.0-11.3] A coronary angioplasty procedure is also known as percutaneous coronary intervention.
+    desc: A coronary angioplasty procedure is also known as percutaneous coronary intervention.
+    [11.3-16.3] The procedure is done on blood vessels called coronary arteries.
+    desc: The procedure is done on blood vessels called coronary arteries.
+    [16.3-21.6] They supply your heart muscle with oxygen.
+    desc: They supply your heart muscle with oxygen.
+    [21.6-27.6] The goal is to restore blood flow if a substance called plaque has significantly narrowed
+    desc: The goal is to restore blood flow if a substance called plaque has significantly narrowed
+    [30.4-35.2] To begin the procedure, the doctor will numb the skin in your wrist.
+    desc: To begin the procedure, the doctor will numb the skin in your wrist.
+
+=== ANCE00178 Coronary Angioplasty (Femoral Approach) ===
+  duration: 177.7s, sub_scenes: ['球囊扩张过程', '冠状动脉供血']
+  segments (36 total, 32 with narration):
+    [0.0-11.3] A coronary angioplasty procedure is also known as percutaneous coronary intervention.
+    desc: A coronary angioplasty procedure is also known as percutaneous coronary intervention.
+    [11.3-16.3] The procedure is done on blood vessels called coronary arteries.
+    desc: The procedure is done on blood vessels called coronary arteries.
+    [16.3-21.6] They supply your heart muscle with oxygen.
+    desc: They supply your heart muscle with oxygen.
+    [21.6-27.6] The goal is to restore blood flow if a substance called plaque has significantly narrowed
+    desc: The goal is to restore blood flow if a substance called plaque has significantly narrowed
+    [30.4-36.6] To begin the procedure, the doctor will numb the skin in your groin.
+    desc: To begin the procedure, the doctor will numb the skin in your groin.
+
+=== ANCE00178S101 What is a Coronary Angioplasty  ===
+  duration: 58.0s, sub_scenes: ['球囊扩张过程', '冠状动脉供血']
+  segments (10 total, 10 with narration):
+    [0.0-7.0] A coronary angioplasty procedure is also known as percutaneous coronary intervention.
+    desc: A coronary angioplasty procedure is also known as percutaneous coronary intervention.
+    [7.0-12.0] The procedure is done on blood vessels called coronary arteries.
+    desc: The procedure is done on blood vessels called coronary arteries.
+    [12.0-17.0] They supply your heart muscle with oxygen.
+    desc: They supply your heart muscle with oxygen.
+    [17.0-26.0] The goal is to restore blood flow if a substance called plaque has significantly narrowed these vess
+    desc: The goal is to restore blood flow if a substance called plaque has significantly narrowed these vess
+    [26.0-31.0] A wire mesh tube called a stent may be placed in the treated area.
+    desc: A wire mesh tube called a stent may be placed in the treated area.
+
+=== ANCE00178S102 How are Angiograms Used to Find Coronary Artery Blockages  ===
+  duration: 66.4s, sub_scenes: ['心脏造影画面', '血管逐渐狭窄', '冠状动脉供血']
+  segments (14 total, 14 with narration):
+    [0.0-4.0] To begin the procedure, the doctor will numb the skin in your groin.
+    desc: To begin the procedure, the doctor will numb the skin in your groin.
+    [6.2-10.0] A needle will be placed through your skin and into the femoral artery.
+    desc: A needle will be placed through your skin and into the femoral artery.
+    [11.0-15.5] Next, a flexible guide wire will be passed through the needle into your artery.
+    desc: Next, a flexible guide wire will be passed through the needle into your artery.
+    [16.0-18.2] Then, the needle will be withdrawn.
+    desc: Then, the needle will be withdrawn.
+    [19.5-23.5] It will be exchanged for a small, flexible tube called a sheath.
+    desc: It will be exchanged for a small, flexible tube called a sheath.
+
+=== ANCE00178S103 How Does an Angioplasty Open Arteries in the Heart  ===
+  duration: 61.9s, sub_scenes: ['球囊扩张过程']
+  segments (11 total, 11 with narration):
+    [0.0-4.7] If a significant blockage is found, your doctor will insert a guide wire into the artery.
+    desc: If a significant blockage is found, your doctor will insert a guide wire into the artery.
+    [6.7-11.0] A balloon on the tip of the catheter will be moved along the wire to the blockage.
+    desc: A balloon on the tip of the catheter will be moved along the wire to the blockage.
+    [12.6-17.2] When the balloon inflates, it will expand the artery and improve the blood flow.
+    desc: When the balloon inflates, it will expand the artery and improve the blood flow.
+    [18.0-21.0] You may feel some chest discomfort while this is happening.
+    desc: You may feel some chest discomfort while this is happening.
+    [22.4-25.7] After this, your doctor will deflate and remove the balloon.
+    desc: After this, your doctor will deflate and remove the balloon.
+
+=== ANCE00182 Coronary Artery Angiography (Cardiac Catheterization) ===
+  duration: 175.6s, sub_scenes: ['心脏造影画面', '冠状动脉供血']
+  segments (30 total, 30 with narration):
+    [0.0-9.4] Coronary artery angiography is an x-ray test of the heart.
+    desc: Coronary artery angiography is an x-ray test of the heart.
+    [9.4-14.3] This test can view blood vessels in your heart called coronary arteries.
+    desc: This test can view blood vessels in your heart called coronary arteries.
+    [14.3-20.3] It can find out if a waxy substance called plaque has narrowed these vessels.
+    desc: It can find out if a waxy substance called plaque has narrowed these vessels.
+    [20.3-28.0] And, it can show how well the valves and chambers of your heart are working.
+    desc: And, it can show how well the valves and chambers of your heart are working.
+    [28.0-35.7] Coronary angiography is often done with a medical procedure called cardiac catheterization.
+    desc: Coronary angiography is often done with a medical procedure called cardiac catheterization.
+
+=== ANCE00199 Coronary Artery Bypass Graft (CABG) ===
+  duration: 264.5s, sub_scenes: ['冠状动脉搭桥', '冠状动脉供血']
+  segments (36 total, 36 with narration):
+    [0.0-7.0] If you or someone you know has recently had a coronary artery bypass graft or cabbage,
+    desc: If you or someone you know has recently had a coronary artery bypass graft or cabbage,
+    [7.0-14.0] this video will help you understand the steps of the procedure and how it restores blood flow to you
+    desc: this video will help you understand the steps of the procedure and how it restores blood flow to you
+    [14.0-22.0] A coronary artery bypass graft or cabbage is performed to improve circulation to the heart muscle.
+    desc: A coronary artery bypass graft or cabbage is performed to improve circulation to the heart muscle.
+    [22.0-31.0] In this procedure a healthy artery or vein from another part of the body is connected or grafted to 
+    desc: In this procedure a healthy artery or vein from another part of the body is connected or grafted to 
+    [31.0-39.0] The grafted artery or vein bypasses the blocked portion of the coronary artery, carrying oxygen-rich
+    desc: The grafted artery or vein bypasses the blocked portion of the coronary artery, carrying oxygen-rich
+
+=== ANCE00199S101 What is a Coronary Artery Bypass Graft (CABG)  ===
+  duration: 33.4s, sub_scenes: ['冠状动脉搭桥', '冠状动脉供血']
+  segments (4 total, 4 with narration):
+    [0.0-8.0] A coronary artery bypass graft, or cabbage, is performed to improve circulation to the heart muscle.
+    desc: A coronary artery bypass graft, or cabbage, is performed to improve circulation to the heart muscle.
+    [8.0-18.0] In this procedure, a healthy artery or vein from another part of the body is connected or grafted to
+    desc: In this procedure, a healthy artery or vein from another part of the body is connected or grafted to
+    [18.0-26.0] The grafted artery or vein bypasses the blocked portion of the coronary artery, carrying oxygen-rich
+    desc: The grafted artery or vein bypasses the blocked portion of the coronary artery, carrying oxygen-rich
+    [26.0-32.0] One or more coronary arteries may be bypassed during a single operation.
+    desc: One or more coronary arteries may be bypassed during a single operation.
+
+=== ANCE00199S102 What Blood Vessels are Commonly Used as a Graft for a Heart Bypass  ===
+  duration: 43.3s, sub_scenes: ['冠状动脉搭桥']
+  segments (8 total, 8 with narration):
+    [0.0-4.0] Different blood vessels may typically be used for the grafts.
+    desc: Different blood vessels may typically be used for the grafts.
+    [4.0-9.0] The internal thoracic arteries in the chest, also known as internal mammary arteries,
+    desc: The internal thoracic arteries in the chest, also known as internal mammary arteries,
+    [9.0-12.0] or the saffonous veins in the legs.
+    desc: or the saffonous veins in the legs.
+    [12.0-20.0] For the internal thoracic artery graft, your surgeon will leave the upper end attached to the subcla
+    desc: For the internal thoracic artery graft, your surgeon will leave the upper end attached to the subcla
+    [20.0-27.0] and divert the lower end from your chest wall to your coronary artery, just beyond the blockage.
+    desc: and divert the lower end from your chest wall to your coronary artery, just beyond the blockage.
+
+=== ANCE00199S103 What are the Different Types of Coronary Artery Bypass Graft (CABG) Procedures  ===
+  duration: 56.9s, sub_scenes: ['冠状动脉搭桥', '冠状动脉供血']
+  segments (7 total, 7 with narration):
+    [0.0-8.0] During a conventional bypass surgery, your surgeon begins by making an incision in the skin over you
+    desc: During a conventional bypass surgery, your surgeon begins by making an incision in the skin over you
+    [8.0-14.0] He or she will then cut the sternum and move your ribcage in order to get to your heart.
+    desc: He or she will then cut the sternum and move your ribcage in order to get to your heart.
+    [14.0-23.0] Throughout the procedure, your circulatory system may be connected to a cardiopulmonary bypass pump 
+    desc: Throughout the procedure, your circulatory system may be connected to a cardiopulmonary bypass pump 
+    [24.0-30.0] When the surgeon chooses to do the surgery without using the heart lung machine, the heart continues
+    desc: When the surgeon chooses to do the surgery without using the heart lung machine, the heart continues
+    [30.0-37.0] This may be referred to as off-pump bypass surgery or minimally invasive surgery.
+    desc: This may be referred to as off-pump bypass surgery or minimally invasive surgery.
+
+=== AND12001 Drainage Tube Care ===
+  duration: 258.7s, sub_scenes: ['心脏工作机制']
+  segments (44 total, 44 with narration):
+    [0.0-6.0] Please watch this entire video before caring for your drain.
+    desc: Please watch this entire video before caring for your drain.
+    [6.0-10.0] This video will teach you how to take care of your surgical drain.
+    desc: This video will teach you how to take care of your surgical drain.
+    [10.0-15.0] Curgical drains remove fluid from under your skin near your surgical site.
+    desc: Curgical drains remove fluid from under your skin near your surgical site.
+    [15.0-21.0] This helps prevent infection and encourages healing.
+    desc: This helps prevent infection and encourages healing.
+    [21.0-26.0] A surgical drain consists of a drain tube that runs from your surgical site
+    desc: A surgical drain consists of a drain tube that runs from your surgical site
+
+=== AND12002 Circulation Checks  Lower Extremity ===
+  duration: 183.3s, sub_scenes: ['心脏工作机制']
+  segments (25 total, 25 with narration):
+    [0.0-7.0] Please watch this entire video before checking the blood flow in your leg.
+    desc: Please watch this entire video before checking the blood flow in your leg.
+    [13.0-18.0] This video will teach you how to check the blood flow in your leg.
+    desc: This video will teach you how to check the blood flow in your leg.
+    [18.0-24.0] Good blood flow is important for recovery after the surgical procedure on your leg.
+    desc: Good blood flow is important for recovery after the surgical procedure on your leg.
+    [25.0-31.0] Step 1. Look at your foot and toes on the leg recovering from the surgical procedure.
+    desc: Step 1. Look at your foot and toes on the leg recovering from the surgical procedure.
+    [32.0-36.0] Compare your feet. Do you see any differences?
+    desc: Compare your feet. Do you see any differences?
+
+=== AND12003 Circulation Checks  Upper Extremity ===
+  duration: 178.8s, sub_scenes: ['心脏工作机制']
+  segments (25 total, 25 with narration):
+    [0.0-7.0] Please watch this entire video before checking the blood flow in your arm.
+    desc: Please watch this entire video before checking the blood flow in your arm.
+    [7.0-13.0] This video will teach you how to check the blood flow in your arm.
+    desc: This video will teach you how to check the blood flow in your arm.
+    [13.0-21.0] Good blood flow is important for recovery after the surgical procedure on your arm.
+    desc: Good blood flow is important for recovery after the surgical procedure on your arm.
+    [21.0-28.0] Step 1. Look at your hand and fingers on the arm recovering from the surgical procedure.
+    desc: Step 1. Look at your hand and fingers on the arm recovering from the surgical procedure.
+    [29.0-33.0] Compare your hands. Do you see any differences?
+    desc: Compare your hands. Do you see any differences?
+
+=== AND13008 Incision Care Discharge Instructions ===
+  duration: 500.3s, sub_scenes: ['心脏工作机制']
+  segments (113 total, 81 with narration):
+    [0.0-9.0] Please watch the entire video before caring for your incision.
+    desc: Please watch the entire video before caring for your incision.
+    [9.0-13.7] This video will teach you how to care for your incision.
+    desc: This video will teach you how to care for your incision.
+    [13.7-18.7] An incision is a cut made in your skin during an operation.
+    desc: An incision is a cut made in your skin during an operation.
+    [18.7-28.5] The edges of your incision may be held together with stitches, staples, skin glue, or skin
+    desc: The edges of your incision may be held together with stitches, staples, skin glue, or skin
+    [31.1-35.3] A bandage called addressing covers your incision.
+    desc: A bandage called addressing covers your incision.
+
+=== AND13015 Removing Your Pain Pump ===
+  duration: 356.4s, sub_scenes: ['心脏工作机制']
+  segments (62 total, 59 with narration):
+    [0.0-6.0] Please watch this entire video before removing your pump.
+    desc: Please watch this entire video before removing your pump.
+    [6.0-14.0] This video will teach you how to tell if your pump is working, how to care for it, and how to remove
+    desc: This video will teach you how to tell if your pump is working, how to care for it, and how to remove
+    [14.0-21.0] A pain pump is used after surgery to deliver numbing medicine directly to the area that was operated
+    desc: A pain pump is used after surgery to deliver numbing medicine directly to the area that was operated
+    [21.0-27.0] The medicine numbs the nerves near your incision, so you have less pain.
+    desc: The medicine numbs the nerves near your incision, so you have less pain.
+    [27.0-34.0] The medicine continuously flows very slowly out of the pump through a small tube placed under the sk
+    desc: The medicine continuously flows very slowly out of the pump through a small tube placed under the sk
+
+=== AND14017 After a Heart Attack  Managing Your Recovery ===
+  duration: 427.6s, sub_scenes: ['心肌缺血过程']
+  segments (83 total, 72 with narration):
+    [0.0-7.7] This video will help you understand a heart attack and how to manage it.
+    desc: This video will help you understand a heart attack and how to manage it.
+    [7.7-12.0] Please watch the entire video to learn how to manage your recovery.
+    desc: Please watch the entire video to learn how to manage your recovery.
+    [12.0-16.4] If you have been hospitalized with a heart attack, it's important to recover properly when
+    desc: If you have been hospitalized with a heart attack, it's important to recover properly when
+    [18.6-25.2] A heart attack, also called a myocardial infarction, or MI, occurs when blood flow to an area of
+    desc: A heart attack, also called a myocardial infarction, or MI, occurs when blood flow to an area of
+    [25.2-29.4] your heart is greatly reduced.
+    desc: your heart is greatly reduced.
+
+=== AND16019 How To Give An Anticoagulant Shot ===
+  duration: 199.9s, sub_scenes: ['心脏工作机制']
+  segments (25 total, 24 with narration):
+    [0.0-6.0] Please watch the entire video before giving an anti-coagulant shot.
+    desc: Please watch the entire video before giving an anti-coagulant shot.
+    [6.0-14.0] This video will teach you how to give yourself a shot of anti-coagulant medicine, also called a bloo
+    desc: This video will teach you how to give yourself a shot of anti-coagulant medicine, also called a bloo
+    [14.0-20.0] Blood thinners help prevent clots from forming inside your blood vessels.
+    desc: Blood thinners help prevent clots from forming inside your blood vessels.
+    [20.0-28.0] Before you begin, you will need alcohol wipes, your pre-filled syringe of anti-coagulant medicine,
+    desc: Before you begin, you will need alcohol wipes, your pre-filled syringe of anti-coagulant medicine,
+    [32.0-46.0] The main parts of the syringe are the barrel containing the medicine, the plunger, the needle cap, a
+    desc: The main parts of the syringe are the barrel containing the medicine, the plunger, the needle cap, a
+
+=== AND23020 Managing Heart Failure ===
+  duration: 400.0s, sub_scenes: ['心脏负担加重']
+  segments (78 total, 71 with narration):
+    [0.0-11.4] If you have been diagnosed with heart failure, it's important to control your symptoms.
+    desc: If you have been diagnosed with heart failure, it's important to control your symptoms.
+    [11.4-18.1] Heart failure, also called congestive heart failure, or CHF, is a lifelong condition in
+    desc: Heart failure, also called congestive heart failure, or CHF, is a lifelong condition in
+    [18.1-23.0] which your heart continues to work, but not as well as it should.
+    desc: which your heart continues to work, but not as well as it should.
+    [23.0-28.9] Your heart can't pump enough blood and oxygen to meet the needs of your body.
+    desc: Your heart can't pump enough blood and oxygen to meet the needs of your body.
+    [28.9-35.0] As fluid builds up in the lungs, legs, and other body tissues, the symptoms of heart failure
+    desc: As fluid builds up in the lungs, legs, and other body tissues, the symptoms of heart failure
+
+=== ANH00007 General Anesthesia ===
+  duration: 157.1s, sub_scenes: ['心脏工作机制']
+  segments (33 total, 29 with narration):
+    [0.0-9.6] If you are having an operation, you may be given general anesthesia to push you to sleep
+    desc: If you are having an operation, you may be given general anesthesia to push you to sleep
+    [9.6-12.1] and keep you free from pain.
+    desc: and keep you free from pain.
+    [12.1-18.0] Your doctor may recommend general anesthesia for a procedure that is extensive, takes a long
+    desc: Your doctor may recommend general anesthesia for a procedure that is extensive, takes a long
+    [18.0-23.1] time, or requires you to be in an uncomfortable position.
+    desc: time, or requires you to be in an uncomfortable position.
+    [23.1-28.5] Before your procedure, an IV line will be placed in a vein in your arm using a small tube
+    desc: Before your procedure, an IV line will be placed in a vein in your arm using a small tube
+

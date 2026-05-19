@@ -1,0 +1,44 @@
+========== S2-L2 [心梗发病底层逻辑] ==========
+【医生原话】不妨把我们的心脏 想象成 一台永不停止工作的发动机 而冠状动脉 就是给这台发动机供油的 专属管道
+【素材】ANH13113 Acute Coronary Syndrome and Heart Attack [22-56s]
+  旁白: Your heart is a muscular organ that pumps blood containing the oxygen and nutrients your body needs. The main pumping chamber of your heart is the left ventricle. When your left ventricle contracts, i
+
+========== S2-L3 [心梗发病底层逻辑] ==========
+【医生原话】随着年龄增长 长期熬夜 高脂饮食 或者抽烟 这些管道内壁上 就会慢慢长出 一些像水垢一样的斑块
+【素材】ANS00149 Atherosclerosis Bulleted Version [0-26s]
+  旁白: Atherosclerosis is a life-threatening disease that may have begun to develop during childhood. This condition is a process in which deposits of fatty material, called plaque, build up inside the walls
+
+========== S2-L4 [心梗发病底层逻辑] ==========
+【医生原话】平时这些斑块 只是让管道变窄 但在情绪激动 极度劳累 或气温骤降时 斑块表面的包膜 可能会突然破裂
+【素材】ANH13113 Acute Coronary Syndrome and Heart Attack [56-92s]
+  旁白: If you have acute coronary syndrome, blood flow through your coronary arteries is severely reduced or completely blocked. One possible cause of reduced blood flow is atherosclerosis. In this condition
+
+========== S2-L5 [心梗发病底层逻辑] ==========
+【医生原话】身体的免疫系统 为了修补破损 会立刻召唤大量血小板聚集 结果越聚越多 瞬间形成一个巨大的血栓 把整个血管 死死堵住 这就是心血管堵塞
+【素材】ANH13113 Acute Coronary Syndrome and Heart Attack [56-92s]
+  旁白: If you have acute coronary syndrome, blood flow through your coronary arteries is severely reduced or completely blocked. One possible cause of reduced blood flow is atherosclerosis. In this condition
+
+========== S2-L6 [心梗发病底层逻辑] ==========
+【医生原话】血管堵 下游的心肌细胞 就像被掐住了脖子 没有氧气和养分 几十分钟内 就会开始不可逆的坏死
+【素材】ANH13113 Acute Coronary Syndrome and Heart Attack [129-155s]
+  旁白: Regardless of the cause, a blockage in either coronary artery prevents the oxygen and nutrients in your blood from reaching the part of your heart supplied by the artery. As a result, heart muscle in 
+
+========== S3-L3 [错误一：乱动身体] ==========
+【医生原话】前面说了 心梗是 在给心脏供血的管道堵了 你在这个时候 走路 爬楼梯 做动作 全身的耗氧量 就会剧增
+【素材】AND14017 After a Heart Attack  Managing Your Recov [19-45s]
+  旁白: A heart attack, also called a myocardial infarction, or MI, occurs when blood flow to an area of your heart is greatly reduced. When the blood supply is not able to keep up with the demand, the heart 
+
+========== S3-L4 [错误一：乱动身体] ==========
+【医生原话】心脏为了满足身体的氧气需求 只能拼命加速跳动 这就像 一辆已经被切断了燃油供应的汽车 你还在死命的踩油门 结果只能是 发动机彻底爆缸
+【素材】AND14017 After a Heart Attack  Managing Your Recov [19-45s]
+  旁白: A heart attack, also called a myocardial infarction, or MI, occurs when blood flow to an area of your heart is greatly reduced. When the blood supply is not able to keep up with the demand, the heart 
+
+========== S3-L5 [错误一：乱动身体] ==========
+【医生原话】这种无谓的体力消耗 会迅速扩大心肌坏死的面积 极易诱发 致命的心室颤动
+【素材】AND14017 After a Heart Attack  Managing Your Recov [19-45s]
+  旁白: A heart attack, also called a myocardial infarction, or MI, occurs when blood flow to an area of your heart is greatly reduced. When the blood supply is not able to keep up with the demand, the heart 
+
+========== S5-L3 [错误三：迷信偏方] ==========
+【医生原话】从医学角度讲 这完全是无稽之谈 用力拍打 不仅不能把血栓拍散 反而会因为剧烈疼痛 刺激交感神经 让血压进一步升高 心脏负担更重
+【素材】无合适匹配
+

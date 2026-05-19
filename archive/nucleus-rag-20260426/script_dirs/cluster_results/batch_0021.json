@@ -1,0 +1,532 @@
+[
+  {
+    "global_index": 840,
+    "seg_id": "S1-L2",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死并非偶然",
+    "template": "hero_text",
+    "items": [
+      "今天科普心源性猝死预警与预防"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 841,
+    "seg_id": "S2-L1",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死的根源机制",
+    "template": "number_center",
+    "items": [
+      "80%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 842,
+    "seg_id": "S2-L2",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死的根源机制",
+    "template": "step_arrow",
+    "items": [
+      "血管长期受压形成斑块",
+      "斑块破裂引发血栓",
+      "心肌急性缺血坏死",
+      "短时间内致命"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉斑块破裂引发血栓致心肌缺血坏死过程"
+  },
+  {
+    "global_index": 843,
+    "seg_id": "S2-L3",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死的根源机制",
+    "template": "list_fade",
+    "items": [
+      "肥厚型心肌病",
+      "恶性心律失常",
+      "心肌炎"
+    ],
+    "needs_animation": true,
+    "label": "肥厚型心肌病与心肌炎病理结构"
+  },
+  {
+    "global_index": 844,
+    "seg_id": "S2-L4",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死的根源机制",
+    "template": "hero_text",
+    "items": [
+      "血管出事前往往早有信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 845,
+    "seg_id": "S3-L1",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死前的四级预警",
+    "template": "warning_alert",
+    "items": [
+      "浑身发冷出冷汗怎么休息都累",
+      "心脏泵血下降四肢末梢供血不足"
+    ],
+    "needs_animation": true,
+    "label": "心脏泵血功能下降致四肢末梢供血不足"
+  },
+  {
+    "global_index": 846,
+    "seg_id": "S3-L2",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死前的四级预警",
+    "template": "hero_text",
+    "items": [
+      "此时干预仍有充足时间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 847,
+    "seg_id": "S3-L3",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死前的四级预警",
+    "template": "warning_alert",
+    "items": [
+      "指甲嘴唇发紫",
+      "心脏供血供氧已无法满足需求"
+    ],
+    "needs_animation": true,
+    "label": "心脏供血供氧不足导致末梢紫绀"
+  },
+  {
+    "global_index": 848,
+    "seg_id": "S3-L4",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死前的四级预警",
+    "template": "body_annotate",
+    "items": [
+      "牙齿酸胀不适",
+      "左肩后背酸胀",
+      "下颌部位不适"
+    ],
+    "needs_animation": true,
+    "label": "心脏缺血放射痛的神经传导路径"
+  },
+  {
+    "global_index": 849,
+    "seg_id": "S3-L5",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死前的四级预警",
+    "template": "warning_alert",
+    "items": [
+      "突发压榨样紧缩感胸痛",
+      "心肌严重缺血猝死前紧急信号"
+    ],
+    "needs_animation": true,
+    "label": "心肌严重缺血的病理过程"
+  },
+  {
+    "global_index": 850,
+    "seg_id": "S3-L6",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "猝死前的四级预警",
+    "template": "step_arrow",
+    "items": [
+      "不要拍打肘窝",
+      "立刻拨打120",
+      "原地平卧解开衣领腰带",
+      "保持呼吸通畅等待救援"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 851,
+    "seg_id": "S4-L1",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "hero_text",
+    "items": [
+      "多种危险因素叠加的悲剧"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 852,
+    "seg_id": "S4-L2",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "brick_stack",
+    "items": [
+      "常年熬夜高强度工作",
+      "长期睡眠不足激素节律紊乱",
+      "持续情绪波动诱发血管痉挛",
+      "2023年已因过劳住院心脏存隐患"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 853,
+    "seg_id": "S4-L3",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "step_arrow",
+    "items": [
+      "剧烈跑步后",
+      "立即喝冷水",
+      "诱发心源性猝死"
+    ],
+    "needs_animation": true,
+    "label": "剧烈运动后冷刺激诱发冠脉痉挛致猝死机制"
+  },
+  {
+    "global_index": 854,
+    "seg_id": "S4-L4",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "hero_text",
+    "items": [
+      "惋惜悲剧更望大家引以为戒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 855,
+    "seg_id": "S4-L5",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "list_fade",
+    "items": [
+      "更关键的",
+      "他二零在二三年",
+      "就曾经因过度劳累住院",
+      "本身心脏状态就不佳",
+      "存在潜在的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 856,
+    "seg_id": "S4-L6",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "list_fade",
+    "items": [
+      "此次跑步后喝冷水",
+      "成了",
+      "压垮心脏的最后一根稻草",
+      "最终诱发心源性猝死"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 857,
+    "seg_id": "S4-L7",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "张雪峰案例复盘",
+    "template": "list_fade",
+    "items": [
+      "所以",
+      "作为心内科医生",
+      "看到这样的悲剧",
+      "满心惋惜",
+      "更希望大家"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 858,
+    "seg_id": "S5-L1",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "hero_text",
+    "items": [
+      "四点关键注意事项"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 859,
+    "seg_id": "S5-L2",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "warning_alert",
+    "items": [
+      "连续3天少于6小时增加心律失常风险",
+      "无法避免熬夜后须尽快补足睡眠"
+    ],
+    "needs_animation": true,
+    "label": "睡眠不足引发心律失常的生理机制"
+  },
+  {
+    "global_index": 860,
+    "seg_id": "S5-L3",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "hero_text",
+    "items": [
+      "熬夜后尽快补足睡眠恢复节律"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 861,
+    "seg_id": "S5-L4",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "list_fade",
+    "items": [
+      "高血压糖尿病高血脂须遵医嘱服药",
+      "不可擅自停药或减药",
+      "指标控制不佳会持续损伤血管"
+    ],
+    "needs_animation": true,
+    "label": "高血压高血脂持续损伤血管壁的病理过程"
+  },
+  {
+    "global_index": 862,
+    "seg_id": "S5-L5",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "branch_path",
+    "items": [
+      "是否有心脏基础病或三高",
+      "先做心电图彩超明确耐受度再运动",
+      "有基础病者严禁剧烈运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 863,
+    "seg_id": "S5-L6",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "list_fade",
+    "items": [
+      "出现胸闷头晕嘴唇发紫",
+      "立即停止运动原地休息"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 864,
+    "seg_id": "S5-L7",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "category_table",
+    "items": [
+      "隐匿性冠心病早期无症状",
+      "肥厚型心肌病沉默杀手",
+      "定期心电图发现潜在问题",
+      "定期心脏彩超早干预早治疗"
+    ],
+    "needs_animation": true,
+    "label": "隐匿性冠心病与肥厚型心肌病的病理特征"
+  },
+  {
+    "global_index": 865,
+    "seg_id": "S5-L8",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "hero_text",
+    "items": [
+      "定期体检从根源规避猝死风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 866,
+    "seg_id": "S5-L9",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "四点关键预防建议",
+    "template": "warning_alert",
+    "items": [
+      "心慌胸闷气短头晕切勿硬扛",
+      "及时就医不拖延"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 867,
+    "seg_id": "S6-L1",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "医生寄语",
+    "template": "hero_text",
+    "items": [
+      "拼命奔跑是为了更好的生活"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 868,
+    "seg_id": "S6-L2",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "医生寄语",
+    "template": "hero_text",
+    "items": [
+      "猝死是长期忽视透支身体的结果"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 869,
+    "seg_id": "S6-L3",
+    "bp_title": "心源性猝死预警信号与自救指南",
+    "scene_title": "医生寄语",
+    "template": "hero_text",
+    "items": [
+      "敬畏身体守护健康是最负责的选择"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 870,
+    "seg_id": "S1-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "累与求救的区别",
+    "template": "hero_text",
+    "items": [
+      "运动时感到累和喘是正常的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 871,
+    "seg_id": "S1-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "累与求救的区别",
+    "template": "hero_text",
+    "items": [
+      "有一种感觉不是累，是心脏在求救"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 872,
+    "seg_id": "S1-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "累与求救的区别",
+    "template": "myth_buster",
+    "items": [
+      "分不清两者，硬撑继续跑",
+      "停下来，有时才是真正保命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 873,
+    "seg_id": "S1-L4",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "累与求救的区别",
+    "template": "hero_text",
+    "items": [
+      "停下来不是放弃，是保命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 874,
+    "seg_id": "S2-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号一：胸口发闷发紧",
+    "template": "hero_text",
+    "items": [
+      "信号一：胸口发闷发紧"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 875,
+    "seg_id": "S2-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号一：胸口发闷发紧",
+    "template": "split_column",
+    "items": [
+      "跑快了上气不接下气",
+      "胸骨中间像石头压住般发闷",
+      "跑步节奏带来的正常气促",
+      "像绳子勒着喘不上来气"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 876,
+    "seg_id": "S2-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号一：胸口发闷发紧",
+    "template": "step_arrow",
+    "items": [
+      "胸口发闷是心肌缺血信号",
+      "冠脉狭窄，供血跟不上需求",
+      "心肌缺氧，出现胸闷症状"
+    ],
+    "needs_animation": true,
+    "label": "冠脉狭窄导致心肌缺血缺氧过程"
+  },
+  {
+    "global_index": 877,
+    "seg_id": "S2-L4",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号一：胸口发闷发紧",
+    "template": "branch_path",
+    "items": [
+      "停下来休息几分钟",
+      "能缓解——冠脉可能已有狭窄",
+      "不缓解——情况更为紧急"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 878,
+    "seg_id": "S2-L5",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号一：胸口发闷发紧",
+    "template": "step_arrow",
+    "items": [
+      "运动需要更多血液供应",
+      "血管堵塞，血液送不过去",
+      "心肌缺氧，胸口发闷"
+    ],
+    "needs_animation": true,
+    "label": "运动时冠脉狭窄致心肌供血不足过程"
+  },
+  {
+    "global_index": 879,
+    "seg_id": "S2-L6",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号一：胸口发闷发紧",
+    "template": "warning_alert",
+    "items": [
+      "不是减速就行，需去医院检查",
+      "做冠脉CT或冠脉造影排查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

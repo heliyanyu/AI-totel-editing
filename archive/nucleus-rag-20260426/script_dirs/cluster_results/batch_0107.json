@@ -1,0 +1,523 @@
+[
+  {
+    "global_index": 4280,
+    "seg_id": "S3-L3",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第二种：肌肉在发出预警",
+    "template": "brick_stack",
+    "items": [
+      "颈椎承重约5-6公斤",
+      "长期低头肌肉持续紧绷",
+      "积累形成劳损与硬结",
+      "扭转时摩擦发声伴酸胀"
+    ],
+    "needs_animation": true,
+    "label": "颈椎承重与颈部肌肉劳损过程"
+  },
+  {
+    "global_index": 4281,
+    "seg_id": "S3-L4",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第二种：肌肉在发出预警",
+    "template": "warning_alert",
+    "items": [
+      "暂不算颈椎病",
+      "但已是颈椎的预警信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4282,
+    "seg_id": "S3-L5",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第二种：肌肉在发出预警",
+    "template": "myth_buster",
+    "items": [
+      "急着去医院拍片",
+      "先调整坐姿和屏幕高度"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4283,
+    "seg_id": "S3-L6",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第二种：肌肉在发出预警",
+    "template": "step_arrow",
+    "items": [
+      "下巴向后平推缩脖子",
+      "帮助恢复颈椎自然曲度",
+      "每天3-4组每组十余次",
+      "效果往往优于花钱按摩"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4284,
+    "seg_id": "S4-L1",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第三种：神经受压必须重视",
+    "template": "body_annotate",
+    "items": [
+      "颈部持续疼痛",
+      "疼痛沿肩膀向手臂放射",
+      "手指麻木或触电感"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4285,
+    "seg_id": "S4-L2",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第三种：神经受压必须重视",
+    "template": "warning_alert",
+    "items": [
+      "间盘或骨刺压迫神经",
+      "这种情况必须认真对待"
+    ],
+    "needs_animation": true,
+    "label": "椎间盘突出/骨刺压迫神经过程"
+  },
+  {
+    "global_index": 4286,
+    "seg_id": "S4-L3",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第三种：神经受压必须重视",
+    "template": "list_fade",
+    "items": [
+      "头晕",
+      "走路腿软无力",
+      "手麻且握力减退"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4287,
+    "seg_id": "S4-L4",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第三种：神经受压必须重视",
+    "template": "step_arrow",
+    "items": [
+      "不能在家硬扛拖延",
+      "去医院做颈椎磁共振",
+      "请医生专业评估方案"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4288,
+    "seg_id": "S5-L1",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "手麻头晕是关键分界线",
+    "template": "split_column",
+    "items": [
+      "仅有响声和酸疼",
+      "伴随手麻或头晕",
+      "多为肌肉问题，调整即可",
+      "性质已发生根本变化"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4289,
+    "seg_id": "S5-L2",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "手麻头晕是关键分界线",
+    "template": "warning_alert",
+    "items": [
+      "一旦出现手麻或头晕",
+      "问题性质已截然不同"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4290,
+    "seg_id": "S5-L3",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "手麻头晕是关键分界线",
+    "template": "warning_alert",
+    "items": [
+      "切勿自行或找无资质者扳脖子",
+      "颈椎内有脊髓，暴力操作危险"
+    ],
+    "needs_animation": true,
+    "label": "颈椎与脊髓解剖结构关系"
+  },
+  {
+    "global_index": 4291,
+    "seg_id": "S5-L4",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "手麻头晕是关键分界线",
+    "template": "hero_text",
+    "items": [
+      "学会分辨，守护颈椎健康"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4292,
+    "seg_id": "S1-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "错过黄金时间窗",
+    "template": "hero_text",
+    "items": [
+      "脑梗送医太晚，错过最佳治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4293,
+    "seg_id": "S1-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "错过黄金时间窗",
+    "template": "number_center",
+    "items": [
+      "4.5"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4294,
+    "seg_id": "S1-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "错过黄金时间窗",
+    "template": "hero_text",
+    "items": [
+      "不认识脑梗前兆症状"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4295,
+    "seg_id": "S1-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "错过黄金时间窗",
+    "template": "hero_text",
+    "items": [
+      "5个求救信号，今天全讲清"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4296,
+    "seg_id": "S2-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号一：肢体突然无力麻木",
+    "template": "hero_text",
+    "items": [
+      "突然一侧肢体发麻或无力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4297,
+    "seg_id": "S2-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号一：肢体突然无力麻木",
+    "template": "list_fade",
+    "items": [
+      "筷子突然拿不住",
+      "走路一条腿突然发软",
+      "半边脸发麻、笑起来嘴歪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4298,
+    "seg_id": "S2-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号一：肢体突然无力麻木",
+    "template": "split_column",
+    "items": [
+      "久坐后腿麻，活动可缓解",
+      "突然一侧麻木，无明显诱因"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4299,
+    "seg_id": "S2-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号一：肢体突然无力麻木",
+    "template": "warning_alert",
+    "items": [
+      "症状仅持续几分钟也必须重视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4300,
+    "seg_id": "S2-L5",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号一：肢体突然无力麻木",
+    "template": "step_arrow",
+    "items": [
+      "短暂性脑缺血发作（TIA）",
+      "脑梗前兆，风险极高",
+      "下次可能不会自行恢复"
+    ],
+    "needs_animation": true,
+    "label": "短暂性脑缺血发作(TIA)血管阻塞过程"
+  },
+  {
+    "global_index": 4301,
+    "seg_id": "S3-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号二：突然说话含糊",
+    "template": "hero_text",
+    "items": [
+      "突然说话含糊不清"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4302,
+    "seg_id": "S3-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号二：突然说话含糊",
+    "template": "list_fade",
+    "items": [
+      "说话大舌头、舌根发硬",
+      "想说的话说不出来",
+      "突然听不懂别人说话"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4303,
+    "seg_id": "S3-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号二：突然说话含糊",
+    "template": "step_arrow",
+    "items": [
+      "大脑语言中枢缺血",
+      "表达与理解功能障碍"
+    ],
+    "needs_animation": true,
+    "label": "大脑语言中枢缺血病理过程"
+  },
+  {
+    "global_index": 4304,
+    "seg_id": "S3-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号二：突然说话含糊",
+    "template": "warning_alert",
+    "items": [
+      "发现说话异常，立即去医院"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4305,
+    "seg_id": "S4-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号三：突然单眼发黑",
+    "template": "hero_text",
+    "items": [
+      "突然一只眼看不清或发黑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4306,
+    "seg_id": "S4-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号三：突然单眼发黑",
+    "template": "image_overlay",
+    "items": [
+      "像帘子从上往下拉过",
+      "过一会儿自行恢复"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4307,
+    "seg_id": "S4-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号三：突然单眼发黑",
+    "template": "step_arrow",
+    "items": [
+      "颈动脉或眼动脉供血异常",
+      "视觉通路短暂缺血"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉/眼动脉供血异常致视觉通路缺血"
+  },
+  {
+    "global_index": 4308,
+    "seg_id": "S4-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号三：突然单眼发黑",
+    "template": "warning_alert",
+    "items": [
+      "一过性黑矇是脑梗重要预警"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4309,
+    "seg_id": "S5-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号四：突然头晕走路不稳",
+    "template": "hero_text",
+    "items": [
+      "突然头晕、走路不稳"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4310,
+    "seg_id": "S5-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号四：突然头晕走路不稳",
+    "template": "split_column",
+    "items": [
+      "久蹲站起，眼前一黑可缓解",
+      "突发天旋地转，难以站立"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4311,
+    "seg_id": "S5-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号四：突然头晕走路不稳",
+    "template": "list_fade",
+    "items": [
+      "天旋地转、站立不稳",
+      "走路摇晃如醉酒",
+      "伴有恶心呕吐"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4312,
+    "seg_id": "S5-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号四：突然头晕走路不稳",
+    "template": "step_arrow",
+    "items": [
+      "后循环血管供血障碍",
+      "小脑与脑干缺血",
+      "平衡与协调功能受损"
+    ],
+    "needs_animation": true,
+    "label": "后循环供血障碍致小脑脑干缺血过程"
+  },
+  {
+    "global_index": 4313,
+    "seg_id": "S5-L5",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号四：突然头晕走路不稳",
+    "template": "warning_alert",
+    "items": [
+      "后循环脑梗，必须高度重视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4314,
+    "seg_id": "S6-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号五：突然剧烈头痛",
+    "template": "hero_text",
+    "items": [
+      "突然出现前所未有的剧烈头痛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4315,
+    "seg_id": "S6-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号五：突然剧烈头痛",
+    "template": "list_fade",
+    "items": [
+      "炸裂感头痛，程度前所未有",
+      "疼痛剧烈伴恶心呕吐"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4316,
+    "seg_id": "S6-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号五：突然剧烈头痛",
+    "template": "warning_alert",
+    "items": [
+      "高度警惕脑出血",
+      "蛛网膜下腔出血同样致命"
+    ],
+    "needs_animation": true,
+    "label": "脑出血与蛛网膜下腔出血病理过程"
+  },
+  {
+    "global_index": 4317,
+    "seg_id": "S6-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号五：突然剧烈头痛",
+    "template": "hero_text",
+    "items": [
+      "立刻拨打120，不要犹豫"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4318,
+    "seg_id": "S7-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "关键词：突然",
+    "template": "hero_text",
+    "items": [
+      "五大信号共同关键词：突然"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4319,
+    "seg_id": "S7-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "关键词：突然",
+    "template": "list_fade",
+    "items": [
+      "突然肢体麻木无力",
+      "突然说话含糊不清",
+      "突然单眼视力丧失",
+      "突然头晕走路不稳",
+      "突然剧烈头痛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,536 @@
+[
+  {
+    "global_index": 1000,
+    "seg_id": "S5-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因二：睡眠呼吸暂停",
+    "template": "step_arrow",
+    "items": [
+      "打呼噜打着打着突然没声",
+      "停几秒后又重新开始",
+      "大概率是睡眠呼吸暂停"
+    ],
+    "needs_animation": true,
+    "label": "睡眠呼吸暂停上气道塌陷阻塞过程"
+  },
+  {
+    "global_index": 1001,
+    "seg_id": "S5-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因二：睡眠呼吸暂停",
+    "template": "number_center",
+    "items": [
+      "几十至上百次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1002,
+    "seg_id": "S5-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因二：睡眠呼吸暂停",
+    "template": "warning_alert",
+    "items": [
+      "头晕乏力，怎么睡都不够",
+      "问题在呼吸道，调睡眠习惯没用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1003,
+    "seg_id": "S5-L4",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因二：睡眠呼吸暂停",
+    "template": "branch_path",
+    "items": [
+      "/ 白天极度困倦",
+      "去做睡眠监测，排查呼吸暂停",
+      "忽视继续，缺氧问题持续损伤身体"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1004,
+    "seg_id": "S6-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因三：胃食管反流",
+    "template": "step_arrow",
+    "items": [
+      "一躺下胃酸往上反",
+      "烧心，嗓子不舒服",
+      "反复打断深睡眠，质量上不去"
+    ],
+    "needs_animation": true,
+    "label": "胃食管反流胃酸逆流过程"
+  },
+  {
+    "global_index": 1005,
+    "seg_id": "S7-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "助眠方法治错了对象",
+    "template": "color_grid",
+    "items": [
+      "慢性焦虑",
+      "甲亢",
+      "睡眠呼吸暂停",
+      "胃食管反流"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1006,
+    "seg_id": "S7-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "助眠方法治错了对象",
+    "template": "split_column",
+    "items": [
+      "单纯睡眠习惯不好",
+      "存在隐藏身体问题",
+      "调整作息有效果",
+      "方法全部无效"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1007,
+    "seg_id": "S7-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "助眠方法治错了对象",
+    "template": "hero_text",
+    "items": [
+      "试了一堆都没用？该停下来往前追一步"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1008,
+    "seg_id": "S8-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "正确做法：去看医生",
+    "template": "list_fade",
+    "items": [
+      "失眠多久了",
+      "试过哪些方法",
+      "除失眠外还有哪些不适"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1009,
+    "seg_id": "S8-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "正确做法：去看医生",
+    "template": "step_arrow",
+    "items": [
+      "评估是否查甲状腺功能",
+      "判断是否做睡眠监测",
+      "评估焦虑程度"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1010,
+    "seg_id": "S8-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "正确做法：去看医生",
+    "template": "myth_buster",
+    "items": [
+      "睡不好是自律不够",
+      "很可能是在和错误的敌人较劲",
+      "换个方法就能睡好",
+      "找到真正原因才能根本改善"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1011,
+    "seg_id": "S8-L4",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "正确做法：去看医生",
+    "template": "hero_text",
+    "items": [
+      "找到真正原因，别再花冤枉钱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1012,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "真实病例开场",
+    "template": "list_fade",
+    "items": [
+      "凌晨送来的35岁程序员",
+      "开完会倒在走廊的销售主管",
+      "胸口不适拖了三个月的财务总监"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1013,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "真实病例开场",
+    "template": "hero_text",
+    "items": [
+      "他们都说：忍一忍就过去了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1014,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "真实病例开场",
+    "template": "warning_alert",
+    "items": [
+      "这几个信号，出现了不许再忍"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1015,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号一：胸口发闷",
+    "template": "body_annotate",
+    "items": [
+      "胸口沉闷、像有重物压着",
+      "疼痛向左肩放射",
+      "疼痛沿左臂向上蹿"
+    ],
+    "needs_animation": true,
+    "label": "心肌缺血疼痛放射路径"
+  },
+  {
+    "global_index": 1016,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号一：胸口发闷",
+    "template": "myth_buster",
+    "items": [
+      "颈椎/胃/压力大导致的",
+      "心肌缺血正是这种钝痛感",
+      "疼痛尖锐才是心脏问题",
+      "不尖锐的堵闷感更需警惕"
+    ],
+    "needs_animation": true,
+    "label": "心肌缺血病理机制"
+  },
+  {
+    "global_index": 1017,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号一：胸口发闷",
+    "template": "branch_path",
+    "items": [
+      "停下来休息3-5分钟",
+      "缓解了——功能性可能大",
+      "没缓解甚至加重——立刻去医院"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1018,
+    "seg_id": "S2-L4",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号一：胸口发闷",
+    "template": "hero_text",
+    "items": [
+      "休息后不缓解，别等，去医院"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1019,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号二：心脏咯噔一下",
+    "template": "step_arrow",
+    "items": [
+      "盯屏幕或起身时突然发生",
+      "心脏乱跳一下、像漏了一拍",
+      "一闪而过，很快消失"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1020,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号二：心脏咯噔一下",
+    "template": "split_column",
+    "items": [
+      "偶尔发作一次",
+      "一个月内反复出现",
+      "多数是早搏，一般不危险",
+      "需要认真排查心律失常"
+    ],
+    "needs_animation": true,
+    "label": "心脏早搏与心律失常电传导异常"
+  },
+  {
+    "global_index": 1021,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号二：心脏咯噔一下",
+    "template": "warning_alert",
+    "items": [
+      "伴随头晕、胸闷、喘不上气",
+      "不是\"压力大\"三字能解释的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1022,
+    "seg_id": "S3-L4",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号二：心脏咯噔一下",
+    "template": "hero_text",
+    "items": [
+      "拖着不查，不知心脏背着你做什么"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1023,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号三：走两步就喘",
+    "template": "vertical_timeline",
+    "items": [
+      "去年：爬6楼不停歇",
+      "今年：爬3楼要扶墙缓气",
+      "活动耐力突然明显下降"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1024,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号三：走两步就喘",
+    "template": "myth_buster",
+    "items": [
+      "体力下降了，该去跑步锻炼",
+      "心脏泵血能力出了问题",
+      "练练体能就能解决",
+      "不是练出来的，需要就诊"
+    ],
+    "needs_animation": true,
+    "label": "心脏泵血功能减退机制"
+  },
+  {
+    "global_index": 1025,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号三：走两步就喘",
+    "template": "warning_alert",
+    "items": [
+      "平躺就憋气，需垫高枕头才能入睡",
+      "血液淤积在肺里，当天就要就诊"
+    ],
+    "needs_animation": true,
+    "label": "左心衰竭致肺淤血过程"
+  },
+  {
+    "global_index": 1026,
+    "seg_id": "S4-L4",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号三：走两步就喘",
+    "template": "hero_text",
+    "items": [
+      "出现夜间端坐呼吸，当天看诊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1027,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号四：眼前一黑",
+    "template": "myth_buster",
+    "items": [
+      "低血糖或没睡好导致的",
+      "可能是心律失常致脑供血不足",
+      "缓过来了就没事了",
+      "哪怕只发生一次也要认真查"
+    ],
+    "needs_animation": true,
+    "label": "心律失常致脑供血不足过程"
+  },
+  {
+    "global_index": 1028,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号四：眼前一黑",
+    "template": "step_arrow",
+    "items": [
+      "心脏短暂停跳几秒",
+      "脑供血中断，意识丧失",
+      "停跳时间更长则危及生命"
+    ],
+    "needs_animation": true,
+    "label": "心脏停搏致脑缺血过程"
+  },
+  {
+    "global_index": 1029,
+    "seg_id": "S5-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号四：眼前一黑",
+    "template": "hero_text",
+    "items": [
+      "晕厥哪怕只发生一次，也必须去查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1030,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号五：脚踝水肿",
+    "template": "split_column",
+    "items": [
+      "久坐久站后脚踝微肿",
+      "按下去凹陷久久不恢复",
+      "晚上肿、早上自然消退",
+      "伴随疲乏、体重莫名增加"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1031,
+    "seg_id": "S6-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号五：脚踝水肿",
+    "template": "step_arrow",
+    "items": [
+      "心脏压力过大，泵血能力减弱",
+      "静脉血液回流受阻",
+      "液体淤积，出现凹陷性水肿"
+    ],
+    "needs_animation": true,
+    "label": "右心衰竭致外周静脉淤血水肿过程"
+  },
+  {
+    "global_index": 1032,
+    "seg_id": "S6-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "信号五：脚踝水肿",
+    "template": "hero_text",
+    "items": [
+      "凹陷性水肿，是心脏在说撑不住了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1033,
+    "seg_id": "S7-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "行动呼吁收尾",
+    "template": "number_center",
+    "items": [
+      "5"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1034,
+    "seg_id": "S7-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "行动呼吁收尾",
+    "template": "myth_buster",
+    "items": [
+      "身体是弹簧，忍忍就有韧性",
+      "身体不是弹簧，忍不出健康",
+      "忍能让加班少、工作轻",
+      "忍只会让信号被你错过"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1035,
+    "seg_id": "S7-L3",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "行动呼吁收尾",
+    "template": "hero_text",
+    "items": [
+      "身体发出信号，听一下，查一下，就这么简单"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1036,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "心脏从不停歇",
+    "template": "hero_text",
+    "items": [
+      "心脏从未休息过一秒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1037,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "心脏从不停歇",
+    "template": "number_center",
+    "items": [
+      "100000"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1038,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "心脏从不停歇",
+    "template": "hero_text",
+    "items": [
+      "这五件事让心脏陪你到九十九"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1039,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "hero_text",
+    "items": [
+      "第一件事：把觉睡好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

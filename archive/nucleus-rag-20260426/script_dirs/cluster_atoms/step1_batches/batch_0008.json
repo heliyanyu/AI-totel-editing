@@ -1,0 +1,570 @@
+[
+  {
+    "global_index": 320,
+    "seg_id": "S4-L5",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之西柚",
+    "template": "myth_buster",
+    "items": [
+      "只有西柚果肉才有影响",
+      "西柚汁同样含有抑制酶的成分"
+    ],
+    "atoms_text": "所以啊 吃阿托伐他汀 辛伐他汀 洛伐他汀的人 西柚和西柚汁 一定要避开",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 321,
+    "seg_id": "S4-L6",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之西柚",
+    "template": "hero_text",
+    "items": [
+      "即使影响小，保险起见少碰为好"
+    ],
+    "atoms_text": "当然 瑞舒伐他汀和匹伐他汀 不怎么走这个酶 影响就小得多 但保险起见 还是少碰为好",
+    "needs_animation": true,
+    "label": "瑞舒伐他汀和匹伐他汀绕过CYP3A4酶代谢"
+  },
+  {
+    "global_index": 322,
+    "seg_id": "S5-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之饮酒",
+    "template": "hero_text",
+    "items": [
+      "第二类禁忌：饮酒伤肝不可忽视"
+    ],
+    "atoms_text": "第二就是酒 他汀啊 是靠肝脏来代谢的 酒精也要靠肝脏来处理",
+    "needs_animation": true,
+    "label": "他汀和酒精共同经肝脏代谢的通路竞争"
+  },
+  {
+    "global_index": 323,
+    "seg_id": "S5-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之饮酒",
+    "template": "split_column",
+    "items": [
+      "他汀靠肝脏代谢降血脂",
+      "酒精同样需要肝脏处理"
+    ],
+    "atoms_text": "你一边让肝脏帮你降血脂 一边又拿酒啊去折腾它 那不是自己跟自己过不去吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 324,
+    "seg_id": "S5-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之饮酒",
+    "template": "brick_stack",
+    "items": [
+      "长期饮酒本身伤肝",
+      "他汀代谢加重肝脏负担",
+      "转氨酶升高风险明显增加"
+    ],
+    "atoms_text": "长期喝酒 本身就伤肝 再加上他汀 肝脏的负担就更重了 转氨酶升高的风险 也会明显增加",
+    "needs_animation": true,
+    "label": "酒精性肝损伤叠加他汀代谢导致转氨酶升高"
+  },
+  {
+    "global_index": 325,
+    "seg_id": "S6-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之高脂饮食",
+    "template": "hero_text",
+    "items": [
+      "吃了药不等于可以敞开吃"
+    ],
+    "atoms_text": "第三就是注意饮食 不是说吃了药 就可以敞开了吃",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 326,
+    "seg_id": "S6-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之高脂饮食",
+    "template": "myth_buster",
+    "items": [
+      "吃他汀后饮食随意没关系",
+      "高脂饮食仍会加重心血管负担"
+    ],
+    "atoms_text": "虽然他汀降啊 主要是肝脏自己生产的胆固醇 饮食的影响没有那么大",
+    "needs_animation": true,
+    "label": "他汀抑制肝脏内源性胆固醇合成"
+  },
+  {
+    "global_index": 327,
+    "seg_id": "S6-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之高脂饮食",
+    "template": "split_column",
+    "items": [
+      "肝脏自产胆固醇占大头",
+      "饮食影响相对较小但不可忽视"
+    ],
+    "atoms_text": "但长期的高脂饮食啊 会增加整体的心血管负担 也会影响啊 血脂的综合控制",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 328,
+    "seg_id": "S6-L4",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之高脂饮食",
+    "template": "list_fade",
+    "items": [
+      "正常吃肉没问题",
+      "少油炸多蒸煮",
+      "控制总量别过量"
+    ],
+    "atoms_text": "正常吃肉没问题 少油炸 多蒸煮 别过量就行",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 329,
+    "seg_id": "S7-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "总结提醒",
+    "template": "vertical_timeline",
+    "items": [
+      "用药前三个月：复查肝功能和肌酶",
+      "稳定后：每半年至一年复查一次"
+    ],
+    "atoms_text": "最后啊 再提醒一句 吃他汀的人 刚开始的前三个月 一定要去复查 肝功能和肌酶 稳定了之后 半年到一年 复查一次就可以了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 330,
+    "seg_id": "S7-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "总结提醒",
+    "template": "list_fade",
+    "items": [
+      "身体发出信号要认真对待",
+      "有问题及时找医生调整",
+      "不自行停药，不自行加药"
+    ],
+    "atoms_text": "身体给你发信号啊 你要接得住 别觉得有什么不舒服 就不去查了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 331,
+    "seg_id": "S7-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "总结提醒",
+    "template": "hero_text",
+    "items": [
+      "吃好他汀，管好自己，才是真的护心"
+    ],
+    "atoms_text": "有问题及时找医生调整 不要自己停药 也不要自己加药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 332,
+    "seg_id": "S7-L4",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "总结提醒",
+    "template": "list_fade",
+    "items": [
+      "好了",
+      "今天就念到这么多",
+      "知道了吗"
+    ],
+    "atoms_text": "好了 今天就念到这么多 知道了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 333,
+    "seg_id": "S1-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心慌找不到原因？",
+    "template": "list_fade",
+    "items": [
+      "二三十岁年轻人心慌频发",
+      "心电图彩超查完啥也没有"
+    ],
+    "atoms_text": "最近啊 门诊 来看 心慌心悸的 年轻人 特别多 二三十岁 心电图 做了 彩超 也做了 什么问题 都没有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 334,
+    "seg_id": "S1-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心慌找不到原因？",
+    "template": "hero_text",
+    "items": [
+      "明明没问题，却总觉得要出事"
+    ],
+    "atoms_text": "但是 就是不信 觉得自己 随时 就要出事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 335,
+    "seg_id": "S1-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心慌找不到原因？",
+    "template": "hero_text",
+    "items": [
+      "今天把心慌这件事讲清楚"
+    ],
+    "atoms_text": "今天啊 我把这件事 讲清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 336,
+    "seg_id": "S2-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心脏听谁的指挥",
+    "template": "hero_text",
+    "items": [
+      "心脏是一坨肌肉，自己说不算"
+    ],
+    "atoms_text": "首先 你要理解 一个基本的事实 心脏 自己本身 就是一坨肌肉",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 337,
+    "seg_id": "S2-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心脏听谁的指挥",
+    "template": "hero_text",
+    "items": [
+      "心跳快慢全靠植物神经指挥"
+    ],
+    "atoms_text": "它跳多快 跳多强 自己说不算 全是靠 植物神经 来指挥",
+    "needs_animation": true,
+    "label": "植物神经通过信号指挥心脏跳动快慢"
+  },
+  {
+    "global_index": 338,
+    "seg_id": "S2-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心脏听谁的指挥",
+    "template": "split_column",
+    "items": [
+      "交感神经：油门，心跳加速",
+      "迷走神经：刹车，心跳减慢",
+      "兴奋状态时交感神经主导",
+      "安静状态时迷走神经主导"
+    ],
+    "atoms_text": "植物神经 分两路 交感神经 负责让你兴奋 心跳加速 相当于油门",
+    "needs_animation": true,
+    "label": "交感神经兴奋使心跳加速"
+  },
+  {
+    "global_index": 339,
+    "seg_id": "S2-L4",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心脏听谁的指挥",
+    "template": "hero_text",
+    "items": [
+      "两路平衡，该快就快该慢就慢"
+    ],
+    "atoms_text": "迷走神经 负责让你安静 心跳减慢 相当于刹车",
+    "needs_animation": true,
+    "label": "迷走神经抑制使心跳减慢"
+  },
+  {
+    "global_index": 340,
+    "seg_id": "S2-L5",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "心脏听谁的指挥",
+    "template": "list_fade",
+    "items": [
+      "正常情况下",
+      "两路",
+      "是保持平衡的",
+      "该快的时候快",
+      "该慢的时候慢"
+    ],
+    "atoms_text": "正常情况下 两路 是保持平衡的 该快的时候快 该慢的时候慢",
+    "needs_animation": true,
+    "label": "交感与迷走神经动态平衡调节心率"
+  },
+  {
+    "global_index": 341,
+    "seg_id": "S3-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "年轻人为何心慌",
+    "template": "hero_text",
+    "items": [
+      "油门踩太多，刹车几乎不用"
+    ],
+    "atoms_text": "那年轻人 为什么会心慌呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 342,
+    "seg_id": "S3-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "年轻人为何心慌",
+    "template": "brick_stack",
+    "items": [
+      "熬夜刷手机到凌晨一两点",
+      "工作压力大，长期焦虑",
+      "咖啡奶茶一杯接一杯",
+      "从不运动，久坐一整天"
+    ],
+    "atoms_text": "基本啊 就是 油门踩太多了 刹车几乎不用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 343,
+    "seg_id": "S3-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "年轻人为何心慌",
+    "template": "step_arrow",
+    "items": [
+      "每件事都刺激交感神经",
+      "交感神经持续亢奋",
+      "心率上升，感觉心慌"
+    ],
+    "atoms_text": "天天熬夜啊 刷手机到一两点 工作压力大 焦虑的不行 咖啡奶茶 一杯接一杯 从来不运动 一坐坐一整天",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 344,
+    "seg_id": "S3-L4",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "年轻人为何心慌",
+    "template": "list_fade",
+    "items": [
+      "这些事啊",
+      "每一件",
+      "都在刺激交感神经",
+      "让它持续兴奋"
+    ],
+    "atoms_text": "这些事啊 每一件 都在刺激交感神经 让它持续兴奋",
+    "needs_animation": true,
+    "label": "熬夜咖啡等刺激持续激活交感神经"
+  },
+  {
+    "global_index": 345,
+    "seg_id": "S3-L5",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "年轻人为何心慌",
+    "template": "list_fade",
+    "items": [
+      "交感神经一兴奋",
+      "心率就上来了",
+      "你就觉得心慌"
+    ],
+    "atoms_text": "交感神经一兴奋 心率就上来了 你就觉得心慌",
+    "needs_animation": true,
+    "label": "交感神经兴奋驱动心率加快引发心慌"
+  },
+  {
+    "global_index": 346,
+    "seg_id": "S4-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "焦虑放大早搏感知",
+    "template": "hero_text",
+    "items": [
+      "交感亢奋还会引发早搏"
+    ],
+    "atoms_text": "而且啊 交感神经啊 长期亢奋 还会带来 一个问题 就是早搏 像心脏 突然多跳了一下 或者漏跳了一下",
+    "needs_animation": true,
+    "label": "交感神经长期亢奋触发心脏早搏"
+  },
+  {
+    "global_index": 347,
+    "seg_id": "S4-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "焦虑放大早搏感知",
+    "template": "number_center",
+    "items": [
+      "100"
+    ],
+    "atoms_text": "但说实话 偶尔的早搏啊 在年轻人身上 特别常见 一天几十个 甚至上百个 都是正常的 大部分人 可能啊 都感觉不到",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 348,
+    "seg_id": "S4-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "焦虑放大早搏感知",
+    "template": "split_column",
+    "items": [
+      "普通人感知不到偶发早搏",
+      "焦虑者身体感知被放大",
+      "偶尔早搏不引发恐慌",
+      "一点风吹草动就以为出大事"
+    ],
+    "atoms_text": "但焦虑的人 不一样 这种人 对身体的感知 被放大了 一有一点风吹草动 就以为出了大事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 349,
+    "seg_id": "S4-L4",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "焦虑放大早搏感知",
+    "template": "step_arrow",
+    "items": [
+      "紧张害怕",
+      "交感神经更兴奋",
+      "早搏增多",
+      "更加恐惧，循环加剧"
+    ],
+    "atoms_text": "然后 越紧张 交感神经越兴奋 越兴奋 早搏越多 越多越害怕 恶性循环 就这么转了起来",
+    "needs_animation": true,
+    "label": "紧张-交感兴奋-早搏增多-恐惧的恶性循环"
+  },
+  {
+    "global_index": 350,
+    "seg_id": "S5-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "植物神经紊乱全貌",
+    "template": "color_grid",
+    "items": [
+      "出汗手抖",
+      "胃口不好",
+      "睡眠很差",
+      "胸闷气吸不到底"
+    ],
+    "atoms_text": "而且 这些年轻人 往往不止心慌 还有一堆毛病 像出汗啊 手抖啊 胃口不好啊 睡眠差 胸闷气喘啊 感觉吸气吸不到底",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 351,
+    "seg_id": "S5-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "植物神经紊乱全貌",
+    "template": "hero_text",
+    "items": [
+      "去医院查，什么都没有"
+    ],
+    "atoms_text": "去医院一查 什么都没有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 352,
+    "seg_id": "S5-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "植物神经紊乱全貌",
+    "template": "myth_buster",
+    "items": [
+      "心脏本身有病",
+      "是管心脏的神经系统失调了"
+    ],
+    "atoms_text": "这就是典型的 植物神经功能紊乱 不是心脏有病 是啊 管心脏的那套系统 失调了",
+    "needs_animation": true,
+    "label": "植物神经系统失调导致心脏调控异常"
+  },
+  {
+    "global_index": 353,
+    "seg_id": "S6-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "没有特效药",
+    "template": "warning_alert",
+    "items": [
+      "谷维素维生素B，作用都有限"
+    ],
+    "atoms_text": "那怎么办呢 说实话 目前 没有什么特效药 能把植物神经 直接调好 谷维素也好 维生素B也好 作用都有限",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 354,
+    "seg_id": "S6-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "没有特效药",
+    "template": "hero_text",
+    "items": [
+      "根源在生活方式，从根源上治"
+    ],
+    "atoms_text": "根源啊 在于生活方式 所以得 从根源上治",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 355,
+    "seg_id": "S7-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "split_column",
+    "items": [
+      "今天十点睡明天两点睡",
+      "每天固定时间睡固定时间起",
+      "神经系统被搞糊涂，紊乱",
+      "神经系统知道何时工作休息"
+    ],
+    "atoms_text": "第一 睡眠必须规律 不是睡够了就行 而是 每天固定时间睡 固定时间起 让植物神经知道 什么时候该工作 什么时候该休息",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 356,
+    "seg_id": "S7-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "number_center",
+    "items": [
+      "3-5"
+    ],
+    "atoms_text": "你今天十点睡 明天两点睡 后天十二点睡 神经系统啊 都被你搞糊涂了 它能不紊乱吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 357,
+    "seg_id": "S7-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "step_arrow",
+    "items": [
+      "坚持有氧运动",
+      "直接降低交感神经兴奋",
+      "松开那个一直踩着的油门"
+    ],
+    "atoms_text": "那第二 就是坚持有氧运动 每周啊 至少三到五次 每次啊 半小时",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 358,
+    "seg_id": "S7-L4",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "warning_alert",
+    "items": [
+      "一天最多一杯，下午三点后不碰",
+      "心慌还灌咖啡，等于火上浇油"
+    ],
+    "atoms_text": "有氧运动 是目前你知道 调节植物神经 最有效的方法 没有之一",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 359,
+    "seg_id": "S7-L5",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "myth_buster",
+    "items": [
+      "刷\"三十岁心梗猝死\"短视频",
+      "越看越焦虑，交感越兴奋越心慌"
+    ],
+    "atoms_text": "它能啊 直接降低 交感神经兴奋 相当于啊 帮你松开 那个一直踩着的油门",
+    "needs_animation": true,
+    "label": "有氧运动直接降低交感神经兴奋性"
+  }
+]

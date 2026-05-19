@@ -1,0 +1,514 @@
+[
+  {
+    "global_index": 2240,
+    "seg_id": "S2-L4",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "血管堵塞原理",
+    "template": "hero_text",
+    "items": [
+      "快堵未堵时最危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2241,
+    "seg_id": "S3-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "四大信号预告",
+    "template": "hero_text",
+    "items": [
+      "转发给家人，这四个信号要牢记"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2242,
+    "seg_id": "S4-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号一：一过性黑蒙",
+    "template": "hero_text",
+    "items": [
+      "突然眼前一黑，几秒后恢复正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2243,
+    "seg_id": "S4-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号一：一过性黑蒙",
+    "template": "vertical_timeline",
+    "items": [
+      "突然眼前一黑如停电",
+      "视力完全恢复"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2244,
+    "seg_id": "S4-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号一：一过性黑蒙",
+    "template": "myth_buster",
+    "items": [
+      "以为是站猛了或低血糖",
+      "实为颈内动脉缺血所致"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2245,
+    "seg_id": "S4-L4",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号一：一过性黑蒙",
+    "template": "step_arrow",
+    "items": [
+      "颈动脉狭窄或微血栓脱落",
+      "眼动脉瞬间缺血",
+      "短暂失明发作"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉微血栓脱落导致眼动脉缺血过程"
+  },
+  {
+    "global_index": 2246,
+    "seg_id": "S4-L5",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号一：一过性黑蒙",
+    "template": "warning_alert",
+    "items": [
+      "出现黑蒙说明脑血管已极度危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2247,
+    "seg_id": "S4-L6",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号一：一过性黑蒙",
+    "template": "hero_text",
+    "items": [
+      "线路接触不良，灯泡随时会灭"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2248,
+    "seg_id": "S5-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号二：频繁打哈欠",
+    "template": "hero_text",
+    "items": [
+      "睡够了还总打哈欠，高度警惕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2249,
+    "seg_id": "S5-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号二：频繁打哈欠",
+    "template": "split_column",
+    "items": [
+      "熬夜劳累后打哈欠",
+      "睡足后仍频繁不受控打哈欠",
+      "属于正常生理反应",
+      "可能是脑缺血信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2250,
+    "seg_id": "S5-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号二：频繁打哈欠",
+    "template": "step_arrow",
+    "items": [
+      "脑血管狭窄供血不足",
+      "呼吸中枢慢性缺氧",
+      "强迫身体频繁深呼吸打哈欠"
+    ],
+    "needs_animation": true,
+    "label": "脑血管狭窄导致呼吸中枢缺氧机制"
+  },
+  {
+    "global_index": 2251,
+    "seg_id": "S5-L4",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号二：频繁打哈欠",
+    "template": "number_center",
+    "items": [
+      "80%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2252,
+    "seg_id": "S5-L5",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号二：频繁打哈欠",
+    "template": "warning_alert",
+    "items": [
+      "大脑在喊：我快憋死了，赶紧供血"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2253,
+    "seg_id": "S5-L6",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号二：频繁打哈欠",
+    "template": "hero_text",
+    "items": [
+      "无故频繁打哈欠是大脑缺氧的呐喊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2254,
+    "seg_id": "S6-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号三：单侧手脚发麻",
+    "template": "hero_text",
+    "items": [
+      "单侧发麻或拿东西突然掉落"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2255,
+    "seg_id": "S6-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号三：单侧手脚发麻",
+    "template": "list_fade",
+    "items": [
+      "拿筷子时手指突然使不上劲",
+      "拿钥匙时东西直接掉落",
+      "一侧胳膊腿突然麻木过电感"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2256,
+    "seg_id": "S6-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号三：单侧手脚发麻",
+    "template": "split_column",
+    "items": [
+      "颈椎病引起的麻木",
+      "脑缺血引起的麻木",
+      "慢性长期持续存在",
+      "突发突止持续短暂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2257,
+    "seg_id": "S6-L4",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号三：单侧手脚发麻",
+    "template": "step_arrow",
+    "items": [
+      "供血血管短暂拥堵",
+      "顶叶丘脑指挥中心断信号",
+      "手脚出现瞬间断电卡顿"
+    ],
+    "needs_animation": true,
+    "label": "脑供血血管短暂堵塞导致顶叶丘脑信号中断过程"
+  },
+  {
+    "global_index": 2258,
+    "seg_id": "S6-L5",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号三：单侧手脚发麻",
+    "template": "warning_alert",
+    "items": [
+      "频繁单侧麻木是小中风典型表现",
+      "距离真正脑梗可能只有一步之遥"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2259,
+    "seg_id": "S7-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号四：突然大舌头",
+    "template": "hero_text",
+    "items": [
+      "舌根发紧，突然说话不清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2260,
+    "seg_id": "S7-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号四：突然大舌头",
+    "template": "step_arrow",
+    "items": [
+      "大脑额叶布洛卡区供血不足",
+      "控制舌头肌肉的脑神经受损",
+      "舌根发硬发音含混结巴"
+    ],
+    "needs_animation": true,
+    "label": "额叶布洛卡区供血不足导致语言功能障碍机制"
+  },
+  {
+    "global_index": 2261,
+    "seg_id": "S7-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号四：突然大舌头",
+    "template": "list_fade",
+    "items": [
+      "脑子清楚但嘴巴不听使唤",
+      "平时流利说话突然开始结巴",
+      "嘴角不自觉流口水"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2262,
+    "seg_id": "S7-L4",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号四：突然大舌头",
+    "template": "myth_buster",
+    "items": [
+      "以为是上火了",
+      "实为脑部运动神经受损信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2263,
+    "seg_id": "S8-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号本质解析",
+    "template": "step_arrow",
+    "items": [
+      "微小血栓堵塞血管",
+      "身体溶栓机制数分钟内溶解",
+      "症状消失，误以为好了"
+    ],
+    "needs_animation": true,
+    "label": "微小血栓形成与人体自溶栓机制过程"
+  },
+  {
+    "global_index": 2264,
+    "seg_id": "S8-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号本质解析",
+    "template": "warning_alert",
+    "items": [
+      "症状消失不是痊愈，是危险预演",
+      "无法溶解的大血栓随时会到来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2265,
+    "seg_id": "S9-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "出现信号如何应对",
+    "template": "branch_path",
+    "items": [
+      "出现上述任何一个症状",
+      "立刻去神经内科就诊检查",
+      "继续观望等待拖延就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2266,
+    "seg_id": "S9-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "出现信号如何应对",
+    "template": "split_column",
+    "items": [
+      "颈动脉彩超",
+      "头颅核磁共振",
+      "查斑块及血管狭窄程度",
+      "查大脑微小缺血病灶"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2267,
+    "seg_id": "S10-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "日常预防核心策略",
+    "template": "brick_stack",
+    "items": [
+      "高血压持续刮伤血管内皮",
+      "高血糖损伤血管壁",
+      "高血脂加速斑块堆积"
+    ],
+    "needs_animation": true,
+    "label": "三高损伤血管壁与斑块形成过程"
+  },
+  {
+    "global_index": 2268,
+    "seg_id": "S10-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "日常预防核心策略",
+    "template": "warning_alert",
+    "items": [
+      "尼古丁会让血管剧烈收缩"
+    ],
+    "needs_animation": true,
+    "label": "尼古丁导致血管收缩机制"
+  },
+  {
+    "global_index": 2269,
+    "seg_id": "S10-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "日常预防核心策略",
+    "template": "number_center",
+    "items": [
+      "1500ml"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2270,
+    "seg_id": "S11-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "结语金句",
+    "template": "hero_text",
+    "items": [
+      "抓住四个信号，就是在和死神抢时间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2271,
+    "seg_id": "S1-L1",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "科普开场 引出用户疑问",
+    "template": "hero_text",
+    "items": [
+      "记性差是不是老年痴呆前兆"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2272,
+    "seg_id": "S1-L2",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "科普开场 引出用户疑问",
+    "template": "hero_text",
+    "items": [
+      "记忆力下降就怕患上痴呆"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2273,
+    "seg_id": "S1-L3",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "科普开场 引出用户疑问",
+    "template": "hero_text",
+    "items": [
+      "在家可快速鉴别两类遗忘"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2274,
+    "seg_id": "S1-L4",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "科普开场 引出用户疑问",
+    "template": "hero_text",
+    "items": [
+      "建议收藏给家里长辈测试"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2275,
+    "seg_id": "S2-L1",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "正常遗忘vs痴呆的区别",
+    "template": "hero_text",
+    "items": [
+      "正常衰老遗忘≠病理性痴呆"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2276,
+    "seg_id": "S2-L2",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "正常遗忘vs痴呆的区别",
+    "template": "hero_text",
+    "items": [
+      "记忆仍存在只是检索速度慢"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2277,
+    "seg_id": "S2-L3",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "正常遗忘vs痴呆的区别",
+    "template": "hero_text",
+    "items": [
+      "记忆未储存提示也无法想起"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2278,
+    "seg_id": "S3-L1",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "国际通用筛查测试法",
+    "template": "hero_text",
+    "items": [
+      "画钟测试结合三词回忆法"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2279,
+    "seg_id": "S3-L2",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "国际通用筛查测试法",
+    "template": "hero_text",
+    "items": [
+      "第一步：复述并记住三个词语"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

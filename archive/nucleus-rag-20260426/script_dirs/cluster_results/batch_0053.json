@@ -1,0 +1,531 @@
+[
+  {
+    "global_index": 2120,
+    "seg_id": "S3-L2",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "走路喘的其他常见病因",
+    "template": "hero_text",
+    "items": [
+      "贫血携氧能力下降易引发喘"
+    ],
+    "needs_animation": true,
+    "label": "贫血时红细胞携氧能力下降机制"
+  },
+  {
+    "global_index": 2121,
+    "seg_id": "S3-L3",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "走路喘的其他常见病因",
+    "template": "hero_text",
+    "items": [
+      "慢阻肺哮喘等肺病也会引发喘"
+    ],
+    "needs_animation": true,
+    "label": "慢阻肺气道阻塞导致呼吸困难"
+  },
+  {
+    "global_index": 2122,
+    "seg_id": "S3-L4",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "走路喘的其他常见病因",
+    "template": "hero_text",
+    "items": [
+      "心脏无异常需查血和肺功能"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2123,
+    "seg_id": "S4-L1",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "总结提示：别忽视异常喘信号",
+    "template": "hero_text",
+    "items": [
+      "别把走路喘只归于年纪大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2124,
+    "seg_id": "S4-L2",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "总结提示：别忽视异常喘信号",
+    "template": "list_fade",
+    "items": [
+      "活动耐量明显变差",
+      "喘伴胸闷憋气",
+      "平躺比坐着更易喘"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2125,
+    "seg_id": "S4-L3",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "总结提示：别忽视异常喘信号",
+    "template": "hero_text",
+    "items": [
+      "异常喘早查早治避免延误"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2126,
+    "seg_id": "S1-L1",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "夜间血压暗藏杀机",
+    "template": "warning_alert",
+    "items": [
+      "白天正常，夜间突发脑出血",
+      "血压飙升至190，无任何预感"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2127,
+    "seg_id": "S1-L2",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "夜间血压暗藏杀机",
+    "template": "myth_buster",
+    "items": [
+      "白天量了血压很正常",
+      "夜间血压可能悄然飙升"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2128,
+    "seg_id": "S1-L3",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "夜间血压暗藏杀机",
+    "template": "hero_text",
+    "items": [
+      "夜间血压升高比白天更危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2129,
+    "seg_id": "S1-L4",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "夜间血压暗藏杀机",
+    "template": "split_column",
+    "items": [
+      "白天不适能感知",
+      "夜间无感知，出事即大事",
+      "清醒时可自我察觉",
+      "熟睡中血压悄悄飙升"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2130,
+    "seg_id": "S1-L5",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "夜间血压暗藏杀机",
+    "template": "hero_text",
+    "items": [
+      "睡前这段时间，关乎夜间血压安危"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2131,
+    "seg_id": "S2-L1",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前用药怎么吃",
+    "template": "hero_text",
+    "items": [
+      "降压药的服用时间要理清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2132,
+    "seg_id": "S2-L2",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前用药怎么吃",
+    "template": "split_column",
+    "items": [
+      "全部集中早上服用",
+      "根据血压类型分时服药",
+      "后半夜药效耗尽无保护",
+      "药效覆盖后半夜和凌晨"
+    ],
+    "needs_animation": true,
+    "label": "降压药药效时间覆盖机制"
+  },
+  {
+    "global_index": 2133,
+    "seg_id": "S2-L3",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前用药怎么吃",
+    "template": "branch_path",
+    "items": [
+      "是否属于夜间血压不降反升型",
+      "符合：与医生商量调整服药时间",
+      "不符合：维持原方案，无需调整"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2134,
+    "seg_id": "S2-L4",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前用药怎么吃",
+    "template": "step_arrow",
+    "items": [
+      "做24小时动态血压监测",
+      "让医生查看数据",
+      "调整为睡前服药或换长效药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2135,
+    "seg_id": "S2-L5",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前用药怎么吃",
+    "template": "warning_alert",
+    "items": [
+      "切勿自行加药，夜间血压可能过低",
+      "脑供血不足同样危险，务必遵医嘱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2136,
+    "seg_id": "S2-L6",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前用药怎么吃",
+    "template": "list_fade",
+    "items": [
+      "但千万不要自己调",
+      "因为有些人",
+      "夜间血压本来就会自然下降",
+      "再加一顿药",
+      "反而降得太低"
+    ],
+    "needs_animation": true,
+    "label": "夜间血压昼夜节律与降压药叠加降压效应"
+  },
+  {
+    "global_index": 2137,
+    "seg_id": "S3-L1",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前别让神经亢奋",
+    "template": "hero_text",
+    "items": [
+      "睡前别让自己太兴奋"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2138,
+    "seg_id": "S3-L2",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前别让神经亢奋",
+    "template": "list_fade",
+    "items": [
+      "刷手机停不下来",
+      "看气愤内容忍不住评论",
+      "反复回想白天工作烦恼"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2139,
+    "seg_id": "S3-L3",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前别让神经亢奋",
+    "template": "step_arrow",
+    "items": [
+      "紧张、愤怒情绪触发",
+      "交感神经兴奋，心率加快",
+      "血管收缩，血压迅速上升"
+    ],
+    "needs_animation": true,
+    "label": "交感神经兴奋导致血管收缩与血压升高"
+  },
+  {
+    "global_index": 2140,
+    "seg_id": "S3-L4",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前别让神经亢奋",
+    "template": "split_column",
+    "items": [
+      "睡前安静放松",
+      "睡前兴奋亢奋",
+      "交感神经平稳，血压自然下降",
+      "交感神经持续激活，整夜血压偏高"
+    ],
+    "needs_animation": true,
+    "label": "交感神经对夜间血压的调控机制"
+  },
+  {
+    "global_index": 2141,
+    "seg_id": "S3-L5",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前别让神经亢奋",
+    "template": "list_fade",
+    "items": [
+      "放下手机，远离刺激内容",
+      "听听舒缓音乐",
+      "翻翻轻松闲书"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2142,
+    "seg_id": "S4-L1",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "晚饭与饮水的讲究",
+    "template": "hero_text",
+    "items": [
+      "晚饭别太饱太咸，睡前别猛灌水"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2143,
+    "seg_id": "S4-L2",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "晚饭与饮水的讲究",
+    "template": "list_fade",
+    "items": [
+      "晚饭比午饭还丰盛",
+      "红烧肉火锅猛吃",
+      "吃完直接瘫倒等睡觉"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2144,
+    "seg_id": "S4-L3",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "晚饭与饮水的讲究",
+    "template": "step_arrow",
+    "items": [
+      "吃太饱，血液涌向胃肠",
+      "心脏负担加重",
+      "钠锁住水，血容量增加血压升高",
+      "数小时后效应最强，恰好在熟睡时"
+    ],
+    "needs_animation": true,
+    "label": "高钠饮食导致血容量增加与血压升高"
+  },
+  {
+    "global_index": 2145,
+    "seg_id": "S4-L4",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "晚饭与饮水的讲究",
+    "template": "list_fade",
+    "items": [
+      "七分饱即可，不过量",
+      "口味清淡，严格控盐",
+      "晚饭这顿控盐尤为关键"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2146,
+    "seg_id": "S4-L5",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "晚饭与饮水的讲究",
+    "template": "warning_alert",
+    "items": [
+      "睡前猛灌水，半夜起夜血压波动",
+      "口渴只需少量润喉即可"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2147,
+    "seg_id": "S5-L1",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "今晚就能做到的事",
+    "template": "list_fade",
+    "items": [
+      "调整降压药服用时间",
+      "睡前放下手机平稳情绪",
+      "晚饭清淡七分饱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2148,
+    "seg_id": "S5-L2",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "今晚就能做到的事",
+    "template": "step_arrow",
+    "items": [
+      "夜间血压逐步得到控制",
+      "脑出血、脑梗风险明显下降",
+      "日积月累，守住最危险的时段"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2149,
+    "seg_id": "S5-L3",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "今晚就能做到的事",
+    "template": "hero_text",
+    "items": [
+      "转给家里有高血压的人，今晚就开始"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2150,
+    "seg_id": "S1-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "化验单的误区",
+    "template": "myth_buster",
+    "items": [
+      "有箭头才慌，没箭头就放心",
+      "参考值不等于你的安全标准"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2151,
+    "seg_id": "S1-L2",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "化验单的误区",
+    "template": "hero_text",
+    "items": [
+      "低密度脂蛋白，不能只看参考值"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2152,
+    "seg_id": "S1-L3",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "化验单的误区",
+    "template": "warning_alert",
+    "items": [
+      "参考值仅适用于完全健康人群"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2153,
+    "seg_id": "S1-L4",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "化验单的误区",
+    "template": "list_fade",
+    "items": [
+      "高血压患者",
+      "糖尿病患者",
+      "吸烟者",
+      "已放支架者"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2154,
+    "seg_id": "S1-L5",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "化验单的误区",
+    "template": "hero_text",
+    "items": [
+      "四档标准，今天一次讲透"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2155,
+    "seg_id": "S2-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第一档：健康人群",
+    "template": "list_fade",
+    "items": [
+      "无高血压、无糖尿病",
+      "不吸烟",
+      "无家族性早发心梗史"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2156,
+    "seg_id": "S2-L2",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第一档：健康人群",
+    "template": "number_center",
+    "items": [
+      "3.4"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2157,
+    "seg_id": "S2-L3",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第一档：健康人群",
+    "template": "myth_buster",
+    "items": [
+      "没有箭头就可以放心",
+      "3.4只是及格线，越低越好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2158,
+    "seg_id": "S2-L4",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第一档：健康人群",
+    "template": "step_arrow",
+    "items": [
+      "低密度每天向血管壁沉积",
+      "数值越高，沉积越快",
+      "长期累积形成动脉粥样硬化"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白在血管壁沉积形成动脉粥样硬化"
+  },
+  {
+    "global_index": 2159,
+    "seg_id": "S2-L5",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第一档：健康人群",
+    "template": "warning_alert",
+    "items": [
+      "无箭头≠可以放飞自我"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

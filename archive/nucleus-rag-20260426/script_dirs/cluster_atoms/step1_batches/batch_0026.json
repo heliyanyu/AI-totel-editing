@@ -1,0 +1,596 @@
+[
+  {
+    "global_index": 1040,
+    "seg_id": "S5-L15",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "甚至",
+      "焦虑情绪"
+    ],
+    "atoms_text": "甚至 焦虑情绪",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1041,
+    "seg_id": "S5-L16",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "都",
+      "有可能",
+      "导致"
+    ],
+    "atoms_text": "都 有可能 导致",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1042,
+    "seg_id": "S5-L17",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "如果",
+      "夜里",
+      "经常",
+      "被",
+      "憋醒"
+    ],
+    "atoms_text": "如果 夜里 经常 被 憋醒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1043,
+    "seg_id": "S5-L18",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "或者是",
+      "早上",
+      "口干舌燥的"
+    ],
+    "atoms_text": "或者是 早上 口干舌燥的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1044,
+    "seg_id": "S5-L19",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "白天",
+      "犯困"
+    ],
+    "atoms_text": "白天 犯困",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1045,
+    "seg_id": "S5-L20",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "就要",
+      "警惕",
+      "睡眠呼吸暂停综合征"
+    ],
+    "atoms_text": "就要 警惕 睡眠呼吸暂停综合征",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1046,
+    "seg_id": "S5-L21",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "这",
+      "不是",
+      "普通的",
+      "睡不好"
+    ],
+    "atoms_text": "这 不是 普通的 睡不好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1047,
+    "seg_id": "S5-L22",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "是",
+      "夜里",
+      "反复",
+      "缺氧"
+    ],
+    "atoms_text": "是 夜里 反复 缺氧",
+    "needs_animation": true,
+    "label": "睡眠呼吸暂停时气道塌陷导致夜间反复缺氧"
+  },
+  {
+    "global_index": 1048,
+    "seg_id": "S5-L23",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "hero_text",
+    "items": [
+      "长期下来"
+    ],
+    "atoms_text": "长期下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1049,
+    "seg_id": "S5-L24",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "对",
+      "心脏",
+      "和",
+      "大脑的",
+      "损伤"
+    ],
+    "atoms_text": "对 心脏 和 大脑的 损伤 很大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1050,
+    "seg_id": "S5-L25",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "需要去",
+      "呼吸科",
+      "或者",
+      "神经内科"
+    ],
+    "atoms_text": "需要去 呼吸科 或者 神经内科",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1051,
+    "seg_id": "S5-L26",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "做一个",
+      "睡眠监测"
+    ],
+    "atoms_text": "做一个 睡眠监测",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1052,
+    "seg_id": "S6-L1",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "list_fade",
+    "items": [
+      "凌晨三四点醒",
+      "再也睡不着",
+      "心急又烦躁"
+    ],
+    "atoms_text": "第三一种 就是 早醒型",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1053,
+    "seg_id": "S6-L2",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "warning_alert",
+    "items": [
+      "警惕抑郁状态",
+      "伴情绪低落"
+    ],
+    "atoms_text": "凌晨 三四点钟 就 醒了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1054,
+    "seg_id": "S6-L3",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "list_fade",
+    "items": [
+      "兴趣减退",
+      "食欲下降"
+    ],
+    "atoms_text": "三四点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1055,
+    "seg_id": "S6-L4",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "step_arrow",
+    "items": [
+      "心理或神经科",
+      "评估情绪问题"
+    ],
+    "atoms_text": "再也 睡不着了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1056,
+    "seg_id": "S6-L5",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "list_fade",
+    "items": [
+      "看着天",
+      "慢慢的",
+      "亮起来"
+    ],
+    "atoms_text": "看着天 慢慢的 亮起来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1057,
+    "seg_id": "S6-L6",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "list_fade",
+    "items": [
+      "心里",
+      "又急",
+      "又烦"
+    ],
+    "atoms_text": "心里 又急 又烦",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1058,
+    "seg_id": "S6-L7",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "list_fade",
+    "items": [
+      "这种",
+      "早醒啊"
+    ],
+    "atoms_text": "这种 早醒啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1059,
+    "seg_id": "S6-L8",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "list_fade",
+    "items": [
+      "在临床上",
+      "有一个",
+      "需要",
+      "特别警惕的",
+      "信号"
+    ],
+    "atoms_text": "在临床上 有一个 需要 特别警惕的 信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1060,
+    "seg_id": "S6-L9",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "list_fade",
+    "items": [
+      "和",
+      "抑郁状态",
+      "关系",
+      "非常密切"
+    ],
+    "atoms_text": "和 抑郁状态 关系 非常密切",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1061,
+    "seg_id": "S6-L10",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "list_fade",
+    "items": [
+      "如果您",
+      "长期的",
+      "早醒"
+    ],
+    "atoms_text": "如果您 长期的 早醒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1062,
+    "seg_id": "S6-L11",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "list_fade",
+    "items": [
+      "伴有",
+      "情绪低落"
+    ],
+    "atoms_text": "伴有 情绪低落",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1063,
+    "seg_id": "S6-L12",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "list_fade",
+    "items": [
+      "对",
+      "什么事儿啊",
+      "都",
+      "提不起来",
+      "兴趣"
+    ],
+    "atoms_text": "对 什么事儿啊 都 提不起来 兴趣",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1064,
+    "seg_id": "S6-L13",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "hero_text",
+    "items": [
+      "食欲下降"
+    ],
+    "atoms_text": "食欲下降",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1065,
+    "seg_id": "S6-L14",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "list_fade",
+    "items": [
+      "别光想着",
+      "失眠"
+    ],
+    "atoms_text": "别光想着 失眠",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1066,
+    "seg_id": "S6-L15",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "list_fade",
+    "items": [
+      "要找",
+      "心理科医生",
+      "或者",
+      "神经内科"
+    ],
+    "atoms_text": "要找 心理科医生 或者 神经内科",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1067,
+    "seg_id": "S6-L16",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "早醒型障碍",
+    "template": "list_fade",
+    "items": [
+      "评估一下",
+      "情绪问题"
+    ],
+    "atoms_text": "评估一下 情绪问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1068,
+    "seg_id": "S7-L1",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "非恢复性睡眠",
+    "template": "split_column",
+    "items": [
+      "睡够七八小时",
+      "醒后依然疲惫"
+    ],
+    "atoms_text": "第四种 非恢复型的 睡眠型的 障碍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1069,
+    "seg_id": "S7-L2",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "非恢复性睡眠",
+    "template": "brick_stack",
+    "items": [
+      "深度睡眠不足",
+      "大脑未得休息",
+      "睡眠质量差"
+    ],
+    "atoms_text": "睡够了 还是 累",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1070,
+    "seg_id": "S7-L3",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "非恢复性睡眠",
+    "template": "list_fade",
+    "items": [
+      "长期低头焦虑",
+      "睡眠节律紊乱"
+    ],
+    "atoms_text": "有的人 能睡 七八个小时",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1071,
+    "seg_id": "S7-L4",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "非恢复性睡眠",
+    "template": "list_fade",
+    "items": [
+      "也",
+      "不怎么",
+      "醒"
+    ],
+    "atoms_text": "也 不怎么 醒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1072,
+    "seg_id": "S7-L5",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "非恢复性睡眠",
+    "template": "list_fade",
+    "items": [
+      "但",
+      "第二天早上",
+      "起来"
+    ],
+    "atoms_text": "但 第二天早上 起来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1073,
+    "seg_id": "S7-L6",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "非恢复性睡眠",
+    "template": "list_fade",
+    "items": [
+      "就像",
+      "没睡",
+      "一样"
+    ],
+    "atoms_text": "就像 没睡 一样",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1074,
+    "seg_id": "S7-L7",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "非恢复性睡眠",
+    "template": "hero_text",
+    "items": [
+      "昏头胀脑"
+    ],
+    "atoms_text": "昏头胀脑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1075,
+    "seg_id": "S7-L8",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "非恢复性睡眠",
+    "template": "hero_text",
+    "items": [
+      "浑身乏力"
+    ],
+    "atoms_text": "浑身乏力",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1076,
+    "seg_id": "S7-L9",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "非恢复性睡眠",
+    "template": "list_fade",
+    "items": [
+      "这种啊",
+      "叫",
+      "非恢复性睡眠"
+    ],
+    "atoms_text": "这种啊 叫 非恢复性睡眠",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1077,
+    "seg_id": "S7-L10",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "非恢复性睡眠",
+    "template": "list_fade",
+    "items": [
+      "说明啊",
+      "你的",
+      "睡眠质量",
+      "出了",
+      "问题"
+    ],
+    "atoms_text": "说明啊 你的 睡眠质量 出了 问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1078,
+    "seg_id": "S7-L11",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "非恢复性睡眠",
+    "template": "list_fade",
+    "items": [
+      "虽然",
+      "睡着了"
+    ],
+    "atoms_text": "虽然 睡着了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1079,
+    "seg_id": "S7-L12",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "非恢复性睡眠",
+    "template": "list_fade",
+    "items": [
+      "但是",
+      "深度睡眠",
+      "不够"
+    ],
+    "atoms_text": "但是 深度睡眠 不够",
+    "needs_animation": true,
+    "label": "睡眠周期中深度睡眠阶段不足"
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "global_index": 1320,
+    "seg_id": "S2-L1",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "吃蛋白质的核心原则",
+    "template": "hero_text",
+    "items": [
+      "肾病吃蛋白质核心：精准"
+    ],
+    "atoms_text": "其实肾病患者 吃蛋白质的核心 就两个字 精准",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1321,
+    "seg_id": "S2-L2",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "吃蛋白质的核心原则",
+    "template": "split_column",
+    "items": [
+      "按肾功能分期调整",
+      "同时兼顾量与种类"
+    ],
+    "atoms_text": "需要根据你的肾功能分期 吃对量 吃对种类",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1322,
+    "seg_id": "S3-L1",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "一二期：接近正常饮食",
+    "template": "category_table",
+    "items": [
+      "肾功能基本正常",
+      "仅有轻微蛋白尿"
+    ],
+    "atoms_text": "如果你是 慢性肾脏病一期二期 也就是 肾功能基本正常 只有轻微蛋白尿的 其实你和正常人 差别不大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1323,
+    "seg_id": "S3-L2",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "一二期：接近正常饮食",
+    "template": "number_center",
+    "items": [
+      "0.8～1"
+    ],
+    "atoms_text": "每天每公斤体重 零点八克到一克蛋白质 肉蛋奶 该吃就吃",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1324,
+    "seg_id": "S4-L1",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "vertical_timeline",
+    "items": [
+      "三四期：肌酐明显升高",
+      "尚未开始透析治疗"
+    ],
+    "atoms_text": "如果你到了 慢性肾脏病三期四期 肌酐已经明显开始升高了 但还是没有开始透析",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1325,
+    "seg_id": "S4-L2",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "number_center",
+    "items": [
+      "0.6～0.8"
+    ],
+    "atoms_text": "这个时候 我们需要 适当的限制蛋白质的摄入 每天每公斤体重 大概零点六到零点八克",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1326,
+    "seg_id": "S4-L3",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "list_fade",
+    "items": [
+      "每天一个鸡蛋",
+      "每天一杯牛奶",
+      "手掌心大小的瘦肉一两多"
+    ],
+    "atoms_text": "比如一个六十公斤的人 每天大概需要 四十克左右的蛋白质",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1327,
+    "seg_id": "S4-L4",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "hero_text",
+    "items": [
+      "有限配额中优质蛋白须过半"
+    ],
+    "atoms_text": "一天一个鸡蛋 一杯牛奶 再加一块 跟你手掌心差不多大小的瘦肉 大概就是一两多一点 就够了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1328,
+    "seg_id": "S4-L5",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "color_grid",
+    "items": [
+      "蛋",
+      "奶",
+      "鱼与瘦肉",
+      "大豆制品适量"
+    ],
+    "atoms_text": "但这里面有 一个非常关键的要求 就是这个有限的蛋白质配额里面 至少要有一半以上 是优质蛋白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1329,
+    "seg_id": "S4-L6",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "step_arrow",
+    "items": [
+      "必需氨基酸种类更齐全",
+      "身体利用率更高",
+      "同等量更满足身体需求"
+    ],
+    "atoms_text": "主要包括的是 蛋奶鱼瘦肉的 大豆制品 也可以适量的选择",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1330,
+    "seg_id": "S4-L7",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "split_column",
+    "items": [
+      "鱼肉蛋奶氨基酸全面",
+      "米面馒头氨基酸不齐全"
+    ],
+    "atoms_text": "因为这些蛋白质里面 必需氨基酸更齐全 身体利用率会更高 相对来说 同样的量 会更好的满足身体需要",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1331,
+    "seg_id": "S4-L8",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "hero_text",
+    "items": [
+      "把蛋白质额度花在刀刃上"
+    ],
+    "atoms_text": "而米面馒头里面 自带的蛋白质 氨基酸组成 没有那么全面 身体利用起来 效率会差一些",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1332,
+    "seg_id": "S4-L9",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "step_arrow",
+    "items": [
+      "部分主食换成低蛋白淀粉食品",
+      "主食蛋白占用额度降低",
+      "更多配额留给肉蛋奶"
+    ],
+    "atoms_text": "所以肾功能不好的人 额度本来就有限 当然要把钱花在刀刃上",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1333,
+    "seg_id": "S4-L10",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "hero_text",
+    "items": [
+      "省出额度，优先补充优质蛋白"
+    ],
+    "atoms_text": "主食可以换一部分 低蛋白的淀粉食品 把省下来的蛋白质额度 留给肉蛋奶",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1334,
+    "seg_id": "S5-L1",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "五期透析：反向补充",
+    "template": "hero_text",
+    "items": [
+      "进入透析，饮食策略需反转"
+    ],
+    "atoms_text": "那如果已经到了 慢性肾脏病五期 开始进行透析了呢 这个时候的饮食策略 就要反过来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1335,
+    "seg_id": "S5-L2",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "五期透析：反向补充",
+    "template": "step_arrow",
+    "items": [
+      "透析过滤代谢废物",
+      "同时带走氨基酸与蛋白质",
+      "蛋白质持续流失需补充"
+    ],
+    "atoms_text": "因为每次透析的时候 机器不光是过滤掉了代谢废物 也会顺带过滤走 一部分氨基酸和蛋白质",
+    "needs_animation": true,
+    "label": "透析机过滤代谢废物时同时带走氨基酸和蛋白质"
+  },
+  {
+    "global_index": 1336,
+    "seg_id": "S5-L3",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "五期透析：反向补充",
+    "template": "number_center",
+    "items": [
+      "1.0～1.2"
+    ],
+    "atoms_text": "这个时候 你不能再限制蛋白质了 反而要吃到 每天每公斤体重 一到一点二克 很多情况下 需要接近一点二克 甚至更高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1337,
+    "seg_id": "S5-L4",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "五期透析：反向补充",
+    "template": "warning_alert",
+    "items": [
+      "营养跟不上透析效果大打折扣"
+    ],
+    "atoms_text": "把透析流失的营养 给补回来 不然营养跟不上 透析的效果 也会打折扣",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1338,
+    "seg_id": "S6-L1",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "总结与行动建议",
+    "template": "warning_alert",
+    "items": [
+      "肾脏不好别听信只能吃素"
+    ],
+    "atoms_text": "所以肾脏不好 千万别听信偏方 说只能吃素",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1339,
+    "seg_id": "S6-L2",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "总结与行动建议",
+    "template": "vertical_timeline",
+    "items": [
+      "一二期：正常量饮食",
+      "三四期：限量精准吃",
+      "五期透析：适当增加摄入"
+    ],
+    "atoms_text": "一期二期正常吃 三期四期限量吃 五期透析 反而要适当的多吃",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1340,
+    "seg_id": "S6-L3",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "科学饮食本身就是在保护肾脏"
+    ],
+    "atoms_text": "吃的科学 本身就是在保护肾脏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1341,
+    "seg_id": "S6-L4",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "说清楚了吗？欢迎留言提问"
+    ],
+    "atoms_text": "我都说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1342,
+    "seg_id": "S1-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "开场警示",
+    "template": "warning_alert",
+    "items": [
+      "乱吃护心保健品进医院的人不在少数"
+    ],
+    "atoms_text": "乱吃 护心保健品 把自己吃进医院的人啊 不在少数",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1343,
+    "seg_id": "S1-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "开场警示",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "atoms_text": "三幺五刚过 我诊室里 一天就来了三个 花了大价钱 买所谓的 护心神药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1344,
+    "seg_id": "S1-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "开场警示",
+    "template": "warning_alert",
+    "items": [
+      "没治好病反而身体更受伤",
+      "差点要了命"
+    ],
+    "atoms_text": "结果不仅没治好病 反而把身体啊 伤的更厉害 差点要了命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1345,
+    "seg_id": "S1-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "开场警示",
+    "template": "hero_text",
+    "items": [
+      "今天拆穿四大护心骗局"
+    ],
+    "atoms_text": "今天我就把 市面上最常见的 四个护心骗局 全给大家拆穿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1346,
+    "seg_id": "S1-L5",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "开场警示",
+    "template": "list_fade",
+    "items": [
+      "家里有老人的一定看完",
+      "转发给爸妈少花冤枉钱",
+      "更能救他们一命"
+    ],
+    "atoms_text": "家里有老人的 一定要看完 转发给咱爸妈 不仅能帮他们 少花大笔的冤枉钱 更能救他们一命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1347,
+    "seg_id": "S2-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "vertical_timeline",
+    "items": [
+      "背景：72岁老人冠心病放两个支架",
+      "转折：听讲座被劝停药买护心胶囊",
+      "上当：花8万多停掉所有正规药物",
+      "后果：不到三月再次急性心梗",
+      "抢救：三个多小时才脱离危险"
+    ],
+    "atoms_text": "我印象里最深的呀 是上个月急诊收的 一个七十二岁的老爷子",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1348,
+    "seg_id": "S2-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "hero_text",
+    "items": [
+      "钱花了，命也差点没了"
+    ],
+    "atoms_text": "有冠心病 放过两个支架 本来一直遵医嘱吃药的 控制的很好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1349,
+    "seg_id": "S2-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "warning_alert",
+    "items": [
+      "擅自停药随时可能诱发心梗"
+    ],
+    "atoms_text": "结果为了领两金鸡蛋 去听保健品的讲座 人家说他吃的他听 伤肝伤肾 说他们的护心胶囊 能根治冠心病 不用吃西药 就能让血管通的干干净净",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1350,
+    "seg_id": "S2-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "number_center",
+    "items": [
+      "3小时"
+    ],
+    "atoms_text": "老爷子一下子就信了 花了八万多 把医生开的药全停了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1351,
+    "seg_id": "S2-L5",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "hero_text",
+    "items": [
+      "又心疼又生气，太多老人被坑"
+    ],
+    "atoms_text": "结果吃了不到三个月 再次突发急性心梗 送到急诊的时候 血管已经全都堵死了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1352,
+    "seg_id": "S2-L6",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "list_fade",
+    "items": [
+      "老年患者最容易轻信",
+      "花大钱买到的是伤害"
+    ],
+    "atoms_text": "前前后后 我们抢救了三个多小时 才把他从鬼门关拉回来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1353,
+    "seg_id": "S2-L7",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "hero_text",
+    "items": [
+      "四大骗局逐一拆穿"
+    ],
+    "atoms_text": "我在急诊 看着老爷子躺在病床上 说实话 又心疼是又生气",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1354,
+    "seg_id": "S2-L8",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "warning_alert",
+    "items": [
+      "太多老人被护心神药坑害"
+    ],
+    "atoms_text": "太多太多的老人啊 被这些所谓的护心神药给坑了 钱花了 命也差点没了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1355,
+    "seg_id": "S3-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局总览",
+    "template": "color_grid",
+    "items": [
+      "号称根治冠心病的保健品",
+      "号称打通血管的磁疗仪",
+      "号称替代他汀阿司匹林的产品",
+      "打着名医秘方旗号的护心药"
+    ],
+    "atoms_text": "咱们今天 就一个一个讲清楚 市面上最常见的 这四个护心骗局",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1356,
+    "seg_id": "S4-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局一：根治斑块",
+    "template": "hero_text",
+    "items": [
+      "骗局一：号称根治冠心病逆转斑块"
+    ],
+    "atoms_text": "第一个骗局呢 号称能根治冠心病 逆转斑块的保健品",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1357,
+    "seg_id": "S4-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局一：根治斑块",
+    "template": "myth_buster",
+    "items": [
+      "某些保健品能根治冠心病",
+      "全世界没有任何保健品能根治冠心病",
+      "某些产品可以逆转已形成的斑块",
+      "斑块一旦形成无法被保健品逆转"
+    ],
+    "atoms_text": "我说一句大实话 到目前为止啊 全世界 没有任何一种保健品 能根治冠心病 也没有任何一种 能逆转已经形成的斑块",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1358,
+    "seg_id": "S4-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局一：根治斑块",
+    "template": "split_column",
+    "items": [
+      "冠心病等于血管老化",
+      "白发皱纹无法逆转",
+      "只能控制不能根治",
+      "正规治疗才是正道"
+    ],
+    "atoms_text": "冠心病是血管的老化 就跟你的白头发皱纹一样 只能通过正规的治疗去控制 不能根治",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1359,
+    "seg_id": "S4-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局一：根治斑块",
+    "template": "warning_alert",
+    "items": [
+      "说能根治冠心病的全是假的",
+      "说能消斑块的全是假的"
+    ],
+    "atoms_text": "所以啊 凡是跟你说 能根治冠心病 能消斑块的 不管他说的是什么 中药还是保健品 全都是假的",
+    "needs_animation": false,
+    "label": ""
+  }
+]

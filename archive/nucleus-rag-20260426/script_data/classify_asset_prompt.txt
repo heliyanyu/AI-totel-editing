@@ -1,0 +1,146 @@
+以下是医学动画素材的英文旁白片段。请为每个片段标注它属于哪个分类编号。
+
+规则：
+- 只看这段原文讲的内容属于哪个分类，直接归类，不要提炼概括
+- 每个片段标1个最匹配的分类编号
+- 如果没有合适的分类，写"0:画面描述"
+
+分类列表（共115个）：
+1. 无需动画
+2. 低密度脂蛋白在血管壁沉积过程
+3. 动脉粥样硬化斑块形成过程
+4. 斑块破裂与血栓形成导致心肌梗死
+5. 动脉粥样硬化斑块内部结构
+6. 冠状动脉狭窄与心肌缺血
+7. 冠脉支架植入过程
+8. 支架内再狭窄过程
+9. 冠状动脉造影原理
+10. 冠状动脉搭桥手术
+11. 冠状动脉侧支循环建立
+12. 他汀类药物抑制胆固醇合成机制
+13. 心脏电传导系统示意
+14. 心电图检测心脏电活动原理
+15. 心肌缺血时心电图波形变化
+16. 心房颤动时心房电信号紊乱示意
+17. 心室颤动与心脏骤停
+18. 心脏电传导异常导致心律失常
+19. 阿司匹林抑制血小板聚集机制
+20. 胰岛素分泌与血糖调节
+21. 胰岛素抵抗与β细胞功能衰竭
+22. 脑血管闭塞与脑梗塞
+23. 脑出血
+24. 血压形成与血管壁受力
+25. 血压调节机制
+26. 肾脏调节血压机制
+27. 血压测量原理
+28. 长期高血压对血管壁损伤
+29. 降压药作用机制
+30. 交感神经兴奋致血管收缩与血压升高
+31. 自主神经系统调节
+32. 肾小球滤过机制
+33. 肾单位损伤与功能丧失
+34. 免疫细胞识别与攻击病原体
+35. 肝脏胆固醇合成与代谢
+36. 内外源性血脂来源与比例
+37. 药物血药浓度变化曲线
+38. 药物在肝脏代谢过程
+39. 心肺复苏操作示意
+40. 细胞癌变过程
+41. 肿瘤生长与转移
+42. 酒精在肝脏代谢与损伤
+43. 脂肪肝形成过程
+44. 嘌呤代谢与尿酸生成通路
+45. 胃食管反流机制
+46. 阿尔茨海默病β淀粉样蛋白沉积
+47. 高血糖损伤微血管
+48. 乙肝病毒感染与免疫反应
+49. 心脏药物作用靶点示意
+50. 下肢水肿机制
+51. 心肌缺血引发胸痛放射痛的神经传导
+52. 心脏彩超检测原理
+53. 胸痛鉴别诊断解剖示意
+54. 新冠病毒入侵细胞过程
+55. 肝脏细胞损伤与转氨酶释放
+56. 血液流变学与红细胞聚集
+57. 膝关节软骨退化与骨性关节炎
+58. 药物洗脱支架药物释放机制
+59. 药物球囊扩张血管并释放药物
+60. GLP-1受体激动剂作用机制
+61. 体重反弹时脂肪细胞变化
+62. 快速减肥时肌肉流失与代谢率下降
+63. 脂肪细胞分解与能量代谢
+64. 卵圆孔未闭时血流异常
+65. 体温调节与发热过程
+66. 长期高血压对靶器官损害
+67. 大面积心肌梗死导致心源性休克
+68. 冠状动脉钙化积分CT扫描原理
+69. 冠状动脉微循环障碍
+70. 心脏四腔结构与瓣膜运动
+71. 心脏整体结构与常见心脏病分类
+72. 心衰时心室扩张与泵血效率下降
+73. 射频消融术
+74. AED除颤仪电击恢复心律
+75. 颈动脉斑块位置与大脑供血关系
+76. 胆固醇在细胞膜中的结构功能
+77. 脂蛋白颗粒结构与转运
+78. 同型半胱氨酸代谢与叶酸甲基化
+79. 关节软骨运动中营养代谢
+80. 运动时血管壁剪切力变化
+81. 维生素吸收与代谢
+82. 血压昼夜波动节律
+83. 血压水平与心脑血管风险关系曲线
+84. 高血压导致肾小球损伤
+85. 肾上腺与肾动脉异常导致继发性高血压
+86. 血液尿酸水平与肾脏排泄
+87. 尿酸结晶在关节沉积
+88. 免疫系统监视与清除癌细胞
+89. 病毒在体内复制但被免疫抑制
+90. 新冠病毒感染心肌细胞导致心肌炎
+91. 肺泡组织病变
+92. 气道炎症反应与咳嗽反射弧
+93. 果糖在肝脏代谢转化为脂肪
+94. 肝脏从脂肪肝到肝硬化到肝癌进展
+95. 胃黏膜保护层被破坏导致溃疡
+96. 结肠息肉与癌变
+97. 正常大脑与萎缩大脑对比
+98. 内耳耳蜗毛细胞损伤
+99. 听觉神经通路
+100. 糖尿病多器官并发症全景
+101. 血红蛋白与葡萄糖结合糖化过程
+102. 胰岛素大量分泌导致血糖骤降
+103. 下丘脑饥饿信号与瘦素抵抗
+104. 糖类摄入后大脑多巴胺奖赏通路激活
+105. 内脏脂肪堆积与代谢综合征
+106. 进食过量时胃扩张与消化系统负荷
+107. 甲状腺激素调节代谢
+108. 卵巢功能衰退与激素水平变化
+109. 睡眠周期与脑电波变化
+110. 骨髓造血过程与血细胞分化
+111. 骨骼肌纤维萎缩与流失
+112. 脑卒中预警信号对应脑区功能
+113. 腰椎间盘突出压迫神经根
+114. 荔枝中次甲基环丙基甘氨酸抑制糖异生
+115. 低血压导致器官灌注不足
+
+素材片段：
+1. [Heart Failure Treatment_ Lifes] Limit the amount of fluid you drink. Ask your healthcare provider how much fluid you should drink each day. And remember, a heart healthy diet doesn't
+2. [Heart Failure Treatment_ Lifes] Also, check with your healthcare provider about an exercise plan that's right for you. 30 minutes of daily low impact exercise can help strengthen you
+3. [Heart Failure Treatment_ Lifes] Talk to your healthcare provider if you have any questions about lifestyle changes to help you manage heart failure.
+4. [Heart Failure Treatment_ Medic] Your doctor may prescribe one or more types of medication to treat your heart failure.
+5. [Heart Failure Treatment_ Medic] Diuretic medications reduce the swelling in your body by increasing the amount of urine produced by your kidneys.
+6. [Heart Failure Treatment_ Medic] Ace inhibitors are medications that allow your blood vessels to expand. This helps decrease your blood pressure and prevents further damage to your he
+7. [Heart Failure Treatment_ Medic] Beta blockers are medications that block the effects of stress hormones on your heart. Although beta blockers slow down your heartbeat, they are mainl
+8. [Heart Failure Treatment_ Proce] This video will help you understand the main surgical procedures done to treat heart failure. Please watch the entire video to learn about the surgeri
+9. [Heart Failure Treatment_ Proce] Surgery for advanced heart failure include coronary artery bypass surgery to improve blood flow to your heart muscle.
+10. [Heart Failure Treatment_ Proce] And heart valve reconstruction surgery to improve blood flow through your heart.
+11. [Heart Failure Treatment_ Proce] If the heart remains weak with standard heart failure treatments, advanced treatment options for severe heart failure include insertion of a pump for 
+12. [Heart Failure Treatment_ Proce] Another advanced treatment for severe heart failure is a heart transplant.
+13. [Heart Failure Treatment_ Proce] If you have advanced heart failure, your surgeon will determine the best type of treatment for you. The first step is to get the heart transplant. The
+14. [Normal Anatomy and Function of] Your heart is a muscular organ that pumps blood containing the oxygen and nutrients your body needs. The pumping sections of the heart are the right a
+15. [Normal Anatomy and Function of] In your heart, oxygen poor blood flows from your body through large veins into your right atrium.
+16. [Normal Anatomy and Function of] Next, your blood moves into your right ventricle, which contracts, sending blood out of the heart to pick up oxygen from your lungs.
+17. [Normal Anatomy and Function of] Oxygen rich blood moves out of your lungs into your left atrium, then moves into your left ventricle.
+18. [Normal Anatomy and Function of] Finally, your left ventricle contracts, sending oxygen rich blood out of your heart to
+
+输出格式（每行一个）：
+编号 → 分类编号

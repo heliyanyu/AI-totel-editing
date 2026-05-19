@@ -1,0 +1,558 @@
+[
+  {
+    "global_index": 2000,
+    "seg_id": "S1-L4",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "肾脏为何不报警",
+    "template": "warning_alert",
+    "items": [
+      "肾小球硬化坏死时毫无痛感"
+    ],
+    "atoms_text": "肾小球呢 在受伤 在硬化 在一个个坏掉的时候 你是感觉不到疼的",
+    "needs_animation": true,
+    "label": "肾小球逐个硬化坏死的病理过程"
+  },
+  {
+    "global_index": 2001,
+    "seg_id": "S1-L5",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "肾脏为何不报警",
+    "template": "list_fade",
+    "items": [
+      "囊肿或肿瘤撑大牵拉包膜",
+      "结石掉入输尿管造成梗阻"
+    ],
+    "atoms_text": "只有当 肾脏被囊肿肿瘤撑大 牵拉到外面的包膜 或者是 结石掉进输尿管 造成梗阻 你才会明显的感觉到疼",
+    "needs_animation": true,
+    "label": "囊肿撑大肾脏牵拉包膜及结石落入输尿管造成梗阻"
+  },
+  {
+    "global_index": 2002,
+    "seg_id": "S1-L6",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "肾脏为何不报警",
+    "template": "myth_buster",
+    "items": [
+      "疼痛 = 肾功能在报警",
+      "疼痛 = 结构被拉扯堵住"
+    ],
+    "atoms_text": "这种疼呢 更多是 结构被拉扯 被堵住了 而不是 肾功能在报警",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2003,
+    "seg_id": "S2-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "沉默的慢性肾病",
+    "template": "list_fade",
+    "items": [
+      "慢性肾炎",
+      "糖尿病肾病",
+      "高血压肾损害"
+    ],
+    "atoms_text": "而真正 最常见也最危险的 慢性肾病 比如说 慢性肾炎 糖尿病肾病 高血压肾损害 病变发生在 肾小球和肾小管",
+    "needs_animation": true,
+    "label": "慢性肾病病变定位于肾小球和肾小管"
+  },
+  {
+    "global_index": 2004,
+    "seg_id": "S2-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "沉默的慢性肾病",
+    "template": "hero_text",
+    "items": [
+      "肾脏不会主动提醒你"
+    ],
+    "atoms_text": "这个过程呢 很安静 没有疼痛 没有强烈不适 肾脏也不会 主动提醒你",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2005,
+    "seg_id": "S2-L3",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "沉默的慢性肾病",
+    "template": "number_center",
+    "items": [
+      "200万"
+    ],
+    "atoms_text": "更关键的呢 肾脏代偿能力 非常强 两侧肾脏加起来 大约有 两百万个肾小球",
+    "needs_animation": true,
+    "label": "两百万个肾小球的代偿机制"
+  },
+  {
+    "global_index": 2006,
+    "seg_id": "S2-L4",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "沉默的慢性肾病",
+    "template": "hero_text",
+    "items": [
+      "坏掉一半仍能勉强排毒"
+    ],
+    "atoms_text": "就算已经 坏掉一半 剩下的 仍然能够 勉强维持排毒",
+    "needs_animation": true,
+    "label": "半数肾小球坏死后剩余肾单位代偿维持排毒"
+  },
+  {
+    "global_index": 2007,
+    "seg_id": "S2-L5",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "沉默的慢性肾病",
+    "template": "myth_buster",
+    "items": [
+      "有症状才说明肾有问题",
+      "无症状时化验单可能已异常"
+    ],
+    "atoms_text": "这时候 你没症状 化验单 可能只是 轻度的异常 甚至还在 正常边缘",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2008,
+    "seg_id": "S2-L6",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "沉默的慢性肾病",
+    "template": "warning_alert",
+    "items": [
+      "乏力水肿夜尿增多食欲下降",
+      "这些信号出现往往已不是早期"
+    ],
+    "atoms_text": "等到 乏力 水肿 夜尿增多 食欲下降 这些信号出现时 往往已经 不是早期了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2009,
+    "seg_id": "S3-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第一步：戒含糖饮料",
+    "template": "hero_text",
+    "items": [
+      "保护肾脏，必做这五件事"
+    ],
+    "atoms_text": "所以呢 想要避免 走到这一步 想要保护好肾脏 一定要做好 这五件事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2010,
+    "seg_id": "S3-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第一步：戒含糖饮料",
+    "template": "hero_text",
+    "items": [
+      "第一：别喝含糖饮料"
+    ],
+    "atoms_text": "第一呢 别喝含糖的饮料",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2011,
+    "seg_id": "S3-L3",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第一步：戒含糖饮料",
+    "template": "step_arrow",
+    "items": [
+      "迅速升高血糖与胰岛素水平",
+      "加重胰岛素抵抗",
+      "促进炎症反应损伤肾脏"
+    ],
+    "atoms_text": "含糖饮料 进入身体后呢 会迅速升高 血糖和胰岛素水平 长期下来呢 会加重 胰岛素的抵抗 促进炎症反应",
+    "needs_animation": true,
+    "label": "含糖饮料升高血糖胰岛素引发胰岛素抵抗和炎症反应"
+  },
+  {
+    "global_index": 2012,
+    "seg_id": "S4-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第二步：限盐",
+    "template": "hero_text",
+    "items": [
+      "第二：盐一定要少吃"
+    ],
+    "atoms_text": "第二呢 盐一定要少",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2013,
+    "seg_id": "S4-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第二步：限盐",
+    "template": "step_arrow",
+    "items": [
+      "钠离子潴留体内",
+      "血容量增加血压升高"
+    ],
+    "atoms_text": "盐吃多了 钠离子在体内潴留 血容量增加 血压自然就高",
+    "needs_animation": true,
+    "label": "钠离子潴留导致血容量增加血压升高"
+  },
+  {
+    "global_index": 2014,
+    "seg_id": "S4-L3",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第二步：限盐",
+    "template": "warning_alert",
+    "items": [
+      "高压长期冲击肾小球滤网受损"
+    ],
+    "atoms_text": "肾小球 长期处在 这个过滤状态 就像 一直用高水压的 这个冲过滤网 时间一长呢 结构一定会受损",
+    "needs_animation": true,
+    "label": "肾小球在高滤过压下长期受损"
+  },
+  {
+    "global_index": 2015,
+    "seg_id": "S5-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第三步：慎用药物",
+    "template": "hero_text",
+    "items": [
+      "第三：不要乱吃来路不明的药"
+    ],
+    "atoms_text": "第三呢 不要乱吃药 尤其是 来路不明的中药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2016,
+    "seg_id": "S5-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第三步：慎用药物",
+    "template": "color_grid",
+    "items": [
+      "马兜铃酸",
+      "重金属"
+    ],
+    "atoms_text": "有些中药里面 可能含有 马兜铃酸 或者是重金属",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2017,
+    "seg_id": "S5-L3",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第三步：慎用药物",
+    "template": "body_annotate",
+    "items": [
+      "直接损伤肾小管细胞",
+      "影响肾脏排毒功能"
+    ],
+    "atoms_text": "这些成分呢 会直接损伤 肾小管细胞 影响肾脏的排毒功能",
+    "needs_animation": true,
+    "label": "马兜铃酸直接损伤肾小管细胞"
+  },
+  {
+    "global_index": 2018,
+    "seg_id": "S5-L4",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第三步：慎用药物",
+    "template": "warning_alert",
+    "items": [
+      "损伤慢性积累且不可逆",
+      "发现时肾功能已明显下降"
+    ],
+    "atoms_text": "而且呢 这种损伤 往往是慢性的 不可逆的 等发现的时候 肾功能 已经明显下降",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2019,
+    "seg_id": "S6-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第四步：规律睡眠",
+    "template": "hero_text",
+    "items": [
+      "第四：别长期熬夜"
+    ],
+    "atoms_text": "四呢 就是别长期熬夜 别让身体 一直处在 这个高负荷的状态",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2020,
+    "seg_id": "S6-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第四步：规律睡眠",
+    "template": "brick_stack",
+    "items": [
+      "激活交感神经与炎症通路",
+      "血压血糖更难控制",
+      "肾脏修复能力明显下降"
+    ],
+    "atoms_text": "长期睡眠不足 会激活 交感神经和炎症通路 让血压血糖 更难控制 肾脏修复能力 也会明显下降",
+    "needs_animation": true,
+    "label": "睡眠不足激活交感神经和炎症通路"
+  },
+  {
+    "global_index": 2021,
+    "seg_id": "S7-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第五步：管好基础病",
+    "template": "hero_text",
+    "items": [
+      "第五：把高血压糖尿病管好"
+    ],
+    "atoms_text": "最后一件事 也是最关键的 就是一定要 把高血压糖尿病 这些基础病 管好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2022,
+    "seg_id": "S7-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第五步：管好基础病",
+    "template": "warning_alert",
+    "items": [
+      "高血压糖尿病是慢性肾衰主要源头"
+    ],
+    "atoms_text": "它们不是小问题 而是 慢性肾衰竭 最重要的源头",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2023,
+    "seg_id": "S7-L3",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第五步：管好基础病",
+    "template": "hero_text",
+    "items": [
+      "血压血糖稳住，肾小球才安全"
+    ],
+    "atoms_text": "血压血糖稳住了 肾小球的生存环境 才算真正安全",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2024,
+    "seg_id": "S8-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "结语：提前重视长期管理",
+    "template": "hero_text",
+    "items": [
+      "肾脏问题在沉默中一点点积累"
+    ],
+    "atoms_text": "肾脏的问题 从来不是 突然出现的 而是 在沉默中 一点点积累起来的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2025,
+    "seg_id": "S8-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "结语：提前重视长期管理",
+    "template": "hero_text",
+    "items": [
+      "提前重视，别等最后的信号"
+    ],
+    "atoms_text": "提前重视 长期管理 别等身体 给你最后的信号 才后悔 嗯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2026,
+    "seg_id": "S1-L1",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的玻璃心",
+    "template": "color_grid",
+    "items": [
+      "睡多睡少都不行",
+      "闻到怪味就发作",
+      "头吹风不行",
+      "洗头不吹干也不行"
+    ],
+    "atoms_text": "睡多了不行 睡少了不行 躺久了也不行 闻到怪味也不行 头吹风不行 洗完头不吹干也不行",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2027,
+    "seg_id": "S1-L2",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的玻璃心",
+    "template": "hero_text",
+    "items": [
+      "偏头痛像玻璃心，稍不注意就发作"
+    ],
+    "atoms_text": "明明没干什么 偏头痛 就像个玻璃心 稍不注意就会发作",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2028,
+    "seg_id": "S1-L3",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的玻璃心",
+    "template": "hero_text",
+    "items": [
+      "今天帮你摸清偏头痛的脾气"
+    ],
+    "atoms_text": "今天我们来聊聊这个病 帮大家摸清它的脾气",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2029,
+    "seg_id": "S2-L1",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛 vs 普通头痛",
+    "template": "hero_text",
+    "items": [
+      "如何区别偏头痛和普通头痛？"
+    ],
+    "atoms_text": "首先我们说下 怎么区别 普通头痛和偏头痛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2030,
+    "seg_id": "S2-L2",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛 vs 普通头痛",
+    "template": "list_fade",
+    "items": [
+      "慢性神经血管性疾病",
+      "单侧头部发作性跳痛胀痛"
+    ],
+    "atoms_text": "偏头痛呢 是一种慢性神经血管性疾病 它最典型的表现呢 就是单侧头部 发作性的 跳痛胀痛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2031,
+    "seg_id": "S2-L3",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛 vs 普通头痛",
+    "template": "color_grid",
+    "items": [
+      "坐立不安、剧烈疼痛",
+      "恶心呕吐",
+      "畏光",
+      "听不得噪音"
+    ],
+    "atoms_text": "疼起来能让人坐立不安 还可能跟着 恶心啊 呕吐啊 见不得光 听不得噪音 严重的时候 连动一下都疼",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2032,
+    "seg_id": "S2-L4",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛 vs 普通头痛",
+    "template": "warning_alert",
+    "items": [
+      "眼前闪光、暗点为先兆信号",
+      "单侧肢体麻木：先兆偏头痛"
+    ],
+    "atoms_text": "发作之前呢 还会有预警的信号 比如说 眼前出现闪光暗点 或者是单侧的肢体麻木 这在医学上叫做先兆偏头痛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2033,
+    "seg_id": "S2-L5",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛 vs 普通头痛",
+    "template": "split_column",
+    "items": [
+      "双侧脑袋胀痛",
+      "单侧跳痛、胀痛",
+      "无明显恶心畏光",
+      "伴恶心呕吐畏光",
+      "程度轻微，忍忍可过",
+      "严重影响日常活动"
+    ],
+    "atoms_text": "而普通的头痛呢 大多数是双侧脑袋胀痛 没有明显的恶心畏光症状 程度呢也相对轻微 忍一忍基本就能过去",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2034,
+    "seg_id": "S3-L1",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的四大诱因",
+    "template": "hero_text",
+    "items": [
+      "为什么会得偏头痛？女性为何更易中招？"
+    ],
+    "atoms_text": "那为什么会得偏头痛呢 尤其为什么女性更容易中招呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2035,
+    "seg_id": "S3-L2",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的四大诱因",
+    "template": "number_center",
+    "items": [
+      "4"
+    ],
+    "atoms_text": "其实它的诱因非常复杂 主要是和四个因素相关",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2036,
+    "seg_id": "S3-L3",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的四大诱因",
+    "template": "brick_stack",
+    "items": [
+      "遗传因素：家族聚集性明显",
+      "父母有偏头痛",
+      "子女患病风险增加2~3倍"
+    ],
+    "atoms_text": "一是遗传因素 有明显的家族聚集性 父母有偏头痛 子女患病风险会增加两到三倍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2037,
+    "seg_id": "S3-L4",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的四大诱因",
+    "template": "step_arrow",
+    "items": [
+      "神经递质紊乱",
+      "脑血管收缩舒张异常",
+      "直接诱发疼痛"
+    ],
+    "atoms_text": "二是神经血管因素 大脑神经递质紊乱 脑血管收缩舒张异常 会直接诱发疼痛",
+    "needs_animation": true,
+    "label": "脑神经递质紊乱与脑血管收缩舒张异常诱发偏头痛"
+  },
+  {
+    "global_index": 2038,
+    "seg_id": "S3-L5",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的四大诱因",
+    "template": "list_fade",
+    "items": [
+      "熬夜过劳、情绪波动大",
+      "浓茶咖啡、辛辣食物",
+      "饮酒诱发发作"
+    ],
+    "atoms_text": "三呢是生活诱因 熬夜啊 过度的劳累 精神压力大 情绪波动 以及摄入 咖啡浓茶 辛辣的刺激食物 酒精 触发发作",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2039,
+    "seg_id": "S3-L6",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的四大诱因",
+    "template": "color_grid",
+    "items": [
+      "强光刺激",
+      "噪音环境",
+      "异味刺激",
+      "天气变化"
+    ],
+    "atoms_text": "四是环境因素 强光啊 噪音 异味 甚至天气变化 也都会成为偏头痛的这个导火索",
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,516 @@
+[
+  {
+    "global_index": 4320,
+    "seg_id": "S7-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "关键词：突然",
+    "template": "warning_alert",
+    "items": [
+      "突发神经症状，哪怕几分钟也要就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4321,
+    "seg_id": "S7-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "关键词：突然",
+    "template": "hero_text",
+    "items": [
+      "症状自行消失，是身体最后的机会"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4322,
+    "seg_id": "S7-L5",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "关键词：突然",
+    "template": "split_column",
+    "items": [
+      "及时就医：检查吃药，轻松处理",
+      "拖延错过：偏瘫甚至更糟后果"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4323,
+    "seg_id": "S7-L6",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "关键词：突然",
+    "template": "hero_text",
+    "items": [
+      "认识信号，守护自己和家人健康"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4324,
+    "seg_id": "S1-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "三四十岁的身体警报",
+    "template": "list_fade",
+    "items": [
+      "体检报告问题越来越多",
+      "血压偏高、血脂不正常",
+      "脂肪肝悄然查出来",
+      "熬夜睡不好、白天没精神",
+      "肚子大、爬楼就喘"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4325,
+    "seg_id": "S1-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "三四十岁的身体警报",
+    "template": "hero_text",
+    "items": [
+      "到底哪个坏习惯最该先改？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4326,
+    "seg_id": "S2-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯从不单独出现",
+    "template": "hero_text",
+    "items": [
+      "你一开始就把问题想错了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4327,
+    "seg_id": "S2-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯从不单独出现",
+    "template": "warning_alert",
+    "items": [
+      "四大坏习惯几乎不会单独出现"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4328,
+    "seg_id": "S2-L3",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯从不单独出现",
+    "template": "color_grid",
+    "items": [
+      "抽烟的人大概率也喝酒",
+      "经常熬夜的人往往肥胖",
+      "肥胖者通常也不爱运动",
+      "压力大喝酒的人睡不好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4329,
+    "seg_id": "S2-L4",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯从不单独出现",
+    "template": "hero_text",
+    "items": [
+      "它们不是四个敌人，是一伙的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4330,
+    "seg_id": "S2-L5",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯从不单独出现",
+    "template": "warning_alert",
+    "items": [
+      "叠加伤害不是1+1，是1×10"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4331,
+    "seg_id": "S3-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "血管遭受四面夹攻",
+    "template": "hero_text",
+    "items": [
+      "以血管为例，看叠加有多可怕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4332,
+    "seg_id": "S3-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "血管遭受四面夹攻",
+    "template": "hero_text",
+    "items": [
+      "单纯血压偏高，二十年未必出事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4333,
+    "seg_id": "S3-L3",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "血管遭受四面夹攻",
+    "template": "warning_alert",
+    "items": [
+      "胖＋抽烟＋熬夜，血管四面夹攻"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4334,
+    "seg_id": "S3-L4",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "血管遭受四面夹攻",
+    "template": "brick_stack",
+    "items": [
+      "肥胖：血管内堆满脂肪",
+      "烟草：持续刺激血管内壁",
+      "熬夜：交感神经亢奋血压高",
+      "喝酒：伤肝扰乱血脂代谢"
+    ],
+    "needs_animation": true,
+    "label": "多因素叠加损伤血管壁过程"
+  },
+  {
+    "global_index": 4335,
+    "seg_id": "S3-L5",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "血管遭受四面夹攻",
+    "template": "step_arrow",
+    "items": [
+      "四大因素同时叠加",
+      "动脉硬化速度大幅加快",
+      "心梗脑梗提前十几年"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化加速进展过程"
+  },
+  {
+    "global_index": 4336,
+    "seg_id": "S3-L6",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "血管遭受四面夹攻",
+    "template": "warning_alert",
+    "items": [
+      "四十岁就遭遇五六十岁的病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4337,
+    "seg_id": "S4-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "癌症风险同样叠加",
+    "template": "hero_text",
+    "items": [
+      "叠加风险不只伤心血管，癌症也一样"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4338,
+    "seg_id": "S4-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "癌症风险同样叠加",
+    "template": "color_grid",
+    "items": [
+      "吸烟：公认的致癌物",
+      "酒精：一级致癌物",
+      "肥胖：引发长期慢性发炎",
+      "熬夜：削弱免疫监控能力"
+    ],
+    "needs_animation": true,
+    "label": "慢性炎症与免疫监控削弱机制"
+  },
+  {
+    "global_index": 4339,
+    "seg_id": "S4-L3",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "癌症风险同样叠加",
+    "template": "step_arrow",
+    "items": [
+      "每天都有异常细胞冒出",
+      "正常时免疫细胞及时清除",
+      "四面楚歌时漏网概率大增"
+    ],
+    "needs_animation": true,
+    "label": "免疫细胞识别清除异常细胞过程"
+  },
+  {
+    "global_index": 4340,
+    "seg_id": "S5-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "hero_text",
+    "items": [
+      "哪个危害最大？这个问题问错了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4341,
+    "seg_id": "S5-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "hero_text",
+    "items": [
+      "没有人只有一个坏习惯"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4342,
+    "seg_id": "S5-L3",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "hero_text",
+    "items": [
+      "真正关键的是坏习惯叠加了多久"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4343,
+    "seg_id": "S5-L4",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "hero_text",
+    "items": [
+      "但这也是个好消息：改变有突破口"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4344,
+    "seg_id": "S5-L5",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "step_arrow",
+    "items": [
+      "坏习惯彼此勾连一体",
+      "从任一环节打开缺口",
+      "其余的随之开始松动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4345,
+    "seg_id": "S5-L6",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "vertical_timeline",
+    "items": [
+      "第一步：下决心减肥",
+      "随之：运动坚持起来",
+      "连带：晚上睡得更好",
+      "因此：白天精神好转",
+      "自然：不太想抽烟了",
+      "慢慢：酒也喝得少了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4346,
+    "seg_id": "S5-L7",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "hero_text",
+    "items": [
+      "推倒第一张骨牌，后面跟着倒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4347,
+    "seg_id": "S6-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "从运动打开第一个缺口",
+    "template": "hero_text",
+    "items": [
+      "最容易突破的入口：先从运动开始"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4348,
+    "seg_id": "S6-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "从运动打开第一个缺口",
+    "template": "hero_text",
+    "items": [
+      "运动是唯一一个做加法的改变"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4349,
+    "seg_id": "S6-L3",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "从运动打开第一个缺口",
+    "template": "list_fade",
+    "items": [
+      "戒烟：忍住不抽",
+      "减肥：控制不吃",
+      "戒酒：硬撑不喝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4350,
+    "seg_id": "S6-L4",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "从运动打开第一个缺口",
+    "template": "color_grid",
+    "items": [
+      "睡眠质量明显提升",
+      "心情情绪更加稳定",
+      "体重慢慢往下走"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4351,
+    "seg_id": "S6-L5",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "从运动打开第一个缺口",
+    "template": "step_arrow",
+    "items": [
+      "坚持运动之后",
+      "身体到点就困，自然早睡"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4352,
+    "seg_id": "S6-L6",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "从运动打开第一个缺口",
+    "template": "hero_text",
+    "items": [
+      "不想让运动成果被一口吃垮"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4353,
+    "seg_id": "S7-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "迈出第一步就够了",
+    "template": "hero_text",
+    "items": [
+      "别纠结了，去快走半小时更值"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4354,
+    "seg_id": "S7-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "迈出第一步就够了",
+    "template": "hero_text",
+    "items": [
+      "迈出第一步，身体带你走完剩下的路"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4355,
+    "seg_id": "S7-L3",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "迈出第一步就够了",
+    "template": "hero_text",
+    "items": [
+      "今天就到这里，关注我了解更多"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4356,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "开篇：为何要比较",
+    "template": "hero_text",
+    "items": [
+      "血管狭窄一定要放支架吗"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉狭窄病变结构"
+  },
+  {
+    "global_index": 4357,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "开篇：为何要比较",
+    "template": "image_overlay",
+    "items": [
+      "搭桥手术同样值得考虑",
+      "并非只有支架这一条路"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉搭桥手术过程"
+  },
+  {
+    "global_index": 4358,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "开篇：为何要比较",
+    "template": "split_column",
+    "items": [
+      "支架：微创手术",
+      "搭桥：开胸外科手术",
+      "选择人数不断增多",
+      "接受开胸者逐渐减少"
+    ],
+    "needs_animation": true,
+    "label": "支架植入与搭桥手术对比"
+  },
+  {
+    "global_index": 4359,
+    "seg_id": "S1-L4",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "开篇：为何要比较",
+    "template": "hero_text",
+    "items": [
+      "有利有弊，适合你的才最优"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

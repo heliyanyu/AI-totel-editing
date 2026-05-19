@@ -1,0 +1,537 @@
+[
+  {
+    "global_index": 2640,
+    "seg_id": "S6-L4",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "少量心包积液",
+    "template": "myth_buster",
+    "items": [
+      "心包积液就是得了病",
+      "少量积液多为润滑液偏多",
+      "需要立即就医处理",
+      "十有八九无需特殊处理"
+    ],
+    "needs_animation": true,
+    "label": "心包腔结构与心包积液"
+  },
+  {
+    "global_index": 2641,
+    "seg_id": "S7-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "总结与呼吁",
+    "template": "list_fade",
+    "items": [
+      "早搏：偶发属正常",
+      "瓣膜轻度反流：无需处理",
+      "窦性心律不齐：生理现象",
+      "舒张功能减低：老化表现",
+      "少量心包积液：润滑所致"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2642,
+    "seg_id": "S7-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "总结与呼吁",
+    "template": "hero_text",
+    "items": [
+      "绝大多数不需要特殊处理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2643,
+    "seg_id": "S7-L3",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "总结与呼吁",
+    "template": "list_fade",
+    "items": [
+      "觉得有用点赞支持",
+      "转发给家人别瞎担心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2644,
+    "seg_id": "S7-L4",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "总结与呼吁",
+    "template": "hero_text",
+    "items": [
+      "关注我，看懂心脏知识"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2645,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "做完支架手术，并非万事大吉"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2646,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查时间表",
+    "template": "vertical_timeline",
+    "items": [
+      "术后1个月：首次复查",
+      "术后3个月：调整药物",
+      "术后6个月：监测高峰期",
+      "术后12个月：年度评估"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2647,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查时间表",
+    "template": "warning_alert",
+    "items": [
+      "胸痛胸闷复发，立即就医",
+      "出现新症状，别等复查日"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2648,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查查什么",
+    "template": "list_fade",
+    "items": [
+      "血常规",
+      "血脂血糖",
+      "肝肾功能",
+      "花费约两三百元"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2649,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查查什么",
+    "template": "number_center",
+    "items": [
+      "糖化血红蛋白"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2650,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查查什么",
+    "template": "list_fade",
+    "items": [
+      "心电图",
+      "心脏彩超",
+      "BNP（心衰指标）"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2651,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查前后注意事项",
+    "template": "warning_alert",
+    "items": [
+      "复查当天必须空腹",
+      "确保血脂血糖结果准确"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2652,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查前后注意事项",
+    "template": "list_fade",
+    "items": [
+      "刷牙时牙龈出血",
+      "鼻子无故流血",
+      "皮肤出现不明淤青",
+      "大便颜色发黑发暗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2653,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查前后注意事项",
+    "template": "list_fade",
+    "items": [
+      "肌肉酸痛无力",
+      "肝功能异常信号",
+      "及时向医生反馈"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2654,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "是否需做造影",
+    "template": "split_column",
+    "items": [
+      "控制良好，无需造影",
+      "三高控制不佳",
+      "无胸闷胸痛症状",
+      "再次出现胸痛",
+      "定期复查指标稳定",
+      "血管病变复杂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2655,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "是否需做造影",
+    "template": "branch_path",
+    "items": [
+      "出现例外情况",
+      "与主治医生商量",
+      "自行决定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2656,
+    "seg_id": "S5-L3",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "是否需做造影",
+    "template": "hero_text",
+    "items": [
+      "听主治医生的，准没错"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2657,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "总结叮嘱",
+    "template": "hero_text",
+    "items": [
+      "记住四件事，术后路走稳"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2658,
+    "seg_id": "S1-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "三种他汀谁更好",
+    "template": "hero_text",
+    "items": [
+      "三种他汀谁更好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2659,
+    "seg_id": "S1-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "三种他汀谁更好",
+    "template": "myth_buster",
+    "items": [
+      "匹伐他汀副作用最小",
+      "副作用小不等于适合所有人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2660,
+    "seg_id": "S1-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "三种他汀谁更好",
+    "template": "hero_text",
+    "items": [
+      "五角度全方位横向对比"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2661,
+    "seg_id": "S1-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "三种他汀谁更好",
+    "template": "warning_alert",
+    "items": [
+      "最后有对比表格记得截图保存"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2662,
+    "seg_id": "S2-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "降脂力度对比",
+    "template": "hero_text",
+    "items": [
+      "第一维度：降脂力度"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2663,
+    "seg_id": "S2-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "降脂力度对比",
+    "template": "split_column",
+    "items": [
+      "瑞舒伐他汀降脂最强",
+      "匹伐他汀属中等强度",
+      "阿托伐他汀强效略低于瑞舒",
+      "中等血脂偏高匹伐够用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2664,
+    "seg_id": "S2-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "降脂力度对比",
+    "template": "number_center",
+    "items": [
+      "＞ 阿托 ＞ 匹伐"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2665,
+    "seg_id": "S2-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "降脂力度对比",
+    "template": "branch_path",
+    "items": [
+      "LDL需大幅下降",
+      "首选瑞舒伐他汀",
+      "血脂轻度偏高匹伐足够"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2666,
+    "seg_id": "S2-L5",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "降脂力度对比",
+    "template": "list_fade",
+    "items": [
+      "瑞舒伐他汀：强效降脂首选",
+      "阿托伐他汀：同为重型武器",
+      "匹伐他汀：中等火力不弱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2667,
+    "seg_id": "S2-L6",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "降脂力度对比",
+    "template": "hero_text",
+    "items": [
+      "胆固醇越高选药火力越强"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2668,
+    "seg_id": "S3-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "服药时间讲解",
+    "template": "hero_text",
+    "items": [
+      "第二维度：服药时间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2669,
+    "seg_id": "S3-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "服药时间讲解",
+    "template": "warning_alert",
+    "items": [
+      "吃错时间药效打折等于白吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2670,
+    "seg_id": "S3-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "服药时间讲解",
+    "template": "number_center",
+    "items": [
+      "19"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2671,
+    "seg_id": "S3-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "服药时间讲解",
+    "template": "split_column",
+    "items": [
+      "阿托伐他汀任意时间服用",
+      "匹伐他汀建议睡前服用",
+      "瑞舒伐他汀任意时间服用",
+      "睡前服覆盖凌晨胆固醇合成高峰"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2672,
+    "seg_id": "S3-L5",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "服药时间讲解",
+    "template": "step_arrow",
+    "items": [
+      "匹伐半衰期约11小时较短",
+      "睡前服用药效延续至后半夜",
+      "覆盖肝脏合成胆固醇高峰"
+    ],
+    "needs_animation": true,
+    "label": "他汀药物半衰期与肝脏胆固醇合成节律"
+  },
+  {
+    "global_index": 2673,
+    "seg_id": "S4-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "hero_text",
+    "items": [
+      "第三维度：肝肾影响与用药冲突"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2674,
+    "seg_id": "S4-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "step_arrow",
+    "items": [
+      "经CYP3A4通道肝脏代谢",
+      "该通道繁忙多药共用易拥堵",
+      "多药联用需警惕相互作用"
+    ],
+    "needs_animation": true,
+    "label": "他汀经CYP3A4肝脏代谢通路"
+  },
+  {
+    "global_index": 2675,
+    "seg_id": "S4-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "warning_alert",
+    "items": [
+      "同吃多种药须警惕肝脏拥堵"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2676,
+    "seg_id": "S4-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "split_column",
+    "items": [
+      "瑞舒伐他汀原型经肾脏排出",
+      "匹伐他汀走独立肝脏通道",
+      "肝负担小与其他药冲突少",
+      "与其他药发生冲突概率低"
+    ],
+    "needs_animation": true,
+    "label": "他汀类药物肝肾代谢排泄路径对比"
+  },
+  {
+    "global_index": 2677,
+    "seg_id": "S4-L5",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "branch_path",
+    "items": [
+      "肾脏功能不佳",
+      "选阿托或匹伐更稳妥",
+      "避免使用瑞舒伐他汀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2678,
+    "seg_id": "S4-L6",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "branch_path",
+    "items": [
+      "肝脏负担重且多药联用",
+      "优选瑞舒伐他汀或匹伐",
+      "阿托伐他汀需谨慎监测"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2679,
+    "seg_id": "S4-L7",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "category_table",
+    "items": [
+      "肾功能不全",
+      "避免瑞舒伐他汀",
+      "多药联用",
+      "优选瑞舒或匹伐"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

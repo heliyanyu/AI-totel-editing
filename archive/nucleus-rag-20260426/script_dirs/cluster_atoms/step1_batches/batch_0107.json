@@ -1,0 +1,558 @@
+[
+  {
+    "global_index": 4280,
+    "seg_id": "S5-L3",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "两大急症家庭急救",
+    "template": "step_arrow",
+    "items": [
+      "不要乱动不要自驾送医",
+      "立刻拨打120等救护车",
+      "让老人平躺安静等待"
+    ],
+    "atoms_text": "不要乱动啊 也不要自己开车去医院 马上打一二零啊 让他躺着 等着救护车来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4281,
+    "seg_id": "S5-L4",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "两大急症家庭急救",
+    "template": "list_fade",
+    "items": [
+      "突然嘴歪说话不清",
+      "一侧手臂腿无力",
+      "警惕脑血栓中风发作"
+    ],
+    "atoms_text": "如果突然间嗯 嘴歪了 哎一侧胳膊腿不好使了 说话也不清楚了 那可能就是中风血栓了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4282,
+    "seg_id": "S5-L5",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "两大急症家庭急救",
+    "template": "warning_alert",
+    "items": [
+      "千万不要喂水喂药易呛肺",
+      "将脸侧向一侧尽快送医"
+    ],
+    "atoms_text": "千万别再喂水喂药 容易啊呛进肺里边 把脸呢哎 侧向一面 尽快送医院",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4283,
+    "seg_id": "S6-L1",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "总结与关注引导",
+    "template": "hero_text",
+    "items": [
+      "疼痛是身体的火警一刻耽误不起"
+    ],
+    "atoms_text": "记住 这些疼啊 是身体的火警警报 一分钟就耽误不起",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4284,
+    "seg_id": "S6-L2",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "总结与关注引导",
+    "template": "hero_text",
+    "items": [
+      "每天学一点让父母少受罪"
+    ],
+    "atoms_text": "关注讲内科的张医生 咱们呢 每天学点健康知识 让咱们爸妈呀 少受点罪 咱们呢更安心 下期见哟",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4285,
+    "seg_id": "S1-L1",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "有一种高血压，真的能根治"
+    ],
+    "atoms_text": "这种高血压呀 能根治 这高血压还能根治 我赶紧来听听",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4286,
+    "seg_id": "S1-L2",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "开场点题",
+    "template": "myth_buster",
+    "items": [
+      "高血压都是终身病",
+      "部分高血压有冒牌货",
+      "吃药就能控制血压",
+      "找对病根才能治根"
+    ],
+    "atoms_text": "张医生今天 想跟大家说句大实话 有些高血压 它就是一个冒牌货啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4287,
+    "seg_id": "S1-L3",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "年纪轻轻血压高",
+      "不胖不瘦生活好",
+      "吃两三种药降不下来"
+    ],
+    "atoms_text": "如果你和你的家人 年纪轻轻了 不胖不瘦 吃这两三种降压药 这血压还是降不下来 那今天这条视频 你一定得看完",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4288,
+    "seg_id": "S2-L1",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "真实病例引入",
+    "template": "number_center",
+    "items": [
+      "180/110"
+    ],
+    "atoms_text": "上周门诊 来个小伙 三十五岁 又瘦又高 一量血压多少 一百八一百一 给我都吓一跳",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4289,
+    "seg_id": "S2-L2",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "真实病例引入",
+    "template": "list_fade",
+    "items": [
+      "不抽烟不喝酒",
+      "坚持健身运动",
+      "按时吃药仍降不下来"
+    ],
+    "atoms_text": "他特别委屈的跟我说 医生呢 我不抽烟 我也不喝酒 我还天天的 健身运动 怎么这高血压就盯上我了呢 而且药也吃了 咋就下不去呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4290,
+    "seg_id": "S2-L3",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "真实病例引入",
+    "template": "hero_text",
+    "items": [
+      "先别着急，做个检查"
+    ],
+    "atoms_text": "我说呀 你先别着急 咱们先去做个检查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4291,
+    "seg_id": "S2-L4",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "真实病例引入",
+    "template": "hero_text",
+    "items": [
+      "血压高的根儿不在血管里"
+    ],
+    "atoms_text": "这结果出来了 我告诉他 你这可不是普通的高血压 你血压高的根儿 它不在血管里",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4292,
+    "seg_id": "S3-L1",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "split_column",
+    "items": [
+      "全楼水压都高",
+      "某处水管在漏水",
+      "血管或心脏原因",
+      "有隐藏病灶在加压"
+    ],
+    "atoms_text": "咱们把身体想象成 一栋房子 这普通的高血压 就像房子用水高峰 全楼啊水压都高 那是血管本身或者心脏的原因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4293,
+    "seg_id": "S3-L2",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "hero_text",
+    "items": [
+      "继发性高血压：漏水导致全楼加压"
+    ],
+    "atoms_text": "但小伙子这种啊 它叫继发性高血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4294,
+    "seg_id": "S3-L3",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "step_arrow",
+    "items": [
+      "肾上腺长了小腺瘤",
+      "不停分泌加压素",
+      "血压层层往上窜"
+    ],
+    "atoms_text": "什么是继发性高血压呀 就是 房子某一个地方 有一个水管 它在漏水 这水压一掉 这个水泵啊 就拼命的加压 结果呀 全楼的水压都高了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4295,
+    "seg_id": "S3-L4",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "body_annotate",
+    "items": [
+      "肾上腺：肾脏上方两顶小帽子",
+      "腺瘤：持续分泌加压素的元凶"
+    ],
+    "atoms_text": "那这个漏水的地方 可能在哪 最常见的就是肾上腺 长在我们 肾脏上面 两个小小的腺体 像那个 两顶小帽子 它要是长了个小腺瘤 就会不停的分泌加压素 逼着血压 层层的往上窜",
+    "needs_animation": true,
+    "label": "肾上腺腺瘤持续分泌加压素导致血压升高"
+  },
+  {
+    "global_index": 4296,
+    "seg_id": "S3-L5",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "warning_alert",
+    "items": [
+      "病根未除，降压药效果极差"
+    ],
+    "atoms_text": "所以啊 这类患者有个特点 吃药效果特别差",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4297,
+    "seg_id": "S3-L6",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "step_arrow",
+    "items": [
+      "降压药告诉全楼别加压",
+      "漏水口一直在喊快加压",
+      "血压根本降不下来"
+    ],
+    "atoms_text": "因为呀 你吃的是降压药啊 是在跟全楼说 你别再加压了 但是漏水那个口子呀 一直在喊 你快点加压 快点加压 你这血压能下来吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4298,
+    "seg_id": "S3-L7",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "hero_text",
+    "items": [
+      "关键在于找到那个漏水点"
+    ],
+    "atoms_text": "那咋办呢 找到那个漏水的点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4299,
+    "seg_id": "S4-L1",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "治愈案例结果",
+    "template": "step_arrow",
+    "items": [
+      "上级医院手术切除腺瘤",
+      "术后第二天血压降至120",
+      "此后再未吃一片降压药"
+    ],
+    "atoms_text": "刚才说的小伙子 后来呀 去了我们上级医院 做了个手术啊 把那个小腺瘤切掉了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4300,
+    "seg_id": "S4-L2",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "治愈案例结果",
+    "template": "number_center",
+    "items": [
+      "120"
+    ],
+    "atoms_text": "术后第二天呢 这个血压从一百八 就降到一百二 从来再也没吃过一片降压药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4301,
+    "seg_id": "S4-L3",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "治愈案例结果",
+    "template": "hero_text",
+    "items": [
+      "早知能根治，早点来查就好了"
+    ],
+    "atoms_text": "出院的时候啊 他说 早知道能根治 我就早点来查了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4302,
+    "seg_id": "S5-L1",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "排查继发性高血压",
+    "template": "hero_text",
+    "items": [
+      "出现以下情况，建议去专科排查"
+    ],
+    "atoms_text": "所以张医生要提醒大家 如果你有以下这种情况 建议咱们去那个心内科 或者专门的高血压门诊 去查一查继发性高血压啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4303,
+    "seg_id": "S5-L2",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "排查继发性高血压",
+    "template": "list_fade",
+    "items": [
+      "40岁以下血压居高不下",
+      "血压常超160/100 mmHg"
+    ],
+    "atoms_text": "第一个 特别年轻的 就是小于四十岁以下的 你就发现这个血压居高不下啊 有时候就是大于一百六一百",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4304,
+    "seg_id": "S5-L3",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "排查继发性高血压",
+    "template": "warning_alert",
+    "items": [
+      "吃两三种降压药仍控制不住"
+    ],
+    "atoms_text": "第二个 以前啊吃药管用 最近呢突然不管用了 吃两三种降压药 这个血压都下不来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4305,
+    "seg_id": "S5-L4",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "排查继发性高血压",
+    "template": "list_fade",
+    "items": [
+      "莫名乏力浑身没劲",
+      "腿软无力反复出现"
+    ],
+    "atoms_text": "第三 这高血压同时还有 莫名其妙的低血钾 什么是低血钾 总觉得 身上没劲儿 乏力腿软啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4306,
+    "seg_id": "S5-L5",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "排查继发性高血压",
+    "template": "list_fade",
+    "items": [
+      "夜间打鼾严重",
+      "存在呼吸暂停现象"
+    ],
+    "atoms_text": "第四个 睡觉的时候打呼噜特别严重 有呼吸暂停 我们叫睡眠呼吸暂停综合征 这就是继发性高血压的常见原因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4307,
+    "seg_id": "S5-L6",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "排查继发性高血压",
+    "template": "step_arrow",
+    "items": [
+      "抽血化验相关指标",
+      "做肾上腺CT扫描",
+      "进行睡眠监测"
+    ],
+    "atoms_text": "咱们查什么呢 特别简单 你去抽个血 或者再做一个肾上腺CT 或者睡眠监测 你就有可能找到这个元凶",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4308,
+    "seg_id": "S6-L1",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "总结与呼吁",
+    "template": "hero_text",
+    "items": [
+      "高血压不一定是终身病"
+    ],
+    "atoms_text": "最后张医生想说呀 高血压它不是一个终身的病啊 有一部分呢 真的是能治好的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4309,
+    "seg_id": "S6-L2",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "总结与呼吁",
+    "template": "myth_buster",
+    "items": [
+      "闷头吃药不查原因",
+      "先搞清楚到底哪里在漏水",
+      "以为高血压只能控制",
+      "找到病根有机会彻底治愈"
+    ],
+    "atoms_text": "别自己啊 闷着头吃药 吃药先要搞清楚啊 您家这个水压高啊 到底是全楼都高 还是哪个地方在漏水",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4310,
+    "seg_id": "S6-L3",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "总结与呼吁",
+    "template": "hero_text",
+    "items": [
+      "转发给家人，也许能帮他少走弯路"
+    ],
+    "atoms_text": "咱把这条视频呢 转发给家里边有高血压的亲人朋友 也许呀 你真的能帮到他们 少走很多弯路",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4311,
+    "seg_id": "S1-L1",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "糖尿病逆转的底层机制",
+    "template": "hero_text",
+    "items": [
+      "糖尿病到底能不能逆转？"
+    ],
+    "atoms_text": "大家好 我是 咱内科的张医生 糖尿病 能不能逆转 这个事儿啊 今天 我给你讲清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4312,
+    "seg_id": "S1-L2",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "糖尿病逆转的底层机制",
+    "template": "body_annotate",
+    "items": [
+      "胰腺β细胞负责分泌胰岛素",
+      "β细胞就像工厂里的工人"
+    ],
+    "atoms_text": "胰腺里边 负责分泌胰岛素的 β细胞 你就把它想象成 工厂里的工人",
+    "needs_animation": true,
+    "label": "胰腺内β细胞分泌胰岛素"
+  },
+  {
+    "global_index": 4313,
+    "seg_id": "S1-L3",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "糖尿病逆转的底层机制",
+    "template": "hero_text",
+    "items": [
+      "不是工人不够，是细胞不买账"
+    ],
+    "atoms_text": "那二型糖尿病啊 大部分人 一开始啊 他不是 工人不够 而是 身体的这个细胞 对胰岛素不买账了 叫胰岛素抵抗",
+    "needs_animation": true,
+    "label": "身体细胞对胰岛素产生抵抗不再响应"
+  },
+  {
+    "global_index": 4314,
+    "seg_id": "S1-L4",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "糖尿病逆转的底层机制",
+    "template": "step_arrow",
+    "items": [
+      "细胞不响应，工人被迫加班",
+      "加班初期尚能压住血糖"
+    ],
+    "atoms_text": "那工厂啊 它为了完成任务 它只能让工人 拼命的加班 加班一开始啊 还扛得住 这血糖呢 还能压下来",
+    "needs_animation": true,
+    "label": "β细胞代偿性超量分泌胰岛素维持血糖"
+  },
+  {
+    "global_index": 4315,
+    "seg_id": "S1-L5",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "糖尿病逆转的底层机制",
+    "template": "step_arrow",
+    "items": [
+      "长期加班，工人相继罢工",
+      "可用工人越来越少",
+      "胰岛素不足，血糖上升"
+    ],
+    "atoms_text": "但是时间一长啊 这工人开始 累死的累死 罢工的罢工 能干活的呀 越来越少了 这胰岛素啊 就不够了 这血糖啊 它就上来了",
+    "needs_animation": true,
+    "label": "β细胞逐渐衰竭凋亡致胰岛素不足血糖升高"
+  },
+  {
+    "global_index": 4316,
+    "seg_id": "S1-L6",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "糖尿病逆转的底层机制",
+    "template": "hero_text",
+    "items": [
+      "还剩多少\"工人\"决定一切"
+    ],
+    "atoms_text": "所以关键的分水岭 就是 你的工人还剩多少",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4317,
+    "seg_id": "S2-L1",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "逆转的窗口期",
+    "template": "hero_text",
+    "items": [
+      "刚确诊时大部分细胞还活着"
+    ],
+    "atoms_text": "如果啊 你处在 糖尿病前期 或者刚确诊不久 你体内的胰岛细胞 虽然累 但是大部分呢 它还活着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4318,
+    "seg_id": "S2-L2",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "逆转的窗口期",
+    "template": "step_arrow",
+    "items": [
+      "解决胰岛素抵抗",
+      "细胞重新响应胰岛素",
+      "血糖恢复正常"
+    ],
+    "atoms_text": "那只要啊 你把这个 胰岛素抵抗问题 解决掉 让细胞啊 重新对胰岛素买账 这个工人呢 压力一下子就小了 这个血糖啊 就可能恢复正常",
+    "needs_animation": true,
+    "label": "解除胰岛素抵抗后细胞恢复敏感性β细胞负担减轻血糖回落"
+  },
+  {
+    "global_index": 4319,
+    "seg_id": "S2-L3",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "逆转的窗口期",
+    "template": "hero_text",
+    "items": [
+      "方法不复杂，就这几件事"
+    ],
+    "atoms_text": "那怎么做呢 说出来呀 可能你觉得是 老生常谈 但确实就是 就这几件事儿啊",
+    "needs_animation": false,
+    "label": ""
+  }
+]

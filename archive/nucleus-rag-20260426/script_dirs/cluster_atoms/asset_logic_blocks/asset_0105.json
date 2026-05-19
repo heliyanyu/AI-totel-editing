@@ -1,0 +1,44 @@
+[
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start": 0.0,
+    "end": 12.0,
+    "text_en": "This video will help you understand the main surgical procedures done to treat heart failure. Please watch the entire video to learn about the surgeries for heart failure."
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start": 12.0,
+    "end": 22.0,
+    "text_en": "Surgery for advanced heart failure include coronary artery bypass surgery to improve blood flow to your heart muscle."
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start": 23.0,
+    "end": 29.0,
+    "text_en": "And heart valve reconstruction surgery to improve blood flow through your heart."
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start": 31.0,
+    "end": 62.0,
+    "text_en": "If the heart remains weak with standard heart failure treatments, advanced treatment options for severe heart failure include insertion of a pump for your heart. A ventricular assist device, or VAD, is a mechanical pump that's used to support heart function and blood flow in people who have weakened hearts. The device takes blood from a lower chamber of the heart and helps pump it to the body and vital organs just as a healthy heart would."
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start": 65.0,
+    "end": 70.0,
+    "text_en": "Another advanced treatment for severe heart failure is a heart transplant."
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start": 73.0,
+    "end": 104.0,
+    "text_en": "If you have advanced heart failure, your surgeon will determine the best type of treatment for you. The first step is to get the heart transplant. The second step is to get the heart transplant. The second step is to get the heart transplant.\n\n---\n\n**切分说明（6 个 logic blocks）：**\n\n| Block | 医学动作/步骤 |\n|-------|--------------|\n| 1 | 视频总览引入 |\n| 2 | 冠状动脉搭桥术（CABG） |\n| 3 | 心脏瓣膜重建术 |\n| 4 | 心室辅助装置（VAD）——从引出到工作原理，属同一装置展示 |\n| 5 | 心脏移植 |\n| 6 | 总结/收尾（含末尾 ASR 重复句） |\n\n> ⚠️ 末尾 \"The first step is to get the heart transplant…\" 连续重复，疑为 ASR 识别错误或素材循环，已保留原文不做改动。"
+  }
+]

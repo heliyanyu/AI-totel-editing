@@ -1,0 +1,519 @@
+[
+  {
+    "global_index": 3520,
+    "seg_id": "S9-L6",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "hero_text",
+    "items": [
+      "症状一出现，争分夺秒去医院"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3521,
+    "seg_id": "S9-L7",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "hero_text",
+    "items": [
+      "每一分钟都决定着心肌的存活"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3522,
+    "seg_id": "S9-L8",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "hero_text",
+    "items": [
+      "记住症状，关键时刻能救自己和家人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3523,
+    "seg_id": "S10-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "传播知识，能帮一个人就值了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3524,
+    "seg_id": "S10-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "少一个家庭遭遇不幸，这视频就值了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3525,
+    "seg_id": "S10-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "每句话都是临床经验和教训换来的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3526,
+    "seg_id": "S10-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "收藏转发，让更多人知道黄金十二小时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3527,
+    "seg_id": "S10-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "多一人看到，就可能多救一条生命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3528,
+    "seg_id": "S10-L6",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "多救一命，多一个完整的家庭"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3529,
+    "seg_id": "S10-L7",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "谢谢大家"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3530,
+    "seg_id": "S1-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "心脏不舒服？这条视频用得上"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3531,
+    "seg_id": "S1-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "胸闷心慌胸口疼",
+      "医生让查心脏血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3532,
+    "seg_id": "S1-L3",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "开场点题",
+    "template": "myth_buster",
+    "items": [
+      "CTA和造影是同一种检查",
+      "两者用途和精准度不同",
+      "做了造影就必须放支架",
+      "造影仅在必要时才放支架"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3533,
+    "seg_id": "S1-L4",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "看完不花冤枉钱不多遭罪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3534,
+    "seg_id": "S2-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "hero_text",
+    "items": [
+      "给心脏血管拍高清三维CT照片"
+    ],
+    "needs_animation": true,
+    "label": "冠脉CTA三维成像原理"
+  },
+  {
+    "global_index": 3535,
+    "seg_id": "S2-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "step_arrow",
+    "items": [
+      "手上打留置针注入造影剂",
+      "躺入CT机器扫描几分钟",
+      "做完即可回家无需住院"
+    ],
+    "needs_animation": true,
+    "label": "冠脉CTA检查流程"
+  },
+  {
+    "global_index": 3536,
+    "seg_id": "S2-L3",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "color_grid",
+    "items": [
+      "快速方便无创",
+      "费用约500-800元",
+      "风险极低几乎无不适",
+      "门诊即可完成"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3537,
+    "seg_id": "S2-L4",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "list_fade",
+    "items": [
+      "偶尔胸闷症状轻微",
+      "无三高无家族史",
+      "用于初步排查放心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3538,
+    "seg_id": "S2-L5",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "warning_alert",
+    "items": [
+      "血管钙化或心率快图像失真",
+      "只能看不能治疗"
+    ],
+    "needs_animation": true,
+    "label": "冠脉钙化对CTA成像的影响"
+  },
+  {
+    "global_index": 3539,
+    "seg_id": "S2-L6",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "step_arrow",
+    "items": [
+      "CTA发现血管狭窄",
+      "仍需进行冠脉造影"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3540,
+    "seg_id": "S2-L7",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "hero_text",
+    "items": [
+      "CTA定位：初步筛查排除狭窄"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3541,
+    "seg_id": "S3-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉造影详解",
+    "template": "hero_text",
+    "items": [
+      "冠脉造影是冠心病诊断金标准"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3542,
+    "seg_id": "S3-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉造影详解",
+    "template": "myth_buster",
+    "items": [
+      "造影是个大手术很可怕",
+      "造影只是微创检查并不可怕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3543,
+    "seg_id": "S3-L3",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉造影详解",
+    "template": "step_arrow",
+    "items": [
+      "手腕或大腿根部穿入细导管",
+      "导管送至心脏冠脉开口",
+      "注入造影剂实时看血管流动"
+    ],
+    "needs_animation": true,
+    "label": "冠脉造影导管穿刺与造影过程"
+  },
+  {
+    "global_index": 3544,
+    "seg_id": "S3-L4",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉造影详解",
+    "template": "list_fade",
+    "items": [
+      "血管哪里堵了",
+      "堵塞程度是多少",
+      "是否需要放支架"
+    ],
+    "needs_animation": true,
+    "label": "冠脉造影下血管狭窄程度评估"
+  },
+  {
+    "global_index": 3545,
+    "seg_id": "S3-L5",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉造影详解",
+    "template": "branch_path",
+    "items": [
+      "造影发现血管狭窄超75%",
+      "当场放支架一次完成治疗",
+      "狭窄不重继续随访观察"
+    ],
+    "needs_animation": true,
+    "label": "冠脉支架植入过程"
+  },
+  {
+    "global_index": 3546,
+    "seg_id": "S3-L6",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉造影详解",
+    "template": "split_column",
+    "items": [
+      "需要住院进行",
+      "CTA门诊即可",
+      "费用约4000-5000元",
+      "CTA约500-800元"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3547,
+    "seg_id": "S4-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "四种情况如何选",
+    "template": "hero_text",
+    "items": [
+      "四种情况对号入座不再纠结"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3548,
+    "seg_id": "S4-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "四种情况如何选",
+    "template": "list_fade",
+    "items": [
+      "偶尔胸闷年纪不大",
+      "无三高无吸烟无家族史",
+      "首选CTA门诊排查最划算"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3549,
+    "seg_id": "S4-L3",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "四种情况如何选",
+    "template": "list_fade",
+    "items": [
+      "压榨样胸痛活动加重",
+      "合并三高肥胖家族史",
+      "直接造影避免二次检查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3550,
+    "seg_id": "S4-L4",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "四种情况如何选",
+    "template": "warning_alert",
+    "items": [
+      "急性胸痛怀疑心梗直接造影"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3551,
+    "seg_id": "S4-L5",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "四种情况如何选",
+    "template": "list_fade",
+    "items": [
+      "已放过支架或搭过桥",
+      "再次出现不适症状",
+      "首选造影CTA看不清支架内部"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3552,
+    "seg_id": "S5-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "辐射与造影剂安全",
+    "template": "split_column",
+    "items": [
+      "CTA有辐射",
+      "造影也有辐射",
+      "均在安全范围内",
+      "正规医院做影响微乎其微"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3553,
+    "seg_id": "S5-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "辐射与造影剂安全",
+    "template": "branch_path",
+    "items": [
+      "造影剂需要排出体外",
+      "肾功能正常多喝水24小时排出",
+      "肾功能很差需特别注意"
+    ],
+    "needs_animation": true,
+    "label": "造影剂肾脏代谢排出过程"
+  },
+  {
+    "global_index": 3554,
+    "seg_id": "S6-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "三句话核心总结",
+    "template": "hero_text",
+    "items": [
+      "三句话记住选检查的核心原则"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3555,
+    "seg_id": "S6-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "三句话核心总结",
+    "template": "list_fade",
+    "items": [
+      "初步排查症状轻首选冠脉CTA"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3556,
+    "seg_id": "S6-L3",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "三句话核心总结",
+    "template": "list_fade",
+    "items": [
+      "症状典型风险高需精准选造影"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3557,
+    "seg_id": "S6-L4",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "三句话核心总结",
+    "template": "warning_alert",
+    "items": [
+      "急性心梗不稳定胸痛直接造影"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3558,
+    "seg_id": "S7-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "结尾行动召唤",
+    "template": "split_column",
+    "items": [
+      "不敢做造影",
+      "没必要却住院做造影",
+      "耽误病情",
+      "白花钱多遭罪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3559,
+    "seg_id": "S7-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "结尾行动召唤",
+    "template": "hero_text",
+    "items": [
+      "转发给家人朋友心里有底不迷茫"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

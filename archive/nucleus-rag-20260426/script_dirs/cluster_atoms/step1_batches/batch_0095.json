@@ -1,0 +1,571 @@
+[
+  {
+    "global_index": 3800,
+    "seg_id": "S5-L4",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "甘油三酯的特点与风险",
+    "template": "warning_alert",
+    "items": [
+      "超过5.6 mmol/L，急性胰腺炎风险剧增"
+    ],
+    "atoms_text": "但高了也 绝对不能不管 一旦大于五点六 急性胰腺炎的风险 会大大增加 那是要命的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3801,
+    "seg_id": "S5-L5",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "甘油三酯的特点与风险",
+    "template": "list_fade",
+    "items": [
+      "高甘油三酯与心血管病相关",
+      "作用机制比LDL更复杂"
+    ],
+    "atoms_text": "这个也与心血管疾病有关系 尤其在 高甘油三酯血症的人群当中 它的作用机制 比低密度脂蛋白 更复杂",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3802,
+    "seg_id": "S6-L1",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "总结与行动指南",
+    "template": "category_table",
+    "items": [
+      "LDL：控制在目标值以下",
+      "LDL：决定血管命运的关键",
+      "HDL：升高是好事",
+      "HDL：高了别慌",
+      "甘油三酯：管住嘴可控",
+      "甘油三酯：>5.6需警惕"
+    ],
+    "atoms_text": "总结一下 三个指标 就盯一个核心 低密度脂蛋白胆固醇 这是决定你血管命运的关键",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3803,
+    "seg_id": "S6-L2",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "总结与行动指南",
+    "template": "hero_text",
+    "items": [
+      "重点只有一个：把LDL降下来"
+    ],
+    "atoms_text": "高密度高了是好事 不要慌 甘油三酯 管住嘴就能控制",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3804,
+    "seg_id": "S6-L3",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "总结与行动指南",
+    "template": "hero_text",
+    "items": [
+      "血脂不是让你焦虑的，是让你行动的"
+    ],
+    "atoms_text": "血脂这事儿 不是让你焦虑的 是让你行动的 知道了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3805,
+    "seg_id": "S6-L4",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "总结与行动指南",
+    "template": "list_fade",
+    "items": [
+      "点赞",
+      "收藏"
+    ],
+    "atoms_text": "欢迎点赞收藏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3806,
+    "seg_id": "S1-L1",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "门诊常见误解",
+    "template": "warning_alert",
+    "items": [
+      "看到\"动脉硬化\"以为血管要堵了",
+      "害怕自己快心梗了"
+    ],
+    "atoms_text": "我在门诊 经常遇到 一种情况 病人拿着体检报告 来找我 上面写了 动脉硬化 他就慌了 觉得自己血管要堵了 是不是快心梗了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3807,
+    "seg_id": "S1-L2",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "门诊常见误解",
+    "template": "myth_buster",
+    "items": [
+      "动脉硬化＝动脉粥样硬化",
+      "两者只差两字，但不是一回事",
+      "动脉硬化是总称",
+      "粥样硬化是其中最危险的类型"
+    ],
+    "atoms_text": "其实动脉硬化 和动脉粥样硬化 虽然就差两个字 但不是一回事 动脉硬化是一个总称 而动脉粥样硬化 是其中最常见 也最危险的 一种类型",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3808,
+    "seg_id": "S2-L1",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "动脉硬化是血管衰老",
+    "template": "step_arrow",
+    "items": [
+      "血液每天冲刷血管数万次",
+      "年复一年持续受压",
+      "管壁逐渐失去弹性变僵硬"
+    ],
+    "atoms_text": "先说动脉硬化 这个东西 说白了就是 血管变老了 你想 你的血管每天 被血液冲来冲去 一天泵几万次 年复一年 管壁自然会 慢慢失去弹性 变得僵硬",
+    "needs_animation": true,
+    "label": "血管壁在长期血流冲击下逐渐失去弹性变僵硬"
+  },
+  {
+    "global_index": 3809,
+    "seg_id": "S2-L2",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "动脉硬化是血管衰老",
+    "template": "hero_text",
+    "items": [
+      "橡皮管用了三十年，弹性自然不如新的"
+    ],
+    "atoms_text": "就像一根橡皮管 用了二十年三十年 弹性肯定不如新的了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3810,
+    "seg_id": "S2-L3",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "动脉硬化是血管衰老",
+    "template": "number_center",
+    "items": [
+      "100%"
+    ],
+    "atoms_text": "所以动脉硬化 是每个人都会有的 是衰老的自然进程 只要你活的够久 就一定会有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3811,
+    "seg_id": "S2-L4",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "动脉硬化是血管衰老",
+    "template": "split_column",
+    "items": [
+      "血管里长了东西",
+      "血管年纪大了，正常衰老",
+      "即将发生心梗",
+      "跟脸上长皱纹一个道理"
+    ],
+    "atoms_text": "体检报告上 写动脉硬化 大多数时候 就是告诉你 你的血管年纪大了 跟你脸上长皱纹 是一个道理 不代表你的血管里长了东西 更不代表你要心梗了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3812,
+    "seg_id": "S3-L1",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "粥样硬化如何形成",
+    "template": "hero_text",
+    "items": [
+      "粥样硬化的关键不是硬，是长了斑块"
+    ],
+    "atoms_text": "而粥样硬化 就不一样了 它不光是硬 关键是血管壁里 长了斑块",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3813,
+    "seg_id": "S3-L2",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "粥样硬化如何形成",
+    "template": "step_arrow",
+    "items": [
+      "血管内壁受损出现缺口",
+      "低密度脂蛋白钻入被氧化",
+      "免疫细胞来吞噬后死在原地",
+      "堆积成黄软物质，形如小米粥"
+    ],
+    "atoms_text": "怎么长的呢 血管内壁受损之后 低密度脂蛋白胆固醇 就会趁机钻进去 被氧化之后 引来免疫细胞来吃它 吃完死在那里 慢慢就堆成 一坨黄黄的软软的东西 你把它切开 真的就跟小米粥一样 所以叫粥样硬化",
+    "needs_animation": true,
+    "label": "LDL从受损内壁钻入后被氧化、免疫细胞吞噬死亡堆积形成粥样物质"
+  },
+  {
+    "global_index": 3814,
+    "seg_id": "S3-L3",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "粥样硬化如何形成",
+    "template": "step_arrow",
+    "items": [
+      "斑块越长越大，血管越来越窄",
+      "纤维帽突然破裂，血栓瞬间形成",
+      "血管堵死，心梗或脑梗发生"
+    ],
+    "atoms_text": "这坨东西 外面包着一层纤维帽 整个就是我们说的斑块 斑块越长越大 血管就越来越窄 如果纤维帽突然破了 血栓形成 血管瞬间就堵死了 那就是心梗或脑梗",
+    "needs_animation": true,
+    "label": "纤维帽包裹斑块增大致血管变窄、纤维帽破裂后血栓形成堵死血管"
+  },
+  {
+    "global_index": 3815,
+    "seg_id": "S4-L1",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "两者本质区别与关联",
+    "template": "split_column",
+    "items": [
+      "管壁变硬变僵，岁月痕迹",
+      "管壁里长了危险斑块，是疾病",
+      "血管老了，正常衰老",
+      "血管病了，需要干预"
+    ],
+    "atoms_text": "所以你看 动脉硬化 是管壁变硬变僵 是岁月留下的痕迹 动脉粥样硬化 是管壁里面 长了危险的东西 是疾病 一个是老了 一个是病了 差别非常大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3816,
+    "seg_id": "S4-L2",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "两者本质区别与关联",
+    "template": "step_arrow",
+    "items": [
+      "血管越硬，血流冲击力越大",
+      "内壁越容易受损",
+      "低密度脂蛋白越容易入侵",
+      "斑块越容易形成"
+    ],
+    "atoms_text": "当然这两个 也不是完全没关系 血管越硬 血液冲击血管壁的力量就越大 内壁就越容易受损 低密度脂蛋白 就越容易钻进去 斑块就越容易长",
+    "needs_animation": true,
+    "label": "僵硬血管壁受血流冲击加大致内壁损伤、LDL趁机钻入形成斑块"
+  },
+  {
+    "global_index": 3817,
+    "seg_id": "S4-L3",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "两者本质区别与关联",
+    "template": "brick_stack",
+    "items": [
+      "血压升高加速内壁损伤",
+      "血糖升高破坏血管环境",
+      "血脂升高提供斑块原料",
+      "老化血管经不起再往里塞东西"
+    ],
+    "atoms_text": "所以动脉硬化 虽然本身不危险 但它会给粥样硬化 创造条件 这也是为什么 年纪越大的人 越要认真控制 血压血糖血脂 因为你的血管 已经不年轻了 经不起再往里面塞东西了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3818,
+    "seg_id": "S5-L1",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "总结与行动建议",
+    "template": "branch_path",
+    "items": [
+      "体检报告怎么写的？",
+      "写\"动脉硬化\"→大概率正常衰老，别慌",
+      "写\"粥样硬化\"或发现斑块→认真对待，控脂控压吃药别拖"
+    ],
+    "atoms_text": "总结一下 体检报告写了动脉硬化 不要慌 大概率是正常衰老 但如果写的是 动脉粥样硬化 或者发现了斑块 那就要认真对待了 控制好低密度脂蛋白胆固醇 控制好血压 吃药别拖",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3819,
+    "seg_id": "S5-L2",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "一个是皱纹，一个是肿瘤，能一样吗？"
+    ],
+    "atoms_text": "一个是皱纹 一个是肿瘤 你能说是一样的吗 懂了吧 欢迎点赞收藏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3820,
+    "seg_id": "S1-L1",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "体检报告引发的紧张",
+    "template": "hero_text",
+    "items": [
+      "窦性心律不齐，你看懂了吗？"
+    ],
+    "atoms_text": "拿到体检报告 翻到心电图那一页 上面写着六个字 窦性心律不齐",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3821,
+    "seg_id": "S1-L2",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "体检报告引发的紧张",
+    "template": "warning_alert",
+    "items": [
+      "拿到报告就想冲去医院"
+    ],
+    "atoms_text": "那还得了 是不是得赶紧去医院看看",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3822,
+    "seg_id": "S1-L3",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "体检报告引发的紧张",
+    "template": "list_fade",
+    "items": [
+      "每年体检季都有人拿着报告来问",
+      "手指着六个字一脸紧张",
+      "大夫，这个严不严重？"
+    ],
+    "atoms_text": "先别急 我跟你说 每年体检季 我的门诊 都会来一批人 拿着体检报告 手指头点着这六个字 一脸紧张的问大夫 这个心律不齐 严不严重",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3823,
+    "seg_id": "S1-L4",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "体检报告引发的紧张",
+    "template": "hero_text",
+    "items": [
+      "今天我一次给你说清楚"
+    ],
+    "atoms_text": "我每次都得花好几分钟时间 给他们解释 今天我一次讲清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3824,
+    "seg_id": "S2-L1",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "step_arrow",
+    "items": [
+      "先看前两个字：窦性",
+      "拆开来理解才不会误判",
+      "字面恐慌来自没拆开看"
+    ],
+    "atoms_text": "这六个字 你得拆开来看 先看前面两个字 窦性",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3825,
+    "seg_id": "S2-L2",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "body_annotate",
+    "items": [
+      "心脏内有天然指挥官",
+      "负责发号施令让心脏跳动"
+    ],
+    "atoms_text": "窦性是什么意思呢 你的心脏里面 有一个天然的指挥官 负责发号施令 让心脏跳起来",
+    "needs_animation": true,
+    "label": "窦房结作为心脏天然起搏点发出电信号驱动心脏跳动"
+  },
+  {
+    "global_index": 3826,
+    "seg_id": "S2-L3",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "hero_text",
+    "items": [
+      "写了\"窦性\"= 指挥官正常上班"
+    ],
+    "atoms_text": "你不用记它叫什么 就知道 只要心电图上写了窦性两个字 就说明这个指挥官 在正常上班",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3827,
+    "seg_id": "S2-L4",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "hero_text",
+    "items": [
+      "窦性心律 = 心跳节奏正常"
+    ],
+    "atoms_text": "所以窦性心律 翻译成大白话 就是你的心跳节奏是正常的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3828,
+    "seg_id": "S3-L1",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "不齐的真相",
+    "template": "hero_text",
+    "items": [
+      "既然正常，为何又写\"不齐\"？"
+    ],
+    "atoms_text": "那既然正常 后面为什么又写了个不齐呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3829,
+    "seg_id": "S3-L2",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "不齐的真相",
+    "template": "myth_buster",
+    "items": [
+      "心跳像钟表，一秒一下完全均匀",
+      "心跳本就有自然的快慢波动"
+    ],
+    "atoms_text": "因为人的心跳呀 本来就不是 像钟表一样 一秒一下一秒一下 完全均匀的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3830,
+    "seg_id": "S3-L3",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "不齐的真相",
+    "template": "step_arrow",
+    "items": [
+      "深吸一口气憋住",
+      "心跳微微加快",
+      "缓慢呼出，心跳随之变慢"
+    ],
+    "atoms_text": "你现在可以试一下 深吸一口气 憋住 你会感觉心跳微微快了一点 慢慢呼出来 心跳又慢下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3831,
+    "seg_id": "S3-L4",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "不齐的真相",
+    "template": "step_arrow",
+    "items": [
+      "呼吸引起心跳快慢变化",
+      "机器检测到节律不均匀",
+      "心电图标注\"心律不齐\""
+    ],
+    "atoms_text": "这个快一点慢一点 反映在心电图上 机器就会判断你的心律不齐 其实是你呼吸的时候 心跳跟着有点快慢变化而已",
+    "needs_animation": true,
+    "label": "呼吸引起迷走神经张力变化导致心率随呼吸快慢交替"
+  },
+  {
+    "global_index": 3832,
+    "seg_id": "S3-L5",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "不齐的真相",
+    "template": "list_fade",
+    "items": [
+      "年轻人反而更明显",
+      "越明显说明心脏调节能力越好"
+    ],
+    "atoms_text": "特别正常的生理现象 年轻人反而更加明显",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3833,
+    "seg_id": "S3-L6",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "不齐的真相",
+    "template": "hero_text",
+    "items": [
+      "心脏越灵活，波动越大，不是病"
+    ],
+    "atoms_text": "说白了 你的心脏越灵活 这种随着呼吸的快慢变化 反而越大 这不是病 而是你的心脏调节能力好的表现",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3834,
+    "seg_id": "S4-L1",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "报告的正确解读",
+    "template": "hero_text",
+    "items": [
+      "窦性心律不齐 = 小波动，无需处理"
+    ],
+    "atoms_text": "所以你体检报告上写的窦性心律不齐 大多数情况下的意思 就是你的心脏跳动节奏正常 只不过有点快慢交替的小波动 完全不需要处理",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3835,
+    "seg_id": "S4-L2",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "报告的正确解读",
+    "template": "step_arrow",
+    "items": [
+      "心脏真有问题",
+      "心电图绝不止六个字",
+      "医生一定会写明具体诊断"
+    ],
+    "atoms_text": "如果你还是不太放心 那你就反过来想 如果你的心脏真的有什么问题 心电图上不会只写着六个字就完了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3836,
+    "seg_id": "S4-L3",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "报告的正确解读",
+    "template": "list_fade",
+    "items": [
+      "房颤会明确写出房颤",
+      "早搏会明确写出早搏",
+      "ST段变化会明确标注"
+    ],
+    "atoms_text": "该写房颤会写房颤 该写早搏会写早搏 该写ST段变化会写ST段变化",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3837,
+    "seg_id": "S4-L4",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "报告的正确解读",
+    "template": "hero_text",
+    "items": [
+      "真有问题，不会只留这六个字"
+    ],
+    "atoms_text": "我做了这么多年的心内科 真正有问题的心电图 没有哪个医生会轻描淡写的 只留一句窦性心律不齐就完了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3838,
+    "seg_id": "S5-L1",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "什么情况该真的去查",
+    "template": "hero_text",
+    "items": [
+      "但这些症状，千万别忽视"
+    ],
+    "atoms_text": "当然我不是说 所有的心脏不舒服都不用管",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3839,
+    "seg_id": "S5-L2",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "什么情况该真的去查",
+    "template": "list_fade",
+    "items": [
+      "经常心慌或胸闷",
+      "突然跳得特别快特别乱",
+      "有过晕倒的经历"
+    ],
+    "atoms_text": "如果你平时经常感觉心慌胸闷 或者突然跳的特别快特别乱 又或者有过晕倒的情况 那不管心电图上写的是什么 都应该来心内科查一查看一看",
+    "needs_animation": false,
+    "label": ""
+  }
+]

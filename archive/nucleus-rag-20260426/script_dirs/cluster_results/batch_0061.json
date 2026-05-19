@@ -1,0 +1,528 @@
+[
+  {
+    "global_index": 2440,
+    "seg_id": "S1-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "腹透 vs 血透，到底选哪个？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2441,
+    "seg_id": "S1-L2",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "开场点题",
+    "template": "myth_buster",
+    "items": [
+      "腹透好，不用跑医院",
+      "血透好，透得更干净"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2442,
+    "seg_id": "S1-L3",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "四条标准，帮你对号入座"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2443,
+    "seg_id": "S2-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "血液透析原理",
+    "template": "step_arrow",
+    "items": [
+      "血液从身体引出",
+      "机器过滤废物与多余水分",
+      "净化后血液送回体内"
+    ],
+    "needs_animation": true,
+    "label": "血液透析体外循环过滤过程"
+  },
+  {
+    "global_index": 2444,
+    "seg_id": "S2-L2",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "血液透析原理",
+    "template": "number_center",
+    "items": [
+      "12"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2445,
+    "seg_id": "S3-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "腹膜透析原理",
+    "template": "step_arrow",
+    "items": [
+      "腹腔置入透析管",
+      "灌入透析液泡几小时",
+      "腹膜过滤毒素后放出",
+      "一天换液三到四次"
+    ],
+    "needs_animation": true,
+    "label": "腹膜透析腹腔换液过程"
+  },
+  {
+    "global_index": 2446,
+    "seg_id": "S4-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "判断标准导入",
+    "template": "hero_text",
+    "items": [
+      "四条标准，逐条对号入座"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2447,
+    "seg_id": "S5-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准一：残余肾功能",
+    "template": "hero_text",
+    "items": [
+      "看你还剩多少肾功能"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2448,
+    "seg_id": "S5-L2",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准一：残余肾功能",
+    "template": "split_column",
+    "items": [
+      "持续缓慢透析，冲击小",
+      "间歇性猛透，血压波动大",
+      "残余肾功能保护更好",
+      "残余肾功能下降更快"
+    ],
+    "needs_animation": true,
+    "label": "透析方式对残余肾功能的影响机制"
+  },
+  {
+    "global_index": 2449,
+    "seg_id": "S5-L3",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准一：残余肾功能",
+    "template": "brick_stack",
+    "items": [
+      "帮助排出多余水分",
+      "辅助清除毒素",
+      "维持内环境稳定"
+    ],
+    "needs_animation": true,
+    "label": "残余肾功能的生理作用"
+  },
+  {
+    "global_index": 2450,
+    "seg_id": "S5-L4",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准一：残余肾功能",
+    "template": "warning_alert",
+    "items": [
+      "刚开始透析、还有尿量者，优先考虑腹透"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2451,
+    "seg_id": "S5-L5",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准一：残余肾功能",
+    "template": "hero_text",
+    "items": [
+      "透析起步阶段，腹透更护肾"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2452,
+    "seg_id": "S5-L6",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准一：残余肾功能",
+    "template": "hero_text",
+    "items": [
+      "还有尿量的患者，腹透是更好起点"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2453,
+    "seg_id": "S6-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准二：身体条件",
+    "template": "hero_text",
+    "items": [
+      "看你的身体条件"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2454,
+    "seg_id": "S6-L2",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准二：身体条件",
+    "template": "warning_alert",
+    "items": [
+      "糖尿病患者血管又硬又脆易堵"
+    ],
+    "needs_animation": true,
+    "label": "糖尿病血管硬化病变"
+  },
+  {
+    "global_index": 2455,
+    "seg_id": "S6-L3",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准二：身体条件",
+    "template": "step_arrow",
+    "items": [
+      "动脉与静脉手术吻合",
+      "血管变粗变壮承受扎针",
+      "糖尿病患者内瘘失败率更高"
+    ],
+    "needs_animation": true,
+    "label": "动静脉内瘘手术吻合过程"
+  },
+  {
+    "global_index": 2456,
+    "seg_id": "S6-L4",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准二：身体条件",
+    "template": "hero_text",
+    "items": [
+      "血管条件差者，腹透更省事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2457,
+    "seg_id": "S6-L5",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准二：身体条件",
+    "template": "warning_alert",
+    "items": [
+      "有腹腔大手术史、粘连或疝气者不宜腹透"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2458,
+    "seg_id": "S6-L6",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准二：身体条件",
+    "template": "split_column",
+    "items": [
+      "糖尿病血管条件差",
+      "腹腔粘连或疝气",
+      "优先腹膜透析",
+      "优先血液透析"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2459,
+    "seg_id": "S7-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准三：生活方式",
+    "template": "hero_text",
+    "items": [
+      "看你的生活方式，非常重要"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2460,
+    "seg_id": "S7-L2",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准三：生活方式",
+    "template": "split_column",
+    "items": [
+      "有专业护士操作，无需自理",
+      "每周三次时间被绑死",
+      "省心省力",
+      "自由度极低"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2461,
+    "seg_id": "S7-L3",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准三：生活方式",
+    "template": "split_column",
+    "items": [
+      "在家自操作，出行自由",
+      "需严格无菌，感染风险高",
+      "时间自主安排",
+      "腹膜炎一旦发生很麻烦"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2462,
+    "seg_id": "S7-L4",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准三：生活方式",
+    "template": "branch_path",
+    "items": [
+      "你更看重什么？",
+      "重自由 → 腹透更合适",
+      "重省心 → 血透更合适"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2463,
+    "seg_id": "S7-L5",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准三：生活方式",
+    "template": "hero_text",
+    "items": [
+      "透析方式应配合你的生活节奏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2464,
+    "seg_id": "S8-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准四与总结",
+    "template": "hero_text",
+    "items": [
+      "两种透析方式可以相互转换"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2465,
+    "seg_id": "S8-L2",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准四与总结",
+    "template": "myth_buster",
+    "items": [
+      "选了一种就要坚持一辈子",
+      "可以根据情况随时转换方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2466,
+    "seg_id": "S8-L3",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准四与总结",
+    "template": "vertical_timeline",
+    "items": [
+      "起步阶段：选腹透保护残肾",
+      "腹膜功能下降：转为血透",
+      "血透影响生活：转为腹透",
+      "特殊情况：腹透与血透搭配使用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2467,
+    "seg_id": "S8-L4",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准四与总结",
+    "template": "list_fade",
+    "items": [
+      "残余肾功能多少",
+      "血管与腹腔身体条件",
+      "生活方式与自由需求",
+      "两种方案可动态切换"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2468,
+    "seg_id": "S8-L5",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准四与总结",
+    "template": "hero_text",
+    "items": [
+      "没有最好的透析，只有最适合你的选择"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2469,
+    "seg_id": "S8-L6",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准四与总结",
+    "template": "hero_text",
+    "items": [
+      "讲明白了吗？欢迎评论告诉我"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2470,
+    "seg_id": "S1-L1",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "可吸收支架听起来很完美",
+    "template": "split_column",
+    "items": [
+      "2-3年自然降解为水和CO₂",
+      "血管恢复自然舒缩功能",
+      "彻底消失无残留异物",
+      "金属支架终身留在体内"
+    ],
+    "needs_animation": true,
+    "label": "可吸收支架在血管内降解过程"
+  },
+  {
+    "global_index": 2471,
+    "seg_id": "S1-L2",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "可吸收支架听起来很完美",
+    "template": "hero_text",
+    "items": [
+      "听起来完美，到底哪里出了问题？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2472,
+    "seg_id": "S1-L3",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "可吸收支架听起来很完美",
+    "template": "list_fade",
+    "items": [
+      "听起来",
+      "完美无缺",
+      "到底哪里不好呢",
+      "今天给大家讲一下"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2473,
+    "seg_id": "S2-L1",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "warning_alert",
+    "items": [
+      "退市的是第一代可吸收支架"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2474,
+    "seg_id": "S2-L2",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "step_arrow",
+    "items": [
+      "核心问题：技术不成熟",
+      "解决了异物问题",
+      "却埋下更致命的临床隐患"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2475,
+    "seg_id": "S2-L3",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2476,
+    "seg_id": "S2-L4",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "brick_stack",
+    "items": [
+      "支架梁过厚阻碍血管内皮化",
+      "复杂病变贴壁差易致血栓",
+      "成本高昂安全性不及金属支架"
+    ],
+    "needs_animation": true,
+    "label": "支架梁过厚阻碍血管内皮化过程"
+  },
+  {
+    "global_index": 2477,
+    "seg_id": "S2-L5",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "warning_alert",
+    "items": [
+      "晚期血栓风险大幅升高",
+      "可能诱发急性心肌梗死"
+    ],
+    "needs_animation": true,
+    "label": "支架内晚期血栓形成过程"
+  },
+  {
+    "global_index": 2478,
+    "seg_id": "S2-L6",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "step_arrow",
+    "items": [
+      "复杂钙化病变通过性差",
+      "支架贴壁不佳",
+      "支架内血栓或再狭窄"
+    ],
+    "needs_animation": true,
+    "label": "钙化病变中支架贴壁不良与血栓形成"
+  },
+  {
+    "global_index": 2479,
+    "seg_id": "S2-L7",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "第一代产品为何翻车",
+    "template": "vertical_timeline",
+    "items": [
+      "早期：理论完美上市推广",
+      "中期：临床隐患逐步暴露",
+      "2017年：全球正式退市"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

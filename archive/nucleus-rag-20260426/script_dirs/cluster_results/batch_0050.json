@@ -1,0 +1,521 @@
+[
+  {
+    "global_index": 2000,
+    "seg_id": "S2-L6",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "斑块为何如此常见",
+    "template": "myth_buster",
+    "items": [
+      "拿到报告就要紧张害怕",
+      "斑块常见，关键看稳不稳定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2001,
+    "seg_id": "S3-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "稳定与危险斑块对比",
+    "template": "hero_text",
+    "items": [
+      "颈动脉超声报告会明确提示"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2002,
+    "seg_id": "S3-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "稳定与危险斑块对比",
+    "template": "split_column",
+    "items": [
+      "强回声——硬如石头",
+      "低回声——软如稀粥",
+      "不易破裂风险低",
+      "表面不平整易损伤"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉稳定斑块与易损斑块结构对比"
+  },
+  {
+    "global_index": 2003,
+    "seg_id": "S3-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "稳定与危险斑块对比",
+    "template": "step_arrow",
+    "items": [
+      "血压升高情绪激动",
+      "软斑块破裂",
+      "形成血栓导致脑梗"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉易损斑块破裂形成血栓过程"
+  },
+  {
+    "global_index": 2004,
+    "seg_id": "S3-L4",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "稳定与危险斑块对比",
+    "template": "warning_alert",
+    "items": [
+      "斑块致血管狭窄超50%须重视"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉斑块导致血管狭窄"
+  },
+  {
+    "global_index": 2005,
+    "seg_id": "S3-L5",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "稳定与危险斑块对比",
+    "template": "hero_text",
+    "items": [
+      "易损斑块是脑梗真正元凶"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2006,
+    "seg_id": "S4-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "稳定斑块的希望",
+    "template": "hero_text",
+    "items": [
+      "斑块做对了甚至可以缩小"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2007,
+    "seg_id": "S5-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "规范用药是核心",
+    "template": "hero_text",
+    "items": [
+      "规范用药——稳定斑块的核心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2008,
+    "seg_id": "S5-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "规范用药是核心",
+    "template": "list_fade",
+    "items": [
+      "高血压患者需规范用药",
+      "高血脂患者优先使用他汀",
+      "糖尿病患者同样需要他汀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2009,
+    "seg_id": "S5-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "规范用药是核心",
+    "template": "step_arrow",
+    "items": [
+      "降低血液中坏胆固醇",
+      "软斑块慢慢变硬变稳定",
+      "部分小斑块逐渐缩小"
+    ],
+    "needs_animation": true,
+    "label": "他汀类药物稳定并缩小斑块的机制"
+  },
+  {
+    "global_index": 2010,
+    "seg_id": "S5-L4",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "规范用药是核心",
+    "template": "warning_alert",
+    "items": [
+      "必须遵医嘱不可自行停药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2011,
+    "seg_id": "S6-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "科学饮食控血脂",
+    "template": "hero_text",
+    "items": [
+      "科学饮食——控制血脂来源"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2012,
+    "seg_id": "S6-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "科学饮食控血脂",
+    "template": "split_column",
+    "items": [
+      "肥肉油炸食品",
+      "蔬菜水果全谷物",
+      "动物内脏高胆固醇",
+      "深海鱼护血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2013,
+    "seg_id": "S6-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "科学饮食控血脂",
+    "template": "hero_text",
+    "items": [
+      "把血脂控制在合理范围内"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2014,
+    "seg_id": "S7-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "坚持运动促循环",
+    "template": "number_center",
+    "items": [
+      "150分钟"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2015,
+    "seg_id": "S7-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "坚持运动促循环",
+    "template": "list_fade",
+    "items": [
+      "快走改善血液循环",
+      "慢跑减少血管垃圾堆积",
+      "游泳全身有氧护血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2016,
+    "seg_id": "S8-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "戒掉坏习惯",
+    "template": "list_fade",
+    "items": [
+      "戒烟减少血管毒素",
+      "限酒降低血管负担"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2017,
+    "seg_id": "S8-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "戒掉坏习惯",
+    "template": "list_fade",
+    "items": [
+      "不熬夜让血管得到修复",
+      "控制情绪避免血压骤升"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2018,
+    "seg_id": "S8-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "戒掉坏习惯",
+    "template": "hero_text",
+    "items": [
+      "生活方式调整是长期功课"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2019,
+    "seg_id": "S9-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "科学应对总结",
+    "template": "hero_text",
+    "items": [
+      "斑块不可怕，但不能不管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2020,
+    "seg_id": "S9-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "科学应对总结",
+    "template": "step_arrow",
+    "items": [
+      "判断是稳定还是易损斑块",
+      "配合医生治疗方案",
+      "调整生活方式守护脑血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2021,
+    "seg_id": "S1-L1",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦这么多有啥区别",
+    "template": "hero_text",
+    "items": [
+      "沙坦这么多，到底该怎么选？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2022,
+    "seg_id": "S1-L2",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦这么多有啥区别",
+    "template": "hero_text",
+    "items": [
+      "同是包子，口味却各有不同"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2023,
+    "seg_id": "S1-L3",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦这么多有啥区别",
+    "template": "hero_text",
+    "items": [
+      "都叫猪肉大葱，但皮馅各不同"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2024,
+    "seg_id": "S1-L4",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦这么多有啥区别",
+    "template": "list_fade",
+    "items": [
+      "有的皮薄",
+      "有的馅大汁多",
+      "有的还加香菇提鲜"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2025,
+    "seg_id": "S1-L5",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦这么多有啥区别",
+    "template": "hero_text",
+    "items": [
+      "配方不同，适合的人自然不同"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2026,
+    "seg_id": "S2-L1",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦的基本原理",
+    "template": "hero_text",
+    "items": [
+      "都叫血管紧张素受体抑制剂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2027,
+    "seg_id": "S2-L2",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦的基本原理",
+    "template": "step_arrow",
+    "items": [
+      "血管紧张素二收缩血管升压",
+      "沙坦摁住它阻断与受体结合",
+      "血压得到控制"
+    ],
+    "needs_animation": true,
+    "label": "沙坦类药物阻断血管紧张素II受体的降压机制"
+  },
+  {
+    "global_index": 2028,
+    "seg_id": "S2-L3",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦的基本原理",
+    "template": "hero_text",
+    "items": [
+      "基本功相同，强弱与附加功能各异"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2029,
+    "seg_id": "S3-L1",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "高尿酸患者选谁",
+    "template": "color_grid",
+    "items": [
+      "氯沙坦",
+      "阿利沙坦"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2030,
+    "seg_id": "S3-L2",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "高尿酸患者选谁",
+    "template": "step_arrow",
+    "items": [
+      "抑制肾小管尿酸转运蛋白",
+      "减少肾脏重吸收尿酸",
+      "促进尿酸随尿液排出"
+    ],
+    "needs_animation": true,
+    "label": "氯沙坦抑制肾小管尿酸重吸收促排泄机制"
+  },
+  {
+    "global_index": 2031,
+    "seg_id": "S3-L3",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "高尿酸患者选谁",
+    "template": "list_fade",
+    "items": [
+      "高血压合并高尿酸血症",
+      "有痛风病史的患者",
+      "既降压又辅助控尿酸"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2032,
+    "seg_id": "S4-L1",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "心衰患者选谁",
+    "template": "color_grid",
+    "items": [
+      "缬沙坦",
+      "坎地沙坦"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2033,
+    "seg_id": "S4-L2",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "心衰患者选谁",
+    "template": "list_fade",
+    "items": [
+      "大型临床试验实打实验证",
+      "降低心衰患者死亡率",
+      "减少住院率延缓心衰进展"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2034,
+    "seg_id": "S4-L3",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "心衰患者选谁",
+    "template": "split_column",
+    "items": [
+      "缬沙坦/坎地沙坦",
+      "大型研究证据充分",
+      "替米沙坦",
+      "心衰领域缺乏铁证研究"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2035,
+    "seg_id": "S4-L4",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "心衰患者选谁",
+    "template": "hero_text",
+    "items": [
+      "医学讲证据，有据才入指南"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2036,
+    "seg_id": "S4-L5",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "心衰患者选谁",
+    "template": "hero_text",
+    "items": [
+      "替米沙坦降压稳，但心衰证据不足"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2037,
+    "seg_id": "S5-L1",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "肾脏保护选谁",
+    "template": "color_grid",
+    "items": [
+      "氯沙坦",
+      "厄贝沙坦"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2038,
+    "seg_id": "S5-L2",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "肾脏保护选谁",
+    "template": "step_arrow",
+    "items": [
+      "抑制血管紧张素二受体",
+      "扩张肾血管降低肾内压力",
+      "减少尿蛋白延缓肾功能恶化"
+    ],
+    "needs_animation": true,
+    "label": "沙坦类药物扩张肾血管保护肾功能机制"
+  },
+  {
+    "global_index": 2039,
+    "seg_id": "S5-L3",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "肾脏保护选谁",
+    "template": "list_fade",
+    "items": [
+      "高血压合并肾功能不全",
+      "有蛋白尿的患者",
+      "长期用药降低尿毒症风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

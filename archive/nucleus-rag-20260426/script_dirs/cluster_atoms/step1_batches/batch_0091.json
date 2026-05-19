@@ -1,0 +1,583 @@
+[
+  {
+    "global_index": 3640,
+    "seg_id": "S4-L2",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩二：远离西柚",
+    "template": "step_arrow",
+    "items": [
+      "西柚成分让他汀浓度骤升",
+      "清洁工血管里疯狂加班",
+      "肌肉酸痛甚至横纹肌溶解"
+    ],
+    "atoms_text": "因为西柚里 有一种成分呢 会让这个清洁工 突然法力大增 在血管疯狂的加班 结果啊 把自己累的 腰酸背痛 腿抽筋 也就是咱们说的 肌肉酸痛 和横纹肌溶解",
+    "needs_animation": true,
+    "label": "西柚成分抑制药物代谢酶致他汀血药浓度飙升引发横纹肌溶解"
+  },
+  {
+    "global_index": 3641,
+    "seg_id": "S4-L3",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩二：远离西柚",
+    "template": "split_column",
+    "items": [
+      "橙子柚子随便吃",
+      "西柚服药期间需避开"
+    ],
+    "atoms_text": "所以吃药期间 什么橙子柚子 你随便吃啊 西柚呢 我觉得大家偏爱着 还是比较少 喜欢吃人不多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3642,
+    "seg_id": "S4-L4",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩二：远离西柚",
+    "template": "number_center",
+    "items": [
+      "1.2"
+    ],
+    "atoms_text": "他们 阿托伐他汀说明书里 提到了 大量的西柚汁啊 一点二升 那得多少个西柚 才能榨成那一杯西柚汁啊 我们有些人 每一天喝水 总共也不到一点二升",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3643,
+    "seg_id": "S5-L1",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩三：不能擅自停药",
+    "template": "warning_alert",
+    "items": [
+      "血脂正常了就停药，是大错误"
+    ],
+    "atoms_text": "第三个 千万别动不动就开除他 那很多患者 吃了几天觉得没感觉 或者一看 血脂正常了 啪啪啪 擅自把药给停了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3644,
+    "seg_id": "S5-L2",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩三：不能擅自停药",
+    "template": "step_arrow",
+    "items": [
+      "河道刚打通就辞退清洁工",
+      "淤泥血脂反弹比原来还猛",
+      "心脑血管风险重新升高"
+    ],
+    "atoms_text": "这就好比什么呢 你这个河道刚打通 你就把清洁工给辞退了 没人看着呀 这个淤泥 血脂反弹的 比原来还猛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3645,
+    "seg_id": "S5-L3",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩三：不能擅自停药",
+    "template": "branch_path",
+    "items": [
+      "是否需要停药？",
+      "听医生判断再决定",
+      "自行停药危害极大"
+    ],
+    "atoms_text": "他汀呢 是一个长工 他不是临时工 要不要停呢 咱们得听医生的 别自己当老板啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3646,
+    "seg_id": "S6-L1",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "总结：他汀是个宝",
+    "template": "list_fade",
+    "items": [
+      "服药期间戒酒护肝",
+      "远离西柚防肌肉损伤",
+      "遵医嘱用药不擅自停",
+      "肌肉酸痛及时就医",
+      "长期用药保护心脑"
+    ],
+    "atoms_text": "所以总结一下 他汀是个宝 护心又护脑 戒酒是必须 西柚不能搞 肌肉若酸痛 赶紧医院跑 千万勿停药 保命要趁早",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3647,
+    "seg_id": "S1-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "你试过的那些方法",
+    "template": "list_fade",
+    "items": [
+      "睡前喝牛奶",
+      "每晚泡脚",
+      "吃褪黑素",
+      "薰衣草精油",
+      "几百块助眠枕头"
+    ],
+    "atoms_text": "对于失眠 你是不是 已经尝试过 很多办法了 褪黑素 吃过 泡脚 泡过 睡前牛奶 喝过 薰衣草精油 买过 甚至 几百块的助眠枕头 也买过",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3648,
+    "seg_id": "S1-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "你试过的那些方法",
+    "template": "branch_path",
+    "items": [
+      "这些方法管用吗",
+      "管了两天又回去了",
+      "最终放弃，认命了"
+    ],
+    "atoms_text": "管用吗 有的 管过两天 然后又回去了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3649,
+    "seg_id": "S1-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "你试过的那些方法",
+    "template": "hero_text",
+    "items": [
+      "觉得自己天生睡不好——真的吗？"
+    ],
+    "atoms_text": "后来 你可能就不折腾了 觉得自己 就是这种体质 天生睡不好 认了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3650,
+    "seg_id": "S2-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "真实案例：甲亢引发失眠",
+    "template": "list_fade",
+    "items": [
+      "褪黑素吃了好几瓶",
+      "助眠喷雾",
+      "镇静毯",
+      "睡眠仪"
+    ],
+    "atoms_text": "说实话 我们经常遇到这样的人 一个四十多岁的大姐 失眠三年多 自己在网上 买了一堆东西 褪黑素 吃了好几瓶 什么助眠喷雾 镇静毯 睡眠仪 家里堆了一桌子",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3651,
+    "seg_id": "S2-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "真实案例：甲亢引发失眠",
+    "template": "number_center",
+    "items": [
+      "小几千元"
+    ],
+    "atoms_text": "我问他 你花了多少钱 他说 加起来有小几千了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3652,
+    "seg_id": "S2-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "真实案例：甲亢引发失眠",
+    "template": "step_arrow",
+    "items": [
+      "抽血检查甲状腺功能",
+      "结果显示：甲亢",
+      "甲状腺拼命分泌激素，身体持续兴奋"
+    ],
+    "atoms_text": "我问他 有没有查过甲状腺功能 回答说没有 我让他抽了一个血 结果一出来 甲亢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3653,
+    "seg_id": "S2-L4",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "真实案例：甲亢引发失眠",
+    "template": "body_annotate",
+    "items": [
+      "心跳加速",
+      "手抖",
+      "怕热",
+      "大脑无法平静"
+    ],
+    "atoms_text": "他的失眠 跟睡眠习惯 一点关系都没有 是他的甲状腺 在拼命分泌激素 让整个人 一直处于兴奋状态 心跳快 手抖 怕热 身体根本就不让你安静下来",
+    "needs_animation": true,
+    "label": "甲状腺过度分泌激素使人体持续处于兴奋状态"
+  },
+  {
+    "global_index": 3654,
+    "seg_id": "S2-L5",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "真实案例：甲亢引发失眠",
+    "template": "myth_buster",
+    "items": [
+      "褪黑素能治好失眠",
+      "褪黑素只调生物钟，管不了甲状腺",
+      "多吃褪黑素就能入睡",
+      "根本原因不解决，吃多少都无效"
+    ],
+    "atoms_text": "你让他吃多少褪黑素 都没有用啊 因为褪黑素 管的是你的生物钟 他管不了 你的甲状腺 在哪发疯",
+    "needs_animation": true,
+    "label": "褪黑素调节生物钟的通路无法干预甲状腺激素过度分泌"
+  },
+  {
+    "global_index": 3655,
+    "seg_id": "S3-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "失眠的根本不是睡眠问题",
+    "template": "hero_text",
+    "items": [
+      "你的失眠，可能根本不是睡眠的问题"
+    ],
+    "atoms_text": "所以我跟你说一件事 你的失眠 可能根本不是睡眠的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3656,
+    "seg_id": "S3-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "失眠的根本不是睡眠问题",
+    "template": "list_fade",
+    "items": [
+      "默认你身体没毛病",
+      "只是睡不着，推一把就行",
+      "忽略了真正的病因"
+    ],
+    "atoms_text": "你试过的那些东西 全都在干同一件事 帮你入睡 他们的前提是 你这个人没什么毛病 就是睡不着 推一把就行了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3657,
+    "seg_id": "S3-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "失眠的根本不是睡眠问题",
+    "template": "step_arrow",
+    "items": [
+      "一直在尝试助眠方法",
+      "从未往前追问原因",
+      "我到底为什么睡不着？"
+    ],
+    "atoms_text": "但如果 你睡不着的原因 根本不在睡觉这个环节呢 你一直在治 结果从来没有 往前追一步 我到底为什么睡不着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3658,
+    "seg_id": "S4-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因一：慢性焦虑",
+    "template": "hero_text",
+    "items": [
+      "除了甲亢，这几个原因你对照看看"
+    ],
+    "atoms_text": "除了刚才说的甲亢 还有几个 很常见的原因 你对照想一想",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3659,
+    "seg_id": "S4-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因一：慢性焦虑",
+    "template": "list_fade",
+    "items": [
+      "自己都不一定意识到",
+      "白天忙，顾不上想",
+      "躺下安静后脑子开始转"
+    ],
+    "atoms_text": "第一个 慢性焦虑 我说的不是 什么天大的事儿 让你睡不着 很多人的焦虑 是低水平的 自己都不一定意识到",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3660,
+    "seg_id": "S4-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因一：慢性焦虑",
+    "template": "list_fade",
+    "items": [
+      "明天那件事怎么办",
+      "上个月那笔钱还没还",
+      "孩子成绩又下来了"
+    ],
+    "atoms_text": "白天还好 忙着呢 顾不上 一到晚上 躺下来安静了 脑子就开始转 明天那个事儿怎么办 上个月那笔钱 还没有还 孩子成绩 又下来了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3661,
+    "seg_id": "S4-L4",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因一：慢性焦虑",
+    "template": "warning_alert",
+    "items": [
+      "大脑不肯关机，不是真的不困",
+      "焦虑不处理，助眠方法全是隔靴搔痒"
+    ],
+    "atoms_text": "你不是不困 你是大脑不肯关机 这种焦虑 如果你不去理它 什么助眠方法 都是隔靴搔痒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3662,
+    "seg_id": "S5-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因二：睡眠呼吸暂停",
+    "template": "step_arrow",
+    "items": [
+      "打呼噜打着打着突然没声",
+      "停几秒后又重新开始",
+      "大概率是睡眠呼吸暂停"
+    ],
+    "atoms_text": "第二个 睡眠呼吸暂停 你晚上打不打呼噜 打着打着 突然没声了 停几秒又开始的那种 大概率有这个问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3663,
+    "seg_id": "S5-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因二：睡眠呼吸暂停",
+    "template": "number_center",
+    "items": [
+      "几十至上百次"
+    ],
+    "atoms_text": "你以为你睡了一晚上 其实你的身体 一晚上缺氧了 几十次 甚至上百次 第二天起来 头晕乏力 怎么睡都觉得没睡够",
+    "needs_animation": true,
+    "label": "睡眠中呼吸道反复塌陷导致一晚缺氧几十至上百次"
+  },
+  {
+    "global_index": 3664,
+    "seg_id": "S5-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因二：睡眠呼吸暂停",
+    "template": "warning_alert",
+    "items": [
+      "头晕乏力，怎么睡都不够",
+      "问题在呼吸道，调睡眠习惯没用"
+    ],
+    "atoms_text": "这种 你调什么睡眠习惯 都没用 问题在你的呼吸道上",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3665,
+    "seg_id": "S5-L4",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因二：睡眠呼吸暂停",
+    "template": "branch_path",
+    "items": [
+      "/ 白天极度困倦",
+      "去做睡眠监测，排查呼吸暂停",
+      "忽视继续，缺氧问题持续损伤身体"
+    ],
+    "atoms_text": "如果你的家人 说你打呼噜特别厉害 或者你白天困得不行 但晚上明明 睡了七八个小时 去做个睡眠监测 看看",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3666,
+    "seg_id": "S6-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因三：胃食管反流",
+    "template": "step_arrow",
+    "items": [
+      "一躺下胃酸往上反",
+      "烧心，嗓子不舒服",
+      "反复打断深睡眠，质量上不去"
+    ],
+    "atoms_text": "第三个 胃食管反流 有些人一躺下 就胃酸往上反 烧心 嗓子不舒服 不严重的时候 你可能觉得 翻个身就好了 但他确实在 反复打断你的深睡眠 你的睡眠质量 就是上不去",
+    "needs_animation": true,
+    "label": "躺下时胃酸反流上涌反复打断深睡眠周期"
+  },
+  {
+    "global_index": 3667,
+    "seg_id": "S7-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "助眠方法治错了对象",
+    "template": "color_grid",
+    "items": [
+      "慢性焦虑",
+      "甲亢",
+      "睡眠呼吸暂停",
+      "胃食管反流"
+    ],
+    "atoms_text": "你看 焦虑 甲亢 呼吸暂停 胃食管反流 哪一个 跟你的枕头有关系呢 跟你泡不泡脚有关系呢 都没有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3668,
+    "seg_id": "S7-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "助眠方法治错了对象",
+    "template": "split_column",
+    "items": [
+      "单纯睡眠习惯不好",
+      "存在隐藏身体问题",
+      "调整作息有效果",
+      "方法全部无效"
+    ],
+    "atoms_text": "我不是说 那些助眠方法不好 对于单纯睡眠习惯不好的人 调整作息 确实有帮助",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3669,
+    "seg_id": "S7-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "助眠方法治错了对象",
+    "template": "hero_text",
+    "items": [
+      "试了一堆都没用？该停下来往前追一步"
+    ],
+    "atoms_text": "但如果你试了一大堆方法 都不管用 或者管几天就回去了 你真的该停下来想一想 是不是根本不是 睡觉这件事上出了问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3670,
+    "seg_id": "S8-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "正确做法：去看医生",
+    "template": "list_fade",
+    "items": [
+      "失眠多久了",
+      "试过哪些方法",
+      "除失眠外还有哪些不适"
+    ],
+    "atoms_text": "去医院 挂一个睡眠门诊 或者神经内科 跟医生说清楚你的情况 失眠多久了 试过什么 除了失眠 还有什么不舒服",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3671,
+    "seg_id": "S8-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "正确做法：去看医生",
+    "template": "step_arrow",
+    "items": [
+      "评估是否查甲状腺功能",
+      "判断是否做睡眠监测",
+      "评估焦虑程度"
+    ],
+    "atoms_text": "医生会帮你判断 要不要查甲状腺 做睡眠监测 或者评估一下 焦虑的程度",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3672,
+    "seg_id": "S8-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "正确做法：去看医生",
+    "template": "myth_buster",
+    "items": [
+      "睡不好是自律不够",
+      "很可能是在和错误的敌人较劲",
+      "换个方法就能睡好",
+      "找到真正原因才能根本改善"
+    ],
+    "atoms_text": "甚至很多时候啊 不是你不够自律 不是你方法不对 是你一直在跟 错误的敌人较劲",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3673,
+    "seg_id": "S8-L4",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "正确做法：去看医生",
+    "template": "hero_text",
+    "items": [
+      "找到真正原因，别再花冤枉钱"
+    ],
+    "atoms_text": "找到那个真正的原因 睡眠自己就会好起来 别再花冤枉钱了 好吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3674,
+    "seg_id": "S1-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "累与求救的区别",
+    "template": "hero_text",
+    "items": [
+      "运动时感到累和喘是正常的"
+    ],
+    "atoms_text": "运动的时候 觉得累 觉得喘 这是正常的 说明你的身体 正在被锻炼",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3675,
+    "seg_id": "S1-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "累与求救的区别",
+    "template": "hero_text",
+    "items": [
+      "有一种感觉不是累，是心脏在求救"
+    ],
+    "atoms_text": "但有一种感觉 它不是累 是你的心脏 在给你求救",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3676,
+    "seg_id": "S1-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "累与求救的区别",
+    "template": "myth_buster",
+    "items": [
+      "分不清两者，硬撑继续跑",
+      "停下来，有时才是真正保命"
+    ],
+    "atoms_text": "很多人 分不清 这两者的区别 硬撑着继续跑 觉得坚持就是胜利",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3677,
+    "seg_id": "S1-L4",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "累与求救的区别",
+    "template": "hero_text",
+    "items": [
+      "停下来不是放弃，是保命"
+    ],
+    "atoms_text": "我今天 必须把这件事情讲清楚 因为有些时候 停下来 才是保命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3678,
+    "seg_id": "S2-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号一：胸口发闷发紧",
+    "template": "hero_text",
+    "items": [
+      "信号一：胸口发闷发紧"
+    ],
+    "atoms_text": "第一个信号 胸口发闷发紧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3679,
+    "seg_id": "S2-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号一：胸口发闷发紧",
+    "template": "split_column",
+    "items": [
+      "跑快了上气不接下气",
+      "胸骨中间像石头压住般发闷",
+      "跑步节奏带来的正常气促",
+      "像绳子勒着喘不上来气"
+    ],
+    "atoms_text": "注意 我说的 不是那种 跑快了上气不接下气的感觉 而是 胸骨中间这一块 像有一块石头压着 或者像有根绳子勒着 闷闷的 喘不上来气",
+    "needs_animation": false,
+    "label": ""
+  }
+]

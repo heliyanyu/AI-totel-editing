@@ -1,0 +1,516 @@
+[
+  {
+    "global_index": 640,
+    "seg_id": "S2-L6",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "list_fade",
+    "items": [
+      "心脏血管同步受累风险高",
+      "脑部血管状况不容乐观"
+    ],
+    "needs_animation": true,
+    "label": "下肢动脉粥样硬化累及心脑血管"
+  },
+  {
+    "global_index": 641,
+    "seg_id": "S2-L7",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "hero_text",
+    "items": [
+      "做下肢动脉超声排查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 642,
+    "seg_id": "S3-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "胃疼警惕心梗",
+    "template": "hero_text",
+    "items": [
+      "胸骨下方疼，一活动就发作"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 643,
+    "seg_id": "S3-L2",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "胃疼警惕心梗",
+    "template": "myth_buster",
+    "items": [
+      "上腹不适就是胃病消化不良",
+      "活动后胃疼可能是心梗信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 644,
+    "seg_id": "S3-L3",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "胃疼警惕心梗",
+    "template": "list_fade",
+    "items": [
+      "恶心呕吐",
+      "冒冷汗",
+      "劳累后发作"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 645,
+    "seg_id": "S3-L4",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "胃疼警惕心梗",
+    "template": "step_arrow",
+    "items": [
+      "心梗发作",
+      "疼痛放射至上腹部",
+      "误以为是胃病延误就诊"
+    ],
+    "needs_animation": true,
+    "label": "心肌梗死疼痛放射至上腹部机制"
+  },
+  {
+    "global_index": 646,
+    "seg_id": "S3-L5",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "胃疼警惕心梗",
+    "template": "hero_text",
+    "items": [
+      "去医院查个心电图"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 647,
+    "seg_id": "S4-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "hero_text",
+    "items": [
+      "固定位置持续疼，夜间更重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 648,
+    "seg_id": "S4-L2",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "warning_alert",
+    "items": [
+      "越来越重的固定骨痛一定要重视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 649,
+    "seg_id": "S4-L3",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "split_column",
+    "items": [
+      "活动多了疼，休息后缓解",
+      "夜间更疼，休息也不缓解",
+      "疼痛稳定不进展",
+      "一天比一天厉害"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 650,
+    "seg_id": "S4-L4",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "color_grid",
+    "items": [
+      "肺癌病史",
+      "前列腺癌病史",
+      "乳腺癌病史"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 651,
+    "seg_id": "S4-L5",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "warning_alert",
+    "items": [
+      "早发现还能干预，拖久了就被动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 652,
+    "seg_id": "S4-L6",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "hero_text",
+    "items": [
+      "持续加重固定骨痛赶紧去查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 653,
+    "seg_id": "S4-L7",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "list_fade",
+    "items": [
+      "骨扫描排查转移",
+      "结合原发癌病史综合评估"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 654,
+    "seg_id": "S5-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "手脚麻疼糖尿病神经",
+    "template": "hero_text",
+    "items": [
+      "手脚麻刺痛，像戴手套袜子"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 655,
+    "seg_id": "S5-L2",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "手脚麻疼糖尿病神经",
+    "template": "list_fade",
+    "items": [
+      "糖尿病患者最常见",
+      "血糖控制差十几年后出现"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 656,
+    "seg_id": "S5-L3",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "手脚麻疼糖尿病神经",
+    "template": "vertical_timeline",
+    "items": [
+      "初期：脚底发麻",
+      "进展：刺痛烧灼感加重",
+      "危险：踩地面感觉消失",
+      "终末：破口不知，感染截肢风险"
+    ],
+    "needs_animation": true,
+    "label": "糖尿病周围神经病变进展过程"
+  },
+  {
+    "global_index": 657,
+    "seg_id": "S5-L4",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "手脚麻疼糖尿病神经",
+    "template": "warning_alert",
+    "items": [
+      "脚破口子感觉不到可能截肢"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 658,
+    "seg_id": "S5-L5",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "手脚麻疼糖尿病神经",
+    "template": "hero_text",
+    "items": [
+      "糖尿病老人手脚麻疼速查神经血糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 659,
+    "seg_id": "S5-L6",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "手脚麻疼糖尿病神经",
+    "template": "step_arrow",
+    "items": [
+      "严格控制血糖",
+      "检查末梢神经状况",
+      "早期干预防止截肢"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 660,
+    "seg_id": "S6-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "皮肤灼痛带状疱疹",
+    "template": "hero_text",
+    "items": [
+      "皮肤火烧针扎感，看不见皮疹"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 661,
+    "seg_id": "S6-L2",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "皮肤灼痛带状疱疹",
+    "template": "warning_alert",
+    "items": [
+      "高度警惕带状疱疹后遗神经痛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 662,
+    "seg_id": "S6-L3",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "皮肤灼痛带状疱疹",
+    "template": "list_fade",
+    "items": [
+      "带状疱疹俗称缠腰龙",
+      "老年人免疫力低，多发"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 663,
+    "seg_id": "S6-L4",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "皮肤灼痛带状疱疹",
+    "template": "split_column",
+    "items": [
+      "皮疹明显，疼痛剧烈",
+      "皮疹消退，疼痛持续数月数年",
+      "急性期治疗窗口明确",
+      "后遗期治疗难度大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 664,
+    "seg_id": "S6-L5",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "皮肤灼痛带状疱疹",
+    "template": "step_arrow",
+    "items": [
+      "病毒侵犯神经",
+      "神经损伤留下持续疼痛",
+      "衣物轻触都难以忍受"
+    ],
+    "needs_animation": true,
+    "label": "带状疱疹病毒侵犯神经病理过程"
+  },
+  {
+    "global_index": 665,
+    "seg_id": "S6-L6",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "皮肤灼痛带状疱疹",
+    "template": "hero_text",
+    "items": [
+      "疱疹后仍在疼速去疼痛科"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 666,
+    "seg_id": "S7-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "总结呼吁",
+    "template": "hero_text",
+    "items": [
+      "身体在求救，你得听见才行"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 667,
+    "seg_id": "S1-L1",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "触目惊心的数据引入",
+    "template": "hero_text",
+    "items": [
+      "人民日报发布心源性猝死科普"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 668,
+    "seg_id": "S1-L2",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "触目惊心的数据引入",
+    "template": "number_center",
+    "items": [
+      "54万"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 669,
+    "seg_id": "S1-L3",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "触目惊心的数据引入",
+    "template": "warning_alert",
+    "items": [
+      "抢救成功率不足1%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 670,
+    "seg_id": "S1-L4",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "触目惊心的数据引入",
+    "template": "hero_text",
+    "items": [
+      "张雪峰老师猝然离世引发思考"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 671,
+    "seg_id": "S1-L5",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "触目惊心的数据引入",
+    "template": "list_fade",
+    "items": [
+      "猝死是怎样发生的",
+      "猝死前有哪些呼救信号",
+      "普通人如何提前预防"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 672,
+    "seg_id": "S2-L1",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "猝死发生机制",
+    "template": "number_center",
+    "items": [
+      "80%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 673,
+    "seg_id": "S2-L2",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "猝死发生机制",
+    "template": "split_column",
+    "items": [
+      "供血血管堵塞→心梗",
+      "心脏电路紊乱→恶性心律失常"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉堵塞引发心梗与恶性心律失常机制"
+  },
+  {
+    "global_index": 674,
+    "seg_id": "S2-L3",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "猝死发生机制",
+    "template": "step_arrow",
+    "items": [
+      "血管堵塞电路随之紊乱",
+      "心脏停止跳动",
+      "脑血流中断4分钟脑细胞死亡",
+      "中断10分钟生存希望渺茫"
+    ],
+    "needs_animation": true,
+    "label": "心源性猝死病理链：血管堵塞至脑缺血死亡"
+  },
+  {
+    "global_index": 675,
+    "seg_id": "S3-L1",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "hero_text",
+    "items": [
+      "对照自查：你中了几条"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 676,
+    "seg_id": "S3-L2",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "brick_stack",
+    "items": [
+      "高血压冲击血管内膜受损",
+      "高血脂促进斑块形成",
+      "高血糖持续侵蚀全身血管"
+    ],
+    "needs_animation": true,
+    "label": "三高损伤血管壁与斑块形成机制"
+  },
+  {
+    "global_index": 677,
+    "seg_id": "S3-L3",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "warning_alert",
+    "items": [
+      "三高平时不痛不痒易被忽视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 678,
+    "seg_id": "S3-L4",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "hero_text",
+    "items": [
+      "每年查血压血糖血脂年轻人也要查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 679,
+    "seg_id": "S3-L5",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "step_arrow",
+    "items": [
+      "烟草伤害血管内膜令血液黏稠",
+      "斑块纤维帽变薄血易凝固",
+      "血管随时可能破裂如火药桶点火"
+    ],
+    "needs_animation": true,
+    "label": "烟草损伤血管内膜致斑块破裂过程"
+  }
+]

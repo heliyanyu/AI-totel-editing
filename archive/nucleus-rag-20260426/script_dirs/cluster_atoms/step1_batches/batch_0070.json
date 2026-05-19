@@ -1,0 +1,564 @@
+[
+  {
+    "global_index": 2800,
+    "seg_id": "S8-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择方向指引",
+    "template": "color_grid",
+    "items": [
+      "在校在职、自理能力强",
+      "愿意学习操作流程"
+    ],
+    "atoms_text": "还在上学上班 自理能力强 愿意学操作的 腹透可能更适合你",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2801,
+    "seg_id": "S8-L3",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择方向指引",
+    "template": "color_grid",
+    "items": [
+      "年纪大、手脚不便",
+      "家中无人协助换液操作"
+    ],
+    "atoms_text": "年纪大了 手脚不方便 家里没人帮忙操作的 血透更省心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2802,
+    "seg_id": "S8-L4",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择方向指引",
+    "template": "split_column",
+    "items": [
+      "心脏差、血压不稳、血管条件差",
+      "腹透更适合，冲击小更平稳",
+      "身体条件较好、能耐受波动",
+      "血透清除效率更有优势"
+    ],
+    "atoms_text": "心脏不好 血压不稳 血管条件差的 腹透往往更适合",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2803,
+    "seg_id": "S8-L5",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择方向指引",
+    "template": "hero_text",
+    "items": [
+      "血透效率更有优势"
+    ],
+    "atoms_text": "血透效率更有优势",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2804,
+    "seg_id": "S9-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择不是终身绑定",
+    "template": "hero_text",
+    "items": [
+      "血透和腹透可以互相转换"
+    ],
+    "atoms_text": "还有一件事必须知道 血透和腹透可以互相转换 不是选了一种就一辈子绑死了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2805,
+    "seg_id": "S9-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择不是终身绑定",
+    "template": "vertical_timeline",
+    "items": [
+      "腹透阶段：在家操作，灵活透析",
+      "腹膜衰竭时：转换为血透继续治疗",
+      "血管条件变差时：可考虑转腹透"
+    ],
+    "atoms_text": "腹透做了几年 腹膜不行了 可以转血透 血管条件差了 也可以考虑腹透",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2806,
+    "seg_id": "S9-L3",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择不是终身绑定",
+    "template": "hero_text",
+    "items": [
+      "认真管理自己，比纠结选哪个重要百倍"
+    ],
+    "atoms_text": "所以别把这个选择 看得像生死抉择 选了一种 好好配合 认真管理自己 比纠结选哪个 重要一百倍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2807,
+    "seg_id": "S10-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "最终总结升华",
+    "template": "list_fade",
+    "items": [
+      "血透管理好的人，精神状态堪比健康人",
+      "腹透到位的人，数年未发一次腹膜炎"
+    ],
+    "atoms_text": "说实话 我见过血透做的很好的人 精神状态比健康人还好 也见过腹透管理到位的人 几年一次腹膜炎都没发生过",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2808,
+    "seg_id": "S10-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "最终总结升华",
+    "template": "hero_text",
+    "items": [
+      "关键不在选哪种，而在你有没有认真对待自己"
+    ],
+    "atoms_text": "关键不在于选哪种 而在于你有没有 把自己的事儿当回事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2809,
+    "seg_id": "S10-L3",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "最终总结升华",
+    "template": "hero_text",
+    "items": [
+      "今天就说到这儿，懂了吧"
+    ],
+    "atoms_text": "好了 今天就说到这儿 懂了吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2810,
+    "seg_id": "S1-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "症状引入",
+    "template": "hero_text",
+    "items": [
+      "骨缝疼、全身痒，是透析的正常反应吗？"
+    ],
+    "atoms_text": "很多透析的肾友 跟我说 医生啊 我最近 骨头缝里疼 身上痒的要命 抓破了皮 都不管用 这是不是 透析的正常反应啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2811,
+    "seg_id": "S1-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "症状引入",
+    "template": "warning_alert",
+    "items": [
+      "身体里有东西在悄悄搞破坏"
+    ],
+    "atoms_text": "我跟你说 这不是正常反应 这是你身体 有个东西 在悄悄搞破坏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2812,
+    "seg_id": "S2-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢发病机制",
+    "template": "body_annotate",
+    "items": [
+      "颈后绿豆大小的腺体",
+      "调节骨钙",
+      "调节血磷"
+    ],
+    "atoms_text": "咱们脖子后面 有几个绿豆大小的腺体 叫甲状旁腺 负责调节 骨头里的钙 和血里的磷",
+    "needs_animation": true,
+    "label": "甲状旁腺的解剖位置及调节骨钙血磷的功能"
+  },
+  {
+    "global_index": 2813,
+    "seg_id": "S2-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢发病机制",
+    "template": "step_arrow",
+    "items": [
+      "肾脏排出多余的磷",
+      "激活维生素D吸收钙",
+      "甲状旁腺轻松正常工作"
+    ],
+    "atoms_text": "正常情况下 肾脏帮忙排磷 激活维生素D 让肠道吸收钙 甲状旁腺干活很轻松",
+    "needs_animation": true,
+    "label": "肾脏排磷并激活维生素D促进肠道吸收钙的正常通路"
+  },
+  {
+    "global_index": 2814,
+    "seg_id": "S2-L3",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢发病机制",
+    "template": "step_arrow",
+    "items": [
+      "肾脏罢工，磷越积越多",
+      "钙补不进来，身体告急",
+      "甲状旁腺被迫去骨头里抢钙"
+    ],
+    "atoms_text": "但肾脏不干活了 磷排不出去 越积越多 钙又补不进来 身体赶紧催甲状旁腺加班 去骨头里拽钙出来 救急",
+    "needs_animation": true,
+    "label": "肾衰后磷蓄积钙缺乏迫使甲状旁腺从骨骼动员钙"
+  },
+  {
+    "global_index": 2815,
+    "seg_id": "S2-L4",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢发病机制",
+    "template": "brick_stack",
+    "items": [
+      "长期超负荷加班",
+      "激素分泌越来越停不下来",
+      "PTH严重超标"
+    ],
+    "atoms_text": "偶尔加班还行 年年加班 他就累坏了 越亢奋越停不下来 激素严重超标 这就是继发性甲旁亢",
+    "needs_animation": true,
+    "label": "甲状旁腺长期代偿增生导致PTH持续超标"
+  },
+  {
+    "global_index": 2816,
+    "seg_id": "S2-L5",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢发病机制",
+    "template": "number_center",
+    "items": [
+      "PTH严重超标"
+    ],
+    "atoms_text": "你查血时 PTH特别高 往往就是他",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2817,
+    "seg_id": "S3-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢危害全景",
+    "template": "warning_alert",
+    "items": [
+      "觉得\"高就高呗\"，非常危险"
+    ],
+    "atoms_text": "很多肾友觉得 指标高就高呗 这个想法非常危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2818,
+    "seg_id": "S3-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢危害全景",
+    "template": "step_arrow",
+    "items": [
+      "激素持续拆骨头里的钙",
+      "骨头变嫩如豆腐渣",
+      "打个喷嚏都可能骨折"
+    ],
+    "atoms_text": "他的激素 像拆迁队 不停拆骨头里的钙 骨头慢慢变嫩 像豆腐渣一样 严重的 打个喷嚏 都能骨折",
+    "needs_animation": true,
+    "label": "PTH持续拆解骨钙导致骨质变脆如豆腐渣"
+  },
+  {
+    "global_index": 2819,
+    "seg_id": "S3-L3",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢危害全景",
+    "template": "step_arrow",
+    "items": [
+      "钙磷沉积到血管壁",
+      "血管像水垢一样变硬",
+      "心脏病、脑中风风险大增"
+    ],
+    "atoms_text": "拆出来的钙 加上排不掉的磷 沉积到血管壁上 像水垢一样 血管越来越硬 心脏病脑中风 风险大增",
+    "needs_animation": true,
+    "label": "游离钙磷沉积于血管壁形成血管钙化"
+  },
+  {
+    "global_index": 2820,
+    "seg_id": "S3-L4",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢危害全景",
+    "template": "list_fade",
+    "items": [
+      "全身皮肤瘙痒难忍",
+      "夜间睡不着觉",
+      "走路像踩棉花"
+    ],
+    "atoms_text": "身上痒 睡不着 走路像踩棉花 也全都是他干的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2821,
+    "seg_id": "S4-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "应对思路开篇",
+    "template": "hero_text",
+    "items": [
+      "思路清晰，一步步来对付它"
+    ],
+    "atoms_text": "那怎么对付他 思路很清楚 咱们一步步来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2822,
+    "seg_id": "S5-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "hero_text",
+    "items": [
+      "管住嘴，控磷是第一步"
+    ],
+    "atoms_text": "第一 管住嘴 控磷是基础 但我不想给你 列一堆食物清单 让你背",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2823,
+    "seg_id": "S5-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "hero_text",
+    "items": [
+      "加工程度越高，磷越危险"
+    ],
+    "atoms_text": "你记住一个原则 加工程度越高越危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2824,
+    "seg_id": "S5-L3",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "split_column",
+    "items": [
+      "天然食物中磷与蛋白质结合",
+      "肠道只吸收约一半",
+      "加工食品含游离磷添加剂",
+      "肠道几乎全部吸收"
+    ],
+    "atoms_text": "天然食物里的磷 是和蛋白质绑在一起的 你的肠道 只能吸收一半左右",
+    "needs_animation": true,
+    "label": "天然食物中有机磷与蛋白质结合肠道仅吸收一半"
+  },
+  {
+    "global_index": 2825,
+    "seg_id": "S5-L4",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "myth_buster",
+    "items": [
+      "火腿肠和瘦肉含磷差不多",
+      "加工肉制品血磷影响远超鲜肉",
+      "汤煲得越久营养越好",
+      "磷全溶在汤里，千万别喝肉汤"
+    ],
+    "atoms_text": "但加工食品不一样 厂家为了口感好 保质期长 会加各种含磷的添加剂 这种磷是游离的 肠道几乎全部吸收",
+    "needs_animation": true,
+    "label": "加工食品中游离磷酸盐被肠道几乎全部吸收"
+  },
+  {
+    "global_index": 2826,
+    "seg_id": "S5-L5",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "warning_alert",
+    "items": [
+      "配料表含\"磷酸\"二字就是隐形炸弹"
+    ],
+    "atoms_text": "所以同样含磷 一块新鲜瘦肉 和一根火腿肠 对你血磷的影响 完全不是一个级别",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2827,
+    "seg_id": "S5-L6",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "hero_text",
+    "items": [
+      "越天然越安全，加工越多磷越凶"
+    ],
+    "atoms_text": "你买东西 看一眼配料表 带磷酸两个字的成分 就是隐形的磷炸弹",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2828,
+    "seg_id": "S5-L7",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "list_fade",
+    "items": [
+      "蛋白质首选蛋清、新鲜瘦肉",
+      "蔬菜焯水后再吃",
+      "禁止喝肉汤"
+    ],
+    "atoms_text": "记住 越天然越安全 加工越多磷越凶",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2829,
+    "seg_id": "S5-L8",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "list_fade",
+    "items": [
+      "购物先看配料表",
+      "选天然食材，远离加工品",
+      "焯水去磷再烹饪"
+    ],
+    "atoms_text": "蛋白质 吃鸡蛋清 新鲜瘦肉 蔬菜焯水再吃 千万别喝肉汤 磷全溶在汤里",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2830,
+    "seg_id": "S6-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第二步：规范用药",
+    "template": "step_arrow",
+    "items": [
+      "磷结合剂随餐服用",
+      "像海绵一样吸附食物中的磷",
+      "阻止磷进入血液"
+    ],
+    "atoms_text": "第二 该吃的药一定要吃 磷结合剂随餐吃 像海米一样 吸收磷",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2831,
+    "seg_id": "S6-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第二步：规范用药",
+    "template": "step_arrow",
+    "items": [
+      "活性维生素D补充钙",
+      "抑制甲状旁腺过度亢奋"
+    ],
+    "atoms_text": "活性维生素D 帮你补钙 还能让甲状旁腺 别那么亢奋",
+    "needs_animation": true,
+    "label": "活性维生素D促进补钙并抑制甲状旁腺亢奋"
+  },
+  {
+    "global_index": 2832,
+    "seg_id": "S6-L3",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第二步：规范用药",
+    "template": "step_arrow",
+    "items": [
+      "钙剂向甲状旁腺发\"假信号\"",
+      "让它误以为钙已足够",
+      "停止过度分泌激素"
+    ],
+    "atoms_text": "你钙剂 直接给甲状旁腺发假信号 让他以为钙够了 别再拼命干了",
+    "needs_animation": true,
+    "label": "拟钙剂向甲状旁腺钙敏感受体发送假信号抑制PTH分泌"
+  },
+  {
+    "global_index": 2833,
+    "seg_id": "S6-L4",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第二步：规范用药",
+    "template": "warning_alert",
+    "items": [
+      "药物搭配方案务必遵医嘱"
+    ],
+    "atoms_text": "记住怎么搭配 听医生的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2834,
+    "seg_id": "S7-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第三步与终极手段",
+    "template": "list_fade",
+    "items": [
+      "规律透析可清除血磷",
+      "每次做够时间，不偷工减料"
+    ],
+    "atoms_text": "第三 好好透析 规律透析能清除血磷 每次认真做够时间 别偷工减料",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2835,
+    "seg_id": "S7-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第三步与终极手段",
+    "template": "branch_path",
+    "items": [
+      "饮食、药物、透析仍控制不住",
+      "手术切除亢进的甲状旁腺",
+      "微创消融从根源解决问题"
+    ],
+    "atoms_text": "如果以上都试过了 还控制不住 别怕 还有最后一招 手术切掉 或微创消融 那个累坏的乱指挥的甲状旁腺 从根源解决问题",
+    "needs_animation": true,
+    "label": "手术切除或微创消融增生的甲状旁腺"
+  },
+  {
+    "global_index": 2836,
+    "seg_id": "S8-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "监测提醒与总结",
+    "template": "vertical_timeline",
+    "items": [
+      "→ 查血钙、血磷、PTH",
+      "→ 立即听从医生调整方案",
+      "→ 及时告知医生"
+    ],
+    "atoms_text": "这个病最让人头痛的 就是早期没感觉 所以透析的肾友 一定记住 每一到三个月 查一次 血钙血磷和PTH",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2837,
+    "seg_id": "S8-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "监测提醒与总结",
+    "template": "warning_alert",
+    "items": [
+      "甲旁亢早期毫无感觉，更要主动筛查"
+    ],
+    "atoms_text": "指标高了 听医生的 别自己扛 身上哪儿不舒服 一定跟我们说",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2838,
+    "seg_id": "S8-L3",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "监测提醒与总结",
+    "template": "hero_text",
+    "items": [
+      "管磷、用药、好好透析，剩下交给医生"
+    ],
+    "atoms_text": "管好磷 吃好药 做好透析 剩下的交给我们 知道了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2839,
+    "seg_id": "S1-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "认知误区引入",
+    "template": "hero_text",
+    "items": [
+      "两种血脂哪个更危险？"
+    ],
+    "atoms_text": "甘油三酯高 和 低密度脂蛋白高 到底哪个更危险 这个问题呀 特别关键",
+    "needs_animation": false,
+    "label": ""
+  }
+]

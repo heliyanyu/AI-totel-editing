@@ -1,0 +1,556 @@
+[
+  {
+    "global_index": 3280,
+    "seg_id": "S3-L6",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "hero_text",
+    "items": [
+      "擦100次火柴只需1次就能酿成大祸"
+    ],
+    "atoms_text": "第二 吸烟 烟草里的有害物质 会直接伤害血管内膜 会让血液 变得更加黏稠 容易形成血栓",
+    "needs_animation": true,
+    "label": "烟草有害物质损伤血管内膜、血液黏稠形成血栓"
+  },
+  {
+    "global_index": 3281,
+    "seg_id": "S3-L7",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "hero_text",
+    "items": [
+      "年轻人猝死很多与长期熬夜有关"
+    ],
+    "atoms_text": "本来斑块好好的 你天天还往血管里灌有害物质 纤维帽啊 就会越来越薄 血又容易凝",
+    "needs_animation": true,
+    "label": "有害物质持续侵蚀使斑块纤维帽变薄、血液高凝"
+  },
+  {
+    "global_index": 3282,
+    "seg_id": "S3-L8",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "step_arrow",
+    "items": [
+      "熬夜交感神经持续兴奋",
+      "血管修复能力明显下降",
+      "斑块保护膜变薄遇刺激即破裂"
+    ],
+    "atoms_text": "这就像啊 火药桶旁边擦火柴 也许一百次没事 但是有一次着了 就完了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3283,
+    "seg_id": "S3-L9",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "hero_text",
+    "items": [
+      "身体不是机器它会扛不住"
+    ],
+    "atoms_text": "第三 长期的熬夜和过度疲劳 这一条 我要多说两句 因为现在 很多的年轻人的猝死 恰恰跟这个有关",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3284,
+    "seg_id": "S3-L10",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "warning_alert",
+    "items": [
+      "暴怒悲伤惊吓可致血压骤升心率猛增",
+      "吵架或突发噩耗都可能诱发猝死"
+    ],
+    "atoms_text": "熬夜的时候呢 交感神经一直兴奋 心率快呀 血压高啊 身体一直处在 应激模式",
+    "needs_animation": true,
+    "label": "熬夜时交感神经持续兴奋导致心率加快血压升高"
+  },
+  {
+    "global_index": 3285,
+    "seg_id": "S3-L11",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "list_fade",
+    "items": [
+      "与人激烈争吵后发生心脏事件",
+      "亲人突然离世后发生心脏事件"
+    ],
+    "atoms_text": "偶尔一两次 能扛得住 但是 连续几周几个月的 这么干 身体对血管的修复能力 就会明显的下降 斑块表层 那那层保护膜 就会越来越薄 遇到一个突然的刺激 可能就会破裂",
+    "needs_animation": true,
+    "label": "长期疲劳致血管修复能力下降、斑块保护膜变薄破裂"
+  },
+  {
+    "global_index": 3286,
+    "seg_id": "S3-L12",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "step_arrow",
+    "items": [
+      "腹部脂肪释放炎症因子",
+      "血管长期处于慢性炎症状态",
+      "斑块更容易形成也更易破裂"
+    ],
+    "atoms_text": "我说这话呀 也不是在指责谁 我是真心的觉得 很多人 不是不爱惜自己 是被生活推着走的 觉得再撑一撑就好了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3287,
+    "seg_id": "S3-L13",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "hero_text",
+    "items": [
+      "不运动微循环差血管修复能力弱"
+    ],
+    "atoms_text": "但身体不是机器 它会累 它会扛不住",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3288,
+    "seg_id": "S3-L14",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "list_fade",
+    "items": [
+      "第四",
+      "剧烈的情绪波动",
+      "暴怒",
+      "极度的悲伤",
+      "突然受到了惊吓"
+    ],
+    "atoms_text": "第四 剧烈的情绪波动 暴怒 极度的悲伤 突然受到了惊吓 都会让交感神经 瞬间过度激活 血压飙升 心率猛增",
+    "needs_animation": true,
+    "label": "剧烈情绪激活交感神经致血压飙升心率猛增"
+  },
+  {
+    "global_index": 3289,
+    "seg_id": "S3-L15",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "list_fade",
+    "items": [
+      "临床上见过的太多了",
+      "跟人吵一架",
+      "亲人突然离世了",
+      "都有可能",
+      "诱发心脏事件"
+    ],
+    "atoms_text": "临床上见过的太多了 跟人吵一架 亲人突然离世了 都有可能 诱发心脏事件",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3290,
+    "seg_id": "S3-L16",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "list_fade",
+    "items": [
+      "第五",
+      "肥胖加上不运动",
+      "肚子上的脂肪",
+      "就会持续的释放炎症因子",
+      "让血管"
+    ],
+    "atoms_text": "第五 肥胖加上不运动 肚子上的脂肪 就会持续的释放炎症因子 让血管 长期处在发炎的状态 斑块就更容易形成 也更容易破",
+    "needs_animation": true,
+    "label": "内脏脂肪释放炎症因子使血管慢性发炎、斑块形成并破裂"
+  },
+  {
+    "global_index": 3291,
+    "seg_id": "S3-L17",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "五大猝死危险因素",
+    "template": "list_fade",
+    "items": [
+      "而不运动的人呢",
+      "微循环差",
+      "血管修复能力也弱"
+    ],
+    "atoms_text": "而不运动的人呢 微循环差 血管修复能力也弱",
+    "needs_animation": true,
+    "label": "缺乏运动导致微循环差、血管修复能力减弱"
+  },
+  {
+    "global_index": 3292,
+    "seg_id": "S4-L1",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "预防行动清单",
+    "template": "hero_text",
+    "items": [
+      "知道风险后我们能做什么"
+    ],
+    "atoms_text": "那知道了这些 我们能做些什么呢 其实也并不复杂",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3293,
+    "seg_id": "S4-L2",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "预防行动清单",
+    "template": "list_fade",
+    "items": [
+      "查血压血糖血脂做心电图",
+      "三高控制好该吃药就吃药"
+    ],
+    "atoms_text": "每年体检的时候 检查血压血糖血脂 做心电图 控制好三高 该吃药的时候就吃药 别觉得 吃药是一件丢人的事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3294,
+    "seg_id": "S4-L3",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "预防行动清单",
+    "template": "number_center",
+    "items": [
+      "5次/周"
+    ],
+    "atoms_text": "每周快走五次 每次半个小时 就够了 要那种 微微出汗的 心率要快一点的那种",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3295,
+    "seg_id": "S4-L4",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "预防行动清单",
+    "template": "hero_text",
+    "items": [
+      "戒烟什么时候开始都不晚"
+    ],
+    "atoms_text": "戒烟 什么时候戒 都不晚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3296,
+    "seg_id": "S4-L5",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "预防行动清单",
+    "template": "hero_text",
+    "items": [
+      "能不熬夜就别熬了好好睡觉"
+    ],
+    "atoms_text": "好好睡觉 能不熬夜 就别熬了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3297,
+    "seg_id": "S4-L6",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "预防行动清单",
+    "template": "warning_alert",
+    "items": [
+      "去学心肺复苏和AED的使用方法"
+    ],
+    "atoms_text": "还有一件特别重要的事儿 去学一学 心肺复苏和AED的用法",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3298,
+    "seg_id": "S4-L7",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "预防行动清单",
+    "template": "number_center",
+    "items": [
+      "4分钟"
+    ],
+    "atoms_text": "万一身边有人倒下了 您能在黄金的四分钟之内 去施救 他活过来的概率 就会大得多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3299,
+    "seg_id": "S5-L1",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "情感收尾与呼吁",
+    "template": "hero_text",
+    "items": [
+      "每个猝死背后都是一个破碎的家庭"
+    ],
+    "atoms_text": "最后啊 说句心里话 每一个猝死的人的背后 都是一个破碎的家庭",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3300,
+    "seg_id": "S5-L2",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "情感收尾与呼吁",
+    "template": "split_column",
+    "items": [
+      "有人确实是透支了身体",
+      "有人是在为家人拼命"
+    ],
+    "atoms_text": "他们呐 有的确实是 透支了身体 但也有很多人 是在为家人拼命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3301,
+    "seg_id": "S5-L3",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "情感收尾与呼吁",
+    "template": "hero_text",
+    "items": [
+      "趁大家还健在把该讲的讲出来"
+    ],
+    "atoms_text": "我从来不愿意 做事后的判断者 我唯一能做的 就是 趁大家现在还在 健健康康的时候 把这些事儿讲一讲",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3302,
+    "seg_id": "S5-L4",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "情感收尾与呼吁",
+    "template": "split_column",
+    "items": [
+      "基因和生活无奈难以改变",
+      "每年体检及时就医可以做到"
+    ],
+    "atoms_text": "我们改变不了基因 也改变不了 生活中的很多的无奈",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3303,
+    "seg_id": "S5-L5",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "情感收尾与呼吁",
+    "template": "hero_text",
+    "items": [
+      "身体发出信号时停下来看医生"
+    ],
+    "atoms_text": "但至少 每年检查检查身体 身体发出危险信号的时候 停下来 去看看医生",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3304,
+    "seg_id": "S5-L6",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "情感收尾与呼吁",
+    "template": "hero_text",
+    "items": [
+      "有些遗憾完全可以避免"
+    ],
+    "atoms_text": "有些灾难挡不住 但有些遗憾 完全可以避免",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3305,
+    "seg_id": "S5-L7",
+    "bp_title": "心源性猝死的真相与预防",
+    "scene_title": "情感收尾与呼吁",
+    "template": "hero_text",
+    "items": [
+      "今天聊到这里你记住了吗"
+    ],
+    "atoms_text": "好了 今天我们就聊到这儿 您记住了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3306,
+    "seg_id": "S1-L1",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "猝死风险引入",
+    "template": "hero_text",
+    "items": [
+      "猝死会遗传吗？"
+    ],
+    "atoms_text": "猝死会遗传吗 有征兆吗 心源性猝死 要如何避免",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3307,
+    "seg_id": "S1-L2",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "猝死风险引入",
+    "template": "hero_text",
+    "items": [
+      "张雪峰事件引发猝死关注"
+    ],
+    "atoms_text": "这两天 张雪峰老师的事情 大家都看到了 很让人痛心 也让更多的人 开始关注 猝死的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3308,
+    "seg_id": "S1-L3",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "猝死风险引入",
+    "template": "hero_text",
+    "items": [
+      "今天聊一个你一直没有答案的问题"
+    ],
+    "atoms_text": "今天我不想重复 猝死有多可怕 我想聊一个 很多人心里一直都有 但没有答案的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3309,
+    "seg_id": "S1-L4",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "猝死风险引入",
+    "template": "hero_text",
+    "items": [
+      "家里有人出事，我该查什么？"
+    ],
+    "atoms_text": "猝死到底会不会遗传 家里有人心脏出过事儿 我该查些什么",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3310,
+    "seg_id": "S2-L1",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "猝死的本质",
+    "template": "hero_text",
+    "items": [
+      "猝死是结果，不是一种病"
+    ],
+    "atoms_text": "先说结论 猝死本身 不是一种病 它是一个结果",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3311,
+    "seg_id": "S2-L2",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "猝死的本质",
+    "template": "split_column",
+    "items": [
+      "平时毫无症状",
+      "心脏病本身可以遗传",
+      "以为自己没事",
+      "遗传性疾病可致命"
+    ],
+    "atoms_text": "真正遗传的 是那些 能导致猝死的 心脏疾病 这些病 很多都有遗传性 而且很多 平时一点症状都没有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3312,
+    "seg_id": "S3-L1",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "高危人群筛查条件",
+    "template": "hero_text",
+    "items": [
+      "符合任意一条请尽快筛查"
+    ],
+    "atoms_text": "符合以下任何一条的 我都建议你 去做一个筛查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3313,
+    "seg_id": "S3-L2",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "高危人群筛查条件",
+    "template": "list_fade",
+    "items": [
+      "父母兄弟姐妹50岁前心梗",
+      "家属曾做过支架手术",
+      "家属50岁前发生过猝死"
+    ],
+    "atoms_text": "第一 你的父母兄弟姐妹里面 有人在五十岁前 做过心梗 做过支架 或者猝死的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3314,
+    "seg_id": "S3-L3",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "高危人群筛查条件",
+    "template": "list_fade",
+    "items": [
+      "年轻家属不明原因突然离世",
+      "当时未确诊具体病因"
+    ],
+    "atoms_text": "第二 家里有人 年纪轻轻 不明原因突然走的 不管当时 有没有确诊是什么病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3315,
+    "seg_id": "S3-L4",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "高危人群筛查条件",
+    "template": "list_fade",
+    "items": [
+      "胆固醇长期偏高",
+      "控制饮食也降不下来"
+    ],
+    "atoms_text": "第三 你自己的胆固醇 一直偏高 不管怎么控制饮食 都降不下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3316,
+    "seg_id": "S3-L5",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "高危人群筛查条件",
+    "template": "warning_alert",
+    "items": [
+      "中任意一条，请排查遗传性猝死风险"
+    ],
+    "atoms_text": "如果你中了其中的一条 最好去排查一下 遗传性的心脏猝死风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3317,
+    "seg_id": "S4-L1",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第一步：心电图",
+    "template": "hero_text",
+    "items": [
+      "接下来三步检查请认真听"
+    ],
+    "atoms_text": "接下来我说的检查 你一定要认真听",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3318,
+    "seg_id": "S4-L2",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第一步：心电图",
+    "template": "step_arrow",
+    "items": [
+      "第一步：做心电图",
+      "费用少、几分钟出结果",
+      "排查心脏电路先天缺陷"
+    ],
+    "atoms_text": "第一步 做个心电图 花费不多 几分钟就能出结果",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3319,
+    "seg_id": "S4-L3",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第一步：心电图",
+    "template": "list_fade",
+    "items": [
+      "长QT综合征",
+      "Brugada综合征",
+      "心脏结构正常但电信号异常"
+    ],
+    "atoms_text": "这一步 主要排查的是 心脏电路系统 有没有先天缺陷 比如长QT综合征 比如Brugada综合征",
+    "needs_animation": true,
+    "label": "心电图排查心脏电传导系统先天缺陷（长QT、Brugada综合征）"
+  }
+]

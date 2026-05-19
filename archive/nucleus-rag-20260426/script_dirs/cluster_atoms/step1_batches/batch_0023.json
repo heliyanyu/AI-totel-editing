@@ -1,0 +1,551 @@
+[
+  {
+    "global_index": 920,
+    "seg_id": "S3-L5",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区二：顿顿只吃粗粮",
+    "template": "branch_path",
+    "items": [
+      "粗粮怎么吃？",
+      "粗细搭配适量血糖平稳",
+      "敞开吃超量血糖照样升"
+    ],
+    "atoms_text": "正确做法是 粗细搭配 适量吃",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 921,
+    "seg_id": "S4-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区三：饿着能降糖",
+    "template": "warning_alert",
+    "items": [
+      "少吃一顿或饿着能降血糖非常危险"
+    ],
+    "atoms_text": "第三 少吃一顿 或者饿着 就能降血糖 这是非常危险的想法",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 922,
+    "seg_id": "S4-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区三：饿着能降糖",
+    "template": "step_arrow",
+    "items": [
+      "不吃饭极易引发低血糖",
+      "严重时意识丧失跌倒受伤",
+      "心血管患者面临心脏事件风险"
+    ],
+    "atoms_text": "你不吃饭 确实不会升血糖 但极其容易引起低血糖",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 923,
+    "seg_id": "S4-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区三：饿着能降糖",
+    "template": "split_column",
+    "items": [
+      "低血糖对糖尿病患者可能致命",
+      "规律一日三餐才是稳糖基础"
+    ],
+    "atoms_text": "对于糖尿病来说 低血糖可能是要命的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 924,
+    "seg_id": "S4-L4",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区三：饿着能降糖",
+    "template": "hero_text",
+    "items": [
+      "规律三餐是稳糖的根本"
+    ],
+    "atoms_text": "严重低血糖 可能导致 意识丧失 跌倒受伤",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 925,
+    "seg_id": "S4-L5",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区三：饿着能降糖",
+    "template": "list_fade",
+    "items": [
+      "按时吃饭不跳餐不挨饿",
+      "保持餐次规律血糖更稳"
+    ],
+    "atoms_text": "对于有心血管基础病的患者 还可能增加 心脏事件的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 926,
+    "seg_id": "S4-L6",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区三：饿着能降糖",
+    "template": "list_fade",
+    "items": [
+      "所以",
+      "规律的一日三餐",
+      "才是稳糖的基础"
+    ],
+    "atoms_text": "所以 规律的一日三餐 才是稳糖的基础",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 927,
+    "seg_id": "S5-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区四：苦瓜南瓜能降糖",
+    "template": "myth_buster",
+    "items": [
+      "多吃苦瓜南瓜能降血糖",
+      "这不过是未经证实的偏方"
+    ],
+    "atoms_text": "第四 多吃苦瓜南瓜能降血糖 不知道从哪传出的偏方",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 928,
+    "seg_id": "S5-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区四：苦瓜南瓜能降糖",
+    "template": "split_column",
+    "items": [
+      "南瓜含碳水多吃反而升血糖",
+      "苦瓜提取物实验量远超日常食用量"
+    ],
+    "atoms_text": "南瓜本身 就含有不少碳水 吃多了 反而升血糖",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 929,
+    "seg_id": "S5-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区四：苦瓜南瓜能降糖",
+    "template": "hero_text",
+    "items": [
+      "食物不可能替代降糖药物"
+    ],
+    "atoms_text": "苦瓜虽然 提取物 在动物实验里 有点降糖的作用 但你平常一盘苦瓜吃下去 那点量 根本不可能替代降糖药物",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 930,
+    "seg_id": "S6-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区五：不甜就能随便吃",
+    "template": "hero_text",
+    "items": [
+      "只看甜不甜？这个误区很致命"
+    ],
+    "atoms_text": "第五 只看食物甜不甜 不甜的随便吃 错",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 931,
+    "seg_id": "S6-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区五：不甜就能随便吃",
+    "template": "split_column",
+    "items": [
+      "白米粥不甜却几乎等于喝糖水",
+      "无糖饼干含精面粉同样快速升糖"
+    ],
+    "atoms_text": "白米粥 一点都不甜 但它几乎是纯淀粉 熬的烂烂的 喝起来 跟直接喝糖水没什么区别 血糖瞬间就飙上去的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 932,
+    "seg_id": "S6-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区五：不甜就能随便吃",
+    "template": "warning_alert",
+    "items": [
+      "白米粥喝下去血糖瞬间飙升"
+    ],
+    "atoms_text": "还有 外面卖的无糖饼干 虽然没有蔗糖 但里面全是 精面粉和反式脂肪 一样是升糖的利器",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 933,
+    "seg_id": "S7-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区六：进食顺序无所谓",
+    "template": "hero_text",
+    "items": [
+      "吃饭顺序无所谓？大错特错！"
+    ],
+    "atoms_text": "第六 吃饭顺序无所谓 错",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 934,
+    "seg_id": "S7-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区六：进食顺序无所谓",
+    "template": "step_arrow",
+    "items": [
+      "第一口先吃蔬菜",
+      "再吃肉类和蛋白质",
+      "最后才吃主食"
+    ],
+    "atoms_text": "吃饭顺序啊 其实是 最简单有效的控糖秘诀",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 935,
+    "seg_id": "S7-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区六：进食顺序无所谓",
+    "template": "list_fade",
+    "items": [
+      "蔬菜纤维铺满胃肠延缓淀粉吸收",
+      "餐后血糖可能因此明显下降"
+    ],
+    "atoms_text": "你试试 先吃蔬菜 再吃肉类蛋白质 最后再吃主食",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 936,
+    "seg_id": "S7-L4",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区六：进食顺序无所谓",
+    "template": "hero_text",
+    "items": [
+      "改变进食顺序是最简单的控糖秘诀"
+    ],
+    "atoms_text": "蔬菜的纤维 会像网一样 铺在胃肠道里 延缓后面淀粉的吸收",
+    "needs_animation": true,
+    "label": "膳食纤维在胃肠道中铺成网状延缓淀粉吸收"
+  },
+  {
+    "global_index": 937,
+    "seg_id": "S7-L5",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区六：进食顺序无所谓",
+    "template": "number_center",
+    "items": [
+      "一个改变"
+    ],
+    "atoms_text": "做一个小小的改变 就可能让你的 餐后血糖有所下降",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 938,
+    "seg_id": "S8-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "糖尿病饮食是聪明地吃不是苦行僧"
+    ],
+    "atoms_text": "总结 糖尿病饮食 不是让你做苦行僧 而是让你学会聪明的吃",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 939,
+    "seg_id": "S8-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "总结收尾",
+    "template": "list_fade",
+    "items": [
+      "总量控制不超标",
+      "粗细搭配不偏食",
+      "调整进食顺序稳血糖"
+    ],
+    "atoms_text": "总量控制 粗细搭配 调整进食顺序",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 940,
+    "seg_id": "S8-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "六大误区你中了几条快转发给糖友"
+    ],
+    "atoms_text": "这六大误区 你踩了几条 赶紧转发给 身边的糖友看看",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 941,
+    "seg_id": "S1-L1",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "睡不好？先别乱吃药",
+    "template": "hero_text",
+    "items": [
+      "躺下去却翻来覆去睡不着"
+    ],
+    "atoms_text": "您是不是 也有过 这种感觉 明明躺下去 睡着 但是就是 翻来覆去的 睡不着 或者 睡着了 但一晚上 醒好几回 跟没睡一样",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 942,
+    "seg_id": "S1-L2",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "睡不好？先别乱吃药",
+    "template": "hero_text",
+    "items": [
+      "睡够八小时还是昏昏沉沉"
+    ],
+    "atoms_text": "还有的人 睡够了八小时 第二天起来呢 还是昏昏沉沉的 浑身没有劲",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 943,
+    "seg_id": "S1-L3",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "睡不好？先别乱吃药",
+    "template": "myth_buster",
+    "items": [
+      "失眠买褪黑素吃安眠药对付",
+      "睡不好远没有那么简单"
+    ],
+    "atoms_text": "很多人呢 觉得睡不好 就是失眠 买点褪黑素 吃点安眠药 对付过去",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 944,
+    "seg_id": "S1-L4",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "睡不好？先别乱吃药",
+    "template": "hero_text",
+    "items": [
+      "临床四种睡眠障碍逐一讲清"
+    ],
+    "atoms_text": "我要告诉您 这事儿 没有那么简单 今天呢 我就把 临床上最常见的 四种睡眠障碍 给您讲一讲 看看您是 属于哪一种",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 945,
+    "seg_id": "S2-L1",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "hero_text",
+    "items": [
+      "入睡困难型——脑子关不了机"
+    ],
+    "atoms_text": "第一种 入睡困难型 脑子关不了机",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 946,
+    "seg_id": "S2-L2",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "number_center",
+    "items": [
+      "1小时"
+    ],
+    "atoms_text": "躺在床上 半个小时了 一个小时 甚至更久 才能睡着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 947,
+    "seg_id": "S2-L3",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "hero_text",
+    "items": [
+      "脑子放电影越想越清醒"
+    ],
+    "atoms_text": "脑子里 就像放电影一样 翻来覆去的想 越想越清醒 越想越睡不着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 948,
+    "seg_id": "S2-L4",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "brick_stack",
+    "items": [
+      "焦虑压力大持续积累",
+      "睡前刷手机大脑兴奋",
+      "大脑未建立睡眠条件反射"
+    ],
+    "atoms_text": "这种往往是 焦虑压力大 或者是 睡前刷手机 看视频 大脑啊 一直处于 兴奋状态",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 949,
+    "seg_id": "S2-L5",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "step_arrow",
+    "items": [
+      "床只用来睡觉",
+      "躺下20分钟睡不着就起来",
+      "困了再回床躺下"
+    ],
+    "atoms_text": "对于这种情况 安眠药啊 不是首选 真正管用的是 建立 床就是用来睡觉的 这一条件反射",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 950,
+    "seg_id": "S2-L6",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "list_fade",
+    "items": [
+      "不在床上玩手机看电视",
+      "起来做枯燥的事等困意"
+    ],
+    "atoms_text": "躺下去 二十分钟 睡不着 就起来 做点枯燥的事儿 等困了 再躺回去",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 951,
+    "seg_id": "S2-L7",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "hero_text",
+    "items": [
+      "认知行为疗法是首选非安眠药"
+    ],
+    "atoms_text": "别在床上 玩手机 看电视 把床就是 留给睡眠的 这是认知行为疗法",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 952,
+    "seg_id": "S3-L1",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第二型：一晚醒好几回",
+    "template": "hero_text",
+    "items": [
+      "睡眠维持障碍——夜里醒好几回"
+    ],
+    "atoms_text": "第二一种 睡眠维持障碍 一晚上醒好几回",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 953,
+    "seg_id": "S3-L2",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第二型：一晚醒好几回",
+    "template": "list_fade",
+    "items": [
+      "睡着了但不踏实夜里醒两三次",
+      "醒了半天才能再睡着"
+    ],
+    "atoms_text": "睡着了 但又睡得不踏实 夜里醒来 两三次 甚至更多 醒了半天 才能再睡着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 954,
+    "seg_id": "S3-L3",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第二型：一晚醒好几回",
+    "template": "hero_text",
+    "items": [
+      "中老年人中尤为常见"
+    ],
+    "atoms_text": "这种啊 在中老年人里 特别常见",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 955,
+    "seg_id": "S3-L4",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第二型：一晚醒好几回",
+    "template": "color_grid",
+    "items": [
+      "夜尿增多",
+      "打呼噜憋气",
+      "更年期潮热",
+      "焦虑情绪"
+    ],
+    "atoms_text": "原因有很多 夜尿增多 打呼噜憋气 更年期潮热 甚至焦虑情绪 都有可能导致",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 956,
+    "seg_id": "S3-L5",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第二型：一晚醒好几回",
+    "template": "warning_alert",
+    "items": [
+      "夜里憋醒晨起口干白天犯困",
+      "警惕睡眠呼吸暂停综合征"
+    ],
+    "atoms_text": "如果夜里 经常被憋醒 或者是 早上口干舌燥的 白天犯困 就要警惕 睡眠呼吸暂停综合征",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 957,
+    "seg_id": "S3-L6",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第二型：一晚醒好几回",
+    "template": "step_arrow",
+    "items": [
+      "夜间反复缺氧",
+      "长期损伤心脏与大脑",
+      "需做睡眠监测明确诊断"
+    ],
+    "atoms_text": "这不是 普通的睡不好 是夜里 反复缺氧 长期下来 对心脏和大脑的 损伤很大 需要去呼吸科 或者神经内科 做一个睡眠监测",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 958,
+    "seg_id": "S4-L1",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第三型：凌晨早醒",
+    "template": "hero_text",
+    "items": [
+      "早醒型——凌晨三四点就醒了"
+    ],
+    "atoms_text": "第三一种 就是早醒型 凌晨三四点钟 就醒了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 959,
+    "seg_id": "S4-L2",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第三型：凌晨早醒",
+    "template": "hero_text",
+    "items": [
+      "看天慢慢亮起来心里又急又烦"
+    ],
+    "atoms_text": "再也睡不着了 看着天 慢慢的亮起来 心里又急又烦",
+    "needs_animation": false,
+    "label": ""
+  }
+]

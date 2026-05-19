@@ -1,0 +1,507 @@
+[
+  {
+    "global_index": 600,
+    "seg_id": "S1-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "隐形杀手登场",
+    "template": "warning_alert",
+    "items": [
+      "体检单藏着一个隐形杀手"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 601,
+    "seg_id": "S1-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "隐形杀手登场",
+    "template": "hero_text",
+    "items": [
+      "同型半胱氨酸，你听说过吗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 602,
+    "seg_id": "S1-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "隐形杀手登场",
+    "template": "number_center",
+    "items": [
+      "1/2"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 603,
+    "seg_id": "S1-L4",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "隐形杀手登场",
+    "template": "hero_text",
+    "items": [
+      "听懂这期，帮家人避开脑梗陷阱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 604,
+    "seg_id": "S2-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "什么是同型半胱氨酸",
+    "template": "hero_text",
+    "items": [
+      "用大白话讲清楚它是什么"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 605,
+    "seg_id": "S2-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "什么是同型半胱氨酸",
+    "template": "hero_text",
+    "items": [
+      "代谢蛋白质产生的代谢垃圾"
+    ],
+    "needs_animation": true,
+    "label": "蛋白质代谢产生同型半胱氨酸的过程"
+  },
+  {
+    "global_index": 606,
+    "seg_id": "S2-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "什么是同型半胱氨酸",
+    "template": "split_column",
+    "items": [
+      "做饭产生厨房垃圾",
+      "代谢产生同型半胱氨酸"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 607,
+    "seg_id": "S2-L4",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "什么是同型半胱氨酸",
+    "template": "branch_path",
+    "items": [
+      "代谢是否正常",
+      "正常：分解排出，不堆积",
+      "失调：垃圾堆积血液中"
+    ],
+    "needs_animation": true,
+    "label": "同型半胱氨酸正常代谢与异常堆积过程"
+  },
+  {
+    "global_index": 608,
+    "seg_id": "S3-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "同型半胱氨酸的危害",
+    "template": "hero_text",
+    "items": [
+      "这种垃圾有多可怕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 609,
+    "seg_id": "S3-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "同型半胱氨酸的危害",
+    "template": "step_arrow",
+    "items": [
+      "长期偏高腐蚀血管内壁",
+      "血管变脆变粗糙如锈管",
+      "形成斑块与血栓"
+    ],
+    "needs_animation": true,
+    "label": "同型半胱氨酸损伤血管内壁及斑块形成过程"
+  },
+  {
+    "global_index": 610,
+    "seg_id": "S3-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "同型半胱氨酸的危害",
+    "template": "step_arrow",
+    "items": [
+      "大脑血管细且脆弱",
+      "血栓堵塞引发脑梗死",
+      "轻则麻木失语，重则瘫痪"
+    ],
+    "needs_animation": true,
+    "label": "脑血管血栓堵塞引发脑梗死过程"
+  },
+  {
+    "global_index": 611,
+    "seg_id": "S4-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "为什么会偏高",
+    "template": "hero_text",
+    "items": [
+      "血压血糖正常，为何还会超标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 612,
+    "seg_id": "S4-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "为什么会偏高",
+    "template": "hero_text",
+    "items": [
+      "三大原因，最后一条最易忽视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 613,
+    "seg_id": "S5-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因一：饮食不均衡",
+    "template": "hero_text",
+    "items": [
+      "原因一：饮食不均衡"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 614,
+    "seg_id": "S5-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因一：饮食不均衡",
+    "template": "list_fade",
+    "items": [
+      "绿叶蔬菜富含叶酸",
+      "豆类含维生素B6",
+      "蛋类含维生素B12"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 615,
+    "seg_id": "S5-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因一：饮食不均衡",
+    "template": "hero_text",
+    "items": [
+      "三种帮手不足，垃圾自然堆积"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 616,
+    "seg_id": "S6-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因二：不良生活习惯",
+    "template": "hero_text",
+    "items": [
+      "原因二：不良生活习惯"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 617,
+    "seg_id": "S6-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因二：不良生活习惯",
+    "template": "brick_stack",
+    "items": [
+      "长期吸烟损伤代谢功能",
+      "长期饮酒降低分解效率",
+      "熬夜导致代谢紊乱超标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 618,
+    "seg_id": "S7-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因三：遗传因素",
+    "template": "hero_text",
+    "items": [
+      "原因三：遗传因素"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 619,
+    "seg_id": "S7-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因三：遗传因素",
+    "template": "hero_text",
+    "items": [
+      "家族偏高史，天生代谢能力弱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 620,
+    "seg_id": "S8-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "如何检测是否超标",
+    "template": "hero_text",
+    "items": [
+      "怎么知道自己是否超标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 621,
+    "seg_id": "S8-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "如何检测是否超标",
+    "template": "list_fade",
+    "items": [
+      "医院抽血做同型半胱氨酸检测",
+      "费用低廉，几十元即可明确"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 622,
+    "seg_id": "S8-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "如何检测是否超标",
+    "template": "number_center",
+    "items": [
+      "15"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 623,
+    "seg_id": "S9-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "超标怎么办",
+    "template": "hero_text",
+    "items": [
+      "超标不用慌，两个方法有效降低"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 624,
+    "seg_id": "S10-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "方法一：调整饮食",
+    "template": "hero_text",
+    "items": [
+      "方法一：调整饮食结构"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 625,
+    "seg_id": "S10-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "方法一：调整饮食",
+    "template": "color_grid",
+    "items": [
+      "菠菜油麦菜等绿叶蔬菜",
+      "黄豆绿豆等豆类",
+      "动物肝脏与蛋类",
+      "猕猴桃草莓等水果"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 626,
+    "seg_id": "S10-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "方法一：调整饮食",
+    "template": "hero_text",
+    "items": [
+      "每天坚持补充，帮手充足垃圾少"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 627,
+    "seg_id": "S11-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "方法二：补充营养素",
+    "template": "hero_text",
+    "items": [
+      "方法二：必要时补充营养素"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 628,
+    "seg_id": "S11-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "方法二：补充营养素",
+    "template": "branch_path",
+    "items": [
+      "饮食调整后数值是否仍偏高",
+      "在医生指导下补充叶酸B6B12",
+      "有高血压糖尿病史者优先考虑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 629,
+    "seg_id": "S12-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "综合预防提醒",
+    "template": "hero_text",
+    "items": [
+      "脑梗预防不能只盯一个指标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 630,
+    "seg_id": "S12-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "综合预防提醒",
+    "template": "list_fade",
+    "items": [
+      "血压血糖血脂需长期控制",
+      "同型半胱氨酸不可忽视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 631,
+    "seg_id": "S12-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "综合预防提醒",
+    "template": "category_table",
+    "items": [
+      "40岁以上中老年人定期检查",
+      "有脑梗家族史者提前干预",
+      "长期吸烟饮酒者重点关注",
+      "多危险因素叠加者优先筛查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 632,
+    "seg_id": "S13-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "结尾行动召唤",
+    "template": "hero_text",
+    "items": [
+      "觉得有用，转发给亲戚朋友"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 633,
+    "seg_id": "S13-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "结尾行动召唤",
+    "template": "hero_text",
+    "items": [
+      "关注我，每天学一点神经科知识"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 634,
+    "seg_id": "S1-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "警示开场",
+    "template": "warning_alert",
+    "items": [
+      "5种不寻常疼痛可能是重病信号",
+      "千万不要忍着拖着"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 635,
+    "seg_id": "S2-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "hero_text",
+    "items": [
+      "走一段腿酸疼，歇一会又能走"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 636,
+    "seg_id": "S2-L2",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "myth_buster",
+    "items": [
+      "老了没劲儿，正常现象",
+      "下肢动脉出问题，不是年老"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 637,
+    "seg_id": "S2-L3",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "step_arrow",
+    "items": [
+      "腿部血管长斑块堵塞",
+      "走路肌肉需血供不上来",
+      "酸疼发作，休息后缓解"
+    ],
+    "needs_animation": true,
+    "label": "下肢动脉斑块堵塞导致间歇性跛行的病理过程"
+  },
+  {
+    "global_index": 638,
+    "seg_id": "S2-L4",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "hero_text",
+    "items": [
+      "间歇性跛行"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 639,
+    "seg_id": "S2-L5",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "warning_alert",
+    "items": [
+      "腿血管堵，心脑血管往往也堵"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

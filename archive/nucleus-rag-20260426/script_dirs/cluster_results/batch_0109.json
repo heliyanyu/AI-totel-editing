@@ -1,0 +1,529 @@
+[
+  {
+    "global_index": 4360,
+    "seg_id": "S1-L5",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "开篇：为何要比较",
+    "template": "list_fade",
+    "items": [
+      "弥漫性血管病变",
+      "三支血管病变",
+      "左主干病变",
+      "严重钙化病变"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉多支病变与左主干病变解剖示意"
+  },
+  {
+    "global_index": 4361,
+    "seg_id": "S1-L6",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "开篇：为何要比较",
+    "template": "hero_text",
+    "items": [
+      "今天为你解析两者核心区别"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4362,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "两种手术原理",
+    "template": "hero_text",
+    "items": [
+      "支架与搭桥的原理各是什么"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4363,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "两种手术原理",
+    "template": "step_arrow",
+    "items": [
+      "穿刺手腕或大腿动脉",
+      "导管建立血管内通道",
+      "支架送达狭窄部位",
+      "扩张支架恢复血流"
+    ],
+    "needs_animation": true,
+    "label": "经皮冠状动脉支架植入术流程"
+  },
+  {
+    "global_index": 4364,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "两种手术原理",
+    "template": "step_arrow",
+    "items": [
+      "取乳内动脉或大隐静脉",
+      "绕过堵塞心脏血管段",
+      "近端连接主动脉",
+      "远端接狭窄血管末段",
+      "血液经桥血管供远端"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉搭桥术流程"
+  },
+  {
+    "global_index": 4365,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "hero_text",
+    "items": [
+      "六大维度深度对比两种手术"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4366,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "穿刺点仅留微小创口",
+      "局部麻醉即可完成",
+      "手术时间短",
+      "身体整体创伤小"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4367,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "color_grid",
+    "items": [
+      "需开胸手术",
+      "须全身麻醉",
+      "手术耗时较长",
+      "身体创伤偏大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4368,
+    "seg_id": "S3-L4",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "vertical_timeline",
+    "items": [
+      "术后1~2天即可下床活动",
+      "术后数天顺利出院"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4369,
+    "seg_id": "S3-L5",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "住院约1~2周",
+      "完全恢复需3~6个月",
+      "期间避免重体力劳动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4370,
+    "seg_id": "S3-L6",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "单支或少数血管局限狭窄",
+      "急性心肌梗死紧急开通",
+      "无法耐受开胸手术者"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4371,
+    "seg_id": "S3-L7",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "hero_text",
+    "items": [
+      "能少放就少放，做支架的减法"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4372,
+    "seg_id": "S3-L8",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "多支血管病变",
+      "左主干病变",
+      "弥漫性心脏病变",
+      "支架手术失败后"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4373,
+    "seg_id": "S3-L9",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "穿刺部位出血血肿",
+      "支架内血栓形成",
+      "造影剂过敏反应"
+    ],
+    "needs_animation": true,
+    "label": "支架内血栓形成过程"
+  },
+  {
+    "global_index": 4374,
+    "seg_id": "S3-L10",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "warning_alert",
+    "items": [
+      "可能出血感染或心律失常",
+      "严重时心衰甚至休克"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4375,
+    "seg_id": "S3-L11",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "warning_alert",
+    "items": [
+      "体外循环可能引发脑梗"
+    ],
+    "needs_animation": true,
+    "label": "体外循环致脑栓塞机制"
+  },
+  {
+    "global_index": 4376,
+    "seg_id": "S3-L12",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "warning_alert",
+    "items": [
+      "主干病变支架术有骤停风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4377,
+    "seg_id": "S3-L13",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "两者术后均可能再狭窄",
+      "需长期服用抗血栓药物",
+      "部分患者需再次干预"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4378,
+    "seg_id": "S3-L14",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "color_grid",
+    "items": [
+      "可再次植入新支架",
+      "或行药物球囊扩张"
+    ],
+    "needs_animation": true,
+    "label": "药物球囊扩张术过程"
+  },
+  {
+    "global_index": 4379,
+    "seg_id": "S3-L15",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "hero_text",
+    "items": [
+      "动脉桥远期通畅率更高更持久"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4380,
+    "seg_id": "S3-L16",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "warning_alert",
+    "items": [
+      "静脉桥易发生动脉硬化堵塞"
+    ],
+    "needs_animation": true,
+    "label": "静脉桥血管动脉粥样硬化过程"
+  },
+  {
+    "global_index": 4381,
+    "seg_id": "S3-L17",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "branch_path",
+    "items": [
+      "桥血管发生堵塞",
+      "可行支架或球囊扩张",
+      "二次搭桥风险高难度大"
+    ],
+    "needs_animation": true,
+    "label": "桥血管再狭窄与介入处理"
+  },
+  {
+    "global_index": 4382,
+    "seg_id": "S3-L18",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "number_center",
+    "items": [
+      "2~3万元"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4383,
+    "seg_id": "S3-L19",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "冠脉旋磨术",
+      "切割或震波球囊",
+      "血管内超声OCT检查"
+    ],
+    "needs_animation": true,
+    "label": "冠脉旋磨术与血管内影像检查"
+  },
+  {
+    "global_index": 4384,
+    "seg_id": "S3-L20",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "number_center",
+    "items": [
+      "8~15万元"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4385,
+    "seg_id": "S3-L21",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "number_center",
+    "items": [
+      "12~20万元"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4386,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "总结与建议",
+    "template": "list_fade",
+    "items": [
+      "均能恢复冠状动脉血流",
+      "有效改善心肌供血"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉血流恢复与心肌供血改善"
+  },
+  {
+    "global_index": 4387,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "总结与建议",
+    "template": "brick_stack",
+    "items": [
+      "血管病变程度",
+      "患者整体身体状况",
+      "患者年龄因素",
+      "医生综合评估意见"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4388,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "总结与建议",
+    "template": "list_fade",
+    "items": [
+      "信任并配合医生",
+      "遵医嘱规范按时服药",
+      "定期复查不可省略",
+      "保持健康的生活方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4389,
+    "seg_id": "S4-L4",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "总结与建议",
+    "template": "hero_text",
+    "items": [
+      "手术是起点，康复才是终点"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4390,
+    "seg_id": "S4-L5",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "总结与建议",
+    "template": "hero_text",
+    "items": [
+      "觉得有用就点赞转发吧"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4391,
+    "seg_id": "S1-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "令人尴尬的口臭困扰",
+    "template": "hero_text",
+    "items": [
+      "说话时对方下意识往后躲"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4392,
+    "seg_id": "S1-L2",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "令人尴尬的口臭困扰",
+    "template": "hero_text",
+    "items": [
+      "口臭，究竟从哪里来？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4393,
+    "seg_id": "S2-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "number_center",
+    "items": [
+      "80%–90%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4394,
+    "seg_id": "S2-L2",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "hero_text",
+    "items": [
+      "天天刷牙，为何还会有口臭？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4395,
+    "seg_id": "S2-L3",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "split_column",
+    "items": [
+      "牙齿表面",
+      "真正产臭区根本没碰到"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4396,
+    "seg_id": "S2-L4",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "warning_alert",
+    "items": [
+      "舌苔后三分之一最易被忽略"
+    ],
+    "needs_animation": true,
+    "label": "舌面解剖与舌苔分布结构"
+  },
+  {
+    "global_index": 4397,
+    "seg_id": "S2-L5",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "step_arrow",
+    "items": [
+      "食物残渣藏在舌苔凸起间",
+      "厌氧菌大量繁殖",
+      "分解产生含硫臭味物质"
+    ],
+    "needs_animation": true,
+    "label": "舌苔厌氧菌分解产生含硫化合物过程"
+  },
+  {
+    "global_index": 4398,
+    "seg_id": "S2-L6",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "warning_alert",
+    "items": [
+      "舌根深处刷牙刷不到",
+      "细菌在此持续产臭"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4399,
+    "seg_id": "S2-L7",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "list_fade",
+    "items": [
+      "牙龈与牙齿间形成牙周袋",
+      "牙结石和细菌藏于其中",
+      "牙刷无法伸入清洁"
+    ],
+    "needs_animation": true,
+    "label": "牙周袋形成与细菌牙结石聚集"
+  }
+]

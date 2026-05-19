@@ -1,0 +1,529 @@
+[
+  {
+    "global_index": 1040,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "number_center",
+    "items": [
+      "7-8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1041,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "list_fade",
+    "items": [
+      "每天连轴转，熬夜舍不得睡",
+      "睡前刷手机，越刷越清醒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1042,
+    "seg_id": "S2-L4",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "step_arrow",
+    "items": [
+      "长期睡眠不足",
+      "身体持续应激，心跳快血压高",
+      "血管内皮损伤积累",
+      "某天突然出大事"
+    ],
+    "needs_animation": true,
+    "label": "睡眠不足导致血管内皮损伤过程"
+  },
+  {
+    "global_index": 1043,
+    "seg_id": "S2-L5",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "split_column",
+    "items": [
+      "睡足八小时",
+      "只睡五六小时",
+      "十二点前躺下",
+      "拖到凌晨一两点"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1044,
+    "seg_id": "S2-L6",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "step_arrow",
+    "items": [
+      "吸气五秒",
+      "停顿一秒",
+      "呼气五秒",
+      "循环反复"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1045,
+    "seg_id": "S2-L7",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "hero_text",
+    "items": [
+      "十分钟呼吸训练，安然入睡"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1046,
+    "seg_id": "S2-L8",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "warning_alert",
+    "items": [
+      "不给血管修复时间，损伤天天累积"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1047,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "hero_text",
+    "items": [
+      "第二件事：运动规律，别搞突击"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1048,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "split_column",
+    "items": [
+      "平时久坐不动",
+      "每天保持活动量",
+      "周末猛跑五公里",
+      "每周三到五次规律运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1049,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "warning_alert",
+    "items": [
+      "心率骤升，隐匿斑块最易破裂出事"
+    ],
+    "needs_animation": true,
+    "label": "运动导致冠状动脉斑块破裂过程"
+  },
+  {
+    "global_index": 1050,
+    "seg_id": "S3-L4",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "category_table",
+    "items": [
+      "能和旁边人聊两句",
+      "中等强度刚刚好",
+      "喘到唱不了歌",
+      "强度已经达标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1051,
+    "seg_id": "S3-L5",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "list_fade",
+    "items": [
+      "快走",
+      "慢跑",
+      "游泳"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1052,
+    "seg_id": "S3-L6",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "warning_alert",
+    "items": [
+      "运动后别猛灌冰水，喝温水即可"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1053,
+    "seg_id": "S3-L7",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "list_fade",
+    "items": [
+      "极度疲劳时不要硬撑运动",
+      "生病时暂停运动",
+      "情绪很差时先休息"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1054,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "有针对性体检",
+    "template": "hero_text",
+    "items": [
+      "第三件事：每年做一次心脏体检"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1055,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "有针对性体检",
+    "template": "myth_buster",
+    "items": [
+      "公司体检有心电图就够了",
+      "心电图查不出隐匿冠心病和心肌病",
+      "体检项目越基础越省事",
+      "有危险因素必须做针对性检查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1056,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "有针对性体检",
+    "template": "list_fade",
+    "items": [
+      "直系亲属50岁前得过心脏病",
+      "血压血脂血糖有异常",
+      "长期高压工作加抽烟"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1057,
+    "seg_id": "S4-L4",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "有针对性体检",
+    "template": "vertical_timeline",
+    "items": [
+      "30岁以下：心电图+心脏彩超",
+      "30岁以上有危险因素：加颈动脉超声",
+      "高危人群：咨询医生考虑冠脉CT"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1058,
+    "seg_id": "S4-L5",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "有针对性体检",
+    "template": "number_center",
+    "items": [
+      "几百元"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1059,
+    "seg_id": "S4-L6",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "有针对性体检",
+    "template": "hero_text",
+    "items": [
+      "花几百块排个雷，远胜买保健品"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1060,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "读懂身体求救信号",
+    "template": "hero_text",
+    "items": [
+      "第四件事：听懂身体的求救信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1061,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "读懂身体求救信号",
+    "template": "number_center",
+    "items": [
+      "1周"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1062,
+    "seg_id": "S5-L3",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "读懂身体求救信号",
+    "template": "list_fade",
+    "items": [
+      "活动后反复胸闷、上楼就喘",
+      "心慌、心跳快或漏拍",
+      "没干啥却累到骨子里",
+      "不明原因冷汗、恶心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1063,
+    "seg_id": "S5-L4",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "读懂身体求救信号",
+    "template": "warning_alert",
+    "items": [
+      "与运动情绪相关、停下来就缓解，是心脏供血不足的典型信号"
+    ],
+    "needs_animation": true,
+    "label": "心脏供血不足（心肌缺血）机制"
+  },
+  {
+    "global_index": 1064,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "管好情绪护心脏",
+    "template": "hero_text",
+    "items": [
+      "第五件事：管好情绪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1065,
+    "seg_id": "S6-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "管好情绪护心脏",
+    "template": "step_arrow",
+    "items": [
+      "极度愤怒或悲伤兴奋",
+      "交感神经剧烈兴奋",
+      "血压骤升、血管痉挛",
+      "成为血管斑块破裂导火索"
+    ],
+    "needs_animation": true,
+    "label": "情绪应激导致血管痉挛及斑块破裂过程"
+  },
+  {
+    "global_index": 1066,
+    "seg_id": "S6-L3",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "管好情绪护心脏",
+    "template": "branch_path",
+    "items": [
+      "情绪积压怎么办？",
+      "找健康方式发泄，给心脏减负",
+      "什么都憋心里，血管持续受损"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1067,
+    "seg_id": "S6-L4",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "管好情绪护心脏",
+    "template": "split_column",
+    "items": [
+      "适时放松、宽容自己",
+      "长期压抑、情绪积压",
+      "比吃药更管用",
+      "慢慢伤心伤血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1068,
+    "seg_id": "S6-L5",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "管好情绪护心脏",
+    "template": "hero_text",
+    "items": [
+      "你对心脏好，它就陪你走得远"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1069,
+    "seg_id": "S6-L6",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "管好情绪护心脏",
+    "template": "hero_text",
+    "items": [
+      "对自己宽容一点，比吃药都管用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1070,
+    "seg_id": "S7-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "健康才能实现一切",
+    "template": "list_fade",
+    "items": [
+      "事业梦想需要好身体",
+      "家庭幸福需要好身体",
+      "健康才能实现一切"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1071,
+    "seg_id": "S7-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "健康才能实现一切",
+    "template": "hero_text",
+    "items": [
+      "关注我，下期更多护心干货不见不散"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1072,
+    "seg_id": "S1-L1",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差是什么",
+    "template": "hero_text",
+    "items": [
+      "血压里藏着一个被忽视的数值"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1073,
+    "seg_id": "S1-L2",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差是什么",
+    "template": "myth_buster",
+    "items": [
+      "只盯高压和低压",
+      "脉压差同样重要"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1074,
+    "seg_id": "S1-L3",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差是什么",
+    "template": "number_center",
+    "items": [
+      "40"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1075,
+    "seg_id": "S1-L4",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差是什么",
+    "template": "hero_text",
+    "items": [
+      "脉压差反映血管弹性波动幅度"
+    ],
+    "needs_animation": true,
+    "label": "动脉血管弹性与脉压差关系"
+  },
+  {
+    "global_index": 1076,
+    "seg_id": "S1-L5",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差是什么",
+    "template": "split_column",
+    "items": [
+      "健康中年人",
+      "mmHg",
+      "年龄越大血管弹性越差",
+      "脉压差往往偏大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1077,
+    "seg_id": "S2-L1",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过大的风险",
+    "template": "list_fade",
+    "items": [
+      "脉压差偏大多见于老年人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1078,
+    "seg_id": "S2-L2",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过大的风险",
+    "template": "step_arrow",
+    "items": [
+      "动脉硬化，血管缓冲能力下降",
+      "高压升高，低压反而偏低",
+      "脉压差明显增大"
+    ],
+    "needs_animation": true,
+    "label": "动脉硬化导致脉压差增大过程"
+  },
+  {
+    "global_index": 1079,
+    "seg_id": "S2-L3",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过大的风险",
+    "template": "warning_alert",
+    "items": [
+      "脉压差大比单纯高压低压风险更高",
+      "心脑血管事件风险显著上升"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

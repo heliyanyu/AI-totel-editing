@@ -1,0 +1,130 @@
+========== S2-L2 [心梗发病底层逻辑] ==========
+【我们·医生原话】不妨把我们的心脏 想象成 一台永不停止工作的发动机 而冠状动脉 就是给这台发动机供油的 专属管道
+
+【素材】ANH12082_Heart Anatomy.mp4
+  视频标题: ANH12082 Heart Anatomy
+        [191.9-197.4s] The blood then moves into your left ventricle, which contracts and sends blood out of your
+        [197.4-206.4s] heart through the aorta to feed your cells and tissues.
+    >>> [206.4-212.4s] The first branches off your aorta are the coronary arteries, which supply your heart muscle
+        [212.4-215.4s] with oxygen and nutrients.
+        [215.4-222.6s] At the top of your aorta, arteries branch off to carry blood to your head and arms.
+
+========== S2-L3 [心梗发病底层逻辑] ==========
+【我们·医生原话】随着年龄增长 长期熬夜 高脂饮食 或者抽烟 这些管道内壁上 就会慢慢长出 一些像水垢一样的斑块
+
+【素材】ANS00149_Atherosclerosis Bulleted Version.mp4
+  视频标题: ANS00149 Atherosclerosis Bulleted Version
+        [38.4-44.0s] Although the exact causes of atherosclerosis are not clear, many scientists think it begins
+        [44.0-49.2s] with damage to the inner wall of an artery, called the endothelium.
+    >>> [49.2-55.7s] Over time, substances traveling in the blood, such as cholesterol, fats, and cellular waste
+        [55.7-61.4s] products accumulate inside the damaged area of the arterial wall.
+        [61.4-66.5s] Chemical reactions occurring within the build-up of material cause cholesterol molecules to
+
+========== S2-L4 [心梗发病底层逻辑] ==========
+【我们·医生原话】平时这些斑块 只是让管道变窄 但在情绪激动 极度劳累 或气温骤降时 斑块表面的包膜 可能会突然破裂
+
+【素材】ANS00149_Atherosclerosis Bulleted Version.mp4
+  视频标题: ANS00149 Atherosclerosis Bulleted Version
+        [152.7-158.4s] Eventually, the passageway through the artery narrows, enough to reduce blood flow and
+        [158.4-162.5s] the amount of oxygen received by the organs it supplies.
+    >>> [162.5-169.6s] Over time, the cap may erode and break open, releasing plaque into the bloodstream.
+        [169.6-174.7s] The plaque can flow downstream and contribute to the formation of the blood clot, which
+        [174.7-177.1s] can stop blood flow.
+
+========== S2-L5 [心梗发病底层逻辑] ==========
+【我们·医生原话】身体的免疫系统 为了修补破损 会立刻召唤大量血小板聚集 结果越聚越多 瞬间形成一个巨大的血栓 把整个血管 死死堵住 这就是心血管堵塞
+
+【素材】ANH16180_About Your Heart Attack.mp4
+  视频标题: ANH16180 About Your Heart Attack
+        [63.0-68.2s] Your reduced blood flow may have been caused by a buildup of a fatty substance called plaque
+        [68.2-71.4s] in your coronary arteries.
+    >>> [71.4-77.6s] If this plaque became disrupted, a blood clot might form and severely worsen the narrowing
+        [77.6-84.2s] or lead to a sudden complete blockage stopping blood flow down the artery.
+        [84.2-89.4s] A blockage in your coronary arteries prevented the oxygen and nutrients in your blood from
+
+========== S2-L6 [心梗发病底层逻辑] ==========
+【我们·医生原话】血管堵 下游的心肌细胞 就像被掐住了脖子 没有氧气和养分 几十分钟内 就会开始不可逆的坏死
+
+【素材】ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+  视频标题: ANH13113 Acute Coronary Syndrome and Heart Attack
+        [117.2-123.3s] During a coronary artery dissection, the inside wall of one of your coronary arteries separates
+        [123.3-128.7s] which can block blood flow.
+    >>> [128.7-134.4s] Regardless of the cause, a blockage in either coronary artery prevents the oxygen and nutrients
+        [134.4-140.0s] in your blood from reaching the part of your heart supplied by the artery.
+        [140.0-145.2s] As a result, heart muscle in that area starts to die.
+
+========== S3-L3 [错误一：乱动身体] ==========
+【我们·医生原话】前面说了 心梗是 在给心脏供血的管道堵了 你在这个时候 走路 爬楼梯 做动作 全身的耗氧量 就会剧增
+
+【素材】AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+  视频标题: AND14017 After a Heart Attack  Managing Your Recovery
+        [18.6-25.2s] A heart attack, also called a myocardial infarction, or MI, occurs when blood flow to an area of
+        [25.2-29.4s] your heart is greatly reduced.
+    >>> [29.4-34.2s] When the blood supply is not able to keep up with the demand, the heart muscle cells don't
+        [34.2-36.7s] get enough blood to stay alive.
+        [36.7-44.6s] The result is death of heart muscle cells in the affected area of the heart.
+
+========== S3-L4 [错误一：乱动身体] ==========
+【我们·医生原话】心脏为了满足身体的氧气需求 只能拼命加速跳动 这就像 一辆已经被切断了燃油供应的汽车 你还在死命的踩油门 结果只能是 发动机彻底爆缸
+
+【素材】AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+  视频标题: AND14017 After a Heart Attack  Managing Your Recovery
+        [18.6-25.2s] A heart attack, also called a myocardial infarction, or MI, occurs when blood flow to an area of
+        [25.2-29.4s] your heart is greatly reduced.
+    >>> [29.4-34.2s] When the blood supply is not able to keep up with the demand, the heart muscle cells don't
+        [34.2-36.7s] get enough blood to stay alive.
+        [36.7-44.6s] The result is death of heart muscle cells in the affected area of the heart.
+
+========== S3-L5 [错误一：乱动身体] ==========
+【我们·医生原话】这种无谓的体力消耗 会迅速扩大心肌坏死的面积 极易诱发 致命的心室颤动
+
+【素材】ANH14135_Cardiac Arrhythmia.mp4
+  视频标题: ANH14135 Cardiac Arrhythmia
+        [179.6-186.4s] The most serious aridhmia is ventricular fibrillation, where many random impulses fire rapidly within
+        [186.4-188.8s] the ventricular walls.
+    >>> [188.8-194.1s] In ventricular fibrillation, the ventricles are quivering instead of beating.
+        [194.1-199.3s] This is a medical emergency because the heart cannot effectively pump blood to the body
+        [199.3-208.7s] or itself.
+
+========== S4-L5 [错误二：进食与乱用药] ==========
+【我们·医生原话】如果患者此时 是因为右心室梗死 导致的低血压 再吃 具有扩张血管降压作用的 硝酸甘油 会让血压瞬间崩盘 直接休克
+
+【素材】ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+  视频标题: ANH13113 Acute Coronary Syndrome and Heart Attack
+        [224.9-231.3s] Thrombolytics, also known as clot buster drugs, may be used to break up any existing blood
+        [231.3-236.1s] clots.
+    >>> [236.1-241.9s] Cards such as nitroglycerin and morphine will relax your coronary arteries and relieve
+        [241.9-248.3s] the pain of angina.
+        [248.3-253.9s] You may also receive drugs called beta blockers that slow down your heart and reduce its need
+
+========== S5-L3 [错误三：迷信偏方] ==========
+【我们·医生原话】从医学角度讲 这完全是无稽之谈 用力拍打 不仅不能把血栓拍散 反而会因为剧烈疼痛 刺激交感神经 让血压进一步升高 心脏负担更重
+
+【素材】ANH13100_High Blood Pressure (Hypertension).mp4
+  视频标题: ANH13100 High Blood Pressure (Hypertension)
+        [94.9-99.2s] Another resistance factor is the diameter of your arteries.
+        [99.2-105.5s] Your body is able to increase the diameter of your arteries to lower your blood pressure
+    >>> [105.5-111.4s] or reduce the diameter to raise your blood pressure.
+        [111.4-116.4s] A third resistance factor is blood viscosity or thickness.
+        [116.4-122.8s] In your blood, more particles, such as proteins and fat, increase viscosity.
+
+========== S5-L5 [错误三：迷信偏方] ==========
+【我们·医生原话】普通人在家中心梗发作时 用力咳嗽 只会增加胸腔压力 加剧心脏缺血 不仅救不了命 反而是在催命
+
+【素材】Heart Ischemia.mp4
+  视频标题: Heart Ischemia
+    >>> [0.0-2.0s] you
+        [30.0-32.0s] you
+        [60.0-62.0s] you
+
+========== S9-L1 [黄金步骤第四步：等] ==========
+【我们·医生原话】第四步是等 保持情绪稳定 安静等待救援 过度恐慌和焦虑 会让肾上腺素飙升 进一步收缩血管
+
+【素材】ANH12071_Health Effects of Smoking.mp4
+  视频标题: ANH12071 Health Effects of Smoking
+        [112.4-130.0s] heart attack, stroke, lung cancer, and death from chronic obstructive pulmonary disease.
+        [130.0-137.7s] Smoking causes cardiovascular disease. When nicotine flows through your adrenal glands,
+    >>> [137.7-145.6s] it stimulates the release of epinephrine, a hormone that raises your blood pressure.
+        [145.6-151.8s] In addition, nicotine and carbon monoxide can damage the lining of the inner walls in
+        [151.8-159.5s] your arteries. Fatty deposits, called plaque, can build up at these injury sites and become
+

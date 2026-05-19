@@ -1,0 +1,560 @@
+[
+  {
+    "global_index": 1480,
+    "seg_id": "S4-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "甲状腺癌的真相",
+    "template": "hero_text",
+    "items": [
+      "万一我就是那5%呢？"
+    ],
+    "atoms_text": "但您可能会说 那万一我就是那百分之五呢 这个担心也很正常",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1481,
+    "seg_id": "S4-L2",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "甲状腺癌的真相",
+    "template": "list_fade",
+    "items": [
+      "甲状腺癌最常见是乳头状癌",
+      "它生长极其缓慢，被称为\"懒癌\"",
+      "多年不转移，不扩散"
+    ],
+    "atoms_text": "但您得知道一件事儿 就算真的是那百分之五 甲状腺癌里最常见的是乳头状癌 这种癌它有一个特点 就是特别懒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1482,
+    "seg_id": "S4-L3",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "甲状腺癌的真相",
+    "template": "hero_text",
+    "items": [
+      "很多患者带着它活了一辈子"
+    ],
+    "atoms_text": "很多乳头状癌 长在那儿 十年二十年 都不带动的 不转移 不扩散 就趴在那儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1483,
+    "seg_id": "S4-L4",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "甲状腺癌的真相",
+    "template": "hero_text",
+    "items": [
+      "不是让你不管，是让你不必今晚睡不着"
+    ],
+    "atoms_text": "医学上我们也经常看到 有些甲状腺癌的患者 最后都不是因为这个癌去世的 而是带着它活了一辈子 最后是因为别的原因走的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1484,
+    "seg_id": "S4-L5",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "甲状腺癌的真相",
+    "template": "split_column",
+    "items": [
+      "过度恐慌，彻夜难眠",
+      "理性看待，定期观察",
+      "焦虑没有意义",
+      "科学应对才是关键"
+    ],
+    "atoms_text": "但我并不是说 让你不用管 我是说 你不用今天晚上就睡不着觉",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1485,
+    "seg_id": "S5-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "真正需要手术的情况",
+    "template": "hero_text",
+    "items": [
+      "什么情况才真的需要动刀？"
+    ],
+    "atoms_text": "那什么情况才真的需要动刀呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1486,
+    "seg_id": "S5-L2",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "真正需要手术的情况",
+    "template": "step_arrow",
+    "items": [
+      "TI-RADS四级以上",
+      "建议做细针穿刺取细胞",
+      "穿刺确认恶性后建议手术"
+    ],
+    "atoms_text": "第一 TI-RADS到了四级以上 医生建议做细针穿刺 就是用很细的针扎进去 取上一点细胞出来看 那如果穿刺的结果一看 确认是恶性的 那我们会一般建议切掉它",
+    "needs_animation": true,
+    "label": "细针穿刺甲状腺结节取细胞的操作过程"
+  },
+  {
+    "global_index": 1487,
+    "seg_id": "S5-L3",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "真正需要手术的情况",
+    "template": "warning_alert",
+    "items": [
+      "半年内结节增大一倍需认真对待"
+    ],
+    "atoms_text": "第二 结节在短时间内长得明显增快 比如半年长大了一倍 这种一定要认真对待",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1488,
+    "seg_id": "S5-L4",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "真正需要手术的情况",
+    "template": "color_grid",
+    "items": [
+      "边界不清楚",
+      "形态不规则",
+      "细小钙化",
+      "纵向生长大于横向"
+    ],
+    "atoms_text": "那第三 B超报告上出现了几个词儿 你一定要留意 边界不清楚 形态不规则 有细小钙化 纵向生长比横向长 这些都是医生判断它是不是有问题的依据",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1489,
+    "seg_id": "S5-L5",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "真正需要手术的情况",
+    "template": "branch_path",
+    "items": [
+      "同时出现多个高风险特征",
+      "医生建议进一步检查",
+      "单独一两个可暂时观察"
+    ],
+    "atoms_text": "如果单独出现一个两个 那不一定有事儿 但如果好几个同时出现 医生可能就会建议你去做进一步的检查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1490,
+    "seg_id": "S6-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "三级结节复查方案",
+    "template": "hero_text",
+    "items": [
+      "三级且无高风险特征，定期复查就够了"
+    ],
+    "atoms_text": "那您现在的情况是三级 没有说这些特征 那大概率就是定期复查就够了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1491,
+    "seg_id": "S6-L2",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "三级结节复查方案",
+    "template": "vertical_timeline",
+    "items": [
+      "发现结节后6个月：首次复查B超",
+      "无变化后：每年复查一次"
+    ],
+    "atoms_text": "那怎么复查呢 一般来说 第一次发现结节 半年以后复查一次B超 如果没什么变化 以后就每年复查一次就够了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1492,
+    "seg_id": "S6-L3",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "三级结节复查方案",
+    "template": "myth_buster",
+    "items": [
+      "天天自己摸脖子",
+      "定期B超复查即可",
+      "每两个月往医院跑一趟",
+      "每年一次复查就足够"
+    ],
+    "atoms_text": "您不用天天都自己摸着脖子 也不用每隔两个月就往医院跑一趟 没有这个必要",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1493,
+    "seg_id": "S7-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "必须立即就医的信号",
+    "template": "warning_alert",
+    "items": [
+      "脖子突然肿起来、吞咽有堵塞感、声音突然变哑——不管几级，立即就医"
+    ],
+    "atoms_text": "但是有几种情况 你也别拖 需要赶紧去找医生 比如脖子突然肿起来了 或者吞咽东西的时候觉得堵得慌 再或者声音突然变哑了 这几种情况 不管你是几级 都要去医院看一看",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1494,
+    "seg_id": "S8-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "焦虑的代价",
+    "template": "hero_text",
+    "items": [
+      "查出东西来，怕是正常的"
+    ],
+    "atoms_text": "我知道您现在可能还是有点慌 这很正常 查出身体长了个东西 谁都会怕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1495,
+    "seg_id": "S8-L2",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "焦虑的代价",
+    "template": "warning_alert",
+    "items": [
+      "因焦虑切掉良性结节，可能终身需要服药替代"
+    ],
+    "atoms_text": "但您怕归怕 别怕到去做一个你根本不需要做的手术 好多人就是因为太焦虑了 一刀切了 结果拿出来一看是良性的 但甲状腺少了一部分 可能就一辈子都得吃药替代",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1496,
+    "seg_id": "S9-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "正确行动指南",
+    "template": "step_arrow",
+    "items": [
+      "拿着报告找甲状腺专科医生",
+      "请医生制定复查方案",
+      "该吃吃该睡睡，半年后复查"
+    ],
+    "atoms_text": "所以你现在最该做的事儿 不是纠结要不要切 而是拿着您的报告 找一个靠谱的甲状腺专科医生 请他帮您看看 给您定一个复查方案 然后该吃吃该睡睡 半年以后再去复查 看看它有没有变化",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1497,
+    "seg_id": "S9-L2",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "正确行动指南",
+    "template": "hero_text",
+    "items": [
+      "管好情绪，比急着手术更重要"
+    ],
+    "atoms_text": "我说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1498,
+    "seg_id": "S1-L1",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "心梗认知误区科普",
+    "template": "myth_buster",
+    "items": [
+      "只有胸口疼才是心梗发作",
+      "心梗疼痛可放射到其他部位"
+    ],
+    "atoms_text": "我 发现 很多人 对心梗的印象 就是 胸口疼 觉得 只要胸口不疼 就跟心脏没关系 这个想法 是 非常非常危险的 哦",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1499,
+    "seg_id": "S1-L2",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "心梗认知误区科普",
+    "template": "body_annotate",
+    "items": [
+      "胸骨后闷压样疼痛",
+      "左肩背部放射痛",
+      "下颌部位放射痛",
+      "上腹部放射痛",
+      "糖友可能无明显胸痛"
+    ],
+    "atoms_text": "心梗最典型的表现 确实是 胸骨中间 像被石头压着一样的 闷疼 但 心脏的疼痛信号 传到大脑的时候 走的 那条神经线路 跟什么后背呀 左肩呀 下巴呀 甚至是上腹部 都共用一套系统 大脑有时候会搞混 明明是心脏在求救 它让你感觉到的 却是 后背疼 尤其是 糖尿病的人 神经本身就不太敏感了 胸口可能一点感觉都没有 就仅仅表现为后背疼 躺了一晚上 第二天人就没了",
+    "needs_animation": true,
+    "label": "心脏痛觉信号经共用神经通路传导至后背左肩下巴产生牵涉痛"
+  },
+  {
+    "global_index": 1500,
+    "seg_id": "S2-L1",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "后背痛心梗鉴别方法",
+    "template": "hero_text",
+    "items": [
+      "三招鉴别后背痛是否为心梗"
+    ],
+    "atoms_text": "那 是不是所有后背疼 都要怀疑心梗呢 当然 不是 绝大多数后背疼 就是 肌肉和骨骼的问题 那你怎么区分呢 记住 三个关键点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1501,
+    "seg_id": "S2-L2",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "后背痛心梗鉴别方法",
+    "template": "split_column",
+    "items": [
+      "活动时发作休息后缓解",
+      "扭动按压时疼痛加重"
+    ],
+    "atoms_text": "第一 看 这个后背疼 跟活动有没有关系 走快了 爬楼梯的时候 后背就开始疼 停下来休息几分钟 就好了 这种 跟体力活动明确挂钩的疼 就要高度警惕 是心脏的问题 那反过来 扭一下身体就疼 按压某个点就疼 换个姿势就好了 那这种 大概率是 肌肉劳损 或者颈椎胸椎的问题 不用太担心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1502,
+    "seg_id": "S2-L3",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "后背痛心梗鉴别方法",
+    "template": "split_column",
+    "items": [
+      "持续数分钟至十余分钟",
+      "疼痛持续1天及以上",
+      "突发剧痛伴冷汗不缓解",
+      "痛感轻微可正常活动"
+    ],
+    "atoms_text": "第二 看 持续的时间 心脏引起的后背疼 一般持续 几分钟到十几分钟 来得也比较急 去得也比较干脆 但如果你 疼了一整天 甚至好几天 还能忍受 那心脏的可能性 就反而不大了 但如果 突然剧烈的疼 疼的你冒汗 持续不缓解 千万别犹豫 直接打幺二零 这可能不光是心梗 还有可能是 主动脉夹层 那可是更要命的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1503,
+    "seg_id": "S2-L4",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "后背痛心梗鉴别方法",
+    "template": "list_fade",
+    "items": [
+      "三高（高血压/高血糖/高血脂）",
+      "长期吸烟、熬夜、压力大",
+      "腹型肥胖",
+      "冠心病家族遗传史"
+    ],
+    "atoms_text": "第三 看 您有没有高危因素 什么高血压 糖尿病 高血脂 吸烟 长期熬夜 压力过大 腹型肥胖 还有 家里有人年纪轻轻就得了冠心病 如果这些危险因素 你占了好几条 又出现了 说不清的后背疼 那就别自己在家瞎猜了 赶紧去医院 做个心电图 查个肌钙蛋白 很快就能搞清楚了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1504,
+    "seg_id": "S3-L1",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "临床案例警示",
+    "template": "warning_alert",
+    "items": [
+      "后背痛久拖可致血管严重堵塞",
+      "异常疼痛尽早就医可规避风险"
+    ],
+    "atoms_text": "其实 我在门诊 遇到过好多这样的人 后背疼了好几天 就以为是落枕了 贴了膏药 按摩了 都没好 才来医院 一查 心脏的血管 都堵了百分之八九十了 您说 早来个两天 是不是就不用受这个罪了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1505,
+    "seg_id": "S4-L1",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "核心要点总结",
+    "template": "hero_text",
+    "items": [
+      "高危后背痛切勿硬扛及时就医"
+    ],
+    "atoms_text": "总结一下 后背疼 大多数时候 不是心脏的问题 不用一疼就自己吓自己 但如果 活动的时候疼 休息就好 或者 突然剧烈的疼 伴冒冷汗 尤其 本身有三高 还抽烟的人 千万别硬扛 心梗这个东西 早一个小时 和晚一个小时 可能就是 活着和活不了的区别 您知道了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1506,
+    "seg_id": "S1-L1",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "开场点题：异常喘的风险提示",
+    "template": "hero_text",
+    "items": [
+      "走路喘可能是心脏的求救信号"
+    ],
+    "atoms_text": "我 发现 很多人 把什么症状 都往 年纪大了 上面靠 尤其是 走几步路就喘 这件事儿 太多人 觉得正常 觉得 人老了嘛 就是这样 说实话呀 有些喘 确实是 年纪大了 体力下降 导致的 但 有一种喘 是 心脏在跟您求救呢 您要是 把它当成老了 不管 可能就 真的来不及了 那 怎么区分呢 您就看 三个方面",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1507,
+    "seg_id": "S2-L1",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "hero_text",
+    "items": [
+      "第一看活动耐量的变化"
+    ],
+    "atoms_text": "第一 看 这种喘 跟以前比 有没有变化",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1508,
+    "seg_id": "S2-L2",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "hero_text",
+    "items": [
+      "长期体力一般的喘属正常情况"
+    ],
+    "atoms_text": "如果 您一直以来 体力就一般 爬个五楼 就要喘两下 那这种 属于 您的极限水平 大概率 就没什么问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1509,
+    "seg_id": "S2-L3",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "warning_alert",
+    "items": [
+      "活动耐量骤降是心脏异常信号"
+    ],
+    "atoms_text": "但如果 您以前 爬五楼没事儿 现在 爬两层楼 就不行了 或者 以前走一公里 轻轻松松 现在 走两百米 就得停下来歇歇 这种 明显的 进行性的 活动耐量下降 是 心脏出问题的 最典型的信号 关键词是 跟以前比 变差了 而不是 跟年轻人比 差不差",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1510,
+    "seg_id": "S2-L4",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "hero_text",
+    "items": [
+      "第二看喘的伴随症状"
+    ],
+    "atoms_text": "第二 看 喘的时候 伴随什么感觉",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1511,
+    "seg_id": "S2-L5",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "hero_text",
+    "items": [
+      "单纯喘无不适多为体力不足"
+    ],
+    "atoms_text": "单纯的 体力不好 引起的喘 就是觉得 气不够用 歇一歇 就好了 不会有 别的不舒服",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1512,
+    "seg_id": "S2-L6",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "warning_alert",
+    "items": [
+      "喘伴胸闷压迫感需提高警惕"
+    ],
+    "atoms_text": "但如果 您喘的同时 还觉得 胸口发闷 或者 有一种 说不出来的 压迫感 甚至觉得 嗓子发紧 像被人掐着 这种组合 就非常 值得警惕了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1513,
+    "seg_id": "S2-L7",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "warning_alert",
+    "items": [
+      "夜间平躺喘是心衰典型表现"
+    ],
+    "atoms_text": "还有一种情况 就是 晚上平躺下来 就觉得 喘不上气儿 必须 垫高枕头 甚至 坐起来 才舒服 这个 在医学上 叫 夜间阵发性呼吸困难 是 心衰的 一个 典型的表现 碰到了 一定要 赶紧去医院",
+    "needs_animation": true,
+    "label": "平卧时回心血量增加导致肺淤血引发夜间阵发性呼吸困难"
+  },
+  {
+    "global_index": 1514,
+    "seg_id": "S2-L8",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "hero_text",
+    "items": [
+      "第三看自身高危因素"
+    ],
+    "atoms_text": "那第三 就是 看 有没有 高危因素",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1515,
+    "seg_id": "S2-L9",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "list_fade",
+    "items": [
+      "高血压",
+      "糖尿病",
+      "高血脂",
+      "长期吸烟",
+      "肥胖",
+      "长期压力大"
+    ],
+    "atoms_text": "老话又来了 高血压 糖尿病 高血脂 吸烟 肥胖 压力大 这些 您占了几条",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1516,
+    "seg_id": "S2-L10",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "list_fade",
+    "items": [
+      "做心脏彩超",
+      "做心电图",
+      "抽血查心衰指标"
+    ],
+    "atoms_text": "如果 您本身 就是 高危人群 又出现了 活动后气短 别在家 琢磨了 直接 去医院 做个 心脏彩超 做个 心电图 抽个血 查查 心衰指标 不贵 也不复杂 很快 就能 给出您答案",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1517,
+    "seg_id": "S3-L1",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "走路喘的其他常见病因",
+    "template": "hero_text",
+    "items": [
+      "走路喘不全是心脏问题导致"
+    ],
+    "atoms_text": "当然 也得说一句 走路喘 不一定 都是 心脏的事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1518,
+    "seg_id": "S3-L2",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "走路喘的其他常见病因",
+    "template": "hero_text",
+    "items": [
+      "贫血携氧能力下降易引发喘"
+    ],
+    "atoms_text": "贫血的人 也会喘 因为 血红蛋白少了 携氧能力 就下降了",
+    "needs_animation": true,
+    "label": "血红蛋白减少导致血液携氧能力下降引起喘"
+  },
+  {
+    "global_index": 1519,
+    "seg_id": "S3-L3",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "走路喘的其他常见病因",
+    "template": "hero_text",
+    "items": [
+      "慢阻肺哮喘等肺病也会引发喘"
+    ],
+    "atoms_text": "肺的问题 比如 什么慢阻肺呀 哮喘呀 也会喘",
+    "needs_animation": false,
+    "label": ""
+  }
+]

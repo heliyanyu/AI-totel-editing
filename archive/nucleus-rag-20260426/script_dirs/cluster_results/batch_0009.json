@@ -1,0 +1,523 @@
+[
+  {
+    "global_index": 360,
+    "seg_id": "S14-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "总结与行动建议",
+    "template": "split_column",
+    "items": [
+      "盲目恐慌，反应过度",
+      "掉以轻心，拖延就医",
+      "冷静判断，先排除致命风险",
+      "对症找科室，及时处理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 361,
+    "seg_id": "S14-L3",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "先排致命风险，再对症就诊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 362,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "心脏检查选择困境",
+    "template": "hero_text",
+    "items": [
+      "想查心脏，不知做哪个检查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 363,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "心脏检查选择困境",
+    "template": "list_fade",
+    "items": [
+      "心电图",
+      "动态心电图",
+      "心脏彩超",
+      "冠脉CT",
+      "冠脉造影",
+      "心脏核磁"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 364,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "心脏检查选择困境",
+    "template": "warning_alert",
+    "items": [
+      "花了钱做了一堆没用的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 365,
+    "seg_id": "S1-L4",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "心脏检查选择困境",
+    "template": "hero_text",
+    "items": [
+      "按情况对号入座，选对检查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 366,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "常规体检选心电图",
+    "template": "hero_text",
+    "items": [
+      "常规体检，看心脏有无问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 367,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "常规体检选心电图",
+    "template": "number_center",
+    "items": [
+      "几十元"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 368,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "常规体检选心电图",
+    "template": "list_fade",
+    "items": [
+      "心跳节律是否正常",
+      "有无明显心肌缺血表现"
+    ],
+    "needs_animation": true,
+    "label": "心电图记录心脏电信号原理"
+  },
+  {
+    "global_index": 369,
+    "seg_id": "S2-L4",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "常规体检选心电图",
+    "template": "warning_alert",
+    "items": [
+      "只记录检查时几十秒状态",
+      "偶发情况不一定能被抓到"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 370,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "心慌查不出来选动态心电图",
+    "template": "hero_text",
+    "items": [
+      "心慌心悸，查心电图却正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 371,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "心慌查不出来选动态心电图",
+    "template": "step_arrow",
+    "items": [
+      "背小盒子贴电极片",
+      "白天夜晚全程覆盖记录",
+      "捕捉一天内所有心律异常"
+    ],
+    "needs_animation": true,
+    "label": "动态心电图持续监测心律过程"
+  },
+  {
+    "global_index": 372,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "心慌查不出来选动态心电图",
+    "template": "warning_alert",
+    "items": [
+      "心慌每天仅数分钟，普通心电图抓不住"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 373,
+    "seg_id": "S3-L4",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "心慌查不出来选动态心电图",
+    "template": "split_column",
+    "items": [
+      "24小时动态",
+      "72小时动态"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 374,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "看心脏结构功能选彩超",
+    "template": "list_fade",
+    "items": [
+      "四个腔室的大小",
+      "瓣膜开合是否正常",
+      "射血分数泵血能力"
+    ],
+    "needs_animation": true,
+    "label": "心脏腔室与瓣膜结构及泵血功能"
+  },
+  {
+    "global_index": 375,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "看心脏结构功能选彩超",
+    "template": "color_grid",
+    "items": [
+      "无创无辐射",
+      "两三百元即可完成"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 376,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "看心脏结构功能选彩超",
+    "template": "myth_buster",
+    "items": [
+      "彩超能查冠状动脉堵没堵",
+      "彩超只看心脏结构，看不见冠脉"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 377,
+    "seg_id": "S4-L4",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "看心脏结构功能选彩超",
+    "template": "hero_text",
+    "items": [
+      "彩超查的是\"房子\"，不是\"供水管\""
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 378,
+    "seg_id": "S4-L5",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "看心脏结构功能选彩超",
+    "template": "list_fade",
+    "items": [
+      "很多人以为",
+      "哎我做了彩超",
+      "查了冠脉",
+      "这是啊",
+      "最常见的误解"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 379,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "怀疑冠心病选冠脉CT",
+    "template": "hero_text",
+    "items": [
+      "怀疑冠心病，想知道血管堵没堵"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 380,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "怀疑冠心病选冠脉CT",
+    "template": "step_arrow",
+    "items": [
+      "躺入CT机注射造影剂",
+      "扫描冠状动脉全程",
+      "看斑块与狭窄程度"
+    ],
+    "needs_animation": true,
+    "label": "冠脉CT扫描与冠状动脉斑块显影"
+  },
+  {
+    "global_index": 381,
+    "seg_id": "S5-L3",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "怀疑冠心病选冠脉CT",
+    "template": "hero_text",
+    "items": [
+      "血管干净，冠心病基本排除"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 382,
+    "seg_id": "S5-L4",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "怀疑冠心病选冠脉CT",
+    "template": "branch_path",
+    "items": [
+      "冠脉CT结果出来",
+      "血管干净，不必再查",
+      "有狭窄，医生再决定是否造影"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 383,
+    "seg_id": "S5-L5",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "怀疑冠心病选冠脉CT",
+    "template": "hero_text",
+    "items": [
+      "冠脉CT是无创筛查利器"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 384,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "高度怀疑冠脉病变选造影",
+    "template": "hero_text",
+    "items": [
+      "CT发现问题或高度怀疑严重病变"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 385,
+    "seg_id": "S6-L2",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "高度怀疑冠脉病变选造影",
+    "template": "step_arrow",
+    "items": [
+      "手腕穿孔置入导管",
+      "冠脉内直接注射造影剂",
+      "金标准，清晰看见血管病变"
+    ],
+    "needs_animation": true,
+    "label": "冠脉造影导管介入过程"
+  },
+  {
+    "global_index": 386,
+    "seg_id": "S6-L3",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "高度怀疑冠脉病变选造影",
+    "template": "split_column",
+    "items": [
+      "看得最清楚，可当场放支架",
+      "有创检查，存在一定风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 387,
+    "seg_id": "S6-L4",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "高度怀疑冠脉病变选造影",
+    "template": "warning_alert",
+    "items": [
+      "不是人人都需要，别一上来就要求做造影"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 388,
+    "seg_id": "S7-L1",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "运动时胸闷选运动平板",
+    "template": "hero_text",
+    "items": [
+      "平时正常，运动时才胸闷"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 389,
+    "seg_id": "S7-L2",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "运动时胸闷选运动平板",
+    "template": "step_arrow",
+    "items": [
+      "跑步机上逐级加速运动",
+      "同步监测心电图变化",
+      "评估运动负荷下心脏供血"
+    ],
+    "needs_animation": true,
+    "label": "运动负荷试验心脏供血评估"
+  },
+  {
+    "global_index": 390,
+    "seg_id": "S7-L3",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "运动时胸闷选运动平板",
+    "template": "hero_text",
+    "items": [
+      "平时正常一运动就不适，首选此项"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 391,
+    "seg_id": "S8-L1",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "心肌病变选心脏核磁",
+    "template": "hero_text",
+    "items": [
+      "怀疑心肌炎或心肌病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 392,
+    "seg_id": "S8-L2",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "心肌病变选心脏核磁",
+    "template": "list_fade",
+    "items": [
+      "心肌水肿",
+      "心肌纤维化",
+      "心肌瘢痕"
+    ],
+    "needs_animation": true,
+    "label": "心肌组织病变过程"
+  },
+  {
+    "global_index": 393,
+    "seg_id": "S8-L3",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "心肌病变选心脏核磁",
+    "template": "hero_text",
+    "items": [
+      "精细分辨心肌组织，非常规检查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 394,
+    "seg_id": "S9-L1",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "总结对号入座",
+    "template": "vertical_timeline",
+    "items": [
+      "第一步：常规体检做心电图",
+      "第二步：心慌抓不到做动态心电图",
+      "第三步：看结构功能做心脏彩超",
+      "第四步：怀疑冠心病做冠脉CT",
+      "第五步：CT有问题再考虑造影",
+      "特殊：运动不适做运动平板，心肌病变做核磁"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 395,
+    "seg_id": "S9-L2",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "总结对号入座",
+    "template": "hero_text",
+    "items": [
+      "一层一层来，不要跳步"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 396,
+    "seg_id": "S9-L3",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "总结对号入座",
+    "template": "number_center",
+    "items": [
+      "前3步"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 397,
+    "seg_id": "S9-L4",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "总结对号入座",
+    "template": "warning_alert",
+    "items": [
+      "不花冤枉钱",
+      "不漏该查的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 398,
+    "seg_id": "S9-L5",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "总结对号入座",
+    "template": "hero_text",
+    "items": [
+      "对号入座，不清楚就问医生"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 399,
+    "seg_id": "S1-L1",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两种人的故事",
+    "template": "myth_buster",
+    "items": [
+      "胸口一疼就冲急诊查无问题不信",
+      "心梗真发作，却以为是其他痛硬扛",
+      "过度焦虑虚惊一场",
+      "延误就医追悔莫及"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

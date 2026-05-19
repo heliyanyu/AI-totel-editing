@@ -1,0 +1,559 @@
+[
+  {
+    "global_index": 2560,
+    "seg_id": "S1-L4",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "少吃盐就够了？",
+    "template": "warning_alert",
+    "items": [
+      "盐控了，血压还是不理想",
+      "可能还漏了一个关键环节"
+    ],
+    "atoms_text": "但问题是 很多人 盐也控了 血压还是不理想 这时候 你就得想一想 是不是还漏了 哪一个环节",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2561,
+    "seg_id": "S1-L5",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "少吃盐就够了？",
+    "template": "hero_text",
+    "items": [
+      "那个环节，就是钾的缺乏"
+    ],
+    "atoms_text": "那就是 钾的缺乏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2562,
+    "seg_id": "S2-L1",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "血压为什么会高",
+    "template": "hero_text",
+    "items": [
+      "血管阻力增大，心脏被迫加力泵血"
+    ],
+    "atoms_text": "你的血压 为什么高 说白了 就是血管阻力大了 心脏得更大的劲 泵血",
+    "needs_animation": true,
+    "label": "血管阻力增大时心脏加大力度泵血"
+  },
+  {
+    "global_index": 2563,
+    "seg_id": "S2-L2",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "血压为什么会高",
+    "template": "brick_stack",
+    "items": [
+      "遗传因素",
+      "肥胖超重",
+      "缺乏运动",
+      "长期压力大"
+    ],
+    "atoms_text": "原因很多 遗传 肥胖 缺乏运动 压力大 都有关系",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2564,
+    "seg_id": "S2-L3",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "血压为什么会高",
+    "template": "split_column",
+    "items": [
+      "钠摄入过多",
+      "钾摄入不足"
+    ],
+    "atoms_text": "但在饮食这个层面呢 除了钠吃多了以外 还有一个因素 大家往往不知道 就是钾吃少了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2565,
+    "seg_id": "S3-L1",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "控盐与补钾是搭档",
+    "template": "step_arrow",
+    "items": [
+      "控盐打基础",
+      "增加钾摄入",
+      "降压效果更佳"
+    ],
+    "atoms_text": "现在越来越多的研究发现 在控盐的基础上 增加钾的摄入 降压效果会更好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2566,
+    "seg_id": "S3-L2",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "控盐与补钾是搭档",
+    "template": "hero_text",
+    "items": [
+      "控盐与补钾是一对搭档，缺一效果打折"
+    ],
+    "atoms_text": "说白了 控盐和补钾 是一对搭档 光做一个 效果打折扣",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2567,
+    "seg_id": "S4-L1",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "钾如何帮助降压",
+    "template": "hero_text",
+    "items": [
+      "钾降压的两大核心机制"
+    ],
+    "atoms_text": "那钾到底 怎么帮助降压的呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2568,
+    "seg_id": "S4-L2",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "钾如何帮助降压",
+    "template": "number_center",
+    "items": [
+      "2"
+    ],
+    "atoms_text": "其实钾的降压机制 最核心的 就有两条",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2569,
+    "seg_id": "S4-L3",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "钾如何帮助降压",
+    "template": "step_arrow",
+    "items": [
+      "钠摄入过多",
+      "钾促进肾脏排钠",
+      "减少体内钠负荷"
+    ],
+    "atoms_text": "第一个 钾能促进肾脏 把多余的钠 排出去 你盐吃多了 钾能帮你 排一部分",
+    "needs_animation": true,
+    "label": "钾促进肾脏将多余的钠排出体外"
+  },
+  {
+    "global_index": 2570,
+    "seg_id": "S4-L4",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "钾如何帮助降压",
+    "template": "step_arrow",
+    "items": [
+      "血管壁紧张",
+      "钾帮助血管壁放松",
+      "血压随之下降"
+    ],
+    "atoms_text": "第二呢 钾能帮助血管壁放松 降低血管的紧张度 血管松了 血压自然就没那么高",
+    "needs_animation": true,
+    "label": "钾帮助血管壁放松降低血管紧张度"
+  },
+  {
+    "global_index": 2571,
+    "seg_id": "S4-L5",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "钾如何帮助降压",
+    "template": "hero_text",
+    "items": [
+      "两条机制均有扎实医学研究支持"
+    ],
+    "atoms_text": "这两条 在医学研究里 证据是比较扎实的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2572,
+    "seg_id": "S5-L1",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "光靠香蕉够吗",
+    "template": "myth_buster",
+    "items": [
+      "多吃香蕉就能补够钾",
+      "每天需吃七八根才够量"
+    ],
+    "atoms_text": "说到这儿 肯定有人想 那我多吃香蕉 不就行了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2573,
+    "seg_id": "S5-L2",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "光靠香蕉够吗",
+    "template": "split_column",
+    "items": [
+      "一根香蕉含钾约 420mg",
+      "每日推荐摄入 3500mg",
+      "需要吃 7～8 根",
+      "几乎没人能做到"
+    ],
+    "atoms_text": "你算算就知道了 一根香蕉含钾 大概是四百二十毫克 而一般建议 每天至少摄入 三千五百毫克的钾 算下来 得吃七八根 没几个人能做到",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2574,
+    "seg_id": "S6-L1",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "最佳补钾食物来源",
+    "template": "color_grid",
+    "items": [
+      "菠菜、苋菜、芥蓝等绿叶蔬菜",
+      "土豆、红薯等薯类杂豆",
+      "海带、紫菜、蘑菇"
+    ],
+    "atoms_text": "其实最好的来源 是绿叶蔬菜 比如说 菠菜 苋菜 芥蓝 羽衣甘蓝等 不光钾含量高 镁也高 对血压也有好处",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2575,
+    "seg_id": "S6-L2",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "最佳补钾食物来源",
+    "template": "hero_text",
+    "items": [
+      "薯类替代精制主食，一举两得"
+    ],
+    "atoms_text": "其次是 薯类杂豆 土豆 红薯 黄豆 绿豆 拿来一部分 替代精制主食 一举两得",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2576,
+    "seg_id": "S6-L3",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "最佳补钾食物来源",
+    "template": "list_fade",
+    "items": [
+      "绿叶蔬菜钾含量高",
+      "同时富含镁，对血压也有益"
+    ],
+    "atoms_text": "海带 紫菜 蘑菇 也不错",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2577,
+    "seg_id": "S6-L4",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "最佳补钾食物来源",
+    "template": "warning_alert",
+    "items": [
+      "久煮会使钾大量流失到汤里",
+      "急火快炒或焯水凉拌更好"
+    ],
+    "atoms_text": "但要注意 蔬菜煮汤太久 钾会流失到汤里 最好急火快炒 或者是 焯水凉拌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2578,
+    "seg_id": "S7-L1",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "为何现代人普遍缺钾",
+    "template": "hero_text",
+    "items": [
+      "加工食品吃太多，是缺钾的根源"
+    ],
+    "atoms_text": "反过来说 为什么现在人 普遍钾不够 其实很简单 加工食品吃太多了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2579,
+    "seg_id": "S7-L2",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "为何现代人普遍缺钾",
+    "template": "split_column",
+    "items": [
+      "加工食品：高钠低钾",
+      "钠钾天平严重失衡"
+    ],
+    "atoms_text": "加工食品 有一个共同的特点 钠高钾低 你吃的越多 钠钾的天平 就往钠的那边歪 对血压是雪上加霜",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2580,
+    "seg_id": "S7-L3",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "为何现代人普遍缺钾",
+    "template": "warning_alert",
+    "items": [
+      "蔬菜水果吃得少，钾更加不够"
+    ],
+    "atoms_text": "再加上 蔬菜水果吃的少 钾就更不够了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2581,
+    "seg_id": "S7-L4",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "为何现代人普遍缺钾",
+    "template": "step_arrow",
+    "items": [
+      "长期饮酒",
+      "酒精加速肾脏排钾",
+      "体内钾水平偏低"
+    ],
+    "atoms_text": "还有喝酒 酒精会加速 钾从肾脏排出去 长期喝酒的人 钾往往偏低",
+    "needs_animation": true,
+    "label": "酒精加速钾从肾脏排出导致钾偏低"
+  },
+  {
+    "global_index": 2582,
+    "seg_id": "S8-L1",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "饮食管血压两件事",
+    "template": "hero_text",
+    "items": [
+      "管好血压，饮食上两件事同时做到"
+    ],
+    "atoms_text": "总结一下啊 想把血压管好 饮食上 两件事 同时要做到",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2583,
+    "seg_id": "S8-L2",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "饮食管血压两件事",
+    "template": "hero_text",
+    "items": [
+      "控盐是基础，不能放松"
+    ],
+    "atoms_text": "第一个 控盐 这是基础 不能放松",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2584,
+    "seg_id": "S8-L3",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "饮食管血压两件事",
+    "template": "hero_text",
+    "items": [
+      "多吃绿叶蔬菜，补钾常被忽略"
+    ],
+    "atoms_text": "第二 多吃富钾的天然食物 尤其是绿叶蔬菜 这是很多人 一直忽略的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2585,
+    "seg_id": "S8-L4",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "饮食管血压两件事",
+    "template": "list_fade",
+    "items": [
+      "坚持规律运动",
+      "控制体重",
+      "保证充足睡眠"
+    ],
+    "atoms_text": "再加上 坚持运动 控制体重 好好睡觉 血压大概率会改善",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2586,
+    "seg_id": "S9-L1",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "补钾高危人群须谨慎",
+    "template": "warning_alert",
+    "items": [
+      "有几类人补钾必须格外谨慎"
+    ],
+    "atoms_text": "但最后 必须提醒一句 有几类人 补钾一定要谨慎",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2587,
+    "seg_id": "S9-L2",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "补钾高危人群须谨慎",
+    "template": "list_fade",
+    "items": [
+      "服用普利类/沙坦类降压药者",
+      "使用保钾利尿剂者",
+      "肾功能不全者"
+    ],
+    "atoms_text": "正在吃普利类的 沙坦类降压药的 吃保钾利尿剂的 还有肾功能不好的人呢 千万别自己盲目补钾",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2588,
+    "seg_id": "S9-L3",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "补钾高危人群须谨慎",
+    "template": "step_arrow",
+    "items": [
+      "钾无法正常排出",
+      "体内钾浓度升高",
+      "引发高钾血症，心脏出大问题"
+    ],
+    "atoms_text": "因为这些情况下 钾排不出去 堆积过多 会引起高钾血症 严重时呢 心脏会出大问题",
+    "needs_animation": true,
+    "label": "钾无法经肾排出而堆积引发高钾血症影响心脏"
+  },
+  {
+    "global_index": 2589,
+    "seg_id": "S9-L4",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "补钾高危人群须谨慎",
+    "template": "hero_text",
+    "items": [
+      "不确定时先咨询医生，安全第一"
+    ],
+    "atoms_text": "不确定的话 先问问你的医生 安全永远是第一位的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2590,
+    "seg_id": "S10-L1",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "总结：补上被忽略的拼图",
+    "template": "hero_text",
+    "items": [
+      "控盐是根本，补钾是那块被忽略的拼图"
+    ],
+    "atoms_text": "降压这件事 控盐是根本 补钾是 你可能一直忽略的 那块拼图",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2591,
+    "seg_id": "S10-L2",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "总结：补上被忽略的拼图",
+    "template": "split_column",
+    "items": [
+      "多吃绿叶蔬菜",
+      "少吃加工食品"
+    ],
+    "atoms_text": "多吃绿叶蔬菜 少吃加工食品 把这两件事做到位 就是对血管最好的保护",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2592,
+    "seg_id": "S10-L3",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "总结：补上被忽略的拼图",
+    "template": "hero_text",
+    "items": [
+      "这是对血管最好的保护"
+    ],
+    "atoms_text": "我说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2593,
+    "seg_id": "S1-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "开场破题",
+    "template": "split_column",
+    "items": [
+      "脑梗：发生在脑袋",
+      "心梗：发生在心脏",
+      "位置不同",
+      "名字相似"
+    ],
+    "atoms_text": "脑梗和心梗 一个在脑袋 一个在心脏 很多人觉得 这俩病 八竿子打不着 顶多就是 名字长得像",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2594,
+    "seg_id": "S1-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "这两个病，爹妈是同一个"
+    ],
+    "atoms_text": "但其实 这两个病 不单是亲兄弟 而且 他们的爹妈 都是一样的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2595,
+    "seg_id": "S1-L3",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "捋清楚，你就全明白了"
+    ],
+    "atoms_text": "我给你捋一下 你就明白了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2596,
+    "seg_id": "S2-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "共同的病根",
+    "template": "hero_text",
+    "items": [
+      "血管就像家里的水管，会积水垢"
+    ],
+    "atoms_text": "你想象一下 家里的水管 不管厨房的 还是卫生间的 时间长了 水垢都会慢慢积上去 对吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2597,
+    "seg_id": "S2-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "共同的病根",
+    "template": "body_annotate",
+    "items": [
+      "冠状动脉：心脏供血管道",
+      "脑动脉：大脑供血管道",
+      "本质都是管子，都会长斑块"
+    ],
+    "atoms_text": "你身上的血管 也是一样的 心脏上的冠状动脉也好 脑袋里的动脉也好 本质上都是管子 只要条件合适 都会长斑块",
+    "needs_animation": true,
+    "label": "冠状动脉和脑动脉内壁逐渐形成斑块"
+  },
+  {
+    "global_index": 2598,
+    "seg_id": "S2-L3",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "共同的病根",
+    "template": "color_grid",
+    "items": [
+      "高血压 / 高血糖 / 高血脂",
+      "抽烟",
+      "肥胖",
+      "不运动"
+    ],
+    "atoms_text": "什么条件呢 高血压 高血糖 高血脂 抽烟 肥胖 不运动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2599,
+    "seg_id": "S2-L4",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "共同的病根",
+    "template": "hero_text",
+    "items": [
+      "哪根管子薄弱，哪根先出事"
+    ],
+    "atoms_text": "这些东西 对血管的伤害 是全身性的 它不会只盯着你心脏 欺负哪根管子薄弱 哪根就先出事儿",
+    "needs_animation": true,
+    "label": "危险因素对全身血管造成系统性损伤"
+  }
+]

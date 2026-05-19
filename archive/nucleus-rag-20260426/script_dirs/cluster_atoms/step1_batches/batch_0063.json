@@ -1,0 +1,560 @@
+[
+  {
+    "global_index": 2520,
+    "seg_id": "S6-L5",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "branch_path",
+    "items": [
+      "发现尿微量白蛋白偏高",
+      "控好血压血糖，损伤可逆",
+      "拖延不查，肾损伤难逆转"
+    ],
+    "atoms_text": "肾脏小血管开始漏了 说明全身的微循环 都在出问题",
+    "needs_animation": true,
+    "label": "肾脏小血管通透性增加导致蛋白漏出与全身微循环损伤"
+  },
+  {
+    "global_index": 2521,
+    "seg_id": "S6-L6",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "warning_alert",
+    "items": [
+      "等肌酐升高才发现",
+      "肾脏损伤将难以逆转"
+    ],
+    "atoms_text": "发现早 把血压血糖 好好压下来 这个漏 是能堵回去的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2522,
+    "seg_id": "S6-L7",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "vertical_timeline",
+    "items": [
+      "早期：微量白蛋白漏出，可干预",
+      "中期：持续损伤，干预效果下降",
+      "晚期：肌酐升高，损伤难逆转"
+    ],
+    "atoms_text": "但如果一直不查 等到肌酐都高掉 再发现 那时候肾脏损伤 就很难逆转了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2523,
+    "seg_id": "S7-L1",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "行动总结",
+    "template": "hero_text",
+    "items": [
+      "体检时把这条视频翻出来对照"
+    ],
+    "atoms_text": "你下次去体检 或者去医院的时候 可以把这个视频 翻出来看一看",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2524,
+    "seg_id": "S7-L2",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "行动总结",
+    "template": "split_column",
+    "items": [
+      "五项合计花费不多",
+      "可规避心梗脑梗大风险"
+    ],
+    "atoms_text": "这几项检查 加起来也花不了多少钱 却能避免大风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2525,
+    "seg_id": "S7-L3",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "行动总结",
+    "template": "hero_text",
+    "items": [
+      "这五项检查，你做过几项？"
+    ],
+    "atoms_text": "我都说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2526,
+    "seg_id": "S1-L1",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "停药的危险",
+    "template": "hero_text",
+    "items": [
+      "脑梗后的药，好了也不能停"
+    ],
+    "atoms_text": "有一句话 我反复说过很多次 脑梗之后的药 不是你觉得好了就能停的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2527,
+    "seg_id": "S1-L2",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "停药的危险",
+    "template": "list_fade",
+    "items": [
+      "手脚灵活了就偷偷减药",
+      "说话利索了就自行停药"
+    ],
+    "atoms_text": "但还是有很多的患者 觉得手脚灵活了 说话利索了 就开始自己偷偷减药 甚至停药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2528,
+    "seg_id": "S1-L3",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "停药的危险",
+    "template": "warning_alert",
+    "items": [
+      "擅自停药，极易再次脑梗",
+      "第二次发作，往往更凶险"
+    ],
+    "atoms_text": "每次听到这种话呢 我都替他们捏把汗 因为这么做的后果 往往就是再梗一次 而第二次 可就没那么幸运了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2529,
+    "seg_id": "S2-L1",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "为什么必须终身服药",
+    "template": "hero_text",
+    "items": [
+      "阿司匹林和他汀，绝大多数人需终身服用"
+    ],
+    "atoms_text": "先把结论说在前面 脑梗之后的 阿司匹林和他汀 绝大多数人 需要终身服用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2530,
+    "seg_id": "S2-L2",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "为什么必须终身服药",
+    "template": "brick_stack",
+    "items": [
+      "血管斑块仍然存在",
+      "动脉硬化未曾消失",
+      "高血压高血脂未解决"
+    ],
+    "atoms_text": "为什么呢 因为脑梗的根源 是你血管里面的斑块和动脉硬化",
+    "needs_animation": true,
+    "label": "脑血管内动脉粥样硬化斑块作为脑梗发病根源"
+  },
+  {
+    "global_index": 2531,
+    "seg_id": "S2-L3",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "为什么必须终身服药",
+    "template": "step_arrow",
+    "items": [
+      "血管环境未改变",
+      "不吃药控制风险",
+      "复发只是时间问题"
+    ],
+    "atoms_text": "医生把你抢救回来了 但斑块消失了吗 没有 高血压高血脂这些问题消失了吗 也没有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2532,
+    "seg_id": "S2-L4",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "为什么必须终身服药",
+    "template": "hero_text",
+    "items": [
+      "抢救成功不等于血管恢复正常"
+    ],
+    "atoms_text": "你的血管环境一点没变 不吃药控制 复发只是时间问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2533,
+    "seg_id": "S3-L1",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "阿司匹林的作用",
+    "template": "number_center",
+    "items": [
+      "阿司匹林"
+    ],
+    "atoms_text": "那这两个药各管什么呢 阿司匹林管的是血栓 它是抗血小板药 防止血小板在斑块破口上 堆积形成血栓",
+    "needs_animation": true,
+    "label": "阿司匹林抑制血小板在斑块破口处堆积形成血栓"
+  },
+  {
+    "global_index": 2534,
+    "seg_id": "S3-L2",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "阿司匹林的作用",
+    "template": "body_annotate",
+    "items": [
+      "斑块破口是薄弱环节",
+      "该位置将来仍可能再破"
+    ],
+    "atoms_text": "你的斑块已经破过一次了 那个位置是薄弱环节 将来还可能再破",
+    "needs_animation": true,
+    "label": "斑块破裂后局部纤维帽薄弱成为再次破裂的薄弱环节"
+  },
+  {
+    "global_index": 2535,
+    "seg_id": "S3-L3",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "阿司匹林的作用",
+    "template": "hero_text",
+    "items": [
+      "阿司匹林是守在破口的哨兵"
+    ],
+    "atoms_text": "阿司匹林就是在那儿站岗的哨兵 你把哨兵撤了 谁来拦",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2536,
+    "seg_id": "S4-L1",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "他汀的作用",
+    "template": "number_center",
+    "items": [
+      "他汀"
+    ],
+    "atoms_text": "他汀管的是斑块 它降低低密度脂蛋白胆固醇 等于给斑块断粮",
+    "needs_animation": true,
+    "label": "他汀降低LDL-C切断斑块脂质原材料供给"
+  },
+  {
+    "global_index": 2537,
+    "seg_id": "S4-L2",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "他汀的作用",
+    "template": "step_arrow",
+    "items": [
+      "原材料减少",
+      "斑块不易增大",
+      "不稳定斑块趋于稳定"
+    ],
+    "atoms_text": "原材料少了 斑块不容易长大 有的不稳定斑块 也会慢慢变得致密 不容易破",
+    "needs_animation": true,
+    "label": "不稳定斑块在脂质减少后逐渐变得致密稳定不易破裂"
+  },
+  {
+    "global_index": 2538,
+    "seg_id": "S4-L3",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "他汀的作用",
+    "template": "warning_alert",
+    "items": [
+      "停药后粮草重供，斑块再度活跃"
+    ],
+    "atoms_text": "你一停药 粮草重新供上 斑块又开始活跃了",
+    "needs_animation": true,
+    "label": "停药后LDL-C回升斑块重新获得脂质供给再次活跃"
+  },
+  {
+    "global_index": 2539,
+    "seg_id": "S4-L4",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "他汀的作用",
+    "template": "split_column",
+    "items": [
+      "阿司匹林：防血栓",
+      "他汀：稳斑块",
+      "各司其职",
+      "缺一不可"
+    ],
+    "atoms_text": "一个防血栓 一个稳斑块 各管各的 缺一不可",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2540,
+    "seg_id": "S5-L1",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "阿司匹林副作用管理",
+    "template": "list_fade",
+    "items": [
+      "胃部不适",
+      "出血风险增加"
+    ],
+    "atoms_text": "那副作用怎么办呢 阿司匹林最常见的是 胃不舒服和出血风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2541,
+    "seg_id": "S5-L2",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "阿司匹林副作用管理",
+    "template": "list_fade",
+    "items": [
+      "选肠溶片，减少胃刺激",
+      "建议空腹服用"
+    ],
+    "atoms_text": "所以医生一般让你吃肠溶片 空腹吃 减少胃刺激",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2542,
+    "seg_id": "S5-L3",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "阿司匹林副作用管理",
+    "template": "step_arrow",
+    "items": [
+      "出现胃痛或大便发黑",
+      "不要自行停药",
+      "及时找医生换药或加胃药"
+    ],
+    "atoms_text": "如果吃了确实胃痛 或者是大便发黑了 不要自己偷偷停药 及时找医生 医生会帮你换药 或者是加胃药保护",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2543,
+    "seg_id": "S6-L1",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "他汀副作用管理",
+    "template": "list_fade",
+    "items": [
+      "肌肉酸痛",
+      "肝功能轻度异常"
+    ],
+    "atoms_text": "他汀呢 有些人会肌肉酸痛 或者是肝功能轻度异常",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2544,
+    "seg_id": "S6-L2",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "他汀副作用管理",
+    "template": "vertical_timeline",
+    "items": [
+      "服药1个月后：查肝功和血脂",
+      "结果正常：每3-6个月复查一次"
+    ],
+    "atoms_text": "所以吃上一个月以后 查一次肝功或血脂 正常的话呢 后面三到六个月查一次",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2545,
+    "seg_id": "S6-L3",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "他汀副作用管理",
+    "template": "branch_path",
+    "items": [
+      "出现他汀不耐受",
+      "医生换另一种他汀",
+      "医生调整用药剂量"
+    ],
+    "atoms_text": "少数人对某种他汀不耐受 医生会换另一种 或者是帮你调整剂量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2546,
+    "seg_id": "S7-L1",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "复发的代价",
+    "template": "hero_text",
+    "items": [
+      "第一次恢复好，停药后再梗——最可惜的结局"
+    ],
+    "atoms_text": "我见过最可惜的情况是 患者第一次脑梗 恢复的特别好 自己停了药 一两年以后 又梗了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2547,
+    "seg_id": "S7-L2",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "复发的代价",
+    "template": "warning_alert",
+    "items": [
+      "每复发一次，损伤加重一层",
+      "每复发一次，恢复更难一次"
+    ],
+    "atoms_text": "脑梗有一个很残酷的规律 每复发一次 损伤就重一层 恢复就难一次",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2548,
+    "seg_id": "S7-L3",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "复发的代价",
+    "template": "vertical_timeline",
+    "items": [
+      "第一次：手脚无力",
+      "第二次：偏瘫",
+      "第三次：危及生命"
+    ],
+    "atoms_text": "第一次可能只是手脚无力 第二次可能偏瘫 第三次可能人就没了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2549,
+    "seg_id": "S7-L4",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "复发的代价",
+    "template": "hero_text",
+    "items": [
+      "吃药不只治眼前，更是预防下一次"
+    ],
+    "atoms_text": "所以你吃药 不光是治眼前的症状 还有预防下一次",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2550,
+    "seg_id": "S8-L1",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "什么情况可以停药",
+    "template": "number_center",
+    "items": [
+      "极少数"
+    ],
+    "atoms_text": "有没有能停药的情况呢 非常少",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2551,
+    "seg_id": "S8-L2",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "什么情况可以停药",
+    "template": "myth_buster",
+    "items": [
+      "以为所有脑梗用药相同",
+      "房颤心源性栓塞方案不同",
+      "以为动脉硬化才需长期用药",
+      "不同病因对应不同治疗策略"
+    ],
+    "atoms_text": "比如有些脑梗 不是动脉硬化引起的 而是房颤导致的 心源性的栓塞 那用药的方案本身就不同",
+    "needs_animation": true,
+    "label": "房颤时心房内血栓脱落经血流栓塞脑血管（心源性栓塞）"
+  },
+  {
+    "global_index": 2552,
+    "seg_id": "S8-L3",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "什么情况可以停药",
+    "template": "warning_alert",
+    "items": [
+      "调整用药必须由医生决定",
+      "自觉症状好转不是停药理由"
+    ],
+    "atoms_text": "还有几个别的情况 医生会根据复查的结果调整 但这些都必须由医生来决定 不是你自己觉得好了就停药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2553,
+    "seg_id": "S9-L1",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "总结与行动建议",
+    "template": "color_grid",
+    "items": [
+      "阿司匹林：防血栓",
+      "他汀：稳斑块",
+      "绝大多数需吃一辈子",
+      "没症状≠血管已恢复"
+    ],
+    "atoms_text": "总结一下啊 阿司匹林防血栓 他汀稳斑块 绝大多数脑梗患者 需要吃一辈子",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2554,
+    "seg_id": "S9-L2",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "目标不是消除症状，而是防止复发"
+    ],
+    "atoms_text": "你没症状 不代表血管好了 要保的是你不复发",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2555,
+    "seg_id": "S9-L3",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "总结与行动建议",
+    "template": "list_fade",
+    "items": [
+      "定期复查，不要擅自停药",
+      "有问题找医生调整方案"
+    ],
+    "atoms_text": "定期复查 有问题找医生调 但千万别自己偷偷停",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2556,
+    "seg_id": "S9-L4",
+    "bp_title": "脑梗后为什么不能停药",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "记住这两点，守好不复发的底线"
+    ],
+    "atoms_text": "我说清楚了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2557,
+    "seg_id": "S1-L1",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "少吃盐就够了？",
+    "template": "hero_text",
+    "items": [
+      "高血压只是盐吃多了？"
+    ],
+    "atoms_text": "你听没听过 一种说法 说高血压 就是盐吃多了 少吃盐 血压就能降下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2558,
+    "seg_id": "S1-L2",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "少吃盐就够了？",
+    "template": "myth_buster",
+    "items": [
+      "少吃盐就能控好血压",
+      "对，但不完全对"
+    ],
+    "atoms_text": "这话对不对呢 对 但不完全对",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2559,
+    "seg_id": "S1-L3",
+    "bp_title": "高血压不只是少吃盐，补钾才是你忽略的那块拼图",
+    "scene_title": "少吃盐就够了？",
+    "template": "hero_text",
+    "items": [
+      "控盐是降压最基本的饮食措施"
+    ],
+    "atoms_text": "少吃盐 确实是 降压最基本 证据最充分的 饮食措施 这一点 没有任何争议",
+    "needs_animation": false,
+    "label": ""
+  }
+]

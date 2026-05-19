@@ -1,0 +1,30 @@
+[
+  {
+    "file": "ANS11477_Four Heart Chambers.mp4",
+    "title": "ANS11477 Four Heart Chambers",
+    "start": 0.0,
+    "end": 12.0,
+    "text_en": "Your heart is a muscular organ made up of four chambers, the right and left atria, and the right and left ventricles."
+  },
+  {
+    "file": "ANS11477_Four Heart Chambers.mp4",
+    "title": "ANS11477 Four Heart Chambers",
+    "start": 12.0,
+    "end": 26.0,
+    "text_en": "During a normal heartbeat, the chambers of your heart contract and relax in a rhythmic pattern to deliver a consistent flow of blood throughout your body."
+  },
+  {
+    "file": "ANS11477_Four Heart Chambers.mp4",
+    "title": "ANS11477 Four Heart Chambers",
+    "start": 26.0,
+    "end": 40.0,
+    "text_en": "The right atrium collects blood from the body, and the right ventricle pumps it to the lungs, which bring oxygen to and remove carbon dioxide from the blood."
+  },
+  {
+    "file": "ANS11477_Four Heart Chambers.mp4",
+    "title": "ANS11477 Four Heart Chambers",
+    "start": 40.0,
+    "end": 55.0,
+    "text_en": "At the same time, the left atrium receives blood from the lungs, and the left ventricle pumps it out to supply your body's tissues with oxygen and nutrients.\n\n---\n\n**切分依据（4 blocks）：**\n\n| Block | 画面动作 | 内容 |\n|-------|---------|------|\n| 1 | 心脏结构展示 | 介绍心脏四腔结构（右/左心房、右/左心室） |\n| 2 | 心跳节律动画 | 心腔收缩-舒张的整体泵血机制 |\n| 3 | 右心血流路径 | 右心房收集体循环血→右心室泵向肺→气体交换 |\n| 4 | 左心血流路径 | 左心房接收肺血→左心室泵向全身→供氧供能 |\n\n> Block 3 与 4 虽然文本说 \"At the same time\"，但画面上右心通路和左心通路通常分步演示，故拆为两个 block。"
+  }
+]

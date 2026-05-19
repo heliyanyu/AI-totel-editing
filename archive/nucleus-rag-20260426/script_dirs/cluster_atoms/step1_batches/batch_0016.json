@@ -1,0 +1,560 @@
+[
+  {
+    "global_index": 640,
+    "seg_id": "S3-L7",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "step_arrow",
+    "items": [
+      "睡前喝茶",
+      "影响睡眠质量",
+      "间接升高血压"
+    ],
+    "atoms_text": "影响睡眠啊 等于间接的升高血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 641,
+    "seg_id": "S3-L8",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "split_column",
+    "items": [
+      "淡茶",
+      "浓茶",
+      "随便喝",
+      "悠着点"
+    ],
+    "atoms_text": "淡茶随便喝 浓茶悠着点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 642,
+    "seg_id": "S4-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "hero_text",
+    "items": [
+      "关于酒，必须严肃说清楚"
+    ],
+    "atoms_text": "然后再说一下酒 这个必须严肃说",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 643,
+    "seg_id": "S4-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "step_arrow",
+    "items": [
+      "饮酒量增加",
+      "血压随之升高",
+      "剂量越大升压越明显"
+    ],
+    "atoms_text": "酒精对血压的影响 是没有争议的 就是升高 剂量依赖 喝的越多 升的越快",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 644,
+    "seg_id": "S4-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "number_center",
+    "items": [
+      "1.5~2倍"
+    ],
+    "atoms_text": "长期每天喝酒的人啊 高血压发病率啊 是不喝的人啊 一点五到两倍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 645,
+    "seg_id": "S4-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "myth_buster",
+    "items": [
+      "少量红酒对心血管有保护作用",
+      "任何剂量的酒精均无保护作用"
+    ],
+    "atoms_text": "很多人觉得 哎 我少量喝点红酒 是不是对心血管好 这个说法已经被推翻了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 646,
+    "seg_id": "S4-L5",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "number_center",
+    "items": [
+      "5~10"
+    ],
+    "atoms_text": "最新的结论是 任何剂量的酒精 都没有保护作用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 647,
+    "seg_id": "S4-L6",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "branch_path",
+    "items": [
+      "实在戒不掉酒",
+      "男性每天酒精不超过25克（约一瓶啤酒）",
+      "最好完全不喝"
+    ],
+    "atoms_text": "已经有高血压的人啊 戒酒能让血压降 五到十个毫米汞柱 跟加一种降血压药物的效果差不多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 648,
+    "seg_id": "S4-L7",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "warning_alert",
+    "items": [
+      "最好的选择就是不喝"
+    ],
+    "atoms_text": "实在戒不掉 至少控制量 男性每天的酒精啊 不超过二十五克 换算成啤酒啊 大概就是一瓶",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 649,
+    "seg_id": "S4-L8",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "hero_text",
+    "items": [
+      "戒酒，是高血压患者最划算的改变之一"
+    ],
+    "atoms_text": "但最好就是不喝",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 650,
+    "seg_id": "S5-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "hero_text",
+    "items": [
+      "含糖饮料对血压的影响被严重低估"
+    ],
+    "atoms_text": "接下来说一下含糖饮料和奶茶 这两个啊 对血压的影响 是很多人完全没有意识到的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 651,
+    "seg_id": "S5-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "step_arrow",
+    "items": [
+      "摄入果糖",
+      "激活交感神经，促进钠重吸收",
+      "血压升高"
+    ],
+    "atoms_text": "果糖会直接激活交感神经 促进钠的重吸收 推高我们的血压",
+    "needs_animation": true,
+    "label": "果糖激活交感神经并促进肾脏钠重吸收推高血压"
+  },
+  {
+    "global_index": 652,
+    "seg_id": "S5-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "number_center",
+    "items": [
+      "10%~20%"
+    ],
+    "atoms_text": "每天啊 喝一瓶含糖饮料的人啊 高血压的风险 是比不喝的人啊 要高百分之十到二十",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 653,
+    "seg_id": "S5-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "brick_stack",
+    "items": [
+      "糖分直接升高血压",
+      "脂肪导致体重增加",
+      "咖啡因短暂升高血压"
+    ],
+    "atoms_text": "奶茶更厉害 里面的糖升血压 里面的脂肪让你变胖 里面的咖啡因也会短暂的升高血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 654,
+    "seg_id": "S5-L5",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "warning_alert",
+    "items": [
+      "三个方向同时推高血压"
+    ],
+    "atoms_text": "相当于啊 三个方向同时推高血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 655,
+    "seg_id": "S5-L6",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "warning_alert",
+    "items": [
+      "天天喝奶茶可乐，光吃降压药也压不住"
+    ],
+    "atoms_text": "那你的血压偏高 还天天奶茶可乐的 那光吃降压药 可能都压不住",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 656,
+    "seg_id": "S5-L7",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "split_column",
+    "items": [
+      "含糖饮料",
+      "白开水",
+      "升高血压风险",
+      "管用程度超出想象"
+    ],
+    "atoms_text": "那把含糖的饮料砍掉 换成白开水 这一个改变啊 比你想象的更管用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 657,
+    "seg_id": "S6-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "牛奶与酸奶的降压作用",
+    "template": "hero_text",
+    "items": [
+      "牛奶是明确对血压友好的饮品"
+    ],
+    "atoms_text": "最后说一下牛奶和酸奶 牛奶对血压是明确友好的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 658,
+    "seg_id": "S6-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "牛奶与酸奶的降压作用",
+    "template": "list_fade",
+    "items": [
+      "钙质有轻度降压作用",
+      "特定肽类物质辅助降压"
+    ],
+    "atoms_text": "牛奶里面的钙 和特定的肽类的物质 有轻度的降压作用",
+    "needs_animation": true,
+    "label": "牛奶中钙和肽类物质发挥降压作用"
+  },
+  {
+    "global_index": 659,
+    "seg_id": "S6-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "牛奶与酸奶的降压作用",
+    "template": "list_fade",
+    "items": [
+      "多项大型研究证实",
+      "每天适量喝奶，高血压发病率更低"
+    ],
+    "atoms_text": "多项大型的研究发现 每天喝适量的牛奶的人啊 他高血压的发病率更低",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 660,
+    "seg_id": "S6-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "牛奶与酸奶的降压作用",
+    "template": "list_fade",
+    "items": [
+      "发酵产生生物活性肽",
+      "对血管有保护作用"
+    ],
+    "atoms_text": "无糖的酸奶也不错 它发酵过程中啊 产生一些生物活性肽 对血管是有保护作用的",
+    "needs_animation": true,
+    "label": "酸奶发酵产生生物活性肽保护血管"
+  },
+  {
+    "global_index": 661,
+    "seg_id": "S6-L5",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "牛奶与酸奶的降压作用",
+    "template": "myth_buster",
+    "items": [
+      "加了大量糖的风味酸奶也有益",
+      "选无糖酸奶，加糖抵消所有好处"
+    ],
+    "atoms_text": "但注意的是啊 无糖的那种啊 加了大量糖的风味酸奶 就另当别论了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 662,
+    "seg_id": "S6-L6",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "牛奶与酸奶的降压作用",
+    "template": "step_arrow",
+    "items": [
+      "风味酸奶含大量添加糖",
+      "糖的危害抵消奶的好处",
+      "保护作用归零"
+    ],
+    "atoms_text": "糖带来的害处 会把奶带来的好处啊 抵消掉",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 663,
+    "seg_id": "S7-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "总结与行动建议",
+    "template": "color_grid",
+    "items": [
+      "淡茶可以喝",
+      "咖啡每天两到三杯",
+      "牛奶无糖酸奶鼓励喝",
+      "含糖饮料奶茶别碰"
+    ],
+    "atoms_text": "总结一下 淡茶可以喝 咖啡每天两到三杯以内的 控制好血压的情况是可以的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 664,
+    "seg_id": "S7-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "总结与行动建议",
+    "template": "warning_alert",
+    "items": [
+      "酒能戒就戒，别留情面"
+    ],
+    "atoms_text": "牛奶和无糖的酸奶 鼓励喝 含糖的饮料和奶茶 尽量别碰 酒啊 能戒就戒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 665,
+    "seg_id": "S7-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "每天喝进去的，对血压影响比你以为的大得多"
+    ],
+    "atoms_text": "你每天喝进去的东西 对血压的影响啊 可能啊 比你以为的大得多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 666,
+    "seg_id": "S7-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "别一边吃降压药，一边喝着反方向的东西"
+    ],
+    "atoms_text": "药在帮你降 你别一边的吃药 一边的喝着反方向的东西了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 667,
+    "seg_id": "S1-L1",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "开篇引入主题",
+    "template": "hero_text",
+    "items": [
+      "久坐到底有多伤身体？"
+    ],
+    "atoms_text": "嗯 今天跟大家聊一个 特别普遍的问题啊 久坐到底有多伤身体呢 你可能觉得 哎呀坐着嘛又不累 能有什么危害",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 668,
+    "seg_id": "S1-L2",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "开篇引入主题",
+    "template": "hero_text",
+    "items": [
+      "久坐危害远超你的想象"
+    ],
+    "atoms_text": "但实际上啊 久坐的危害 远超你的想象",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 669,
+    "seg_id": "S2-L1",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "久坐对心血管的危害",
+    "template": "step_arrow",
+    "items": [
+      "长时间久坐不动",
+      "下肢血流速度变慢",
+      "脂质沉积在血管壁",
+      "形成深静脉血栓"
+    ],
+    "atoms_text": "先说对心血管的影响啊 当你长时间坐着不动的时候 下肢的血流速度 会明显变慢 那血流一慢呢 血液里的一些成分 就容易沉积在血管壁上 时间长了 就容易形成那个 准确说是血栓 嗯 深静脉血栓",
+    "needs_animation": true,
+    "label": "久坐时下肢血流减慢致血液成分沉积形成深静脉血栓"
+  },
+  {
+    "global_index": 670,
+    "seg_id": "S2-L2",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "久坐对心血管的危害",
+    "template": "warning_alert",
+    "items": [
+      "血栓脱落可引发肺栓塞",
+      "严重肺栓塞可直接致命"
+    ],
+    "atoms_text": "这个血栓如果脱落 顺着血流跑到肺里 就是肺栓塞 严重的呢 可以致命",
+    "needs_animation": true,
+    "label": "深静脉血栓脱落随血流进入肺部导致肺栓塞"
+  },
+  {
+    "global_index": 671,
+    "seg_id": "S3-L1",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "久坐对代谢的负面影响",
+    "template": "step_arrow",
+    "items": [
+      "久坐进入低功耗模式",
+      "热量消耗降到最低",
+      "胰岛素敏感性下降",
+      "血糖水平容易波动"
+    ],
+    "atoms_text": "再说对代谢的影响啊 久坐的时候 你的身体几乎处于 一个低功耗模式 热量消耗降到最低 胰岛素敏感性下降 血糖更容易波动",
+    "needs_animation": true,
+    "label": "久坐时胰岛素敏感性下降导致血糖波动"
+  },
+  {
+    "global_index": 672,
+    "seg_id": "S3-L2",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "久坐对代谢的负面影响",
+    "template": "number_center",
+    "items": [
+      "8"
+    ],
+    "atoms_text": "有一个研究数据啊 特别触目惊心 每天坐超过八个小时的人 即使你下班后去跑步去健身 也只能抵消一部分 久坐带来的伤害 注意啊 是一部分 不是全部",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 673,
+    "seg_id": "S4-L1",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "久坐科学应对方法",
+    "template": "hero_text",
+    "items": [
+      "核心原则：打断久坐"
+    ],
+    "atoms_text": "那怎么办呢 记住一个原则就够了 叫打断久坐",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 674,
+    "seg_id": "S4-L2",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "久坐科学应对方法",
+    "template": "list_fade",
+    "items": [
+      "每坐45到60分钟起身",
+      "接水如厕简单走动",
+      "每次活动仅需2-3分钟",
+      "可促血流回升代谢恢复"
+    ],
+    "atoms_text": "不是让你别坐了 那个不现实 而是每坐四十五分钟到一个小时 站起来动一动 哪怕就两三分钟 接杯水 上个厕所 在办公室走一圈 就这么简单的动作 就能让你的血液重新流动起来 代谢水平回升 嗯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 675,
+    "seg_id": "S5-L1",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "核心内容总结",
+    "template": "list_fade",
+    "items": [
+      "损伤心血管功能",
+      "降低整体代谢水平",
+      "伤害腰椎颈椎健康"
+    ],
+    "atoms_text": "最后总结一下啊 久坐伤的不是一个地方 是全身 心血管 代谢 腰椎颈椎 全都受影响",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 676,
+    "seg_id": "S5-L2",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "核心内容总结",
+    "template": "hero_text",
+    "items": [
+      "每45分钟起身是低成本健康习惯"
+    ],
+    "atoms_text": "记住那个原则 打断久坐 每四十五分钟站起来动一动 这是成本最低 效果最确定的 健康习惯之一",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 677,
+    "seg_id": "S1-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "你是不是也有这个问题",
+    "template": "hero_text",
+    "items": [
+      "没多喝水，却总想跑厕所"
+    ],
+    "atoms_text": "你有没有这种情况 明明没多喝水 刚坐下没几分钟 就想跑厕所小便 晚上起夜三四次 整夜都睡不好 就算刻意控制水 还是不停的想往厕所跑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 678,
+    "seg_id": "S1-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "你是不是也有这个问题",
+    "template": "warning_alert",
+    "items": [
+      "频繁尿意可能是身体的警报"
+    ],
+    "atoms_text": "这可能是 身体的一个警报信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 679,
+    "seg_id": "S1-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "你是不是也有这个问题",
+    "template": "number_center",
+    "items": [
+      "4~6"
+    ],
+    "atoms_text": "医学上 我们正常成年人 白天排尿四到六次 夜间零到两次 一次尿量就是二百到三百毫升",
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,545 @@
+[
+  {
+    "global_index": 1640,
+    "seg_id": "S9-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "出现信号如何应对",
+    "template": "split_column",
+    "items": [
+      "颈动脉彩超",
+      "头颅核磁共振",
+      "查斑块及血管狭窄程度",
+      "查大脑微小缺血病灶"
+    ],
+    "atoms_text": "颈动脉彩超 可以看清楚 你的血管里有没有斑块 血管狭窄到了什么程度 而头颅核磁共振 能够精准的看到 大脑内部有没有微小的缺血病灶",
+    "needs_animation": true,
+    "label": "颈动脉彩超查看血管斑块与狭窄及头颅核磁发现脑内缺血病灶"
+  },
+  {
+    "global_index": 1641,
+    "seg_id": "S10-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "日常预防核心策略",
+    "template": "brick_stack",
+    "items": [
+      "高血压持续刮伤血管内皮",
+      "高血糖损伤血管壁",
+      "高血脂加速斑块堆积"
+    ],
+    "atoms_text": "在日常生活中 想要预防脑梗 核心就是保护血管内皮 高血压高血糖高血脂 这三高 是刮伤血管内皮的刀子 必须把它们控制在达标范围内",
+    "needs_animation": true,
+    "label": "三高像刀子刮伤血管内皮的损伤机制"
+  },
+  {
+    "global_index": 1642,
+    "seg_id": "S10-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "日常预防核心策略",
+    "template": "warning_alert",
+    "items": [
+      "尼古丁会让血管剧烈收缩"
+    ],
+    "atoms_text": "同时要戒烟 要远离二手烟 因为尼古丁 会让血管剧烈收缩",
+    "needs_animation": true,
+    "label": "尼古丁导致血管剧烈收缩"
+  },
+  {
+    "global_index": 1643,
+    "seg_id": "S10-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "日常预防核心策略",
+    "template": "number_center",
+    "items": [
+      "1500ml"
+    ],
+    "atoms_text": "要保证每天至少喝一千五百毫升的水 防止血液因为过度黏稠 而形成血栓",
+    "needs_animation": true,
+    "label": "血液过度黏稠形成血栓"
+  },
+  {
+    "global_index": 1644,
+    "seg_id": "S11-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "结语金句",
+    "template": "hero_text",
+    "items": [
+      "抓住四个信号，就是在和死神抢时间"
+    ],
+    "atoms_text": "脑梗不是突然降临的灾难 而是长年累月忽视健康的代价 抓住这四个求救信号 就是在和死神抢时间",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1645,
+    "seg_id": "S1-L1",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "科普开场 引出用户疑问",
+    "template": "hero_text",
+    "items": [
+      "记性差是不是老年痴呆前兆"
+    ],
+    "atoms_text": "经常 有四五十岁的朋友 在门诊 焦急的问我 大夫 我最近记性太差了 拿着手机找手机 出门经常忘带钥匙 甚至见了个熟人 半天叫不出名字 我这是不是 老年痴呆的前兆啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1646,
+    "seg_id": "S1-L2",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "科普开场 引出用户疑问",
+    "template": "hero_text",
+    "items": [
+      "记忆力下降就怕患上痴呆"
+    ],
+    "atoms_text": "很多人 一发现自己记忆力下降 就陷入了深深的恐慌 生怕自己以后 连家人都不认识了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1647,
+    "seg_id": "S1-L3",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "科普开场 引出用户疑问",
+    "template": "hero_text",
+    "items": [
+      "在家可快速鉴别两类遗忘"
+    ],
+    "atoms_text": "今天我就来教你 一个医学界通用的 非常简单有效的方法 让你在家里就能 一招快速鉴别 你这个到底是 正常的年纪大了脑子变慢 还是真正的阿尔茨海默病 俗称老年痴呆在敲门",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1648,
+    "seg_id": "S1-L4",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "科普开场 引出用户疑问",
+    "template": "hero_text",
+    "items": [
+      "建议收藏给家里长辈测试"
+    ],
+    "atoms_text": "建议大家 把这条内容 点赞收藏 平时过年过节回家 也可以给家里的长辈 测一测",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1649,
+    "seg_id": "S2-L1",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "正常遗忘vs痴呆的区别",
+    "template": "hero_text",
+    "items": [
+      "正常衰老遗忘≠病理性痴呆"
+    ],
+    "atoms_text": "首先 我们要纠正 一个根本的认知误区 正常的衰老遗忘 和老年痴呆的病理性遗忘 完全是两码事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1650,
+    "seg_id": "S2-L2",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "正常遗忘vs痴呆的区别",
+    "template": "hero_text",
+    "items": [
+      "记忆仍存在只是检索速度慢"
+    ],
+    "atoms_text": "我们打个比方 我们的大脑 就像一个巨大的文件柜 正常人随着年龄的增长 文件柜里的文件越来越多 翻找起来自然就越来越慢 当你忘了钥匙放哪了 或者忘了某个人的名字时 这就像你一时半会儿 在这个大文件柜里 找不到那份文件了 但是只要别人 稍微给你一点提示 或者你自己静下心来 仔细回想一下 你就能一拍大腿 哦对对对 我想起来了 这就说明 这份记忆的文件 依然好好的存在你的大脑里 只是检索的速度变慢了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1651,
+    "seg_id": "S2-L3",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "正常遗忘vs痴呆的区别",
+    "template": "hero_text",
+    "items": [
+      "记忆未储存提示也无法想起"
+    ],
+    "atoms_text": "而老年痴呆则截然不同 阿尔茨海默病的核心病理改变 是大脑中负责储存新记忆的海马体 萎缩了 这就好比是 你大脑文件柜的抽屉底部 漏了一个大洞 或者是你的电脑键盘上的 保存键坏了 发生过的事情 根本就没有被储存下来 直接漏掉了 所以无论别人怎么提醒 怎么帮他回忆 他都坚决不承认 这件事情发生过 比如你告诉他 吃过饭了 他会坚决否认 我根本没吃 你别骗我 因为在他的大脑里 吃饭这段记忆 压根儿就不存在",
+    "needs_animation": true,
+    "label": "阿尔茨海默病中海马体萎缩导致新记忆无法储存"
+  },
+  {
+    "global_index": 1652,
+    "seg_id": "S3-L1",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "国际通用筛查测试法",
+    "template": "hero_text",
+    "items": [
+      "画钟测试结合三词回忆法"
+    ],
+    "atoms_text": "如果你还是觉得 难以区分 接下来教你一招 国际通用的快速筛查方法 叫做画钟测试 结合三词回忆法 整个过程只需要几分钟",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1653,
+    "seg_id": "S3-L2",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "国际通用筛查测试法",
+    "template": "hero_text",
+    "items": [
+      "第一步：复述并记住三个词语"
+    ],
+    "atoms_text": "第一步 三词记忆 你对着长辈 或者是测试对象 清晰的说出三个 毫不相干的词语 比如苹果 桌子 硬币 让他跟着复述一遍 确保他听清并且记住了 然后告诉他 你现在心里记住这三个词 等会儿我要考你",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1654,
+    "seg_id": "S3-L3",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "国际通用筛查测试法",
+    "template": "hero_text",
+    "items": [
+      "第二步：独立画指定时间的表盘"
+    ],
+    "atoms_text": "第二步 画钟测试 马上递给他 一张白纸和一支笔 给他下达一个指令 请在这张纸上 画一个圆形的表盘 把一到十二的数字 写在正确的位置上 然后把时间 画在十一点十分 或者是八点二十分的位置 注意 整个过程 你不能提供任何帮助 不能提示他长短针怎么画 让他自己独立完成",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1655,
+    "seg_id": "S3-L4",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "国际通用筛查测试法",
+    "template": "hero_text",
+    "items": [
+      "第三步：回忆此前记住的三个词"
+    ],
+    "atoms_text": "第三步 回忆三个词 等他把钟表画完之后 你立刻问他 刚才我让你记住的那三个词 是什么 你现在能说出来吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1656,
+    "seg_id": "S3-L5",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "国际通用筛查测试法",
+    "template": "list_fade",
+    "items": [
+      "考察大脑听理解能力",
+      "考察空间定向能力",
+      "考察执行规划能力",
+      "考察短期工作记忆能力"
+    ],
+    "atoms_text": "为什么要这么测 背后的医学逻辑 非常严密 画钟表看似是个 小学生的题目 但它对大脑的综合能力 要求极高 画一个完美的钟 需要调动大脑的听理解能力 就是听懂指令 空间定向能力 就是要把数字均匀分布在一圈 执行功能 就是要规划先画什么后画什么 以及视空间记忆 要回想表盘长什么样子 而那个特定的时间 比如十一点十分 更是考验逻辑思维 因为十分要画在数字二上 而不是数字十上 如果在画钟测试中 出现了数字顺序颠倒 数字挤在了一团 指针画错了方向 甚至根本画不出一个圆 这就高度提示 大脑的执行功能和空间认知 出现了实质性的损伤 而穿插在两头的三词回忆 测试的是短期工作记忆 阿尔茨海默病最先损害的 就是短时记忆 如果他画完钟表后 连一个词都想不起来 哪怕是你提示他 有个水果 他也想不起是苹果 这往往是 病理性认知障碍的危险信号",
+    "needs_animation": true,
+    "label": "画钟测试调动大脑听理解、空间定向、执行功能等多区域协作"
+  },
+  {
+    "global_index": 1657,
+    "seg_id": "S4-L1",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "痴呆早期隐藏信号",
+    "template": "hero_text",
+    "items": [
+      "痴呆早期有多个易忽略信号"
+    ],
+    "atoms_text": "除了记忆力下降 老年痴呆在早期 还有几个容易被忽略的狐狸尾巴",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1658,
+    "seg_id": "S4-L2",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "痴呆早期隐藏信号",
+    "template": "hero_text",
+    "items": [
+      "原本温和突然多疑暴躁自私"
+    ],
+    "atoms_text": "性情大变 原本脾气温和的人 突然变得多疑 暴躁 自私 比如怀疑保姆偷东西 怀疑老伴出轨 这是因为大脑额叶受损 失去了情绪控制能力",
+    "needs_animation": true,
+    "label": "额叶受损导致情绪控制能力丧失"
+  },
+  {
+    "global_index": 1659,
+    "seg_id": "S4-L3",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "痴呆早期隐藏信号",
+    "template": "hero_text",
+    "items": [
+      "住多年的小区也找不到回家路"
+    ],
+    "atoms_text": "空间迷失 在自己住了几十年的小区里 找不到回家的路 也就是空间定向力障碍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1660,
+    "seg_id": "S4-L4",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "痴呆早期隐藏信号",
+    "template": "hero_text",
+    "items": [
+      "分不清早晚季节等时间信息"
+    ],
+    "atoms_text": "失去了对时间的感知 分不清现在是早上还是晚上 是夏天还是冬天",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1661,
+    "seg_id": "S5-L1",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "总结倡导早干预",
+    "template": "hero_text",
+    "items": [
+      "早诊早治可大幅延缓病情发展"
+    ],
+    "atoms_text": "如果家里的长辈 或者是你自己 在刚才的画钟加回忆测试中 表现糟糕 或者出现了上述的 性格改变和迷路现象 千万不要说 老了都这样 老年痴呆虽然目前 无法彻底治愈 但如果能在早期 轻度认知障碍阶段 就进行药物干预 和认知康复训练 完全可以 大幅度延缓疾病的进展 让老人有尊严 有质量的生活 更长时间 别把病态当常态 科学鉴别 及早干预 才是对大脑最好的保护",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1662,
+    "seg_id": "S1-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗来袭你会怎么做",
+    "template": "hero_text",
+    "items": [
+      "胸闷大汗胸口如压巨石"
+    ],
+    "atoms_text": "突发胸闷 大汗淋漓 胸口像压了一块巨石 喘不过气 当这些 疑似心梗的 典型症状 突然降临时 你的第一反应是什么",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1663,
+    "seg_id": "S1-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗来袭你会怎么做",
+    "template": "list_fade",
+    "items": [
+      "强撑着走去医院",
+      "赶紧喝口热水缓缓",
+      "用力咳嗽自我急救"
+    ],
+    "atoms_text": "是赶紧站起来 去倒杯热水 是让家人 或者下楼打车去医院 还是学着网上说的 用力咳嗽 试图自我急救",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1664,
+    "seg_id": "S1-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗来袭你会怎么做",
+    "template": "warning_alert",
+    "items": [
+      "错误急救反将血管逼上绝路"
+    ],
+    "atoms_text": "注意了 如果你或者你的家人 在这个生死攸关的时刻 做错了这几步 很可能不仅无法自救 反而会把 原本还有一线生机的血管 彻底逼上绝路",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1665,
+    "seg_id": "S1-L4",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗来袭你会怎么做",
+    "template": "hero_text",
+    "items": [
+      "时间就是心肌，心肌就是生命"
+    ],
+    "atoms_text": "心血管急性堵塞发生时 时间就是心肌 心肌就是生命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1666,
+    "seg_id": "S1-L5",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗来袭你会怎么做",
+    "template": "hero_text",
+    "items": [
+      "致命错误与黄金步骤一次讲透"
+    ],
+    "atoms_text": "今天我们就把 突发心梗时 最容易踩坑的几个致命错误 以及真正能救命的黄金步骤 用最直白的方式 彻底讲透",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1667,
+    "seg_id": "S1-L6",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗来袭你会怎么做",
+    "template": "hero_text",
+    "items": [
+      "收藏转发，关键时刻是保命符"
+    ],
+    "atoms_text": "建议大家 一定要把这条视频 点赞收藏起来 转发给相亲相爱一家人 关键时刻 这可能就是一张保命符",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1668,
+    "seg_id": "S2-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "hero_text",
+    "items": [
+      "先弄懂心梗到底怎么发生"
+    ],
+    "atoms_text": "要搞懂 为什么不能乱动 我们必须先弄明白 一个底层逻辑 心梗到底是怎么一回事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1669,
+    "seg_id": "S2-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "body_annotate",
+    "items": [
+      "心脏是永不停歇的发动机",
+      "冠状动脉是专属供油管道"
+    ],
+    "atoms_text": "不妨把我们的心脏 想象成 一台永不停止工作的发动机 而冠状动脉 就是给这台发动机供油的 专属管道",
+    "needs_animation": true,
+    "label": "冠状动脉作为心脏专属供血管道的解剖结构"
+  },
+  {
+    "global_index": 1670,
+    "seg_id": "S2-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "vertical_timeline",
+    "items": [
+      "长期熬夜吸烟高脂饮食",
+      "管道内壁积累斑块变窄"
+    ],
+    "atoms_text": "随着年龄增长 长期熬夜 高脂饮食 或者抽烟 这些管道内壁上 就会慢慢长出 一些像水垢一样的斑块",
+    "needs_animation": true,
+    "label": "冠状动脉内壁斑块随年龄和不良习惯逐渐形成"
+  },
+  {
+    "global_index": 1671,
+    "seg_id": "S2-L4",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "step_arrow",
+    "items": [
+      "情绪激动致斑块包膜破裂",
+      "血小板大量聚集形成血栓",
+      "血管被彻底堵死"
+    ],
+    "atoms_text": "平时这些斑块 只是让管道变窄 但在情绪激动 极度劳累 或气温骤降时 斑块表面的包膜 可能会突然破裂",
+    "needs_animation": true,
+    "label": "斑块表面包膜在情绪激动极度劳累或气温骤降时突然破裂"
+  },
+  {
+    "global_index": 1672,
+    "seg_id": "S2-L5",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "warning_alert",
+    "items": [
+      "下游心肌细胞数十分钟内不可逆坏死"
+    ],
+    "atoms_text": "身体的免疫系统 为了修补破损 会立刻召唤大量血小板聚集 结果越聚越多 瞬间形成一个巨大的血栓 把整个血管 死死堵住 这就是心血管堵塞",
+    "needs_animation": true,
+    "label": "血小板大量聚集形成血栓将血管完全堵塞"
+  },
+  {
+    "global_index": 1673,
+    "seg_id": "S2-L6",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "hero_text",
+    "items": [
+      "常见自救动作正在加速危机"
+    ],
+    "atoms_text": "血管堵 下游的心肌细胞 就像被掐住了脖子 没有氧气和养分 几十分钟内 就会开始不可逆的坏死",
+    "needs_animation": true,
+    "label": "血管堵塞后下游心肌细胞缺氧缺养分不可逆坏死"
+  },
+  {
+    "global_index": 1674,
+    "seg_id": "S2-L7",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "list_fade",
+    "items": [
+      "理解了这个过程",
+      "你就会明白",
+      "为什么下面这几个",
+      "常见的自救动作",
+      "其实是在加速危机"
+    ],
+    "atoms_text": "理解了这个过程 你就会明白 为什么下面这几个 常见的自救动作 其实是在加速危机",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1675,
+    "seg_id": "S3-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误一：乱动身体",
+    "template": "hero_text",
+    "items": [
+      "感觉不对劲却强撑走去医院"
+    ],
+    "atoms_text": "第一大错 感觉不对劲 强撑着走去医院 或者立刻活动身体",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1676,
+    "seg_id": "S3-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误一：乱动身体",
+    "template": "list_fade",
+    "items": [
+      "自己走路前往医院",
+      "爬楼梯或做拉伸动作",
+      "以为是岔气想活动缓解"
+    ],
+    "atoms_text": "很多人觉得 离医院不远 或者不想麻烦急救车 就自己走着去 甚至有人觉得 胸闷是岔气 想做几个拉伸动作缓解 这是大错特错",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1677,
+    "seg_id": "S3-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误一：乱动身体",
+    "template": "step_arrow",
+    "items": [
+      "活动导致全身耗氧量剧增",
+      "心脏被迫加速跳动",
+      "心肌坏死面积迅速扩大"
+    ],
+    "atoms_text": "前面说了 心梗是 在给心脏供血的管道堵了 你在这个时候 走路 爬楼梯 做动作 全身的耗氧量 就会剧增",
+    "needs_animation": true,
+    "label": "心梗时运动导致全身耗氧量剧增加重已堵塞心脏的供血负担"
+  },
+  {
+    "global_index": 1678,
+    "seg_id": "S3-L4",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误一：乱动身体",
+    "template": "split_column",
+    "items": [
+      "切断燃油还死踩油门",
+      "停止供油应立刻熄火停车"
+    ],
+    "atoms_text": "心脏为了满足身体的氧气需求 只能拼命加速跳动 这就像 一辆已经被切断了燃油供应的汽车 你还在死命的踩油门 结果只能是 发动机彻底爆缸",
+    "needs_animation": true,
+    "label": "供血中断的心脏被迫加速跳动的代偿机制"
+  },
+  {
+    "global_index": 1679,
+    "seg_id": "S3-L5",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误一：乱动身体",
+    "template": "warning_alert",
+    "items": [
+      "极易诱发致命心室颤动"
+    ],
+    "atoms_text": "这种无谓的体力消耗 会迅速扩大心肌坏死的面积 极易诱发 致命的心室颤动",
+    "needs_animation": true,
+    "label": "体力消耗扩大心肌坏死面积并诱发致命心室颤动"
+  }
+]

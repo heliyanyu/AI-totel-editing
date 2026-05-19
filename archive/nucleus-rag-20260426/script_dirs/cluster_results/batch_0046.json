@@ -1,0 +1,521 @@
+[
+  {
+    "global_index": 1840,
+    "seg_id": "S4-L6",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区三：饿着能降糖",
+    "template": "list_fade",
+    "items": [
+      "所以",
+      "规律的一日三餐",
+      "才是稳糖的基础"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1841,
+    "seg_id": "S5-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区四：苦瓜南瓜能降糖",
+    "template": "myth_buster",
+    "items": [
+      "多吃苦瓜南瓜能降血糖",
+      "这不过是未经证实的偏方"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1842,
+    "seg_id": "S5-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区四：苦瓜南瓜能降糖",
+    "template": "split_column",
+    "items": [
+      "南瓜含碳水多吃反而升血糖",
+      "苦瓜提取物实验量远超日常食用量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1843,
+    "seg_id": "S5-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区四：苦瓜南瓜能降糖",
+    "template": "hero_text",
+    "items": [
+      "食物不可能替代降糖药物"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1844,
+    "seg_id": "S6-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区五：不甜就能随便吃",
+    "template": "hero_text",
+    "items": [
+      "只看甜不甜？这个误区很致命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1845,
+    "seg_id": "S6-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区五：不甜就能随便吃",
+    "template": "split_column",
+    "items": [
+      "白米粥不甜却几乎等于喝糖水",
+      "无糖饼干含精面粉同样快速升糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1846,
+    "seg_id": "S6-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区五：不甜就能随便吃",
+    "template": "warning_alert",
+    "items": [
+      "白米粥喝下去血糖瞬间飙升"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1847,
+    "seg_id": "S7-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区六：进食顺序无所谓",
+    "template": "hero_text",
+    "items": [
+      "吃饭顺序无所谓？大错特错！"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1848,
+    "seg_id": "S7-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区六：进食顺序无所谓",
+    "template": "step_arrow",
+    "items": [
+      "第一口先吃蔬菜",
+      "再吃肉类和蛋白质",
+      "最后才吃主食"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1849,
+    "seg_id": "S7-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区六：进食顺序无所谓",
+    "template": "list_fade",
+    "items": [
+      "蔬菜纤维铺满胃肠延缓淀粉吸收",
+      "餐后血糖可能因此明显下降"
+    ],
+    "needs_animation": true,
+    "label": "膳食纤维延缓胃肠淀粉吸收过程"
+  },
+  {
+    "global_index": 1850,
+    "seg_id": "S7-L4",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区六：进食顺序无所谓",
+    "template": "hero_text",
+    "items": [
+      "改变进食顺序是最简单的控糖秘诀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1851,
+    "seg_id": "S7-L5",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区六：进食顺序无所谓",
+    "template": "number_center",
+    "items": [
+      "一个改变"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1852,
+    "seg_id": "S8-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "糖尿病饮食是聪明地吃不是苦行僧"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1853,
+    "seg_id": "S8-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "总结收尾",
+    "template": "list_fade",
+    "items": [
+      "总量控制不超标",
+      "粗细搭配不偏食",
+      "调整进食顺序稳血糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1854,
+    "seg_id": "S8-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "六大误区你中了几条快转发给糖友"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1855,
+    "seg_id": "S1-L1",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "误区引入",
+    "template": "myth_buster",
+    "items": [
+      "翻身起床天旋地转",
+      "以为是脑供血不足",
+      "自买活血药却没效",
+      "盲目用药不见好转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1856,
+    "seg_id": "S1-L2",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "误区引入",
+    "template": "hero_text",
+    "items": [
+      "你是不是也这样想过？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1857,
+    "seg_id": "S1-L3",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "误区引入",
+    "template": "myth_buster",
+    "items": [
+      "基层医生随口扣帽子",
+      "严谨诊断无此万能诊断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1858,
+    "seg_id": "S1-L4",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "误区引入",
+    "template": "warning_alert",
+    "items": [
+      "真正脑供血不足是突发中风",
+      "偏瘫失语立刻拨打120"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1859,
+    "seg_id": "S1-L5",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "误区引入",
+    "template": "hero_text",
+    "items": [
+      "排除危险，头晕另有四因"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1860,
+    "seg_id": "S1-L6",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "误区引入",
+    "template": "number_center",
+    "items": [
+      "4"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1861,
+    "seg_id": "S2-L1",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "耳石症",
+    "template": "hero_text",
+    "items": [
+      "最常见：耳石症"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1862,
+    "seg_id": "S2-L2",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "耳石症",
+    "template": "step_arrow",
+    "items": [
+      "躺下翻身转头瞬间",
+      "天旋地转房间在转",
+      "数十秒至一分钟自止",
+      "耳石脱落进入半规管"
+    ],
+    "needs_animation": true,
+    "label": "耳石脱落进入半规管过程"
+  },
+  {
+    "global_index": 1863,
+    "seg_id": "S2-L3",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "耳石症",
+    "template": "split_column",
+    "items": [
+      "查脑血管毫无意义",
+      "找耳鼻喉科做手法复位",
+      "吃活血药没有效果",
+      "几分钟即可缓解症状"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1864,
+    "seg_id": "S3-L1",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "颈椎病性头晕",
+    "template": "hero_text",
+    "items": [
+      "第二种：颈椎病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1865,
+    "seg_id": "S3-L2",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "颈椎病性头晕",
+    "template": "brick_stack",
+    "items": [
+      "长期伏案低头工作",
+      "长时间低头刷手机",
+      "颈椎退化肌肉紧张",
+      "转脖子响伴随头晕"
+    ],
+    "needs_animation": true,
+    "label": "颈椎退化与肌肉紧张病理过程"
+  },
+  {
+    "global_index": 1866,
+    "seg_id": "S3-L3",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "颈椎病性头晕",
+    "template": "split_column",
+    "items": [
+      "吃活血药治标无用",
+      "颈部抗阻训练见效",
+      "低头习惯持续伤颈",
+      "抬头改姿势才是根本"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1867,
+    "seg_id": "S4-L1",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "血压波动性头晕",
+    "template": "hero_text",
+    "items": [
+      "第三种：血压波动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1868,
+    "seg_id": "S4-L2",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "血压波动性头晕",
+    "template": "branch_path",
+    "items": [
+      "血压控制不稳忽高忽低",
+      "血压飙升时头晕脑胀",
+      "血压骤降时眼前发黑"
+    ],
+    "needs_animation": true,
+    "label": "血压波动影响脑部供血机制"
+  },
+  {
+    "global_index": 1869,
+    "seg_id": "S4-L3",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "血压波动性头晕",
+    "template": "warning_alert",
+    "items": [
+      "蹲起过猛引发体位性低血压"
+    ],
+    "needs_animation": true,
+    "label": "体位性低血压发生机制"
+  },
+  {
+    "global_index": 1870,
+    "seg_id": "S4-L4",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "血压波动性头晕",
+    "template": "step_arrow",
+    "items": [
+      "定期监测血压变化",
+      "规范服用降压药物",
+      "血压平稳头晕自消"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1871,
+    "seg_id": "S5-L1",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "焦虑睡眠性头晕",
+    "template": "hero_text",
+    "items": [
+      "第四种：焦虑与睡眠障碍"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1872,
+    "seg_id": "S5-L2",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "焦虑睡眠性头晕",
+    "template": "brick_stack",
+    "items": [
+      "长期精神紧绷焦虑",
+      "熬夜睡眠质量极差",
+      "大脑持续亢奋难休息"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1873,
+    "seg_id": "S5-L3",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "焦虑睡眠性头晕",
+    "template": "split_column",
+    "items": [
+      "昏沉不清醒如戴紧箍",
+      "调整作息放松心态",
+      "越想越怕自我吓自己",
+      "无需过度担忧身体抗议"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1874,
+    "seg_id": "S6-L1",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "头晕≠脑供血不足"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1875,
+    "seg_id": "S6-L2",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "总结收尾",
+    "template": "list_fade",
+    "items": [
+      "耳鼻喉科查耳石症"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1876,
+    "seg_id": "S6-L3",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "总结收尾",
+    "template": "list_fade",
+    "items": [
+      "骨科排查颈椎问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1877,
+    "seg_id": "S6-L4",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "总结收尾",
+    "template": "list_fade",
+    "items": [
+      "对症调药稳定血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1878,
+    "seg_id": "S6-L5",
+    "bp_title": "头晕≠脑供血不足，四大真相你得知道",
+    "scene_title": "总结收尾",
+    "template": "warning_alert",
+    "items": [
+      "别再乱吃活血化瘀药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1879,
+    "seg_id": "S1-L1",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "喝酒能不能喝",
+      "吃辣会升血压吗",
+      "泡温泉安全吗",
+      "感冒药随便吃？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

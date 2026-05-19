@@ -1,0 +1,560 @@
+[
+  {
+    "global_index": 2840,
+    "seg_id": "S1-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "认知误区引入",
+    "template": "hero_text",
+    "items": [
+      "太多人把危险等级搞反了"
+    ],
+    "atoms_text": "因为 太多的人 完全给搞反了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2841,
+    "seg_id": "S1-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "认知误区引入",
+    "template": "myth_buster",
+    "items": [
+      "甘油三酯5点几，吓得睡不着",
+      "低密度脂蛋白4点0，觉得没大事"
+    ],
+    "atoms_text": "患者 带上 甘油三酯 飙到 四点几五点几 就吓得睡不着 可是 低密度脂蛋白 三点八四点零 反而 他就觉得 高那么一点 又不当回事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2842,
+    "seg_id": "S1-L4",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "认知误区引入",
+    "template": "hero_text",
+    "items": [
+      "优先管低密度脂蛋白，它危险得多"
+    ],
+    "atoms_text": "说实话呀 如果两个 能优先选管一个的话 一定要先去管 低密度脂蛋白 因为呀 它比甘油三酯 高危险得多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2843,
+    "seg_id": "S2-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "低密度脂蛋白致病机制",
+    "template": "hero_text",
+    "items": [
+      "两者都是血脂，但干的事完全不同"
+    ],
+    "atoms_text": "为什么呢 因为这两个 虽然都是血脂当中的一项 干的事儿 完全不一样",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2844,
+    "seg_id": "S2-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "低密度脂蛋白致病机制",
+    "template": "step_arrow",
+    "items": [
+      "血管内壁轻微损伤",
+      "低密度脂蛋白钻入堆积引发炎症",
+      "免疫细胞被困越堆越多",
+      "形成动脉粥样硬化斑块"
+    ],
+    "atoms_text": "低密度脂蛋白 是直接往血管壁里头钻的 元凶 血管内壁 一旦轻微损伤 它就有机会 钻进去 堆积 引发炎症 免疫细胞过来清理的时候 也被困在里头 越堆越多 最后就形成 动脉粥样硬化斑块",
+    "needs_animation": true,
+    "label": "低密度脂蛋白从血管内壁损伤处钻入、堆积引发炎症、免疫细胞被困形成动脉粥样硬化斑块"
+  },
+  {
+    "global_index": 2845,
+    "seg_id": "S2-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "低密度脂蛋白致病机制",
+    "template": "step_arrow",
+    "items": [
+      "斑块增大血管变窄堵死",
+      "斑块破裂形成血栓",
+      "心梗脑梗由此而来"
+    ],
+    "atoms_text": "斑块啊 越长越大 血管就会变窄 然后直接堵死 要么斑块破裂了 就形成血栓了 心梗脑梗 基本上都是这么来的",
+    "needs_animation": true,
+    "label": "斑块增大导致血管变窄堵死及斑块破裂形成血栓引发心梗脑梗"
+  },
+  {
+    "global_index": 2846,
+    "seg_id": "S2-L4",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "低密度脂蛋白致病机制",
+    "template": "hero_text",
+    "items": [
+      "这一点医学界没有争议"
+    ],
+    "atoms_text": "这一点呢 医学界没有争议",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2847,
+    "seg_id": "S3-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的真实定位",
+    "template": "split_column",
+    "items": [
+      "甘油三酯升高",
+      "与心血管风险有关",
+      "但不是堵血管的核心凶手",
+      "直接损伤主要来自低密度脂蛋白"
+    ],
+    "atoms_text": "那甘油三酯呢 甘油三酯升高 确实和心血管的风险 也有关 但它不是 直接堵血管的 核心凶手",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2848,
+    "seg_id": "S3-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的真实定位",
+    "template": "hero_text",
+    "items": [
+      "单纯降甘油三酯不能显著减少心脑血管事件"
+    ],
+    "atoms_text": "目前呢 主流临床研究表示 在已经把低密度脂蛋白 控制到位的前提下 单纯靠降低甘油三酯 并不能显著的降低 心脑血管事件",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2849,
+    "seg_id": "S3-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的真实定位",
+    "template": "myth_buster",
+    "items": [
+      "甘油三酯高 = 主要心血管凶手",
+      "甘油三酯高 = 代谢紊乱的报警信号"
+    ],
+    "atoms_text": "所以甘油三酯 更像是一个 代谢报警器 它升高了 说明你身体的代谢乱了 但真正在血管里搞破坏的 还是低密度脂蛋白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2850,
+    "seg_id": "S4-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "形象类比",
+    "template": "hero_text",
+    "items": [
+      "用一个比喻帮你彻底搞懂"
+    ],
+    "atoms_text": "你可以这样理解",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2851,
+    "seg_id": "S4-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "形象类比",
+    "template": "split_column",
+    "items": [
+      "低密度脂蛋白是进屋砸墙的小偷",
+      "甘油三酯是小区治安变差的信号"
+    ],
+    "atoms_text": "低密度脂蛋白 直接是 进屋砸墙偷东西的小偷 甘油三酯呢 是小区里 治安变差的信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2852,
+    "seg_id": "S4-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "形象类比",
+    "template": "hero_text",
+    "items": [
+      "不抓小偷只整治安，家里照样遭殃"
+    ],
+    "atoms_text": "治安差 确实是不好 但是你要不抓小偷 光整顿治安 家里头 该遭殃还是遭殃的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2853,
+    "seg_id": "S5-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "全球指南共识",
+    "template": "hero_text",
+    "items": [
+      "全球指南首要目标：低密度脂蛋白达标"
+    ],
+    "atoms_text": "这也就是为什么 全世界的指南 都把低密度脂蛋白 定为降脂的第一个目标 心内科神经内科医生 盯着的永远是 低密度脂蛋白 有没有达标",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2854,
+    "seg_id": "S6-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的专属风险",
+    "template": "hero_text",
+    "items": [
+      "甘油三酯也不能不管"
+    ],
+    "atoms_text": "但我不是让你 不管甘油三酯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2855,
+    "seg_id": "S6-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的专属风险",
+    "template": "warning_alert",
+    "items": [
+      "超过5.6 mmol/L胰腺炎风险大幅升高",
+      "重症胰腺炎来势凶猛，发作前无预兆"
+    ],
+    "atoms_text": "甘油三酯 有个专属的 致命的风险 就是急性胰腺炎 只要甘油三酯 超过五点六毫摩尔每升 胰腺炎的风险 就大幅的增高 重症胰腺炎 来势凶猛 可能会危及生命 而且发作前 常常没有明显的预兆",
+    "needs_animation": true,
+    "label": "甘油三酯超过5.6时引发急性胰腺炎的风险机制"
+  },
+  {
+    "global_index": 2856,
+    "seg_id": "S6-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的专属风险",
+    "template": "hero_text",
+    "items": [
+      "甘油三酯高常伴胰岛素抵抗，糖尿病风险增加"
+    ],
+    "atoms_text": "另外 甘油三酯高的人 大多伴有胰岛素抵抗 将来呀 得糖尿病的概率 也更高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2857,
+    "seg_id": "S6-L4",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "甘油三酯的专属风险",
+    "template": "hero_text",
+    "items": [
+      "甘油三酯要管，但要分清主次"
+    ],
+    "atoms_text": "所以甘油三酯要管 但一定要分清主次",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2858,
+    "seg_id": "S7-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "具体应对方案",
+    "template": "hero_text",
+    "items": [
+      "具体该怎么做？"
+    ],
+    "atoms_text": "具体应该怎么办呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2859,
+    "seg_id": "S7-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "具体应对方案",
+    "template": "step_arrow",
+    "items": [
+      "先调整生活方式观察半年",
+      "降不下来该吃他汀就吃他汀",
+      "别拖，血管伤害是累积的"
+    ],
+    "atoms_text": "低密度脂蛋白高了 咱就先调整生活方式 观察半年 降不下来 该吃他汀就吃他汀 别拖 因为它对血管的伤害 是累积的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2860,
+    "seg_id": "S7-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "具体应对方案",
+    "template": "brick_stack",
+    "items": [
+      "累积伤害 = 实测值 - 理想值 × 升高年数",
+      "每多高一天斑块就堆积一点",
+      "真正堵塞后再后悔已经晚了"
+    ],
+    "atoms_text": "有一个概念 叫胆固醇累积暴露量公式 我给大家说一下 累积的伤害呢 就等于 低密度脂蛋白实测值 减去理想的控制值 乘以升高的年数 每多高一天 斑块就堆积一点 等真正堵了之后 后悔就晚了",
+    "needs_animation": true,
+    "label": "低密度脂蛋白累积暴露量随时间推移斑块逐日堆积的过程"
+  },
+  {
+    "global_index": 2861,
+    "seg_id": "S7-L4",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "具体应对方案",
+    "template": "warning_alert",
+    "items": [
+      "有高血压、糖尿病、吸烟史更不能等"
+    ],
+    "atoms_text": "有高血压糖尿病吸烟的人 更不能等",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2862,
+    "seg_id": "S7-L5",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "具体应对方案",
+    "template": "branch_path",
+    "items": [
+      "甘油三酯是否超过5.6？",
+      "未超标：戒酒少油少精粮多运动",
+      "已超标：立刻用药，胰腺炎赌不起"
+    ],
+    "atoms_text": "甘油三酯高了 没超过五点六 靠生活方式调整 效果就非常好 因为甘油三酯 受饮食的影响极大 甚至是饭前饭后 都能差一倍 戒酒少油 少精米白面 不喝甜饮料 每天运动 很快就能降下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2863,
+    "seg_id": "S7-L6",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "具体应对方案",
+    "template": "hero_text",
+    "items": [
+      "甘油三酯受饮食影响极大，生活方式效果显著"
+    ],
+    "atoms_text": "但一旦超过五点六 必须尽快用药 胰腺炎的风险 你是赌不起的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2864,
+    "seg_id": "S8-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "两者同时升高",
+    "template": "hero_text",
+    "items": [
+      "两者都高：优先降低密度脂蛋白，同步控甘油三酯"
+    ],
+    "atoms_text": "如果两个同时高 说明体内代谢 已经紊乱 两个都要管 优先降低密度脂蛋白 同时控制甘油三酯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2865,
+    "seg_id": "S9-L1",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "最后总结一句"
+    ],
+    "atoms_text": "最后总结一句",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2866,
+    "seg_id": "S9-L2",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "总结收尾",
+    "template": "split_column",
+    "items": [
+      "低密度脂蛋白：堵血管的真凶",
+      "甘油三酯：代谢紊乱的信号"
+    ],
+    "atoms_text": "低密度脂蛋白升高 是堵血管的真凶 甘油三酯高呢 是代谢紊乱的信号 两个都不是好东西 但是优先级 要一定分清",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2867,
+    "seg_id": "S9-L3",
+    "bp_title": "甘油三酯 vs 低密度脂蛋白，哪个更危险？",
+    "scene_title": "总结收尾",
+    "template": "list_fade",
+    "items": [
+      "优先降低密度脂蛋白",
+      "管住嘴迈开腿",
+      "该吃药就吃药",
+      "别拿自己的血管开玩笑"
+    ],
+    "atoms_text": "先管低密度脂蛋白 再管甘油三酯 管住嘴 迈开腿 该吃药就吃药 别拿自己的血管开玩笑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2868,
+    "seg_id": "S1-L1",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "打破\"瘦人没风险\"的误区",
+    "template": "myth_buster",
+    "items": [
+      "血脂高是胖子和爱吃油的人的病",
+      "瘦人一查血脂照样超标",
+      "身材瘦就不用担心血脂",
+      "低密度脂蛋白偏高与体型无关"
+    ],
+    "atoms_text": "很多人呢 都有 一个根深蒂固的误区 血脂高 就是 胖子爱吃油腻的人 才会得病 瘦人 根本不用担心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2869,
+    "seg_id": "S1-L2",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "打破\"瘦人没风险\"的误区",
+    "template": "warning_alert",
+    "items": [
+      "瘦人血脂高不仅常见，风险可能更高"
+    ],
+    "atoms_text": "但现实里啊 不少身材偏瘦的 甚至很瘦的人 一查血脂化验单 直接懵了 低密度脂蛋白 有点多 甘油三酯 也偏高 完全想不通 我都这么瘦了 血脂怎么还会高啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2870,
+    "seg_id": "S1-L3",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "打破\"瘦人没风险\"的误区",
+    "template": "hero_text",
+    "items": [
+      "瘦不等于血管健康，真相今天说清楚"
+    ],
+    "atoms_text": "这种情况 其实很常见 今天就把真相 跟大家说一说 瘦人呢 不仅会血脂高 风险 甚至可能更高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2871,
+    "seg_id": "S2-L1",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "血脂从哪里来",
+    "template": "split_column",
+    "items": [
+      "饮食摄入的胆固醇",
+      "肝脏自身合成的胆固醇",
+      "来自食物",
+      "由肝脏产生"
+    ],
+    "atoms_text": "首先呢 要打破 一个关键的认知 你血液里的胆固醇 只有不到百分之三十的 是吃进去的 剩下百分之七十以上 全是由你肝脏自身合成的",
+    "needs_animation": true,
+    "label": "肝脏合成胆固醇占比超70%而饮食摄入不到30%的代谢来源"
+  },
+  {
+    "global_index": 2872,
+    "seg_id": "S2-L2",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "血脂从哪里来",
+    "template": "hero_text",
+    "items": [
+      "胖瘦和饮食的影响远小于你以为的"
+    ],
+    "atoms_text": "所以血脂高不高 和胖瘦 吃的油不油 确实有关 但远没有你想的 关系那么大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2873,
+    "seg_id": "S2-L3",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "血脂从哪里来",
+    "template": "brick_stack",
+    "items": [
+      "基因决定肝脏合成胆固醇的能力",
+      "身体清除胆固醇受体的效率",
+      "两项能力共同决定血脂水平"
+    ],
+    "atoms_text": "真正决定作用的 是肝脏合成胆固醇的能力 以及身体清除胆固醇的效率 而这两项能力 很大程度上 是由基因决定的",
+    "needs_animation": true,
+    "label": "肝脏合成胆固醇的能力与胆固醇清除受体的效率决定血脂水平"
+  },
+  {
+    "global_index": 2874,
+    "seg_id": "S2-L4",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "血脂从哪里来",
+    "template": "branch_path",
+    "items": [
+      "同样饮食，不同基因背景",
+      "大鱼大肉，血脂却正常",
+      "粗茶淡饭，血脂却偏高"
+    ],
+    "atoms_text": "有的人天生 肝脏就容易合成过多的胆固醇 有的人天生 清除胆固醇的受体少 效率低 哪怕吃的再清淡 身材再瘦 低密度脂蛋白 也会是居高不下的",
+    "needs_animation": true,
+    "label": "肝脏过量合成胆固醇及清除受体不足导致低密度脂蛋白居高不下"
+  },
+  {
+    "global_index": 2875,
+    "seg_id": "S2-L5",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "血脂从哪里来",
+    "template": "hero_text",
+    "items": [
+      "每个人的代谢本来就不同，检查没有错"
+    ],
+    "atoms_text": "这就是为什么 有的人大鱼大肉 血脂却正常 有的人粗茶淡饭 血脂却偏高 不是检查的不准 是每个人的身体代谢 本身就不同",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2876,
+    "seg_id": "S3-L1",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人发现更晚，风险更大",
+    "template": "split_column",
+    "items": [
+      "胖人有健康警觉，主动体检",
+      "瘦人觉得没问题，忽视血脂",
+      "医生也会提醒关注",
+      "血脂指标多年不查"
+    ],
+    "atoms_text": "更危险的是 瘦人的血脂 往往发现的更晚 胖人呢 通常会有健康的警觉 主动去体检 医生也会提醒 关注血脂",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2877,
+    "seg_id": "S3-L2",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人发现更晚，风险更大",
+    "template": "warning_alert",
+    "items": [
+      "偏高多年后斑块已在血管壁形成",
+      "发现时低密度脂蛋白已高了很多年"
+    ],
+    "atoms_text": "可瘦人呢 就觉得身材没问题 体检呢 看看体重达标就可以 对血脂指标 视而不见 甚至好几年 都不去查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2878,
+    "seg_id": "S3-L3",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人发现更晚，风险更大",
+    "template": "number_center",
+    "items": [
+      "有限"
+    ],
+    "atoms_text": "等真正发现异常的时候 低密度脂蛋白 其实已经偏高了很多年 胆固醇呢 早已在血管壁内堆积 斑块都已经形成了",
+    "needs_animation": true,
+    "label": "低密度脂蛋白多年偏高后胆固醇在血管壁内堆积形成斑块"
+  },
+  {
+    "global_index": 2879,
+    "seg_id": "S3-L4",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人发现更晚，风险更大",
+    "template": "vertical_timeline",
+    "items": [
+      "二十几岁：血脂已悄然偏高",
+      "中年：长期累积从未干预",
+      "五十几岁：血管严重堵塞"
+    ],
+    "atoms_text": "之前提到过 胆固醇累积暴露量 血管能承受的胆固醇总量 是有限的 数值越高 堆积的就越快",
+    "needs_animation": true,
+    "label": "胆固醇累积暴露量越高血管内斑块堆积越快"
+  }
+]

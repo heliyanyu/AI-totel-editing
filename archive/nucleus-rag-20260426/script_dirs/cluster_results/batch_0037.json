@@ -1,0 +1,500 @@
+[
+  {
+    "global_index": 1480,
+    "seg_id": "S5-L4",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "张医生三条铁律",
+    "template": "step_arrow",
+    "items": [
+      "饭后不要立刻躺下",
+      "饭后散步约15分钟",
+      "肌肉帮助消耗血糖，减轻胰岛负担"
+    ],
+    "needs_animation": true,
+    "label": "骨骼肌运动摄取葡萄糖减轻胰岛负担的生理机制"
+  },
+  {
+    "global_index": 1481,
+    "seg_id": "S6-L1",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "总结与行动号召",
+    "template": "myth_buster",
+    "items": [
+      "空腹正常，以为万事大吉",
+      "餐后血糖才是真正的照妖镜"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1482,
+    "seg_id": "S6-L2",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "总结与行动号召",
+    "template": "hero_text",
+    "items": [
+      "转发给家人，提醒下次体检多查一项"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1483,
+    "seg_id": "S6-L3",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "总结与行动号召",
+    "template": "hero_text",
+    "items": [
+      "你测过餐后血糖吗？评论区告诉我"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1484,
+    "seg_id": "S6-L4",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "总结与行动号召",
+    "template": "hero_text",
+    "items": [
+      "关注我，把身体这点事聊明白"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1485,
+    "seg_id": "S1-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "开场引入",
+    "template": "split_column",
+    "items": [
+      "头疼发烧选布洛芬",
+      "头疼发烧选对乙酰氨基酚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1486,
+    "seg_id": "S1-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "开场引入",
+    "template": "warning_alert",
+    "items": [
+      "吃错退烧药反而伤身体"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1487,
+    "seg_id": "S1-L3",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "张医生今天帮你讲明白"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1488,
+    "seg_id": "S1-L4",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "记住一个最关键的点"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1489,
+    "seg_id": "S2-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "两药角色比喻",
+    "template": "hero_text",
+    "items": [
+      "布洛芬：消防队，专门消炎灭火"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1490,
+    "seg_id": "S2-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "两药角色比喻",
+    "template": "hero_text",
+    "items": [
+      "对乙酰氨基酚：保安队，止疼退烧"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1491,
+    "seg_id": "S3-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "三点区别预告",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1492,
+    "seg_id": "S4-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第一点：看火情选药",
+    "template": "hero_text",
+    "items": [
+      "第一点：看火情（有无炎症）"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1493,
+    "seg_id": "S4-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第一点：看火情选药",
+    "template": "branch_path",
+    "items": [
+      "关节疼、牙疼、肌肉拉伤有炎症",
+      "选布洛芬，深入消炎降温",
+      "不选对乙酰氨基酚，作用不够"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1494,
+    "seg_id": "S4-L3",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第一点：看火情选药",
+    "template": "branch_path",
+    "items": [
+      "普通头疼感冒发烧无明显炎症",
+      "选对乙酰氨基酚，温和退烧止疼",
+      "不必动用布洛芬"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1495,
+    "seg_id": "S5-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第二点：看副作用战场",
+    "template": "hero_text",
+    "items": [
+      "第二点：看副作用战场"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1496,
+    "seg_id": "S5-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第二点：看副作用战场",
+    "template": "list_fade",
+    "items": [
+      "空腹时尽量不服用",
+      "六个月以下婴儿禁用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1497,
+    "seg_id": "S5-L3",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第二点：看副作用战场",
+    "template": "list_fade",
+    "items": [
+      "对胃肠比较友好",
+      "饮酒者慎用，过量伤肝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1498,
+    "seg_id": "S6-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第三点：看用药时间",
+    "template": "hero_text",
+    "items": [
+      "第三点：看用药时间间隔"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1499,
+    "seg_id": "S6-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第三点：看用药时间",
+    "template": "split_column",
+    "items": [
+      "布洛芬：每6~8小时一次",
+      "对乙酰氨基酚：每4~6小时一次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1500,
+    "seg_id": "S6-L3",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第三点：看用药时间",
+    "template": "number_center",
+    "items": [
+      "4"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1501,
+    "seg_id": "S6-L4",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第三点：看用药时间",
+    "template": "warning_alert",
+    "items": [
+      "两药不可交替服用，24小时内只选一种"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1502,
+    "seg_id": "S7-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "家庭备药指南",
+    "template": "hero_text",
+    "items": [
+      "家庭建议两种药都常备"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1503,
+    "seg_id": "S7-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "家庭备药指南",
+    "template": "list_fade",
+    "items": [
+      "孩子发烧首选对乙酰氨基酚",
+      "混悬剂剂型更安全"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1504,
+    "seg_id": "S7-L3",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "家庭备药指南",
+    "template": "list_fade",
+    "items": [
+      "酒后头疼选布洛芬，不伤肝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1505,
+    "seg_id": "S7-L4",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "家庭备药指南",
+    "template": "hero_text",
+    "items": [
+      "痛经首选布洛芬消炎止痛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1506,
+    "seg_id": "S8-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "结尾行动号召",
+    "template": "hero_text",
+    "items": [
+      "转发给家里管药的人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1507,
+    "seg_id": "S8-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "结尾行动号召",
+    "template": "hero_text",
+    "items": [
+      "关注张医生，科学用药少走弯路"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1508,
+    "seg_id": "S1-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "运动对糖尿病人当然好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1509,
+    "seg_id": "S1-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "开场点题",
+    "template": "warning_alert",
+    "items": [
+      "很多糖友一开始就容易踩坑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1510,
+    "seg_id": "S1-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "开场点题",
+    "template": "split_column",
+    "items": [
+      "白练",
+      "危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1511,
+    "seg_id": "S1-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "今天讲清楚最常见四个坑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1512,
+    "seg_id": "S2-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑一：空腹运动",
+    "template": "hero_text",
+    "items": [
+      "空腹运动最危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1513,
+    "seg_id": "S2-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑一：空腹运动",
+    "template": "myth_buster",
+    "items": [
+      "空腹锻炼效果更好",
+      "糖尿病人空腹运动风险极高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1514,
+    "seg_id": "S2-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑一：空腹运动",
+    "template": "step_arrow",
+    "items": [
+      "降糖药或胰岛素持续压低血糖",
+      "空腹运动肌肉大量消耗血糖",
+      "两头夹击血糖直线跳水"
+    ],
+    "needs_animation": true,
+    "label": "胰岛素与运动双重作用导致低血糖的生理机制"
+  },
+  {
+    "global_index": 1515,
+    "seg_id": "S2-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑一：空腹运动",
+    "template": "warning_alert",
+    "items": [
+      "低血糖比高血糖危险得多",
+      "轻则晕厥，重则危及生命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1516,
+    "seg_id": "S2-L5",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑一：空腹运动",
+    "template": "split_column",
+    "items": [
+      "空腹时运动",
+      "餐后一两小时运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1517,
+    "seg_id": "S2-L6",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑一：空腹运动",
+    "template": "hero_text",
+    "items": [
+      "餐后血糖正高，运动削峰又安全"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1518,
+    "seg_id": "S3-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "hero_text",
+    "items": [
+      "运动量越大越好是错的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1519,
+    "seg_id": "S3-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "warning_alert",
+    "items": [
+      "每天五公里加一小时跳操，反而有害"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

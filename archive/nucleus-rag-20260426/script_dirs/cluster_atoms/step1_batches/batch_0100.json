@@ -1,0 +1,556 @@
+[
+  {
+    "global_index": 4000,
+    "seg_id": "S8-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "中国人饮食结构的特殊性",
+    "template": "warning_alert",
+    "items": [
+      "每天两大碗米饭，餐后不高才怪"
+    ],
+    "atoms_text": "那咱们中国人 就是这样啊 吃碳水吃的多 大米饭真香啊 我一天能造两两碗 我说 你吃那么多主食 你餐后血糖 不高才怪呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4001,
+    "seg_id": "S9-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "行动号召收尾",
+    "template": "hero_text",
+    "items": [
+      "你的主食是不是还在喝白粥吃大米饭"
+    ],
+    "atoms_text": "嗯 听了我今天的分享 大家是不是 回去赶紧检查一下 你的主食 都吃了什么 是不是还是 白粥大米饭呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4002,
+    "seg_id": "S1-L1",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "他汀争议开场",
+    "template": "hero_text",
+    "items": [
+      "今天这条视频可能会得罪人"
+    ],
+    "atoms_text": "今天这条视频呢 我可能会得罪不少人 但是呢 我也必须要说",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4003,
+    "seg_id": "S1-L2",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "他汀争议开场",
+    "template": "myth_buster",
+    "items": [
+      "他汀不能吃",
+      "这是需要认真回应的话"
+    ],
+    "atoms_text": "你有没有听过这种话 他汀不能吃",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4004,
+    "seg_id": "S1-L3",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "他汀争议开场",
+    "template": "list_fade",
+    "items": [
+      "吃了伤肝伤肌肉",
+      "邻居吃三年走路费劲",
+      "这类说法评论区随处见"
+    ],
+    "atoms_text": "这是我看评论区里 很多人都跟我说的 他汀不能吃啊 吃了伤肝伤肌肉 我邻居啊 吃了三年 现在走路都费劲",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4005,
+    "seg_id": "S1-L4",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "他汀争议开场",
+    "template": "warning_alert",
+    "items": [
+      "这种话坑了多少需要救命的人"
+    ],
+    "atoms_text": "我告诉你啊 这种话呀 坑了多少 需要吃他汀救命的人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4006,
+    "seg_id": "S2-L1",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "柳叶刀重磅研究",
+    "template": "number_center",
+    "items": [
+      "12万人"
+    ],
+    "atoms_text": "但是呢 就在上周 咱们柳叶刀啊 扔下了一个重磅炸弹 十二万人数据研究显示 直接把这个传了三十年的他汀谣言 给它炸得粉碎",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4007,
+    "seg_id": "S2-L2",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "柳叶刀重磅研究",
+    "template": "hero_text",
+    "items": [
+      "他汀是血管里专扫垃圾的清道夫"
+    ],
+    "atoms_text": "他汀是什么呢 是血管里的清道夫 他专门来 扫垃圾防堵车的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4008,
+    "seg_id": "S2-L3",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "柳叶刀重磅研究",
+    "template": "list_fade",
+    "items": [
+      "被指控伤肝伤肌肉",
+      "甚至被怪记性变差",
+      "还被说医生只是来卖药的"
+    ],
+    "atoms_text": "但这些年啊 他真是被泼了多少脏水啊 还有人会说 医生你就是来卖药的吧 天哪",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4009,
+    "seg_id": "S2-L4",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "柳叶刀重磅研究",
+    "template": "brick_stack",
+    "items": [
+      "肌肉疼痛",
+      "肝功能异常",
+      "记忆力下降",
+      "所有副作用都往他身上推"
+    ],
+    "atoms_text": "我肌肉啊疼怪他 肝不好了你还怪他 连记性差呀你也赖他",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4010,
+    "seg_id": "S3-L1",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "保洁阿姨比喻",
+    "template": "hero_text",
+    "items": [
+      "保洁阿姨打扫完被说偷了自行车"
+    ],
+    "atoms_text": "这就好比 你家请了个保洁 打扫的阿姨 结果小区里边 你丢了自行车 所有人都说 都是他偷的 就是他偷了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4011,
+    "seg_id": "S3-L2",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "保洁阿姨比喻",
+    "template": "hero_text",
+    "items": [
+      "真正的贼躲在旁边嘿嘿笑着"
+    ],
+    "atoms_text": "那传了三十年 人人都信以为真呢 真正的这个贼啊 却在旁边 嘿嘿在这笑呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4012,
+    "seg_id": "S4-L1",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "研究还原真相",
+    "template": "hero_text",
+    "items": [
+      "柳叶刀给保洁装上了高清监控"
+    ],
+    "atoms_text": "今天呢 柳叶刀这篇研究 那就是给这位保洁 还装了一个高清的监控",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4013,
+    "seg_id": "S4-L2",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "研究还原真相",
+    "template": "step_arrow",
+    "items": [
+      "病人不知道自己吃药还是糖豆",
+      "医生也不知道谁吃了什么",
+      "最客观公正的实验设计"
+    ],
+    "atoms_text": "研究者分析了十二万人 那个双盲实验 啥叫双盲 病人他不知道 自己吃的是 到底是药还是糖豆 那医生也不知道 吃谁吃的啥是啥 最客观最公正",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4014,
+    "seg_id": "S4-L3",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "研究还原真相",
+    "template": "split_column",
+    "items": [
+      "传言：他汀导致肌肉痛和肝损伤",
+      "事实：与吃糖豆组发生率无差别",
+      "传言：吃了就会疼",
+      "事实：副作用是身体自己演出来的"
+    ],
+    "atoms_text": "结果呀 打脸了 所谓他汀导致的 肌肉疼痛肝损伤 发生率啊 跟吃糖豆的人比啊 它是没有差别的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4015,
+    "seg_id": "S4-L4",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "研究还原真相",
+    "template": "hero_text",
+    "items": [
+      "听多了副作用身体自己演出来了"
+    ],
+    "atoms_text": "那些一吃就疼的人呢 大部分都是反安慰剂效应 他就是说 我听多了副作用 身体啊 自己演出来的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4016,
+    "seg_id": "S5-L1",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "不吃才是真风险",
+    "template": "step_arrow",
+    "items": [
+      "害怕副作用不敢吃药",
+      "心梗脑梗悄悄找上门",
+      "最终酿成无法挽回的结果"
+    ],
+    "atoms_text": "这意味着什么呀 意味着过去三十年 多少人都害怕这个副作用 该吃药的时候他不敢吃 结果心梗脑梗找上门 完 最后呢 人没了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4017,
+    "seg_id": "S5-L2",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "不吃才是真风险",
+    "template": "hero_text",
+    "items": [
+      "他汀不是毒药，不吃才是炸弹"
+    ],
+    "atoms_text": "这不是我不严肃的啊 这也不是给医生看的 是给每一个 就是家里边有老人 或者说你需要吃他汀的人啊 咱们告诉咱们的父母 他汀它不是毒药啊 不吃才是炸弹",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4018,
+    "seg_id": "S6-L1",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "结尾引导关注",
+    "template": "hero_text",
+    "items": [
+      "关注张医生，少走弯路多活几十年"
+    ],
+    "atoms_text": "关注讲内科的张医生 带你拆穿这些医学谣言 咱们少花冤枉钱 少走弯路 多活几十年",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4019,
+    "seg_id": "S1-L1",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "医生出场引入",
+    "template": "hero_text",
+    "items": [
+      "我是张医生，今天聊清淡饮食"
+    ],
+    "atoms_text": "大家好 我是 咱那个张医生",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4020,
+    "seg_id": "S1-L2",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "医生出场引入",
+    "template": "hero_text",
+    "items": [
+      "医生说清淡，你是不是就喝粥吃馒头"
+    ],
+    "atoms_text": "医生呢 让你 清淡饮食",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4021,
+    "seg_id": "S1-L3",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "医生出场引入",
+    "template": "list_fade",
+    "items": [
+      "主食换成粥和馒头",
+      "炒菜只放三滴油",
+      "配一碟小咸菜"
+    ],
+    "atoms_text": "你是不是啊 转头就 哎 喝粥吃馒头 那个菜里边 你就放三滴油 再来一点小咸菜 标配",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4022,
+    "seg_id": "S1-L4",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "医生出场引入",
+    "template": "hero_text",
+    "items": [
+      "觉得自己已经做到位了？"
+    ],
+    "atoms_text": "哎呀 觉得自己 是不是 做到位了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4023,
+    "seg_id": "S2-L1",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "误区警示",
+    "template": "warning_alert",
+    "items": [
+      "半年后血糖没降，甘油三酯反而更高"
+    ],
+    "atoms_text": "停 你这么吃啊 半年以后 你再查 这血糖没降 这甘油三酯 反而更高了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4024,
+    "seg_id": "S2-L2",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "误区警示",
+    "template": "hero_text",
+    "items": [
+      "不是不努力，是清淡饮食理解偏了"
+    ],
+    "atoms_text": "不是因为 你不努力 而是 清淡饮食这四个字 你给理解偏了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4025,
+    "seg_id": "S3-L1",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "粥馒头的真相",
+    "template": "myth_buster",
+    "items": [
+      "粥和馒头是最清淡的食物",
+      "它们升血糖比喝糖水还快"
+    ],
+    "atoms_text": "先说 这个粥跟馒头 你们是不是 都觉得是 最清淡的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4026,
+    "seg_id": "S3-L2",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "粥馒头的真相",
+    "template": "step_arrow",
+    "items": [
+      "稀粥迅速糊化消化",
+      "血糖快速冲入血液",
+      "餐后血糖滋滋往上升"
+    ],
+    "atoms_text": "但是 你不知道 这个东西呢 吃到肚子里 它比喝糖水还快",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4027,
+    "seg_id": "S3-L3",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "粥馒头的真相",
+    "template": "step_arrow",
+    "items": [
+      "碳水摄入过多用不完",
+      "肝脏将多余碳水存储",
+      "直接转化为甘油三酯"
+    ],
+    "atoms_text": "特别是粥啊 稀里糊涂的 它就 哎 变成了血糖 冲进血液里边 这餐后血糖 就滋滋的往上升",
+    "needs_animation": true,
+    "label": "粥被消化后快速转化为血糖冲入血液导致餐后血糖飙升"
+  },
+  {
+    "global_index": 4028,
+    "seg_id": "S3-L4",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "粥馒头的真相",
+    "template": "hero_text",
+    "items": [
+      "不吃肉不吃油，血脂照样高"
+    ],
+    "atoms_text": "更坑的是啥 这碳水吃多了 它用不完 这肝脏啊 就帮你把它存起来 直接转化成甘油三酯",
+    "needs_animation": true,
+    "label": "多余碳水在肝脏中转化为甘油三酯的代谢过程"
+  },
+  {
+    "global_index": 4029,
+    "seg_id": "S3-L5",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "粥馒头的真相",
+    "template": "myth_buster",
+    "items": [
+      "以为是油吃多了导致血脂高",
+      "其实是主食米饭馒头吃多了"
+    ],
+    "atoms_text": "这就是为啥 有人 不吃肉 不吃油 他血脂照样高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4030,
+    "seg_id": "S3-L6",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "粥馒头的真相",
+    "template": "hero_text",
+    "items": [
+      "主食吃太多才是真正的问题"
+    ],
+    "atoms_text": "不是油吃多了 而是 主食 米饭馒头 吃多了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4031,
+    "seg_id": "S4-L1",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "hero_text",
+    "items": [
+      "真正的清淡饮食，记住这三招"
+    ],
+    "atoms_text": "那真正的清淡饮食 应该怎么吃呢 记住这三招",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4032,
+    "seg_id": "S4-L2",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "hero_text",
+    "items": [
+      "第一招：主食替换"
+    ],
+    "atoms_text": "第一个 主食啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4033,
+    "seg_id": "S4-L3",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "split_column",
+    "items": [
+      "白粥白馒头精细碳水",
+      "一半换成糙米粗粮",
+      "升血糖快，饱腹感差",
+      "顶饱又稳血糖"
+    ],
+    "atoms_text": "把一半呢 换成糙米 就是粗粮 顶饱还稳血糖",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4034,
+    "seg_id": "S4-L4",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "hero_text",
+    "items": [
+      "第二招：蛋白质要跟上"
+    ],
+    "atoms_text": "第二个啊 这蛋白质要跟上 什么 鸡蛋呢 鱼啊 瘦肉啊 豆制品",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4035,
+    "seg_id": "S4-L5",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "color_grid",
+    "items": [
+      "鸡蛋",
+      "鱼类",
+      "瘦肉",
+      "豆制品"
+    ],
+    "atoms_text": "当然 生病的人除外啊 每顿也是 一个手掌大小的量 别吃成没劲瘦啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4036,
+    "seg_id": "S4-L6",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "hero_text",
+    "items": [
+      "第三招：改变吃饭顺序"
+    ],
+    "atoms_text": "第三个 吃饭顺序 咱们换一下 先吃菜啊 再吃蛋白 那最后呢 再吃主食",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4037,
+    "seg_id": "S4-L7",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "step_arrow",
+    "items": [
+      "先吃蔬菜",
+      "再吃蛋白质",
+      "最后吃主食",
+      "血糖波动明显减小"
+    ],
+    "atoms_text": "这血糖呢 波动呢 可能会小一点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4038,
+    "seg_id": "S5-L1",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "清淡饮食正确认知",
+    "template": "hero_text",
+    "items": [
+      "清淡不是吃粥咸菜委屈自己"
+    ],
+    "atoms_text": "记住了 清淡饮食 不是让你 吃粥 哎 吃馒头 吃咸菜 委屈自己",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4039,
+    "seg_id": "S5-L2",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "清淡饮食正确认知",
+    "template": "list_fade",
+    "items": [
+      "炒菜正常放油",
+      "鱼虾瘦肉照常吃",
+      "鸡蛋一天一个没问题"
+    ],
+    "atoms_text": "炒菜呀 你就正常的放油 鱼虾瘦肉照常吃 鸡蛋呢 一天一个 没问题啊",
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "file": "ANH23268_Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach.mp4",
+    "title": "ANH23268 Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach",
+    "start_sec": 126.28,
+    "end_sec": 144.2,
+    "text_en": "Your doctor will use the guide wire to pass a flexible tube called a catheter through your aortic valve. A balloon on the tip of the catheter will be inflated to widen the opening in your aortic valve to push the valve leaflets to the sides.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH23268_Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach.mp4",
+    "title": "ANH23268 Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach",
+    "start_sec": 144.2,
+    "end_sec": 149.8,
+    "text_en": "After deflating the balloon, your doctor will remove the catheter.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH23268_Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach.mp4",
+    "title": "ANH23268 Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach",
+    "start_sec": 149.8,
+    "end_sec": 163.56,
+    "text_en": "The replacement valve consists of a tissue valve surrounded by a wire mesh called a stent. The replacement valve will be compressed and placed on the tip of another catheter.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH23268_Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach.mp4",
+    "title": "ANH23268 Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach",
+    "start_sec": 163.56,
+    "end_sec": 179.2,
+    "text_en": "This catheter will be inserted through your aortic valve. When the catheter reaches the opening in your aortic valve, your doctor will inflate a balloon underneath the replacement valve to expand it and the stent.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH23268_Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach.mp4",
+    "title": "ANH23268 Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach",
+    "start_sec": 179.2,
+    "end_sec": 189.92,
+    "text_en": "After placement of the new aortic valve, your doctor will deflate the balloon. The stent will support and secure the replacement valve in place.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANH23268_Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach.mp4",
+    "title": "ANH23268 Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach",
+    "start_sec": 189.92,
+    "end_sec": 197.16,
+    "text_en": "The catheter and guide wire will be removed.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH23268_Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach.mp4",
+    "title": "ANH23268 Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach",
+    "start_sec": 197.16,
+    "end_sec": 217.0,
+    "text_en": "At the end of the procedure, the introducer sheath in your groin will be removed and your skin incision will be closed. You will have another incision on the other side of your groin through which instruments were inserted to monitor your heart during the procedure. This skin incision will also be closed.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH23268_Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach.mp4",
+    "title": "ANH23268 Transcatheter Aortic Valve Implantation (TAVI) - Transfemoral Approach",
+    "start_sec": 217.0,
+    "end_sec": 222.84,
+    "text_en": "To find out more about trans catheter aortic valve implantation, talk to your healthcare practitioner.\n\n---\n\n**切分说明（16 个 logic blocks）：**\n\n| # | 主题 | 画面动作 |\n|---|------|----------|\n| 1 | 手术介绍 | 标题/概念引入 TAVI/TAVR |\n| 2 | 主动脉瓣解剖 | 展示心脏四瓣膜、左心室与主动脉位置 |\n| 3 | 瓣膜开放 | 左心室收缩，血液通过三个瓣叶 |\n| 4 | 瓣膜关闭 | 左心室舒张，瓣膜关闭防止回流 |\n| 5 | 钙化狭窄病变 | 钙沉积→瓣叶增厚→开口狭窄→血流减少 |\n| 6 | 左室壁增厚 | 代偿性心肌肥厚动画 |\n| 7 | 腹股沟切口+鞘管置入 | 切皮→股动脉开口→置入引导鞘 |\n| 8 | 导丝推进 | 导丝经股动脉→主动脉→穿过瓣膜→进入左室 |\n| 9 | 球囊扩张（预扩） | 导管通过瓣膜，球囊充气撑开瓣叶 |\n| 10 | 球囊回收 | 球囊放气，撤出导管 |\n| 11 | 人工瓣膜描述 | 展示组织瓣+金属支架结构，压缩装载 |\n| 12 | 瓣膜释放 | 导管送入瓣膜位置，球囊扩张释放支架瓣 |\n| 13 | 释放后固定 | 球囊放气，支架支撑瓣膜就位 |\n| 14 | 撤出导管导丝 | 移除catheter和guide wire |\n| 15 | 切口关闭 | 撤鞘管，缝合双侧腹股沟切口 |\n| 16 | 结束语 | 建议咨询医生 |",
+    "category_ids": []
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 0.0,
+    "end_sec": 15.08,
+    "text_en": "If you have a severe problem with the mitral valve in your heart, your doctor may recommend a robotic mitral valve replacement if it can't be repaired.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 15.08,
+    "end_sec": 52.52,
+    "text_en": "Your mitral valve is one of the four valves in your heart. It lies between your left atrium or upper chamber and left ventricle or lower chamber. Oxygen-rich blood coming from your lungs goes into the left atrium. When your left atrium contracts, blood flows through your open mitral valve and into your left ventricle. When your left ventricle contracts, your mitral valve closes to prevent blood from flowing back into your left atrium.",
+    "category_ids": [
+      46,
+      127
+    ]
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 52.52,
+    "end_sec": 79.0,
+    "text_en": "Your mitral valve has two leaflets, an anterior or front leaflet, and a posterior or back String-like tissue, called tendinous cords, attach both leaflets to the inside of your left ventricle. The tendinous cords help prevent blood from flowing back into your atrium.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 79.0,
+    "end_sec": 85.6,
+    "text_en": "You may have one or both of the two main problems that can happen to your mitral valve.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 85.6,
+    "end_sec": 117.04,
+    "text_en": "One problem is stenosis, in which the opening in your mitral valve is two narrow. The narrow opening reduces the amount of blood flowing through the valve from your left atrium to your left ventricle. Your mental valve stenosis may be caused by rheumatic fever or heart-birth defects.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 117.04,
+    "end_sec": 160.4,
+    "text_en": "The other problem your valve may have is regurgitation, in which your mitral valve doesn't close completely. Retraction allows blood to leak back into your left atrium when your left ventricle contracts. Mitral valve regurgitation may be caused by mitral valve prolapse, in which the valve leaflets and cords become weak and loose. Rheumatic heart disease, which may result from rheumatic fever, heart-birth defects, or heart enlargement, called dilation, which may result from a heart attack.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 160.4,
+    "end_sec": 170.44,
+    "text_en": "Both stenosis and regurgitation strain your heart because it has to pump harder to move oxygen-rich blood to your body.",
+    "category_ids": [
+      127,
+      126
+    ]
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 170.44,
+    "end_sec": 180.56,
+    "text_en": "Before your procedure, an intravenous line will be started. You may be given antibiotics through the IV to decrease your chance of infection.",
+    "category_ids": []
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 180.56,
+    "end_sec": 185.24,
+    "text_en": "You will be given general anesthesia to make you unconscious and pain-free during the",
+    "category_ids": []
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 187.0,
+    "end_sec": 196.2,
+    "text_en": "A breathing tube will be inserted through your mouth and down your throat to help you breathe during the procedure.",
+    "category_ids": []
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 196.2,
+    "end_sec": 200.72,
+    "text_en": "Your surgeon will typically make four or five small incisions on the right side of your",
+    "category_ids": []
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 202.36,
+    "end_sec": 223.32,
+    "text_en": "An assistant will insert a special camera called an endoscope and other tools attached to the robotic arms through the incisions. Unlike standard laparoscopic instruments, these tools can rotate 360 degrees and have more flexibility than the human wrist.",
+    "category_ids": []
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 223.32,
+    "end_sec": 252.32,
+    "text_en": "Seated at a special console, your surgeon will operate the robotic arms and the camera with joystick-like controls and foot pedals. A computer will translate the exact movements of your surgeon's hands into precise movements of the surgical tools. Your surgeon will have a magnified three-dimensional stereoscopic view inside your body through a high-definition vision system.",
+    "category_ids": []
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 252.32,
+    "end_sec": 265.56,
+    "text_en": "After the robotic arms are in place, you will be placed on a heart-long machine. This machine will take over the functions of your heart and lungs while your heart is stopped for your operation.",
+    "category_ids": []
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 265.56,
+    "end_sec": 274.16,
+    "text_en": "Your surgeon will begin the procedure on your heart by making an incision in your left atrium to get to your mitral valve.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 274.16,
+    "end_sec": 285.88,
+    "text_en": "Next, all of your mitral valve's attachments to your heart will be cut and the valve will be removed.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 285.88,
+    "end_sec": 306.56,
+    "text_en": "Your damaged mitral valve may be replaced with an artificial mechanical valve. A mechanical mitral valve will last a lifetime. However, they require you to take blood thinner medication for the rest of your life.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 307.28,
+    "end_sec": 330.16,
+    "text_en": "Alternatively, your mitral valve may be replaced with a valve made from human or animal tissue. A tissue mitral valve may not last as long as a mechanical valve. However, the natural tissue does not require blood thinner medication.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 330.16,
+    "end_sec": 340.72,
+    "text_en": "Once your new valve is in place, your surgeon will restart the beating of your heart and remove the attachments to the heart-long machine.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 340.72,
+    "end_sec": 352.92,
+    "text_en": "At the end of your procedure, your skin incisions will be closed with stitches, staples, surgical glue, or skin closure strips.",
+    "category_ids": []
+  },
+  {
+    "file": "ANR13009_Robotic Mitral Valve Replacement.mp4",
+    "title": "ANR13009 Robotic Mitral Valve Replacement",
+    "start_sec": 352.92,
+    "end_sec": 380.76,
+    "text_en": "After your procedure, your breathing tube will be removed and you will be taken to the intensive care unit or ICU for monitoring. You will be given pain medication as needed. You may continue to receive fluids and medications through your IV. You will be given blood thinner medication if you have a mechanical valve. Most patients are released from the hospital about a week after the procedure.",
+    "category_ids": []
+  },
+  {
+    "file": "ANS00149_Atherosclerosis Bulleted Version.mp4",
+    "title": "ANS00149 Atherosclerosis Bulleted Version",
+    "start_sec": 0.0,
+    "end_sec": 19.88,
+    "text_en": "Atherosclerosis is a life-threatening disease that may have begun to develop during childhood. This condition is a process in which deposits of fatty material, called plaque, build up inside the walls of arteries, reducing or completely blocking blood flow.",
+    "category_ids": [
+      1
+    ]
+  }
+]

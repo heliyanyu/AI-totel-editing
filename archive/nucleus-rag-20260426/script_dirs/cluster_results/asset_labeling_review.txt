@@ -1,0 +1,56 @@
+=== AND14017 After a Heart Attack  Managing Your Recovery ===
+  sub_scenes: ['心肌缺血过程']
+  visual_desc: AND14017 After a Heart Attack  Managing Your Recovery
+  segments (83 total):
+    [0.0-7.7s]
+      text_en: This video will help you understand a heart attack and how to manage it.
+      desc:    This video will help you understand a heart attack and how to manage it.
+    [7.7-12.0s]
+      text_en: Please watch the entire video to learn how to manage your recovery.
+      desc:    Please watch the entire video to learn how to manage your recovery.
+    [12.0-16.4s]
+      text_en: If you have been hospitalized with a heart attack, it's important to recover properly when
+      desc:    If you have been hospitalized with a heart attack, it's important to recover properly when
+
+=== ANH12071 Health Effects of Smoking ===
+  sub_scenes: ['心脏工作机制']
+  visual_desc: ANH12071 Health Effects of Smoking
+  segments (80 total):
+    [0.0-13.0s]
+      text_en: Every time you smoke a cigarette, toxic gases pass into your lungs, then into your blood
+      desc:    Every time you smoke a cigarette, toxic gases pass into your lungs, then into your blood
+    [13.0-21.4s]
+      text_en: stream, where they spread to every organ in your body.
+      desc:    stream, where they spread to every organ in your body.
+    [21.4-27.6s]
+      text_en: A cigarette is made using the tobacco leaf, which contains nicotine and a variety of other
+      desc:    A cigarette is made using the tobacco leaf, which contains nicotine and a variety of other
+
+=== ANH13100 High Blood Pressure (Hypertension) ===
+  sub_scenes: ['血压升高全过程']
+  visual_desc: ANH13100 High Blood Pressure (Hypertension)
+  segments (67 total):
+    [0.0-10.3s]
+      text_en: High blood pressure or hypertension is a common condition in which the force of blood on
+      desc:    High blood pressure or hypertension is a common condition in which the force of blood on
+    [10.3-15.1s]
+      text_en: the walls of your arteries is often too high.
+      desc:    the walls of your arteries is often too high.
+    [15.1-19.8s]
+      text_en: Arteries are the blood vessels that carry blood away from your heart to supply your tissues
+      desc:    Arteries are the blood vessels that carry blood away from your heart to supply your tissues
+
+=== ANH13113 Acute Coronary Syndrome and Heart Attack ===
+  sub_scenes: ['心肌缺血过程', '冠状动脉供血']
+  visual_desc: ANH13113 Acute Coronary Syndrome and Heart Attack
+  segments (54 total):
+    [0.0-10.4s]
+      text_en: If you have acute coronary syndrome, you have one or more conditions caused by a blockage
+      desc:    If you have acute coronary syndrome, you have one or more conditions caused by a blockage
+    [10.4-13.8s]
+      text_en: of blood flow to your heart muscle.
+      desc:    of blood flow to your heart muscle.
+    [13.8-18.8s]
+      text_en: This is a medical emergency because you may be having a heart attack, a condition in which
+      desc:    This is a medical emergency because you may be having a heart attack, a condition in which
+

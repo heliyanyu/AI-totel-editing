@@ -1,0 +1,517 @@
+[
+  {
+    "global_index": 2840,
+    "seg_id": "S1-L1",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "心衰不是突然来的，是一点点积累的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2841,
+    "seg_id": "S1-L2",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "收藏这个视频，关键时刻能救命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2842,
+    "seg_id": "S1-L3",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "从最早的信号说起"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2843,
+    "seg_id": "S2-L1",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号一：活动耐量下降",
+    "template": "hero_text",
+    "items": [
+      "第一信号：活动耐量下降"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2844,
+    "seg_id": "S2-L2",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号一：活动耐量下降",
+    "template": "split_column",
+    "items": [
+      "以前走10分钟不累",
+      "现在走5分钟就要停",
+      "正常体力水平",
+      "容易累、没力气"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2845,
+    "seg_id": "S2-L3",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号一：活动耐量下降",
+    "template": "hero_text",
+    "items": [
+      "心脏泵血能力跟不上身体需求"
+    ],
+    "needs_animation": true,
+    "label": "心衰时心脏泵血能力下降的生理机制"
+  },
+  {
+    "global_index": 2846,
+    "seg_id": "S2-L4",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号一：活动耐量下降",
+    "template": "warning_alert",
+    "items": [
+      "没干重活却全身提不起劲",
+      "感觉像灌了铅，浑身沉"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2847,
+    "seg_id": "S2-L5",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号一：活动耐量下降",
+    "template": "myth_buster",
+    "items": [
+      "以为是年纪大了气不够",
+      "其实是心功能在下滑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2848,
+    "seg_id": "S3-L1",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号二：下肢水肿",
+    "template": "hero_text",
+    "items": [
+      "第二信号：莫名下肢水肿"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2849,
+    "seg_id": "S3-L2",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号二：下肢水肿",
+    "template": "hero_text",
+    "items": [
+      "很多人以为是肾脏问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2850,
+    "seg_id": "S3-L3",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号二：下肢水肿",
+    "template": "myth_buster",
+    "items": [
+      "以为水肿 = 肾脏有问题",
+      "临床上心衰引起的水肿更常见"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2851,
+    "seg_id": "S3-L4",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号二：下肢水肿",
+    "template": "step_arrow",
+    "items": [
+      "心脏推血无力",
+      "血液堆积在腿部",
+      "脚踝和小腿肿胀"
+    ],
+    "needs_animation": true,
+    "label": "心衰导致下肢静脉血液淤积过程"
+  },
+  {
+    "global_index": 2852,
+    "seg_id": "S3-L5",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号二：下肢水肿",
+    "template": "step_arrow",
+    "items": [
+      "用手按压水肿部位",
+      "松手后凹陷不弹起",
+      "且未服用地平类降压药",
+      "高度怀疑心衰"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2853,
+    "seg_id": "S4-L1",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号三：不能平躺",
+    "template": "hero_text",
+    "items": [
+      "第三信号：睡觉不能平躺"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2854,
+    "seg_id": "S4-L2",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号三：不能平躺",
+    "template": "warning_alert",
+    "items": [
+      "躺下越躺越憋气",
+      "非得垫两个枕头才行"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2855,
+    "seg_id": "S4-L3",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号三：不能平躺",
+    "template": "step_arrow",
+    "items": [
+      "平躺时下肢血液回流胸腔",
+      "心脏承受不了压力升高",
+      "肺部压力升高，喘咳憋醒"
+    ],
+    "needs_animation": true,
+    "label": "平卧位静脉回流增加导致肺淤血过程"
+  },
+  {
+    "global_index": 2856,
+    "seg_id": "S5-L1",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号四：心率过快",
+    "template": "hero_text",
+    "items": [
+      "第四信号：心率持续偏快"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2857,
+    "seg_id": "S5-L2",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号四：心率过快",
+    "template": "step_arrow",
+    "items": [
+      "心脏感知自身泵血无力",
+      "加快跳动弥补力量不足",
+      "心率持续异常升高"
+    ],
+    "needs_animation": true,
+    "label": "心衰时心脏代偿性心率加快机制"
+  },
+  {
+    "global_index": 2858,
+    "seg_id": "S5-L3",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号四：心率过快",
+    "template": "split_column",
+    "items": [
+      "以前心率70~80次/分",
+      "现在常达90~100+次/分"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2859,
+    "seg_id": "S5-L4",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号四：心率过快",
+    "template": "warning_alert",
+    "items": [
+      "这不是正常波动，是心脏在强撑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2860,
+    "seg_id": "S6-L1",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号五：胃口差腹胀",
+    "template": "hero_text",
+    "items": [
+      "第五信号：没胃口、肚子胀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2861,
+    "seg_id": "S6-L2",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号五：胃口差腹胀",
+    "template": "hero_text",
+    "items": [
+      "很多人不知道这也是心衰信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2862,
+    "seg_id": "S6-L3",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号五：胃口差腹胀",
+    "template": "step_arrow",
+    "items": [
+      "心脏排血不足",
+      "肠胃血流下降",
+      "食欲差、胀气、吃不下"
+    ],
+    "needs_animation": true,
+    "label": "心衰导致胃肠道低灌注过程"
+  },
+  {
+    "global_index": 2863,
+    "seg_id": "S6-L4",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "信号五：胃口差腹胀",
+    "template": "warning_alert",
+    "items": [
+      "体重不减反升，是水分堆积",
+      "越到后期症状越严重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2864,
+    "seg_id": "S7-L1",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "五大信号汇总",
+    "template": "color_grid",
+    "items": [
+      "活动耐量下降",
+      "下肢水肿",
+      "无法平躺睡觉",
+      "心率持续偏快"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2865,
+    "seg_id": "S7-L2",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "五大信号汇总",
+    "template": "hero_text",
+    "items": [
+      "心衰不是绝症，越早发现余地越大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2866,
+    "seg_id": "S7-L3",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "五大信号汇总",
+    "template": "hero_text",
+    "items": [
+      "保护心脏，最关键三件事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2867,
+    "seg_id": "S8-L1",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "护心第一步：控制三高",
+    "template": "color_grid",
+    "items": [
+      "控制血压达标",
+      "管好血脂水平",
+      "稳住血糖波动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2868,
+    "seg_id": "S8-L2",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "护心第一步：控制三高",
+    "template": "number_center",
+    "items": [
+      "50%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2869,
+    "seg_id": "S9-L1",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "护心第二步：改善生活方式",
+    "template": "hero_text",
+    "items": [
+      "第二步：改善日常生活方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2870,
+    "seg_id": "S9-L2",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "护心第二步：改善生活方式",
+    "template": "list_fade",
+    "items": [
+      "少油少盐",
+      "多吃蔬菜和全谷物",
+      "保证优质蛋白摄入"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2871,
+    "seg_id": "S9-L3",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "护心第二步：改善生活方式",
+    "template": "step_arrow",
+    "items": [
+      "盐摄入过多",
+      "水钠潴留加重水肿",
+      "心脏负担显著增加"
+    ],
+    "needs_animation": true,
+    "label": "高盐摄入导致水钠潴留加重心脏负荷的机制"
+  },
+  {
+    "global_index": 2872,
+    "seg_id": "S9-L4",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "护心第二步：改善生活方式",
+    "template": "list_fade",
+    "items": [
+      "戒烟",
+      "限制饮酒",
+      "规律作息不熬夜"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2873,
+    "seg_id": "S10-L1",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "护心第三步：适度运动",
+    "template": "hero_text",
+    "items": [
+      "第三步：适度运动护心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2874,
+    "seg_id": "S10-L2",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "护心第三步：适度运动",
+    "template": "list_fade",
+    "items": [
+      "帮助恢复身体机能",
+      "改善情绪和精神状态"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2875,
+    "seg_id": "S10-L3",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "护心第三步：适度运动",
+    "template": "branch_path",
+    "items": [
+      "是否已有心衰迹象？",
+      "无迹象：按常规计划运动",
+      "有迹象：先咨询医生评估再运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2876,
+    "seg_id": "S11-L1",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "结尾金句",
+    "template": "hero_text",
+    "items": [
+      "多听身体信号，早行动，心脏陪你更久"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2877,
+    "seg_id": "S1-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "血管不是突然堵的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2878,
+    "seg_id": "S1-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "你怎么对它，它就怎么回应"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2879,
+    "seg_id": "S1-L3",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "开场点题",
+    "template": "split_column",
+    "items": [
+      "有些事让血管慢慢出问题",
+      "有些事能把状态拉回来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

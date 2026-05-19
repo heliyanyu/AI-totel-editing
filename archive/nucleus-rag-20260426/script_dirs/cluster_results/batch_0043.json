@@ -1,0 +1,509 @@
+[
+  {
+    "global_index": 1720,
+    "seg_id": "S6-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "方法对了每天半小时，胜过冲动猛练三天"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1721,
+    "seg_id": "S1-L1",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "他汀争议开场",
+    "template": "hero_text",
+    "items": [
+      "今天这条视频可能会得罪人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1722,
+    "seg_id": "S1-L2",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "他汀争议开场",
+    "template": "myth_buster",
+    "items": [
+      "他汀不能吃",
+      "这是需要认真回应的话"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1723,
+    "seg_id": "S1-L3",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "他汀争议开场",
+    "template": "list_fade",
+    "items": [
+      "吃了伤肝伤肌肉",
+      "邻居吃三年走路费劲",
+      "这类说法评论区随处见"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1724,
+    "seg_id": "S1-L4",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "他汀争议开场",
+    "template": "warning_alert",
+    "items": [
+      "这种话坑了多少需要救命的人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1725,
+    "seg_id": "S2-L1",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "柳叶刀重磅研究",
+    "template": "number_center",
+    "items": [
+      "12万人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1726,
+    "seg_id": "S2-L2",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "柳叶刀重磅研究",
+    "template": "hero_text",
+    "items": [
+      "他汀是血管里专扫垃圾的清道夫"
+    ],
+    "needs_animation": true,
+    "label": "他汀类药物清除血管内低密度脂蛋白的作用机制"
+  },
+  {
+    "global_index": 1727,
+    "seg_id": "S2-L3",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "柳叶刀重磅研究",
+    "template": "list_fade",
+    "items": [
+      "被指控伤肝伤肌肉",
+      "甚至被怪记性变差",
+      "还被说医生只是来卖药的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1728,
+    "seg_id": "S2-L4",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "柳叶刀重磅研究",
+    "template": "brick_stack",
+    "items": [
+      "肌肉疼痛",
+      "肝功能异常",
+      "记忆力下降",
+      "所有副作用都往他身上推"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1729,
+    "seg_id": "S3-L1",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "保洁阿姨比喻",
+    "template": "hero_text",
+    "items": [
+      "保洁阿姨打扫完被说偷了自行车"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1730,
+    "seg_id": "S3-L2",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "保洁阿姨比喻",
+    "template": "hero_text",
+    "items": [
+      "真正的贼躲在旁边嘿嘿笑着"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1731,
+    "seg_id": "S4-L1",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "研究还原真相",
+    "template": "hero_text",
+    "items": [
+      "柳叶刀给保洁装上了高清监控"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1732,
+    "seg_id": "S4-L2",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "研究还原真相",
+    "template": "step_arrow",
+    "items": [
+      "病人不知道自己吃药还是糖豆",
+      "医生也不知道谁吃了什么",
+      "最客观公正的实验设计"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1733,
+    "seg_id": "S4-L3",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "研究还原真相",
+    "template": "split_column",
+    "items": [
+      "传言：他汀导致肌肉痛和肝损伤",
+      "事实：与吃糖豆组发生率无差别",
+      "传言：吃了就会疼",
+      "事实：副作用是身体自己演出来的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1734,
+    "seg_id": "S4-L4",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "研究还原真相",
+    "template": "hero_text",
+    "items": [
+      "听多了副作用身体自己演出来了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1735,
+    "seg_id": "S5-L1",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "不吃才是真风险",
+    "template": "step_arrow",
+    "items": [
+      "害怕副作用不敢吃药",
+      "心梗脑梗悄悄找上门",
+      "最终酿成无法挽回的结果"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1736,
+    "seg_id": "S5-L2",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "不吃才是真风险",
+    "template": "hero_text",
+    "items": [
+      "他汀不是毒药，不吃才是炸弹"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1737,
+    "seg_id": "S6-L1",
+    "bp_title": "他汀真相：柳叶刀12万人数据粉碎30年谣言",
+    "scene_title": "结尾引导关注",
+    "template": "hero_text",
+    "items": [
+      "关注张医生，少走弯路多活几十年"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1738,
+    "seg_id": "S1-L1",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "化验单可能是假正常",
+    "template": "hero_text",
+    "items": [
+      "你的化验单可能骗了你三十年"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1739,
+    "seg_id": "S1-L2",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "化验单可能是假正常",
+    "template": "number_center",
+    "items": [
+      "1.8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1740,
+    "seg_id": "S1-L3",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "化验单可能是假正常",
+    "template": "hero_text",
+    "items": [
+      "你可能已经被骗了三十年"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1741,
+    "seg_id": "S1-L4",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "化验单可能是假正常",
+    "template": "warning_alert",
+    "items": [
+      "JACC亚洲版最新研究颠覆旧标准",
+      "中国人炎症标准不能套用西方"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1742,
+    "seg_id": "S2-L1",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "CRP是什么",
+    "template": "hero_text",
+    "items": [
+      "CRP是血管里的烟雾报警器"
+    ],
+    "needs_animation": true,
+    "label": "CRP作为血管炎症标志物的检测机制"
+  },
+  {
+    "global_index": 1743,
+    "seg_id": "S2-L2",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "CRP是什么",
+    "template": "step_arrow",
+    "items": [
+      "血管内出现炎症或不稳定斑块",
+      "CRP浓度随即升高报警",
+      "提示心血管风险升高"
+    ],
+    "needs_animation": true,
+    "label": "血管炎症与不稳定斑块触发CRP升高过程"
+  },
+  {
+    "global_index": 1744,
+    "seg_id": "S2-L3",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "CRP是什么",
+    "template": "split_column",
+    "items": [
+      "西方标准超过2.0才算异常",
+      "中国人超过1.0火星已在滋滋冒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1745,
+    "seg_id": "S2-L4",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "CRP是什么",
+    "template": "number_center",
+    "items": [
+      "1.0"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1746,
+    "seg_id": "S2-L5",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "CRP是什么",
+    "template": "category_table",
+    "items": [
+      "研究样本中日韩两万余名冠心病患者",
+      "东亚人CRP中位数仅1.2 mg/L远低于西方"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1747,
+    "seg_id": "S3-L1",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "烟雾报警器的比喻",
+    "template": "hero_text",
+    "items": [
+      "拿美国报警器检测中国厨房"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1748,
+    "seg_id": "S3-L2",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "烟雾报警器的比喻",
+    "template": "split_column",
+    "items": [
+      "西方饮食油烟重需高阈值才响",
+      "中国清蒸炖煮稍有烟就该响"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1749,
+    "seg_id": "S3-L3",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "烟雾报警器的比喻",
+    "template": "warning_alert",
+    "items": [
+      "等到厨房烧没了才报警已来不及"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1750,
+    "seg_id": "S4-L1",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "数字揭示真实风险",
+    "template": "number_center",
+    "items": [
+      "+150%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1751,
+    "seg_id": "S4-L2",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "数字揭示真实风险",
+    "template": "step_arrow",
+    "items": [
+      "CRP超过1.0风险增加150%",
+      "超1.0者大量已提前出事",
+      "能活到超2.0的人反而更少"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1752,
+    "seg_id": "S4-L3",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "数字揭示真实风险",
+    "template": "number_center",
+    "items": [
+      "+273%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1753,
+    "seg_id": "S4-L4",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "数字揭示真实风险",
+    "template": "hero_text",
+    "items": [
+      "冒烟了还说没到2.0不用跑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1754,
+    "seg_id": "S5-L1",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "给中国人敲黑板",
+    "template": "warning_alert",
+    "items": [
+      "2.0参考范围是给欧美人设计的",
+      "中国人不能用这把尺子量自己"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1755,
+    "seg_id": "S5-L2",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "给中国人敲黑板",
+    "template": "hero_text",
+    "items": [
+      "东亚人CRP超1.0立即拉响一级警报"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1756,
+    "seg_id": "S6-L1",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "行动指南与关注",
+    "template": "list_fade",
+    "items": [
+      "体检别只看箭头要看具体数字",
+      "数字超过1.0立即找医生",
+      "遵医嘱调药控盐稳定斑块"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1757,
+    "seg_id": "S6-L2",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "行动指南与关注",
+    "template": "hero_text",
+    "items": [
+      "读懂化验单背后真相少走弯路"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1758,
+    "seg_id": "S1-L1",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "胸闷气短困扰很多人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1759,
+    "seg_id": "S1-L2",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "开场引入",
+    "template": "list_fade",
+    "items": [
+      "爬两层楼喘半天",
+      "夜里躺下憋得慌"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

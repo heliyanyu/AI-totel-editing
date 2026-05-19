@@ -1,0 +1,511 @@
+[
+  {
+    "global_index": 3880,
+    "seg_id": "S6-L1",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "总结与行动建议",
+    "template": "warning_alert",
+    "items": [
+      "肾脏不好别听信只能吃素"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3881,
+    "seg_id": "S6-L2",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "总结与行动建议",
+    "template": "vertical_timeline",
+    "items": [
+      "一二期：正常量饮食",
+      "三四期：限量精准吃",
+      "五期透析：适当增加摄入"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3882,
+    "seg_id": "S6-L3",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "科学饮食本身就是在保护肾脏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3883,
+    "seg_id": "S6-L4",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "说清楚了吗？欢迎留言提问"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3884,
+    "seg_id": "S1-L1",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "睡不好？先别乱吃药",
+    "template": "hero_text",
+    "items": [
+      "躺下去却翻来覆去睡不着"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3885,
+    "seg_id": "S1-L2",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "睡不好？先别乱吃药",
+    "template": "hero_text",
+    "items": [
+      "睡够八小时还是昏昏沉沉"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3886,
+    "seg_id": "S1-L3",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "睡不好？先别乱吃药",
+    "template": "myth_buster",
+    "items": [
+      "失眠买褪黑素吃安眠药对付",
+      "睡不好远没有那么简单"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3887,
+    "seg_id": "S1-L4",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "睡不好？先别乱吃药",
+    "template": "hero_text",
+    "items": [
+      "临床四种睡眠障碍逐一讲清"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3888,
+    "seg_id": "S2-L1",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "hero_text",
+    "items": [
+      "入睡困难型——脑子关不了机"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3889,
+    "seg_id": "S2-L2",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "number_center",
+    "items": [
+      "1小时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3890,
+    "seg_id": "S2-L3",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "hero_text",
+    "items": [
+      "脑子放电影越想越清醒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3891,
+    "seg_id": "S2-L4",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "brick_stack",
+    "items": [
+      "焦虑压力大持续积累",
+      "睡前刷手机大脑兴奋",
+      "大脑未建立睡眠条件反射"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3892,
+    "seg_id": "S2-L5",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "step_arrow",
+    "items": [
+      "床只用来睡觉",
+      "躺下20分钟睡不着就起来",
+      "困了再回床躺下"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3893,
+    "seg_id": "S2-L6",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "list_fade",
+    "items": [
+      "不在床上玩手机看电视",
+      "起来做枯燥的事等困意"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3894,
+    "seg_id": "S2-L7",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第一型：脑子关不了机",
+    "template": "hero_text",
+    "items": [
+      "认知行为疗法是首选非安眠药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3895,
+    "seg_id": "S3-L1",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第二型：一晚醒好几回",
+    "template": "hero_text",
+    "items": [
+      "睡眠维持障碍——夜里醒好几回"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3896,
+    "seg_id": "S3-L2",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第二型：一晚醒好几回",
+    "template": "list_fade",
+    "items": [
+      "睡着了但不踏实夜里醒两三次",
+      "醒了半天才能再睡着"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3897,
+    "seg_id": "S3-L3",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第二型：一晚醒好几回",
+    "template": "hero_text",
+    "items": [
+      "中老年人中尤为常见"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3898,
+    "seg_id": "S3-L4",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第二型：一晚醒好几回",
+    "template": "color_grid",
+    "items": [
+      "夜尿增多",
+      "打呼噜憋气",
+      "更年期潮热",
+      "焦虑情绪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3899,
+    "seg_id": "S3-L5",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第二型：一晚醒好几回",
+    "template": "warning_alert",
+    "items": [
+      "夜里憋醒晨起口干白天犯困",
+      "警惕睡眠呼吸暂停综合征"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3900,
+    "seg_id": "S3-L6",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第二型：一晚醒好几回",
+    "template": "step_arrow",
+    "items": [
+      "夜间反复缺氧",
+      "长期损伤心脏与大脑",
+      "需做睡眠监测明确诊断"
+    ],
+    "needs_animation": true,
+    "label": "睡眠呼吸暂停反复缺氧损伤心脑过程"
+  },
+  {
+    "global_index": 3901,
+    "seg_id": "S4-L1",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第三型：凌晨早醒",
+    "template": "hero_text",
+    "items": [
+      "早醒型——凌晨三四点就醒了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3902,
+    "seg_id": "S4-L2",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第三型：凌晨早醒",
+    "template": "hero_text",
+    "items": [
+      "看天慢慢亮起来心里又急又烦"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3903,
+    "seg_id": "S4-L3",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第三型：凌晨早醒",
+    "template": "warning_alert",
+    "items": [
+      "早醒与抑郁状态关系密切"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3904,
+    "seg_id": "S4-L4",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第三型：凌晨早醒",
+    "template": "list_fade",
+    "items": [
+      "情绪持续低落",
+      "对事物提不起兴趣",
+      "食欲明显下降"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3905,
+    "seg_id": "S4-L5",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第三型：凌晨早醒",
+    "template": "step_arrow",
+    "items": [
+      "不要只当失眠处理",
+      "找心理科或神经内科评估情绪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3906,
+    "seg_id": "S5-L1",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第四型：睡够了还是累",
+    "template": "hero_text",
+    "items": [
+      "非恢复性睡眠——睡够还是累"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3907,
+    "seg_id": "S5-L2",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第四型：睡够了还是累",
+    "template": "number_center",
+    "items": [
+      "8小时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3908,
+    "seg_id": "S5-L3",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第四型：睡够了还是累",
+    "template": "hero_text",
+    "items": [
+      "深度睡眠不足大脑未真正休息"
+    ],
+    "needs_animation": true,
+    "label": "睡眠周期深度睡眠阶段大脑修复机制"
+  },
+  {
+    "global_index": 3909,
+    "seg_id": "S5-L4",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第四型：睡够了还是累",
+    "template": "brick_stack",
+    "items": [
+      "长期焦虑情绪积累",
+      "睡眠节律紊乱",
+      "深度睡眠比例严重不足"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3910,
+    "seg_id": "S5-L5",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "第四型：睡够了还是累",
+    "template": "hero_text",
+    "items": [
+      "睡眠时长够但质量出了问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3911,
+    "seg_id": "S6-L1",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "褪黑素到底有没有用",
+    "template": "hero_text",
+    "items": [
+      "褪黑素到底有没有用？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3912,
+    "seg_id": "S6-L2",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "褪黑素到底有没有用",
+    "template": "myth_buster",
+    "items": [
+      "褪黑素是安眠药失眠都能吃",
+      "褪黑素只调节节律非安眠药"
+    ],
+    "needs_animation": true,
+    "label": "褪黑素调节昼夜节律机制"
+  },
+  {
+    "global_index": 3913,
+    "seg_id": "S6-L3",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "褪黑素到底有没有用",
+    "template": "split_column",
+    "items": [
+      "倒时差人群适用",
+      "普通失眠效果有限",
+      "老年人褪黑素减少适用",
+      "其他类型失眠作用微弱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3914,
+    "seg_id": "S6-L4",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "褪黑素到底有没有用",
+    "template": "hero_text",
+    "items": [
+      "对大多数失眠褪黑素效果有限"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3915,
+    "seg_id": "S7-L1",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "睡不好怎么办",
+    "template": "hero_text",
+    "items": [
+      "三条建议真正解决睡眠问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3916,
+    "seg_id": "S7-L2",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "睡不好怎么办",
+    "template": "step_arrow",
+    "items": [
+      "认知行为疗法建立睡眠关联",
+      "不困不上床床只留给睡眠"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3917,
+    "seg_id": "S7-L3",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "睡不好怎么办",
+    "template": "category_table",
+    "items": [
+      "管入睡类适合短期使用",
+      "管维持睡眠类适合长期使用",
+      "需医生评估后再用药",
+      "乱用影响记忆力产生依赖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3918,
+    "seg_id": "S7-L4",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "睡不好怎么办",
+    "template": "warning_alert",
+    "items": [
+      "切勿自行购买乱服安眠药",
+      "依赖风险与记忆损伤不可忽视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3919,
+    "seg_id": "S7-L5",
+    "bp_title": "四种睡眠障碍，你是哪一种？",
+    "scene_title": "睡不好怎么办",
+    "template": "hero_text",
+    "items": [
+      "合并焦虑抑郁须对症治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

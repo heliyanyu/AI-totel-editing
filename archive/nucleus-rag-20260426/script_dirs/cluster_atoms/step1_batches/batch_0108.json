@@ -1,0 +1,567 @@
+[
+  {
+    "global_index": 4320,
+    "seg_id": "S3-L1",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "减重与逆转的关系",
+    "template": "hero_text",
+    "items": [
+      "第一步：减重"
+    ],
+    "atoms_text": "第一 减重",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4321,
+    "seg_id": "S3-L2",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "减重与逆转的关系",
+    "template": "step_arrow",
+    "items": [
+      "内脏脂肪堆积在肝脏和腹部",
+      "脂肪让细胞拒绝响应胰岛素",
+      "内脏脂肪是最大元凶"
+    ],
+    "atoms_text": "这胰岛素抵抗呢 它跟内脏脂肪的关系 非常的密切 你肚子上 肝脏上 堆积的那些脂肪 就是 让细胞对胰岛素不买账的 最大元凶",
+    "needs_animation": true,
+    "label": "内脏脂肪堆积在肝脏和腹部导致细胞对胰岛素产生抵抗"
+  },
+  {
+    "global_index": 4322,
+    "seg_id": "S3-L3",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "减重与逆转的关系",
+    "template": "split_column",
+    "items": [
+      "减重超过15%",
+      "减重不足5%",
+      "超80%血糖恢复正常",
+      "几乎没有改善"
+    ],
+    "atoms_text": "有一个很著名的英国研究啊 让确诊不超过六年的 二型糖尿病人 严格的减重 那减掉百分之十五以上体重的人呢 超过百分之八十 他这个血糖 恢复了正常 但减不到百分之五的 基本上没有什么改善",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4323,
+    "seg_id": "S3-L4",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "减重与逆转的关系",
+    "template": "warning_alert",
+    "items": [
+      "随便减两斤远远不够",
+      "必须真正减掉内脏脂肪"
+    ],
+    "atoms_text": "所以啊 不是随便 减两斤就行 你得真的 把这个内脏脂肪 减下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4324,
+    "seg_id": "S4-L1",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "运动改善胰岛素敏感性",
+    "template": "hero_text",
+    "items": [
+      "第二步：运动"
+    ],
+    "atoms_text": "第二个 运动 运动呢 对胰岛素敏感性的改善呢 是立竿见影的 特别是 这力量训练",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4325,
+    "seg_id": "S4-L2",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "运动改善胰岛素敏感性",
+    "template": "split_column",
+    "items": [
+      "有氧运动",
+      "力量训练",
+      "消耗血糖改善循环",
+      "直接提升胰岛素敏感性"
+    ],
+    "atoms_text": "那肌肉呢 是消耗血糖的大户 有氧加力量 那每周呢 至少是五天 每次呢 半个小时 就可以了",
+    "needs_animation": true,
+    "label": "肌肉细胞消耗血糖的过程"
+  },
+  {
+    "global_index": 4326,
+    "seg_id": "S5-L1",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "饮食调整方案",
+    "template": "split_column",
+    "items": [
+      "精米白面",
+      "粗粮杂粮",
+      "含糖饮料",
+      "蔬菜优质蛋白"
+    ],
+    "atoms_text": "第三个 也是调整 少吃那个精米面啊 还有含糖的饮料 多吃 粗粮蔬菜 优质蛋白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4327,
+    "seg_id": "S6-L1",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "胰岛功能损毁后的现实",
+    "template": "warning_alert",
+    "items": [
+      "患病多年，胰岛功能严重下降",
+      "逆转的窗口已经关闭"
+    ],
+    "atoms_text": "但是我必须把话说清楚 如果呀 你已经得了很多年糖尿病 你的胰岛功能 已经严重下降 你的工人呢 已经累死的罢工 那逆转的可能性 就已经很小了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4328,
+    "seg_id": "S6-L2",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "胰岛功能损毁后的现实",
+    "template": "hero_text",
+    "items": [
+      "老老实实吃药控糖，防止并发症"
+    ],
+    "atoms_text": "这时候 你需要做的呢 就不再是 追求什么逆转啊 因为它已经逆转不了了 而是 老老实实的吃药 你该打胰岛素 打胰岛素 咱们把血糖控制好 防止并发症",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4329,
+    "seg_id": "S7-L1",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "逆转三大条件总结",
+    "template": "hero_text",
+    "items": [
+      "糖尿病逆转需满足三个条件"
+    ],
+    "atoms_text": "所以啊 总结一下 就是糖尿病逆转呢 有三个条件",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4330,
+    "seg_id": "S7-L2",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "逆转三大条件总结",
+    "template": "number_center",
+    "items": [
+      "糖尿病前期或刚确诊"
+    ],
+    "atoms_text": "第一 你得早 最好是糖尿病前期 或者刚刚确诊的啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4331,
+    "seg_id": "S7-L3",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "逆转三大条件总结",
+    "template": "hero_text",
+    "items": [
+      "查C肽评估胰岛功能是否尚可"
+    ],
+    "atoms_text": "第二个 胰岛功能还行的 可以去查一个C肽 来评估",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4332,
+    "seg_id": "S7-L4",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "逆转三大条件总结",
+    "template": "hero_text",
+    "items": [
+      "真下功夫改变生活方式减重"
+    ],
+    "atoms_text": "第三个 你得真下功夫啊 来改变你的生活方式 特别是减重",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4333,
+    "seg_id": "S7-L5",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "逆转三大条件总结",
+    "template": "branch_path",
+    "items": [
+      "三个条件是否都满足？",
+      "全力以赴，争取逆转",
+      "好好吃药，定期复查"
+    ],
+    "atoms_text": "这三个条件都得满足 那咱们再努力一把啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4334,
+    "seg_id": "S7-L6",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "逆转三大条件总结",
+    "template": "hero_text",
+    "items": [
+      "控制好血糖，同样可以活得很好"
+    ],
+    "atoms_text": "如果胰岛功能已经很差了 那咱就别被噱头忽悠了 好好吃药呗 定期复查 那一样可以活得很好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4335,
+    "seg_id": "S8-L1",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "结语金句",
+    "template": "hero_text",
+    "items": [
+      "决定生活质量的是你面对疾病的态度"
+    ],
+    "atoms_text": "不管能不能逆转呢 决定你生活质量的 从来都不是那个诊断 而是 你面对它的态度 懂了吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4336,
+    "seg_id": "S1-L1",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "你真的了解奥美拉唑吗",
+    "template": "hero_text",
+    "items": [
+      "家里有奥美拉唑？今天必须听完"
+    ],
+    "atoms_text": "你家里有奥美拉唑吗 或者你自己正在吃 今天这个话题 你一定要听完",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4337,
+    "seg_id": "S1-L2",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "你真的了解奥美拉唑吗",
+    "template": "vertical_timeline",
+    "items": [
+      "烧心反酸不舒服",
+      "自行去药房买奥美拉唑",
+      "吃了半年、一年甚至更久",
+      "觉得好用，停不下来"
+    ],
+    "atoms_text": "我在门诊 经常碰到这种人 他说他胃不舒服 哎 烧心反酸 然后去药房 哎 买了盒奥美拉唑 吃完之后啊 确实管用 然后啊 他就一直吃 半年一年两三年 觉得这药好使 他就停不下来了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4338,
+    "seg_id": "S1-L3",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "你真的了解奥美拉唑吗",
+    "template": "hero_text",
+    "items": [
+      "谁让你买的？我自己买的"
+    ],
+    "atoms_text": "我每次问 哎 谁让你买的 他说 嗯 我自己买的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4339,
+    "seg_id": "S1-L4",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "你真的了解奥美拉唑吗",
+    "template": "warning_alert",
+    "items": [
+      "以为胃好了，其实可能更差了"
+    ],
+    "atoms_text": "说实话 这种时候我也挺着急的 你以为啊 胃好了 其实可能是更差了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4340,
+    "seg_id": "S2-L1",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "胃酸被压住后发生了什么",
+    "template": "step_arrow",
+    "items": [
+      "按住胃里产酸的开关",
+      "胃酸分泌减少",
+      "烧心症状暂时消失"
+    ],
+    "atoms_text": "奥美拉唑呀 是干啥的 它是把你胃里边这个产酸的开关给按住了 酸少了 你当然不烧心了",
+    "needs_animation": true,
+    "label": "奥美拉唑抑制胃壁细胞质子泵关闭产酸开关"
+  },
+  {
+    "global_index": 4341,
+    "seg_id": "S2-L2",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "胃酸被压住后发生了什么",
+    "template": "split_column",
+    "items": [
+      "胃酸是坏东西要压制",
+      "胃酸是蛋白质消化必需品",
+      "没有胃酸更健康",
+      "缺乏胃酸蛋白质无法消化"
+    ],
+    "atoms_text": "但是你不用想 过胃酸呢 它不是你的敌人 你吃进去的蛋白质 它呀 得靠胃酸来消化 没有足够的酸 这个蛋白质 它就消化不掉",
+    "needs_animation": true,
+    "label": "胃酸分解消化蛋白质的过程"
+  },
+  {
+    "global_index": 4342,
+    "seg_id": "S2-L3",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "胃酸被压住后发生了什么",
+    "template": "hero_text",
+    "items": [
+      "胃酸是你胃里的保安"
+    ],
+    "atoms_text": "而且胃酸呢 是你胃里边的保安 跟着食物啊进来的细菌呐 还有乱七八糟的东西 全靠胃酸把它干掉",
+    "needs_animation": true,
+    "label": "胃酸杀灭随食物进入胃内细菌的防御机制"
+  },
+  {
+    "global_index": 4343,
+    "seg_id": "S2-L4",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "胃酸被压住后发生了什么",
+    "template": "step_arrow",
+    "items": [
+      "胃酸被压制，保安下班",
+      "细菌在胃里安家落户",
+      "腹胀嗳气、吃东西堵",
+      "菌群紊乱被误认为胃动力差"
+    ],
+    "atoms_text": "你现在把酸给压住了 保安下班了 那细菌呢 在你胃里边安了家 你可能就会觉得 哎 这肚子呀 老是胀气嗳气 吃点东西就堵得慌 以为啊 是胃动力不好 其实啊 你胃里边这个菌群 已经乱了",
+    "needs_animation": true,
+    "label": "胃酸被抑制后细菌在胃内定植导致菌群紊乱"
+  },
+  {
+    "global_index": 4344,
+    "seg_id": "S3-L1",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "营养吸收的隐形损失",
+    "template": "brick_stack",
+    "items": [
+      "钙——骨骼健康基础",
+      "铁——血液携氧必需",
+      "维生素B12——神经代谢关键",
+      "镁——肌肉功能支撑"
+    ],
+    "atoms_text": "还有一笔账啊 很多人也没有算过 这个钙铁维生素B12镁 这些东西的吸收 都得靠胃酸去帮忙 你把胃酸给压住了 那这些营养素的吸收 就大打折扣了",
+    "needs_animation": true,
+    "label": "胃酸参与钙铁维生素B12镁的吸收过程被抑制"
+  },
+  {
+    "global_index": 4345,
+    "seg_id": "S3-L2",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "营养吸收的隐形损失",
+    "template": "step_arrow",
+    "items": [
+      "长期吃奥美拉唑压胃酸",
+      "营养吸收通路被堵住",
+      "查出缺钙缺B12缺镁",
+      "怎么补都补不上来"
+    ],
+    "atoms_text": "那有人吃了一两年的奥美拉唑 开始觉得呀 容易累 头晕 腿抽筋 结果去查呀 缺钙 缺维生素B12 缺镁 那补了半天呢 也补不上来 你吸收的那条路啊 它自己给堵上了 光往里倒 有什么用呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4346,
+    "seg_id": "S3-L3",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "营养吸收的隐形损失",
+    "template": "warning_alert",
+    "items": [
+      "长期缺钙慢慢掏空骨头",
+      "骨折风险明显增加，治胃赔骨头"
+    ],
+    "atoms_text": "缺钙这件事 不是你一时半会难受 哎 它是在慢慢的掏空你的骨头 长期吃这类药 这个骨折风险是会增加的 说你本来是治胃的啊 结果呀 把骨头给搭进去了 这笔账怎么算 它都不划算",
+    "needs_animation": true,
+    "label": "长期缺钙导致骨密度逐渐流失骨折风险增加"
+  },
+  {
+    "global_index": 4347,
+    "seg_id": "S4-L1",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "停药为什么那么难",
+    "template": "hero_text",
+    "items": [
+      "想停还真停不下来——胃酸反弹"
+    ],
+    "atoms_text": "更麻烦的是 你想停 还真停不下来 这个药啊 有一个问题 叫胃酸反弹",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4348,
+    "seg_id": "S4-L2",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "停药为什么那么难",
+    "template": "step_arrow",
+    "items": [
+      "长期抑酸，胃被压制",
+      "胃持续努力多产酸来对抗",
+      "停药后产酸能力猛烈反弹",
+      "烧心反酸比吃药前更严重"
+    ],
+    "atoms_text": "你吃了那么长时间 这个胃呀 一直压着不让它产酸 它被憋坏了 天天想着多产一点 来对抗它",
+    "needs_animation": true,
+    "label": "长期抑酸后胃壁细胞代偿性增生试图对抗药物"
+  },
+  {
+    "global_index": 4349,
+    "seg_id": "S4-L3",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "停药为什么那么难",
+    "template": "branch_path",
+    "items": [
+      "停药后出现反弹难受",
+      "继续吃药，陷入依赖循环",
+      "找医生制定减量方案，逐步脱离"
+    ],
+    "atoms_text": "一旦你啊 把这个药停了 那个被压了很久的产酸能力 一下子反弹回来 这个胃酸呢 可能比吃药之前还多 烧心呢 反酸 要比以前还厉害",
+    "needs_animation": true,
+    "label": "停药后被压制的产酸能力反弹胃酸大量分泌"
+  },
+  {
+    "global_index": 4350,
+    "seg_id": "S4-L4",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "停药为什么那么难",
+    "template": "hero_text",
+    "items": [
+      "越吃越停不下来，药物依赖陷阱"
+    ],
+    "atoms_text": "很多人呢 就是因为这个陷阱啊 停了之后呢 就难受 那就继续吃呗 越吃越停不下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4351,
+    "seg_id": "S5-L1",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "正确的解决路径",
+    "template": "hero_text",
+    "items": [
+      "别慌，有办法——关键两步走"
+    ],
+    "atoms_text": "那怎么办呢 别慌啊 有办法 关键两条",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4352,
+    "seg_id": "S5-L2",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "正确的解决路径",
+    "template": "step_arrow",
+    "items": [
+      "找消化科医生评估用药情况",
+      "从每天一次减到隔天一次",
+      "逐步拉长间隔，让胃慢慢适应"
+    ],
+    "atoms_text": "第一个 你不要自己停 也不要自己闷头一直吃 你去找消化科 让医生给你看一下 哎 你吃了多久 什么剂量 医生呢 会给你一个逐步减量的方案 那比如 从每天啊一次 减到隔天一次 再慢慢的拉长这个时间距离 让你这个胃啊 有时间去适应新的环境",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4353,
+    "seg_id": "S5-L3",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "正确的解决路径",
+    "template": "step_arrow",
+    "items": [
+      "吹碳13呼气试验检测幽门螺杆菌",
+      "检测前需停用奥美拉唑至少一周",
+      "发现感染，进行规范杀菌治疗"
+    ],
+    "atoms_text": "第二个 如果你一直在吃奥美拉唑 但从来没有查过幽门螺旋杆菌 建议啊 咱们去吹个气儿啊 碳13呼气 那个也不难受 因为啊 有些人反复的烧心反酸 这个根源呢 其实是幽门螺杆菌在捣乱 当然 你做这个吹气试验的时候 要把这个奥美拉唑 至少停一周以上 嗯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4354,
+    "seg_id": "S5-L4",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "正确的解决路径",
+    "template": "hero_text",
+    "items": [
+      "菌杀掉了，才不需要一直靠药压着"
+    ],
+    "atoms_text": "那个 把这个菌杀掉了 这个胃的问题呢 才可以解决 根本呢 不需要一直靠奥美拉唑来压着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4355,
+    "seg_id": "S6-L1",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "治胃的本质",
+    "template": "myth_buster",
+    "items": [
+      "天天吃药压住症状",
+      "找到根本原因真正解决"
+    ],
+    "atoms_text": "你把原因解决了 这个才是真正治胃的 你天天吃药压症状 那不叫治 那叫糊弄 我说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4356,
+    "seg_id": "S1-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "甲内科张医生"
+    ],
+    "atoms_text": "大家好 我是 甲内科的 张医生",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4357,
+    "seg_id": "S1-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "阿托伐他汀",
+      "瑞舒伐他汀",
+      "临床王牌双子星"
+    ],
+    "atoms_text": "嗯 很多 高血脂的朋友啊 都吃过 他汀的药物 其中啊 阿托伐他汀 和 瑞舒伐他汀呢 是 临床上的 王牌双子星",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4358,
+    "seg_id": "S1-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "一分钟讲清两药区别"
+    ],
+    "atoms_text": "那很多患者问呢 那这两个药啊 到底有什么区别 哪个更好啊 今天 一分钟的时间 再跟大家讲清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4359,
+    "seg_id": "S2-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "形象类比",
+    "template": "hero_text",
+    "items": [
+      "坏胆固醇 = 血管里的油污"
+    ],
+    "atoms_text": "咱们呀 可以把 血管里的坏胆固醇 想象为 厨房里的油污",
+    "needs_animation": false,
+    "label": ""
+  }
+]

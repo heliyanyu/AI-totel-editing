@@ -1,0 +1,525 @@
+[
+  {
+    "global_index": 280,
+    "seg_id": "S7-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "总结提醒",
+    "template": "hero_text",
+    "items": [
+      "吃好他汀，管好自己，才是真的护心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 281,
+    "seg_id": "S7-L4",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "总结提醒",
+    "template": "list_fade",
+    "items": [
+      "好了",
+      "今天就念到这么多",
+      "知道了吗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 282,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "别乱查心脏",
+    "template": "hero_text",
+    "items": [
+      "心脏不舒服，想查全一点"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 283,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "别乱查心脏",
+    "template": "warning_alert",
+    "items": [
+      "花大几千，很多检查根本不需要"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 284,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "别乱查心脏",
+    "template": "hero_text",
+    "items": [
+      "搞清楚什么情况做什么检查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 285,
+    "seg_id": "S1-L4",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "别乱查心脏",
+    "template": "warning_alert",
+    "items": [
+      "有几种情况不考虑检查，直接急诊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 286,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "这些症状直接急诊",
+    "template": "list_fade",
+    "items": [
+      "胸口剧烈疼痛超过15分钟",
+      "疼痛时大汗淋漓、恶心呕吐",
+      "突然晕倒",
+      "呼吸困难、喘不上气"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 287,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "这些症状直接急诊",
+    "template": "brick_stack",
+    "items": [
+      "急性心肌梗死",
+      "主动脉夹层",
+      "严重心室颤动"
+    ],
+    "needs_animation": true,
+    "label": "急性心血管急症病理对比（心肌梗死/主动脉夹层/心室颤动）"
+  },
+  {
+    "global_index": 288,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "这些症状直接急诊",
+    "template": "hero_text",
+    "items": [
+      "别纠结挂什么科，直接打120"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 289,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "普通心脏不适怎么查",
+    "template": "hero_text",
+    "items": [
+      "排除危急情况，再说普通的怎么查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 290,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第一步：心电图",
+    "template": "step_arrow",
+    "items": [
+      "记录心脏电活动是否正常",
+      "发现早搏、传导阻滞、缺血迹象",
+      "两分钟完成，价格低廉"
+    ],
+    "needs_animation": true,
+    "label": "心电图记录心脏电活动过程"
+  },
+  {
+    "global_index": 291,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第一步：心电图",
+    "template": "warning_alert",
+    "items": [
+      "只记录检查那几十秒，阵发问题易漏检"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 292,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第一步：心电图",
+    "template": "branch_path",
+    "items": [
+      "心慌一阵一阵，心电图未见异常",
+      "需要做动态心电图",
+      "心电图有发现，对症处理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 293,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第二步：动态心电图",
+    "template": "step_arrow",
+    "items": [
+      "身上贴电极片，背小盒子",
+      "连续记录整整24小时心跳"
+    ],
+    "needs_animation": true,
+    "label": "动态心电图24小时监测过程"
+  },
+  {
+    "global_index": 294,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第二步：动态心电图",
+    "template": "list_fade",
+    "items": [
+      "阵发性房颤",
+      "室上性心动过速",
+      "频繁早搏"
+    ],
+    "needs_animation": true,
+    "label": "心律失常类型（房颤/室上速/早搏）电活动示意"
+  },
+  {
+    "global_index": 295,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第三步：心脏彩超",
+    "template": "list_fade",
+    "items": [
+      "心脏大小是否正常",
+      "瓣膜有无问题",
+      "心肌收缩力是否充足",
+      "有无心包积液"
+    ],
+    "needs_animation": true,
+    "label": "心脏彩超评估结构（瓣膜/心肌/心包）"
+  },
+  {
+    "global_index": 296,
+    "seg_id": "S6-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第三步：心脏彩超",
+    "template": "split_column",
+    "items": [
+      "活动后气喘或腿肿",
+      "躺着做，几十分钟完成",
+      "怀疑心功能不好必须做",
+      "价格不贵，无创无痛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 297,
+    "seg_id": "S7-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第四步：心肌标志物",
+    "template": "list_fade",
+    "items": [
+      "肌钙蛋白",
+      "BNP"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 298,
+    "seg_id": "S7-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第四步：心肌标志物",
+    "template": "step_arrow",
+    "items": [
+      "肌钙蛋白升高",
+      "提示心肌可能损伤",
+      "排除心梗最关键指标"
+    ],
+    "needs_animation": true,
+    "label": "心肌损伤后肌钙蛋白释放机制"
+  },
+  {
+    "global_index": 299,
+    "seg_id": "S7-L3",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第四步：心肌标志物",
+    "template": "step_arrow",
+    "items": [
+      "BNP升高",
+      "心脏负担较重",
+      "可能提示心力衰竭"
+    ],
+    "needs_animation": true,
+    "label": "心力衰竭时BNP释放机制"
+  },
+  {
+    "global_index": 300,
+    "seg_id": "S7-L4",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第四步：心肌标志物",
+    "template": "hero_text",
+    "items": [
+      "胸痛来急，医生第一时间抽血查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 301,
+    "seg_id": "S8-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "四项基础检查足够了",
+    "template": "color_grid",
+    "items": [
+      "心电图",
+      "动态心电图",
+      "心脏彩超",
+      "心肌标志物"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 302,
+    "seg_id": "S8-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "四项基础检查足够了",
+    "template": "number_center",
+    "items": [
+      "80%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 303,
+    "seg_id": "S9-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "什么时候需要进一步查",
+    "template": "brick_stack",
+    "items": [
+      "基础检查提示心肌缺血",
+      "高血压糖尿病抽烟等高危因素",
+      "年龄45岁以上"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 304,
+    "seg_id": "S9-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "什么时候需要进一步查",
+    "template": "split_column",
+    "items": [
+      "冠脉CT：无创，筛查血管狭窄",
+      "冠脉造影：有创，评估最准确",
+      "适合初步评估高危人群",
+      "该做时不要抗拒"
+    ],
+    "needs_animation": true,
+    "label": "冠脉CT与冠脉造影检查过程对比"
+  },
+  {
+    "global_index": 305,
+    "seg_id": "S10-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "总结记住这三点",
+    "template": "warning_alert",
+    "items": [
+      "胸痛剧烈、大汗、晕倒、喘不上气→急诊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 306,
+    "seg_id": "S10-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "总结记住这三点",
+    "template": "list_fade",
+    "items": [
+      "心电图",
+      "动态心电图",
+      "心脏彩超",
+      "心肌标志物"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 307,
+    "seg_id": "S10-L3",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "总结记住这三点",
+    "template": "hero_text",
+    "items": [
+      "别乱猜也别求最贵，一步一步来就对了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 308,
+    "seg_id": "S1-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "胸痛不等于心脏病",
+    "template": "hero_text",
+    "items": [
+      "胸痛一来就慌神？先别急"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 309,
+    "seg_id": "S1-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "胸痛不等于心脏病",
+    "template": "body_annotate",
+    "items": [
+      "心脏",
+      "肺",
+      "肋骨与神经",
+      "胃"
+    ],
+    "needs_animation": true,
+    "label": "胸腔解剖结构标注（心脏/肺/肋骨/胃）"
+  },
+  {
+    "global_index": 310,
+    "seg_id": "S1-L3",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "胸痛不等于心脏病",
+    "template": "hero_text",
+    "items": [
+      "任何部位出问题都可能胸痛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 311,
+    "seg_id": "S1-L4",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "胸痛不等于心脏病",
+    "template": "number_center",
+    "items": [
+      "绝大多数"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 312,
+    "seg_id": "S1-L5",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "胸痛不等于心脏病",
+    "template": "hero_text",
+    "items": [
+      "学会判断胸痛轻重缓急"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 313,
+    "seg_id": "S2-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "最危险的信号",
+    "template": "hero_text",
+    "items": [
+      "先说最危险的胸痛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 314,
+    "seg_id": "S2-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "最危险的信号",
+    "template": "warning_alert",
+    "items": [
+      "出现以下任意一种，立刻拨打120"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 315,
+    "seg_id": "S2-L3",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "最危险的信号",
+    "template": "hero_text",
+    "items": [
+      "早到十分钟，可能是生与死的距离"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 316,
+    "seg_id": "S3-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "急性心肌梗死信号",
+    "template": "brick_stack",
+    "items": [
+      "大汗淋漓、恶心呕吐",
+      "眼前发黑甚至晕倒",
+      "胸口压石头感，喘不上气"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 317,
+    "seg_id": "S3-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "急性心肌梗死信号",
+    "template": "hero_text",
+    "items": [
+      "极大概率是急性心肌梗死"
+    ],
+    "needs_animation": true,
+    "label": "急性心肌梗死发病过程（冠脉阻塞致心肌坏死）"
+  },
+  {
+    "global_index": 318,
+    "seg_id": "S3-L3",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "急性心肌梗死信号",
+    "template": "warning_alert",
+    "items": [
+      "休息完全无效，切勿硬扛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 319,
+    "seg_id": "S4-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "主动脉夹层识别",
+    "template": "step_arrow",
+    "items": [
+      "暴怒或用力瞬间",
+      "前胸连后背，撕裂刀割样剧痛",
+      "疼痛剧烈到无法忍受"
+    ],
+    "needs_animation": true,
+    "label": "主动脉夹层撕裂发病过程"
+  }
+]

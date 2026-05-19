@@ -1,0 +1,554 @@
+[
+  {
+    "global_index": 2600,
+    "seg_id": "S3-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "同病异处",
+    "template": "hero_text",
+    "items": [
+      "同一种病，在不同地方发作"
+    ],
+    "atoms_text": "所以 脑梗和心梗 其实就是 同一种病 在不同地方的表现",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2601,
+    "seg_id": "S3-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "同病异处",
+    "template": "step_arrow",
+    "items": [
+      "斑块堵住冠状动脉",
+      "心肌断血",
+      "心梗发生"
+    ],
+    "atoms_text": "斑块堵在心脏的冠状动脉上 心肌没血了 就是心梗",
+    "needs_animation": true,
+    "label": "斑块堵塞冠状动脉导致心肌缺血"
+  },
+  {
+    "global_index": 2602,
+    "seg_id": "S3-L3",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "同病异处",
+    "template": "step_arrow",
+    "items": [
+      "斑块堵住脑血管",
+      "脑组织断血",
+      "脑梗发生"
+    ],
+    "atoms_text": "斑块堵在脑血管里面 脑组织没血了 就是脑梗",
+    "needs_animation": true,
+    "label": "斑块堵塞脑血管导致脑组织缺血"
+  },
+  {
+    "global_index": 2603,
+    "seg_id": "S3-L4",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "同病异处",
+    "template": "hero_text",
+    "items": [
+      "共同病根：动脉粥样硬化"
+    ],
+    "atoms_text": "病根是一样的 都叫动脉粥样硬化",
+    "needs_animation": true,
+    "label": "动脉粥样硬化形成过程"
+  },
+  {
+    "global_index": 2604,
+    "seg_id": "S4-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "为何发病部位不同",
+    "template": "hero_text",
+    "items": [
+      "哪根管子先扛不住，决定先发哪种"
+    ],
+    "atoms_text": "那为什么 有的人先心梗 有的人先脑梗呢 这就取决于 哪根管子先扛不住",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2605,
+    "seg_id": "S4-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "为何发病部位不同",
+    "template": "list_fade",
+    "items": [
+      "冠状动脉仅约3-4毫米粗",
+      "心脏持续跳动冲击力极大",
+      "特别容易积累斑块"
+    ],
+    "atoms_text": "心脏的冠状动脉 本身就不粗 大概三四毫米 而且 心脏一刻不停的跳 对血管冲击力很大 所以特别容易长斑块",
+    "needs_animation": true,
+    "label": "冠状动脉细小且受心脏搏动冲击易形成斑块"
+  },
+  {
+    "global_index": 2606,
+    "seg_id": "S4-L3",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "为何发病部位不同",
+    "template": "list_fade",
+    "items": [
+      "颈动脉分叉处血流像撞墙",
+      "分叉区是斑块重灾区"
+    ],
+    "atoms_text": "脑血管呢 尤其是颈动脉分叉的地方 血流到那儿 像撞墙一样 也是斑块的重灾区",
+    "needs_animation": true,
+    "label": "颈动脉分叉处血流冲击形成斑块"
+  },
+  {
+    "global_index": 2607,
+    "seg_id": "S5-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "一损俱损",
+    "template": "warning_alert",
+    "items": [
+      "得过心梗，脑梗风险大幅升高",
+      "得过脑梗，心脏同样需要警惕"
+    ],
+    "atoms_text": "但这里有一件事 你一定要知道 得过心梗的人呢 将来脑梗的风险 比普通人高很多 反过来也是一样的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2608,
+    "seg_id": "S5-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "一损俱损",
+    "template": "hero_text",
+    "items": [
+      "病根没变，全身血管都在悄悄长斑块"
+    ],
+    "atoms_text": "为什么呢 因为病根没变啊 你心脏血管能长斑块 说明全身血管环境都不太好 脑袋里的血管 大概率也在悄悄长 只是还没有堵死而已",
+    "needs_animation": true,
+    "label": "全身血管环境差导致多处悄悄生长斑块"
+  },
+  {
+    "global_index": 2609,
+    "seg_id": "S5-L3",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "一损俱损",
+    "template": "split_column",
+    "items": [
+      "心梗术后查颈动脉和脑血管",
+      "脑梗后同步评估心脏状况",
+      "心脏出事",
+      "脑血管同步受累"
+    ],
+    "atoms_text": "所以 医院里心梗的患者 做完手术以后呢 往往会建议 查查颈动脉和脑血管 脑梗的患者 也会关注心脏情况 一损俱损",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2610,
+    "seg_id": "S6-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "预防五件事",
+    "template": "hero_text",
+    "items": [
+      "病根相同，预防方法也一样"
+    ],
+    "atoms_text": "那你能做什么呢 其实因为病根是一样的 预防方法也是一样的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2611,
+    "seg_id": "S6-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "预防五件事",
+    "template": "number_center",
+    "items": [
+      "1"
+    ],
+    "atoms_text": "第一 控制好血压 这是血管损害最直接的原因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2612,
+    "seg_id": "S6-L3",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "预防五件事",
+    "template": "list_fade",
+    "items": [
+      "管好低密度脂蛋白胆固醇",
+      "它是斑块的原材料",
+      "该吃他汀不要硬扛"
+    ],
+    "atoms_text": "第二 管好血脂 尤其是低密度脂蛋白胆固醇 它就是斑块的原材料 该吃他汀的 别扛着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2613,
+    "seg_id": "S6-L4",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "预防五件事",
+    "template": "hero_text",
+    "items": [
+      "糖尿病对血管的伤害是全身持续性的"
+    ],
+    "atoms_text": "第三呢 控制血糖 糖尿病对血管的损害 是全身性的 持续的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2614,
+    "seg_id": "S6-L5",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "预防五件事",
+    "template": "warning_alert",
+    "items": [
+      "烟让斑块更易形成，更易破裂"
+    ],
+    "atoms_text": "第四 戒烟 烟里的有害物质 让斑块更容易形成 也更容易破",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2615,
+    "seg_id": "S6-L6",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "预防五件事",
+    "template": "list_fade",
+    "items": [
+      "每周5天，每次30分钟",
+      "中等强度有氧运动",
+      "不花钱改善全身血管的方法"
+    ],
+    "atoms_text": "第五 运动 每周五天 每次半小时 中等强度有氧运动 几乎是唯一 不花钱就能改善全身血管的方法",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2616,
+    "seg_id": "S7-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "紧急预警信号",
+    "template": "warning_alert",
+    "items": [
+      "突然肢体无力、嘴歪说话含糊→脑梗信号",
+      "突然胸痛出冷汗喘不上气→心梗信号"
+    ],
+    "atoms_text": "最后提醒一句 突然一侧肢体无力 说话含糊 嘴歪了 或者是 突然胸口剧痛 出冷汗 喘不上气 不管哪一种 别等别扛 立刻打幺二零 脑梗心梗 都是跟时间赛跑的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2617,
+    "seg_id": "S8-L1",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "结语收尾",
+    "template": "hero_text",
+    "items": [
+      "同一棵树上结的两颗果子"
+    ],
+    "atoms_text": "总结一下啊 脑梗和心梗 不是两种毫无关系的病 而是 同一棵树上结的两颗果子",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2618,
+    "seg_id": "S8-L2",
+    "bp_title": "脑梗和心梗其实是同一种病",
+    "scene_title": "结语收尾",
+    "template": "brick_stack",
+    "items": [
+      "控血压",
+      "管血脂",
+      "控血糖",
+      "戒烟",
+      "坚持运动"
+    ],
+    "atoms_text": "你与其分别担心 不如把管子管好 血压 血脂 血糖 戒烟 运动 这五件事做到位 两个都能防 懂了吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2619,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "心脏造影危险吗？"
+    ],
+    "atoms_text": "心脏造影检查 危险吗 伤害大不大呀",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2620,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "本视频帮你看清造影真相"
+    ],
+    "atoms_text": "这条视频 不管是你自己 想要做心脏造影 还是给家里人 提前了解 都很有帮助",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2621,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "用数据讲清造影风险",
+      "四招让造影更安全",
+      "看完不再瞎担心"
+    ],
+    "atoms_text": "我给你 把造影的 风险伤害安全性 讲明白 再教你四招 让造影更安全 看完 再也不用 瞎担心瞎纠结了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2622,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "核心结论先行",
+    "template": "hero_text",
+    "items": [
+      "先给你最关键的结论"
+    ],
+    "atoms_text": "首先 我直接给大家 一个最核心的结论",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2623,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "核心结论先行",
+    "template": "hero_text",
+    "items": [
+      "冠脉造影是成熟安全的微创检查"
+    ],
+    "atoms_text": "心脏冠脉造影啊 是一项 非常成熟 非常安全的 微创检查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2624,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "核心结论先行",
+    "template": "number_center",
+    "items": [
+      "极低"
+    ],
+    "atoms_text": "出现很严重的风险 它的概率是很低的 远远低于大家的想象",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2625,
+    "seg_id": "S2-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "核心结论先行",
+    "template": "list_fade",
+    "items": [
+      "临床应用已有几十年",
+      "操作流程规范成熟"
+    ],
+    "atoms_text": "它已经在临床上 应用了几十年 技术非常成熟 操作流程啊 也非常规范",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2626,
+    "seg_id": "S2-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "核心结论先行",
+    "template": "hero_text",
+    "items": [
+      "正规三甲医院+有经验医生=高安全性"
+    ],
+    "atoms_text": "只要是你 在正规的三甲医院 有经验的医生 去操作 安全性是非常高的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2627,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "揭开造影真面目",
+    "template": "myth_buster",
+    "items": [
+      "造影是大手术",
+      "只是微创检查，伤口针眼大小"
+    ],
+    "atoms_text": "很多人害怕造影 是因为 把它当成了大手术",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2628,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "揭开造影真面目",
+    "template": "list_fade",
+    "items": [
+      "不用开刀",
+      "不用全麻",
+      "不用开胸",
+      "全程清醒可与医生交流"
+    ],
+    "atoms_text": "其实它就是 一个微创的检查 伤口只有 针眼那么大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2629,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "揭开造影真面目",
+    "template": "hero_text",
+    "items": [
+      "全程微创，伤口仅有针眼大"
+    ],
+    "atoms_text": "不用开刀 不用全麻 也不用开胸 全程你都是清醒的 还能跟医生聊聊天",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2630,
+    "seg_id": "S3-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "揭开造影真面目",
+    "template": "split_column",
+    "items": [
+      "血管顺直",
+      "几分钟完成",
+      "血管弯曲复杂",
+      "十几到二十分钟"
+    ],
+    "atoms_text": "操作时间很短 碰上血管直溜的 几分钟就能做完",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2631,
+    "seg_id": "S3-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "揭开造影真面目",
+    "template": "hero_text",
+    "items": [
+      "造影时间极短，没想象中漫长"
+    ],
+    "atoms_text": "如果碰上血管 弯弯曲曲的 很复杂的那种 也就十几二十分钟",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2632,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "逐项解析风险",
+    "template": "hero_text",
+    "items": [
+      "接下来逐项用数据讲清每个风险"
+    ],
+    "atoms_text": "接下来 我把大家最担心的 几个风险 一个一个 用数据讲清楚 让你明明白白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2633,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险一：过敏反应",
+    "template": "hero_text",
+    "items": [
+      "风险一：造影剂过敏反应"
+    ],
+    "atoms_text": "第一个风险呢 就是过敏反应",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2634,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险一：过敏反应",
+    "template": "myth_buster",
+    "items": [
+      "担心打造影剂会严重过敏",
+      "现代非离子型造影剂非常安全"
+    ],
+    "atoms_text": "因为要打造影剂啊 有人担心过敏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2635,
+    "seg_id": "S5-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险一：过敏反应",
+    "template": "number_center",
+    "items": [
+      "<0.1%"
+    ],
+    "atoms_text": "其实现在用的造影剂 都是非常安全的 非离子型造影剂",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2636,
+    "seg_id": "S5-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险一：过敏反应",
+    "template": "list_fade",
+    "items": [
+      "医生提前预防轻微过敏反应",
+      "全程实时观察监测状态"
+    ],
+    "atoms_text": "严重过敏的概率 不到千分之一",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2637,
+    "seg_id": "S5-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险一：过敏反应",
+    "template": "hero_text",
+    "items": [
+      "一有问题马上处理，几乎不会有危险"
+    ],
+    "atoms_text": "而且轻微的皮疹 发热的感觉 医生都会提前预防 随时观察",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2638,
+    "seg_id": "S5-L6",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险一：过敏反应",
+    "template": "hero_text",
+    "items": [
+      "过敏风险极低，无需过度担忧"
+    ],
+    "atoms_text": "几乎一有问题马上处理 几乎不会有危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2639,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "hero_text",
+    "items": [
+      "风险二：造影剂会伤肾吗？"
+    ],
+    "atoms_text": "第二个风险呢 造影剂伤肾 这是问的最多的一个问题",
+    "needs_animation": false,
+    "label": ""
+  }
+]

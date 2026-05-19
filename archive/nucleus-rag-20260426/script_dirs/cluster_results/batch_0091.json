@@ -1,0 +1,526 @@
+[
+  {
+    "global_index": 3640,
+    "seg_id": "S6-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透的优势",
+    "template": "list_fade",
+    "items": [
+      "出差旅行带透析液，随时可做",
+      "时间自主安排，生活灵活度高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3641,
+    "seg_id": "S6-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透的优势",
+    "template": "list_fade",
+    "items": [
+      "持续缓慢清毒，心脏冲击小",
+      "内环境平稳，身体波动小"
+    ],
+    "needs_animation": true,
+    "label": "腹膜透析持续清除毒素过程"
+  },
+  {
+    "global_index": 3642,
+    "seg_id": "S6-L3",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透的优势",
+    "template": "hero_text",
+    "items": [
+      "腹透对残余肾功能的保护优于血透"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3643,
+    "seg_id": "S6-L4",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透的优势",
+    "template": "step_arrow",
+    "items": [
+      "肾脏仍有少量残余功能在运作",
+      "腹透不剧烈波动血容量",
+      "残余肾功能保留更久，长期价值高"
+    ],
+    "needs_animation": true,
+    "label": "腹膜透析保护残余肾功能机制"
+  },
+  {
+    "global_index": 3644,
+    "seg_id": "S7-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透的风险与麻烦",
+    "template": "step_arrow",
+    "items": [
+      "每日换液卫生要求极高",
+      "操作不当细菌进入腹腔",
+      "反复腹膜炎导致腹膜功能衰竭"
+    ],
+    "needs_animation": true,
+    "label": "腹膜炎导致腹膜功能衰竭过程"
+  },
+  {
+    "global_index": 3645,
+    "seg_id": "S7-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透的风险与麻烦",
+    "template": "warning_alert",
+    "items": [
+      "透析液含葡萄糖，长期影响血糖血脂",
+      "糖尿病患者尤其需要注意"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3646,
+    "seg_id": "S8-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择方向指引",
+    "template": "hero_text",
+    "items": [
+      "几个明确方向帮你做决定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3647,
+    "seg_id": "S8-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择方向指引",
+    "template": "color_grid",
+    "items": [
+      "在校在职、自理能力强",
+      "愿意学习操作流程"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3648,
+    "seg_id": "S8-L3",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择方向指引",
+    "template": "color_grid",
+    "items": [
+      "年纪大、手脚不便",
+      "家中无人协助换液操作"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3649,
+    "seg_id": "S8-L4",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择方向指引",
+    "template": "split_column",
+    "items": [
+      "心脏差、血压不稳、血管条件差",
+      "腹透更适合，冲击小更平稳",
+      "身体条件较好、能耐受波动",
+      "血透清除效率更有优势"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3650,
+    "seg_id": "S8-L5",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择方向指引",
+    "template": "hero_text",
+    "items": [
+      "血透效率更有优势"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3651,
+    "seg_id": "S9-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择不是终身绑定",
+    "template": "hero_text",
+    "items": [
+      "血透和腹透可以互相转换"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3652,
+    "seg_id": "S9-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择不是终身绑定",
+    "template": "vertical_timeline",
+    "items": [
+      "腹透阶段：在家操作，灵活透析",
+      "腹膜衰竭时：转换为血透继续治疗",
+      "血管条件变差时：可考虑转腹透"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3653,
+    "seg_id": "S9-L3",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择不是终身绑定",
+    "template": "hero_text",
+    "items": [
+      "认真管理自己，比纠结选哪个重要百倍"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3654,
+    "seg_id": "S10-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "最终总结升华",
+    "template": "list_fade",
+    "items": [
+      "血透管理好的人，精神状态堪比健康人",
+      "腹透到位的人，数年未发一次腹膜炎"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3655,
+    "seg_id": "S10-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "最终总结升华",
+    "template": "hero_text",
+    "items": [
+      "关键不在选哪种，而在你有没有认真对待自己"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3656,
+    "seg_id": "S10-L3",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "最终总结升华",
+    "template": "hero_text",
+    "items": [
+      "今天就说到这儿，懂了吧"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3657,
+    "seg_id": "S1-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "症状引入",
+    "template": "hero_text",
+    "items": [
+      "骨缝疼、全身痒，是透析的正常反应吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3658,
+    "seg_id": "S1-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "症状引入",
+    "template": "warning_alert",
+    "items": [
+      "身体里有东西在悄悄搞破坏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3659,
+    "seg_id": "S2-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢发病机制",
+    "template": "body_annotate",
+    "items": [
+      "颈后绿豆大小的腺体",
+      "调节骨钙",
+      "调节血磷"
+    ],
+    "needs_animation": true,
+    "label": "甲状旁腺解剖位置与功能"
+  },
+  {
+    "global_index": 3660,
+    "seg_id": "S2-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢发病机制",
+    "template": "step_arrow",
+    "items": [
+      "肾脏排出多余的磷",
+      "激活维生素D吸收钙",
+      "甲状旁腺轻松正常工作"
+    ],
+    "needs_animation": true,
+    "label": "肾脏调节钙磷代谢正常通路"
+  },
+  {
+    "global_index": 3661,
+    "seg_id": "S2-L3",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢发病机制",
+    "template": "step_arrow",
+    "items": [
+      "肾脏罢工，磷越积越多",
+      "钙补不进来，身体告急",
+      "甲状旁腺被迫去骨头里抢钙"
+    ],
+    "needs_animation": true,
+    "label": "肾衰竭后继发性甲旁亢发病机制"
+  },
+  {
+    "global_index": 3662,
+    "seg_id": "S2-L4",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢发病机制",
+    "template": "brick_stack",
+    "items": [
+      "长期超负荷加班",
+      "激素分泌越来越停不下来",
+      "PTH严重超标"
+    ],
+    "needs_animation": true,
+    "label": "甲状旁腺增生与PTH过度分泌"
+  },
+  {
+    "global_index": 3663,
+    "seg_id": "S2-L5",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢发病机制",
+    "template": "number_center",
+    "items": [
+      "PTH严重超标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3664,
+    "seg_id": "S3-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢危害全景",
+    "template": "warning_alert",
+    "items": [
+      "觉得\"高就高呗\"，非常危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3665,
+    "seg_id": "S3-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢危害全景",
+    "template": "step_arrow",
+    "items": [
+      "激素持续拆骨头里的钙",
+      "骨头变嫩如豆腐渣",
+      "打个喷嚏都可能骨折"
+    ],
+    "needs_animation": true,
+    "label": "PTH介导的骨质吸收与骨质疏松"
+  },
+  {
+    "global_index": 3666,
+    "seg_id": "S3-L3",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢危害全景",
+    "template": "step_arrow",
+    "items": [
+      "钙磷沉积到血管壁",
+      "血管像水垢一样变硬",
+      "心脏病、脑中风风险大增"
+    ],
+    "needs_animation": true,
+    "label": "钙磷沉积导致血管钙化过程"
+  },
+  {
+    "global_index": 3667,
+    "seg_id": "S3-L4",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "甲旁亢危害全景",
+    "template": "list_fade",
+    "items": [
+      "全身皮肤瘙痒难忍",
+      "夜间睡不着觉",
+      "走路像踩棉花"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3668,
+    "seg_id": "S4-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "应对思路开篇",
+    "template": "hero_text",
+    "items": [
+      "思路清晰，一步步来对付它"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3669,
+    "seg_id": "S5-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "hero_text",
+    "items": [
+      "管住嘴，控磷是第一步"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3670,
+    "seg_id": "S5-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "hero_text",
+    "items": [
+      "加工程度越高，磷越危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3671,
+    "seg_id": "S5-L3",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "split_column",
+    "items": [
+      "天然食物中磷与蛋白质结合",
+      "肠道只吸收约一半",
+      "加工食品含游离磷添加剂",
+      "肠道几乎全部吸收"
+    ],
+    "needs_animation": true,
+    "label": "肠道对天然磷与游离磷的吸收差异"
+  },
+  {
+    "global_index": 3672,
+    "seg_id": "S5-L4",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "myth_buster",
+    "items": [
+      "火腿肠和瘦肉含磷差不多",
+      "加工肉制品血磷影响远超鲜肉",
+      "汤煲得越久营养越好",
+      "磷全溶在汤里，千万别喝肉汤"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3673,
+    "seg_id": "S5-L5",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "warning_alert",
+    "items": [
+      "配料表含\"磷酸\"二字就是隐形炸弹"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3674,
+    "seg_id": "S5-L6",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "hero_text",
+    "items": [
+      "越天然越安全，加工越多磷越凶"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3675,
+    "seg_id": "S5-L7",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "list_fade",
+    "items": [
+      "蛋白质首选蛋清、新鲜瘦肉",
+      "蔬菜焯水后再吃",
+      "禁止喝肉汤"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3676,
+    "seg_id": "S5-L8",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第一步：控磷饮食",
+    "template": "list_fade",
+    "items": [
+      "购物先看配料表",
+      "选天然食材，远离加工品",
+      "焯水去磷再烹饪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3677,
+    "seg_id": "S6-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第二步：规范用药",
+    "template": "step_arrow",
+    "items": [
+      "磷结合剂随餐服用",
+      "像海绵一样吸附食物中的磷",
+      "阻止磷进入血液"
+    ],
+    "needs_animation": true,
+    "label": "磷结合剂在肠道吸附磷的作用机制"
+  },
+  {
+    "global_index": 3678,
+    "seg_id": "S6-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第二步：规范用药",
+    "template": "step_arrow",
+    "items": [
+      "活性维生素D补充钙",
+      "抑制甲状旁腺过度亢奋"
+    ],
+    "needs_animation": true,
+    "label": "活性维生素D抑制甲状旁腺的作用机制"
+  },
+  {
+    "global_index": 3679,
+    "seg_id": "S6-L3",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第二步：规范用药",
+    "template": "step_arrow",
+    "items": [
+      "钙剂向甲状旁腺发\"假信号\"",
+      "让它误以为钙已足够",
+      "停止过度分泌激素"
+    ],
+    "needs_animation": true,
+    "label": "拟钙剂抑制甲状旁腺PTH分泌机制"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "global_index": 480,
+    "seg_id": "S6-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "没有特效药",
+    "template": "warning_alert",
+    "items": [
+      "谷维素维生素B，作用都有限"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 481,
+    "seg_id": "S6-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "没有特效药",
+    "template": "hero_text",
+    "items": [
+      "根源在生活方式，从根源上治"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 482,
+    "seg_id": "S7-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "split_column",
+    "items": [
+      "今天十点睡明天两点睡",
+      "每天固定时间睡固定时间起",
+      "神经系统被搞糊涂，紊乱",
+      "神经系统知道何时工作休息"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 483,
+    "seg_id": "S7-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "number_center",
+    "items": [
+      "3-5"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 484,
+    "seg_id": "S7-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "step_arrow",
+    "items": [
+      "坚持有氧运动",
+      "直接降低交感神经兴奋",
+      "松开那个一直踩着的油门"
+    ],
+    "needs_animation": true,
+    "label": "有氧运动降低交感神经兴奋性机制"
+  },
+  {
+    "global_index": 485,
+    "seg_id": "S7-L4",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "warning_alert",
+    "items": [
+      "一天最多一杯，下午三点后不碰",
+      "心慌还灌咖啡，等于火上浇油"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 486,
+    "seg_id": "S7-L5",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "myth_buster",
+    "items": [
+      "刷\"三十岁心梗猝死\"短视频",
+      "越看越焦虑，交感越兴奋越心慌"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 487,
+    "seg_id": "S7-L6",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "step_arrow",
+    "items": [
+      "反复刷恐吓类健康短视频",
+      "焦虑加剧，交感神经更兴奋",
+      "心慌加重，又是恶性循环"
+    ],
+    "needs_animation": true,
+    "label": "焦虑-交感神经兴奋-心慌恶性循环"
+  },
+  {
+    "global_index": 488,
+    "seg_id": "S7-L7",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "list_fade",
+    "items": [
+      "咖啡因呢",
+      "本身就是",
+      "刺激交感神经",
+      "你一边心慌",
+      "一边灌咖啡"
+    ],
+    "needs_animation": true,
+    "label": "咖啡因刺激交感神经兴奋机制"
+  },
+  {
+    "global_index": 489,
+    "seg_id": "S7-L8",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "list_fade",
+    "items": [
+      "第四",
+      "就是少刷",
+      "那些三十岁心梗猝死的",
+      "那种短视频了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 490,
+    "seg_id": "S7-L9",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "四步调节植物神经",
+    "template": "list_fade",
+    "items": [
+      "越看越焦虑",
+      "越焦虑",
+      "交感神经越兴奋",
+      "越兴奋越心慌",
+      "又是一个恶性循环"
+    ],
+    "needs_animation": true,
+    "label": "焦虑-交感神经兴奋-心慌恶性循环"
+  },
+  {
+    "global_index": 491,
+    "seg_id": "S8-L1",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "这些情况必须就医",
+    "template": "hero_text",
+    "items": [
+      "不是所有心慌都可以不管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 492,
+    "seg_id": "S8-L2",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "这些情况必须就医",
+    "template": "warning_alert",
+    "items": [
+      "心率超150次或节律忽快忽慢",
+      "伴胸闷头晕或接近晕倒感"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 493,
+    "seg_id": "S8-L3",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "这些情况必须就医",
+    "template": "list_fade",
+    "items": [
+      "做24小时动态心电图",
+      "排查房颤、室上速等心律失常"
+    ],
+    "needs_animation": true,
+    "label": "24小时动态心电图检查过程"
+  },
+  {
+    "global_index": 494,
+    "seg_id": "S8-L4",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "这些情况必须就医",
+    "template": "branch_path",
+    "items": [
+      "做完检查，看结果",
+      "有异常：针对真正心律失常治疗",
+      "没问题：别反复跑医院，改生活方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 495,
+    "seg_id": "S8-L5",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "这些情况必须就医",
+    "template": "myth_buster",
+    "items": [
+      "我心脏有问题要一直看医生",
+      "出问题的是你对待身体的方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 496,
+    "seg_id": "S8-L6",
+    "bp_title": "年轻人心慌心悸，心脏没病却总担心？听心内科医生讲清楚",
+    "scene_title": "这些情况必须就医",
+    "template": "hero_text",
+    "items": [
+      "把看病的时间拿去跑步，最管用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 497,
+    "seg_id": "S1-L1",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "你是不是也这样",
+    "template": "hero_text",
+    "items": [
+      "支架放完了，但胸闷心慌还在"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 498,
+    "seg_id": "S1-L2",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "你是不是也这样",
+    "template": "hero_text",
+    "items": [
+      "这种情况门诊太常见了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 499,
+    "seg_id": "S1-L3",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "你是不是也这样",
+    "template": "hero_text",
+    "items": [
+      "最大的问题不在心脏，在脑子"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 500,
+    "seg_id": "S1-L4",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "你是不是也这样",
+    "template": "myth_buster",
+    "items": [
+      "你心理有问题",
+      "是恐惧在折磨你"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 501,
+    "seg_id": "S1-L5",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "你是不是也这样",
+    "template": "hero_text",
+    "items": [
+      "三句实话，听完你就想通了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 502,
+    "seg_id": "S2-L1",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "hero_text",
+    "items": [
+      "不舒服是真的，但不是心脏的问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 503,
+    "seg_id": "S2-L2",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "list_fade",
+    "items": [
+      "造影、CT、心电图全做了",
+      "血液检查也抽了",
+      "该查的全部查过了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 504,
+    "seg_id": "S2-L3",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "hero_text",
+    "items": [
+      "查不出来，说明心脏确实没问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 505,
+    "seg_id": "S2-L4",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "hero_text",
+    "items": [
+      "身体正在被焦虑控制着"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 506,
+    "seg_id": "S2-L5",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "step_arrow",
+    "items": [
+      "经历濒死，恐惧刻入骨子里",
+      "支架放完，血管通了",
+      "但那份恐惧并没有消失"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 507,
+    "seg_id": "S2-L6",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "hero_text",
+    "items": [
+      "血管通了，恐惧却留下来了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 508,
+    "seg_id": "S2-L7",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "list_fade",
+    "items": [
+      "交感神经持续高度警惕",
+      "心率偏快、肌肉紧绷",
+      "呼吸浅快"
+    ],
+    "needs_animation": true,
+    "label": "交感神经持续亢奋的躯体反应机制"
+  },
+  {
+    "global_index": 509,
+    "seg_id": "S2-L8",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "step_arrow",
+    "items": [
+      "交感神经亢奋",
+      "心率快、肌肉紧",
+      "胸闷、心慌、乏力"
+    ],
+    "needs_animation": true,
+    "label": "交感神经持续亢奋的躯体反应机制"
+  },
+  {
+    "global_index": 510,
+    "seg_id": "S2-L9",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "hero_text",
+    "items": [
+      "胸闷乏力，是焦虑的躯体化表现"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 511,
+    "seg_id": "S2-L10",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "myth_buster",
+    "items": [
+      "这是在装，在矫情",
+      "这是焦虑在身体上的真实反应"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 512,
+    "seg_id": "S3-L1",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "越怕越来，恶性循环",
+    "template": "hero_text",
+    "items": [
+      "越害怕，它就越来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 513,
+    "seg_id": "S3-L2",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "越怕越来，恶性循环",
+    "template": "step_arrow",
+    "items": [
+      "胸闷出现，立刻紧张",
+      "交感神经更兴奋，心跳更快",
+      "胸闷感更明显，更加害怕"
+    ],
+    "needs_animation": true,
+    "label": "焦虑-交感神经兴奋-心慌恶性循环"
+  },
+  {
+    "global_index": 514,
+    "seg_id": "S3-L3",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "越怕越来，恶性循环",
+    "template": "hero_text",
+    "items": [
+      "越来越怕，觉得果然是心脏问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 515,
+    "seg_id": "S3-L4",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "越怕越来，恶性循环",
+    "template": "hero_text",
+    "items": [
+      "恶性循环就这么转起来了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 516,
+    "seg_id": "S3-L5",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "越怕越来，恶性循环",
+    "template": "myth_buster",
+    "items": [
+      "是心脏病困住了你",
+      "是对心脏病的恐惧困住了你"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 517,
+    "seg_id": "S4-L1",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "生活方式在加重问题",
+    "template": "hero_text",
+    "items": [
+      "生活方式正在让问题变得更重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 518,
+    "seg_id": "S4-L2",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "生活方式在加重问题",
+    "template": "list_fade",
+    "items": [
+      "不敢运动，整天窝在家",
+      "不敢出门，闭门不出",
+      "反复刷手机查症状"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 519,
+    "seg_id": "S4-L3",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "生活方式在加重问题",
+    "template": "step_arrow",
+    "items": [
+      "越不动，越没力气",
+      "越不出门，越焦虑害怕",
+      "以为在保护自己，其实越陷越深"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

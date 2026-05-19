@@ -1,0 +1,566 @@
+[
+  {
+    "global_index": 480,
+    "seg_id": "S3-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "急性心肌梗死信号",
+    "template": "brick_stack",
+    "items": [
+      "大汗淋漓、恶心呕吐",
+      "眼前发黑甚至晕倒",
+      "胸口压石头感，喘不上气"
+    ],
+    "atoms_text": "第一就是 胸痛持续不缓解的 伴随的大汗淋漓啊 恶心呕吐啊 眼前发黑甚至晕倒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 481,
+    "seg_id": "S3-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "急性心肌梗死信号",
+    "template": "hero_text",
+    "items": [
+      "极大概率是急性心肌梗死"
+    ],
+    "atoms_text": "休息完全没有用 胸口啊 像压了块大石头 喘不上气来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 482,
+    "seg_id": "S3-L3",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "急性心肌梗死信号",
+    "template": "warning_alert",
+    "items": [
+      "休息完全无效，切勿硬扛"
+    ],
+    "atoms_text": "那极大概率是 急性心肌梗死",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 483,
+    "seg_id": "S4-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "主动脉夹层识别",
+    "template": "step_arrow",
+    "items": [
+      "暴怒或用力瞬间",
+      "前胸连后背，撕裂刀割样剧痛",
+      "疼痛剧烈到无法忍受"
+    ],
+    "atoms_text": "第二个就是 暴怒用力后 前胸连着后背啊 突发撕裂样刀割样剧痛 疼到无法忍受",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 484,
+    "seg_id": "S4-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "主动脉夹层识别",
+    "template": "warning_alert",
+    "items": [
+      "可能是致命的主动脉夹层"
+    ],
+    "atoms_text": "可能啊是致命的 主动脉夹层",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 485,
+    "seg_id": "S5-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "肺栓塞识别",
+    "template": "step_arrow",
+    "items": [
+      "突发极度呼吸困难",
+      "嘴唇发紫，缺氧感明显"
+    ],
+    "atoms_text": "第三就是 胸痛不明显 但突发极度的呼吸困难 像刚冲刺完马拉松一样 缺氧 嘴唇发紫",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 486,
+    "seg_id": "S5-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "肺栓塞识别",
+    "template": "warning_alert",
+    "items": [
+      "大概率是肺栓塞，立刻急救"
+    ],
+    "atoms_text": "大概率啊是 肺栓塞",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 487,
+    "seg_id": "S6-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "两大高危信号",
+    "template": "hero_text",
+    "items": [
+      "还有两个高危信号须警惕"
+    ],
+    "atoms_text": "第四就是 伴随两个高危信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 488,
+    "seg_id": "S6-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "两大高危信号",
+    "template": "number_center",
+    "items": [
+      "90"
+    ],
+    "atoms_text": "血压计啊 测出高压低于九十毫米汞柱",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 489,
+    "seg_id": "S6-L3",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "两大高危信号",
+    "template": "warning_alert",
+    "items": [
+      "突发晕倒，哪怕几秒后清醒也要急救"
+    ],
+    "atoms_text": "或是啊 突发不明原因的晕倒 哪怕是几秒后自行清醒 也必须啊 立刻急救",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 490,
+    "seg_id": "S7-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "hero_text",
+    "items": [
+      "这类胸痛是心脏在发预警"
+    ],
+    "atoms_text": "排除了上面致命的情况 如果你出现这种胸痛 是心脏在给你发预警 要尽快去心内科排查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 491,
+    "seg_id": "S7-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "hero_text",
+    "items": [
+      "干活就痛，休息就好"
+    ],
+    "atoms_text": "核心就是八个字 干活就痛 休息就好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 492,
+    "seg_id": "S7-L3",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "step_arrow",
+    "items": [
+      "剧烈运动或情绪激动",
+      "心脏供血血管跟不上需求",
+      "出现胸痛预警信号"
+    ],
+    "atoms_text": "很好理解啊 我们的心脏 就像人体的发动机",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 493,
+    "seg_id": "S7-L4",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "list_fade",
+    "items": [
+      "闷痛钝痛，像绳子勒住胸口",
+      "范围广，无法精准指出痛点",
+      "休息5到10分钟可缓解",
+      "可放射至左肩、后背、脖子"
+    ],
+    "atoms_text": "只有在你猛踩油门的时候 比如啊 剧烈运动 情绪极度激动的时候 猛然吸口冷空气 用力排便的时候",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 494,
+    "seg_id": "S7-L5",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "hero_text",
+    "items": [
+      "这就是心绞痛"
+    ],
+    "atoms_text": "给心脏供血的血管啊 它跟不上需求 才会出现疼痛的预警",
+    "needs_animation": true,
+    "label": "心脏负荷增大时冠状动脉供血跟不上心肌需求"
+  },
+  {
+    "global_index": 495,
+    "seg_id": "S7-L6",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "step_arrow",
+    "items": [
+      "血管严重狭窄但未完全堵死",
+      "不及时干预",
+      "随时发展为急性心肌梗死"
+    ],
+    "atoms_text": "它的特点 和上面啊致死性的胸痛 完全不同",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 496,
+    "seg_id": "S7-L7",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "warning_alert",
+    "items": [
+      "绝不能掉以轻心，尽快心内科就诊"
+    ],
+    "atoms_text": "不是针扎样的尖锐的刺痛 而是闷痛钝痛 感觉胸口发紧 像被粗绳子勒住",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 497,
+    "seg_id": "S7-L8",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "list_fade",
+    "items": [
+      "范围很大",
+      "没法用一根手指",
+      "精确的指出啊",
+      "痛点在哪里"
+    ],
+    "atoms_text": "范围很大 没法用一根手指 精确的指出啊 痛点在哪里",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 498,
+    "seg_id": "S7-L9",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "list_fade",
+    "items": [
+      "停下休息之后",
+      "五到十分钟",
+      "就能快速的缓解"
+    ],
+    "atoms_text": "停下休息之后 五到十分钟 就能快速的缓解",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 499,
+    "seg_id": "S7-L10",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "list_fade",
+    "items": [
+      "疼痛啊",
+      "还能连带着",
+      "左肩啊",
+      "后背啊",
+      "脖子啊"
+    ],
+    "atoms_text": "疼痛啊 还能连带着 左肩啊 后背啊 脖子啊 一起疼",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 500,
+    "seg_id": "S7-L11",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "list_fade",
+    "items": [
+      "这种情况啊",
+      "就是心绞痛"
+    ],
+    "atoms_text": "这种情况啊 就是心绞痛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 501,
+    "seg_id": "S7-L12",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "list_fade",
+    "items": [
+      "血管啊",
+      "已经严重狭窄",
+      "但还没有完全堵死"
+    ],
+    "atoms_text": "血管啊 已经严重狭窄 但还没有完全堵死",
+    "needs_animation": true,
+    "label": "冠状动脉严重狭窄但尚未完全堵塞的状态"
+  },
+  {
+    "global_index": 502,
+    "seg_id": "S7-L13",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "list_fade",
+    "items": [
+      "不及时干预",
+      "随时会发展成",
+      "前面说的急性心肌梗死"
+    ],
+    "atoms_text": "不及时干预 随时会发展成 前面说的急性心肌梗死",
+    "needs_animation": true,
+    "label": "狭窄血管进一步堵死发展为急性心肌梗死"
+  },
+  {
+    "global_index": 503,
+    "seg_id": "S7-L14",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "心绞痛预警识别",
+    "template": "hero_text",
+    "items": [
+      "绝对不能掉以轻心"
+    ],
+    "atoms_text": "绝对不能掉以轻心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 504,
+    "seg_id": "S8-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "非心脏性胸痛导入",
+    "template": "hero_text",
+    "items": [
+      "以下胸痛基本和心脏无关"
+    ],
+    "atoms_text": "好 下面我要说的胸痛 基本就和心脏没有关系了 不用过度的恐慌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 505,
+    "seg_id": "S8-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "非心脏性胸痛导入",
+    "template": "hero_text",
+    "items": [
+      "按疼痛特征，快速找对根源"
+    ],
+    "atoms_text": "按疼痛的特征 就能快速的找对根源",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 506,
+    "seg_id": "S9-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "可精准定位的胸痛",
+    "template": "hero_text",
+    "items": [
+      "能用一根手指指出痛点，基本排除心脏"
+    ],
+    "atoms_text": "第一就是 你能精准的找到痛点 用一根手指啊 就能明确指出 哎 具体痛在哪里",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 507,
+    "seg_id": "S9-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "可精准定位的胸痛",
+    "template": "hero_text",
+    "items": [
+      "可基本排除心脏问题"
+    ],
+    "atoms_text": "基本可排除心脏问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 508,
+    "seg_id": "S9-L3",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "可精准定位的胸痛",
+    "template": "category_table",
+    "items": [
+      "针扎样锐痛，几秒缓解",
+      "肋间神经痛，挂神经科",
+      "有磕碰史，按压痛加重",
+      "软组织挫伤或肋骨骨折，挂骨科"
+    ],
+    "atoms_text": "针扎样啊 几秒钟就能缓解的那种锐痛 多是啊 肋间神经痛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 509,
+    "seg_id": "S9-L4",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "可精准定位的胸痛",
+    "template": "warning_alert",
+    "items": [
+      "胸骨正中按压痛伴发烧异常出血，挂血液科"
+    ],
+    "atoms_text": "有磕碰史啊 按压痛感啊更加加重啊 多是啊 软组织挫伤或者肋骨骨折 挂骨科",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 510,
+    "seg_id": "S9-L5",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "可精准定位的胸痛",
+    "template": "list_fade",
+    "items": [
+      "胸骨正中按压痛",
+      "伴随着发烧乏力异常出血",
+      "那及时啊",
+      "要去血液科排查"
+    ],
+    "atoms_text": "胸骨正中按压痛 伴随着发烧乏力异常出血 那及时啊 要去血液科排查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 511,
+    "seg_id": "S10-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "随呼吸加重的胸痛",
+    "template": "hero_text",
+    "items": [
+      "深呼吸咳嗽时痛感更明显"
+    ],
+    "atoms_text": "第二种就是 痛啊 会随着呼吸咳嗽加重 深呼吸啊 咳嗽时痛感更明显 屏住呼吸就缓解",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 512,
+    "seg_id": "S10-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "随呼吸加重的胸痛",
+    "template": "category_table",
+    "items": [
+      "伴发烧咳嗽",
+      "胸膜炎，挂呼吸科",
+      "年轻偏瘦男性，单侧突发憋气",
+      "气胸，直接挂急诊"
+    ],
+    "atoms_text": "问题啊多在肺部 伴随着发烧啊咳嗽啊 多是胸膜炎 挂呼吸科",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 513,
+    "seg_id": "S10-L3",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "随呼吸加重的胸痛",
+    "template": "warning_alert",
+    "items": [
+      "长期吸烟伴咳嗽带血，尽快呼吸科筛查"
+    ],
+    "atoms_text": "年轻偏瘦的男性啊 无明显诱因 突发单侧的胸痛憋气 可能啊是气胸 直接挂急诊就可以了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 514,
+    "seg_id": "S10-L4",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "随呼吸加重的胸痛",
+    "template": "list_fade",
+    "items": [
+      "长期吸烟的老烟民",
+      "长期胸口隐痛",
+      "伴随着咳嗽带血",
+      "尽快去呼吸科筛查"
+    ],
+    "atoms_text": "长期吸烟的老烟民 长期胸口隐痛 伴随着咳嗽带血 尽快去呼吸科筛查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 515,
+    "seg_id": "S11-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "饮食相关胸痛",
+    "template": "hero_text",
+    "items": [
+      "第三类：和吃饭密切相关的胸痛"
+    ],
+    "atoms_text": "第三种啊 和吃饭相关的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 516,
+    "seg_id": "S11-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "饮食相关胸痛",
+    "template": "split_column",
+    "items": [
+      "饿了痛、吃饱也痛伴反酸胃胀",
+      "半夜胸口灼烧痛，吃胃药快速缓解",
+      "消化性溃疡",
+      "胃食管反流"
+    ],
+    "atoms_text": "饿了疼哎 吃饱了也疼 伴随着反酸啊胃胀啊 多是消化性溃疡",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 517,
+    "seg_id": "S11-L3",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "饮食相关胸痛",
+    "template": "hero_text",
+    "items": [
+      "两种情况均挂消化内科"
+    ],
+    "atoms_text": "半夜胸口灼烧样疼醒 然后吃胃药很快那种缓解 是胃食管反流",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 518,
+    "seg_id": "S11-L4",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "饮食相关胸痛",
+    "template": "list_fade",
+    "items": [
+      "两种情况啊",
+      "都要挂消化内科"
+    ],
+    "atoms_text": "两种情况啊 都要挂消化内科",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 519,
+    "seg_id": "S12-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "带状疱疹胸痛",
+    "template": "step_arrow",
+    "items": [
+      "单侧皮肤火辣辣的疼，轻碰难忍",
+      "随后长出成串疹子",
+      "带状疱疹，挂皮肤科"
+    ],
+    "atoms_text": "还有一种啊 就是连带的牵涉痛 就像啊 单侧的胸口皮肤火辣辣的疼 轻碰都受不了",
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,515 @@
+[
+  {
+    "global_index": 2200,
+    "seg_id": "S6-L3",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "总结叮嘱",
+    "template": "hero_text",
+    "items": [
+      "支架是新起点，管好全身才是真保命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2201,
+    "seg_id": "S1-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "血压忽高忽低？可能根本没量对"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2202,
+    "seg_id": "S1-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "左手右手换着量",
+      "跑完楼梯就量",
+      "时间随意不固定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2203,
+    "seg_id": "S1-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "最容易犯的几个错误，一次说清"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2204,
+    "seg_id": "S2-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "左手还是右手",
+    "template": "hero_text",
+    "items": [
+      "左手还是右手，你选对了吗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2205,
+    "seg_id": "S2-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "左手还是右手",
+    "template": "step_arrow",
+    "items": [
+      "两只手各量一次",
+      "以数值高的那只为准",
+      "此后固定同一只手量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2206,
+    "seg_id": "S2-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "左手还是右手",
+    "template": "split_column",
+    "items": [
+      "差值5~10 mmHg",
+      "属于正常生理现象"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2207,
+    "seg_id": "S2-L4",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "左手还是右手",
+    "template": "warning_alert",
+    "items": [
+      "两手相差超过20 mmHg",
+      "警惕血管狭窄，需就医检查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2208,
+    "seg_id": "S2-L5",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "左手还是右手",
+    "template": "hero_text",
+    "items": [
+      "固定高值那只手，数据才有可比性"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2209,
+    "seg_id": "S3-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "hero_text",
+    "items": [
+      "早上量还是晚上量？时机很关键"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2210,
+    "seg_id": "S3-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "branch_path",
+    "items": [
+      "只能选一个时间段量",
+      "优先选早上，覆盖高峰时段",
+      "只量晚上，可能漏掉早晨峰值"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2211,
+    "seg_id": "S3-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "warning_alert",
+    "items": [
+      "6~10点血压高峰，心梗脑梗高发时段"
+    ],
+    "needs_animation": true,
+    "label": "血压昼夜节律波动（晨峰现象）"
+  },
+  {
+    "global_index": 2212,
+    "seg_id": "S3-L4",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "myth_buster",
+    "items": [
+      "晚上量130，感觉血压正常",
+      "早晨可能已飙升至160，全然不知"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2213,
+    "seg_id": "S3-L5",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "hero_text",
+    "items": [
+      "降压药要覆盖住早晨这个高峰"
+    ],
+    "needs_animation": true,
+    "label": "降压药物血药浓度与血压高峰覆盖机制"
+  },
+  {
+    "global_index": 2214,
+    "seg_id": "S3-L6",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "step_arrow",
+    "items": [
+      "起床后先上厕所",
+      "安静坐满五分钟",
+      "再进行血压测量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2215,
+    "seg_id": "S3-L7",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "myth_buster",
+    "items": [
+      "一睁眼立刻绑袖带就量",
+      "忙活半天再量才想起"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2216,
+    "seg_id": "S4-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "正确的测量姿势",
+    "template": "hero_text",
+    "items": [
+      "窝在沙发翘二郎腿量？数据全是假的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2217,
+    "seg_id": "S4-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "正确的测量姿势",
+    "template": "warning_alert",
+    "items": [
+      "翘腿＋袖带套衣服外，结果不可信"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2218,
+    "seg_id": "S4-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "正确的测量姿势",
+    "template": "list_fade",
+    "items": [
+      "椅子坐直，后背靠实",
+      "双脚平放地面，不交叉",
+      "袖带贴皮肤绑上臂",
+      "松紧以能插入一根手指为准"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2219,
+    "seg_id": "S4-L4",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "正确的测量姿势",
+    "template": "body_annotate",
+    "items": [
+      "下缘在肘窝上两指宽处",
+      "袖带高度与心脏齐平",
+      "胳膊平放桌上固定"
+    ],
+    "needs_animation": true,
+    "label": "袖带位置与心脏水平面对血压读数的影响原理"
+  },
+  {
+    "global_index": 2220,
+    "seg_id": "S4-L5",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "正确的测量姿势",
+    "template": "split_column",
+    "items": [
+      "手臂悬空或垂在身侧",
+      "平放桌上与心脏同高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2221,
+    "seg_id": "S4-L6",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "正确的测量姿势",
+    "template": "list_fade",
+    "items": [
+      "胳膊悬着或者垂在身侧",
+      "量出来都会偏高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2222,
+    "seg_id": "S5-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "量几次才算够",
+    "template": "hero_text",
+    "items": [
+      "量一次够吗？远远不够"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2223,
+    "seg_id": "S5-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "量几次才算够",
+    "template": "step_arrow",
+    "items": [
+      "第一遍：先量，结果偏高不算",
+      "间隔一分钟再量第二遍",
+      "取后两次平均值为最终结果"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2224,
+    "seg_id": "S5-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "量几次才算够",
+    "template": "hero_text",
+    "items": [
+      "刚绑袖带有紧张感，首次值偏高属正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2225,
+    "seg_id": "S6-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "在家量与医院量的差异",
+    "template": "hero_text",
+    "items": [
+      "在家和医院量不一样，这很正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2226,
+    "seg_id": "S6-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "在家量与医院量的差异",
+    "template": "hero_text",
+    "items": [
+      "一进医院就紧张，这叫白大衣高血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2227,
+    "seg_id": "S6-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "在家量与医院量的差异",
+    "template": "split_column",
+    "items": [
+      "医院：紧张导致血压偏高",
+      "在家：放松状态反映真实血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2228,
+    "seg_id": "S7-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "总结回顾",
+    "template": "list_fade",
+    "items": [
+      "两手都量一次",
+      "固定高值那只手"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2229,
+    "seg_id": "S7-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "总结回顾",
+    "template": "list_fade",
+    "items": [
+      "早上起床后",
+      "排完尿再坐5分钟"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2230,
+    "seg_id": "S7-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "总结回顾",
+    "template": "list_fade",
+    "items": [
+      "坐直脚平贴皮肤绑袖带",
+      "胳膊与心脏齐平",
+      "量两到三遍取平均值"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2231,
+    "seg_id": "S7-L4",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "总结回顾",
+    "template": "hero_text",
+    "items": [
+      "做到这些，你的血压数据才是真实有效的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2232,
+    "seg_id": "S7-L5",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "总结回顾",
+    "template": "hero_text",
+    "items": [
+      "点赞收藏，随时复习正确量压方法"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2233,
+    "seg_id": "S1-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "脑梗并非突然发生",
+    "template": "hero_text",
+    "items": [
+      "脑梗是一场蓄谋已久的暗杀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2234,
+    "seg_id": "S1-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "脑梗并非突然发生",
+    "template": "myth_buster",
+    "items": [
+      "脑梗是瞬间发作的",
+      "发病前早有预警信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2235,
+    "seg_id": "S1-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "脑梗并非突然发生",
+    "template": "vertical_timeline",
+    "items": [
+      "警报已悄然拉响",
+      "身体持续发出信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2236,
+    "seg_id": "S1-L4",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "脑梗并非突然发生",
+    "template": "warning_alert",
+    "items": [
+      "多数人把信号当成\"太累了\"",
+      "错过最佳干预窗口期"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2237,
+    "seg_id": "S2-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "血管堵塞原理",
+    "template": "step_arrow",
+    "items": [
+      "大脑血管如同老旧水管",
+      "血脂胆固醇堆积管腔变窄",
+      "水流异常：断流或流量骤减"
+    ],
+    "needs_animation": true,
+    "label": "脑血管动脉粥样硬化斑块形成与管腔狭窄"
+  },
+  {
+    "global_index": 2238,
+    "seg_id": "S2-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "血管堵塞原理",
+    "template": "hero_text",
+    "items": [
+      "脑梗前预警 = 大脑\"断水\"信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2239,
+    "seg_id": "S2-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "血管堵塞原理",
+    "template": "brick_stack",
+    "items": [
+      "长期血脂异常沉积",
+      "管腔逐渐狭窄",
+      "供血不足引发异常"
+    ],
+    "needs_animation": true,
+    "label": "脑血管动脉粥样硬化斑块形成与管腔狭窄"
+  }
+]

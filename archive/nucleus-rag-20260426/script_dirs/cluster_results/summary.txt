@@ -1,0 +1,48 @@
+Total categories: 125
+Total segments assigned: 2208
+Categories with segments: 70/125
+
+病理过程: 58 cats, 1102 segs, 459 blocks
+生理机制: 27 cats, 381 segs, 181 blocks
+解剖结构: 5 cats, 355 segs, 22 blocks
+手术检查: 19 cats, 340 segs, 81 blocks
+药物机制: 16 cats, 30 segs, 76 blocks
+
+Top 20 by demand:
+  [ OK]   1. 动脉粥样硬化斑块形成 — demand:37 supply:85
+  [ OK]  87. 颈动脉斑块 — demand:19 supply:49
+  [ OK]   9. 冠状动脉狭窄与心肌缺血 — demand:18 supply:64
+  [ OK]   4. 血管内皮损伤 — demand:17 supply:16
+  [GAP]  51. 他汀代谢与药物相互作用 — demand:15 supply:0
+  [ OK]   3. 斑块破裂与血栓形成 — demand:14 supply:31
+  [ OK]  50. 他汀类药物降脂稳斑机制 — demand:14 supply:7
+  [GAP]  62. 胰岛素抵抗与β细胞衰竭 — demand:14 supply:0
+  [ OK]  72. 运动与心血管适应 — demand:14 supply:12
+  [GAP]  73. 运动与血流动力学变化 — demand:14 supply:0
+  [ OK]  10. 急性心肌梗死 — demand:13 supply:94
+  [ OK]  19. 心力衰竭 — demand:13 supply:154
+  [GAP]  43. 心肌损伤标志物 — demand:12 supply:0
+  [ OK]   6. 高血压损伤血管与靶器官 — demand:11 supply:27
+  [ OK]   7. 高血糖血管与神经损伤 — demand:11 supply:20
+  [ OK]  14. 心律失常与传导异常 — demand:11 supply:110
+  [ OK]  33. 冠脉支架植入术 — demand:11 supply:127
+  [ OK]  69. 肝脏胆固醇与脂质代谢 — demand:11 supply:31
+  [GAP]  83. 钙磷代谢与继发性甲旁亢 — demand:11 supply:0
+  [GAP]  34. 支架术后并发症 — demand:10 supply:0
+
+GAPS (demand but no supply): 55 categories
+   51. 他汀代谢与药物相互作用 — 15 blocks need this
+   62. 胰岛素抵抗与β细胞衰竭 — 14 blocks need this
+   73. 运动与血流动力学变化 — 14 blocks need this
+   43. 心肌损伤标志物 — 12 blocks need this
+   83. 钙磷代谢与继发性甲旁亢 — 11 blocks need this
+   34. 支架术后并发症 — 10 blocks need this
+   76. 肾小管损伤 — 10 blocks need this
+   78. 尿酸结晶沉积与痛风 — 10 blocks need this
+   92. 睡眠生理与失眠 — 10 blocks need this
+   17. 焦虑-交感神经恶性循环 — 9 blocks need this
+   23. 血压异常波动机制 — 9 blocks need this
+  120. 口腔异味来源 — 9 blocks need this
+   68. 禁食代谢与糖异生 — 8 blocks need this
+   91. 眩晕与前庭系统 — 8 blocks need this
+   24. 体位性低血压 — 7 blocks need this

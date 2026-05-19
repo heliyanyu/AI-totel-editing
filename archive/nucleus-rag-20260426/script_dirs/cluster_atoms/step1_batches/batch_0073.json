@@ -1,0 +1,589 @@
+[
+  {
+    "global_index": 2920,
+    "seg_id": "S2-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "肾炎发病机制",
+    "template": "split_column",
+    "items": [
+      "链球菌感染后肾炎",
+      "IgA肾病",
+      "嗓子发炎后10-14天发病",
+      "感染后反复发作加重"
+    ],
+    "atoms_text": "大水冲了龙王庙 一家人不认识一家人 掉过头来 攻击自己的肾小球滤网 把肾小球给弄发炎了",
+    "needs_animation": true,
+    "label": "免疫系统攻击肾小球滤网引发炎症"
+  },
+  {
+    "global_index": 2921,
+    "seg_id": "S2-L4",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "肾炎发病机制",
+    "template": "hero_text",
+    "items": [
+      "发现早干预及时可大减损伤风险"
+    ],
+    "atoms_text": "临床上常见的就两种情况 一种是急性的链球菌感染后肾炎 往往是嗓子发炎后 十到十四天 突然的发病 在小孩子身上 特别的多见",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2922,
+    "seg_id": "S2-L5",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "肾炎发病机制",
+    "template": "list_fade",
+    "items": [
+      "另外一种叫IgA肾病",
+      "我们平常接触",
+      "相当一部分",
+      "都是这两种情况"
+    ],
+    "atoms_text": "另外一种叫IgA肾病 我们平常接触 相当一部分 都是这两种情况",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2923,
+    "seg_id": "S2-L6",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "肾炎发病机制",
+    "template": "list_fade",
+    "items": [
+      "但是这类疾病",
+      "只要发现的早",
+      "干预的及时",
+      "就能大大的减少",
+      "肾脏损伤的风险"
+    ],
+    "atoms_text": "但是这类疾病 只要发现的早 干预的及时 就能大大的减少 肾脏损伤的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2924,
+    "seg_id": "S3-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "四大典型症状",
+    "template": "hero_text",
+    "items": [
+      "记住四个症状在家初步判断"
+    ],
+    "atoms_text": "相信大家最关心的 肯定是怎么自己发现这种病 你可以记好 这四个典型的症状 在家初步判断",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2925,
+    "seg_id": "S3-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "四大典型症状",
+    "template": "color_grid",
+    "items": [
+      "血尿，尿色淡红或浓茶色",
+      "尿泡沫细腻久散不开",
+      "晨起眼皮脸部下肢水肿",
+      "血压突然升高头痛头晕"
+    ],
+    "atoms_text": "第一个 最直观的就是血尿 尿的颜色变了 淡红色或者浓茶色 一般在感冒好了之后的 一到三周出现 这是最核心的信号 千万别当上火不在意",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2926,
+    "seg_id": "S3-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "四大典型症状",
+    "template": "step_arrow",
+    "items": [
+      "近期有感冒嗓子疼或腹泻史",
+      "出现上述任一症状",
+      "立刻前往肾内科就诊"
+    ],
+    "atoms_text": "第二个 尿里面的泡沫特别多 是很细腻的小泡沫 像啤酒沫一样 三到五分钟都散不了 这说明尿里面可能会漏蛋白了 你的滤网可能会出问题了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2927,
+    "seg_id": "S3-L4",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "四大典型症状",
+    "template": "list_fade",
+    "items": [
+      "第三个",
+      "水肿",
+      "早上起来眼皮肿脸肿",
+      "到了下午",
+      "有可能小腿也开始肿"
+    ],
+    "atoms_text": "第三个 水肿 早上起来眼皮肿脸肿 到了下午 有可能小腿也开始肿 一个一个坑 半天都弹不回来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2928,
+    "seg_id": "S3-L5",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "四大典型症状",
+    "template": "list_fade",
+    "items": [
+      "第四个",
+      "血压突然的升高了",
+      "平时好好的",
+      "怎么就开始头痛头晕了"
+    ],
+    "atoms_text": "第四个 血压突然的升高了 平时好好的 怎么就开始头痛头晕了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2929,
+    "seg_id": "S3-L6",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "四大典型症状",
+    "template": "list_fade",
+    "items": [
+      "而且如果你最近",
+      "感冒过",
+      "嗓子疼过",
+      "或者拉过肚子",
+      "然后出现了上面这些表现"
+    ],
+    "atoms_text": "而且如果你最近 感冒过 嗓子疼过 或者拉过肚子 然后出现了上面这些表现 别犹豫 赶紧去肾内科",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2930,
+    "seg_id": "S4-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "检查诊断流程",
+    "template": "vertical_timeline",
+    "items": [
+      "尿常规查红细胞和蛋白",
+      "血生化查肾功能和电解质",
+      "免疫学查补体C3和免疫球蛋白",
+      "肾脏超声排除结石肿瘤"
+    ],
+    "atoms_text": "医生会让你做一个尿常规 看看有没有红细胞和蛋白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2931,
+    "seg_id": "S4-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "检查诊断流程",
+    "template": "step_arrow",
+    "items": [
+      "排查原发性肾炎",
+      "鉴别狼疮等继发性肾炎",
+      "防止误诊误治"
+    ],
+    "atoms_text": "然后就是血生化检查 检查肾功能 电解质 判断肾脏大概损伤到什么程度",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2932,
+    "seg_id": "S4-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "检查诊断流程",
+    "template": "hero_text",
+    "items": [
+      "检查不明确需做肾活检确认分型"
+    ],
+    "atoms_text": "还有免疫学检查 查风湿补体的C3 免疫球蛋白 帮着区分 具体是哪种类型的肾炎",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2933,
+    "seg_id": "S4-L4",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "检查诊断流程",
+    "template": "list_fade",
+    "items": [
+      "肾脏超声也不能少",
+      "能排除结石",
+      "肿瘤这些其他的问题",
+      "避免误判"
+    ],
+    "atoms_text": "肾脏超声也不能少 能排除结石 肿瘤这些其他的问题 避免误判",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2934,
+    "seg_id": "S4-L5",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "检查诊断流程",
+    "template": "list_fade",
+    "items": [
+      "还要区分一些其他的原发性肾炎",
+      "还有系统性红斑狼疮引起的继发性肾炎",
+      "防止误诊误治"
+    ],
+    "atoms_text": "还要区分一些其他的原发性肾炎 还有系统性红斑狼疮引起的继发性肾炎 防止误诊误治",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2935,
+    "seg_id": "S4-L6",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "检查诊断流程",
+    "template": "list_fade",
+    "items": [
+      "要是通过这些检查",
+      "还是没办法明确",
+      "那就需要做肾活检",
+      "这是诊断肾脏疾病的一个金标准",
+      "能够准确的判断"
+    ],
+    "atoms_text": "要是通过这些检查 还是没办法明确 那就需要做肾活检 这是诊断肾脏疾病的一个金标准 能够准确的判断 病理的分型 给后续的治疗指明方向",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2936,
+    "seg_id": "S5-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "急性期治疗要点",
+    "template": "list_fade",
+    "items": [
+      "控制感染消除炎症",
+      "血压高及时降压",
+      "水肿明显给予利尿"
+    ],
+    "atoms_text": "其实急性期的处理并不复杂 首先呢 要把感染给控制住 嗓子还有炎症 就赶紧消炎 血压高就降压 肿了就利尿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2937,
+    "seg_id": "S5-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "急性期治疗要点",
+    "template": "warning_alert",
+    "items": [
+      "必须充分休息，熬夜加班会让病情反复"
+    ],
+    "atoms_text": "最后关键的一点 是要好好休息 很多人就是在这一步上犯错了 该加班还加班 该熬夜还熬夜 结果病情反反复复 就是好不了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2938,
+    "seg_id": "S5-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "急性期治疗要点",
+    "template": "hero_text",
+    "items": [
+      "少数严重者由医生判断短期用激素"
+    ],
+    "atoms_text": "少数比较严重的 医生会根据情况 短期用点激素",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2939,
+    "seg_id": "S6-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "两种肾炎预后对比",
+    "template": "split_column",
+    "items": [
+      "90%以上患者可完全恢复",
+      "慢性进展不会自愈",
+      "儿童多见具有自限性",
+      "每次感染都可能加重一次"
+    ],
+    "atoms_text": "如果你是急性链球菌感染后的肾炎 这个病虽然听起来吓人 但百分之九十以上的患者 都能完全的恢复 尤其是孩子 它有自限性 只要好好的休息 把水肿和血压给控制好 慢慢的自己就好了 不用太焦虑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2940,
+    "seg_id": "S6-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "两种肾炎预后对比",
+    "template": "number_center",
+    "items": [
+      "20%-40%"
+    ],
+    "atoms_text": "但IgA肾病 它是一个慢性进展性的病 不会自己好 需要长期的管理",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2941,
+    "seg_id": "S6-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "两种肾炎预后对比",
+    "template": "warning_alert",
+    "items": [
+      "反复血尿蛋白尿必须做肾穿刺活检明确分型"
+    ],
+    "atoms_text": "很多患者朋友 每次的感冒拉肚子 都会反复的发作 一次比一次重",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2942,
+    "seg_id": "S6-L4",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "两种肾炎预后对比",
+    "template": "list_fade",
+    "items": [
+      "如果管理的不到位",
+      "百分之二十到百分之四十",
+      "IgA肾病患者",
+      "最终可能会发展成",
+      "终末期肾病"
+    ],
+    "atoms_text": "如果管理的不到位 百分之二十到百分之四十 IgA肾病患者 最终可能会发展成 终末期肾病 也就是我们常说的尿毒症",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2943,
+    "seg_id": "S6-L5",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "两种肾炎预后对比",
+    "template": "list_fade",
+    "items": [
+      "而且IgA肾病",
+      "光凭症状是判断不了的",
+      "所以如果反复出现",
+      "血尿蛋白尿",
+      "最好是做一个肾穿刺活检"
+    ],
+    "atoms_text": "而且IgA肾病 光凭症状是判断不了的 所以如果反复出现 血尿蛋白尿 最好是做一个肾穿刺活检 明确一下 到底是哪种类型 这一步不能少",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2944,
+    "seg_id": "S7-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "IgA肾病长期管理",
+    "template": "list_fade",
+    "items": [
+      "血压严格控制在130/80以下",
+      "定期复查尿常规和肾功能"
+    ],
+    "atoms_text": "确诊了IgA肾病的人 血压一定要严格控制在 一百三十八十毫米汞柱以下 定期的复查 尿常规和肾功能",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2945,
+    "seg_id": "S7-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "IgA肾病长期管理",
+    "template": "warning_alert",
+    "items": [
+      "禁止乱用中药保健品和抗生素伤肾"
+    ],
+    "atoms_text": "还有就是不要乱吃药 尤其是那些成分不明的中药保健品 还有一些抗生素 都有可能伤肾 用药一定要听医生的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2946,
+    "seg_id": "S7-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "IgA肾病长期管理",
+    "template": "step_arrow",
+    "items": [
+      "注意保暖预防感冒腹泻",
+      "减少感染触发",
+      "保护肾脏避免病情加重"
+    ],
+    "atoms_text": "平时注意保暖 尽量预防感冒拉肚子 因为对于这类患者来说 每一次的感染 都是让肾脏病情加重的导火索",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2947,
+    "seg_id": "S8-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "总结呼吁",
+    "template": "hero_text",
+    "items": [
+      "感染后血尿绝非小事，必须及时就医"
+    ],
+    "atoms_text": "最后再和大家强调一次 感染后出现血尿 绝对不是小事儿 更不是上火 一定要及时的就医 明确诊断 规范的治疗 不要因为疏忽 耽搁了最佳的治疗时机",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2948,
+    "seg_id": "S8-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "总结呼吁",
+    "template": "hero_text",
+    "items": [
+      "重视每一个异常信号从预防感染开始"
+    ],
+    "atoms_text": "保护肾脏 就从预防感染 重视身体的每一个异常信号开始",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2949,
+    "seg_id": "S8-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "总结呼吁",
+    "template": "hero_text",
+    "items": [
+      "点赞收藏转发，守护家人的肾脏健康"
+    ],
+    "atoms_text": "觉得这个科普有用 记得点赞收藏 转发给家人朋友 让更多的人避开误区 守护自己的肾脏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2950,
+    "seg_id": "S1-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "腹透 vs 血透，到底选哪个？"
+    ],
+    "atoms_text": "尿毒症患者的透析 是腹膜透析好 还是血液透析好 这条视频 有慢性肾病的朋友 一定要认真听",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2951,
+    "seg_id": "S1-L2",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "开场点题",
+    "template": "myth_buster",
+    "items": [
+      "腹透好，不用跑医院",
+      "血透好，透得更干净"
+    ],
+    "atoms_text": "有人说腹膜透析好 不用跑医院 有人说血液透析好 透得干净 到底听谁的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2952,
+    "seg_id": "S1-L3",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "四条标准，帮你对号入座"
+    ],
+    "atoms_text": "今天我 把这件事 彻底的讲明白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2953,
+    "seg_id": "S2-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "血液透析原理",
+    "template": "step_arrow",
+    "items": [
+      "血液从身体引出",
+      "机器过滤废物与多余水分",
+      "净化后血液送回体内"
+    ],
+    "atoms_text": "血液透析 就是去医院 把你的血 从身体里面引出来 经过一台机器 过滤掉废物和多余的水分 再送回去",
+    "needs_animation": true,
+    "label": "血液从体内引出经透析机过滤废物和多余水分后送回体内"
+  },
+  {
+    "global_index": 2954,
+    "seg_id": "S2-L2",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "血液透析原理",
+    "template": "number_center",
+    "items": [
+      "12"
+    ],
+    "atoms_text": "一般一周去三次 一次四个小时 雷打不动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2955,
+    "seg_id": "S3-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "腹膜透析原理",
+    "template": "step_arrow",
+    "items": [
+      "腹腔置入透析管",
+      "灌入透析液泡几小时",
+      "腹膜过滤毒素后放出",
+      "一天换液三到四次"
+    ],
+    "atoms_text": "腹膜透析呢 是在你的肚子里面 放一根管子 每次往自己肚子里面 灌进一袋透析液 利用你自己腹膜上的血管 来过滤毒素 泡几个小时 再放出来 一天换三到四次",
+    "needs_animation": true,
+    "label": "腹腔置管灌入透析液利用腹膜血管过滤毒素后排出"
+  },
+  {
+    "global_index": 2956,
+    "seg_id": "S4-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "判断标准导入",
+    "template": "hero_text",
+    "items": [
+      "四条标准，逐条对号入座"
+    ],
+    "atoms_text": "下面我说 四条判断标准 你可以对号入座",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2957,
+    "seg_id": "S5-L1",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准一：残余肾功能",
+    "template": "hero_text",
+    "items": [
+      "看你还剩多少肾功能"
+    ],
+    "atoms_text": "第一 看你还剩多少肾功能",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2958,
+    "seg_id": "S5-L2",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准一：残余肾功能",
+    "template": "split_column",
+    "items": [
+      "持续缓慢透析，冲击小",
+      "间歇性猛透，血压波动大",
+      "残余肾功能保护更好",
+      "残余肾功能下降更快"
+    ],
+    "atoms_text": "刚开始透析的头一两年 腹膜透析 对残余肾功能的保护 是优于血透的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2959,
+    "seg_id": "S5-L3",
+    "bp_title": "腹透 vs 血透，尿毒症患者如何选择？",
+    "scene_title": "标准一：残余肾功能",
+    "template": "brick_stack",
+    "items": [
+      "帮助排出多余水分",
+      "辅助清除毒素",
+      "维持内环境稳定"
+    ],
+    "atoms_text": "因为你的肾脏 虽然不行了 但还剩一点点残余肾功能 这一点点很宝贵 它能帮助你 排一点水 排一点毒素 维持一点内环境的稳定",
+    "needs_animation": false,
+    "label": ""
+  }
+]

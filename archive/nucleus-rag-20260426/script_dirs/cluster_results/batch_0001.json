@@ -1,0 +1,520 @@
+[
+  {
+    "global_index": 40,
+    "seg_id": "S5-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第二件事：力量训练",
+    "template": "list_fade",
+    "items": [
+      "靠墙蹲锻炼腿部肌肉",
+      "深蹲激活大肌群",
+      "弹力带拉伸训练",
+      "每周三次每次半小时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 41,
+    "seg_id": "S5-L4",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第二件事：力量训练",
+    "template": "hero_text",
+    "items": [
+      "肌肉建大了全天候燃脂消糖"
+    ],
+    "needs_animation": true,
+    "label": "肌肉组织摄取葡萄糖的代谢过程"
+  },
+  {
+    "global_index": 42,
+    "seg_id": "S6-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第三件事：换进食顺序",
+    "template": "hero_text",
+    "items": [
+      "同样的饭换个顺序吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 43,
+    "seg_id": "S6-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第三件事：换进食顺序",
+    "template": "hero_text",
+    "items": [
+      "不减食物不挨饿轻松控糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 44,
+    "seg_id": "S6-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第三件事：换进食顺序",
+    "template": "split_column",
+    "items": [
+      "先吃米饭再吃菜和肉",
+      "先吃菜和肉最后吃米饭",
+      "餐后血糖峰值更高",
+      "血糖峰值降低30%至40%"
+    ],
+    "needs_animation": true,
+    "label": "进食顺序对餐后血糖波动的影响"
+  },
+  {
+    "global_index": 45,
+    "seg_id": "S7-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第四件事：盯住腰围",
+    "template": "hero_text",
+    "items": [
+      "盯住腰围是逆转晴雨表"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 46,
+    "seg_id": "S7-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第四件事：盯住腰围",
+    "template": "split_column",
+    "items": [
+      "血糖数值反映当下状态",
+      "腰围更能反映逆转进程",
+      "受饮食波动影响较大",
+      "腰围缩小说明内脏脂肪在减"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 47,
+    "seg_id": "S7-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第四件事：盯住腰围",
+    "template": "step_arrow",
+    "items": [
+      "腰围持续缩小",
+      "内脏脂肪真正减少",
+      "血糖逆转的根本实现"
+    ],
+    "needs_animation": true,
+    "label": "内脏脂肪减少改善胰岛素敏感性过程"
+  },
+  {
+    "global_index": 48,
+    "seg_id": "S8-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "逆转的边界与希望",
+    "template": "warning_alert",
+    "items": [
+      "逆转后体质仍比常人更易高血糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 49,
+    "seg_id": "S8-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "逆转的边界与希望",
+    "template": "list_fade",
+    "items": [
+      "按时复查不能省略",
+      "医生未叫停前不要自行停药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 50,
+    "seg_id": "S8-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "逆转的边界与希望",
+    "template": "hero_text",
+    "items": [
+      "窗口期内减脂养肌血糖可回正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 51,
+    "seg_id": "S8-L4",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "逆转的边界与希望",
+    "template": "hero_text",
+    "items": [
+      "说清楚了吗评论区告诉我"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 52,
+    "seg_id": "S1-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言开场引入",
+    "template": "warning_alert",
+    "items": [
+      "偏方治糖尿病的视频满天飞",
+      "胰岛素会上瘾千万别打"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 53,
+    "seg_id": "S1-L2",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言开场引入",
+    "template": "hero_text",
+    "items": [
+      "五条糖尿病谣言正在害人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 54,
+    "seg_id": "S1-L3",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言开场引入",
+    "template": "hero_text",
+    "items": [
+      "一条一条讲清楚谣言真相"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 55,
+    "seg_id": "S2-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言一：糖吃多了才得糖尿病",
+    "template": "myth_buster",
+    "items": [
+      "糖尿病是糖吃多了吃出来的",
+      "这是传播最广的谣言"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 56,
+    "seg_id": "S2-L2",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言一：糖吃多了才得糖尿病",
+    "template": "hero_text",
+    "items": [
+      "胰腺正常吃一斤糖血糖照样能恢复"
+    ],
+    "needs_animation": true,
+    "label": "胰腺分泌胰岛素调节血糖过程"
+  },
+  {
+    "global_index": 57,
+    "seg_id": "S2-L3",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言一：糖吃多了才得糖尿病",
+    "template": "split_column",
+    "items": [
+      "嘴馋吃糖导致糖尿病",
+      "胰岛素不敏感或分泌不足才是根源"
+    ],
+    "needs_animation": true,
+    "label": "胰岛素抵抗与分泌不足的病理机制"
+  },
+  {
+    "global_index": 58,
+    "seg_id": "S2-L4",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言一：糖吃多了才得糖尿病",
+    "template": "brick_stack",
+    "items": [
+      "久坐不动",
+      "遗传因素",
+      "内脏脂肪堆积",
+      "肥胖超重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 59,
+    "seg_id": "S2-L5",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言一：糖吃多了才得糖尿病",
+    "template": "hero_text",
+    "items": [
+      "糖尿病的根是胰岛素出了问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 60,
+    "seg_id": "S2-L6",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言一：糖吃多了才得糖尿病",
+    "template": "list_fade",
+    "items": [
+      "遗传基因影响胰岛素功能",
+      "内脏脂肪干扰胰岛素敏感性",
+      "久坐加速胰岛素抵抗"
+    ],
+    "needs_animation": true,
+    "label": "内脏脂肪导致胰岛素抵抗的机制"
+  },
+  {
+    "global_index": 61,
+    "seg_id": "S3-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言二：水果一口都不能碰",
+    "template": "myth_buster",
+    "items": [
+      "得糖尿病水果一口都不能碰",
+      "水果里的糖与含糖饮料完全不同"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 62,
+    "seg_id": "S3-L2",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言二：水果一口都不能碰",
+    "template": "split_column",
+    "items": [
+      "含糖饮料糖分快速释放",
+      "水果含纤维糖分缓慢释放"
+    ],
+    "needs_animation": true,
+    "label": "膳食纤维减缓肠道糖分吸收过程"
+  },
+  {
+    "global_index": 63,
+    "seg_id": "S3-L3",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言二：水果一口都不能碰",
+    "template": "list_fade",
+    "items": [
+      "草莓升糖速度低",
+      "蓝莓升糖速度低",
+      "柚子升糖速度低",
+      "樱桃升糖速度低"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 64,
+    "seg_id": "S3-L4",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言二：水果一口都不能碰",
+    "template": "step_arrow",
+    "items": [
+      "每天一拳头大小的量",
+      "放在两餐之间吃",
+      "对血糖影响很小"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 65,
+    "seg_id": "S3-L5",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言二：水果一口都不能碰",
+    "template": "warning_alert",
+    "items": [
+      "水果榨汁后纤维消失等于喝糖水"
+    ],
+    "needs_animation": true,
+    "label": "膳食纤维减缓肠道糖分吸收过程"
+  },
+  {
+    "global_index": 66,
+    "seg_id": "S3-L6",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言二：水果一口都不能碰",
+    "template": "myth_buster",
+    "items": [
+      "糖尿病人水果完全不能吃",
+      "选对品种控好量可以适量吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 67,
+    "seg_id": "S4-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "myth_buster",
+    "items": [
+      "血糖降得越低越好越安全",
+      "低血糖伤害比高血糖更快更急"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 68,
+    "seg_id": "S4-L2",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "split_column",
+    "items": [
+      "高血糖伤害以年为单位累积",
+      "低血糖伤害以小时分钟计算"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 69,
+    "seg_id": "S4-L3",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "vertical_timeline",
+    "items": [
+      "低于3.9 心慌手抖冒冷汗",
+      "低于2.8 可能直接晕倒",
+      "极度低血糖 脑细胞缺糖致命"
+    ],
+    "needs_animation": true,
+    "label": "低血糖对脑细胞的损伤过程"
+  },
+  {
+    "global_index": 70,
+    "seg_id": "S4-L4",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "warning_alert",
+    "items": [
+      "老年人夜里低血糖自己毫无察觉"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 71,
+    "seg_id": "S4-L5",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "warning_alert",
+    "items": [
+      "不要自行加药追求血糖越低越好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 72,
+    "seg_id": "S4-L6",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "hero_text",
+    "items": [
+      "血糖目标应由医生根据个人情况设定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 73,
+    "seg_id": "S4-L7",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "number_center",
+    "items": [
+      "7～8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 74,
+    "seg_id": "S4-L8",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "hero_text",
+    "items": [
+      "适合自己的目标才是好目标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 75,
+    "seg_id": "S4-L9",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言三：血糖降越低越好",
+    "template": "list_fade",
+    "items": [
+      "年龄影响血糖控制目标",
+      "身体基础状况决定安全范围",
+      "用药方案影响目标设定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 76,
+    "seg_id": "S5-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言四：胰岛素打了会上瘾",
+    "template": "myth_buster",
+    "items": [
+      "胰岛素一打就停不了会上瘾",
+      "胰岛素是身体本来就有的物质"
+    ],
+    "needs_animation": true,
+    "label": "胰腺β细胞分泌胰岛素过程"
+  },
+  {
+    "global_index": 77,
+    "seg_id": "S5-L2",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言四：胰岛素打了会上瘾",
+    "template": "hero_text",
+    "items": [
+      "缺什么补什么这是最基本的道理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 78,
+    "seg_id": "S5-L3",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言四：胰岛素打了会上瘾",
+    "template": "step_arrow",
+    "items": [
+      "早期注射胰岛素快速压低血糖",
+      "让胰腺得到充分休息恢复",
+      "之后可换回口服药甚至减药"
+    ],
+    "needs_animation": true,
+    "label": "外源胰岛素替代治疗与胰腺β细胞恢复机制"
+  },
+  {
+    "global_index": 79,
+    "seg_id": "S5-L4",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言四：胰岛素打了会上瘾",
+    "template": "split_column",
+    "items": [
+      "打胰岛素配合治疗可减药",
+      "拒绝胰岛素血糖持续高并发症来袭"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,555 @@
+[
+  {
+    "global_index": 3320,
+    "seg_id": "S4-L4",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第一步：心电图",
+    "template": "warning_alert",
+    "items": [
+      "彩超正常不代表没有电路缺陷"
+    ],
+    "atoms_text": "这类病 心脏结构完全正常 彩超什么问题都看不出来 但电信号 天生有缺陷",
+    "needs_animation": true,
+    "label": "心脏结构正常但电信号传导天生缺陷（离子通道病）"
+  },
+  {
+    "global_index": 3321,
+    "seg_id": "S4-L5",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第一步：心电图",
+    "template": "branch_path",
+    "items": [
+      "剧烈运动、情绪激动或熟睡中",
+      "心电图上能提前发现异常线索",
+      "电路短路，心脏骤停"
+    ],
+    "atoms_text": "平时可能没事 遇到剧烈的运动 情绪激动 甚至在睡梦中 电路突然短路 心脏就停了",
+    "needs_animation": true,
+    "label": "剧烈运动或情绪激动时心脏电传导突然短路致心脏骤停"
+  },
+  {
+    "global_index": 3322,
+    "seg_id": "S4-L6",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第一步：心电图",
+    "template": "hero_text",
+    "items": [
+      "心电图是排查电路异常的第一道关"
+    ],
+    "atoms_text": "在心电图上 往往能找到线索",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3323,
+    "seg_id": "S5-L1",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第二步：心脏彩超",
+    "template": "step_arrow",
+    "items": [
+      "第二步：做心脏彩超",
+      "排查心肌本身问题",
+      "聚焦肥厚型心肌病"
+    ],
+    "atoms_text": "第二步 做个心脏的彩超 这一步排查的是 心肌本身有没有问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3324,
+    "seg_id": "S5-L2",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第二步：心脏彩超",
+    "template": "list_fade",
+    "items": [
+      "年轻人遗传性猝死最常见原因之一",
+      "患者平时体能可能很好",
+      "毫无不适感，难以察觉"
+    ],
+    "atoms_text": "最典型的 就是肥厚型心肌病 这个病 是年轻人遗传性猝死里面 最常见的原因之一",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3325,
+    "seg_id": "S5-L3",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第二步：心脏彩超",
+    "template": "warning_alert",
+    "items": [
+      "剧烈运动可能诱发恶性心律失常"
+    ],
+    "atoms_text": "心肌异常增厚 但平时可能 什么感觉都没有 有些人甚至 体能特别好",
+    "needs_animation": true,
+    "label": "肥厚型心肌病中心肌异常增厚但无症状"
+  },
+  {
+    "global_index": 3326,
+    "seg_id": "S5-L4",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第二步：心脏彩超",
+    "template": "step_arrow",
+    "items": [
+      "剧烈运动",
+      "肥厚心肌堵住血流出口",
+      "恶性心律失常，瞬间倒下"
+    ],
+    "atoms_text": "但一旦剧烈运动 肥厚的那块心肌 就有可能会挡住 血流的出口 直接诱发恶性心律失常 人瞬间就倒下了",
+    "needs_animation": true,
+    "label": "肥厚心肌在剧烈运动时阻挡左室流出道诱发恶性心律失常"
+  },
+  {
+    "global_index": 3327,
+    "seg_id": "S6-L1",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第三步：血脂检查",
+    "template": "step_arrow",
+    "items": [
+      "第三步：抽血查血脂",
+      "重点看低密度脂蛋白",
+      "即\"坏胆固醇\""
+    ],
+    "atoms_text": "第三步 抽血查一个血脂 重点看低密度脂蛋白 也就是咱们说的 坏胆固醇",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3328,
+    "seg_id": "S6-L2",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第三步：血脂检查",
+    "template": "list_fade",
+    "items": [
+      "基因决定坏胆固醇天生偏高",
+      "家族性高胆固醇血症"
+    ],
+    "atoms_text": "因为有一种病 叫家族性高胆固醇血症 基因决定了 你的坏胆固醇 天生就比别人高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3329,
+    "seg_id": "S6-L3",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第三步：血脂检查",
+    "template": "step_arrow",
+    "items": [
+      "坏胆固醇持续超标",
+      "血管堵塞远早于同龄人",
+      "30多岁冠状动脉严重狭窄"
+    ],
+    "atoms_text": "这种人的血管 堵的比同龄人 要早的多 也快的多 有的人三十几岁 冠状动脉 就已经严重狭窄了 自己完全不知道",
+    "needs_animation": true,
+    "label": "家族性高胆固醇血症患者冠状动脉加速狭窄堵塞"
+  },
+  {
+    "global_index": 3330,
+    "seg_id": "S6-L4",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "第三步：血脂检查",
+    "template": "warning_alert",
+    "items": [
+      "年轻+胆固醇高+家族史，须高度警惕"
+    ],
+    "atoms_text": "如果你年纪轻轻 低密度脂蛋白一直偏高 家里又有人 心脏出过事儿 那你要特别特别的警惕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3331,
+    "seg_id": "S7-L1",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "筛查结果与干预",
+    "template": "hero_text",
+    "items": [
+      "三步检查覆盖主要遗传性猝死风险"
+    ],
+    "atoms_text": "这三步做完 就能把最常见的 遗传性猝死风险 基本排查一遍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3332,
+    "seg_id": "S7-L2",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "筛查结果与干预",
+    "template": "branch_path",
+    "items": [
+      "三步结果均正常",
+      "大概率可以放心，无需过度焦虑",
+      "定期复查，保持关注"
+    ],
+    "atoms_text": "如果都正常 那你大概率可以放心了 不用天天看新闻 自己吓自己",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3333,
+    "seg_id": "S7-L3",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "筛查结果与干预",
+    "template": "branch_path",
+    "items": [
+      "查出异常",
+      "越早发现，干预效果越好",
+      "拖延不查，风险持续累积"
+    ],
+    "atoms_text": "如果查出来有异常 那反而也是一件好事 越早发现 越早干预 结局完全是不一样的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3334,
+    "seg_id": "S7-L4",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "筛查结果与干预",
+    "template": "list_fade",
+    "items": [
+      "定期随访监测病情变化",
+      "有梗阻者需及时用药干预"
+    ],
+    "atoms_text": "比如肥厚性心肌病 查出来 要定期的随访 如果有梗阻了 就需要用药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3335,
+    "seg_id": "S7-L5",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "筛查结果与干预",
+    "template": "list_fade",
+    "items": [
+      "早用他汀类药物降低坏胆固醇",
+      "阻止斑块生长，保护血管"
+    ],
+    "atoms_text": "家族性高胆固醇血症 查出来 早点用上他汀 把坏的胆固醇给降下来 斑块就不容易生长",
+    "needs_animation": true,
+    "label": "他汀降低坏胆固醇从而抑制斑块生长"
+  },
+  {
+    "global_index": 3336,
+    "seg_id": "S8-L1",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "结语升华",
+    "template": "hero_text",
+    "items": [
+      "无法选择基因，但可以选择了解它"
+    ],
+    "atoms_text": "我们没有办法 选择自己的基因 但我们可以 选择去了解它",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3337,
+    "seg_id": "S8-L2",
+    "bp_title": "猝死会遗传吗？心源性猝死风险自查指南",
+    "scene_title": "结语升华",
+    "template": "hero_text",
+    "items": [
+      "你都明白了吗？"
+    ],
+    "atoms_text": "我都说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3338,
+    "seg_id": "S1-L1",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "猝死真的毫无征兆吗",
+    "template": "hero_text",
+    "items": [
+      "猝死前身体到底会不会求救"
+    ],
+    "atoms_text": "发生心源性猝死之前 身体到底会不会求救 为什么猝死的偏偏就是年轻人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3339,
+    "seg_id": "S1-L2",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "猝死真的毫无征兆吗",
+    "template": "myth_buster",
+    "items": [
+      "猝死毫无征兆",
+      "真正的\"无征兆\"极少发生"
+    ],
+    "atoms_text": "其实啊 这个世界 真的很少 那种毫无征兆猝死",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3340,
+    "seg_id": "S1-L3",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "猝死真的毫无征兆吗",
+    "template": "hero_text",
+    "items": [
+      "身体早已发出信号，只是你没当回事"
+    ],
+    "atoms_text": "大多数情况下 身体早就发出过信号 只是你根本没有把它当回事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3341,
+    "seg_id": "S1-L4",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "猝死真的毫无征兆吗",
+    "template": "list_fade",
+    "items": [
+      "三个关键信号请牢记"
+    ],
+    "atoms_text": "这三个常见的信号 请大家好好记住",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3342,
+    "seg_id": "S2-L1",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号一：胸口闷紧缩",
+    "template": "body_annotate",
+    "items": [
+      "胸口闷、紧、有压迫感"
+    ],
+    "atoms_text": "第一个 胸口像被一块大石头压住的 闷紧缩",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3343,
+    "seg_id": "S2-L2",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号一：胸口闷紧缩",
+    "template": "body_annotate",
+    "items": [
+      "可放射至后背、左肩、下巴牙床"
+    ],
+    "atoms_text": "这种疼啊 有时候会窜到 后背 左肩膀 甚至下巴和牙床",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3344,
+    "seg_id": "S2-L3",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号一：胸口闷紧缩",
+    "template": "myth_buster",
+    "items": [
+      "误以为是胃疼或颈椎病",
+      "警惕！可能是心脏供血不足"
+    ],
+    "atoms_text": "很多人啊 误以为是 胃疼 岔气 颈椎病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3345,
+    "seg_id": "S2-L4",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号一：胸口闷紧缩",
+    "template": "branch_path",
+    "items": [
+      "闷痛是否与活动或情绪相关",
+      "停下即缓解→高度警惕心脏",
+      "无规律→可继续观察"
+    ],
+    "atoms_text": "记住啊 如果这种闷疼啊 跟活动情绪明显相关 一停下来就缓解",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3346,
+    "seg_id": "S2-L5",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号一：胸口闷紧缩",
+    "template": "warning_alert",
+    "items": [
+      "活动后闷痛是心脏供血不足的典型信号"
+    ],
+    "atoms_text": "这是非常典型的 心脏供血不足的表现 需要提高警惕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3347,
+    "seg_id": "S3-L1",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号二：极度疲劳",
+    "template": "hero_text",
+    "items": [
+      "莫名极度疲劳，休息也缓不过来"
+    ],
+    "atoms_text": "第二个 莫名其妙的极度疲劳",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3348,
+    "seg_id": "S3-L2",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号二：极度疲劳",
+    "template": "list_fade",
+    "items": [
+      "没干重活，累到骨子里",
+      "稍微动动就大汗淋漓",
+      "轻微活动即气喘吁吁"
+    ],
+    "atoms_text": "最近也没干什么重活 但是整个人啊 累到骨子里 整个休息都缓不过来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3349,
+    "seg_id": "S3-L3",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号二：极度疲劳",
+    "template": "myth_buster",
+    "items": [
+      "这只是亚健康、休息不好",
+      "持续存在说明心脏已泵血困难"
+    ],
+    "atoms_text": "稍微动动 就大汗淋漓 气喘吁吁",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3350,
+    "seg_id": "S3-L4",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号二：极度疲劳",
+    "template": "warning_alert",
+    "items": [
+      "持续疲劳是心脏在求救"
+    ],
+    "atoms_text": "如果是持续存在的 这就不是亚健康这么简单",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3351,
+    "seg_id": "S3-L5",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号二：极度疲劳",
+    "template": "hero_text",
+    "items": [
+      "心脏已经在告诉你：它快泵不动了"
+    ],
+    "atoms_text": "这是心脏在告诉你 它已经泵不动的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3352,
+    "seg_id": "S4-L1",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号三：心慌+眼前发黑",
+    "template": "hero_text",
+    "items": [
+      "心慌伴眼前发黑，最高级别警报"
+    ],
+    "atoms_text": "第三个 心慌加眼前发黑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3353,
+    "seg_id": "S4-L2",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号三：心慌+眼前发黑",
+    "template": "step_arrow",
+    "items": [
+      "突然心脏乱跳",
+      "紧接着眼前发黑",
+      "甚至短暂晕厥"
+    ],
+    "atoms_text": "突然感觉心脏突突乱跳 紧跟着眼前一黑 甚至短暂的晕过去",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3354,
+    "seg_id": "S4-L3",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号三：心慌+眼前发黑",
+    "template": "warning_alert",
+    "items": [
+      "心脏电路系统短路，如同总闸跳闸"
+    ],
+    "atoms_text": "这是心脏电路系统在短路 是最高级别的警报",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3355,
+    "seg_id": "S4-L4",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "信号三：心慌+眼前发黑",
+    "template": "warning_alert",
+    "items": [
+      "一旦出现立即就医，尤其是年轻人"
+    ],
+    "atoms_text": "一旦出现这个情况 请大家尽快的就医 尤其是平时啊 看起来很健康的年轻朋友",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3356,
+    "seg_id": "S5-L1",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "为什么偏偏是年轻人",
+    "template": "split_column",
+    "items": [
+      "老年人血管慢慢硬化堵塞",
+      "年轻人血管可迅速严重狭窄",
+      "身体有时间长出备用通道",
+      "没有备用通道，平时毫无症状"
+    ],
+    "atoms_text": "因为咱们老年人啊 血管虽然硬化得很厉害 再因为堵得慢堵得久",
+    "needs_animation": true,
+    "label": "老年人血管慢性硬化狭窄的渐进过程"
+  },
+  {
+    "global_index": 3357,
+    "seg_id": "S5-L2",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "为什么偏偏是年轻人",
+    "template": "body_annotate",
+    "items": [
+      "侧支循环：绕道供血的备用小路"
+    ],
+    "atoms_text": "身体啊会偷偷长出一些小路 侧支循环 来绕道供血 相当于有了备用通道",
+    "needs_animation": true,
+    "label": "慢性缺血促使侧支循环形成绕道供血"
+  },
+  {
+    "global_index": 3358,
+    "seg_id": "S5-L3",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "为什么偏偏是年轻人",
+    "template": "step_arrow",
+    "items": [
+      "斑块突然破裂",
+      "血栓堵死血管",
+      "直接总闸跳闸，无任何缓冲"
+    ],
+    "atoms_text": "可年轻人不一样 血管可能已经狭窄到很严重的程度了",
+    "needs_animation": true,
+    "label": "年轻人冠脉已严重狭窄但无侧支代偿"
+  },
+  {
+    "global_index": 3359,
+    "seg_id": "S5-L4",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "为什么偏偏是年轻人",
+    "template": "hero_text",
+    "items": [
+      "没有备用通道，崩溃来得猝不及防"
+    ],
+    "atoms_text": "但因为没有这些备用通道 平时一点症状都没有",
+    "needs_animation": true,
+    "label": "年轻人缺乏侧支循环导致狭窄无症状突发致命"
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "global_index": 4160,
+    "seg_id": "S6-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "方法对了每天半小时，胜过冲动猛练三天"
+    ],
+    "atoms_text": "运动这个事儿 咱不怕慢 就怕错 方法对了 每天半小时 坚持下去 比你 一时冲动 猛练三天呢 都有效 记住了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4161,
+    "seg_id": "S1-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "我是张医生"
+    ],
+    "atoms_text": "大家好 我是您的张医生",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4162,
+    "seg_id": "S1-L2",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "父母高血压，我也跑不掉？"
+    ],
+    "atoms_text": "嗯 最近呢 有很多人在问 我爸高血压 我妈也高血压 那我是不是 迟早也跑不掉啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4163,
+    "seg_id": "S1-L3",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "三十多岁查出高血压，怪遗传？"
+    ],
+    "atoms_text": "特别是 三十多岁年轻人 哎 体检时候 发现血压高了 第一反应 完了完了啊 遗传的 这命吧 我爸妈都高血压 我将来肯定高血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4164,
+    "seg_id": "S1-L4",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "对了一半，错的那半才能救你"
+    ],
+    "atoms_text": "我跟你讲 其实这想法 你就对了一半 那错的另一半呢 恰恰是能救你的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4165,
+    "seg_id": "S1-L5",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "今天说清楚这件事"
+    ],
+    "atoms_text": "今天呢 我跟你说清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4166,
+    "seg_id": "S2-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "遗传的真相",
+    "template": "number_center",
+    "items": [
+      "2～3倍"
+    ],
+    "atoms_text": "这个遗传呢 确实是 高血压的一个因素 就是你得高血压的概率 要比别人 就是高两到三倍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4167,
+    "seg_id": "S2-L2",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "遗传的真相",
+    "template": "hero_text",
+    "items": [
+      "概率高不等于一定会得病"
+    ],
+    "atoms_text": "但注意啊 你高啊 不一定你会得",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4168,
+    "seg_id": "S2-L3",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "遗传的真相",
+    "template": "split_column",
+    "items": [
+      "以为遗传的是高血压本身",
+      "实为更脆的血管和对盐更敏感的体质",
+      "认为命中注定无法改变",
+      "体质只是起点，不是终点"
+    ],
+    "atoms_text": "这个遗传给你的 本身 它不是高血压本身 而是 一根比别人更脆的一个血管 一个对盐更敏感的身体",
+    "needs_animation": true,
+    "label": "遗传导致血管壁更脆弱及身体对盐更敏感的生理特性"
+  },
+  {
+    "global_index": 4169,
+    "seg_id": "S2-L4",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "遗传的真相",
+    "template": "hero_text",
+    "items": [
+      "老天发了把烂伞，淋不淋雨你说了算"
+    ],
+    "atoms_text": "哎 你可以把它理解成什么呢 老天爷给你发了一把烂伞 但这个雨啊 到底会不会淋到你身上 哎 得看你自己往哪走",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4170,
+    "seg_id": "S3-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "肥胖如何推高血压",
+    "template": "hero_text",
+    "items": [
+      "真正推你过界的第一点：胖"
+    ],
+    "atoms_text": "真正能把你推过界的是三点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4171,
+    "seg_id": "S3-L2",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "肥胖如何推高血压",
+    "template": "step_arrow",
+    "items": [
+      "腹部脂肪堆积",
+      "血管硬化弹性下降",
+      "血压持续上升"
+    ],
+    "atoms_text": "第一个 胖 特别是啊 肚子特别大那种胖 脂肪多了 哎 这血管硬了 血压就上来了",
+    "needs_animation": true,
+    "label": "腹部脂肪堆积导致血管硬化、血压升高"
+  },
+  {
+    "global_index": 4172,
+    "seg_id": "S3-L3",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "肥胖如何推高血压",
+    "template": "hero_text",
+    "items": [
+      "三十多岁胖20斤，血压滋滋往上涨"
+    ],
+    "atoms_text": "我见过特别多的人呢 二十多岁 血压好好的 那三十多岁 胖了二十斤之后啊 这血压滋滋往上涨",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4173,
+    "seg_id": "S3-L4",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "肥胖如何推高血压",
+    "template": "split_column",
+    "items": [
+      "遗传给你一根容易断的绳子",
+      "肥胖才是那只一直拽绳子的手"
+    ],
+    "atoms_text": "遗传呢 给了你一根 就是容易断的绳子 胖的才是那个 哎 一直拽绳子的力",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4174,
+    "seg_id": "S4-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "盐的隐形杀伤",
+    "template": "split_column",
+    "items": [
+      "中国人日均吃盐10克",
+      "指南推荐每日不超过5克"
+    ],
+    "atoms_text": "第二呢 盐吃的多 咱们中国人呢 一天吃盐平均是十克啊 咱们指南推荐呢 是五克",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4175,
+    "seg_id": "S4-L2",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "盐的隐形杀伤",
+    "template": "hero_text",
+    "items": [
+      "有遗传背景，吃盐一多血压就飙"
+    ],
+    "atoms_text": "有遗传背景的人呢 对这个盐更敏感 别人吃没事 但是你吃了它 哎 这血压就容易飙升",
+    "needs_animation": true,
+    "label": "盐敏感体质摄入高盐后血压飙升的机制"
+  },
+  {
+    "global_index": 4176,
+    "seg_id": "S4-L3",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "盐的隐形杀伤",
+    "template": "list_fade",
+    "items": [
+      "酱油中的隐形盐",
+      "咸菜中的隐形盐",
+      "外卖里的隐形盐"
+    ],
+    "atoms_text": "更何况呢 什么啊 酱油啊 咸菜呀 外卖里的隐形盐 那才是真正的坑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4177,
+    "seg_id": "S5-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "熬夜与压力的危害",
+    "template": "step_arrow",
+    "items": [
+      "长期熬夜加持续焦虑",
+      "血管神经持续紧绷激动",
+      "血压居高不下难以恢复"
+    ],
+    "atoms_text": "第三个 熬夜和压力 有遗传背景的人 哎 这个血管神经 它本来就容易比别人激动 你在天天熬夜 在焦虑 哎 你这个血管 一直绷着不放 这血压能不上去吗",
+    "needs_animation": true,
+    "label": "熬夜压力下血管神经持续兴奋致血管紧绷血压升高"
+  },
+  {
+    "global_index": 4178,
+    "seg_id": "S6-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "起跑线与终点线",
+    "template": "hero_text",
+    "items": [
+      "基因定起跑线，终点你自己说了算"
+    ],
+    "atoms_text": "所以你记住 这个基因决定的 是你起跑线 要比别人靠前了一点点 但是终点在哪呀 是你自己说了算",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4179,
+    "seg_id": "S6-L2",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "起跑线与终点线",
+    "template": "myth_buster",
+    "items": [
+      "父母有高血压，自己五十岁血压仍正常",
+      "坚持健康生活，遗传风险可被抵消",
+      "父母无高血压，自己三十岁已开始吃药",
+      "忽视生活方式，无遗传也会早发高血压"
+    ],
+    "atoms_text": "我见过 就是父母高血压 但是自己啊 五六十岁 血压也正常的 也见过 父母没有事儿 哎 但是他自己 三十岁的时候啊 他就开始吃药了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4180,
+    "seg_id": "S7-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "行动建议收尾",
+    "template": "list_fade",
+    "items": [
+      "每天监测血压，别等到180才急",
+      "控制饮食，胖了就减",
+      "少吃盐，警惕隐形盐",
+      "好好睡觉，别熬夜"
+    ],
+    "atoms_text": "那父母有高血压的 你真正该做的 不是焦虑啊 而是 你每天啊 监测血压 胖了咱就减 盐呢控制住 觉呀好好睡 别熬夜",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4181,
+    "seg_id": "S7-L2",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "行动建议收尾",
+    "template": "hero_text",
+    "items": [
+      "血压刚偏高时干预，真的可以逆转"
+    ],
+    "atoms_text": "血压刚有点偏高的时候啊 你真的可以转回来的 你别等到一百六了 你再去着急",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4182,
+    "seg_id": "S7-L3",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "行动建议收尾",
+    "template": "hero_text",
+    "items": [
+      "基因改不了，但足够决定结果的事你能做到"
+    ],
+    "atoms_text": "基因呢 咱改变不了 但是能改变的 是咱们刚才说的那些啊 这些呢 就已经足够 能决定你会不会得高血压了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4183,
+    "seg_id": "S1-L1",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "一个关于血糖的大误区",
+    "template": "myth_buster",
+    "items": [
+      "空腹血糖正常就没糖尿病",
+      "这个认知大错特错"
+    ],
+    "atoms_text": "我今天先想问大家一个问题 就是如果你的空腹血糖正常 那是不是就代表没有糖尿病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4184,
+    "seg_id": "S1-L2",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "一个关于血糖的大误区",
+    "template": "hero_text",
+    "items": [
+      "很多人都点头认同这个误区"
+    ],
+    "atoms_text": "那很多人点头说 对对对对对",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4185,
+    "seg_id": "S1-L3",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "一个关于血糖的大误区",
+    "template": "warning_alert",
+    "items": [
+      "空腹正常≠排除糖尿病"
+    ],
+    "atoms_text": "那我告诉你 大错特错",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4186,
+    "seg_id": "S1-L4",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "一个关于血糖的大误区",
+    "template": "hero_text",
+    "items": [
+      "两分钟把血糖这件事讲明白"
+    ],
+    "atoms_text": "今天呢 咱们把血糖这个事儿讲明白 就两分钟时间",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4187,
+    "seg_id": "S2-L1",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "真实案例：阿姨的困惑",
+    "template": "hero_text",
+    "items": [
+      "阿姨拿着体检单来找医生"
+    ],
+    "atoms_text": "那上个月 这个阿姨来找我 拿着体检报告单 哎特别高兴",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4188,
+    "seg_id": "S2-L2",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "真实案例：阿姨的困惑",
+    "template": "number_center",
+    "items": [
+      "5.6"
+    ],
+    "atoms_text": "她说 张医生你看 我这个空腹血糖五点六 正常是不是 哎我这下可以放心了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4189,
+    "seg_id": "S2-L3",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "真实案例：阿姨的困惑",
+    "template": "branch_path",
+    "items": [
+      "您查过餐后血糖吗？",
+      "查了餐后血糖，才能全面评估",
+      "没查，以为空腹正常就够了"
+    ],
+    "atoms_text": "我接过报告一看 问他 阿姨您查餐后血糖了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4190,
+    "seg_id": "S2-L4",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "真实案例：阿姨的困惑",
+    "template": "hero_text",
+    "items": [
+      "空腹正常不就行了吗？"
+    ],
+    "atoms_text": "哎呀他说 餐后我没查过 那不是说空腹血糖正常就行了呗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4191,
+    "seg_id": "S2-L5",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "真实案例：阿姨的困惑",
+    "template": "number_center",
+    "items": [
+      "13.8"
+    ],
+    "atoms_text": "后来我给他查了 餐后两小时血糖 结果你们猜多少 十三点八",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4192,
+    "seg_id": "S2-L6",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "真实案例：阿姨的困惑",
+    "template": "warning_alert",
+    "items": [
+      "空腹正常，餐后却高达13.8"
+    ],
+    "atoms_text": "阿姨当场就懵了 这是咋回事啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4193,
+    "seg_id": "S3-L1",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "hero_text",
+    "items": [
+      "身体就像一辆车"
+    ],
+    "atoms_text": "来来来 我给你打个比方啊 你一听就懂",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4194,
+    "seg_id": "S3-L2",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "split_column",
+    "items": [
+      "车停着，油箱剩油量",
+      "踩油门，能否顺利烧油跑起来",
+      "空腹血糖——基础状态",
+      "餐后血糖——动态处理能力"
+    ],
+    "atoms_text": "咱们这个身体啊 就像一辆车",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4195,
+    "seg_id": "S3-L3",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "warning_alert",
+    "items": [
+      "排气管冒黑烟，油堵在那儿了"
+    ],
+    "atoms_text": "这空腹血糖 就是这个车停在那儿 你没发动的时候 这个油箱里还剩多少油",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4196,
+    "seg_id": "S3-L4",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "split_column",
+    "items": [
+      "空腹血糖——看基础",
+      "餐后血糖——看能力"
+    ],
+    "atoms_text": "这个数正常 说明啊你的基础代谢还行 车子没漏油",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4197,
+    "seg_id": "S3-L5",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "hero_text",
+    "items": [
+      "一个看基础，一个看能力"
+    ],
+    "atoms_text": "但这个餐后血糖就是 哎你一脚油门踩下去 这个车子能不能顺利的把油烧掉跑起来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4198,
+    "seg_id": "S3-L6",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "hero_text",
+    "items": [
+      "一听就懂的血糖原理"
+    ],
+    "atoms_text": "如果踩油门的时候啊 这排气管突突突的冒黑烟 油都堵在那儿了 那就是餐后血糖高了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4199,
+    "seg_id": "S3-L7",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "hero_text",
+    "items": [
+      "接下来讲真正的医学含义"
+    ],
+    "atoms_text": "所以这两个血糖哎 一个看基础 一个看能力",
+    "needs_animation": false,
+    "label": ""
+  }
+]

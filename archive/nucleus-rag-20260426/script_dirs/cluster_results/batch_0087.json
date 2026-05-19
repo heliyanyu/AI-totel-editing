@@ -1,0 +1,499 @@
+[
+  {
+    "global_index": 3480,
+    "seg_id": "S4-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗病理机制",
+    "template": "asset_clip",
+    "items": [
+      "血栓突然堵死冠状动脉"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉血栓堵塞过程"
+  },
+  {
+    "global_index": 3481,
+    "seg_id": "S4-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗病理机制",
+    "template": "asset_clip",
+    "items": [
+      "血流中断，心肌持续缺氧坏死"
+    ],
+    "needs_animation": true,
+    "label": "心肌缺血坏死过程"
+  },
+  {
+    "global_index": 3482,
+    "seg_id": "S4-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗病理机制",
+    "template": "step_arrow",
+    "items": [
+      "堵塞时间越长",
+      "坏死心肌越多",
+      "心衰、休克甚至猝死"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3483,
+    "seg_id": "S5-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "造影 vs 溶栓",
+    "template": "hero_text",
+    "items": [
+      "药物溶栓不能通血管吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3484,
+    "seg_id": "S5-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "造影 vs 溶栓",
+    "template": "myth_buster",
+    "items": [
+      "药物溶栓成功率低且有出血风险",
+      "急诊冠脉造影更快更有效更安全",
+      "溶栓速度慢无法精准定位",
+      "造影直接看清堵塞位置和程度"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3485,
+    "seg_id": "S5-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "造影 vs 溶栓",
+    "template": "asset_clip",
+    "items": [
+      "直接看到血管哪里堵、堵多严重"
+    ],
+    "needs_animation": true,
+    "label": "冠脉造影检查过程"
+  },
+  {
+    "global_index": 3486,
+    "seg_id": "S5-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "造影 vs 溶栓",
+    "template": "asset_clip",
+    "items": [
+      "用支架撑开血管，几分钟恢复血流"
+    ],
+    "needs_animation": true,
+    "label": "冠脉支架植入过程"
+  },
+  {
+    "global_index": 3487,
+    "seg_id": "S5-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "造影 vs 溶栓",
+    "template": "hero_text",
+    "items": [
+      "全世界公认的最佳心梗抢救方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3488,
+    "seg_id": "S5-L6",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "造影 vs 溶栓",
+    "template": "hero_text",
+    "items": [
+      "急诊冠脉造影是目前最快最有效的救命方法"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3489,
+    "seg_id": "S6-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "关键时刻最容易栽的三件事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3490,
+    "seg_id": "S6-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "warning_alert",
+    "items": [
+      "害怕签字，商量半天耽误抢救时间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3491,
+    "seg_id": "S6-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "asset_clip",
+    "items": [
+      "每一分钟犹豫，心肌就在坏死"
+    ],
+    "needs_animation": true,
+    "label": "心肌缺血坏死过程"
+  },
+  {
+    "global_index": 3492,
+    "seg_id": "S6-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "这不是谨慎，这是在拿命赌"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3493,
+    "seg_id": "S6-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "warning_alert",
+    "items": [
+      "非要去远处大医院，路上耽误数小时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3494,
+    "seg_id": "S6-L6",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "当地医院能做支架就尽快开通血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3495,
+    "seg_id": "S6-L7",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "warning_alert",
+    "items": [
+      "拒绝造影只输液，拖进ICU无法挽回"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3496,
+    "seg_id": "S6-L8",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "本能救活的病，因耽误时间失去生命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3497,
+    "seg_id": "S6-L9",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "每次遇到这种情况医生都格外心痛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3498,
+    "seg_id": "S6-L10",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "没做造影耽误时间，是最大的遗憾"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3499,
+    "seg_id": "S6-L11",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "造影就是在抢救生命，不要犹豫"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3500,
+    "seg_id": "S7-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "hero_text",
+    "items": [
+      "黄金十二小时到底怎么算"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3501,
+    "seg_id": "S7-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "list_fade",
+    "items": [
+      "持续胸痛胸闷大汗呼吸困难",
+      "后背疼、牙疼、胃疼也算症状起点"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3502,
+    "seg_id": "S7-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "number_center",
+    "items": [
+      "12小时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3503,
+    "seg_id": "S7-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "hero_text",
+    "items": [
+      "越早越好，最好两小时内完成手术"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3504,
+    "seg_id": "S7-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "branch_path",
+    "items": [
+      "超过十二小时怎么办",
+      "症状持续或休克心衰→医生评估继续造影",
+      "完全无症状→先稳定病情再考虑支架"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3505,
+    "seg_id": "S7-L6",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "myth_buster",
+    "items": [
+      "年纪大、有糖尿病高血压不能做造影",
+      "只要清醒有生命体征就有做造影的价值",
+      "基础病多的人风险更低",
+      "基础病多的人更要尽快打通血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3506,
+    "seg_id": "S7-L7",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "hero_text",
+    "items": [
+      "基础病越多，越要尽快做造影"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3507,
+    "seg_id": "S7-L8",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "warning_alert",
+    "items": [
+      "高龄高危患者不做造影死亡率更高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3508,
+    "seg_id": "S7-L9",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "hero_text",
+    "items": [
+      "医生会根据情况给出最优方案"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3509,
+    "seg_id": "S7-L10",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "hero_text",
+    "items": [
+      "时间越短，救活概率越高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3510,
+    "seg_id": "S8-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "绿色通道说明",
+    "template": "hero_text",
+    "items": [
+      "别担心急诊造影麻烦花钱多"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3511,
+    "seg_id": "S8-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "绿色通道说明",
+    "template": "list_fade",
+    "items": [
+      "正规医院都有胸痛中心绿色通道",
+      "心梗患者直接进手术室不排队",
+      "无需复杂手续，无需先交钱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3512,
+    "seg_id": "S8-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "绿色通道说明",
+    "template": "hero_text",
+    "items": [
+      "先救命后收费，国家规定的通道"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3513,
+    "seg_id": "S8-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "绿色通道说明",
+    "template": "hero_text",
+    "items": [
+      "绿色通道就是为了帮患者抢时间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3514,
+    "seg_id": "S8-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "绿色通道说明",
+    "template": "list_fade",
+    "items": [
+      "这是国家规定的绿色通道",
+      "就是为了抢时间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3515,
+    "seg_id": "S9-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "hero_text",
+    "items": [
+      "心梗典型症状，划重点记住"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3516,
+    "seg_id": "S9-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "list_fade",
+    "items": [
+      "胸口压榨样疼痛超过15分钟不缓解",
+      "大汗淋漓脸色苍白伴恶心呕吐",
+      "疼痛放射到后背肩膀脖子或牙胃",
+      "头晕心慌有快要晕倒的感觉"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3517,
+    "seg_id": "S9-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "warning_alert",
+    "items": [
+      "出现任何一条立刻拨打120，不犹豫"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3518,
+    "seg_id": "S9-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "hero_text",
+    "items": [
+      "到了医院听医生的，配合造影治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3519,
+    "seg_id": "S9-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "hero_text",
+    "items": [
+      "时间就是心肌，急诊造影就是在救命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

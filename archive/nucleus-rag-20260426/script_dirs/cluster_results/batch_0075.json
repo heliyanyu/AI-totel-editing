@@ -1,0 +1,535 @@
+[
+  {
+    "global_index": 3000,
+    "seg_id": "S6-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "熏——烧烤熏肉含强致癌物",
+    "template": "brick_stack",
+    "items": [
+      "含苯并芘等强致癌化合物",
+      "通常含盐量极高",
+      "长期食用胃肠持续受损",
+      "患癌风险直线飙升"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3001,
+    "seg_id": "S7-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "腌——亚硝酸盐是致癌帮凶",
+    "template": "hero_text",
+    "items": [
+      "自家腌咸菜再馋也要忍住"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3002,
+    "seg_id": "S7-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "腌——亚硝酸盐是致癌帮凶",
+    "template": "warning_alert",
+    "items": [
+      "腌制食物含亚硝酸盐是致癌帮凶",
+      "家庭自制咸菜亚硝酸盐严重超标"
+    ],
+    "needs_animation": true,
+    "label": "亚硝酸盐在体内转化为亚硝胺的致癌过程"
+  },
+  {
+    "global_index": 3003,
+    "seg_id": "S7-L3",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "腌——亚硝酸盐是致癌帮凶",
+    "template": "branch_path",
+    "items": [
+      "实在馋了怎么办",
+      "选正规厂家产品偶尔解馋",
+      "自制咸菜亚硝酸盐超标不可贪嘴"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3004,
+    "seg_id": "S8-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "油——高脂饮食伤肠道",
+    "template": "hero_text",
+    "items": [
+      "油炸食品和肥肉，贪多肠道受不了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3005,
+    "seg_id": "S8-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "油——高脂饮食伤肠道",
+    "template": "step_arrow",
+    "items": [
+      "高脂高热量食物冲击肠道菌群",
+      "菌群失衡破坏肠道屏障",
+      "肠癌风险随之升高"
+    ],
+    "needs_animation": true,
+    "label": "高脂饮食破坏肠道菌群及肠道屏障的病理过程"
+  },
+  {
+    "global_index": 3006,
+    "seg_id": "S8-L3",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "油——高脂饮食伤肠道",
+    "template": "hero_text",
+    "items": [
+      "能不吃就不吃，清淡饮食身体更好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3007,
+    "seg_id": "S9-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "酒——过量饮酒肝癌风险翻倍",
+    "template": "warning_alert",
+    "items": [
+      "过量饮酒肝癌风险成倍飙升"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3008,
+    "seg_id": "S9-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "酒——过量饮酒肝癌风险翻倍",
+    "template": "step_arrow",
+    "items": [
+      "酒精持续损伤肝细胞",
+      "逐步发展为酒精性肝病",
+      "肝病一步步演变为肝癌"
+    ],
+    "needs_animation": true,
+    "label": "酒精持续损伤肝细胞演变为肝癌的病理过程"
+  },
+  {
+    "global_index": 3009,
+    "seg_id": "S9-L3",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "酒——过量饮酒肝癌风险翻倍",
+    "template": "split_column",
+    "items": [
+      "过量饮酒",
+      "以茶代酒",
+      "伤肝增加肝癌风险",
+      "养肝护体更健康"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3010,
+    "seg_id": "S10-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "总结收尾",
+    "template": "color_grid",
+    "items": [
+      "烟·霉·咸·烫",
+      "熏·腌·油·酒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3011,
+    "seg_id": "S10-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "健康生活方式，就是最好的防癌处方"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3012,
+    "seg_id": "S1-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "头晕≠脑供血不足，原因有6种"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3013,
+    "seg_id": "S2-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "耳石症：最常见头晕",
+    "template": "number_center",
+    "items": [
+      "01 耳石症"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3014,
+    "seg_id": "S2-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "耳石症：最常见头晕",
+    "template": "body_annotate",
+    "items": [
+      "内耳耳石负责平衡感知",
+      "耳石脱落后位置随头部移动",
+      "起床/躺下/转头时触发眩晕"
+    ],
+    "needs_animation": true,
+    "label": "内耳耳石脱落导致眩晕的解剖与病理机制"
+  },
+  {
+    "global_index": 3015,
+    "seg_id": "S2-L3",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "耳石症：最常见头晕",
+    "template": "list_fade",
+    "items": [
+      "眩晕短暂，持续几秒到十几秒",
+      "体位改变时突然发作",
+      "无耳鸣、无听力下降"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3016,
+    "seg_id": "S2-L4",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "耳石症：最常见头晕",
+    "template": "myth_buster",
+    "items": [
+      "会有耳鸣听力下降",
+      "无耳鸣，无听力变化",
+      "会有肢体麻木",
+      "无肢体麻木症状"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3017,
+    "seg_id": "S2-L5",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "耳石症：最常见头晕",
+    "template": "step_arrow",
+    "items": [
+      "挂耳鼻喉科或神经内科",
+      "医生进行手法复位",
+      "症状快速缓解"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3018,
+    "seg_id": "S3-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "血压异常引发头晕",
+    "template": "number_center",
+    "items": [
+      "02 血压问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3019,
+    "seg_id": "S3-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "血压异常引发头晕",
+    "template": "split_column",
+    "items": [
+      "血压骤升",
+      "头晕、头胀感明显",
+      "血压过低（<90/60）",
+      "头晕、乏力、眼前发黑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3020,
+    "seg_id": "S3-L3",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "血压异常引发头晕",
+    "template": "warning_alert",
+    "items": [
+      "体位突然改变时头晕更明显",
+      "脑灌注不足可致眼前发黑"
+    ],
+    "needs_animation": true,
+    "label": "体位性低血压导致脑灌注不足的生理机制"
+  },
+  {
+    "global_index": 3021,
+    "seg_id": "S3-L4",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "血压异常引发头晕",
+    "template": "warning_alert",
+    "items": [
+      "高血压患者严禁擅自停药减药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3022,
+    "seg_id": "S4-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "颈椎病变压迫供血",
+    "template": "number_center",
+    "items": [
+      "03 颈椎问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3023,
+    "seg_id": "S4-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "颈椎病变压迫供血",
+    "template": "step_arrow",
+    "items": [
+      "颈椎长期退变",
+      "压迫椎动脉",
+      "脑部供血受影响",
+      "转头低头时头晕发作"
+    ],
+    "needs_animation": true,
+    "label": "颈椎退变压迫椎动脉导致脑供血不足的解剖病理过程"
+  },
+  {
+    "global_index": 3024,
+    "seg_id": "S4-L3",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "颈椎病变压迫供血",
+    "template": "list_fade",
+    "items": [
+      "颈部僵硬不适",
+      "肩背部酸痛",
+      "部分患者手臂发麻"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3025,
+    "seg_id": "S4-L4",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "颈椎病变压迫供血",
+    "template": "split_column",
+    "items": [
+      "改善低头姿势",
+      "减少颈椎压力",
+      "正规理疗康复",
+      "缓解颈椎症状"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3026,
+    "seg_id": "S5-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "贫血导致头晕",
+    "template": "color_grid",
+    "items": [
+      "面色苍白",
+      "心慌气短",
+      "指甲发白",
+      "头晕乏力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3027,
+    "seg_id": "S5-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "贫血导致头晕",
+    "template": "branch_path",
+    "items": [
+      "血常规检查确认贫血类型",
+      "缺铁性贫血→补铁治疗",
+      "巨幼细胞性贫血→补充叶酸/B12"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3028,
+    "seg_id": "S6-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "焦虑失眠也会头晕",
+    "template": "hero_text",
+    "items": [
+      "睡眠与情绪，被忽视的头晕根源"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3029,
+    "seg_id": "S6-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "焦虑失眠也会头晕",
+    "template": "step_arrow",
+    "items": [
+      "长期熬夜失眠焦虑紧张",
+      "植物神经功能紊乱",
+      "头晕头沉、脑子不清醒",
+      "心慌胸闷、情绪低落"
+    ],
+    "needs_animation": true,
+    "label": "长期焦虑失眠引发植物神经功能紊乱的生理机制"
+  },
+  {
+    "global_index": 3030,
+    "seg_id": "S6-L3",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "焦虑失眠也会头晕",
+    "template": "list_fade",
+    "items": [
+      "11点前放下手机上床",
+      "保证每晚7~8小时睡眠"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3031,
+    "seg_id": "S7-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "脑卒中紧急识别",
+    "template": "warning_alert",
+    "items": [
+      "头晕伴一侧手脚麻木无力",
+      "突然说话不清或走路偏斜"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3032,
+    "seg_id": "S7-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "脑卒中紧急识别",
+    "template": "hero_text",
+    "items": [
+      "不要犹豫，立刻去医院！"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3033,
+    "seg_id": "S7-L3",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "脑卒中紧急识别",
+    "template": "step_arrow",
+    "items": [
+      "每拖延1分钟",
+      "大量脑细胞死亡",
+      "立即拨打120争分夺秒"
+    ],
+    "needs_animation": true,
+    "label": "脑卒中时脑细胞缺血坏死的病理过程"
+  },
+  {
+    "global_index": 3034,
+    "seg_id": "S8-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "实用小建议总结",
+    "template": "hero_text",
+    "items": [
+      "5个实用建议，应对日常头晕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3035,
+    "seg_id": "S8-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "实用小建议总结",
+    "template": "list_fade",
+    "items": [
+      "记录发作时间、场景、感受",
+      "为医生诊断提供参考依据"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3036,
+    "seg_id": "S8-L3",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "实用小建议总结",
+    "template": "vertical_timeline",
+    "items": [
+      "醒后躺床上静待半分钟",
+      "缓慢坐起再等半分钟",
+      "腿垂床边再坐半分钟",
+      "再缓慢站起身"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3037,
+    "seg_id": "S8-L4",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "实用小建议总结",
+    "template": "list_fade",
+    "items": [
+      "避免熬夜，疲劳也是头晕诱因"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3038,
+    "seg_id": "S8-L5",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "实用小建议总结",
+    "template": "list_fade",
+    "items": [
+      "焦虑紧张是头晕的常见诱因"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3039,
+    "seg_id": "S8-L6",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "实用小建议总结",
+    "template": "color_grid",
+    "items": [
+      "影响生活应及时就诊",
+      "首选耳鼻喉科",
+      "或挂神经内科"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

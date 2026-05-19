@@ -1,0 +1,500 @@
+[
+  {
+    "global_index": 3120,
+    "seg_id": "S6-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "学会看配料表控制摄入",
+    "template": "list_fade",
+    "items": [
+      "配料表前三含白砂糖需警惕",
+      "果葡糖浆出现需控制量",
+      "广告再好听也要看成分"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3121,
+    "seg_id": "S6-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "学会看配料表控制摄入",
+    "template": "number_center",
+    "items": [
+      "无糖饮料每月喝1-2次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3122,
+    "seg_id": "S7-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "肝是哑巴，别等它开口",
+    "template": "hero_text",
+    "items": [
+      "肝是出了名的哑巴器官"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3123,
+    "seg_id": "S7-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "肝是哑巴，别等它开口",
+    "template": "warning_alert",
+    "items": [
+      "感觉到不舒服时，往往已经晚了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3124,
+    "seg_id": "S7-L3",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "肝是哑巴，别等它开口",
+    "template": "hero_text",
+    "items": [
+      "少喝一口甜，胜过一瓶护肝片"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3125,
+    "seg_id": "S1-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "hero_text",
+    "items": [
+      "一天究竟要测几次血压？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3126,
+    "seg_id": "S1-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "hero_text",
+    "items": [
+      "门诊最常被问到的问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3127,
+    "seg_id": "S1-L3",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "number_center",
+    "items": [
+      "2"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3128,
+    "seg_id": "S1-L4",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "hero_text",
+    "items": [
+      "没有不适症状，每天两次足够"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3129,
+    "seg_id": "S1-L5",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "myth_buster",
+    "items": [
+      "早中晚频繁测量更准确",
+      "测太多反而加重焦虑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3130,
+    "seg_id": "S1-L6",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "warning_alert",
+    "items": [
+      "反复盯数字，高了担心低了也担心",
+      "焦虑情绪本身就会导致血压不稳"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3131,
+    "seg_id": "S1-L7",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "hero_text",
+    "items": [
+      "焦虑本身就是血压不稳的推手"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3132,
+    "seg_id": "S2-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晨起测量的错误做法",
+    "template": "hero_text",
+    "items": [
+      "很多人第一步就做错了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3133,
+    "seg_id": "S2-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晨起测量的错误做法",
+    "template": "list_fade",
+    "items": [
+      "血压计放床头",
+      "睁眼伸手就测量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3134,
+    "seg_id": "S2-L3",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晨起测量的错误做法",
+    "template": "myth_buster",
+    "items": [
+      "睁眼立刻测是最准的晨起血压",
+      "此时身体未完全清醒，数值不准"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3135,
+    "seg_id": "S2-L4",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晨起测量的错误做法",
+    "template": "warning_alert",
+    "items": [
+      "刚醒来立即测血压，做法不正确"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3136,
+    "seg_id": "S2-L5",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晨起测量的错误做法",
+    "template": "list_fade",
+    "items": [
+      "刚醒时身体仍在睡眠模式",
+      "切换过程中血压状态不稳定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3137,
+    "seg_id": "S2-L6",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晨起测量的错误做法",
+    "template": "hero_text",
+    "items": [
+      "此时数值无法准确反映晨起血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3138,
+    "seg_id": "S3-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "早晨正确测量流程",
+    "template": "step_arrow",
+    "items": [
+      "起床后洗漱、上卫生间",
+      "坐下安静休息五分钟",
+      "吃早饭、吃药之前测量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3139,
+    "seg_id": "S3-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "早晨正确测量流程",
+    "template": "hero_text",
+    "items": [
+      "这才是真正有参考价值的晨起血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3140,
+    "seg_id": "S4-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晚上正确测量时机",
+    "template": "warning_alert",
+    "items": [
+      "洗澡使血管扩张，测值偏低不准确"
+    ],
+    "needs_animation": true,
+    "label": "热水致外周血管扩张机制"
+  },
+  {
+    "global_index": 3141,
+    "seg_id": "S4-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晚上正确测量时机",
+    "template": "step_arrow",
+    "items": [
+      "吃完晚饭安静休息片刻",
+      "临睡前、洗澡之前测量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3142,
+    "seg_id": "S4-L3",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晚上正确测量时机",
+    "template": "hero_text",
+    "items": [
+      "反映一天结束时的夜间血压状态"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3143,
+    "seg_id": "S5-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测量姿势要正确",
+    "template": "hero_text",
+    "items": [
+      "早晚测量都要坐着测"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3144,
+    "seg_id": "S5-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测量姿势要正确",
+    "template": "split_column",
+    "items": [
+      "坐位测量，数值准确",
+      "躺着测量，数值有偏差"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3145,
+    "seg_id": "S5-L3",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测量姿势要正确",
+    "template": "warning_alert",
+    "items": [
+      "姿势不对，医生也无法准确判断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3146,
+    "seg_id": "S6-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测后记录血压数据",
+    "template": "list_fade",
+    "items": [
+      "测完后记录血压值",
+      "同步记录当次心率"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3147,
+    "seg_id": "S6-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测后记录血压数据",
+    "template": "hero_text",
+    "items": [
+      "这份记录在复诊时非常有用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3148,
+    "seg_id": "S6-L3",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测后记录血压数据",
+    "template": "split_column",
+    "items": [
+      "书面记录，医生一眼看出趋势",
+      "口头描述，信息模糊难以判断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3149,
+    "seg_id": "S6-L4",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测后记录血压数据",
+    "template": "myth_buster",
+    "items": [
+      "血压计有记忆功能，不用另外记",
+      "建议另外手动记录，养成习惯"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3150,
+    "seg_id": "S6-L5",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测后记录血压数据",
+    "template": "hero_text",
+    "items": [
+      "另记一份，是好习惯的开始"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3151,
+    "seg_id": "S7-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "特殊情况可加测",
+    "template": "branch_path",
+    "items": [
+      "白天出现头晕、头痛等不适",
+      "随时加测一次，完全没问题",
+      "日常无不适，早晚各一次即可"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3152,
+    "seg_id": "S7-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "特殊情况可加测",
+    "template": "hero_text",
+    "items": [
+      "规律监测只需早晚各一次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3153,
+    "seg_id": "S8-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "血压管理核心原则",
+    "template": "hero_text",
+    "items": [
+      "方法对、节奏稳，胜过焦虑反复测"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3154,
+    "seg_id": "S1-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "门诊真实困惑",
+    "template": "hero_text",
+    "items": [
+      "138/85，我血压正常吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3155,
+    "seg_id": "S1-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "门诊真实困惑",
+    "template": "hero_text",
+    "items": [
+      "118/78，是不是偏低要补？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3156,
+    "seg_id": "S1-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "门诊真实困惑",
+    "template": "warning_alert",
+    "items": [
+      "两种判断都不准确"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3157,
+    "seg_id": "S1-L4",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "门诊真实困惑",
+    "template": "hero_text",
+    "items": [
+      "今天把血压标准讲清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3158,
+    "seg_id": "S2-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "三个数值你能看懂吗",
+    "template": "color_grid",
+    "items": [
+      "110/70",
+      "132/84",
+      "158/96"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3159,
+    "seg_id": "S2-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "三个数值你能看懂吗",
+    "template": "hero_text",
+    "items": [
+      "哪个正常？哪个超标？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

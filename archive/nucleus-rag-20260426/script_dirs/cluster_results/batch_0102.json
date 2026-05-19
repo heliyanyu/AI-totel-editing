@@ -1,0 +1,531 @@
+[
+  {
+    "global_index": 4080,
+    "seg_id": "S1-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "头晕你真的了解吗",
+    "template": "myth_buster",
+    "items": [
+      "一头晕就猛吃丹参片维生素",
+      "乱补没用，病因才是关键"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4081,
+    "seg_id": "S1-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "头晕你真的了解吗",
+    "template": "hero_text",
+    "items": [
+      "看完自己能初步判断头晕原因"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4082,
+    "seg_id": "S2-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第一排查：脑血管病",
+    "template": "hero_text",
+    "items": [
+      "脑血管问题必须第一时间排除"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4083,
+    "seg_id": "S2-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第一排查：脑血管病",
+    "template": "warning_alert",
+    "items": [
+      "一侧手脚无力或说话含糊",
+      "单眼看不清或视物双影"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4084,
+    "seg_id": "S2-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第一排查：脑血管病",
+    "template": "step_arrow",
+    "items": [
+      "出现上述症状",
+      "立刻拨打120",
+      "耽误一秒脑细胞多损伤一批"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4085,
+    "seg_id": "S2-L4",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第一排查：脑血管病",
+    "template": "branch_path",
+    "items": [
+      "头晕是否伴随神经症状",
+      "有伴随症状→立即就医",
+      "单纯头晕→不必过度惊慌"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4086,
+    "seg_id": "S3-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第二原因：耳石症",
+    "template": "hero_text",
+    "items": [
+      "头晕最常见原因其实在耳朵"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4087,
+    "seg_id": "S3-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第二原因：耳石症",
+    "template": "step_arrow",
+    "items": [
+      "内耳耳石脱落",
+      "翻身低头起床时触发",
+      "天旋地转感突然袭来"
+    ],
+    "needs_animation": true,
+    "label": "内耳耳石脱落致眩晕的病理过程"
+  },
+  {
+    "global_index": 4088,
+    "seg_id": "S3-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第二原因：耳石症",
+    "template": "number_center",
+    "items": [
+      "60"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4089,
+    "seg_id": "S3-L4",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第二原因：耳石症",
+    "template": "list_fade",
+    "items": [
+      "去神经内科或耳鼻喉科就诊",
+      "做耳石复位治疗",
+      "绝大多数不需要吃药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4090,
+    "seg_id": "S4-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第三原因：血压异常",
+    "template": "hero_text",
+    "items": [
+      "血压过高或过低都会让人晕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4091,
+    "seg_id": "S4-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第三原因：血压异常",
+    "template": "split_column",
+    "items": [
+      "血压飙升超180mmHg",
+      "高压低于90mmHg",
+      "血压过高引发头晕",
+      "血压过低同样致晕"
+    ],
+    "needs_animation": true,
+    "label": "血压异常导致头晕的生理机制"
+  },
+  {
+    "global_index": 4092,
+    "seg_id": "S4-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第三原因：血压异常",
+    "template": "branch_path",
+    "items": [
+      "蹲起后眼前发黑",
+      "慢慢起身即可缓解",
+      "频繁发作需查贫血脱水或药物"
+    ],
+    "needs_animation": true,
+    "label": "体位性低血压的生理机制"
+  },
+  {
+    "global_index": 4093,
+    "seg_id": "S4-L4",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第三原因：血压异常",
+    "template": "list_fade",
+    "items": [
+      "是否存在贫血",
+      "是否有脱水情况",
+      "降压药是否服用过量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4094,
+    "seg_id": "S5-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第四原因：前庭性偏头痛",
+    "template": "hero_text",
+    "items": [
+      "偏头痛不一定头疼，也可以只晕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4095,
+    "seg_id": "S5-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第四原因：前庭性偏头痛",
+    "template": "list_fade",
+    "items": [
+      "天旋地转感强烈",
+      "怕光怕吵恶心想吐",
+      "可伴头痛也可只晕不痛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4096,
+    "seg_id": "S5-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第四原因：前庭性偏头痛",
+    "template": "color_grid",
+    "items": [
+      "熬夜后容易发作",
+      "女性经期更易犯"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4097,
+    "seg_id": "S5-L4",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第四原因：前庭性偏头痛",
+    "template": "myth_buster",
+    "items": [
+      "吃普通止晕药就能控制",
+      "根源在偏头痛，要治到根上"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4098,
+    "seg_id": "S6-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第五原因：贫血",
+    "template": "hero_text",
+    "items": [
+      "贫血导致大脑缺氧，头晕乏力"
+    ],
+    "needs_animation": true,
+    "label": "贫血致脑缺氧的病理过程"
+  },
+  {
+    "global_index": 4099,
+    "seg_id": "S6-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第五原因：贫血",
+    "template": "brick_stack",
+    "items": [
+      "月经量过大失血",
+      "过度节食营养不足",
+      "缺铁性贫血血液携氧下降",
+      "大脑缺氧引发头晕面色苍白"
+    ],
+    "needs_animation": true,
+    "label": "缺铁性贫血血液携氧能力下降的病理过程"
+  },
+  {
+    "global_index": 4100,
+    "seg_id": "S6-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第五原因：贫血",
+    "template": "step_arrow",
+    "items": [
+      "查血常规一目了然",
+      "及时补铁纠正贫血",
+      "头晕自然消失"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4101,
+    "seg_id": "S7-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第六原因：焦虑失眠",
+    "template": "hero_text",
+    "items": [
+      "全身检查正常却长期晕，可能是脑子太累"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4102,
+    "seg_id": "S7-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第六原因：焦虑失眠",
+    "template": "step_arrow",
+    "items": [
+      "压力大睡不好",
+      "植物神经紊乱",
+      "大脑平衡信号出错"
+    ],
+    "needs_animation": true,
+    "label": "植物神经紊乱影响前庭平衡的生理机制"
+  },
+  {
+    "global_index": 4103,
+    "seg_id": "S7-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第六原因：焦虑失眠",
+    "template": "split_column",
+    "items": [
+      "走路逛街时头晕加重",
+      "躺下休息时头晕减轻"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4104,
+    "seg_id": "S7-L4",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第六原因：焦虑失眠",
+    "template": "list_fade",
+    "items": [
+      "规律作息放松心情",
+      "多活动改善神经调节",
+      "严重时可用抗焦虑药物"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4105,
+    "seg_id": "S8-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第七原因：颈椎劳损",
+    "template": "hero_text",
+    "items": [
+      "低头族头晕多是肌肉问题非压血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4106,
+    "seg_id": "S8-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第七原因：颈椎劳损",
+    "template": "step_arrow",
+    "items": [
+      "长期低头伏案",
+      "颈部肌肉紧张",
+      "向大脑传出错误信号致头重脚轻"
+    ],
+    "needs_animation": true,
+    "label": "颈部肌肉紧张致本体感觉异常的机制"
+  },
+  {
+    "global_index": 4107,
+    "seg_id": "S8-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第七原因：颈椎劳损",
+    "template": "list_fade",
+    "items": [
+      "多活动肩颈",
+      "做拉伸训练"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4108,
+    "seg_id": "S8-L4",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第七原因：颈椎劳损",
+    "template": "warning_alert",
+    "items": [
+      "伴随手脚麻木",
+      "严重踩棉花感需排查颈椎病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4109,
+    "seg_id": "S9-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "总结与就医指引",
+    "template": "category_table",
+    "items": [
+      "最凶险：脑血管病",
+      "需立刻就医排除",
+      "最常见：耳石症",
+      "血压异常、贫血、情绪问题",
+      "少数：颈椎劳损颈椎病",
+      "对号入座去相应科室"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4110,
+    "seg_id": "S9-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "总结与就医指引",
+    "template": "myth_buster",
+    "items": [
+      "一头晕就觉得自己要脑梗了",
+      "对号入座去相应科室看诊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4111,
+    "seg_id": "S9-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "总结与就医指引",
+    "template": "hero_text",
+    "items": [
+      "分不清先挂神经内科，让医生帮你分诊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4112,
+    "seg_id": "S1-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "常见头晕误区",
+    "template": "list_fade",
+    "items": [
+      "突然天旋地转",
+      "起身眼前发黑",
+      "头脑昏沉如铅"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4113,
+    "seg_id": "S1-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "常见头晕误区",
+    "template": "myth_buster",
+    "items": [
+      "盲目认定脑供血不足",
+      "乱吃银杏丹参无效"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4114,
+    "seg_id": "S1-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "常见头晕误区",
+    "template": "hero_text",
+    "items": [
+      "厘清病因关键时刻救命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4115,
+    "seg_id": "S2-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "警惕脑血管病",
+    "template": "warning_alert",
+    "items": [
+      "突发头晕伴肢体无力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4116,
+    "seg_id": "S2-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "警惕脑血管病",
+    "template": "step_arrow",
+    "items": [
+      "说话含糊或视物重影",
+      "立即拨打120急救",
+      "延误导致脑细胞损伤"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4117,
+    "seg_id": "S2-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "警惕脑血管病",
+    "template": "split_column",
+    "items": [
+      "单纯头晕无需恐慌",
+      "伴随症状必须急诊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4118,
+    "seg_id": "S3-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "耳石症解析",
+    "template": "number_center",
+    "items": [
+      "耳源性头晕最常见"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4119,
+    "seg_id": "S3-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "耳石症解析",
+    "template": "vertical_timeline",
+    "items": [
+      "翻身低头诱发眩晕",
+      "持续数秒至一分钟",
+      "耳石脱落引发失衡"
+    ],
+    "needs_animation": true,
+    "label": "内耳耳石脱落致眩晕的病理过程"
+  }
+]

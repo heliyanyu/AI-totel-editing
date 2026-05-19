@@ -1,0 +1,567 @@
+[
+  {
+    "global_index": 80,
+    "seg_id": "S5-L2",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "手脚麻疼糖尿病神经",
+    "template": "list_fade",
+    "items": [
+      "糖尿病患者最常见",
+      "血糖控制差十几年后出现"
+    ],
+    "atoms_text": "这种从远端往近端走的 麻木的刺痛 在糖尿病患者里 非常常见",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 81,
+    "seg_id": "S5-L3",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "手脚麻疼糖尿病神经",
+    "template": "vertical_timeline",
+    "items": [
+      "初期：脚底发麻",
+      "进展：刺痛烧灼感加重",
+      "危险：踩地面感觉消失",
+      "终末：破口不知，感染截肢风险"
+    ],
+    "atoms_text": "很多老人啊 糖尿病十几年 血糖控制的 马马虎虎 慢慢 末梢神经 就损伤了",
+    "needs_animation": true,
+    "label": "长期高血糖逐渐损伤末梢神经"
+  },
+  {
+    "global_index": 82,
+    "seg_id": "S5-L4",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "手脚麻疼糖尿病神经",
+    "template": "warning_alert",
+    "items": [
+      "脚破口子感觉不到可能截肢"
+    ],
+    "atoms_text": "刚开始啊 脚底发麻 后来变成 刺痛烧灼感 再后来 连踩到地面 都感觉不到",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 83,
+    "seg_id": "S5-L5",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "手脚麻疼糖尿病神经",
+    "template": "hero_text",
+    "items": [
+      "糖尿病老人手脚麻疼速查神经血糖"
+    ],
+    "atoms_text": "这就危险了 脚上破个口子 都不知道 不处理 就可能 感染溃烂 甚至截肢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 84,
+    "seg_id": "S5-L6",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "手脚麻疼糖尿病神经",
+    "template": "step_arrow",
+    "items": [
+      "严格控制血糖",
+      "检查末梢神经状况",
+      "早期干预防止截肢"
+    ],
+    "atoms_text": "糖尿病老人 手脚麻疼啊 赶紧去 调血糖 查神经",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 85,
+    "seg_id": "S6-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "皮肤灼痛带状疱疹",
+    "template": "hero_text",
+    "items": [
+      "皮肤火烧针扎感，看不见皮疹"
+    ],
+    "atoms_text": "第五种 皮肤上一片 火烧火燎的疼 像针扎 像电击 但看着 又没什么东西",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 86,
+    "seg_id": "S6-L2",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "皮肤灼痛带状疱疹",
+    "template": "warning_alert",
+    "items": [
+      "高度警惕带状疱疹后遗神经痛"
+    ],
+    "atoms_text": "这种疼啊 要高度警惕 带状疱疹后遗神经痛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 87,
+    "seg_id": "S6-L3",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "皮肤灼痛带状疱疹",
+    "template": "list_fade",
+    "items": [
+      "带状疱疹俗称缠腰龙",
+      "老年人免疫力低，多发"
+    ],
+    "atoms_text": "带状疱疹啊 就是老百姓说的 缠腰龙",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 88,
+    "seg_id": "S6-L4",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "皮肤灼痛带状疱疹",
+    "template": "split_column",
+    "items": [
+      "皮疹明显，疼痛剧烈",
+      "皮疹消退，疼痛持续数月数年",
+      "急性期治疗窗口明确",
+      "后遗期治疗难度大"
+    ],
+    "atoms_text": "很多老人 得过之后啊 皮疹就消掉 但疼痛留下来了 一疼啊 就是几个月 甚至几年 衣服蹭一下 都受不了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 89,
+    "seg_id": "S6-L5",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "皮肤灼痛带状疱疹",
+    "template": "step_arrow",
+    "items": [
+      "病毒侵犯神经",
+      "神经损伤留下持续疼痛",
+      "衣物轻触都难以忍受"
+    ],
+    "atoms_text": "这是因为啊 病毒把神经损伤了 越早治疗 效果越好 拖久了 就很难办",
+    "needs_animation": true,
+    "label": "带状疱疹病毒损伤神经导致持续疼痛"
+  },
+  {
+    "global_index": 90,
+    "seg_id": "S6-L6",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "皮肤灼痛带状疱疹",
+    "template": "hero_text",
+    "items": [
+      "疱疹后仍在疼速去疼痛科"
+    ],
+    "atoms_text": "得过带状疱疹之后 还在疼的朋友 一定要尽快 去疼痛科",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 91,
+    "seg_id": "S7-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "总结呼吁",
+    "template": "hero_text",
+    "items": [
+      "身体在求救，你得听见才行"
+    ],
+    "atoms_text": "总之 这些疼啊 是你的身体 在求救 你得听见才行 我都说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 92,
+    "seg_id": "S1-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "hero_text",
+    "items": [
+      "糖尿病真的能逆转"
+    ],
+    "atoms_text": "糖尿病能逆转吗 有没有根治的方法",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 93,
+    "seg_id": "S1-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "hero_text",
+    "items": [
+      "内脏脂肪才是血糖的幕后推手"
+    ],
+    "atoms_text": "首先告诉你 能逆转糖尿病是真的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 94,
+    "seg_id": "S1-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "step_arrow",
+    "items": [
+      "脂肪堆积肝脏和胰腺",
+      "肝脏无法正常处理血糖",
+      "血液中糖分持续升高"
+    ],
+    "atoms_text": "因为 对于很多超重或者有脂肪肝的糖友来说 堆积肝脏和胰腺里的内脏脂肪 才是你血糖居高不下的重要推手",
+    "needs_animation": true,
+    "label": "内脏脂肪堆积在肝脏和胰腺推高血糖"
+  },
+  {
+    "global_index": 95,
+    "seg_id": "S1-L4",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "hero_text",
+    "items": [
+      "脂肪肝是糖尿病的前奏"
+    ],
+    "atoms_text": "可以说 脂肪肝呢 就是糖尿病的前奏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 96,
+    "seg_id": "S1-L5",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "step_arrow",
+    "items": [
+      "肝脏被脂肪塞满",
+      "肝脏不停向血液释放糖分",
+      "空腹血糖持续偏高"
+    ],
+    "atoms_text": "肝脏被脂肪塞满了 没办法正常处理血糖 就会不停的往血液里放糖",
+    "needs_animation": true,
+    "label": "脂肪填满肝脏后肝脏异常向血液释放葡萄糖"
+  },
+  {
+    "global_index": 97,
+    "seg_id": "S1-L6",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "hero_text",
+    "items": [
+      "没吃东西空腹血糖仍然很高"
+    ],
+    "atoms_text": "所以 你明明没有吃东西 空腹血糖还是很高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 98,
+    "seg_id": "S1-L7",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "step_arrow",
+    "items": [
+      "脂肪挤占胰腺空间",
+      "胰岛素分泌能力下降",
+      "血糖调控能力逐步减弱"
+    ],
+    "atoms_text": "而胰腺被脂肪挤占 分泌胰岛素的能力 在一点点下降",
+    "needs_animation": true,
+    "label": "胰腺被脂肪挤占导致胰岛素分泌能力下降"
+  },
+  {
+    "global_index": 99,
+    "seg_id": "S2-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "谁最有希望逆转",
+    "template": "category_table",
+    "items": [
+      "已确诊脂肪肝",
+      "腰围男超90cm女超85cm",
+      "确诊糖尿病或血糖升高",
+      "病程不超过五年"
+    ],
+    "atoms_text": "所以如果你 有脂肪肝 腰围超过了九十公分 或者女同志超过了八十五公分 并且确诊糖尿病 或者发现血糖高不超过五年 那你就是最有希望逆转的人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 100,
+    "seg_id": "S2-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "谁最有希望逆转",
+    "template": "hero_text",
+    "items": [
+      "脂肪减掉胰腺功能还能恢复"
+    ],
+    "atoms_text": "因为你的胰腺还没有坏 只是被脂肪挤的干不了活 你把脂肪减掉 它还能恢复",
+    "needs_animation": true,
+    "label": "减掉胰腺周围脂肪后胰岛细胞恢复功能"
+  },
+  {
+    "global_index": 101,
+    "seg_id": "S2-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "谁最有希望逆转",
+    "template": "warning_alert",
+    "items": [
+      "拖延十年胰岛细胞真的会累死",
+      "细胞死亡后无法逆转"
+    ],
+    "atoms_text": "但是你如果拖个十年不管 细胞真的累死了 那就回不来了",
+    "needs_animation": true,
+    "label": "胰岛β细胞长期过劳衰竭不可逆死亡"
+  },
+  {
+    "global_index": 102,
+    "seg_id": "S3-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "逆转窗口期行动",
+    "template": "hero_text",
+    "items": [
+      "越早行动逆转机会越大"
+    ],
+    "atoms_text": "下面这四件事 越早做 逆转的机会越大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 103,
+    "seg_id": "S4-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第一件事：吃够蛋白质",
+    "template": "hero_text",
+    "items": [
+      "吃够蛋白质别再饿自己"
+    ],
+    "atoms_text": "第一 吃够蛋白质 别再饿自己",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 104,
+    "seg_id": "S4-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第一件事：吃够蛋白质",
+    "template": "myth_buster",
+    "items": [
+      "控血糖就要少吃",
+      "肌肉是最大血糖消耗站",
+      "饿着是正确控糖方式",
+      "掉肌肉会让血糖更差"
+    ],
+    "atoms_text": "控血糖不等于少吃 肌肉是身体最大的血糖消耗站",
+    "needs_animation": true,
+    "label": "肌肉组织作为最大血糖消耗站摄取利用葡萄糖"
+  },
+  {
+    "global_index": 105,
+    "seg_id": "S4-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第一件事：吃够蛋白质",
+    "template": "step_arrow",
+    "items": [
+      "过度节食导致肌肉流失",
+      "肌肉少血糖无处消耗",
+      "血糖控制越来越差"
+    ],
+    "atoms_text": "肌肉少了 血糖就没地方烧 饿到掉肌肉 血糖反而更差",
+    "needs_animation": true,
+    "label": "肌肉量减少导致血糖缺少代谢去处"
+  },
+  {
+    "global_index": 106,
+    "seg_id": "S4-L4",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第一件事：吃够蛋白质",
+    "template": "list_fade",
+    "items": [
+      "一巴掌大的肉类",
+      "鸡蛋补充蛋白质",
+      "鱼类优质蛋白",
+      "豆腐植物蛋白"
+    ],
+    "atoms_text": "每顿饭必须有 一巴掌大的 肉蛋鱼或者豆腐 蛋白质吃够了 肌肉呢才能保得住",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 107,
+    "seg_id": "S5-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第二件事：力量训练",
+    "template": "hero_text",
+    "items": [
+      "光散步不够要加力量训练"
+    ],
+    "atoms_text": "第二 光散步不够 要加力量训练",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 108,
+    "seg_id": "S5-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第二件事：力量训练",
+    "template": "split_column",
+    "items": [
+      "走一万步热量消耗极少",
+      "力量训练高效燃烧内脏脂肪",
+      "几乎减不了内脏脂肪",
+      "直接作用于血糖消耗根源"
+    ],
+    "atoms_text": "散一万步消耗的热量呢 还不如一碗米饭 而且几乎减不了内脏脂肪",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 109,
+    "seg_id": "S5-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第二件事：力量训练",
+    "template": "list_fade",
+    "items": [
+      "靠墙蹲锻炼腿部肌肉",
+      "深蹲激活大肌群",
+      "弹力带拉伸训练",
+      "每周三次每次半小时"
+    ],
+    "atoms_text": "在家靠墙蹲 深蹲 弹力带拉一拉 一周三次 每次半小时",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 110,
+    "seg_id": "S5-L4",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第二件事：力量训练",
+    "template": "hero_text",
+    "items": [
+      "肌肉建大了全天候燃脂消糖"
+    ],
+    "atoms_text": "把肌肉这个燃烧炉建大了 它能二十四小时 帮你燃烧脂肪 消耗血糖",
+    "needs_animation": true,
+    "label": "肌肉持续消耗血糖和燃烧脂肪的代谢过程"
+  },
+  {
+    "global_index": 111,
+    "seg_id": "S6-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第三件事：换进食顺序",
+    "template": "hero_text",
+    "items": [
+      "同样的饭换个顺序吃"
+    ],
+    "atoms_text": "第三 同样的饭 换个顺序吃",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 112,
+    "seg_id": "S6-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第三件事：换进食顺序",
+    "template": "hero_text",
+    "items": [
+      "不减食物不挨饿轻松控糖"
+    ],
+    "atoms_text": "不需要你减任何东西 也不需要饿着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 113,
+    "seg_id": "S6-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第三件事：换进食顺序",
+    "template": "split_column",
+    "items": [
+      "先吃米饭再吃菜和肉",
+      "先吃菜和肉最后吃米饭",
+      "餐后血糖峰值更高",
+      "血糖峰值降低30%至40%"
+    ],
+    "atoms_text": "同样一桌子菜 你先扒两口米饭再吃菜 和你先吃菜 把肉吃了 最后再吃米饭 餐后血糖峰值 能差百分之三十到四十",
+    "needs_animation": true,
+    "label": "先吃菜肉后吃主食降低餐后血糖峰值的消化机制"
+  },
+  {
+    "global_index": 114,
+    "seg_id": "S7-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第四件事：盯住腰围",
+    "template": "hero_text",
+    "items": [
+      "盯住腰围是逆转晴雨表"
+    ],
+    "atoms_text": "第四 盯住腰围",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 115,
+    "seg_id": "S7-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第四件事：盯住腰围",
+    "template": "split_column",
+    "items": [
+      "血糖数值反映当下状态",
+      "腰围更能反映逆转进程",
+      "受饮食波动影响较大",
+      "腰围缩小说明内脏脂肪在减"
+    ],
+    "atoms_text": "其实腰围 比血糖更能反映 你走在逆转的路上",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 116,
+    "seg_id": "S7-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第四件事：盯住腰围",
+    "template": "step_arrow",
+    "items": [
+      "腰围持续缩小",
+      "内脏脂肪真正减少",
+      "血糖逆转的根本实现"
+    ],
+    "atoms_text": "腰围缩小 说明内脏脂肪在减 内脏脂肪减了 才是逆转的根本",
+    "needs_animation": true,
+    "label": "内脏脂肪减少使肝脏胰腺恢复正常代谢功能"
+  },
+  {
+    "global_index": 117,
+    "seg_id": "S8-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "逆转的边界与希望",
+    "template": "warning_alert",
+    "items": [
+      "逆转后体质仍比常人更易高血糖"
+    ],
+    "atoms_text": "但逆转不等于完全治愈 你的身体体质 依旧比正常人更容易血糖高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 118,
+    "seg_id": "S8-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "逆转的边界与希望",
+    "template": "list_fade",
+    "items": [
+      "按时复查不能省略",
+      "医生未叫停前不要自行停药"
+    ],
+    "atoms_text": "所以该复查按时复查 该吃的药 在医生让你停之前 千万不要自己停",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 119,
+    "seg_id": "S8-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "逆转的边界与希望",
+    "template": "hero_text",
+    "items": [
+      "窗口期内减脂养肌血糖可回正常"
+    ],
+    "atoms_text": "只要你在窗口期内 把内脏脂肪减下去 把肌肉养起来 血糖回到正常范围 是完全有可能的",
+    "needs_animation": false,
+    "label": ""
+  }
+]

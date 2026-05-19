@@ -1,0 +1,548 @@
+[
+  {
+    "global_index": 880,
+    "seg_id": "S8-L3",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "换季需要调降压药吗",
+    "template": "myth_buster",
+    "items": [
+      "冬天压不下来是药不管用",
+      "天冷了血压自然升需要加量",
+      "夏天老头晕是身体出问题",
+      "天热了药量偏大该减了"
+    ],
+    "atoms_text": "所以啊 有的人啊 冬天血压怎么都压不下来 不是药不管用 是天冷了需要加量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 881,
+    "seg_id": "S8-L4",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "换季需要调降压药吗",
+    "template": "warning_alert",
+    "items": [
+      "加减药量必须由医生决定"
+    ],
+    "atoms_text": "有的人啊 夏天老头晕 不是身体出了啥问题 是天热了药量该减了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 882,
+    "seg_id": "S8-L5",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "换季需要调降压药吗",
+    "template": "step_arrow",
+    "items": [
+      "换季时多测几次血压",
+      "记录血压变化数据",
+      "拿记录去找医生调方案"
+    ],
+    "atoms_text": "但加减药啊 一定让医生来定",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 883,
+    "seg_id": "S8-L6",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "换季需要调降压药吗",
+    "template": "hero_text",
+    "items": [
+      "量好血压交给医生判断"
+    ],
+    "atoms_text": "你要做的就是 每年换季的时候 多量几次血压 发现变化了 拿着记录去找医生",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 884,
+    "seg_id": "S9-L1",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "结尾互动",
+    "template": "hero_text",
+    "items": [
+      "七个问题全部讲完了"
+    ],
+    "atoms_text": "这七个问题 我说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 885,
+    "seg_id": "S9-L2",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "结尾互动",
+    "template": "hero_text",
+    "items": [
+      "还有问题评论区留言"
+    ],
+    "atoms_text": "还有什么其他问题 可以评论区留言 我一一解答",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 886,
+    "seg_id": "S9-L3",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "结尾互动",
+    "template": "hero_text",
+    "items": [
+      "转发给家里血压高的人看"
+    ],
+    "atoms_text": "觉得有帮助 可以转发给 家里血压高的人 都看看",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 887,
+    "seg_id": "S1-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "被忽视的关键数字",
+    "template": "hero_text",
+    "items": [
+      "体检报告里有个数字没人在意"
+    ],
+    "atoms_text": "体检报告上 有一个数字 很多人啊 从来不当回事 医生啊 也不会专门 给你说这个事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 888,
+    "seg_id": "S1-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "被忽视的关键数字",
+    "template": "hero_text",
+    "items": [
+      "它叫静息心率，与寿命关系很大"
+    ],
+    "atoms_text": "但其实啊 多项大型的研究 都发现 它跟你能活多久 关系很大 就是静息心率",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 889,
+    "seg_id": "S2-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "正常范围的真相",
+    "template": "number_center",
+    "items": [
+      "60~100次/分"
+    ],
+    "atoms_text": "首先 静息心率六十到一百次 是教科书上写的 正常范围",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 890,
+    "seg_id": "S2-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "正常范围的真相",
+    "template": "hero_text",
+    "items": [
+      "这只是不出大毛病的及格线"
+    ],
+    "atoms_text": "但说实话 这是一个 不出大毛病的 及格线",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 891,
+    "seg_id": "S2-L3",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "正常范围的真相",
+    "template": "split_column",
+    "items": [
+      "心血管事件风险更低",
+      "心血管事件风险更高",
+      "静息心率偏低",
+      "静息心率偏高"
+    ],
+    "atoms_text": "多项大样本的流行病学研究发现 在这个范围里面 静息心率偏低一些的人 往往 心梗脑梗这类心血管事件 发生率更低",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 892,
+    "seg_id": "S3-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "多跳一千二百万次",
+    "template": "number_center",
+    "items": [
+      "1200万次"
+    ],
+    "atoms_text": "你算一笔账 就明白了 如果你的静息心率是八十五次 那一年下来 你的心脏 比那些六十次的人啊 整整多跳了 一千二百万次",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 893,
+    "seg_id": "S3-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "多跳一千二百万次",
+    "template": "brick_stack",
+    "items": [
+      "交感神经持续亢奋",
+      "心脏储备能力下降",
+      "长期高心率伤害心脏"
+    ],
+    "atoms_text": "长期静息心率偏高 往往反映 交感神经持续亢奋 心脏储备能力下降",
+    "needs_animation": true,
+    "label": "交感神经持续亢奋导致心脏储备能力下降"
+  },
+  {
+    "global_index": 894,
+    "seg_id": "S4-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "三点式改善方案",
+    "template": "hero_text",
+    "items": [
+      "心率长期偏高，从三点开始改善"
+    ],
+    "atoms_text": "所以啊 如果你的心率 总在八十以上 想保护心脏 可以从三点式做起",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 895,
+    "seg_id": "S5-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第一步：正确测量",
+    "template": "hero_text",
+    "items": [
+      "先学会正确测量静息心率"
+    ],
+    "atoms_text": "第一 先学会 正确量一次 自己的静息心率",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 896,
+    "seg_id": "S5-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第一步：正确测量",
+    "template": "step_arrow",
+    "items": [
+      "早晨醒来先别动",
+      "躺床上摸手腕脉搏数一分钟",
+      "连续测三天取平均值"
+    ],
+    "atoms_text": "早上醒来 先别动 躺床上 右手摸住手腕的脉搏 数一分钟 跳了多少次",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 897,
+    "seg_id": "S5-L3",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第一步：正确测量",
+    "template": "hero_text",
+    "items": [
+      "这才是你真实的静息心率"
+    ],
+    "atoms_text": "连续量三天 取个平均值 这才是 你真实的静息心率",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 898,
+    "seg_id": "S5-L4",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第一步：正确测量",
+    "template": "hero_text",
+    "items": [
+      "量完之后，心里就有数了"
+    ],
+    "atoms_text": "你量完之后 心里就有数了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 899,
+    "seg_id": "S6-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第二步：戒掉兴奋剂",
+    "template": "list_fade",
+    "items": [
+      "浓茶下午三点后不要喝",
+      "咖啡下午三点后不要喝"
+    ],
+    "atoms_text": "第二 戒掉睡前的兴奋剂 浓茶咖啡 下午三点以后 就别喝了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 900,
+    "seg_id": "S6-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第二步：戒掉兴奋剂",
+    "template": "warning_alert",
+    "items": [
+      "睡前刷短视频刺激交感神经"
+    ],
+    "atoms_text": "睡前别刷短视频 刷到停不下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 901,
+    "seg_id": "S6-L3",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第二步：戒掉兴奋剂",
+    "template": "hero_text",
+    "items": [
+      "这些都让交感神经无法休息"
+    ],
+    "atoms_text": "这些东西 都在刺激你的交感神经 让它该休息时 休息不了",
+    "needs_animation": true,
+    "label": "兴奋剂刺激交感神经使其无法进入休息状态"
+  },
+  {
+    "global_index": 902,
+    "seg_id": "S6-L4",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第二步：戒掉兴奋剂",
+    "template": "hero_text",
+    "items": [
+      "坚持一周，心率可能就有变化"
+    ],
+    "atoms_text": "你试一个星期 心率就可能有变化",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 903,
+    "seg_id": "S7-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第三步：有氧运动",
+    "template": "hero_text",
+    "items": [
+      "最管用的一点：开始有氧运动"
+    ],
+    "atoms_text": "第三 也是最管用的一点 开始有氧运动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 904,
+    "seg_id": "S7-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第三步：有氧运动",
+    "template": "split_column",
+    "items": [
+      "心率飙到130~140次",
+      "静息心率逐渐降低",
+      "运动中（短期反应）",
+      "坚持数月（长期改变）"
+    ],
+    "atoms_text": "你运动当时的半小时 心率确实会飙到 一百三一百四",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 905,
+    "seg_id": "S7-L3",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第三步：有氧运动",
+    "template": "hero_text",
+    "items": [
+      "这是在给心脏做力量训练"
+    ],
+    "atoms_text": "但这是 给心脏做力量训练 让它变得更强壮 每跳一次 能泵出更多的血",
+    "needs_animation": true,
+    "label": "有氧运动使心肌增强后每搏输出量增加"
+  },
+  {
+    "global_index": 906,
+    "seg_id": "S7-L4",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第三步：有氧运动",
+    "template": "hero_text",
+    "items": [
+      "心脏更强，每跳泵血量更大"
+    ],
+    "atoms_text": "坚持中等强度的有氧运动 几个月 你会发现 静息心率啊 不知不觉就降下来了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 907,
+    "seg_id": "S8-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "运动员的心脏启示",
+    "template": "myth_buster",
+    "items": [
+      "运动员心率50次是心脏有问题",
+      "心脏强壮才能每跳泵出更多血"
+    ],
+    "atoms_text": "这也是为什么 运动员的心率 往往只有五十次左右 不是他们心脏有问题 恰恰是因为 他们心脏太强了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 908,
+    "seg_id": "S8-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "运动员的心脏启示",
+    "template": "branch_path",
+    "items": [
+      "静息心率低于50次",
+      "长期运动者，心脏强壮无症状",
+      "不运动且头晕眼花，需就医排查"
+    ],
+    "atoms_text": "但如果你 平时根本不运动 心率却低于五十 或者伴有头晕眼前发黑 那就不能大意了 要去医院查一查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 909,
+    "seg_id": "S8-L3",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "运动员的心脏启示",
+    "template": "hero_text",
+    "items": [
+      "保护心脏，从关注静息心率开始"
+    ],
+    "atoms_text": "我都说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 910,
+    "seg_id": "S1-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "得了糖尿病什么都不敢吃"
+    ],
+    "atoms_text": "糖尿病六大误区 得了糖尿病啊 什么都不敢吃 血糖怎么还是高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 911,
+    "seg_id": "S1-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "开场点题",
+    "template": "myth_buster",
+    "items": [
+      "以为吃太多导致血糖高",
+      "真正问题是吃的方式全错"
+    ],
+    "atoms_text": "问题啊 可能不是你吃太多 而是你吃的方式全错了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 912,
+    "seg_id": "S1-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "六大最常见饮食误区",
+      "一次讲清楚踩了几个坑"
+    ],
+    "atoms_text": "今天我把 糖尿病饮食的 六大最常见的误区 给你一次性讲清楚 看你到底踩了几个坑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 913,
+    "seg_id": "S2-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区一：水果禁区",
+    "template": "hero_text",
+    "items": [
+      "糖尿病绝对不能吃水果？错！"
+    ],
+    "atoms_text": "第一 得了糖尿病啊 绝对不能吃水果 那错",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 914,
+    "seg_id": "S2-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区一：水果禁区",
+    "template": "list_fade",
+    "items": [
+      "新鲜水果富含维生素",
+      "膳食纤维有助控糖"
+    ],
+    "atoms_text": "很多糖友 谈水果色变 其实啊 新鲜水果里 有丰富的 维生素和膳食纤维",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 915,
+    "seg_id": "S2-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区一：水果禁区",
+    "template": "step_arrow",
+    "items": [
+      "血糖控制相对平稳时",
+      "选苹果梨樱桃草莓等低升糖水果",
+      "两餐之间如十点或三点吃"
+    ],
+    "atoms_text": "只要你的血糖 控制的相对平稳 像苹果梨樱桃草莓 这些升糖指数低的水果 建议在两餐之间 比如上午十点下午三点 吃一点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 916,
+    "seg_id": "S3-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区二：顿顿只吃粗粮",
+    "template": "hero_text",
+    "items": [
+      "粗粮好就顿顿只吃粗粮？错！"
+    ],
+    "atoms_text": "第二 既然粗粮好 那就顿顿只吃粗粮 错",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 917,
+    "seg_id": "S3-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区二：顿顿只吃粗粮",
+    "template": "split_column",
+    "items": [
+      "富含纤维吸收慢对血糖友好",
+      "本质仍是碳水化合物会转化成糖"
+    ],
+    "atoms_text": "粗粮杂粮 确实富含纤维 吸收慢 对血糖友好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 918,
+    "seg_id": "S3-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区二：顿顿只吃粗粮",
+    "template": "warning_alert",
+    "items": [
+      "两三大碗总热量超标",
+      "血糖同样飙升"
+    ],
+    "atoms_text": "但别忘了 粗粮本质上 还是碳水化合物 还是会变成糖的",
+    "needs_animation": true,
+    "label": "粗粮中的碳水化合物在体内转化为葡萄糖"
+  },
+  {
+    "global_index": 919,
+    "seg_id": "S3-L4",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区二：顿顿只吃粗粮",
+    "template": "hero_text",
+    "items": [
+      "粗细搭配适量才是关键"
+    ],
+    "atoms_text": "你如果觉得粗粮健康 就敞开肚皮吃 两三大碗 总热量超标了 血糖一样飙升",
+    "needs_animation": false,
+    "label": ""
+  }
+]

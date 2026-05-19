@@ -1,0 +1,553 @@
+[
+  {
+    "global_index": 3000,
+    "seg_id": "S5-L1",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "谁适合放可吸收支架",
+    "template": "hero_text",
+    "items": [
+      "可吸收支架有严格医学适应症"
+    ],
+    "atoms_text": "不过啊 可吸收支架 不是随便什么病变 都能放的 随着临床应用 越来越规范 它现在有 明确的医学指征",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3001,
+    "seg_id": "S5-L2",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "谁适合放可吸收支架",
+    "template": "color_grid",
+    "items": [
+      "年龄30-50岁年轻患者",
+      "不愿终身携带金属异物"
+    ],
+    "atoms_text": "最适合的 就是年轻患者 那些 三十到五十岁 不想一辈子 携带金属异物",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3002,
+    "seg_id": "S5-L3",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "谁适合放可吸收支架",
+    "template": "list_fade",
+    "items": [
+      "血管直径2.5-3.5毫米",
+      "病变简单局限",
+      "无严重钙化或迂曲"
+    ],
+    "atoms_text": "其次呢 是血管条件要好 血管直径在 二点五到三点五毫米 病变简单局限 没有严重的 钙化迂曲的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3003,
+    "seg_id": "S5-L4",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "谁适合放可吸收支架",
+    "template": "branch_path",
+    "items": [
+      "能否耐受2年双联抗血栓治疗",
+      "可考虑可吸收支架",
+      "不适合可吸收支架"
+    ],
+    "atoms_text": "另外那些 对金属异物特别抵触啊 甚至过敏 而且啊 又能耐受 两年的 双联抗血栓治疗的 朋友 是可以用的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3004,
+    "seg_id": "S5-L5",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "谁适合放可吸收支架",
+    "template": "list_fade",
+    "items": [
+      "血管严重钙化或病变过长",
+      "血管过粗过细或分叉开口",
+      "出血风险高无法长期用药"
+    ],
+    "atoms_text": "反之呢 血管严重钙化 病变过长 或者血管 太粗太细了 以及 冠脉分叉开口等 复杂病变 还有出血风险高 无法长期服用 双联抗血栓药物的 患者 就不适合用 可吸收支架了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3005,
+    "seg_id": "S5-L6",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "谁适合放可吸收支架",
+    "template": "hero_text",
+    "items": [
+      "复杂病变首选传统金属支架"
+    ],
+    "atoms_text": "传统金属支架 支撑力强 适用范围更广 才是更稳妥的选择",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3006,
+    "seg_id": "S6-L1",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "选支架的核心原则",
+    "template": "myth_buster",
+    "items": [
+      "可吸收支架是骗局是智商税",
+      "可吸收支架是介入治疗补充选项",
+      "选支架要选贵的新的才好",
+      "选最适合自己血管和身体状况的"
+    ],
+    "atoms_text": "最后总结一句 可吸收支架 不是骗局 也不是智商税 它只是 心脏介入治疗的 补充选项",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3007,
+    "seg_id": "S6-L2",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "选支架的核心原则",
+    "template": "hero_text",
+    "items": [
+      "选对的，不选贵的"
+    ],
+    "atoms_text": "从医学角度 选支架的核心 是适配性 从来不是 看哪个贵 哪个新 而是看哪个 最适合自己的 血管条件 年龄和身体状况",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3008,
+    "seg_id": "S6-L3",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "选支架的核心原则",
+    "template": "hero_text",
+    "items": [
+      "听专业心内科医生的建议"
+    ],
+    "atoms_text": "听专业心内科医生的建议 选对的 不选贵的 才是最科学的选择",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3009,
+    "seg_id": "S1-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "手术意外引发的困境",
+    "template": "hero_text",
+    "items": [
+      "一场开颅手术，改变了两个家庭"
+    ],
+    "atoms_text": "五十岁的老王 因为脑子里长个瘤 去医院做开颅手术 结果手术出了意外 医生已经无力回天",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3010,
+    "seg_id": "S1-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "手术意外引发的困境",
+    "template": "warning_alert",
+    "items": [
+      "二十多岁的儿子，颤抖着无法签字"
+    ],
+    "atoms_text": "唯一的儿子小王啊 才二十多岁 感觉天都塌了 颤抖的手 无论如何都签不下 放弃抢救的字",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3011,
+    "seg_id": "S1-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "手术意外引发的困境",
+    "template": "hero_text",
+    "items": [
+      "接下来发生的事，你绝对想不到"
+    ],
+    "atoms_text": "可接下来发生的事 你绝对想不到",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3012,
+    "seg_id": "S1-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "手术意外引发的困境",
+    "template": "step_arrow",
+    "items": [
+      "父亲已脑死亡",
+      "其他器官仍然健康",
+      "院方提出器官捐献建议"
+    ],
+    "atoms_text": "医院的工作人员 找到小王说 您父亲已经脑死亡 但他身体其他器官还很健康 您考不考虑 给您父亲的身体找一个更好的归宿 就是器官捐献",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3013,
+    "seg_id": "S1-L5",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "手术意外引发的困境",
+    "template": "hero_text",
+    "items": [
+      "手术没救回人，还要捐器官？"
+    ],
+    "atoms_text": "小王一听啊 懵了 我在你们这做手术 结果人死了 现在还要我把爸爸别的器官捐出去",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3014,
+    "seg_id": "S1-L6",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "手术意外引发的困境",
+    "template": "hero_text",
+    "items": [
+      "很多人觉得：医院太无情了"
+    ],
+    "atoms_text": "其实在很多人眼里 这医院医生太无情了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3015,
+    "seg_id": "S2-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "三十万人在等待",
+    "template": "hero_text",
+    "items": [
+      "别急着生气，先看一组数字"
+    ],
+    "atoms_text": "你先别着急生气 我给你说个数字 你感受一下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3016,
+    "seg_id": "S2-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "三十万人在等待",
+    "template": "number_center",
+    "items": [
+      "30万"
+    ],
+    "atoms_text": "每年咱们国家 大概有三十万人 在排队等着器官救命 三十万啊 几乎是好几个鸟巢体育场 坐满的人数",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3017,
+    "seg_id": "S2-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "三十万人在等待",
+    "template": "split_column",
+    "items": [
+      "30万人在苦苦等待",
+      "仅约2万人等到器官",
+      "28万人的缺口",
+      "部分人在等待中离世"
+    ],
+    "atoms_text": "但最后能等到的 只有大概两万人 这中间的缺口有多大 不用我算你也应该明白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3018,
+    "seg_id": "S2-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "三十万人在等待",
+    "template": "warning_alert",
+    "items": [
+      "很多人在等待中耗尽最后的时间"
+    ],
+    "atoms_text": "很多人就是在等的过程里 最后人没了 也没等到那个生的机会",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3019,
+    "seg_id": "S3-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "技术不是问题",
+    "template": "hero_text",
+    "items": [
+      "是医生技术不行吗？"
+    ],
+    "atoms_text": "那问题来了 是咱们医生技术不行吗 还真不是",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3020,
+    "seg_id": "S3-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "技术不是问题",
+    "template": "number_center",
+    "items": [
+      "全球第2"
+    ],
+    "atoms_text": "你要看数据的话 咱们国家一年的器官移植数量 排全球第二 仅次于美国",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3021,
+    "seg_id": "S3-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "技术不是问题",
+    "template": "list_fade",
+    "items": [
+      "肝脏移植\"杭州标准\"国际认可",
+      "无缺血移植技术令外国专家折服",
+      "手术台上不缺技术，缺的是器官"
+    ],
+    "atoms_text": "肝脏移植的杭州标准 无缺血移植 这些技术 连老外都得竖大拇指",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3022,
+    "seg_id": "S3-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "技术不是问题",
+    "template": "hero_text",
+    "items": [
+      "弹药不足——器官严重短缺"
+    ],
+    "atoms_text": "所以不是手术台的问题 问题是没有弹药 说白了就是缺器官",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3023,
+    "seg_id": "S4-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官从哪里来",
+    "template": "branch_path",
+    "items": [
+      "是否为三代以内直系亲属？",
+      "符合：可合法捐献（如父母捐肾给孩子）",
+      "不符合：不受法律保护"
+    ],
+    "atoms_text": "那器官从哪来呢 活体亲属捐献是一条路 比如父母给孩子捐一个肾 这个合法 但有限制 只能是三代以内直系亲属",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3024,
+    "seg_id": "S4-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官从哪里来",
+    "template": "hero_text",
+    "items": [
+      "2015年起，自愿捐献是唯一合法来源"
+    ],
+    "atoms_text": "更大的来源 其实是公民去世后的自愿捐献 这个从二零一五年开始 已经是咱们国家唯一合法的来源",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3025,
+    "seg_id": "S4-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官从哪里来",
+    "template": "warning_alert",
+    "items": [
+      "愿意捐献的人，依然太少"
+    ],
+    "atoms_text": "但是愿意捐的人太少了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3026,
+    "seg_id": "S5-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "捐献率国际对比",
+    "template": "hero_text",
+    "items": [
+      "每百万人中有多少人愿意捐？"
+    ],
+    "atoms_text": "你可能听过一个说法 叫捐献率 国际上用 每百万人里有多少人愿意捐 来衡量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3027,
+    "seg_id": "S5-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "捐献率国际对比",
+    "template": "number_center",
+    "items": [
+      "第51位"
+    ],
+    "atoms_text": "咱们在这张表上的排名 大概是在五十一位左右 不是倒数 但也绝对不靠前",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3028,
+    "seg_id": "S6-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "为何不愿意捐",
+    "template": "hero_text",
+    "items": [
+      "不是觉悟问题，是有两层原因"
+    ],
+    "atoms_text": "为啥大家不愿意呢 我跟你讲啊 真不全是大家觉悟不高 这里有两层原因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3029,
+    "seg_id": "S6-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "为何不愿意捐",
+    "template": "split_column",
+    "items": [
+      "不知道自己可以捐献",
+      "不了解登记和流程",
+      "不清楚捐后如何对待",
+      "信息缺失导致沉默"
+    ],
+    "atoms_text": "第一是不知道 很多人根本不了解这件事 不知道自己可以捐 不知道怎么登记 更不知道捐了之后流程是怎样的 会不会被区别对待",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3030,
+    "seg_id": "S6-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "为何不愿意捐",
+    "template": "list_fade",
+    "items": [
+      "签了捐献，医生还会全力救我吗？",
+      "器官会不会被有钱人买走？",
+      "制度透明度不够，百姓心里打鼓"
+    ],
+    "atoms_text": "第二层是不信任 这个更关键 老百姓心里会打鼓 我说捐就真捐了 医生医院会不会因为我签了捐献 就不尽力救我了 器官会不会被有钱人买走了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3031,
+    "seg_id": "S7-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官分配制度解析",
+    "template": "hero_text",
+    "items": [
+      "国家有专门的器官分配计算机系统"
+    ],
+    "atoms_text": "其实现在咱们国家的器官分配 有一个专门的计算机系统",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3032,
+    "seg_id": "S7-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官分配制度解析",
+    "template": "list_fade",
+    "items": [
+      "只看病情紧急程度",
+      "只看器官配型结果",
+      "不看身份、财富、地位",
+      "系统自动分配，任何人无法干预"
+    ],
+    "atoms_text": "它不看你是谁 多有钱 什么地位 只看病情紧急程度和配型结果 系统自动分 谁都干预不了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3033,
+    "seg_id": "S7-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官分配制度解析",
+    "template": "split_column",
+    "items": [
+      "判定死亡的医生",
+      "执行移植的医生",
+      "两组完全独立",
+      "杜绝利益冲突"
+    ],
+    "atoms_text": "并且判定死亡 和做移植手术的 是两拨医生 互相独立 就是为了避免利益冲突",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3034,
+    "seg_id": "S7-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官分配制度解析",
+    "template": "hero_text",
+    "items": [
+      "现有制度已非常严密"
+    ],
+    "atoms_text": "这些制度其实已经非常严密了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3035,
+    "seg_id": "S8-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "最难开口的那一刻",
+    "template": "hero_text",
+    "items": [
+      "手术失败后，医生该不该提捐献？"
+    ],
+    "atoms_text": "那说到这儿 就绕不开一个更扎心也更现实的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3036,
+    "seg_id": "S8-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "最难开口的那一刻",
+    "template": "warning_alert",
+    "items": [
+      "家属正经历天塌的痛苦",
+      "医生此时开口，极易被当作冷血"
+    ],
+    "atoms_text": "如果一个病人在医院做了手术 比如颅内大手术 如果没救回来 意外走了 这时候医生能不能 该不该去跟家属提捐献",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3037,
+    "seg_id": "S8-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "最难开口的那一刻",
+    "template": "hero_text",
+    "items": [
+      "很多医生明知有机会，却不敢开口"
+    ],
+    "atoms_text": "说实话 这是最考验人性的时刻 家属正在经历天塌下来的痛苦 你这时候上去问 要不要把器官捐了 弄不好会当成冷血 甚至被骂出来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3038,
+    "seg_id": "S8-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "最难开口的那一刻",
+    "template": "hero_text",
+    "items": [
+      "这是人性最难的考验"
+    ],
+    "atoms_text": "所以啊 现实情况是 很多医生即使心里觉得这是个机会 也不敢开口 或者觉得开不了口",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3039,
+    "seg_id": "S9-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "协助成全而非劝捐",
+    "template": "hero_text",
+    "items": [
+      "如果不是任务，而是帮助呢？"
+    ],
+    "atoms_text": "但你想过没有 如果换一个角度呢 如果沟通的方式 不是任务 而是帮助呢",
+    "needs_animation": false,
+    "label": ""
+  }
+]

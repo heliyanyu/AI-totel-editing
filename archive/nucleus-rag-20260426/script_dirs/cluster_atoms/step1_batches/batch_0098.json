@@ -1,0 +1,555 @@
+[
+  {
+    "global_index": 3920,
+    "seg_id": "S4-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血容量过高升压",
+    "template": "hero_text",
+    "items": [
+      "控盐是为了控血容量，不是通血管"
+    ],
+    "atoms_text": "就像水管里面的水放多了 管壁啊承受的压力 自然就会升高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3921,
+    "seg_id": "S4-L3",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血容量过高升压",
+    "template": "myth_buster",
+    "items": [
+      "医生让少吃盐是为了通血管",
+      "少盐的核心目的是控制血容量"
+    ],
+    "atoms_text": "这也是为什么 医生总让高血压患者 少吃点盐 核心就是 控制住血容量 而不是通血管",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3922,
+    "seg_id": "S5-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "神经调控失衡",
+    "template": "brick_stack",
+    "items": [
+      "长期熬夜",
+      "持续焦虑压力大",
+      "久坐缺乏运动"
+    ],
+    "atoms_text": "第三个就是 控制血管的开关乱了 长期的熬夜啊 焦虑啊 压力大 久坐不动啊 会让身体里的 控制血管收缩的神经啊 一直紧绷着 血管总处于 收缩收紧的状态 管腔啊变细了 压力自然就升高了",
+    "needs_animation": true,
+    "label": "交感神经持续兴奋导致血管收缩、管腔变细、血压升高"
+  },
+  {
+    "global_index": 3923,
+    "seg_id": "S5-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "神经调控失衡",
+    "template": "step_arrow",
+    "items": [
+      "控血管收缩的神经持续紧绷",
+      "血管收紧，管腔变细",
+      "压力升高，与堵塞无关"
+    ],
+    "atoms_text": "这也和血管堵了没堵 完全没关系",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3924,
+    "seg_id": "S6-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血管堵塞的真实影响",
+    "template": "hero_text",
+    "items": [
+      "血管堵了到底会发生什么"
+    ],
+    "atoms_text": "说到这 肯定有人要问 那血管堵了 到底是什么呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3925,
+    "seg_id": "S6-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血管堵塞的真实影响",
+    "template": "body_annotate",
+    "items": [
+      "血管内壁长出动脉粥样硬化斑块",
+      "斑块使管腔变窄",
+      "类似水管内壁积厚水垢"
+    ],
+    "atoms_text": "那血管堵啊 是血管内壁长了 动脉粥样硬化斑块 把管腔啊变窄了 就像水管里面啊 长了厚厚的水垢",
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块在血管内壁生长使管腔变窄"
+  },
+  {
+    "global_index": 3926,
+    "seg_id": "S6-L3",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血管堵塞的真实影响",
+    "template": "split_column",
+    "items": [
+      "水管堵了一半",
+      "水龙头出水变小",
+      "直觉认为压力会升高",
+      "实际上压力反而会降低"
+    ],
+    "atoms_text": "那你想想 家里的水管啊 堵了一半 那水龙头出水 都变小了 压力怎么会升高呢 反而它会降低",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3927,
+    "seg_id": "S6-L4",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血管堵塞的真实影响",
+    "template": "warning_alert",
+    "items": [
+      "极罕见情况下堵塞才影响血压",
+      "血管堵塞绝非高血压常见成因"
+    ],
+    "atoms_text": "只有啊 血管堵到 极其罕见的 极端的情况 才可能影响血压 但这根本就不是 高血压常见的原因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3928,
+    "seg_id": "S7-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "真实因果链",
+    "template": "hero_text",
+    "items": [
+      "不是血管堵了导致高血压，正好相反"
+    ],
+    "atoms_text": "而最可怕的 就是大家搞反的这个因果 不是血管堵了 导致的高血压 而是长期没有控制好的高血压 一步一步啊 把血管搞坏了 才导致血管狭窄堵塞",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3929,
+    "seg_id": "S7-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "真实因果链",
+    "template": "step_arrow",
+    "items": [
+      "长期高血压如高压水枪冲击管壁",
+      "血管内壁被冲出坑洼破损",
+      "血脂垃圾钻入，慢慢长成斑块",
+      "日积月累，血管堵塞形成"
+    ],
+    "atoms_text": "长期居高不下的血压 就像是高压水枪一样 常年冲击你的血管内壁 先把血管内壁的膜啊 冲的坑坑洼洼 血液里面的血脂啊 垃圾啊 才能钻进去 慢慢长成了斑块 日积月累 把血管堵住了",
+    "needs_animation": true,
+    "label": "高压血流冲击血管内膜→内膜损伤→血脂沉积→斑块形成→血管堵塞"
+  },
+  {
+    "global_index": 3930,
+    "seg_id": "S7-L3",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "真实因果链",
+    "template": "warning_alert",
+    "items": [
+      "先有高血压失控，后有血管堵塞",
+      "搞反顺序，通血管永远白费功夫"
+    ],
+    "atoms_text": "是先有失控的高血压 后有后续的血管堵塞 搞反了这个顺序啊 就等于走错了路 再怎么通血管 都是白费功夫",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3931,
+    "seg_id": "S8-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "总结三句大白话",
+    "template": "hero_text",
+    "items": [
+      "三句大白话，一秒记住核心"
+    ],
+    "atoms_text": "最后给大家 总结三句大白话 一秒就能记住啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3932,
+    "seg_id": "S8-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "总结三句大白话",
+    "template": "list_fade",
+    "items": [
+      "血压高≠血管堵，别盲目通血管"
+    ],
+    "atoms_text": "血压高不等于血管堵了 别再盲目的通血管",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3933,
+    "seg_id": "S8-L3",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "总结三句大白话",
+    "template": "list_fade",
+    "items": [
+      "高血压没控好，才会把血管搞堵"
+    ],
+    "atoms_text": "不是血管堵了 引发了高血压 而是高血压没有控制好 才会把血管搞堵",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3934,
+    "seg_id": "S8-L4",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "总结三句大白话",
+    "template": "brick_stack",
+    "items": [
+      "遵医嘱规范使用降压药",
+      "严格控制每日盐分摄入",
+      "规律作息，减少熬夜压力"
+    ],
+    "atoms_text": "控制好血压的核心 是遵医嘱规范的降压 控制盐分的 还有控制我们的作息时间 不是活血化瘀瞎折腾",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3935,
+    "seg_id": "S8-L5",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "总结三句大白话",
+    "template": "hero_text",
+    "items": [
+      "找对因果，稳稳护住血管与健康"
+    ],
+    "atoms_text": "高血压不是小事 但最怕的就是 找错原因 走错方向 找对了因果 才能少走弯路 稳稳的护住 自己的血管和身体",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3936,
+    "seg_id": "S1-L1",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "开场破认知",
+    "template": "hero_text",
+    "items": [
+      "内科张医生在线科普"
+    ],
+    "atoms_text": "大家好 我是 讲内科的 张医生",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3937,
+    "seg_id": "S1-L2",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "开场破认知",
+    "template": "hero_text",
+    "items": [
+      "瘦同事体检血脂超标"
+    ],
+    "atoms_text": "昨天 我同事 他拿着 他的 体检报告单 他说 我这么瘦 我这血脂 怎么这么高啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3938,
+    "seg_id": "S1-L3",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "开场破认知",
+    "template": "myth_buster",
+    "items": [
+      "血脂高是胖人专利",
+      "瘦子血脂也可能爆表"
+    ],
+    "atoms_text": "谁说 血脂高 是胖人的专利啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3939,
+    "seg_id": "S1-L4",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "开场破认知",
+    "template": "hero_text",
+    "items": [
+      "瘦子血脂比胖子还吓人"
+    ],
+    "atoms_text": "我跟大家说呀 很多瘦子 这个血脂 一查呀 比胖子 还吓人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3940,
+    "seg_id": "S2-L1",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "胆固醇从哪来",
+    "template": "number_center",
+    "items": [
+      "20%~30%"
+    ],
+    "atoms_text": "咱们血液里的 胆固醇 只有 百分之二十 到 百分之三十的 是吃进来的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3941,
+    "seg_id": "S2-L2",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "胆固醇从哪来",
+    "template": "number_center",
+    "items": [
+      "70%~80%"
+    ],
+    "atoms_text": "那剩下的 百分之七十 到 百分之八十 哎 它是从 肝脏 造出来的",
+    "needs_animation": true,
+    "label": "肝脏合成人体70%-80%的胆固醇"
+  },
+  {
+    "global_index": 3942,
+    "seg_id": "S2-L3",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "胆固醇从哪来",
+    "template": "hero_text",
+    "items": [
+      "肝脏是24小时造脂工厂"
+    ],
+    "atoms_text": "你的肝脏呢 就像 一个 造脂工厂 二十四小时 哎 连轴转",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3943,
+    "seg_id": "S2-L4",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "胆固醇从哪来",
+    "template": "split_column",
+    "items": [
+      "胖不胖",
+      "血脂高不高",
+      "身体脂肪堆积多少",
+      "肝脏造脂产量大不大"
+    ],
+    "atoms_text": "胖不胖啊 看的是 身体上的肉 这血脂高不高啊 看的是 工厂产量 大不大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3944,
+    "seg_id": "S3-L1",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "瘦人血脂高的原因",
+    "template": "hero_text",
+    "items": [
+      "天生肝脏产脂量就大"
+    ],
+    "atoms_text": "那有些人呢 天生 工厂产量呢 就大 这是 基因自带的啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3945,
+    "seg_id": "S3-L2",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "瘦人血脂高的原因",
+    "template": "warning_alert",
+    "items": [
+      "父母兄弟有高血脂要警惕",
+      "再瘦也必须认真筛查"
+    ],
+    "atoms_text": "那家里边的 父母啊 兄弟姐妹 有血脂高的 你哪怕 瘦成了竹竿 也得 打起精神来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3946,
+    "seg_id": "S3-L3",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "瘦人血脂高的原因",
+    "template": "hero_text",
+    "items": [
+      "不吃肥肉却大碗吃主食"
+    ],
+    "atoms_text": "还有一种瘦子 真的 他特别冤 他不吃肥肉 米饭馒头 一顿吃 两大碗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3947,
+    "seg_id": "S3-L4",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "瘦人血脂高的原因",
+    "template": "myth_buster",
+    "items": [
+      "不吃油就不会血脂高",
+      "碳水过量同样升高血脂"
+    ],
+    "atoms_text": "你以为 没吃油 就没事儿了 错了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3948,
+    "seg_id": "S3-L5",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "瘦人血脂高的原因",
+    "template": "step_arrow",
+    "items": [
+      "米面糖摄入过量",
+      "肝脏将多余碳水加班转化",
+      "甘油三酯储存血脂升高"
+    ],
+    "atoms_text": "米面糖 吃多了 身体用不完 这个肝脏呢 就加班加点儿了 把这些碳水呢 变成了 甘油三酯 哎 给它 储存起来 这不 血脂照样高",
+    "needs_animation": true,
+    "label": "肝脏将多余碳水化合物转化为甘油三酯储存"
+  },
+  {
+    "global_index": 3949,
+    "seg_id": "S4-L1",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "最危险的是不查",
+    "template": "warning_alert",
+    "items": [
+      "瘦人从不主动查血脂"
+    ],
+    "atoms_text": "但最让我担心的是什么 不是 瘦人血脂高 是瘦人呢 从来不查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3950,
+    "seg_id": "S4-L2",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "最危险的是不查",
+    "template": "split_column",
+    "items": [
+      "胖人",
+      "瘦人",
+      "有危机感会主动体检",
+      "自认没事完全不查"
+    ],
+    "atoms_text": "因为他觉得 他自己没事儿 这胖人呢 还有点危机感 瘦人呢 他压根根本不看",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3951,
+    "seg_id": "S4-L3",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "最危险的是不查",
+    "template": "hero_text",
+    "items": [
+      "外墙雪白内部水管早已锈透"
+    ],
+    "atoms_text": "那就像 一栋房子 哎 你外面刷的 雪白雪白的 你里面的水管 早就锈透了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3952,
+    "seg_id": "S5-L1",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "三步行动方案",
+    "template": "hero_text",
+    "items": [
+      "三步走解决瘦人血脂问题"
+    ],
+    "atoms_text": "那怎么办呢 三步走",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3953,
+    "seg_id": "S5-L2",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "三步行动方案",
+    "template": "step_arrow",
+    "items": [
+      "每年至少查一次血脂",
+      "重点盯低密度脂蛋白"
+    ],
+    "atoms_text": "第一个 你不管胖瘦啊 每年呢 至少查一次血脂 你就盯着 那个 低密度脂蛋白 这个坏东西啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3954,
+    "seg_id": "S5-L3",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "三步行动方案",
+    "template": "step_arrow",
+    "items": [
+      "米饭馒头面条每餐一拳头",
+      "多吃蔬菜和优质蛋白"
+    ],
+    "atoms_text": "第二步 这主食啊 你一定要 把它控制好 米饭馒头面条 每顿饭呢 哎 这一个拳头 就够了 多吃点 蔬菜和蛋白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3955,
+    "seg_id": "S5-L4",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "三步行动方案",
+    "template": "branch_path",
+    "items": [
+      "家族有高血脂且指标异常",
+      "尽快就医不要硬扛",
+      "指标正常继续定期监测"
+    ],
+    "atoms_text": "第三 如果你家族当中 有血脂高的 指标还特别高 赶紧找医生 你别自己硬扛啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3956,
+    "seg_id": "S6-L1",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "结语行动号召",
+    "template": "hero_text",
+    "items": [
+      "化验单才是血管健康的裁判"
+    ],
+    "atoms_text": "瘦子 他不是护身符 血管干不干净啊 咱们的化验单 说了算",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3957,
+    "seg_id": "S6-L2",
+    "bp_title": "瘦子血脂也会高？别让体重骗了你",
+    "scene_title": "结语行动号召",
+    "template": "hero_text",
+    "items": [
+      "今年体检记得多看一眼血脂"
+    ],
+    "atoms_text": "今年体检 你记得 多看一眼哦",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3958,
+    "seg_id": "S1-L1",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "头晕很常见但病因天差地别",
+    "template": "hero_text",
+    "items": [
+      "头晕几乎人人遇过，却很难受"
+    ],
+    "atoms_text": "大家好 我是 咱内科的张医生 头晕这个事啊 几乎每个人都遇到过 张医生也遇到过 真的晕的时候 特别难受",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3959,
+    "seg_id": "S1-L2",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "头晕很常见但病因天差地别",
+    "template": "split_column",
+    "items": [
+      "同样头晕",
+      "病因却天差地别"
+    ],
+    "atoms_text": "但是你知道吗 同样是头晕 这个病因呢 可能是天差地别",
+    "needs_animation": false,
+    "label": ""
+  }
+]

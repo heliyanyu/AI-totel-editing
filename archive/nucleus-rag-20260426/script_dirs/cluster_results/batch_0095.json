@@ -1,0 +1,525 @@
+[
+  {
+    "global_index": 3800,
+    "seg_id": "S4-L5",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第三凶手：尿路梗阻",
+    "template": "hero_text",
+    "items": [
+      "排尿不顺畅，千万别隐忍"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3801,
+    "seg_id": "S5-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第四凶手：横纹肌溶解",
+    "template": "hero_text",
+    "items": [
+      "第四凶手：横纹肌溶解"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3802,
+    "seg_id": "S5-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第四凶手：横纹肌溶解",
+    "template": "step_arrow",
+    "items": [
+      "平时不练，突然猛运动",
+      "肌红蛋白大量释放入血",
+      "堵塞肾小管，急性损伤"
+    ],
+    "needs_animation": true,
+    "label": "肌红蛋白堵塞肾小管过程"
+  },
+  {
+    "global_index": 3803,
+    "seg_id": "S5-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第四凶手：横纹肌溶解",
+    "template": "warning_alert",
+    "items": [
+      "运动后尿色变酱油色，立即就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3804,
+    "seg_id": "S6-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第五凶手：严重感染",
+    "template": "hero_text",
+    "items": [
+      "第五凶手：严重感染"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3805,
+    "seg_id": "S6-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第五凶手：严重感染",
+    "template": "step_arrow",
+    "items": [
+      "肺炎或尿路感染失控",
+      "发展为全身性感染",
+      "免疫系统攻击自身器官"
+    ],
+    "needs_animation": true,
+    "label": "脓毒症致多器官损伤过程"
+  },
+  {
+    "global_index": 3806,
+    "seg_id": "S6-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第五凶手：严重感染",
+    "template": "warning_alert",
+    "items": [
+      "肾脏微血管被破坏，肾功能急剧下降"
+    ],
+    "needs_animation": true,
+    "label": "感染破坏肾脏微血管过程"
+  },
+  {
+    "global_index": 3807,
+    "seg_id": "S6-L4",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第五凶手：严重感染",
+    "template": "list_fade",
+    "items": [
+      "老年人感染更易失控",
+      "糖尿病患者尤其需警惕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3808,
+    "seg_id": "S7-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "总结与行动呼吁",
+    "template": "number_center",
+    "items": [
+      "24~48小时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3809,
+    "seg_id": "S7-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "总结与行动呼吁",
+    "template": "list_fade",
+    "items": [
+      "药物滥用",
+      "严重脱水",
+      "尿路梗阻",
+      "横纹肌溶解",
+      "严重感染"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3810,
+    "seg_id": "S7-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "总结与行动呼吁",
+    "template": "hero_text",
+    "items": [
+      "记住五大凶手，关键时刻保住肾脏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3811,
+    "seg_id": "S1-L1",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "突发肾衰之谜",
+    "template": "hero_text",
+    "items": [
+      "肾脏为何突然衰竭"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3812,
+    "seg_id": "S1-L2",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "突发肾衰之谜",
+    "template": "hero_text",
+    "items": [
+      "青壮年突发需透析"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3813,
+    "seg_id": "S1-L3",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "突发肾衰之谜",
+    "template": "list_fade",
+    "items": [
+      "揭秘急性肾损伤",
+      "五大常见致病元凶"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3814,
+    "seg_id": "S2-L1",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "warning_alert",
+    "items": [
+      "布洛芬长期大剂量",
+      "血管收缩供血不足"
+    ],
+    "needs_animation": true,
+    "label": "NSAIDs致肾血管收缩机制"
+  },
+  {
+    "global_index": 3815,
+    "seg_id": "S2-L2",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "step_arrow",
+    "items": [
+      "使用造影剂检查",
+      "肾功能基础较差",
+      "急性肾损伤风险高"
+    ],
+    "needs_animation": true,
+    "label": "造影剂肾损伤机制"
+  },
+  {
+    "global_index": 3816,
+    "seg_id": "S2-L3",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "hero_text",
+    "items": [
+      "吃药切勿随意自行"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3817,
+    "seg_id": "S2-L4",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "branch_path",
+    "items": [
+      "患有慢性基础病",
+      "优选护肾类药物",
+      "避免肾毒性药物"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3818,
+    "seg_id": "S2-L5",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "split_column",
+    "items": [
+      "普通降糖药",
+      "列净类护肾药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3819,
+    "seg_id": "S2-L6",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "split_column",
+    "items": [
+      "普通降压药",
+      "沙坦普利类"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3820,
+    "seg_id": "S2-L7",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "step_arrow",
+    "items": [
+      "高尿酸不控制",
+      "结晶沉积肾脏",
+      "肾功能逐渐下降"
+    ],
+    "needs_animation": true,
+    "label": "尿酸结晶沉积肾脏过程"
+  },
+  {
+    "global_index": 3821,
+    "seg_id": "S2-L8",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "list_fade",
+    "items": [
+      "所以吃药这件事",
+      "真的不能随便"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3822,
+    "seg_id": "S2-L9",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "list_fade",
+    "items": [
+      "如果你本身就有慢性病",
+      "需要长期吃药",
+      "选药的时候也要多留心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3823,
+    "seg_id": "S2-L10",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "list_fade",
+    "items": [
+      "有糖尿病的朋友",
+      "可以跟医生商量",
+      "选择列净类的降糖药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3824,
+    "seg_id": "S2-L11",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "list_fade",
+    "items": [
+      "降血糖的同时",
+      "对肾脏有额外的保护作用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3825,
+    "seg_id": "S2-L12",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "list_fade",
+    "items": [
+      "有高血压的朋友",
+      "可以优选沙坦类和普利类的降压药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3826,
+    "seg_id": "S2-L13",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "list_fade",
+    "items": [
+      "因为它们本身就有",
+      "降尿蛋白",
+      "护心护肾"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3827,
+    "seg_id": "S2-L14",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "list_fade",
+    "items": [
+      "高尿酸的朋友",
+      "也别忍着不管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3828,
+    "seg_id": "S2-L15",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "药物性肾损伤",
+    "template": "list_fade",
+    "items": [
+      "尿酸结晶沉积在肾脏里",
+      "时间长",
+      "肾功能就有可能会往下掉"
+    ],
+    "needs_animation": true,
+    "label": "尿酸结晶沉积肾脏过程"
+  },
+  {
+    "global_index": 3829,
+    "seg_id": "S3-L1",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "脱水与低血压",
+    "template": "hero_text",
+    "items": [
+      "肾脏如精密净水机"
+    ],
+    "needs_animation": true,
+    "label": "肾脏滤过功能结构"
+  },
+  {
+    "global_index": 3830,
+    "seg_id": "S3-L2",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "脱水与低血压",
+    "template": "brick_stack",
+    "items": [
+      "连续腹泻高烧",
+      "大量出汗失血",
+      "手术后体液丢失"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3831,
+    "seg_id": "S3-L3",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "脱水与低血压",
+    "template": "step_arrow",
+    "items": [
+      "血容量快速下降",
+      "肾脏供血严重减少",
+      "肾小管缺氧坏死"
+    ],
+    "needs_animation": true,
+    "label": "低血容量致肾小管缺血坏死过程"
+  },
+  {
+    "global_index": 3832,
+    "seg_id": "S3-L4",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "脱水与低血压",
+    "template": "hero_text",
+    "items": [
+      "血容量会快速下降"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3833,
+    "seg_id": "S3-L5",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "脱水与低血压",
+    "template": "list_fade",
+    "items": [
+      "没有足够的血容量",
+      "肾脏的供血就会减少"
+    ],
+    "needs_animation": true,
+    "label": "低血容量致肾脏供血不足"
+  },
+  {
+    "global_index": 3834,
+    "seg_id": "S3-L6",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "脱水与低血压",
+    "template": "list_fade",
+    "items": [
+      "肾小管的细胞",
+      "最先会缺氧坏死"
+    ],
+    "needs_animation": true,
+    "label": "肾小管细胞缺氧坏死过程"
+  },
+  {
+    "global_index": 3835,
+    "seg_id": "S4-L1",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "尿路梗阻危害",
+    "template": "color_grid",
+    "items": [
+      "前列腺增生",
+      "输尿管结石",
+      "肿瘤外部压迫"
+    ],
+    "needs_animation": true,
+    "label": "尿路梗阻常见病因解剖结构"
+  },
+  {
+    "global_index": 3836,
+    "seg_id": "S4-L2",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "尿路梗阻危害",
+    "template": "step_arrow",
+    "items": [
+      "尿液无法排出",
+      "肾内压力升高",
+      "肾脏组织憋坏"
+    ],
+    "needs_animation": true,
+    "label": "尿路梗阻致肾内压升高过程"
+  },
+  {
+    "global_index": 3837,
+    "seg_id": "S4-L3",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "尿路梗阻危害",
+    "template": "warning_alert",
+    "items": [
+      "拖延导致不可逆",
+      "男性排尿不畅就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3838,
+    "seg_id": "S4-L4",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "尿路梗阻危害",
+    "template": "hero_text",
+    "items": [
+      "肾脏就会被活活的憋坏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3839,
+    "seg_id": "S4-L5",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "尿路梗阻危害",
+    "template": "list_fade",
+    "items": [
+      "这种损伤拖久了",
+      "往往不可逆"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

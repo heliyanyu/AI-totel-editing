@@ -1,0 +1,513 @@
+[
+  {
+    "global_index": 3760,
+    "seg_id": "S4-L7",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "warning_alert",
+    "items": [
+      "此步不管，后面越来越被动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3761,
+    "seg_id": "S4-L8",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "branch_path",
+    "items": [
+      "现在是否积极干预？",
+      "积极干预→推迟透析数年",
+      "放任不管→快速滑向第四期"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3762,
+    "seg_id": "S4-L9",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "hero_text",
+    "items": [
+      "行动，现在还来得及"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3763,
+    "seg_id": "S5-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "number_center",
+    "items": [
+      "15–29"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3764,
+    "seg_id": "S5-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "hero_text",
+    "items": [
+      "症状开始全面浮现"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3765,
+    "seg_id": "S5-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "color_grid",
+    "items": [
+      "贫血乏力",
+      "恶心浮肿",
+      "皮肤瘙痒",
+      "代谢废物堆积"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3766,
+    "seg_id": "S5-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "split_column",
+    "items": [
+      "正常状态",
+      "第四期状态",
+      "代谢废物充分清除",
+      "废物与水分开始堆积"
+    ],
+    "needs_animation": true,
+    "label": "肾功能下降致代谢废物堆积过程"
+  },
+  {
+    "global_index": 3767,
+    "seg_id": "S5-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "hero_text",
+    "items": [
+      "目标不再是逆转，而是延缓"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3768,
+    "seg_id": "S5-L6",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "list_fade",
+    "items": [
+      "药物治疗仍有益处",
+      "尽力推迟进入第五期"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3769,
+    "seg_id": "S5-L7",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "list_fade",
+    "items": [
+      "了解透析方式与流程",
+      "了解肾移植相关知识",
+      "做好身心和物质准备"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3770,
+    "seg_id": "S6-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第五阶段：终末期与新起点",
+    "template": "number_center",
+    "items": [
+      "<15"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3771,
+    "seg_id": "S6-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第五阶段：终末期与新起点",
+    "template": "list_fade",
+    "items": [
+      "血液透析维持生命",
+      "肾移植重建功能"
+    ],
+    "needs_animation": true,
+    "label": "血液透析与肾移植治疗过程"
+  },
+  {
+    "global_index": 3772,
+    "seg_id": "S6-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第五阶段：终末期与新起点",
+    "template": "myth_buster",
+    "items": [
+      "开始透析就是天塌了",
+      "现代透析技术成熟，生活质量不差",
+      "透析是终点，没有希望了",
+      "条件允许后可回归接近正常生活"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3773,
+    "seg_id": "S6-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第五阶段：终末期与新起点",
+    "template": "hero_text",
+    "items": [
+      "透析不是终点，而是新的起点"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3774,
+    "seg_id": "S6-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第五阶段：终末期与新起点",
+    "template": "hero_text",
+    "items": [
+      "做好的人，依然可以好好生活"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3775,
+    "seg_id": "S7-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "行动指南：查一查",
+    "template": "list_fade",
+    "items": [
+      "尿常规：查有无蛋白尿",
+      "血肌酐：反映肾脏代谢状态",
+      "eGFR：评估剩余滤过能力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3776,
+    "seg_id": "S7-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "行动指南：查一查",
+    "template": "hero_text",
+    "items": [
+      "花费不多，看清肾脏走到哪步"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3777,
+    "seg_id": "S7-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "行动指南：查一查",
+    "template": "hero_text",
+    "items": [
+      "早发现，才能掌握主动权"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3778,
+    "seg_id": "S7-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "行动指南：查一查",
+    "template": "hero_text",
+    "items": [
+      "早一步发现，多一份主动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3779,
+    "seg_id": "S7-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "行动指南：查一查",
+    "template": "hero_text",
+    "items": [
+      "你现在走到第几步了？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3780,
+    "seg_id": "S1-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "肾衰竭从何而来",
+    "template": "hero_text",
+    "items": [
+      "好好的肾脏，怎么突然就坏了？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3781,
+    "seg_id": "S1-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "肾衰竭从何而来",
+    "template": "warning_alert",
+    "items": [
+      "三四十岁，昨天上班今天透析"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3782,
+    "seg_id": "S1-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "肾衰竭从何而来",
+    "template": "hero_text",
+    "items": [
+      "五大凶手，逐一揭秘"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3783,
+    "seg_id": "S2-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "hero_text",
+    "items": [
+      "第一凶手：药物伤肾"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3784,
+    "seg_id": "S2-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "branch_path",
+    "items": [
+      "偶尔吃止痛药",
+      "偶尔服用，风险可控",
+      "长期大剂量，肾血管持续收缩"
+    ],
+    "needs_animation": true,
+    "label": "止痛药致肾血管收缩机制"
+  },
+  {
+    "global_index": 3785,
+    "seg_id": "S2-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "warning_alert",
+    "items": [
+      "肾功能差者使用造影剂，风险更高"
+    ],
+    "needs_animation": true,
+    "label": "造影剂肾损伤机制"
+  },
+  {
+    "global_index": 3786,
+    "seg_id": "S2-L4",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "hero_text",
+    "items": [
+      "吃药这件事，真的不能随便"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3787,
+    "seg_id": "S2-L5",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "list_fade",
+    "items": [
+      "长期用药，选药时需多留心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3788,
+    "seg_id": "S2-L6",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "color_grid",
+    "items": [
+      "列净类降糖药，额外保护肾脏",
+      "降糖护肾，一举两得"
+    ],
+    "needs_animation": true,
+    "label": "SGLT2抑制剂肾脏保护机制"
+  },
+  {
+    "global_index": 3789,
+    "seg_id": "S2-L7",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "color_grid",
+    "items": [
+      "沙坦类降压药，降尿蛋白护肾",
+      "普利类降压药，护心又护肾"
+    ],
+    "needs_animation": true,
+    "label": "ARB/ACEI类药物肾脏保护机制"
+  },
+  {
+    "global_index": 3790,
+    "seg_id": "S2-L8",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "step_arrow",
+    "items": [
+      "高尿酸长期不管",
+      "尿酸结晶沉积肾脏",
+      "肾功能持续下降"
+    ],
+    "needs_animation": true,
+    "label": "尿酸结晶肾脏沉积损伤过程"
+  },
+  {
+    "global_index": 3791,
+    "seg_id": "S2-L9",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "hero_text",
+    "items": [
+      "选对药，才能护好肾"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3792,
+    "seg_id": "S3-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第二凶手：脱水低血压",
+    "template": "hero_text",
+    "items": [
+      "第二凶手：严重脱水与低血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3793,
+    "seg_id": "S3-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第二凶手：脱水低血压",
+    "template": "hero_text",
+    "items": [
+      "肾脏是人体净水机，每天过滤海量血液"
+    ],
+    "needs_animation": true,
+    "label": "肾脏血液过滤生理机制"
+  },
+  {
+    "global_index": 3794,
+    "seg_id": "S3-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第二凶手：脱水低血压",
+    "template": "brick_stack",
+    "items": [
+      "持续腹泻失水",
+      "高烧大量出汗",
+      "手术失血过多"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3795,
+    "seg_id": "S3-L4",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第二凶手：脱水低血压",
+    "template": "step_arrow",
+    "items": [
+      "血容量急速下降",
+      "肾脏供血减少",
+      "肾小管细胞缺氧坏死"
+    ],
+    "needs_animation": true,
+    "label": "肾前性缺血致肾小管坏死过程"
+  },
+  {
+    "global_index": 3796,
+    "seg_id": "S4-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第三凶手：尿路梗阻",
+    "template": "hero_text",
+    "items": [
+      "第三凶手：尿路梗阻"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3797,
+    "seg_id": "S4-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第三凶手：尿路梗阻",
+    "template": "list_fade",
+    "items": [
+      "前列腺增生堵尿路",
+      "结石卡住输尿管",
+      "肿瘤压迫尿道"
+    ],
+    "needs_animation": true,
+    "label": "尿路梗阻解剖结构示意"
+  },
+  {
+    "global_index": 3798,
+    "seg_id": "S4-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第三凶手：尿路梗阻",
+    "template": "step_arrow",
+    "items": [
+      "尿液排不出去",
+      "压力层层向上传导",
+      "肾脏被活活憋坏"
+    ],
+    "needs_animation": true,
+    "label": "尿路梗阻致肾积水压力传导过程"
+  },
+  {
+    "global_index": 3799,
+    "seg_id": "S4-L4",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第三凶手：尿路梗阻",
+    "template": "warning_alert",
+    "items": [
+      "拖久了，损伤往往不可逆"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

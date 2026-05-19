@@ -1,0 +1,552 @@
+[
+  {
+    "global_index": 3040,
+    "seg_id": "S9-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "协助成全而非劝捐",
+    "template": "myth_buster",
+    "items": [
+      "直接问要不要捐器官",
+      "等情绪平复后轻声引导",
+      "给家属施加道德压力",
+      "提供选择，无论如何都尊重"
+    ],
+    "atoms_text": "有经验的器官捐献协调员 告诉我 他们从不劝捐 而是协助成全",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3041,
+    "seg_id": "S9-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "协助成全而非劝捐",
+    "template": "hero_text",
+    "items": [
+      "他的生命可以用另一种方式延续"
+    ],
+    "atoms_text": "我们会等家属情绪稍微平复一点 然后非常小心的问 我们尽了最大的努力 真的非常难过 如果你们愿意 其实他的生命 可以用另一种方式 在这个世界上延续 去救好几个家庭 为几个濒临崩溃的家庭带去希望 你们可以考虑一下 无论做什么决定 我们都尊重",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3042,
+    "seg_id": "S9-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "协助成全而非劝捐",
+    "template": "hero_text",
+    "items": [
+      "不是绑架，而是给家属一个出口"
+    ],
+    "atoms_text": "这里没有道德绑架 反而是给家属一个出口",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3043,
+    "seg_id": "S10-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "绝望里的那一点光",
+    "template": "hero_text",
+    "items": [
+      "最怕的是：人没了，什么都没留下"
+    ],
+    "atoms_text": "很多家属在巨大的悲痛里 最怕的就是 人没了 什么都没留下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3044,
+    "seg_id": "S10-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "绝望里的那一点光",
+    "template": "split_column",
+    "items": [
+      "心脏在另一个人胸膛里跳动",
+      "眼角膜带别人去看世界",
+      "对家属是安慰与寄托",
+      "逝者的爱以另一种形式延续"
+    ],
+    "atoms_text": "但反过来想 亲人的心脏 可以在另一个人的胸膛里继续跳 眼睛可以带别人去看世界 那对家属来说 有时候反而是一种巨大的安慰和寄托",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3045,
+    "seg_id": "S10-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "绝望里的那一点光",
+    "template": "hero_text",
+    "items": [
+      "这不是残忍，这是绝望里的光"
+    ],
+    "atoms_text": "这不是残忍的提议 这可能是绝望里的那一点点光",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3046,
+    "seg_id": "S11-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "生命最高级的延续",
+    "template": "hero_text",
+    "items": [
+      "捐献不是不敬，是生命最高级的延续"
+    ],
+    "atoms_text": "我们社会需要慢慢形成一种共识 在不可挽回的死亡面前 选择捐献 不是对逝者的不敬 而是生命最高级的延续",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3047,
+    "seg_id": "S11-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "生命最高级的延续",
+    "template": "number_center",
+    "items": [
+      "8人"
+    ],
+    "atoms_text": "一个捐献者最多可以救八个人 这是多大的功德",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3048,
+    "seg_id": "S12-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "做在前面才有用",
+    "template": "hero_text",
+    "items": [
+      "这件事，得做在最后一刻之前"
+    ],
+    "atoms_text": "那怎么才能做到更好呢 光靠医生在最后一刻去沟通 太难了 这事得做在前面",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3049,
+    "seg_id": "S12-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "做在前面才有用",
+    "template": "warning_alert",
+    "items": [
+      "觉得不吉利不谈，事到临头就来不及"
+    ],
+    "atoms_text": "首先科普得跟上 很多人忌讳谈生死 觉得不吉利 但你不谈 等到事到临头 就来不及了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3050,
+    "seg_id": "S12-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "做在前面才有用",
+    "template": "hero_text",
+    "items": [
+      "每个成年人，都值得认真想想这件事"
+    ],
+    "atoms_text": "我觉得每一个成年人 都可以认认真真的想想这件事 然后把自己的决定告诉家人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3051,
+    "seg_id": "S12-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "做在前面才有用",
+    "template": "step_arrow",
+    "items": [
+      "生前未明确表示不愿意捐",
+      "由配偶、成年子女、父母共同决定",
+      "决定权落在家人肩上"
+    ],
+    "atoms_text": "因为根据咱们国家的法律 如果你生前没明确表示不愿意捐 去世后是配偶 成年子女 父母共同决定的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3052,
+    "seg_id": "S12-L5",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "做在前面才有用",
+    "template": "hero_text",
+    "items": [
+      "愿意捐就提前登记，别让家人去猜"
+    ],
+    "atoms_text": "如果你愿意 最好先登记 别把这个难题留给家人去猜",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3053,
+    "seg_id": "S13-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "信任与文明的考题",
+    "template": "hero_text",
+    "items": [
+      "好的沟通：提供让爱延续的可能"
+    ],
+    "atoms_text": "其实对咱们医生来说 沟通的技巧和时机太重要了 不是机械的问要不要捐 而是提供一种选择 一种让爱延续的可能",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3054,
+    "seg_id": "S13-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "信任与文明的考题",
+    "template": "hero_text",
+    "items": [
+      "这考验的是社会的信任与文明程度"
+    ],
+    "atoms_text": "那说到底 器官捐献这事儿 跟技术关系没那么大 它考验的是 一个社会的信任和文明程度",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3055,
+    "seg_id": "S13-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "信任与文明的考题",
+    "template": "hero_text",
+    "items": [
+      "每个人往前迈一小步，就能多一点希望"
+    ],
+    "atoms_text": "让等待的人少一点 让绝望的人多一点希望 这件事需要我们每个人 都往前迈一小步",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3056,
+    "seg_id": "S14-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "小王的选择",
+    "template": "hero_text",
+    "items": [
+      "小王刚有了孩子，理念比较开明"
+    ],
+    "atoms_text": "开头说的小王 到底还是年轻人 理念比较新 而且自己的孩子也才刚出生不久",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3057,
+    "seg_id": "S14-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "小王的选择",
+    "template": "hero_text",
+    "items": [
+      "让父亲的器官为他人带去新生"
+    ],
+    "atoms_text": "父亲的离开难以避免 让他的器官为其他人带去新的希望 也许是最好的选择",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3058,
+    "seg_id": "S14-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "小王的选择",
+    "template": "hero_text",
+    "items": [
+      "善良的人，值得被世界记住"
+    ],
+    "atoms_text": "毕竟父亲生前 也是一个对待小猫小狗 都非常善良的人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3059,
+    "seg_id": "S1-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "三种他汀谁更好",
+    "template": "hero_text",
+    "items": [
+      "三种他汀谁更好"
+    ],
+    "atoms_text": "阿托伐他汀 瑞舒伐他汀 匹伐他汀 到底谁更好呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3060,
+    "seg_id": "S1-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "三种他汀谁更好",
+    "template": "myth_buster",
+    "items": [
+      "匹伐他汀副作用最小",
+      "副作用小不等于适合所有人"
+    ],
+    "atoms_text": "网上说 匹伐他汀 副作用最小 这是真的吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3061,
+    "seg_id": "S1-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "三种他汀谁更好",
+    "template": "hero_text",
+    "items": [
+      "五角度全方位横向对比"
+    ],
+    "atoms_text": "今天 我从五个角度 全方位 帮你 把这三种他汀 拉在一起 比一比 你对照着自己的情况 看完 心里有数了 就知道怎么选了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3062,
+    "seg_id": "S1-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "三种他汀谁更好",
+    "template": "warning_alert",
+    "items": [
+      "最后有对比表格记得截图保存"
+    ],
+    "atoms_text": "视频的最后啊 我也总结了 一张对比的表格 大家记得 截图保存",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3063,
+    "seg_id": "S2-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "降脂力度对比",
+    "template": "hero_text",
+    "items": [
+      "第一维度：降脂力度"
+    ],
+    "atoms_text": "咱先说 降脂的力度",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3064,
+    "seg_id": "S2-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "降脂力度对比",
+    "template": "split_column",
+    "items": [
+      "瑞舒伐他汀降脂最强",
+      "匹伐他汀属中等强度",
+      "阿托伐他汀强效略低于瑞舒",
+      "中等血脂偏高匹伐够用"
+    ],
+    "atoms_text": "阿托伐他汀 和瑞舒伐他汀 都是强效的他汀 属于降脂界的 重型武器",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3065,
+    "seg_id": "S2-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "降脂力度对比",
+    "template": "number_center",
+    "items": [
+      "＞ 阿托 ＞ 匹伐"
+    ],
+    "atoms_text": "在常规剂量下 瑞舒伐他汀的降脂效果 要比阿托伐他汀 稍微强那么一点点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3066,
+    "seg_id": "S2-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "降脂力度对比",
+    "template": "branch_path",
+    "items": [
+      "LDL需大幅下降",
+      "首选瑞舒伐他汀",
+      "血脂轻度偏高匹伐足够"
+    ],
+    "atoms_text": "匹伐他汀呢 算中等强度 火力没那俩猛 但也不弱",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3067,
+    "seg_id": "S2-L5",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "降脂力度对比",
+    "template": "list_fade",
+    "items": [
+      "瑞舒伐他汀：强效降脂首选",
+      "阿托伐他汀：同为重型武器",
+      "匹伐他汀：中等火力不弱"
+    ],
+    "atoms_text": "所以如果 你的坏胆固醇特别高 医生要求你 必须大幅度降下来 那瑞舒伐他汀 往往是首选",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3068,
+    "seg_id": "S2-L6",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "降脂力度对比",
+    "template": "hero_text",
+    "items": [
+      "胆固醇越高选药火力越强"
+    ],
+    "atoms_text": "但如果 你的血脂就是偏高一些 匹伐他汀 也完全够用 没必要非得上最猛的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3069,
+    "seg_id": "S3-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "服药时间讲解",
+    "template": "hero_text",
+    "items": [
+      "第二维度：服药时间"
+    ],
+    "atoms_text": "再说 吃药的时间",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3070,
+    "seg_id": "S3-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "服药时间讲解",
+    "template": "warning_alert",
+    "items": [
+      "吃错时间药效打折等于白吃"
+    ],
+    "atoms_text": "他汀吃错的时间 药效打折扣 等于白吃",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3071,
+    "seg_id": "S3-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "服药时间讲解",
+    "template": "number_center",
+    "items": [
+      "19"
+    ],
+    "atoms_text": "阿托伐他汀 和瑞舒伐他汀呢 都是长效的他汀 药劲儿啊 能管很久 阿托伐他汀 半衰期 大概十四个小时左右 瑞舒伐他汀呢 有将近十九个小时",
+    "needs_animation": true,
+    "label": "阿托伐他汀半衰期14小时与瑞舒伐他汀半衰期19小时的药物持续作用对比"
+  },
+  {
+    "global_index": 3072,
+    "seg_id": "S3-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "服药时间讲解",
+    "template": "split_column",
+    "items": [
+      "阿托伐他汀任意时间服用",
+      "匹伐他汀建议睡前服用",
+      "瑞舒伐他汀任意时间服用",
+      "睡前服覆盖凌晨胆固醇合成高峰"
+    ],
+    "atoms_text": "所以这俩药 你一天当中 任何时候吃 都可以 早上吃也行 晚上吃也行 选一个固定的时间 坚持住就成",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3073,
+    "seg_id": "S3-L5",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "服药时间讲解",
+    "template": "step_arrow",
+    "items": [
+      "匹伐半衰期约11小时较短",
+      "睡前服用药效延续至后半夜",
+      "覆盖肝脏合成胆固醇高峰"
+    ],
+    "atoms_text": "但匹伐他汀呢 这个半衰期呢 要短一些 大概十一个小时左右 所以最好 晚上睡前吃 这样正好 能覆盖住后半夜 这个肝脏合成胆固醇的高峰",
+    "needs_animation": true,
+    "label": "匹伐他汀半衰期11小时需睡前服用以覆盖肝脏后半夜合成胆固醇的高峰期"
+  },
+  {
+    "global_index": 3074,
+    "seg_id": "S4-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "hero_text",
+    "items": [
+      "第三维度：肝肾影响与用药冲突"
+    ],
+    "atoms_text": "第三个呢 是对肝脏和肾脏的影响",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3075,
+    "seg_id": "S4-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "step_arrow",
+    "items": [
+      "经CYP3A4通道肝脏代谢",
+      "该通道繁忙多药共用易拥堵",
+      "多药联用需警惕相互作用"
+    ],
+    "atoms_text": "阿托伐他汀 主要是走肝脏代谢的 具体来说呢 是肝脏里 有一条叫CYP3A4的通道 这条通道 非常繁忙 很多别的药 也走这条路",
+    "needs_animation": true,
+    "label": "阿托伐他汀经肝脏CYP3A4代谢通道进行代谢且该通道与多种药物共用"
+  },
+  {
+    "global_index": 3076,
+    "seg_id": "S4-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "warning_alert",
+    "items": [
+      "同吃多种药须警惕肝脏拥堵"
+    ],
+    "atoms_text": "所以如果 你同时在吃好几种药 就得特别留神 会不会在肝脏里堵车",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3077,
+    "seg_id": "S4-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "split_column",
+    "items": [
+      "瑞舒伐他汀原型经肾脏排出",
+      "匹伐他汀走独立肝脏通道",
+      "肝负担小与其他药冲突少",
+      "与其他药发生冲突概率低"
+    ],
+    "atoms_text": "瑞舒伐他汀呢 主要以原型 通过肾脏排出去 对肝脏的负担 要小不少 而且不怎么跟别的药打架",
+    "needs_animation": true,
+    "label": "瑞舒伐他汀以原型形式通过肾脏排出体外"
+  },
+  {
+    "global_index": 3078,
+    "seg_id": "S4-L5",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "branch_path",
+    "items": [
+      "肾脏功能不佳",
+      "选阿托或匹伐更稳妥",
+      "避免使用瑞舒伐他汀"
+    ],
+    "atoms_text": "匹伐他汀 虽然也经过肝脏代谢 但走的是另外一条的通道 所以跟其他药 发生冲突的概率 也相对低一些",
+    "needs_animation": true,
+    "label": "匹伐他汀经肝脏另一条独立代谢通道代谢避开CYP3A4"
+  },
+  {
+    "global_index": 3079,
+    "seg_id": "S4-L6",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "branch_path",
+    "items": [
+      "肝脏负担重且多药联用",
+      "优选瑞舒伐他汀或匹伐",
+      "阿托伐他汀需谨慎监测"
+    ],
+    "atoms_text": "所以啊 肾脏不太好的朋友啊 就不太适合用瑞舒伐他汀了 选阿托伐他汀 或者匹伐他汀 更稳妥一些",
+    "needs_animation": false,
+    "label": ""
+  }
+]

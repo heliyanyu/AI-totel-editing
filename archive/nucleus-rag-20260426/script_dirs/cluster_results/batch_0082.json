@@ -1,0 +1,544 @@
+[
+  {
+    "global_index": 3280,
+    "seg_id": "S4-L3",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能吃辣吗",
+    "template": "hero_text",
+    "items": [
+      "喜欢吃辣就吃，少盐少油就行"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3281,
+    "seg_id": "S4-L4",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能吃辣吗",
+    "template": "list_fade",
+    "items": [
+      "但辣菜往往",
+      "同时又咸又油",
+      "升血压的是盐和油",
+      "不是辣椒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3282,
+    "seg_id": "S4-L5",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能吃辣吗",
+    "template": "list_fade",
+    "items": [
+      "所以啊",
+      "你喜欢吃辣就吃",
+      "做菜少放盐",
+      "少放油就行了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3283,
+    "seg_id": "S5-L1",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能喝咖啡吗",
+    "template": "branch_path",
+    "items": [
+      "是否有长期喝咖啡的习惯",
+      "每天一两杯完全没问题",
+      "平时不喝突然喝不太适合"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3284,
+    "seg_id": "S5-L2",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能喝咖啡吗",
+    "template": "split_column",
+    "items": [
+      "/ 美式 / 拿铁",
+      "速溶咖啡",
+      "无多余糖脂，可以选",
+      "糖和脂肪超多，最好不喝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3285,
+    "seg_id": "S5-L3",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能喝咖啡吗",
+    "template": "list_fade",
+    "items": [
+      "但平时从来不喝",
+      "突然喝",
+      "你那确实不太合适"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3286,
+    "seg_id": "S5-L4",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能喝咖啡吗",
+    "template": "list_fade",
+    "items": [
+      "另外",
+      "喝就喝黑咖啡",
+      "或者美式",
+      "或者拿铁"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3287,
+    "seg_id": "S5-L5",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能喝咖啡吗",
+    "template": "list_fade",
+    "items": [
+      "速溶咖啡里面",
+      "糖和脂肪加了一大堆",
+      "最好不喝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3288,
+    "seg_id": "S6-L1",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能做力量训练吗",
+    "template": "hero_text",
+    "items": [
+      "能做，而且建议多做"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3289,
+    "seg_id": "S6-L2",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能做力量训练吗",
+    "template": "myth_buster",
+    "items": [
+      "高血压不能使劲怕血管爆",
+      "中强度力量训练长期反而降血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3290,
+    "seg_id": "S6-L3",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能做力量训练吗",
+    "template": "warning_alert",
+    "items": [
+      "憋气时胸腔压力飙升血压瞬间冲高"
+    ],
+    "needs_animation": true,
+    "label": "憋气时胸腔压力升高致血压飙升的生理机制"
+  },
+  {
+    "global_index": 3291,
+    "seg_id": "S6-L4",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能做力量训练吗",
+    "template": "step_arrow",
+    "items": [
+      "深蹲等动作发力",
+      "用力时呼气",
+      "放松时吸气",
+      "保持呼吸完全没问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3292,
+    "seg_id": "S6-L5",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能做力量训练吗",
+    "template": "list_fade",
+    "items": [
+      "憋气时",
+      "胸腔压力飙升",
+      "血压会瞬间冲上去",
+      "这个才危险"
+    ],
+    "needs_animation": true,
+    "label": "憋气时胸腔压力升高致血压飙升的生理机制"
+  },
+  {
+    "global_index": 3293,
+    "seg_id": "S6-L6",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能做力量训练吗",
+    "template": "list_fade",
+    "items": [
+      "你做深蹲",
+      "或者其他训练时候",
+      "你用力的时候呼气",
+      "放松的时候吸气",
+      "保持呼吸别憋住"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3294,
+    "seg_id": "S7-L1",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压感冒药怎么选",
+    "template": "warning_alert",
+    "items": [
+      "感冒药不能随便吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3295,
+    "seg_id": "S7-L2",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压感冒药怎么选",
+    "template": "body_annotate",
+    "items": [
+      "标注\"缓解鼻塞\"的感冒药",
+      "含伪麻黄碱成分",
+      "收缩血管升高血压"
+    ],
+    "needs_animation": true,
+    "label": "伪麻黄碱收缩血管升高血压的药物机制"
+  },
+  {
+    "global_index": 3296,
+    "seg_id": "S7-L3",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压感冒药怎么选",
+    "template": "split_column",
+    "items": [
+      "告知药师自己有高血压",
+      "自己随意选感冒药",
+      "帮你避开升压成分更安全",
+      "可能误服伪麻黄碱风险大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3297,
+    "seg_id": "S7-L4",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压感冒药怎么选",
+    "template": "list_fade",
+    "items": [
+      "所以",
+      "高血压人感冒",
+      "跟药师说清楚",
+      "让他帮你避开这类成分就行"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3298,
+    "seg_id": "S7-L5",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压感冒药怎么选",
+    "template": "list_fade",
+    "items": [
+      "或者呢",
+      "直接找医生开药",
+      "最保险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3299,
+    "seg_id": "S8-L1",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "换季要不要调降压药",
+    "template": "hero_text",
+    "items": [
+      "血压随季节变化而波动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3300,
+    "seg_id": "S8-L2",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "换季要不要调降压药",
+    "template": "split_column",
+    "items": [
+      "冬天冷血管收缩",
+      "夏天热血管扩张",
+      "血压升高可达十几二十",
+      "血压明显偏低"
+    ],
+    "needs_animation": true,
+    "label": "温度变化引起血管收缩与扩张的生理机制"
+  },
+  {
+    "global_index": 3301,
+    "seg_id": "S8-L3",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "换季要不要调降压药",
+    "template": "myth_buster",
+    "items": [
+      "冬天血压压不下来是药不管用",
+      "天冷血管收缩需要加量",
+      "夏天老头晕是身体出了问题",
+      "天热血管扩张药量该减了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3302,
+    "seg_id": "S8-L4",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "换季要不要调降压药",
+    "template": "warning_alert",
+    "items": [
+      "加减药量必须由医生决定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3303,
+    "seg_id": "S8-L5",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "换季要不要调降压药",
+    "template": "step_arrow",
+    "items": [
+      "换季时多测几次血压",
+      "记录血压变化数据",
+      "带记录去找医生调整"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3304,
+    "seg_id": "S8-L6",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "换季要不要调降压药",
+    "template": "list_fade",
+    "items": [
+      "有的人啊",
+      "夏天老头晕",
+      "不是身体出了啥问题",
+      "是天热了药量该减了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3305,
+    "seg_id": "S8-L7",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "换季要不要调降压药",
+    "template": "list_fade",
+    "items": [
+      "但加减药啊",
+      "一定让医生来定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3306,
+    "seg_id": "S8-L8",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "换季要不要调降压药",
+    "template": "list_fade",
+    "items": [
+      "你要做的就是",
+      "每年换季的时候",
+      "多量几次血压",
+      "发现变化了",
+      "拿着记录去找医生"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3307,
+    "seg_id": "S9-L1",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "结尾互动",
+    "template": "hero_text",
+    "items": [
+      "七个问题讲清楚了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3308,
+    "seg_id": "S9-L2",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "结尾互动",
+    "template": "hero_text",
+    "items": [
+      "还有疑问评论区留言一一解答"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3309,
+    "seg_id": "S9-L3",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "结尾互动",
+    "template": "hero_text",
+    "items": [
+      "转发给家里血压高的人看看"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3310,
+    "seg_id": "S1-L1",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "误区引入",
+    "template": "hero_text",
+    "items": [
+      "翻身头晕，老张以为脑供血不足"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3311,
+    "seg_id": "S1-L2",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "误区引入",
+    "template": "myth_buster",
+    "items": [
+      "头晕第一反应：脑供血不足",
+      "赶紧买活血化瘀药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3312,
+    "seg_id": "S1-L3",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "误区引入",
+    "template": "warning_alert",
+    "items": [
+      "部分基层医生随口扣帽：头晕=脑供血不足"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3313,
+    "seg_id": "S1-L4",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "误区引入",
+    "template": "myth_buster",
+    "items": [
+      "脑供血不足是万能诊断框",
+      "严谨诊断标准中并无此病名"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3314,
+    "seg_id": "S1-L5",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "误区引入",
+    "template": "warning_alert",
+    "items": [
+      "真正脑供血不足：突发中风偏瘫失语",
+      "应立即拨打120送急诊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3315,
+    "seg_id": "S1-L6",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "误区引入",
+    "template": "number_center",
+    "items": [
+      "4"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3316,
+    "seg_id": "S2-L1",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "耳石症",
+    "template": "hero_text",
+    "items": [
+      "最常见：耳石症"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3317,
+    "seg_id": "S2-L2",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "耳石症",
+    "template": "step_arrow",
+    "items": [
+      "躺下、起床或翻身转头瞬间",
+      "天旋地转，房间在转",
+      "十几秒至一分钟后自行停止"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3318,
+    "seg_id": "S2-L3",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "耳石症",
+    "template": "branch_path",
+    "items": [
+      "怀疑耳石症时",
+      "耳鼻喉科耳石复位，几分钟见效",
+      "查脑血管，无效浪费时间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3319,
+    "seg_id": "S3-L1",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "颈椎病",
+    "template": "hero_text",
+    "items": [
+      "第二种：颈椎病引发头晕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

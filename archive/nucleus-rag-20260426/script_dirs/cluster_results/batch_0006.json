@@ -1,0 +1,518 @@
+[
+  {
+    "global_index": 240,
+    "seg_id": "S4-L8",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "四类危险运动人群",
+    "template": "hero_text",
+    "items": [
+      "先稳住斑块再循序渐进运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 241,
+    "seg_id": "S4-L9",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "四类危险运动人群",
+    "template": "warning_alert",
+    "items": [
+      "发烧时炎症水平高血管内膜更脆弱"
+    ],
+    "needs_animation": true,
+    "label": "炎症反应导致血管内膜损伤"
+  },
+  {
+    "global_index": 242,
+    "seg_id": "S4-L10",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "四类危险运动人群",
+    "template": "hero_text",
+    "items": [
+      "感冒发烧请老实休息"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 243,
+    "seg_id": "S4-L11",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "四类危险运动人群",
+    "template": "category_table",
+    "items": [
+      "血压未控制者",
+      "先降压再运动",
+      "长期熬夜者",
+      "保证睡眠再运动",
+      "有不稳定斑块者",
+      "医生指导下运动",
+      "发烧或极度疲惫者",
+      "充分休息再运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 244,
+    "seg_id": "S4-L12",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "四类危险运动人群",
+    "template": "hero_text",
+    "items": [
+      "那什么才是对血管真正好的运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 245,
+    "seg_id": "S5-L1",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "正确运动方式总结",
+    "template": "hero_text",
+    "items": [
+      "中等强度规律坚持充分休息"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 246,
+    "seg_id": "S5-L2",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "正确运动方式总结",
+    "template": "list_fade",
+    "items": [
+      "每周五次每次半小时",
+      "稍微有点喘还能说话的强度",
+      "运动后好好睡一觉让身体修复"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 247,
+    "seg_id": "S5-L3",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "正确运动方式总结",
+    "template": "hero_text",
+    "items": [
+      "喘气还能说话就是刚好的强度"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 248,
+    "seg_id": "S5-L4",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "正确运动方式总结",
+    "template": "hero_text",
+    "items": [
+      "睡好觉得到的永远比失去的多"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 249,
+    "seg_id": "S5-L5",
+    "bp_title": "运动真的会伤血管吗？",
+    "scene_title": "正确运动方式总结",
+    "template": "hero_text",
+    "items": [
+      "慢慢来比较快，急功近利适得其反"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 250,
+    "seg_id": "S1-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "他汀好药，但不是吃了就万事大吉"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 251,
+    "seg_id": "S1-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "开场点题",
+    "template": "warning_alert",
+    "items": [
+      "副作用找上门，血脂还是降不下来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 252,
+    "seg_id": "S1-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "开场点题",
+    "template": "split_column",
+    "items": [
+      "副作用找上门",
+      "吃药等于没吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 253,
+    "seg_id": "S1-L4",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "信号要警惕，嘴巴要管住"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 254,
+    "seg_id": "S2-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "hero_text",
+    "items": [
+      "他汀最需关注：肌肉问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 255,
+    "seg_id": "S2-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "body_annotate",
+    "items": [
+      "大腿肌肉酸痛无力",
+      "上臂大块肌肉不适",
+      "浑身没劲提不起精神"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 256,
+    "seg_id": "S2-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "step_arrow",
+    "items": [
+      "他汀抑制胆固醇合成",
+      "影响肌肉细胞能量代谢",
+      "少数人肌肉出现抗议"
+    ],
+    "needs_animation": true,
+    "label": "他汀抑制胆固醇合成影响肌肉细胞能量代谢"
+  },
+  {
+    "global_index": 257,
+    "seg_id": "S2-L4",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "branch_path",
+    "items": [
+      "肌肉轻微酸痛",
+      "换类别或调剂量可解决",
+      "抽血查肌酶确认是否正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 258,
+    "seg_id": "S2-L5",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "number_center",
+    "items": [
+      "正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 259,
+    "seg_id": "S2-L6",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "warning_alert",
+    "items": [
+      "小便呈酱油色或深茶色",
+      "立刻停药，马上就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 260,
+    "seg_id": "S2-L7",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "hero_text",
+    "items": [
+      "横纹肌溶解概率低，但会要命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 261,
+    "seg_id": "S3-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肝脏信号判断",
+    "template": "hero_text",
+    "items": [
+      "肝脏信号，最容易被忽视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 262,
+    "seg_id": "S3-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肝脏信号判断",
+    "template": "warning_alert",
+    "items": [
+      "转氨酶升高就自行停药，不可取"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 263,
+    "seg_id": "S3-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肝脏信号判断",
+    "template": "branch_path",
+    "items": [
+      "转氨酶升高",
+      "不超过三倍，继续吃定期复查",
+      "超过三倍，找医生评估调整方案"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 264,
+    "seg_id": "S3-L4",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肝脏信号判断",
+    "template": "number_center",
+    "items": [
+      "3倍"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 265,
+    "seg_id": "S4-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之西柚",
+    "template": "list_fade",
+    "items": [
+      "吃他汀期间有几类食物需注意",
+      "第一类：西柚最关键"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 266,
+    "seg_id": "S4-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之西柚",
+    "template": "step_arrow",
+    "items": [
+      "西柚抑制CYP3A4酶",
+      "他汀在体内分解不掉",
+      "药物浓度堆积，肌肉损伤风险飙升"
+    ],
+    "needs_animation": true,
+    "label": "西柚抑制CYP3A4酶影响他汀代谢过程"
+  },
+  {
+    "global_index": 267,
+    "seg_id": "S4-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之西柚",
+    "template": "category_table",
+    "items": [
+      "阿托伐他汀",
+      "瑞舒伐他汀",
+      "辛伐他汀",
+      "匹伐他汀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 268,
+    "seg_id": "S4-L4",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之西柚",
+    "template": "warning_alert",
+    "items": [
+      "西柚及西柚汁，吃他汀期间一律避开"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 269,
+    "seg_id": "S4-L5",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之西柚",
+    "template": "myth_buster",
+    "items": [
+      "只有西柚果肉才有影响",
+      "西柚汁同样含有抑制酶的成分"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 270,
+    "seg_id": "S4-L6",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之西柚",
+    "template": "hero_text",
+    "items": [
+      "即使影响小，保险起见少碰为好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 271,
+    "seg_id": "S5-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之饮酒",
+    "template": "hero_text",
+    "items": [
+      "第二类禁忌：饮酒伤肝不可忽视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 272,
+    "seg_id": "S5-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之饮酒",
+    "template": "split_column",
+    "items": [
+      "他汀靠肝脏代谢降血脂",
+      "酒精同样需要肝脏处理"
+    ],
+    "needs_animation": true,
+    "label": "肝脏同时代谢他汀与酒精的竞争过程"
+  },
+  {
+    "global_index": 273,
+    "seg_id": "S5-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之饮酒",
+    "template": "brick_stack",
+    "items": [
+      "长期饮酒本身伤肝",
+      "他汀代谢加重肝脏负担",
+      "转氨酶升高风险明显增加"
+    ],
+    "needs_animation": true,
+    "label": "酒精与他汀双重负担下肝脏损伤过程"
+  },
+  {
+    "global_index": 274,
+    "seg_id": "S6-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之高脂饮食",
+    "template": "hero_text",
+    "items": [
+      "吃了药不等于可以敞开吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 275,
+    "seg_id": "S6-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之高脂饮食",
+    "template": "myth_buster",
+    "items": [
+      "吃他汀后饮食随意没关系",
+      "高脂饮食仍会加重心血管负担"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 276,
+    "seg_id": "S6-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之高脂饮食",
+    "template": "split_column",
+    "items": [
+      "肝脏自产胆固醇占大头",
+      "饮食影响相对较小但不可忽视"
+    ],
+    "needs_animation": true,
+    "label": "肝脏内源性胆固醇合成过程"
+  },
+  {
+    "global_index": 277,
+    "seg_id": "S6-L4",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之高脂饮食",
+    "template": "list_fade",
+    "items": [
+      "正常吃肉没问题",
+      "少油炸多蒸煮",
+      "控制总量别过量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 278,
+    "seg_id": "S7-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "总结提醒",
+    "template": "vertical_timeline",
+    "items": [
+      "用药前三个月：复查肝功能和肌酶",
+      "稳定后：每半年至一年复查一次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 279,
+    "seg_id": "S7-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "总结提醒",
+    "template": "list_fade",
+    "items": [
+      "身体发出信号要认真对待",
+      "有问题及时找医生调整",
+      "不自行停药，不自行加药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

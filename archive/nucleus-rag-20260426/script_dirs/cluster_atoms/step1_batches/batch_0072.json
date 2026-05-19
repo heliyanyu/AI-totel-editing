@@ -1,0 +1,563 @@
+[
+  {
+    "global_index": 2880,
+    "seg_id": "S3-L5",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人发现更晚，风险更大",
+    "template": "hero_text",
+    "items": [
+      "血管只认胆固醇，不认你的体重"
+    ],
+    "atoms_text": "瘦人如果从二十几岁 血脂就偏高了 一直拖到五十几岁 几十年的累积量 足可以让血管壁 严重的堵塞 到那个时候 再说我明明很瘦 血管可不管您的体重",
+    "needs_animation": true,
+    "label": "低密度脂蛋白在血管壁长期累积导致严重堵塞"
+  },
+  {
+    "global_index": 2881,
+    "seg_id": "S4-L1",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "隐性肥胖：外瘦内胖的陷阱",
+    "template": "body_annotate",
+    "items": [
+      "外表四肢纤细无赘肉",
+      "体重数字正常好看",
+      "内脏脂肪严重超标",
+      "肝脏腹腔包裹大量脂肪"
+    ],
+    "atoms_text": "还有一种 是极易被忽视的情况 隐性肥胖 有些人看着 四肢纤细 肚子上也没有什么赘肉 体重数字也很好看 但内脏脂肪 是严重超标的 肝脏腹腔周围 裹着大量的脂肪",
+    "needs_animation": true,
+    "label": "内脏脂肪包裹肝脏和腹腔器官"
+  },
+  {
+    "global_index": 2882,
+    "seg_id": "S4-L2",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "隐性肥胖：外瘦内胖的陷阱",
+    "template": "list_fade",
+    "items": [
+      "甘油三酯偏高",
+      "血糖偏高",
+      "胰岛素抵抗",
+      "代谢已紊乱，外表看不出"
+    ],
+    "atoms_text": "这类人呢 外表看不出来问题 代谢却早已紊乱 甘油三酯高 血糖偏高 胰岛素抵抗 都有可能出现",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2883,
+    "seg_id": "S4-L3",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "隐性肥胖：外瘦内胖的陷阱",
+    "template": "warning_alert",
+    "items": [
+      "自己和他人都放松了警惕，风险反而更大"
+    ],
+    "atoms_text": "风险呢 比外表肥胖的 但代谢正常的人 是更高的 因为自己和他人 都放松了警惕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2884,
+    "seg_id": "S5-L1",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人血脂高该怎么办",
+    "template": "hero_text",
+    "items": [
+      "处理原则和胖人完全一样，不能放任"
+    ],
+    "atoms_text": "那瘦人查出来血脂高 该怎么办呢 处理原则 和胖人完全是一样的 不能因为瘦 就放任不管",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2885,
+    "seg_id": "S5-L2",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人血脂高该怎么办",
+    "template": "step_arrow",
+    "items": [
+      "每年必查一次血脂，有家族史更要查",
+      "坚持健康饮食与规律运动调节血脂",
+      "半年不达标，该吃他汀就吃药"
+    ],
+    "atoms_text": "第一 无论胖瘦 每年必须查一次血脂 尤其是有家族史的 比如说 家里人年轻就患了心梗脑梗 或者是父母血脂长期偏高 就算再瘦 也要定期去检查 早发现 才能早干预",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2886,
+    "seg_id": "S5-L3",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人血脂高该怎么办",
+    "template": "list_fade",
+    "items": [
+      "家族中有年轻心梗脑梗史",
+      "父母血脂长期偏高",
+      "无论多瘦都需定期筛查"
+    ],
+    "atoms_text": "第二 坚持健康的生活方式 虽然胆固醇多是由肝脏合成的 但饮食和运动 仍能起到调节的作用 少吃肥肉油炸食品等饱和脂肪类 规律的去运动 能帮血脂一定程度下降",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2887,
+    "seg_id": "S5-L4",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人血脂高该怎么办",
+    "template": "myth_buster",
+    "items": [
+      "我不胖，没必要吃他汀",
+      "血管只看低密度脂蛋白数值，不看体重",
+      "身材是借口，延误治疗损伤血管",
+      "数值不达标就应该规范用药"
+    ],
+    "atoms_text": "第三 生活调整半年后 血脂仍然不达标 该吃药就吃药 很多瘦人抗拒吃他汀 觉得自己不胖 没有必要吃药 但血管 只看低密度脂蛋白数值 不看体重 别拿身材当借口 延误治疗 只会损伤血管",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2888,
+    "seg_id": "S6-L1",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "最终结论与行动呼吁",
+    "template": "split_column",
+    "items": [
+      "有的胖子代谢正常",
+      "有的瘦子血管已严重堵塞",
+      "体重≠心脑血管风险高低",
+      "血脂才是血管健康的真实指标"
+    ],
+    "atoms_text": "说到底 胖瘦只是外表 血脂的高低 才是关乎血管的健康 有的胖子代谢正常 有的瘦子呢 血管却已经严重的堵塞 千万别用体重 判断心脑血管的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2889,
+    "seg_id": "S6-L2",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "最终结论与行动呼吁",
+    "template": "hero_text",
+    "items": [
+      "还没查过血脂？现在就去查一次"
+    ],
+    "atoms_text": "唯一靠谱的依据呢 就是血脂化验单 别再觉得瘦就万事大吉 还没查过血脂的 赶紧去检查一次吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2890,
+    "seg_id": "S1-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "消斑块的误区",
+    "template": "warning_alert",
+    "items": [
+      "买保健品找偏方，钱花了斑块不动",
+      "乱找偏方前，先搞清斑块是什么"
+    ],
+    "atoms_text": "斑块到底 能不能被消掉 说实话 我发现 很多人呢 一查出斑块 第一反应 不是去了解它 管理它 而是 满世界的去找 消除斑块的办法 保健品 买了一大堆 偏方也试了一大圈 钱花了不少 斑块纹丝不动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2891,
+    "seg_id": "S1-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "消斑块的误区",
+    "template": "hero_text",
+    "items": [
+      "对斑块不了解，一开始就弄错了方向"
+    ],
+    "atoms_text": "为什么呢 因为您对斑块不太了解 一开始啊 可能就弄错了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2892,
+    "seg_id": "S2-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块是怎么形成的",
+    "template": "step_arrow",
+    "items": [
+      "高血压高血脂抽烟长期损伤血管内壁",
+      "内壁受伤，胆固醇趁机钻入"
+    ],
+    "atoms_text": "先搞明白 斑块是什么 您把血管 想象成是一根水管 长期的 高血压 高血脂 抽烟 这些东西 就会把血管的内壁弄伤",
+    "needs_animation": true,
+    "label": "高血压高血脂和抽烟损伤血管内壁"
+  },
+  {
+    "global_index": 2893,
+    "seg_id": "S2-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块是怎么形成的",
+    "template": "step_arrow",
+    "items": [
+      "低密度脂蛋白钻入血管壁内",
+      "免疫细胞赶来清理却死在里面",
+      "残留物越堆越多形成粥样物质"
+    ],
+    "atoms_text": "内壁一旦受了伤 血液里的 低密度脂蛋白胆固醇 就有机会钻进去 免疫细胞呢 也跑过来 来清理 结果自己死在里面了",
+    "needs_animation": true,
+    "label": "低密度脂蛋白钻入受损内壁后免疫细胞吞噬死亡堆积"
+  },
+  {
+    "global_index": 2894,
+    "seg_id": "S2-L3",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块是怎么形成的",
+    "template": "hero_text",
+    "items": [
+      "粥样物质外包纤维帽，这就是斑块"
+    ],
+    "atoms_text": "这些东西越堆越多 在血管壁里面 就形成了 一坨像粥一样的东西 外面呢 再包裹着 一层纤维帽 这就是斑块",
+    "needs_animation": true,
+    "label": "脂质坏死核心形成粥样物质并被纤维帽包裹成斑块"
+  },
+  {
+    "global_index": 2895,
+    "seg_id": "S3-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块不能被\"擦掉\"",
+    "template": "body_annotate",
+    "items": [
+      "斑块长在血管壁内部，不是贴在表面",
+      "不像污渍，无法从外部清除"
+    ],
+    "atoms_text": "注意啊 斑块不是贴在血管壁上面的 而是长在血管壁下面的 你没法 像擦掉污渍一样 把它擦掉",
+    "needs_animation": true,
+    "label": "斑块长在血管壁内部而非贴在表面"
+  },
+  {
+    "global_index": 2896,
+    "seg_id": "S3-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块不能被\"擦掉\"",
+    "template": "myth_buster",
+    "items": [
+      "喝保健品能通血管化斑块",
+      "没有任何物质能精准钻入血管壁溶解斑块"
+    ],
+    "atoms_text": "那些卖保健品的 说什么 通血管 化斑块 您想一想就知道 是不对的 喝什么东西 能让它 精准的 钻到血管壁里面 把那坨东西化掉呢 还不伤血管 这不是科学",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2897,
+    "seg_id": "S4-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块能缩小吗",
+    "template": "number_center",
+    "items": [
+      "1.8"
+    ],
+    "atoms_text": "那斑块能不能缩小呢 能 目前唯一 有明确证据的方法 就是把 低密度脂蛋白胆固醇 降到足够的低 当低密度脂蛋白胆固醇 长期控制在 一点八 甚至是一点四以下的时候 一部分人的斑块体积 确实会缩小",
+    "needs_animation": true,
+    "label": "低密度脂蛋白持续降低后斑块体积逐渐缩小"
+  },
+  {
+    "global_index": 2898,
+    "seg_id": "S4-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块能缩小吗",
+    "template": "step_arrow",
+    "items": [
+      "停止往血管壁塞入新胆固醇",
+      "身体自行缓慢向外搬运胆固醇",
+      "时间积累后斑块体积有所缩减"
+    ],
+    "atoms_text": "道理啊不复杂 你不往里头 塞新的胆固醇了 身体自己 还能慢慢地 往外搬运一点 时间长了 斑块就会缩一缩",
+    "needs_animation": true,
+    "label": "停止胆固醇沉积后身体缓慢搬运斑块内脂质"
+  },
+  {
+    "global_index": 2899,
+    "seg_id": "S4-L3",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块能缩小吗",
+    "template": "warning_alert",
+    "items": [
+      "缩小幅度有限，报告上往往看不出明显差别"
+    ],
+    "atoms_text": "但这个缩小的幅度 往往是很有限的 报告上 可能都看不出来 明显的差别",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2900,
+    "seg_id": "S4-L4",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块能缩小吗",
+    "template": "hero_text",
+    "items": [
+      "别指望把斑块消掉，那个期望会让你失望"
+    ],
+    "atoms_text": "所以啊 不要抱着 把斑块消掉的期望 去吃药 您会失望的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2901,
+    "seg_id": "S5-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "真正的重点：稳定性",
+    "template": "hero_text",
+    "items": [
+      "斑块大不大不可怕，稳不稳才是关键"
+    ],
+    "atoms_text": "但我觉得 这些都不是重点 真正的重点是 斑块大不大不可怕 斑块稳不稳才更重要",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2902,
+    "seg_id": "S5-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "真正的重点：稳定性",
+    "template": "split_column",
+    "items": [
+      "颈动脉斑块多年，堵了30%",
+      "各项指标控制好，安然无恙",
+      "斑块不大，纤维帽突然破裂",
+      "血栓堵死血管，急性心梗脑梗"
+    ],
+    "atoms_text": "很多人 颈动脉斑块好多年了 血管也堵了百分之三十 活得好好的 什么事都没有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2903,
+    "seg_id": "S5-L3",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "真正的重点：稳定性",
+    "template": "step_arrow",
+    "items": [
+      "纤维帽破裂，内部粥样物暴露",
+      "血小板蜂拥而至聚集",
+      "血栓形成，血管骤然堵死"
+    ],
+    "atoms_text": "但有些人呢 斑块没多大 突然有一天 纤维帽破了 里面那坨东西 就暴露了出来 血小板蜂拥而至 形成了血栓 直接把血管堵死了 这就是 急性心梗或脑梗的形成",
+    "needs_animation": true,
+    "label": "纤维帽破裂后内容物暴露引发血小板聚集形成血栓堵死血管"
+  },
+  {
+    "global_index": 2904,
+    "seg_id": "S5-L4",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "真正的重点：稳定性",
+    "template": "hero_text",
+    "items": [
+      "不纠结能否消斑块，让它稳定不破才是正事"
+    ],
+    "atoms_text": "所以呀 您真正应该做的 不是纠结斑块能不能消 而是让它稳定 别让它破",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2905,
+    "seg_id": "S6-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "五件让斑块稳定的事",
+    "template": "hero_text",
+    "items": [
+      "五件事让斑块稳定不破"
+    ],
+    "atoms_text": "怎么做呢 五件事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2906,
+    "seg_id": "S6-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "五件让斑块稳定的事",
+    "template": "step_arrow",
+    "items": [
+      "坚持服用他汀类药物",
+      "低密度脂蛋白持续降低",
+      "纤维帽变厚变结实不易破"
+    ],
+    "atoms_text": "第一 把低密度脂蛋白降下来 这才是核心 它不光能让斑块 有缩小的可能 更重要的是 让那层纤维帽 变得更厚更结实 不容易破 该吃他汀就吃他汀 不要怕",
+    "needs_animation": true,
+    "label": "降低低密度脂蛋白使纤维帽变厚变结实不易破裂"
+  },
+  {
+    "global_index": 2907,
+    "seg_id": "S6-L3",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "五件让斑块稳定的事",
+    "template": "warning_alert",
+    "items": [
+      "血压大起大落会反复冲击斑块，纤维帽易撕裂"
+    ],
+    "atoms_text": "第二 控制好血压 血压高的时候 血液冲击血管壁的力量就大 斑块就被反复的冲击 纤维帽就容易被撕开 尤其是 不能大起大落的血压",
+    "needs_animation": true,
+    "label": "高血压时血流反复冲击斑块撕开纤维帽"
+  },
+  {
+    "global_index": 2908,
+    "seg_id": "S6-L4",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "五件让斑块稳定的事",
+    "template": "list_fade",
+    "items": [
+      "烟直接损伤血管内皮",
+      "血液更易凝固，破裂后血栓来得快"
+    ],
+    "atoms_text": "第三 戒烟 烟会直接损伤血管内皮 还会让血液 更加容易凝固 斑块一破呢 血栓来的就特别快",
+    "needs_animation": true,
+    "label": "烟损伤血管内皮并促进血液凝固加速斑块破裂后血栓形成"
+  },
+  {
+    "global_index": 2909,
+    "seg_id": "S6-L5",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "五件让斑块稳定的事",
+    "template": "warning_alert",
+    "items": [
+      "突然发怒或过度用力，血压骤升冲击斑块"
+    ],
+    "atoms_text": "第四 别太激动了 情绪剧烈波动 突然发怒 过度用力 都会让血压骤然升高 去冲击斑块 我见过好几个病人 就是跟别人吵架了 突然胸痛 进了急诊室",
+    "needs_animation": true,
+    "label": "情绪激动致血压骤升冲击斑块"
+  },
+  {
+    "global_index": 2910,
+    "seg_id": "S6-L6",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "五件让斑块稳定的事",
+    "template": "hero_text",
+    "items": [
+      "坚持适量运动，是保护血管最好的投资"
+    ],
+    "atoms_text": "第五 坚持适量的运动 运动能够改善血管的弹性 降低血压 改善代谢 长远来看 是保护血管的最好投资",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2911,
+    "seg_id": "S7-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "正确面对斑块",
+    "template": "split_column",
+    "items": [
+      "斑块小，不管不顾",
+      "危险反而更大",
+      "斑块大，指标控制好",
+      "长期安全稳定"
+    ],
+    "atoms_text": "说到底 一个斑块小 但是不管不顾的人 可能比 一个斑块大 但是各项指标都控制比较好的人 的危险要多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2912,
+    "seg_id": "S7-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "正确面对斑块",
+    "template": "list_fade",
+    "items": [
+      "发现斑块不要慌，冷静应对",
+      "该吃的药按时吃",
+      "该运动坚持运动",
+      "该复查定期复查"
+    ],
+    "atoms_text": "发现了斑块 不要慌 把该控制的控制好 把该吃的药吃上 该运动就运动 该复查就复查 这比什么灵丹妙药都管用 懂了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2913,
+    "seg_id": "S1-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "开场警示",
+    "template": "hero_text",
+    "items": [
+      "感冒拉肚子后尿变红了"
+    ],
+    "atoms_text": "感冒拉肚子之后 尿变红了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2914,
+    "seg_id": "S1-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "开场警示",
+    "template": "warning_alert",
+    "items": [
+      "不是上火，是肾脏发出预警"
+    ],
+    "atoms_text": "可能不是上火 而是你的肾脏 给你发出的预警信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2915,
+    "seg_id": "S1-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "开场警示",
+    "template": "hero_text",
+    "items": [
+      "务必警惕感染后肾炎"
+    ],
+    "atoms_text": "一定要警惕 感染后的肾炎",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2916,
+    "seg_id": "S1-L4",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "开场警示",
+    "template": "warning_alert",
+    "items": [
+      "耽误治疗可能伤肾引发心衰"
+    ],
+    "atoms_text": "耽误久了 不仅会伤肾 严重的时候 还可能会影响心脏功能 出现心衰 后悔都来不及",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2917,
+    "seg_id": "S1-L5",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "开场警示",
+    "template": "hero_text",
+    "items": [
+      "本期讲透肾炎成因检查与预防"
+    ],
+    "atoms_text": "今天一个视频 讲清楚 为什么感染后会出现肾炎 怎么检查 怎么避免 全是干货 一定要看完 保护好自己的肾脏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2918,
+    "seg_id": "S2-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "肾炎发病机制",
+    "template": "myth_buster",
+    "items": [
+      "细菌病毒直接跑进了肾脏",
+      "是免疫系统过度激活伤了肾"
+    ],
+    "atoms_text": "首先 感染后的肾小球肾炎 不是细菌病毒 跑到你的肾脏里了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2919,
+    "seg_id": "S2-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "肾炎发病机制",
+    "template": "step_arrow",
+    "items": [
+      "感染触发免疫系统过度激活",
+      "免疫复合物攻击自身肾小球",
+      "肾小球滤网发炎受损"
+    ],
+    "atoms_text": "而是你的身体 为了对付感冒或者感染拉肚子 免疫系统被过度的激活 引发了一场严重的自身免疫反应",
+    "needs_animation": true,
+    "label": "感染后免疫系统过度激活引发自身免疫反应攻击肾脏"
+  }
+]

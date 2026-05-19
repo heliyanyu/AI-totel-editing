@@ -1,0 +1,557 @@
+[
+  {
+    "global_index": 1200,
+    "seg_id": "S2-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "warning_alert",
+    "items": [
+      "毫无不适感觉",
+      "血肌酐检查完全正常"
+    ],
+    "atoms_text": "尿里面出现了 微量的蛋白 彩超发现的 结构的异常",
+    "needs_animation": true,
+    "label": "微量蛋白从肾小球滤过屏障漏出及肾脏结构异常"
+  },
+  {
+    "global_index": 1201,
+    "seg_id": "S2-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "hero_text",
+    "items": [
+      "这是逆转肾损伤的黄金窗口"
+    ],
+    "atoms_text": "但是 肾小球滤过率 还在九十以上 肾脏整体还扛得住",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1202,
+    "seg_id": "S2-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "list_fade",
+    "items": [
+      "控制血压达标",
+      "血糖管理到位",
+      "用上护肾药物"
+    ],
+    "atoms_text": "这个阶段 你没有任何的不舒服 体检血肌酐 也完全正常",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1203,
+    "seg_id": "S2-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "hero_text",
+    "items": [
+      "积极干预可稳住甚至逆转损伤"
+    ],
+    "atoms_text": "这一步是 黄金窗口",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1204,
+    "seg_id": "S2-L6",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "split_column",
+    "items": [
+      "放任不管",
+      "积极干预",
+      "肾功能持续滑落",
+      "损伤有望逆转"
+    ],
+    "atoms_text": "如果你在这一个阶段 把血压控制好 血糖管得好 用上保护肾脏的药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1205,
+    "seg_id": "S2-L7",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "hero_text",
+    "items": [
+      "此刻行动，代价最小"
+    ],
+    "atoms_text": "肾脏损伤 是可以稳住 甚至逆转的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1206,
+    "seg_id": "S3-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第二阶段：轻度下降",
+    "template": "number_center",
+    "items": [
+      "60–89"
+    ],
+    "atoms_text": "第二步 滤过率掉到 六十到八十九之间 轻度的下降",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1207,
+    "seg_id": "S3-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第二阶段：轻度下降",
+    "template": "warning_alert",
+    "items": [
+      "仍无明显症状",
+      "血肌酐可能仍在正常范围"
+    ],
+    "atoms_text": "你可能还是没有感觉 血肌酐 可能也在正常的范围内",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1208,
+    "seg_id": "S3-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第二阶段：轻度下降",
+    "template": "myth_buster",
+    "items": [
+      "血肌酐正常说明肾没问题",
+      "eGFR已悄悄低于正常水平",
+      "没感觉就不用管",
+      "此时干预仍能阻断进展"
+    ],
+    "atoms_text": "但如果你这个时候 去算一下eGFR 会发现 肾功能已经 比正常人差了一点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1209,
+    "seg_id": "S3-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第二阶段：轻度下降",
+    "template": "list_fade",
+    "items": [
+      "严格控制三高",
+      "饮食管住嘴",
+      "用对保护肾脏的药"
+    ],
+    "atoms_text": "这一步和第一步一样 积极干预 还来得及",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1210,
+    "seg_id": "S3-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第二阶段：轻度下降",
+    "template": "number_center",
+    "items": [
+      "10–20年"
+    ],
+    "atoms_text": "及时控制三高 用对药 管住嘴",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1211,
+    "seg_id": "S3-L6",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第二阶段：轻度下降",
+    "template": "hero_text",
+    "items": [
+      "早干预，争取十年不进展"
+    ],
+    "atoms_text": "很多人在这个阶段 稳住十几二十年 不进展",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1212,
+    "seg_id": "S4-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "number_center",
+    "items": [
+      "30–59"
+    ],
+    "atoms_text": "到第三步 滤过率掉到了 三十到五十九 中度的下降",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1213,
+    "seg_id": "S4-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "hero_text",
+    "items": [
+      "这是走向透析的分水岭"
+    ],
+    "atoms_text": "这是一个分水岭",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1214,
+    "seg_id": "S4-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "list_fade",
+    "items": [
+      "夜尿次数增多",
+      "持续疲乏无力",
+      "食欲明显下降",
+      "脚踝出现浮肿"
+    ],
+    "atoms_text": "一部分人开始出现 一些不容易注意到的症状 夜尿变多了 容易累 食欲差了一点 脚有的时候会肿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1215,
+    "seg_id": "S4-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "myth_buster",
+    "items": [
+      "这些是年纪大的正常反应",
+      "血肌酐此时往往已经升高"
+    ],
+    "atoms_text": "很多人觉得 是年纪大了的正常反应",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1216,
+    "seg_id": "S4-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "list_fade",
+    "items": [
+      "普利类或沙坦类降压护肾",
+      "利尿药物延缓进展",
+      "适度控制蛋白质摄入"
+    ],
+    "atoms_text": "但如果你这个时候 去查肌酐 往往已经开始升高了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1217,
+    "seg_id": "S4-L6",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "number_center",
+    "items": [
+      "数年"
+    ],
+    "atoms_text": "这一步积极用药 普利类沙坦类降压药 保护肾脏 利尿类的药物 延缓进展",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1218,
+    "seg_id": "S4-L7",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "warning_alert",
+    "items": [
+      "此步不管，后面越来越被动"
+    ],
+    "atoms_text": "饮食上 适度控制蛋白质的摄入",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1219,
+    "seg_id": "S4-L8",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "branch_path",
+    "items": [
+      "现在是否积极干预？",
+      "积极干预→推迟透析数年",
+      "放任不管→快速滑向第四期"
+    ],
+    "atoms_text": "这些手段加在一起 已经有大量的研究证明 可以把走向透析的时间 推迟很多年",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1220,
+    "seg_id": "S4-L9",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "hero_text",
+    "items": [
+      "行动，现在还来得及"
+    ],
+    "atoms_text": "但是你需要行动 这一步如果再不管 后面的就会越来越被动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1221,
+    "seg_id": "S5-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "number_center",
+    "items": [
+      "15–29"
+    ],
+    "atoms_text": "第四步 滤过率掉到了 十五到二十九 重度的下降",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1222,
+    "seg_id": "S5-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "hero_text",
+    "items": [
+      "症状开始全面浮现"
+    ],
+    "atoms_text": "到了这个阶段 症状就比较明显了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1223,
+    "seg_id": "S5-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "color_grid",
+    "items": [
+      "贫血乏力",
+      "恶心浮肿",
+      "皮肤瘙痒",
+      "代谢废物堆积"
+    ],
+    "atoms_text": "贫血乏力 恶心浮肿 皮肤瘙痒 各种不舒服 接踵而来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1224,
+    "seg_id": "S5-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "split_column",
+    "items": [
+      "正常状态",
+      "第四期状态",
+      "代谢废物充分清除",
+      "废物与水分开始堆积"
+    ],
+    "atoms_text": "肾脏的过滤能力 已经损失到大半 身体里面的代谢废物 和多余的水 开始堆积",
+    "needs_animation": true,
+    "label": "肾脏滤过能力大幅丧失致代谢废物和水分在体内堆积"
+  },
+  {
+    "global_index": 1225,
+    "seg_id": "S5-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "hero_text",
+    "items": [
+      "目标不再是逆转，而是延缓"
+    ],
+    "atoms_text": "这个时候药物治疗 依然有益",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1226,
+    "seg_id": "S5-L6",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "list_fade",
+    "items": [
+      "药物治疗仍有益处",
+      "尽力推迟进入第五期"
+    ],
+    "atoms_text": "但目标不再是逆转 而是尽量的延缓 推迟进入第五期的时间",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1227,
+    "seg_id": "S5-L7",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第四阶段：重度下降",
+    "template": "list_fade",
+    "items": [
+      "了解透析方式与流程",
+      "了解肾移植相关知识",
+      "做好身心和物质准备"
+    ],
+    "atoms_text": "同时呢 你需要开始了解 透析和肾移植的知识 做好相关的准备",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1228,
+    "seg_id": "S6-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第五阶段：终末期与新起点",
+    "template": "number_center",
+    "items": [
+      "<15"
+    ],
+    "atoms_text": "第五步 滤过率持续的下降 低于十五 到了终末期",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1229,
+    "seg_id": "S6-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第五阶段：终末期与新起点",
+    "template": "list_fade",
+    "items": [
+      "血液透析维持生命",
+      "肾移植重建功能"
+    ],
+    "atoms_text": "肾脏基本上干不动了 需要透析或者肾移植 来维持生命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1230,
+    "seg_id": "S6-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第五阶段：终末期与新起点",
+    "template": "myth_buster",
+    "items": [
+      "开始透析就是天塌了",
+      "现代透析技术成熟，生活质量不差",
+      "透析是终点，没有希望了",
+      "条件允许后可回归接近正常生活"
+    ],
+    "atoms_text": "到了这一步 很多人觉得天塌了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1231,
+    "seg_id": "S6-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第五阶段：终末期与新起点",
+    "template": "hero_text",
+    "items": [
+      "透析不是终点，而是新的起点"
+    ],
+    "atoms_text": "但说实话 现在的透析技术 已经很成熟 做的好的人 生活质量并不差",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1232,
+    "seg_id": "S6-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第五阶段：终末期与新起点",
+    "template": "hero_text",
+    "items": [
+      "做好的人，依然可以好好生活"
+    ],
+    "atoms_text": "而且透析不是终点 如果身体条件允许 透析或者肾移植之后 很多人是可以回到 接近于正常生活的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1233,
+    "seg_id": "S7-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "行动指南：查一查",
+    "template": "list_fade",
+    "items": [
+      "尿常规：查有无蛋白尿",
+      "血肌酐：反映肾脏代谢状态",
+      "eGFR：评估剩余滤过能力"
+    ],
+    "atoms_text": "总之 尿常规 看看有没有蛋白尿 血肌酐和eGFR 看看你的肾脏 还剩多少滤过能力",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1234,
+    "seg_id": "S7-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "行动指南：查一查",
+    "template": "hero_text",
+    "items": [
+      "花费不多，看清肾脏走到哪步"
+    ],
+    "atoms_text": "全加在一起 费用花不了多少",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1235,
+    "seg_id": "S7-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "行动指南：查一查",
+    "template": "hero_text",
+    "items": [
+      "早发现，才能掌握主动权"
+    ],
+    "atoms_text": "但能帮助你看看 你的肾脏在这条路上 到底走到了哪一步",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1236,
+    "seg_id": "S7-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "行动指南：查一查",
+    "template": "hero_text",
+    "items": [
+      "早一步发现，多一份主动"
+    ],
+    "atoms_text": "早一步发现 就多一份主动权",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1237,
+    "seg_id": "S7-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "行动指南：查一查",
+    "template": "hero_text",
+    "items": [
+      "你现在走到第几步了？"
+    ],
+    "atoms_text": "我都说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1238,
+    "seg_id": "S1-L1",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "突发肾衰之谜",
+    "template": "hero_text",
+    "items": [
+      "肾脏为何突然衰竭"
+    ],
+    "atoms_text": "好好的肾脏 怎么突然就 肾衰竭了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1239,
+    "seg_id": "S1-L2",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "突发肾衰之谜",
+    "template": "hero_text",
+    "items": [
+      "青壮年突发需透析"
+    ],
+    "atoms_text": "为什么 三四十岁的人 昨天还正常上班吃饭 今天就被告知 有可能需要透析",
+    "needs_animation": false,
+    "label": ""
+  }
+]

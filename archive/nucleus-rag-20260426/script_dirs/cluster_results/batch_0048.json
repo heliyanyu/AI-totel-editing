@@ -1,0 +1,504 @@
+[
+  {
+    "global_index": 1920,
+    "seg_id": "S9-L1",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "结尾互动",
+    "template": "hero_text",
+    "items": [
+      "七个问题全部讲完了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1921,
+    "seg_id": "S9-L2",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "结尾互动",
+    "template": "hero_text",
+    "items": [
+      "还有问题评论区留言"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1922,
+    "seg_id": "S9-L3",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "结尾互动",
+    "template": "hero_text",
+    "items": [
+      "转发给家里血压高的人看"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1923,
+    "seg_id": "S1-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "被忽视的关键数字",
+    "template": "hero_text",
+    "items": [
+      "体检报告里有个数字没人在意"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1924,
+    "seg_id": "S1-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "被忽视的关键数字",
+    "template": "hero_text",
+    "items": [
+      "它叫静息心率，与寿命关系很大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1925,
+    "seg_id": "S2-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "正常范围的真相",
+    "template": "number_center",
+    "items": [
+      "60~100次/分"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1926,
+    "seg_id": "S2-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "正常范围的真相",
+    "template": "hero_text",
+    "items": [
+      "这只是不出大毛病的及格线"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1927,
+    "seg_id": "S2-L3",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "正常范围的真相",
+    "template": "split_column",
+    "items": [
+      "心血管事件风险更低",
+      "心血管事件风险更高",
+      "静息心率偏低",
+      "静息心率偏高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1928,
+    "seg_id": "S3-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "多跳一千二百万次",
+    "template": "number_center",
+    "items": [
+      "1200万次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1929,
+    "seg_id": "S3-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "多跳一千二百万次",
+    "template": "brick_stack",
+    "items": [
+      "交感神经持续亢奋",
+      "心脏储备能力下降",
+      "长期高心率伤害心脏"
+    ],
+    "needs_animation": true,
+    "label": "长期高心率导致心脏损伤的病理机制"
+  },
+  {
+    "global_index": 1930,
+    "seg_id": "S4-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "三点式改善方案",
+    "template": "hero_text",
+    "items": [
+      "心率长期偏高，从三点开始改善"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1931,
+    "seg_id": "S5-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第一步：正确测量",
+    "template": "hero_text",
+    "items": [
+      "先学会正确测量静息心率"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1932,
+    "seg_id": "S5-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第一步：正确测量",
+    "template": "step_arrow",
+    "items": [
+      "早晨醒来先别动",
+      "躺床上摸手腕脉搏数一分钟",
+      "连续测三天取平均值"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1933,
+    "seg_id": "S5-L3",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第一步：正确测量",
+    "template": "hero_text",
+    "items": [
+      "这才是你真实的静息心率"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1934,
+    "seg_id": "S5-L4",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第一步：正确测量",
+    "template": "hero_text",
+    "items": [
+      "量完之后，心里就有数了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1935,
+    "seg_id": "S6-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第二步：戒掉兴奋剂",
+    "template": "list_fade",
+    "items": [
+      "浓茶下午三点后不要喝",
+      "咖啡下午三点后不要喝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1936,
+    "seg_id": "S6-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第二步：戒掉兴奋剂",
+    "template": "warning_alert",
+    "items": [
+      "睡前刷短视频刺激交感神经"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1937,
+    "seg_id": "S6-L3",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第二步：戒掉兴奋剂",
+    "template": "hero_text",
+    "items": [
+      "这些都让交感神经无法休息"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1938,
+    "seg_id": "S6-L4",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第二步：戒掉兴奋剂",
+    "template": "hero_text",
+    "items": [
+      "坚持一周，心率可能就有变化"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1939,
+    "seg_id": "S7-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第三步：有氧运动",
+    "template": "hero_text",
+    "items": [
+      "最管用的一点：开始有氧运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1940,
+    "seg_id": "S7-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第三步：有氧运动",
+    "template": "split_column",
+    "items": [
+      "心率飙到130~140次",
+      "静息心率逐渐降低",
+      "运动中（短期反应）",
+      "坚持数月（长期改变）"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1941,
+    "seg_id": "S7-L3",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第三步：有氧运动",
+    "template": "hero_text",
+    "items": [
+      "这是在给心脏做力量训练"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1942,
+    "seg_id": "S7-L4",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "第三步：有氧运动",
+    "template": "hero_text",
+    "items": [
+      "心脏更强，每跳泵血量更大"
+    ],
+    "needs_animation": true,
+    "label": "有氧运动增强心脏每搏输出量的生理机制"
+  },
+  {
+    "global_index": 1943,
+    "seg_id": "S8-L1",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "运动员的心脏启示",
+    "template": "myth_buster",
+    "items": [
+      "运动员心率50次是心脏有问题",
+      "心脏强壮才能每跳泵出更多血"
+    ],
+    "needs_animation": true,
+    "label": "有氧运动增强心脏每搏输出量的生理机制"
+  },
+  {
+    "global_index": 1944,
+    "seg_id": "S8-L2",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "运动员的心脏启示",
+    "template": "branch_path",
+    "items": [
+      "静息心率低于50次",
+      "长期运动者，心脏强壮无症状",
+      "不运动且头晕眼花，需就医排查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1945,
+    "seg_id": "S8-L3",
+    "bp_title": "静息心率决定你能活多久",
+    "scene_title": "运动员的心脏启示",
+    "template": "hero_text",
+    "items": [
+      "保护心脏，从关注静息心率开始"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1946,
+    "seg_id": "S1-L1",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "hero_text",
+    "items": [
+      "肌酸激酶升高≠心梗，今天讲明白"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1947,
+    "seg_id": "S1-L2",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "hero_text",
+    "items": [
+      "肌酸激酶是个大家族，有三个成员"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1948,
+    "seg_id": "S1-L3",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "list_fade",
+    "items": [
+      "CK-MM：存在于全身骨骼肌"
+    ],
+    "needs_animation": true,
+    "label": "肌酸激酶同工酶的组织分布"
+  },
+  {
+    "global_index": 1949,
+    "seg_id": "S1-L4",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "list_fade",
+    "items": [
+      "CK-MB：主要存在于心肌"
+    ],
+    "needs_animation": true,
+    "label": "肌酸激酶同工酶的组织分布"
+  },
+  {
+    "global_index": 1950,
+    "seg_id": "S1-L5",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "list_fade",
+    "items": [
+      "CK-BB：存在于大脑和肺，含量极低"
+    ],
+    "needs_animation": true,
+    "label": "肌酸激酶同工酶的组织分布"
+  },
+  {
+    "global_index": 1951,
+    "seg_id": "S1-L6",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "hero_text",
+    "items": [
+      "化验单总肌酸激酶 = 三兄弟之和"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1952,
+    "seg_id": "S1-L7",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "hero_text",
+    "items": [
+      "总值升高，未必是心脏出了问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1953,
+    "seg_id": "S2-L1",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "骨骼肌受损才是主因",
+    "template": "brick_stack",
+    "items": [
+      "健身撸铁或爬山过量",
+      "发高烧或腹泻",
+      "饮酒过量",
+      "长期服用他汀类药物",
+      "摔伤跌倒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1954,
+    "seg_id": "S2-L2",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "骨骼肌受损才是主因",
+    "template": "step_arrow",
+    "items": [
+      "骨骼肌受到轻微损伤",
+      "CK-MM 大量释放入血",
+      "总肌酸激酶随之升高"
+    ],
+    "needs_animation": true,
+    "label": "骨骼肌损伤后CK-MM释放入血过程"
+  },
+  {
+    "global_index": 1955,
+    "seg_id": "S3-L1",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "CK-MB异常反常情况",
+    "template": "warning_alert",
+    "items": [
+      "CK-MB 数值超过总肌酸激酶，属反常结果"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1956,
+    "seg_id": "S3-L2",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "CK-MB异常反常情况",
+    "template": "brick_stack",
+    "items": [
+      "脑损伤导致 CK-BB 大量释放",
+      "肺栓塞或部分肿瘤影响",
+      "血液中出现肌酸激酶自身抗体干扰"
+    ],
+    "needs_animation": true,
+    "label": "非心源性因素导致CK-MB检测异常的病理机制"
+  },
+  {
+    "global_index": 1957,
+    "seg_id": "S3-L3",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "CK-MB异常反常情况",
+    "template": "list_fade",
+    "items": [
+      "异常结构肌酸激酶干扰检测结果"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1958,
+    "seg_id": "S3-L4",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "CK-MB异常反常情况",
+    "template": "list_fade",
+    "items": [
+      "自身抗体干扰可导致结果失真"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1959,
+    "seg_id": "S3-L5",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "CK-MB异常反常情况",
+    "template": "hero_text",
+    "items": [
+      "此类反常结果多与心肌损伤无关"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

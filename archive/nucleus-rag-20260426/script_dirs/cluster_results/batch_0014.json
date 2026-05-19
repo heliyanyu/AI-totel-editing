@@ -1,0 +1,533 @@
+[
+  {
+    "global_index": 560,
+    "seg_id": "S6-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "终身服药≠一成不变",
+    "template": "myth_buster",
+    "items": [
+      "终身服药就是永远一片不能动",
+      "血脂稳定后医生可评估减量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 561,
+    "seg_id": "S6-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "终身服药≠一成不变",
+    "template": "step_arrow",
+    "items": [
+      "低密度脂蛋白持续达标",
+      "医生评估可从全量减至半量",
+      "最小剂量维持血脂达标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 562,
+    "seg_id": "S6-L4",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "终身服药≠一成不变",
+    "template": "warning_alert",
+    "items": [
+      "必须定期复查，由医生决定调整",
+      "不能自己觉得够了就停药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 563,
+    "seg_id": "S6-L5",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "终身服药≠一成不变",
+    "template": "list_fade",
+    "items": [
+      "定期复查血脂",
+      "让你的医生啊",
+      "根据你的血脂的指标",
+      "来调整",
+      "而不是啊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 564,
+    "seg_id": "S7-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "hero_text",
+    "items": [
+      "什么情况下有可能不用终身吃？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 565,
+    "seg_id": "S7-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "list_fade",
+    "items": [
+      "无冠心病、仅体检发现血脂偏高",
+      "是否需要长期吃要看具体情况"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 566,
+    "seg_id": "S7-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "list_fade",
+    "items": [
+      "无高血压、无糖尿病",
+      "认真减肥、运动、调整饮食",
+      "复查血脂已恢复正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 567,
+    "seg_id": "S7-L4",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "step_arrow",
+    "items": [
+      "生活方式改善后血脂达标",
+      "与医生商量评估",
+      "逐步减量甚至停药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 568,
+    "seg_id": "S7-L5",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "list_fade",
+    "items": [
+      "合并高血压",
+      "合并高血糖",
+      "同时有吸烟习惯"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 569,
+    "seg_id": "S7-L6",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "warning_alert",
+    "items": [
+      "多重危险因素叠加，血管风险已很高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 570,
+    "seg_id": "S7-L7",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "hero_text",
+    "items": [
+      "这种情况医生大概率建议长期服药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 571,
+    "seg_id": "S8-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "最终结论与嘱托",
+    "template": "branch_path",
+    "items": [
+      "关键：你是否已有冠心病",
+      "无冠心病低风险：有机会停药",
+      "已有冠心病：大概率终身服用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 572,
+    "seg_id": "S8-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "最终结论与嘱托",
+    "template": "hero_text",
+    "items": [
+      "正是因为这颗药，你才能踏实活一辈子"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 573,
+    "seg_id": "S8-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "最终结论与嘱托",
+    "template": "hero_text",
+    "items": [
+      "他汀是你和血管之间的长期协议"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 574,
+    "seg_id": "S8-L4",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "最终结论与嘱托",
+    "template": "warning_alert",
+    "items": [
+      "药可以调整，但别自己单方面停药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 575,
+    "seg_id": "S1-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "脑梗复发有多危险",
+    "template": "hero_text",
+    "items": [
+      "最可怕的不是第一次，是复发"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 576,
+    "seg_id": "S1-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "脑梗复发有多危险",
+    "template": "number_center",
+    "items": [
+      "25–30%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 577,
+    "seg_id": "S1-L3",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "脑梗复发有多危险",
+    "template": "warning_alert",
+    "items": [
+      "第二次往往比第一次更严重",
+      "血管底子差，再发可能不止偏瘫"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 578,
+    "seg_id": "S1-L4",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "脑梗复发有多危险",
+    "template": "hero_text",
+    "items": [
+      "今天讲清楚预防复发最关键五件事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 579,
+    "seg_id": "S2-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第一件事：把药吃好",
+    "template": "hero_text",
+    "items": [
+      "把药吃好，这是一切的基础"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 580,
+    "seg_id": "S2-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第一件事：把药吃好",
+    "template": "warning_alert",
+    "items": [
+      "恢复尚好就停药，非常危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 581,
+    "seg_id": "S2-L3",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第一件事：把药吃好",
+    "template": "step_arrow",
+    "items": [
+      "阿司匹林、氯吡格雷",
+      "阻止血管内血栓再形成",
+      "防止脑梗再次发作"
+    ],
+    "needs_animation": true,
+    "label": "抗血小板药物抑制血栓形成机制"
+  },
+  {
+    "global_index": 582,
+    "seg_id": "S2-L4",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第一件事：把药吃好",
+    "template": "step_arrow",
+    "items": [
+      "停用他汀类降脂药",
+      "胆固醇斑块失控易破裂",
+      "血栓形成，脑梗复发"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块破裂与血栓形成过程"
+  },
+  {
+    "global_index": 583,
+    "seg_id": "S3-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第二件事：控好血压",
+    "template": "hero_text",
+    "items": [
+      "高血压是脑梗复发的头号帮凶"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 584,
+    "seg_id": "S3-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第二件事：控好血压",
+    "template": "myth_buster",
+    "items": [
+      "在吃药就不用量血压了",
+      "不量血压无法判断血压是否达标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 585,
+    "seg_id": "S3-L3",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第二件事：控好血压",
+    "template": "split_column",
+    "items": [
+      "血压大起大落",
+      "稳定控制在130/80以下",
+      "一天120，一天160",
+      "大幅波动比持续高更伤血管"
+    ],
+    "needs_animation": true,
+    "label": "血压波动损伤血管壁机制"
+  },
+  {
+    "global_index": 586,
+    "seg_id": "S3-L4",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第二件事：控好血压",
+    "template": "list_fade",
+    "items": [
+      "买血压计放在家中",
+      "每天早晚各测量一次",
+      "记录数据带给医生复查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 587,
+    "seg_id": "S4-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第三件事：管好血糖血脂",
+    "template": "brick_stack",
+    "items": [
+      "高血压",
+      "糖尿病",
+      "高脂血症",
+      "多因素叠加，血管受损加倍"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 588,
+    "seg_id": "S4-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第三件事：管好血糖血脂",
+    "template": "step_arrow",
+    "items": [
+      "血糖高，血管泡在糖水中",
+      "低密度脂蛋白高，斑块越长越大",
+      "血管又硬又脆，随时可能破裂"
+    ],
+    "needs_animation": true,
+    "label": "高血糖与高血脂损伤血管及斑块增长过程"
+  },
+  {
+    "global_index": 589,
+    "seg_id": "S4-L3",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第三件事：管好血糖血脂",
+    "template": "category_table",
+    "items": [
+      "低密度脂蛋白",
+      "控制在1.8mmol/L以下",
+      "糖化血红蛋白",
+      "控制在7%以下"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 590,
+    "seg_id": "S4-L4",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第三件事：管好血糖血脂",
+    "template": "hero_text",
+    "items": [
+      "该吃他汀吃他汀，该打胰岛素打胰岛素"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 591,
+    "seg_id": "S5-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第四件事：动起来",
+    "template": "myth_buster",
+    "items": [
+      "脑梗后应该卧床静养不能动",
+      "不动反而让血管更脆、更易复发"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 592,
+    "seg_id": "S5-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第四件事：动起来",
+    "template": "step_arrow",
+    "items": [
+      "长期不动",
+      "血液循环变差，肌肉萎缩",
+      "血管弹性下降，复发风险升高"
+    ],
+    "needs_animation": true,
+    "label": "缺乏运动导致血液循环减慢与血管弹性下降"
+  },
+  {
+    "global_index": 593,
+    "seg_id": "S5-L3",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第四件事：动起来",
+    "template": "vertical_timeline",
+    "items": [
+      "起步期：散步10-20分钟",
+      "适应期：逐步加量",
+      "目标期：每次步行半小时",
+      "有障碍：坚持康复训练"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 594,
+    "seg_id": "S5-L4",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第四件事：动起来",
+    "template": "list_fade",
+    "items": [
+      "降低脑梗复发风险",
+      "改善情绪，缓解焦虑抑郁",
+      "改善睡眠质量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 595,
+    "seg_id": "S6-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第五件事：戒烟断酒",
+    "template": "warning_alert",
+    "items": [
+      "血管已发出警告，再抽烟喝酒是拿命在赌"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 596,
+    "seg_id": "S6-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第五件事：戒烟断酒",
+    "template": "split_column",
+    "items": [
+      "烟中有害物质损伤血管内膜",
+      "酒精导致血压波动",
+      "加速斑块形成和破裂",
+      "与阿司匹林同用胃出血风险大增"
+    ],
+    "needs_animation": true,
+    "label": "烟酒有害物质损伤血管内膜与加速斑块形成"
+  },
+  {
+    "global_index": 597,
+    "seg_id": "S6-L3",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第五件事：戒烟断酒",
+    "template": "hero_text",
+    "items": [
+      "要那口烟酒，还是和家人好好过下半辈子"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 598,
+    "seg_id": "S7-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "总结：五件事要坚持",
+    "template": "list_fade",
+    "items": [
+      "把药吃好，不要自己停药",
+      "血压盯住，保持平稳",
+      "血糖血脂达标，别硬扛",
+      "在能力范围内动起来",
+      "把烟酒彻底戒掉"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 599,
+    "seg_id": "S7-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "总结：五件事要坚持",
+    "template": "hero_text",
+    "items": [
+      "脑梗给了你一次机会，千万别浪费它"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

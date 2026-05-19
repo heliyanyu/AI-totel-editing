@@ -1,0 +1,345 @@
+[
+  {
+    "file": "ANH16170_How High Blood Pressure Is Diagnosed.mp4",
+    "title": "ANH16170 How High Blood Pressure Is Diagnosed",
+    "start_sec": 36,
+    "end_sec": 62,
+    "summary_zh": "血压正常值与高血压诊断标准：血压全天会波动，但理想收缩压应低于120、舒张压应低于80；若收缩压经常高于130或舒张压经常高于80，则诊断为高血压。",
+    "text_en": "Your blood pressure may change throughout the day. However, optimal systolic pressure should be less than 120 and optimal diastolic pressure should be less than 80. If your systolic pressure frequently stays above 130 or your diastolic pressure frequently stays above 80, you have high blood pressure.",
+    "category_ids": [
+      32
+    ]
+  },
+  {
+    "file": "ANH16171_Understanding Basic Blood Pressure Control.mp4",
+    "title": "ANH16171 Understanding Basic Blood Pressure Control",
+    "start_sec": 7,
+    "end_sec": 25,
+    "summary_zh": "血压的基本定义：血压是血液对动脉壁施加的压力，身体严格调控血压以确保血液到达全身各处。动脉是将血液从心脏输送到组织的血管。",
+    "text_en": "Blood pressure is the amount of force caused by blood pressing against the walls of your arteries. It is tightly controlled to ensure sufficient blood reaches all parts of your body. Arteries are blood vessels that carry blood away from your heart to your tissues.",
+    "category_ids": [
+      32
+    ]
+  },
+  {
+    "file": "ANH16171_Understanding Basic Blood Pressure Control.mp4",
+    "title": "ANH16171 Understanding Basic Blood Pressure Control",
+    "start_sec": 26,
+    "end_sec": 51,
+    "summary_zh": "心脏泵血机制：心脏有两个心室，右心室将缺氧血泵向肺部获取氧气，左心室将富氧血通过动脉泵向全身，为组织提供氧气和营养。",
+    "text_en": "This blood supplies your tissues with the oxygen and nutrients they need to function. In your heart there are two lower chambers called ventricles which contract with each heart beat. The right ventricle pushes oxygen poor blood to your lungs to pick up oxygen and the left ventricle pushes oxygen rich blood through your arteries to your body.",
+    "category_ids": [
+      46,
+      126
+    ]
+  },
+  {
+    "file": "ANH16171_Understanding Basic Blood Pressure Control.mp4",
+    "title": "ANH16171 Understanding Basic Blood Pressure Control",
+    "start_sec": 51,
+    "end_sec": 71,
+    "summary_zh": "影响血压的第一个因素——心输出量：血液流经动脉时有四个主要因素影响血压，第一个是心输出量（每分钟心室泵出的血量），心输出量增加则血压升高。",
+    "text_en": "As blood flows through your arteries four main factors affect the pressure on the artery walls. The first is the amount of blood your ventricles push out of your heart each minute, also known as cardiac output. Your blood pressure goes up as cardiac output increases.",
+    "category_ids": [
+      32
+    ]
+  },
+  {
+    "file": "ANH16171_Understanding Basic Blood Pressure Control.mp4",
+    "title": "ANH16171 Understanding Basic Blood Pressure Control",
+    "start_sec": 71,
+    "end_sec": 83,
+    "summary_zh": "影响血压的第二个因素——血容量：体内血液总量增加会导致血压升高。",
+    "text_en": "The second factor affecting your blood pressure is the total amount of blood in your body or blood volume. Blood pressure also goes up as blood volume increases.",
+    "category_ids": [
+      32,
+      84
+    ]
+  },
+  {
+    "file": "ANH16171_Understanding Basic Blood Pressure Control.mp4",
+    "title": "ANH16171 Understanding Basic Blood Pressure Control",
+    "start_sec": 83,
+    "end_sec": 111,
+    "summary_zh": "影响血压的第三个因素——血管阻力：阻力是阻碍血液流动的力量，主要受动脉管径影响。动脉扩张可降低血压，动脉收缩则升高血压。",
+    "text_en": "The third factor that affects your blood pressure is resistance. Resistance is anything working against the blood flow through your arteries. Resistance is mainly affected by the width of your arteries. Your body is able to increase the width of your arteries to lower your blood pressure. Or it can reduce the width to raise your blood pressure.",
+    "category_ids": [
+      32,
+      33
+    ]
+  },
+  {
+    "file": "ANH16171_Understanding Basic Blood Pressure Control.mp4",
+    "title": "ANH16171 Understanding Basic Blood Pressure Control",
+    "start_sec": 111,
+    "end_sec": 133,
+    "summary_zh": "影响血压的第四个因素——血液黏度：血液中蛋白质和脂肪等颗粒增多会使血液变稠，血液越稠心脏泵血越费力，血压随之升高。",
+    "text_en": "The fourth factor that affects your blood pressure is viscosity. Viscosity is how thick your blood is. In your blood more particles such as proteins and fat increase viscosity. If your blood is thicker your blood pressure goes up as your heart works harder to push it through your arteries.",
+    "category_ids": [
+      32
+    ]
+  },
+  {
+    "file": "ANH16172_Complications of High Blood Pressure (Hypertension).mp4",
+    "title": "ANH16172 Complications of High Blood Pressure (Hypertension)",
+    "start_sec": 12,
+    "end_sec": 21,
+    "summary_zh": "高血压对动脉壁的损伤：长期高血压会损害动脉壁，导致危及生命的疾病",
+    "text_en": "Over time, high blood pressure will damage the walls of your arteries. This damage can lead to life-threatening conditions.",
+    "category_ids": [
+      6
+    ]
+  },
+  {
+    "file": "ANH16172_Complications of High Blood Pressure (Hypertension).mp4",
+    "title": "ANH16172 Complications of High Blood Pressure (Hypertension)",
+    "start_sec": 22,
+    "end_sec": 35,
+    "summary_zh": "动脉瘤的形成与破裂：动脉壁变薄膨大形成动脉瘤，可能破裂出血至周围组织",
+    "text_en": "For example, an artery wall may become weak and form an enlarged area called an aneurysm. The wall may burst and bleed into the tissue around it.",
+    "category_ids": [
+      6
+    ]
+  },
+  {
+    "file": "ANH16172_Complications of High Blood Pressure (Hypertension).mp4",
+    "title": "ANH16172 Complications of High Blood Pressure (Hypertension)",
+    "start_sec": 36,
+    "end_sec": 70,
+    "summary_zh": "动脉粥样硬化与血栓形成：受损动脉壁吸引胆固醇、脂肪和钙质形成斑块，斑块增大导致血流减少，血细胞附着形成血栓，进一步阻塞血流",
+    "text_en": "In another example, damage to an artery wall may attract certain substances in your blood, such as cholesterol, fat and calcium. They may form a buildup called a plaque. As the plaque gets bigger, blood flow in the artery is reduced. Blood cells can stick to the plaque and form solid clumps called clots. Blood clots further reduce or completely block your blood flow.",
+    "category_ids": [
+      1,
+      6
+    ]
+  },
+  {
+    "file": "ANH16172_Complications of High Blood Pressure (Hypertension).mp4",
+    "title": "ANH16172 Complications of High Blood Pressure (Hypertension)",
+    "start_sec": 70,
+    "end_sec": 80,
+    "summary_zh": "血栓导致脑卒中和心肌梗死：脑部血管血栓可引发中风，心脏血管血栓可引发心脏病发作",
+    "text_en": "If this happens in your brain, it can lead to a stroke. If it happens in your heart, it can lead to a heart attack.",
+    "category_ids": [
+      3,
+      4
+    ]
+  },
+  {
+    "file": "ANH16172_Complications of High Blood Pressure (Hypertension).mp4",
+    "title": "ANH16172 Complications of High Blood Pressure (Hypertension)",
+    "start_sec": 81,
+    "end_sec": 90,
+    "summary_zh": "高血压导致肾脏疾病：肾脏动脉受损使肾功能下降，可发展为肾病",
+    "text_en": "In another example, damage to the arteries in your kidneys may reduce their ability to work properly. This can lead to kidney disease.",
+    "category_ids": [
+      6,
+      69
+    ]
+  },
+  {
+    "file": "ANH16172_Complications of High Blood Pressure (Hypertension).mp4",
+    "title": "ANH16172 Complications of High Blood Pressure (Hypertension)",
+    "start_sec": 92,
+    "end_sec": 102,
+    "summary_zh": "高血压导致心力衰竭：动脉损伤迫使心脏更用力跳动，血压进一步升高，最终可导致心衰",
+    "text_en": "In a final example, damage to your arteries makes your heart beat even harder, which raises your blood pressure even more and can lead to heart failure.",
+    "category_ids": [
+      106,
+      75
+    ]
+  },
+  {
+    "file": "ANH16173_Treatment for High Blood Pressure.mp4",
+    "title": "ANH16173 Treatment for High Blood Pressure",
+    "start_sec": 7,
+    "end_sec": 20,
+    "summary_zh": "高血压（hypertension）的病因概述：多数情况下病因不明，这类高血压称为原发性高血压（primary/essential hypertension）",
+    "text_en": "In most cases, the cause of high blood pressure or hypertension is unknown. This type of high blood pressure is called primary or essential hypertension.",
+    "category_ids": [
+      6
+    ]
+  },
+  {
+    "file": "ANH16173_Treatment for High Blood Pressure.mp4",
+    "title": "ANH16173 Treatment for High Blood Pressure",
+    "start_sec": 20,
+    "end_sec": 44,
+    "summary_zh": "饮食相关的生活方式干预：健康饮食、减少钠盐摄入；解释钠导致体液潴留从而升高血压的机制",
+    "text_en": "Treatment for it includes lifestyle changes such as eating a healthy diet. If you are sensitive to the sodium insult, your doctor may tell you to eat less salt and processed foods. Sodium may cause your body to retain water. This increases the amount of your blood and makes your blood pressure go up.",
+    "category_ids": [
+      84
+    ]
+  },
+  {
+    "file": "ANH16173_Treatment for High Blood Pressure.mp4",
+    "title": "ANH16173 Treatment for High Blood Pressure",
+    "start_sec": 44,
+    "end_sec": 65,
+    "summary_zh": "其他生活方式干预措施：限制饮酒、规律运动、减重、戒烟",
+    "text_en": "Other lifestyle changes can lower your blood pressure. They include not drinking too much alcohol. Getting regular exercise. Losing weight if you need to. And quitting smoking.",
+    "category_ids": [
+      6
+    ]
+  },
+  {
+    "file": "ANH16173_Treatment for High Blood Pressure.mp4",
+    "title": "ANH16173 Treatment for High Blood Pressure",
+    "start_sec": 65,
+    "end_sec": 79,
+    "summary_zh": "过渡到药物治疗：医生可能推荐作用于肾脏、血管或心脏的降压药物",
+    "text_en": "Your doctor may also recommend medications that act on your kidneys, blood vessels, or heart to help lower your blood pressure.",
+    "category_ids": [
+      6
+    ]
+  },
+  {
+    "file": "ANH16173_Treatment for High Blood Pressure.mp4",
+    "title": "ANH16173 Treatment for High Blood Pressure",
+    "start_sec": 79.5,
+    "end_sec": 94,
+    "summary_zh": "利尿剂（水丸）的作用机制：促使肾脏将更多盐分和水分从血液排入尿液，从而减少血容量、降低血压",
+    "text_en": "Diuretics commonly called water pills cause your kidneys to move more salt and water from your blood into your urine. This reduces both the amount of your blood and your blood pressure.",
+    "category_ids": [
+      84,
+      43
+    ]
+  },
+  {
+    "file": "ANH16173_Treatment for High Blood Pressure.mp4",
+    "title": "ANH16173 Treatment for High Blood Pressure",
+    "start_sec": 94,
+    "end_sec": 106,
+    "summary_zh": "β受体阻滞剂的作用机制：通过减慢心率和降低每次心搏的力量来减轻心脏负荷",
+    "text_en": "Beta blockers reduce the workload on your heart in two ways. They slow your heart beat and lower the force of each beat.",
+    "category_ids": [
+      35
+    ]
+  },
+  {
+    "file": "ANH16173_Treatment for High Blood Pressure.mp4",
+    "title": "ANH16173 Treatment for High Blood Pressure",
+    "start_sec": 106.5,
+    "end_sec": 131,
+    "summary_zh": "血管扩张类药物：通过舒张血管降低血压，包括ACE抑制剂、血管紧张素II受体阻滞剂、钙通道阻滞剂和直接作用血管扩张剂",
+    "text_en": "Several types of drugs lower your blood pressure by relaxing your blood vessels. This makes them open up wider. These drugs include ACE inhibitors, angiotensin-2 receptor blockers, calcium channel blockers, and direct acting vasodilators.",
+    "category_ids": [
+      61
+    ]
+  },
+  {
+    "file": "ANH16180_About Your Heart Attack.mp4",
+    "title": "ANH16180 About Your Heart Attack",
+    "start_sec": 15.9,
+    "end_sec": 54.6,
+    "summary_zh": "心脏基本解剖与冠状动脉供血：心脏作为泵血器官，左心室将富氧血通过主动脉泵出，冠状动脉从主动脉分出为心肌供应氧气和营养",
+    "text_en": "Your heart is a muscular organ that pumps blood containing the oxygen and nutrients your body needs. The main pumping chamber of your heart is the left ventricle. In your left ventricle contract, it sends oxygen-rich blood to your body through a large artery called the aorta. Connected to your aorta are small arteries, called coronary arteries. Blood flows from your aorta through the coronary arteries to supply your heart muscle with oxygen and nutrients.",
+    "category_ids": [
+      46
+    ]
+  },
+  {
+    "file": "ANH16180_About Your Heart Attack.mp4",
+    "title": "ANH16180 About Your Heart Attack",
+    "start_sec": 54.6,
+    "end_sec": 84.2,
+    "summary_zh": "冠状动脉阻塞的病理过程：脂肪斑块在冠状动脉内堆积，斑块破裂后形成血栓，导致血管严重狭窄或完全阻塞",
+    "text_en": "Using your heart attack, blood flow through one of your coronary arteries may have been severely reduced or completely blocked. Your reduced blood flow may have been caused by a buildup of a fatty substance called plaque in your coronary arteries. If this plaque became disrupted, a blood clot might form and severely worsen the narrowing or lead to a sudden complete blockage stopping blood flow down the artery.",
+    "category_ids": [
+      2,
+      133
+    ]
+  },
+  {
+    "file": "ANH16180_About Your Heart Attack.mp4",
+    "title": "ANH16180 About Your Heart Attack",
+    "start_sec": 84.2,
+    "end_sec": 109.2,
+    "summary_zh": "心肌梗死的发生机制：冠状动脉阻塞使氧气和营养无法到达心肌，导致心肌细胞坏死，即心肌梗死（MI）",
+    "text_en": "A blockage in your coronary arteries prevented the oxygen and nutrients in your blood from reaching the part of your heart supplied by the artery. As a result, heart muscle in that area started to die. Damage to part of your heart muscle is called a heart attack. It's also known as a myocardial infarction, or MI.",
+    "category_ids": [
+      3
+    ]
+  },
+  {
+    "file": "ANH16180_About Your Heart Attack.mp4",
+    "title": "ANH16180 About Your Heart Attack",
+    "start_sec": 109.2,
+    "end_sec": 155.1,
+    "summary_zh": "冠状动脉介入治疗——球囊血管成形术与支架植入：通过球囊导管扩张阻塞的冠状动脉，并植入金属网状支架支撑血管保持通畅",
+    "text_en": "Your heart doctor may have recommended a procedure to help open the blockage and improve blood flow to the damaged area. The procedure you had may have been a coronary angioplasty. During a coronary angioplasty, a balloon-tipped catheter inflates inside your blocked coronary artery to open it. The procedure may have involved placing a stent to help prop the artery open. This is usually a thin metal mesh that acts as a scaffold. It's important to know that while the stent opens up an artery in your heart, it will not help with plaque buildup that may be in other arteries in your body.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANH16180_About Your Heart Attack.mp4",
+    "title": "ANH16180 About Your Heart Attack",
+    "start_sec": 155.1,
+    "end_sec": 173.6,
+    "summary_zh": "冠状动脉搭桥手术（CABG）：使用身体其他部位的静脉或动脉绕过冠状动脉阻塞区域，恢复心肌血供",
+    "text_en": "Or you may have had a coronary artery bypass graft or cabbage. Cabbage is a surgical procedure in which the blocked areas of the coronary arteries are bypassed with veins or other arteries from the body.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANH16180_About Your Heart Attack.mp4",
+    "title": "ANH16180 About Your Heart Attack",
+    "start_sec": 173.6,
+    "end_sec": 201.7,
+    "summary_zh": "术后药物治疗（一）——抗血小板药物：出院后需服用口服抗血小板药物，防止血小板聚集形成新血栓，尤其对支架患者防止支架内血栓",
+    "text_en": "Before you left the hospital, your healthcare provider most likely prescribed several medications. Your medication may include the following. Oral antiplatelet therapy helps prevent platelets from sticking together and forming new blood If you have a stent, this medication helps prevent clots from forming inside it.",
+    "category_ids": [
+      62,
+      63
+    ]
+  },
+  {
+    "file": "ANH16180_About Your Heart Attack.mp4",
+    "title": "ANH16180 About Your Heart Attack",
+    "start_sec": 201.7,
+    "end_sec": 255.8,
+    "summary_zh": "术后药物治疗（二）——降压药与降脂药：包括β受体阻滞剂、ACE抑制剂、ARB、钙通道阻滞剂用于降压，他汀类及非他汀类药物配合低脂饮食降低胆固醇",
+    "text_en": "You may have also received drugs called beta blockers that help lower your heart rate and blood pressure. Drugs such as angiotensin converting enzyme or ACE inhibitors, angiotensin receptor blockers or ARBs, and calcium channel blockers also work to lower your blood pressure if needed. And you may have been prescribed statins along with a low fat diet to lower your cholesterol. These drugs work by reducing the amount of cholesterol made in your liver. They also help your liver pull cholesterol out of your blood. If statins don't work well or have serious side effects, your healthcare provider may prescribe non-statin medications. They work in different ways to lower your cholesterol.",
+    "category_ids": [
+      57,
+      61
+    ]
+  },
+  {
+    "file": "ANH16181_Heart Failure Overview - Basic.mp4",
+    "title": "ANH16181 Heart Failure Overview - Basic",
+    "start_sec": 8.7,
+    "end_sec": 16.2,
+    "summary_zh": "心脏的基本功能：心脏是肌肉器官，负责泵送含有氧气和营养物质的血液供全身使用",
+    "text_en": "Your heart is a muscular organ that pumps blood containing the oxygen and nutrients your body needs.",
+    "category_ids": [
+      46,
+      126
+    ]
+  },
+  {
+    "file": "ANH16181_Heart Failure Overview - Basic.mp4",
+    "title": "ANH16181 Heart Failure Overview - Basic",
+    "start_sec": 16.2,
+    "end_sec": 56.7,
+    "summary_zh": "心力衰竭的定义与基本病理：心脏无法泵出足够血液，可能影响单侧或双侧心脏；导致肺部氧合不足、全身供血不足，引起体液潴留和肺水肿",
+    "text_en": "Heart failure means that your heart can't pump enough blood around your body. In some cases, heart failure may be temporary, but in most cases, some of the heart damage is perforated. Heart failure can affect both sides of your heart or just one side. Your heart may not pump enough blood to your lungs to pick up enough oxygen. Your heart also may not pump enough oxygen-rich blood out to the rest of your body. This can cause the body to hold onto water and let fluid build up in your body and in your lungs.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "ANH16181_Heart Failure Overview - Basic.mp4",
+    "title": "ANH16181 Heart Failure Overview - Basic",
+    "start_sec": 57.7,
+    "end_sec": 85.7,
+    "summary_zh": "心力衰竭的病因：多种疾病可削弱或加重心脏负担，包括冠状动脉疾病、高血压、糖尿病、心脏瓣膜病变，以及先天性或感染/毒素引起的心肌病",
+    "text_en": "Many health conditions that weaken or overwork the heart can cause heart failure. A health condition may keep your heart from squeezing as hard as it should. Health conditions that can cause heart failure include coronary artery disease, high blood pressure, diabetes, heart valve problems, and heart muscle problems that are present at birth or caused by infection or toxins.",
+    "category_ids": [
+      75,
+      106
+    ]
+  }
+]

@@ -1,0 +1,564 @@
+[
+  {
+    "global_index": 4120,
+    "seg_id": "S3-L2",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "发作时机判断",
+    "template": "split_column",
+    "items": [
+      "活动时气短加重",
+      "休息后明显缓解"
+    ],
+    "atoms_text": "那心脏有问题呢 它有一个 典型的症状 是活动后 哎 加重 休息之后 缓解啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4121,
+    "seg_id": "S3-L3",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "发作时机判断",
+    "template": "list_fade",
+    "items": [
+      "走路干活气不够用",
+      "坐下休息后好转"
+    ],
+    "atoms_text": "就是 走路干活的时候 气儿不够用 那你坐下来休息的时候呢 就好转了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4122,
+    "seg_id": "S3-L4",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "发作时机判断",
+    "template": "hero_text",
+    "items": [
+      "肺的问题休息也不一定缓解"
+    ],
+    "atoms_text": "但是肺问题呢 往往是 活动加重 哎 休息了也 不一定好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4123,
+    "seg_id": "S3-L5",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "发作时机判断",
+    "template": "list_fade",
+    "items": [
+      "夜里忽然憋醒",
+      "躺着不行坐起来能好转",
+      "哮喘慢阻肺更为典型"
+    ],
+    "atoms_text": "特别是什么 哮喘 慢阻肺的人 可能啊 夜里忽然憋醒 躺不下 坐起来 能好一点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4124,
+    "seg_id": "S4-L1",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "伴随症状判断",
+    "template": "hero_text",
+    "items": [
+      "第二招：看伴随症状"
+    ],
+    "atoms_text": "第二个 看伴随的症状",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4125,
+    "seg_id": "S4-L2",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "伴随症状判断",
+    "template": "list_fade",
+    "items": [
+      "心慌心悸",
+      "腿肿一摁一个坑",
+      "夜间尿量增多"
+    ],
+    "atoms_text": "那心脏出问题呢 常常有 哎 心慌 腿肿 那个腿 你一摁一个坑 哎 晚上还尿多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4126,
+    "seg_id": "S4-L3",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "伴随症状判断",
+    "template": "list_fade",
+    "items": [
+      "反复咳嗽有痰",
+      "喘息呼吸费力",
+      "喉咙里有拉风箱的声音"
+    ],
+    "atoms_text": "但是肺出问题呢 就是 咳咳咳 痰喘 这个喉咙里啊 有时候 他们自己 会觉得 像拉风箱似的 那种声音",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4127,
+    "seg_id": "S5-L1",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "快速识别口诀",
+    "template": "split_column",
+    "items": [
+      "躺着憋闷坐起来好",
+      "多半是心脏问题"
+    ],
+    "atoms_text": "那最直接的区分呢 就是 哎 躺着憋 坐着好 起来的 那多半是心脏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4128,
+    "seg_id": "S5-L2",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "快速识别口诀",
+    "template": "split_column",
+    "items": [
+      "喉咙有哨音咳出痰舒服",
+      "多半是肺部问题"
+    ],
+    "atoms_text": "那喉咙里边 有哨子音 滋滋声 哎 咳出痰 就能舒服的 多半是肺",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4129,
+    "seg_id": "S6-L1",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "就医提醒与互动",
+    "template": "hero_text",
+    "items": [
+      "以上只是初步判断参考"
+    ],
+    "atoms_text": "当然呢 这只是 初步的判断",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4130,
+    "seg_id": "S6-L2",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "就医提醒与互动",
+    "template": "warning_alert",
+    "items": [
+      "反复发作千万别硬扛"
+    ],
+    "atoms_text": "如果反复发作 千万别硬扛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4131,
+    "seg_id": "S6-L3",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "就医提醒与互动",
+    "template": "list_fade",
+    "items": [
+      "查心脏彩超",
+      "做肺功能检测",
+      "请医生综合评判"
+    ],
+    "atoms_text": "去医院呢 咱们查一个 心脏彩超 肺功能 当然最好呢 找医生 给你评判一下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4132,
+    "seg_id": "S6-L4",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "就医提醒与互动",
+    "template": "branch_path",
+    "items": [
+      "你是哪种情况",
+      "活动后胸闷",
+      "夜里憋醒"
+    ],
+    "atoms_text": "你是 活动后胸闷 还是 夜里憋醒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4133,
+    "seg_id": "S6-L5",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "就医提醒与互动",
+    "template": "hero_text",
+    "items": [
+      "评论区告诉我你的情况"
+    ],
+    "atoms_text": "大家 评论区里 可以告诉我",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4134,
+    "seg_id": "S1-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "糖尿病运动，好是好但坑也多"
+    ],
+    "atoms_text": "大家好 我是 咱们科的 张医生 运动呢 对于 糖尿病人 到底 好不好 当然好 没争议",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4135,
+    "seg_id": "S1-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "开场点题",
+    "template": "warning_alert",
+    "items": [
+      "有的坑踩了白练",
+      "有的坑踩了危险"
+    ],
+    "atoms_text": "但是 我发现呢 很多糖友 一开始运动的时候 他就 特别容易 踩坑 那有的坑呢 是踩了 真是白练啊 那有的坑 踩的是 危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4136,
+    "seg_id": "S1-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "开场点题",
+    "template": "number_center",
+    "items": [
+      "4"
+    ],
+    "atoms_text": "今天呢 把最常见的 四个坑 给你讲清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4137,
+    "seg_id": "S2-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑一：空腹运动",
+    "template": "hero_text",
+    "items": [
+      "第一坑：空腹运动最危险"
+    ],
+    "atoms_text": "第一个坑 空腹运动 最危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4138,
+    "seg_id": "S2-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑一：空腹运动",
+    "template": "myth_buster",
+    "items": [
+      "空腹运动效果更好",
+      "糖友空腹运动极易低血糖",
+      "饿着肚子练不怕掉血糖",
+      "药物加运动双重压血糖跳水"
+    ],
+    "atoms_text": "很多人觉得 空腹的时候 锻炼呢 哎 效果比较好 但糖尿病人呢 真不行",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4139,
+    "seg_id": "S2-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑一：空腹运动",
+    "template": "step_arrow",
+    "items": [
+      "降糖药/胰岛素持续压血糖",
+      "空腹运动肌肉大量消耗糖",
+      "血糖急剧下跌低血糖",
+      "轻则跑步晕倒重则危及生命"
+    ],
+    "atoms_text": "你本身呢 就是在 哎 吃降糖药 打胰岛素 这个药物 一直在 给你压 这个血糖",
+    "needs_animation": true,
+    "label": "降糖药和胰岛素持续压低血糖的作用过程"
+  },
+  {
+    "global_index": 4140,
+    "seg_id": "S2-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑一：空腹运动",
+    "template": "split_column",
+    "items": [
+      "空腹状态下运动",
+      "餐后一两小时运动",
+      "血糖过低双重消耗",
+      "血糖正高消峰安全有效"
+    ],
+    "atoms_text": "你在 空着肚子 去运动 这肌肉 有大量的 消耗糖 你两头一夹击 哎 这血糖 就直接 容易跳水了",
+    "needs_animation": true,
+    "label": "运动时肌肉大量消耗糖与药物降糖双重夹击导致血糖骤降"
+  },
+  {
+    "global_index": 4141,
+    "seg_id": "S2-L5",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑一：空腹运动",
+    "template": "hero_text",
+    "items": [
+      "餐后1-2小时运动，消峰又安全"
+    ],
+    "atoms_text": "这个低血糖啊 要比 高血糖 危险的多 有的人 轻的呢 哎 跑步运动 重的呀 直接 运动要命的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4142,
+    "seg_id": "S2-L6",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑一：空腹运动",
+    "template": "warning_alert",
+    "items": [
+      "低血糖比高血糖危险得多"
+    ],
+    "atoms_text": "所以啊 记住 这个运动呢 是要安排在 餐后啊 一两个小时的 这时候 血糖正高 哎 运动刚好消峰 又安全 又有效",
+    "needs_animation": true,
+    "label": "餐后血糖高峰期运动消耗峰值血糖的过程"
+  },
+  {
+    "global_index": 4143,
+    "seg_id": "S3-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "hero_text",
+    "items": [
+      "第二坑：运动量越大越好"
+    ],
+    "atoms_text": "第二坑 觉得运动啊 这个量 越大越好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4144,
+    "seg_id": "S3-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "list_fade",
+    "items": [
+      "消耗越多血糖掉得越快",
+      "糖友血管脆，高强度冲击受不了"
+    ],
+    "atoms_text": "那有的糖友 一上来呀 哇 每天五公里啊 跳操一个小时 恨不得 一个礼拜 就把 这个血糖 练正常了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4145,
+    "seg_id": "S3-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "brick_stack",
+    "items": [
+      "每周运动五天",
+      "每次半小时左右",
+      "中等强度：费力但能说话"
+    ],
+    "atoms_text": "但是 过量的运动呢 有两个问题 一个是 低血糖风险啊 消耗的越多 它掉的越快",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4146,
+    "seg_id": "S3-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "hero_text",
+    "items": [
+      "运动时有点累但还能说话就刚好"
+    ],
+    "atoms_text": "第二个 糖尿病人 他血管啊 本来就脆 你忽然间 高强度的冲击 这血管 它肯定受不了",
+    "needs_animation": true,
+    "label": "糖尿病患者脆弱血管在高强度运动冲击下受损"
+  },
+  {
+    "global_index": 4147,
+    "seg_id": "S3-L5",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "warning_alert",
+    "items": [
+      "忽然高强度运动，血管承受不住"
+    ],
+    "atoms_text": "那我们推荐的是 每周五天 对不对 每次呢 半个小时左右 就可以了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4148,
+    "seg_id": "S3-L6",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "split_column",
+    "items": [
+      "每天五公里跳操一小时",
+      "每次半小时中等强度",
+      "低血糖风险高血管受损",
+      "安全有效长期可坚持"
+    ],
+    "atoms_text": "中等强度 什么是中等强度 就是 哎 稍微运动 有点费力 但是呢 还能跟人说话 这个程度 刚刚好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4149,
+    "seg_id": "S4-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "hero_text",
+    "items": [
+      "第三坑：只做有氧不练力量"
+    ],
+    "atoms_text": "第三个坑 只做有氧运动 不做力量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4150,
+    "seg_id": "S4-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "myth_buster",
+    "items": [
+      "走路跑步就够了",
+      "有氧加力量才完整",
+      "有氧运动能增肌消糖",
+      "有氧增肌效果差需力量训练"
+    ],
+    "atoms_text": "大部分糖友来说 一运动呢 哎 就是走路 跑步 这当然呢 是有用 但是 只做有氧 还不够",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4151,
+    "seg_id": "S4-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "hero_text",
+    "items": [
+      "肌肉越多，静息时血糖消耗越多"
+    ],
+    "atoms_text": "为什么呢 这个我们的肌肉啊 才是 消耗血糖的大户 你肌肉越多呀 平时不运动的时候 这个血糖呀 更容易被消耗",
+    "needs_animation": true,
+    "label": "肌肉组织作为耗糖大户在静息状态下持续消耗血糖"
+  },
+  {
+    "global_index": 4152,
+    "seg_id": "S4-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "list_fade",
+    "items": [
+      "深蹲：强化腿部大肌群",
+      "俯卧撑：锻炼上肢核心",
+      "弹力带：全身力量训练"
+    ],
+    "atoms_text": "有氧运动啊 增肌不行 你得加上 力量训练",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4153,
+    "seg_id": "S4-L5",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "split_column",
+    "items": [
+      "仅有氧运动",
+      "有氧加力量训练",
+      "消糖效果有限增肌差",
+      "消糖强增肌效果加倍"
+    ],
+    "atoms_text": "那在家的时候 哎 做做深蹲 俯卧撑 弹力带",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4154,
+    "seg_id": "S4-L6",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "hero_text",
+    "items": [
+      "有氧如吃肉，力量如配菜，缺一不可"
+    ],
+    "atoms_text": "有氧加上力量 那就是 就像 吃肉再配菜 是不是",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4155,
+    "seg_id": "S5-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "hero_text",
+    "items": [
+      "第四坑：血糖极高时硬练"
+    ],
+    "atoms_text": "第四个坑 血糖特别高的时候 硬练",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4156,
+    "seg_id": "S5-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "myth_buster",
+    "items": [
+      "血糖高赶紧运动降下来",
+      "血糖超14先用药别运动"
+    ],
+    "atoms_text": "有人呢 一看血糖 哇 十六七了 我的天 太高了 我赶紧 运动运动 让它下来 听着合理啊 其实危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4157,
+    "seg_id": "S5-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "step_arrow",
+    "items": [
+      "血糖超14胰岛素严重不足",
+      "身体无法利用糖转而分解脂肪",
+      "酮体堆积引发酮症酸中毒",
+      "危及生命的严重并发症"
+    ],
+    "atoms_text": "那血糖就是 超过十四的时候呢 说明 你体内 这个胰岛素 已经严重的 不够用了 身体没有办法 正常的利用血糖 就会去 分解脂肪",
+    "needs_animation": true,
+    "label": "胰岛素严重不足时身体无法利用血糖转而分解脂肪的代谢切换"
+  },
+  {
+    "global_index": 4158,
+    "seg_id": "S5-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "number_center",
+    "items": [
+      "14"
+    ],
+    "atoms_text": "那脂肪分解呢 就会产生 酮体 那堆多了 就容易 酮症酸中毒 也是要命的",
+    "needs_animation": true,
+    "label": "脂肪分解产生酮体堆积引发酮症酸中毒"
+  },
+  {
+    "global_index": 4159,
+    "seg_id": "S5-L5",
+    "bp_title": "糖尿病运动四大坑，踩错一个全白练",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "warning_alert",
+    "items": [
+      "血糖超过14，先降糖再运动"
+    ],
+    "atoms_text": "所以啊 这个血糖特别高的时候 你要先 用药物 让它降下来 不要靠运动硬压啊 一般来说 血糖超过十四 先别动",
+    "needs_animation": false,
+    "label": ""
+  }
+]

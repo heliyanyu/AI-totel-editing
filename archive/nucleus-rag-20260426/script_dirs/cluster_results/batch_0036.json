@@ -1,0 +1,500 @@
+[
+  {
+    "global_index": 1440,
+    "seg_id": "S5-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "中国人有自己的区间",
+    "template": "myth_buster",
+    "items": [
+      "盲目追求越低越好",
+      "因人而异找到适合区间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1441,
+    "seg_id": "S6-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "三类人群目标值",
+    "template": "hero_text",
+    "items": [
+      "记住这三类人群的目标值"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1442,
+    "seg_id": "S6-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "三类人群目标值",
+    "template": "number_center",
+    "items": [
+      "<3.4"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1443,
+    "seg_id": "S6-L3",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "三类人群目标值",
+    "template": "number_center",
+    "items": [
+      "<2.6"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1444,
+    "seg_id": "S6-L4",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "三类人群目标值",
+    "template": "number_center",
+    "items": [
+      "<1.8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1445,
+    "seg_id": "S6-L5",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "三类人群目标值",
+    "template": "number_center",
+    "items": [
+      "<1.4"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1446,
+    "seg_id": "S7-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "总结与互动",
+    "template": "hero_text",
+    "items": [
+      "因人而异，恰到好处才是目标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1447,
+    "seg_id": "S7-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "总结与互动",
+    "template": "hero_text",
+    "items": [
+      "评论区告诉我你的情况"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1448,
+    "seg_id": "S1-L1",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "一个关于血糖的大误区",
+    "template": "myth_buster",
+    "items": [
+      "空腹血糖正常就没糖尿病",
+      "这个认知大错特错"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1449,
+    "seg_id": "S1-L2",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "一个关于血糖的大误区",
+    "template": "hero_text",
+    "items": [
+      "很多人都点头认同这个误区"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1450,
+    "seg_id": "S1-L3",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "一个关于血糖的大误区",
+    "template": "warning_alert",
+    "items": [
+      "空腹正常≠排除糖尿病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1451,
+    "seg_id": "S1-L4",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "一个关于血糖的大误区",
+    "template": "hero_text",
+    "items": [
+      "两分钟把血糖这件事讲明白"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1452,
+    "seg_id": "S2-L1",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "真实案例：阿姨的困惑",
+    "template": "hero_text",
+    "items": [
+      "阿姨拿着体检单来找医生"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1453,
+    "seg_id": "S2-L2",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "真实案例：阿姨的困惑",
+    "template": "number_center",
+    "items": [
+      "5.6"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1454,
+    "seg_id": "S2-L3",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "真实案例：阿姨的困惑",
+    "template": "branch_path",
+    "items": [
+      "您查过餐后血糖吗？",
+      "查了餐后血糖，才能全面评估",
+      "没查，以为空腹正常就够了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1455,
+    "seg_id": "S2-L4",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "真实案例：阿姨的困惑",
+    "template": "hero_text",
+    "items": [
+      "空腹正常不就行了吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1456,
+    "seg_id": "S2-L5",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "真实案例：阿姨的困惑",
+    "template": "number_center",
+    "items": [
+      "13.8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1457,
+    "seg_id": "S2-L6",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "真实案例：阿姨的困惑",
+    "template": "warning_alert",
+    "items": [
+      "空腹正常，餐后却高达13.8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1458,
+    "seg_id": "S3-L1",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "hero_text",
+    "items": [
+      "身体就像一辆车"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1459,
+    "seg_id": "S3-L2",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "split_column",
+    "items": [
+      "车停着，油箱剩油量",
+      "踩油门，能否顺利烧油跑起来",
+      "空腹血糖——基础状态",
+      "餐后血糖——动态处理能力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1460,
+    "seg_id": "S3-L3",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "warning_alert",
+    "items": [
+      "排气管冒黑烟，油堵在那儿了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1461,
+    "seg_id": "S3-L4",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "split_column",
+    "items": [
+      "空腹血糖——看基础",
+      "餐后血糖——看能力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1462,
+    "seg_id": "S3-L5",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "hero_text",
+    "items": [
+      "一个看基础，一个看能力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1463,
+    "seg_id": "S3-L6",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "hero_text",
+    "items": [
+      "一听就懂的血糖原理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1464,
+    "seg_id": "S3-L7",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "用汽车比喻讲清原理",
+    "template": "hero_text",
+    "items": [
+      "接下来讲真正的医学含义"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1465,
+    "seg_id": "S4-L1",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "split_column",
+    "items": [
+      "休息8小时后身体维持运转的能力",
+      "反映胰岛素基础分泌功能"
+    ],
+    "needs_animation": true,
+    "label": "胰岛素基础分泌调节空腹血糖过程"
+  },
+  {
+    "global_index": 1466,
+    "seg_id": "S4-L2",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "number_center",
+    "items": [
+      "3.9–6.1"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1467,
+    "seg_id": "S4-L3",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "warning_alert",
+    "items": [
+      "空腹血糖高，胰岛素基础班出问题"
+    ],
+    "needs_animation": true,
+    "label": "胰岛素基础分泌功能异常"
+  },
+  {
+    "global_index": 1468,
+    "seg_id": "S4-L4",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "split_column",
+    "items": [
+      "进餐后大量糖涌入血液",
+      "胰岛素需加班将糖送入细胞"
+    ],
+    "needs_animation": true,
+    "label": "餐后胰岛素促进葡萄糖入胞过程"
+  },
+  {
+    "global_index": 1469,
+    "seg_id": "S4-L5",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "step_arrow",
+    "items": [
+      "进食后大量糖涌入血液",
+      "胰岛素反应慢或效率差",
+      "糖堆积在血液中，血糖飙升"
+    ],
+    "needs_animation": true,
+    "label": "餐后胰岛素反应不足导致血糖升高过程"
+  },
+  {
+    "global_index": 1470,
+    "seg_id": "S4-L6",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "number_center",
+    "items": [
+      "7.8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1471,
+    "seg_id": "S4-L7",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "hero_text",
+    "items": [
+      "很多人只看空腹，忽视餐后"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1472,
+    "seg_id": "S4-L8",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "warning_alert",
+    "items": [
+      "空腹正常，餐后却一塌糊涂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1473,
+    "seg_id": "S4-L9",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "hero_text",
+    "items": [
+      "中国人碳水摄入多，风险更高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1474,
+    "seg_id": "S4-L10",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "list_fade",
+    "items": [
+      "最会隐藏的糖尿病早期信号",
+      "与高碳水饮食习惯密切相关",
+      "空腹正常不能排除此类风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1475,
+    "seg_id": "S4-L11",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "hero_text",
+    "items": [
+      "餐后高血糖是最隐蔽的早期信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1476,
+    "seg_id": "S4-L12",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "hero_text",
+    "items": [
+      "看懂两个血糖，才能真正了解自己"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1477,
+    "seg_id": "S5-L1",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "张医生三条铁律",
+    "template": "hero_text",
+    "items": [
+      "张医生给你三条铁律"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1478,
+    "seg_id": "S5-L2",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "张医生三条铁律",
+    "template": "vertical_timeline",
+    "items": [
+      "铁律一：体检别只查空腹血糖",
+      "40岁以上或有家族史须查餐后",
+      "或直接查糖化血红蛋白（3个月均值）"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1479,
+    "seg_id": "S5-L3",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "张医生三条铁律",
+    "template": "vertical_timeline",
+    "items": [
+      "铁律二：空腹超过6.1就要查餐后",
+      "此时胰岛已有些疲惫",
+      "餐后可能早已超标却无症状"
+    ],
+    "needs_animation": true,
+    "label": "胰岛β细胞功能衰退与餐后血糖失控"
+  }
+]

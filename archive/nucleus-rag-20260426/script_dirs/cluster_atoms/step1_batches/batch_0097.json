@@ -1,0 +1,562 @@
+[
+  {
+    "global_index": 3880,
+    "seg_id": "S1-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "体检报告里的无声预警",
+    "template": "hero_text",
+    "items": [
+      "五个关键指标，今天讲清楚"
+    ],
+    "atoms_text": "今天我把最关键的五个指标讲清楚 你回家对照一下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3881,
+    "seg_id": "S2-L1",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "低密度脂蛋白胆固醇",
+    "template": "hero_text",
+    "items": [
+      "第一指标：低密度脂蛋白胆固醇"
+    ],
+    "atoms_text": "第一 低密度脂蛋白胆固醇",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3882,
+    "seg_id": "S2-L2",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "低密度脂蛋白胆固醇",
+    "template": "step_arrow",
+    "items": [
+      "LDL数值越高",
+      "胆固醇越快钻入血管壁",
+      "斑块持续增大"
+    ],
+    "atoms_text": "这个东西越高 胆固醇越往血管里面钻的越快 斑块长的越大",
+    "needs_animation": true,
+    "label": "低密度脂蛋白胆固醇钻入血管壁形成斑块的过程"
+  },
+  {
+    "global_index": 3883,
+    "seg_id": "S2-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "低密度脂蛋白胆固醇",
+    "template": "myth_buster",
+    "items": [
+      "没箭头就觉得正常没问题",
+      "无箭头不代表达到你的安全值"
+    ],
+    "atoms_text": "很多人看完化验单 没箭头 就觉得没事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3884,
+    "seg_id": "S2-L4",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "低密度脂蛋白胆固醇",
+    "template": "hero_text",
+    "items": [
+      "3.4参考上限仅适用健康年轻人"
+    ],
+    "atoms_text": "但参考值上限是三点四 是给完全健康的年轻人定的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3885,
+    "seg_id": "S2-L5",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "低密度脂蛋白胆固醇",
+    "template": "category_table",
+    "items": [
+      "普通健康人群",
+      "控制在3.4以下",
+      "高血压/糖尿病/吸烟者",
+      "控制在2.6甚至1.8以下"
+    ],
+    "atoms_text": "你要是有高血压 糖尿病 抽烟 可能要控制在二点六 甚至一点八以下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3886,
+    "seg_id": "S2-L6",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "低密度脂蛋白胆固醇",
+    "template": "hero_text",
+    "items": [
+      "别盯箭头，要盯具体数字"
+    ],
+    "atoms_text": "所以别盯箭头 盯数字",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3887,
+    "seg_id": "S3-L1",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "空腹血糖",
+    "template": "hero_text",
+    "items": [
+      "第二指标：空腹血糖"
+    ],
+    "atoms_text": "第二 空腹血糖",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3888,
+    "seg_id": "S3-L2",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "空腹血糖",
+    "template": "myth_buster",
+    "items": [
+      "血糖6点几没到7，觉得没问题",
+      "6.1以上已是糖尿病前期"
+    ],
+    "atoms_text": "六点几 没到七 不算糖尿病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3889,
+    "seg_id": "S3-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "空腹血糖",
+    "template": "warning_alert",
+    "items": [
+      "糖尿病前期血管已持续受损"
+    ],
+    "atoms_text": "但六点一以上 已经是糖尿病前期了 血管已经在被高血糖悄悄损伤",
+    "needs_animation": true,
+    "label": "高血糖持续损伤血管内壁的过程"
+  },
+  {
+    "global_index": 3890,
+    "seg_id": "S3-L4",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "空腹血糖",
+    "template": "step_arrow",
+    "items": [
+      "空腹血糖超过6.0",
+      "加查糖化血红蛋白",
+      "反映过去三个月整体水平"
+    ],
+    "atoms_text": "如果你空腹血糖到了六以上 建议再查个糖化血红蛋白 看过去三个月的整体水平",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3891,
+    "seg_id": "S3-L5",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "空腹血糖",
+    "template": "number_center",
+    "items": [
+      "6.5"
+    ],
+    "atoms_text": "大于六点五 基本就是糖尿病了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3892,
+    "seg_id": "S4-L1",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "血压",
+    "template": "hero_text",
+    "items": [
+      "第三指标：血压"
+    ],
+    "atoms_text": "第三 血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3893,
+    "seg_id": "S4-L2",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "血压",
+    "template": "myth_buster",
+    "items": [
+      "报告写\"偏高\"，觉得可能紧张没当回事",
+      "高血压会持续冲击损伤血管内壁"
+    ],
+    "atoms_text": "体检量了一次 一百四九十 报告上写个偏高 然后就没有然后了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3894,
+    "seg_id": "S4-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "血压",
+    "template": "step_arrow",
+    "items": [
+      "血压升高冲击血管内膜",
+      "内膜破损，胆固醇趁机钻入",
+      "斑块形成，破裂引发血栓",
+      "心梗或脑梗随之发生"
+    ],
+    "atoms_text": "但血压高最大的危害 是冲击血管壁 把内膜冲出小伤口 胆固醇从伤口里面钻进去 斑块就这么来了",
+    "needs_animation": true,
+    "label": "高血压冲击血管内膜造成损伤后胆固醇从伤口钻入形成斑块"
+  },
+  {
+    "global_index": 3895,
+    "seg_id": "S4-L4",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "血压",
+    "template": "step_arrow",
+    "items": [
+      "回家连测几天血压",
+      "确实偏高去心内科就诊",
+      "该用药时及时用药"
+    ],
+    "atoms_text": "而且血压突然升高 还能把斑块冲破 一破就是血栓 就是心梗或脑梗",
+    "needs_animation": true,
+    "label": "血压突然升高冲破斑块引发血栓导致心梗或脑梗"
+  },
+  {
+    "global_index": 3896,
+    "seg_id": "S4-L5",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "血压",
+    "template": "warning_alert",
+    "items": [
+      "别一次偏高就放任不管"
+    ],
+    "atoms_text": "发现血压高 别觉得可能是紧张的 回家连测几天 确实高就去心内科看一看 该吃药就吃药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3897,
+    "seg_id": "S5-L1",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "同型半胱氨酸",
+    "template": "hero_text",
+    "items": [
+      "第四指标：同型半胱氨酸Hcy"
+    ],
+    "atoms_text": "第四 同型半胱氨酸",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3898,
+    "seg_id": "S5-L2",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "同型半胱氨酸",
+    "template": "myth_buster",
+    "items": [
+      "报告写Hcy，看不懂直接跳过",
+      "Hcy是脑梗风险的重要预警信号"
+    ],
+    "atoms_text": "报告上写着Hcy 很多人不认识 就跳过了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3899,
+    "seg_id": "S5-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "同型半胱氨酸",
+    "template": "warning_alert",
+    "items": [
+      "Hcy升高直接损伤血管内壁",
+      "超过15合并高血压脑梗风险大增"
+    ],
+    "atoms_text": "这个指标高 会直接损伤血管内壁 跟脑梗的关系特别密切",
+    "needs_animation": true,
+    "label": "同型半胱氨酸损伤血管内壁的机制"
+  },
+  {
+    "global_index": 3900,
+    "seg_id": "S5-L4",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "同型半胱氨酸",
+    "template": "split_column",
+    "items": [
+      "Hcy数值偏高",
+      "补充叶酸即可有效降低",
+      "可能引发脑梗风险",
+      "花费少，预防效果显著"
+    ],
+    "atoms_text": "超过十五 尤其是同时伴有高血压 脑梗风险就明显升高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3901,
+    "seg_id": "S5-L5",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "同型半胱氨酸",
+    "template": "hero_text",
+    "items": [
+      "一片叶酸，可能帮你避开一次脑梗"
+    ],
+    "atoms_text": "好消息是 补充叶酸 往往就能降下来 花不了多少钱 但可能帮你避开一次脑梗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3902,
+    "seg_id": "S6-L1",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "颈动脉超声",
+    "template": "hero_text",
+    "items": [
+      "第五指标：颈动脉超声"
+    ],
+    "atoms_text": "第五 颈动脉超声",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3903,
+    "seg_id": "S6-L2",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "颈动脉超声",
+    "template": "hero_text",
+    "items": [
+      "重点看两项关键结果"
+    ],
+    "atoms_text": "重点看两个东西",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3904,
+    "seg_id": "S6-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "颈动脉超声",
+    "template": "number_center",
+    "items": [
+      "1.0"
+    ],
+    "atoms_text": "内膜内中膜厚度 大于一点零毫米 说明动脉硬化已经在路上了",
+    "needs_animation": true,
+    "label": "颈动脉内中膜增厚显示动脉硬化进展"
+  },
+  {
+    "global_index": 3905,
+    "seg_id": "S6-L4",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "颈动脉超声",
+    "template": "warning_alert",
+    "items": [
+      "低回声或混合回声斑块属不稳定斑块",
+      "随时可能破裂形成致命血栓"
+    ],
+    "atoms_text": "如果写了低回声斑块 或者混合回声斑块 那就要格外注意",
+    "needs_animation": true,
+    "label": "低回声斑块与混合回声斑块在超声下的形态特征"
+  },
+  {
+    "global_index": 3906,
+    "seg_id": "S6-L5",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "颈动脉超声",
+    "template": "branch_path",
+    "items": [
+      "颈动脉超声发现斑块",
+      "及时找医生评估制定方案",
+      "自己扛着拖延处理"
+    ],
+    "atoms_text": "这种斑块不稳定 随时可能破裂形成血栓",
+    "needs_animation": true,
+    "label": "不稳定斑块破裂形成血栓的过程"
+  },
+  {
+    "global_index": 3907,
+    "seg_id": "S6-L6",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "颈动脉超声",
+    "template": "hero_text",
+    "items": [
+      "有斑块，一定要找医生评估"
+    ],
+    "atoms_text": "有斑块的人 一定要找医生评估 千万别自己扛着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3908,
+    "seg_id": "S7-L1",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "总结与行动呼吁",
+    "template": "hero_text",
+    "items": [
+      "心梗脑梗前几年，身体已在报告里写信"
+    ],
+    "atoms_text": "总结一下 心梗脑梗不是突然发生的 你的身体提前好几年 已经在体检报告上给你写信了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3909,
+    "seg_id": "S7-L2",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "总结与行动呼吁",
+    "template": "list_fade",
+    "items": [
+      "低密度脂蛋白——看数字不看箭头",
+      "空腹血糖——6.1以上就要警觉",
+      "血压——连续测量才算数",
+      "同型半胱氨酸——高了补叶酸",
+      "颈动脉超声——斑块性质要评估"
+    ],
+    "atoms_text": "回去把报告翻出来 对照这五个指标看一看 该控制的控制 该复查的复查 这才是体检的真正意义",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3910,
+    "seg_id": "S7-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "总结与行动呼吁",
+    "template": "hero_text",
+    "items": [
+      "看懂这五个指标，点赞收藏备用"
+    ],
+    "atoms_text": "我说明白了吗 欢迎点赞收藏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3911,
+    "seg_id": "S1-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "错误认知引发焦虑",
+    "template": "myth_buster",
+    "items": [
+      "查出高血压就买活血化瘀补品",
+      "高血压与血管堵塞并无直接关系",
+      "每年固定输液\"通血管\"",
+      "通血管并不能降低血压"
+    ],
+    "atoms_text": "很多朋友啊 是不是 查出了高血压 还认为啊 是血管堵住了 转头就去买 活血化瘀的补品 甚至啊 每年固定去医院 输两次液 一门心思要通血管 觉得只要 把血管通开了 血压就能降下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3912,
+    "seg_id": "S1-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "错误认知引发焦虑",
+    "template": "warning_alert",
+    "items": [
+      "血压没控制住，白白遭了罪"
+    ],
+    "atoms_text": "越想越焦虑 到头来 血压没控制住 还白白遭了罪",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3913,
+    "seg_id": "S1-L3",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "错误认知引发焦虑",
+    "template": "hero_text",
+    "items": [
+      "搞清因果，降血压才不走弯路"
+    ],
+    "atoms_text": "其实很多人 降血压 从根上就走错了路 今天咱们 就把这个搞反的逻辑说清楚 搞懂了 让你再也不用 为了降血压 瞎焦虑乱折腾了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3914,
+    "seg_id": "S2-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "高血压真正成因",
+    "template": "number_center",
+    "items": [
+      "90%"
+    ],
+    "atoms_text": "先给大家说个重点 血压高啊 根本就不是血管堵了 百分之九十以上的 原发性高血压 和血管堵不堵 几乎没有直接的关系",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3915,
+    "seg_id": "S2-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "高血压真正成因",
+    "template": "myth_buster",
+    "items": [
+      "血管堵了导致血压升高",
+      "绝大多数人把因果完全搞反了"
+    ],
+    "atoms_text": "反而绝大多数人 完全搞反了 他们俩因果",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3916,
+    "seg_id": "S2-L3",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "高血压真正成因",
+    "template": "step_arrow",
+    "items": [
+      "血压是血流对管壁的压力",
+      "压力升高不是管里堵了东西",
+      "根本原因有三个核心点"
+    ],
+    "atoms_text": "血管就像 家里的自来水水管 是一样的 血压就是 水管里面水 对管壁产生的压力 那什么情况下 水管的压力会增高呢 根本不是 水管里面堵了东西 核心就是这三点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3917,
+    "seg_id": "S3-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血管弹性变差",
+    "template": "split_column",
+    "items": [
+      "年轻血管像橡皮管",
+      "老化血管像硬塑料管",
+      "血流来了能收缩舒张缓冲",
+      "毫无缓冲力，压力直线上升"
+    ],
+    "atoms_text": "第一 血管的弹性变差了 年轻的血管 像有弹性的橡皮管一样 血流冲过来 它能够跟着 收缩舒张 缓冲压力",
+    "needs_animation": true,
+    "label": "弹性血管随血流收缩舒张缓冲压力的过程"
+  },
+  {
+    "global_index": 3918,
+    "seg_id": "S3-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血管弹性变差",
+    "template": "brick_stack",
+    "items": [
+      "长期高盐饮食",
+      "熬夜作息紊乱",
+      "自然年龄增长"
+    ],
+    "atoms_text": "可长期的 高盐饮食 熬夜 年龄的增长 会让血管啊 慢慢的变硬变脆 像老化的塑料硬管一样 一点缓冲力都没有 血流一过 压力自然就上去了",
+    "needs_animation": true,
+    "label": "血管硬化变脆后失去缓冲力导致血压升高"
+  },
+  {
+    "global_index": 3919,
+    "seg_id": "S4-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血容量过高升压",
+    "template": "step_arrow",
+    "items": [
+      "吃盐越多，身体留水越多",
+      "血管内血容量随之增加",
+      "管壁承受压力自然升高"
+    ],
+    "atoms_text": "第二个就是 身体里的水太多了 你吃进去的盐越多 身体里留住的水分就越多 血管里面的血容量 就跟着涨了",
+    "needs_animation": true,
+    "label": "高盐摄入导致体内水分增多血容量升高撑高血压"
+  }
+]

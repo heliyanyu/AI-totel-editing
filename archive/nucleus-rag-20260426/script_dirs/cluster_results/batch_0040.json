@@ -1,0 +1,515 @@
+[
+  {
+    "global_index": 1600,
+    "seg_id": "S3-L1",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "两者核心区别",
+    "template": "split_column",
+    "items": [
+      "氨氯地平",
+      "左氨氯地平",
+      "+ 右旋体共同作用",
+      "仅左旋体单独发挥作用"
+    ],
+    "needs_animation": true,
+    "label": "氨氯地平手性异构体药物作用机制对比"
+  },
+  {
+    "global_index": 1601,
+    "seg_id": "S3-L2",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "两者核心区别",
+    "template": "myth_buster",
+    "items": [
+      "5mg 常规剂量",
+      "2.5mg 降压效果相当",
+      "水肿、脸红副作用发生率较高",
+      "水肿、脸红概率明显降低"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1602,
+    "seg_id": "S4-L1",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "如何选择用药",
+    "template": "hero_text",
+    "items": [
+      "你吃哪个？关键看身体反应"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1603,
+    "seg_id": "S4-L2",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "如何选择用药",
+    "template": "branch_path",
+    "items": [
+      "正在服用氨氯地平",
+      "血压稳定无不适，继续服用",
+      "脚踝水肿/脸红/心慌，考虑换药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1604,
+    "seg_id": "S4-L3",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "如何选择用药",
+    "template": "hero_text",
+    "items": [
+      "与医生商量，换左氨氯地平可减轻水肿"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1605,
+    "seg_id": "S5-L1",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "总结与结尾",
+    "template": "list_fade",
+    "items": [
+      "右旋体对血管内皮有保护作用",
+      "有助于延缓动脉硬化进展"
+    ],
+    "needs_animation": true,
+    "label": "右旋体保护血管内皮延缓动脉硬化机制"
+  },
+  {
+    "global_index": 1606,
+    "seg_id": "S5-L2",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "总结与结尾",
+    "template": "hero_text",
+    "items": [
+      "没有绝对好坏，适合你的才最好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1607,
+    "seg_id": "S5-L3",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "总结与结尾",
+    "template": "hero_text",
+    "items": [
+      "你吃过哪一种？评论区告诉我"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1608,
+    "seg_id": "S1-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "我是张医生"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1609,
+    "seg_id": "S1-L2",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "父母高血压，我也跑不掉？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1610,
+    "seg_id": "S1-L3",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "三十多岁查出高血压，怪遗传？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1611,
+    "seg_id": "S1-L4",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "对了一半，错的那半才能救你"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1612,
+    "seg_id": "S1-L5",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "开场破题",
+    "template": "hero_text",
+    "items": [
+      "今天说清楚这件事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1613,
+    "seg_id": "S2-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "遗传的真相",
+    "template": "number_center",
+    "items": [
+      "2～3倍"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1614,
+    "seg_id": "S2-L2",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "遗传的真相",
+    "template": "hero_text",
+    "items": [
+      "概率高不等于一定会得病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1615,
+    "seg_id": "S2-L3",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "遗传的真相",
+    "template": "split_column",
+    "items": [
+      "以为遗传的是高血压本身",
+      "实为更脆的血管和对盐更敏感的体质",
+      "认为命中注定无法改变",
+      "体质只是起点，不是终点"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1616,
+    "seg_id": "S2-L4",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "遗传的真相",
+    "template": "hero_text",
+    "items": [
+      "老天发了把烂伞，淋不淋雨你说了算"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1617,
+    "seg_id": "S3-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "肥胖如何推高血压",
+    "template": "hero_text",
+    "items": [
+      "真正推你过界的第一点：胖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1618,
+    "seg_id": "S3-L2",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "肥胖如何推高血压",
+    "template": "step_arrow",
+    "items": [
+      "腹部脂肪堆积",
+      "血管硬化弹性下降",
+      "血压持续上升"
+    ],
+    "needs_animation": true,
+    "label": "腹部脂肪堆积导致血管硬化及血压升高的病理过程"
+  },
+  {
+    "global_index": 1619,
+    "seg_id": "S3-L3",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "肥胖如何推高血压",
+    "template": "hero_text",
+    "items": [
+      "三十多岁胖20斤，血压滋滋往上涨"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1620,
+    "seg_id": "S3-L4",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "肥胖如何推高血压",
+    "template": "split_column",
+    "items": [
+      "遗传给你一根容易断的绳子",
+      "肥胖才是那只一直拽绳子的手"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1621,
+    "seg_id": "S4-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "盐的隐形杀伤",
+    "template": "split_column",
+    "items": [
+      "中国人日均吃盐10克",
+      "指南推荐每日不超过5克"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1622,
+    "seg_id": "S4-L2",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "盐的隐形杀伤",
+    "template": "hero_text",
+    "items": [
+      "有遗传背景，吃盐一多血压就飙"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1623,
+    "seg_id": "S4-L3",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "盐的隐形杀伤",
+    "template": "list_fade",
+    "items": [
+      "酱油中的隐形盐",
+      "咸菜中的隐形盐",
+      "外卖里的隐形盐"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1624,
+    "seg_id": "S5-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "熬夜与压力的危害",
+    "template": "step_arrow",
+    "items": [
+      "长期熬夜加持续焦虑",
+      "血管神经持续紧绷激动",
+      "血压居高不下难以恢复"
+    ],
+    "needs_animation": true,
+    "label": "交感神经持续兴奋导致血管收缩血压升高的生理机制"
+  },
+  {
+    "global_index": 1625,
+    "seg_id": "S6-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "起跑线与终点线",
+    "template": "hero_text",
+    "items": [
+      "基因定起跑线，终点你自己说了算"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1626,
+    "seg_id": "S6-L2",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "起跑线与终点线",
+    "template": "myth_buster",
+    "items": [
+      "父母有高血压，自己五十岁血压仍正常",
+      "坚持健康生活，遗传风险可被抵消",
+      "父母无高血压，自己三十岁已开始吃药",
+      "忽视生活方式，无遗传也会早发高血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1627,
+    "seg_id": "S7-L1",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "行动建议收尾",
+    "template": "list_fade",
+    "items": [
+      "每天监测血压，别等到180才急",
+      "控制饮食，胖了就减",
+      "少吃盐，警惕隐形盐",
+      "好好睡觉，别熬夜"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1628,
+    "seg_id": "S7-L2",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "行动建议收尾",
+    "template": "hero_text",
+    "items": [
+      "血压刚偏高时干预，真的可以逆转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1629,
+    "seg_id": "S7-L3",
+    "bp_title": "父母高血压，我一定会遗传吗？",
+    "scene_title": "行动建议收尾",
+    "template": "hero_text",
+    "items": [
+      "基因改不了，但足够决定结果的事你能做到"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1630,
+    "seg_id": "S1-L1",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "医生出场引入",
+    "template": "hero_text",
+    "items": [
+      "我是张医生，今天聊清淡饮食"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1631,
+    "seg_id": "S1-L2",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "医生出场引入",
+    "template": "hero_text",
+    "items": [
+      "医生说清淡，你是不是就喝粥吃馒头"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1632,
+    "seg_id": "S1-L3",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "医生出场引入",
+    "template": "list_fade",
+    "items": [
+      "主食换成粥和馒头",
+      "炒菜只放三滴油",
+      "配一碟小咸菜"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1633,
+    "seg_id": "S1-L4",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "医生出场引入",
+    "template": "hero_text",
+    "items": [
+      "觉得自己已经做到位了？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1634,
+    "seg_id": "S2-L1",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "误区警示",
+    "template": "warning_alert",
+    "items": [
+      "半年后血糖没降，甘油三酯反而更高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1635,
+    "seg_id": "S2-L2",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "误区警示",
+    "template": "hero_text",
+    "items": [
+      "不是不努力，是清淡饮食理解偏了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1636,
+    "seg_id": "S3-L1",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "粥馒头的真相",
+    "template": "myth_buster",
+    "items": [
+      "粥和馒头是最清淡的食物",
+      "它们升血糖比喝糖水还快"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1637,
+    "seg_id": "S3-L2",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "粥馒头的真相",
+    "template": "step_arrow",
+    "items": [
+      "稀粥迅速糊化消化",
+      "血糖快速冲入血液",
+      "餐后血糖滋滋往上升"
+    ],
+    "needs_animation": true,
+    "label": "精制碳水快速消化吸收导致餐后血糖飙升的代谢过程"
+  },
+  {
+    "global_index": 1638,
+    "seg_id": "S3-L3",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "粥馒头的真相",
+    "template": "step_arrow",
+    "items": [
+      "碳水摄入过多用不完",
+      "肝脏将多余碳水存储",
+      "直接转化为甘油三酯"
+    ],
+    "needs_animation": true,
+    "label": "肝脏将多余碳水转化为甘油三酯的代谢通路"
+  },
+  {
+    "global_index": 1639,
+    "seg_id": "S3-L4",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "粥馒头的真相",
+    "template": "hero_text",
+    "items": [
+      "不吃肉不吃油，血脂照样高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

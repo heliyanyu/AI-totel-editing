@@ -1,0 +1,556 @@
+[
+  {
+    "global_index": 1800,
+    "seg_id": "S3-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号二：突然说话含糊",
+    "template": "hero_text",
+    "items": [
+      "突然说话含糊不清"
+    ],
+    "atoms_text": "第二 说话突然含糊不清",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1801,
+    "seg_id": "S3-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号二：突然说话含糊",
+    "template": "list_fade",
+    "items": [
+      "说话大舌头、舌根发硬",
+      "想说的话说不出来",
+      "突然听不懂别人说话"
+    ],
+    "atoms_text": "本来好好的 突然说话就大舌头了 舌根发硬 或者是 想说的话说不出来 又或者是说 别人说的话 突然听不太懂了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1802,
+    "seg_id": "S3-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号二：突然说话含糊",
+    "template": "step_arrow",
+    "items": [
+      "大脑语言中枢缺血",
+      "表达与理解功能障碍"
+    ],
+    "atoms_text": "这都是 大脑语言中枢 供血出了问题",
+    "needs_animation": true,
+    "label": "大脑语言中枢区域供血不足"
+  },
+  {
+    "global_index": 1803,
+    "seg_id": "S3-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号二：突然说话含糊",
+    "template": "warning_alert",
+    "items": [
+      "发现说话异常，立即去医院"
+    ],
+    "atoms_text": "家里人如果发现你 突然说话不对劲儿了 就算你自己觉得没什么 也要赶紧去医院",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1804,
+    "seg_id": "S4-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号三：突然单眼发黑",
+    "template": "hero_text",
+    "items": [
+      "突然一只眼看不清或发黑"
+    ],
+    "atoms_text": "第三 突然一只眼睛看不清 或者是发黑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1805,
+    "seg_id": "S4-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号三：突然单眼发黑",
+    "template": "image_overlay",
+    "items": [
+      "像帘子从上往下拉过",
+      "过一会儿自行恢复"
+    ],
+    "atoms_text": "就像有个帘子 从上往下拉了一下 过一会儿又好了 这叫一过性黑矇",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1806,
+    "seg_id": "S4-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号三：突然单眼发黑",
+    "template": "step_arrow",
+    "items": [
+      "颈动脉或眼动脉供血异常",
+      "视觉通路短暂缺血"
+    ],
+    "atoms_text": "有时候往往是 颈动脉或者是眼动脉 供血出了问题",
+    "needs_animation": true,
+    "label": "颈动脉或眼动脉供血障碍导致一过性黑矇"
+  },
+  {
+    "global_index": 1807,
+    "seg_id": "S4-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号三：突然单眼发黑",
+    "template": "warning_alert",
+    "items": [
+      "一过性黑矇是脑梗重要预警"
+    ],
+    "atoms_text": "是脑梗的非常重要的预警信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1808,
+    "seg_id": "S5-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号四：突然头晕走路不稳",
+    "template": "hero_text",
+    "items": [
+      "突然头晕、走路不稳"
+    ],
+    "atoms_text": "第四 突然头晕 走路不稳",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1809,
+    "seg_id": "S5-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号四：突然头晕走路不稳",
+    "template": "split_column",
+    "items": [
+      "久蹲站起，眼前一黑可缓解",
+      "突发天旋地转，难以站立"
+    ],
+    "atoms_text": "这种晕呢 不是那种久蹲站起来 眼前一黑的那种晕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1810,
+    "seg_id": "S5-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号四：突然头晕走路不稳",
+    "template": "list_fade",
+    "items": [
+      "天旋地转、站立不稳",
+      "走路摇晃如醉酒",
+      "伴有恶心呕吐"
+    ],
+    "atoms_text": "有时候是天旋地转的 站都站不稳 走起路来像醉酒一样 可能还会伴有恶心呕吐",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1811,
+    "seg_id": "S5-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号四：突然头晕走路不稳",
+    "template": "step_arrow",
+    "items": [
+      "后循环血管供血障碍",
+      "小脑与脑干缺血",
+      "平衡与协调功能受损"
+    ],
+    "atoms_text": "这种情况往往提示 大脑的后循环出了问题 也就是给小脑和脑干供血的那些血管出了问题",
+    "needs_animation": true,
+    "label": "后循环血管给小脑和脑干供血障碍"
+  },
+  {
+    "global_index": 1812,
+    "seg_id": "S5-L5",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号四：突然头晕走路不稳",
+    "template": "warning_alert",
+    "items": [
+      "后循环脑梗，必须高度重视"
+    ],
+    "atoms_text": "必须要重视",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1813,
+    "seg_id": "S6-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号五：突然剧烈头痛",
+    "template": "hero_text",
+    "items": [
+      "突然出现前所未有的剧烈头痛"
+    ],
+    "atoms_text": "第五 突然出现的剧烈头痛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1814,
+    "seg_id": "S6-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号五：突然剧烈头痛",
+    "template": "list_fade",
+    "items": [
+      "炸裂感头痛，程度前所未有",
+      "疼痛剧烈伴恶心呕吐"
+    ],
+    "atoms_text": "跟平时的头痛不太一样 是那种从来没有过的炸裂一样的疼 甚至疼到恶心呕吐",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1815,
+    "seg_id": "S6-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号五：突然剧烈头痛",
+    "template": "warning_alert",
+    "items": [
+      "高度警惕脑出血",
+      "蛛网膜下腔出血同样致命"
+    ],
+    "atoms_text": "这种要特别警惕 脑出血或者是蛛网膜下腔出血 跟脑梗死一样致命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1816,
+    "seg_id": "S6-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号五：突然剧烈头痛",
+    "template": "hero_text",
+    "items": [
+      "立刻拨打120，不要犹豫"
+    ],
+    "atoms_text": "赶紧拨打幺二零 千万别犹豫",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1817,
+    "seg_id": "S7-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "关键词：突然",
+    "template": "hero_text",
+    "items": [
+      "五大信号共同关键词：突然"
+    ],
+    "atoms_text": "这五个信号啊 有一个共同的特点 大家注意到了吗 就是突然两个字",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1818,
+    "seg_id": "S7-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "关键词：突然",
+    "template": "list_fade",
+    "items": [
+      "突然肢体麻木无力",
+      "突然说话含糊不清",
+      "突然单眼视力丧失",
+      "突然头晕走路不稳",
+      "突然剧烈头痛"
+    ],
+    "atoms_text": "突然的麻木 突然说不清话 突然看不见 突然头晕走路不稳 突然剧烈头痛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1819,
+    "seg_id": "S7-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "关键词：突然",
+    "template": "warning_alert",
+    "items": [
+      "突发神经症状，哪怕几分钟也要就医"
+    ],
+    "atoms_text": "只要是突然出现的神经系统症状 不管持续多久 哪怕几分钟就好了 都必须尽快到医院",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1820,
+    "seg_id": "S7-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "关键词：突然",
+    "template": "hero_text",
+    "items": [
+      "症状自行消失，是身体最后的机会"
+    ],
+    "atoms_text": "很多人觉得 好了就没事儿了 但那恰恰是 身体给你的最后一次机会",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1821,
+    "seg_id": "S7-L5",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "关键词：突然",
+    "template": "split_column",
+    "items": [
+      "及时就医：检查吃药，轻松处理",
+      "拖延错过：偏瘫甚至更糟后果"
+    ],
+    "atoms_text": "抓住了 可能就是做个检查 吃个药的事儿 错过了 下一次来的可能就是偏瘫 甚至是更糟糕的结果",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1822,
+    "seg_id": "S7-L6",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "关键词：突然",
+    "template": "hero_text",
+    "items": [
+      "认识信号，守护自己和家人健康"
+    ],
+    "atoms_text": "我说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1823,
+    "seg_id": "S1-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "三四十岁的身体警报",
+    "template": "list_fade",
+    "items": [
+      "体检报告问题越来越多",
+      "血压偏高、血脂不正常",
+      "脂肪肝悄然查出来",
+      "熬夜睡不好、白天没精神",
+      "肚子大、爬楼就喘"
+    ],
+    "atoms_text": "你有没有发现啊 明明才三四十岁 体检报告上的问题啊 却越来越多 血压偏高啊 血脂也不正常啊 脂肪肝也查出来了 晚上睡不好 白天没精神 肚子啊越来越大 爬个楼啊 就开始喘",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1824,
+    "seg_id": "S1-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "三四十岁的身体警报",
+    "template": "hero_text",
+    "items": [
+      "到底哪个坏习惯最该先改？"
+    ],
+    "atoms_text": "然后你开始焦虑 开始在网上搜什么 熬夜和抽烟哪个更伤身 胖一点要不要紧 想找出那个最该改的坏习惯 先把它解决了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1825,
+    "seg_id": "S2-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯从不单独出现",
+    "template": "hero_text",
+    "items": [
+      "你一开始就把问题想错了"
+    ],
+    "atoms_text": "但说句实话 你可能从一开始就把这个问题想错了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1826,
+    "seg_id": "S2-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯从不单独出现",
+    "template": "warning_alert",
+    "items": [
+      "四大坏习惯几乎不会单独出现"
+    ],
+    "atoms_text": "因为这四样东西啊 他们几乎不会单独出现",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1827,
+    "seg_id": "S2-L3",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯从不单独出现",
+    "template": "color_grid",
+    "items": [
+      "抽烟的人大概率也喝酒",
+      "经常熬夜的人往往肥胖",
+      "肥胖者通常也不爱运动",
+      "压力大喝酒的人睡不好"
+    ],
+    "atoms_text": "你去观察一下身边的人 抽烟的人大概率会喝酒 经常熬夜的人往往也胖 胖的人啊通常不爱运动 也不太注意饮食 而压力大喝酒的人啊 晚上多半也睡不好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1828,
+    "seg_id": "S2-L4",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯从不单独出现",
+    "template": "hero_text",
+    "items": [
+      "它们不是四个敌人，是一伙的"
+    ],
+    "atoms_text": "他们啊不是四个独立的敌人 他们是一伙的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1829,
+    "seg_id": "S2-L5",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯从不单独出现",
+    "template": "warning_alert",
+    "items": [
+      "叠加伤害不是1+1，是1×10"
+    ],
+    "atoms_text": "而且这更要命的是 他们凑在一起啊 对身体的伤害 不是一加一等于二 而是一乘一等于十",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1830,
+    "seg_id": "S3-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "血管遭受四面夹攻",
+    "template": "hero_text",
+    "items": [
+      "以血管为例，看叠加有多可怕"
+    ],
+    "atoms_text": "我给你举个例子 你就明白了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1831,
+    "seg_id": "S3-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "血管遭受四面夹攻",
+    "template": "hero_text",
+    "items": [
+      "单纯血压偏高，二十年未必出事"
+    ],
+    "atoms_text": "一个人如果只是单纯的血压偏高一点 可能啊 十年二十年不一定会出事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1832,
+    "seg_id": "S3-L3",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "血管遭受四面夹攻",
+    "template": "warning_alert",
+    "items": [
+      "胖＋抽烟＋熬夜，血管四面夹攻"
+    ],
+    "atoms_text": "但如果他同时还胖 还抽烟 还熬夜 那他的血管啊 相当于被四面夹攻",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1833,
+    "seg_id": "S3-L4",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "血管遭受四面夹攻",
+    "template": "brick_stack",
+    "items": [
+      "肥胖：血管内堆满脂肪",
+      "烟草：持续刺激血管内壁",
+      "熬夜：交感神经亢奋血压高",
+      "喝酒：伤肝扰乱血脂代谢"
+    ],
+    "atoms_text": "肥胖让血管里面呢堆满了脂肪 烟草里的有害物质不断刺激血管内壁 然后熬夜让交感神经持续兴奋 血压居高不下 再加上喝酒伤肝 影响了血脂的代谢",
+    "needs_animation": true,
+    "label": "肥胖致血管内脂肪堆积+烟草刺激血管内壁+熬夜致交感神经兴奋血压升高+酒精伤肝影响血脂代谢"
+  },
+  {
+    "global_index": 1834,
+    "seg_id": "S3-L5",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "血管遭受四面夹攻",
+    "template": "step_arrow",
+    "items": [
+      "四大因素同时叠加",
+      "动脉硬化速度大幅加快",
+      "心梗脑梗提前十几年"
+    ],
+    "atoms_text": "这些因素叠加在一起 动脉硬化速度会比单一的因素快得多 心梗啊脑梗 来的时间可能直接提前十几年",
+    "needs_animation": true,
+    "label": "多因素叠加加速动脉硬化进程"
+  },
+  {
+    "global_index": 1835,
+    "seg_id": "S3-L6",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "血管遭受四面夹攻",
+    "template": "warning_alert",
+    "items": [
+      "四十岁就遭遇五六十岁的病"
+    ],
+    "atoms_text": "你以为五六十岁才需要担心的事 四十岁就可以找上门来了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1836,
+    "seg_id": "S4-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "癌症风险同样叠加",
+    "template": "hero_text",
+    "items": [
+      "叠加风险不只伤心血管，癌症也一样"
+    ],
+    "atoms_text": "其实不只是心血管 癌症也是一样",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1837,
+    "seg_id": "S4-L2",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "癌症风险同样叠加",
+    "template": "color_grid",
+    "items": [
+      "吸烟：公认的致癌物",
+      "酒精：一级致癌物",
+      "肥胖：引发长期慢性发炎",
+      "熬夜：削弱免疫监控能力"
+    ],
+    "atoms_text": "抽烟致癌 酒精也是一级致癌物 肥胖让身体长期慢性发炎 熬夜削弱了免疫监控的能力",
+    "needs_animation": true,
+    "label": "肥胖引发身体慢性炎症反应+熬夜削弱免疫监控能力"
+  },
+  {
+    "global_index": 1838,
+    "seg_id": "S4-L3",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "癌症风险同样叠加",
+    "template": "step_arrow",
+    "items": [
+      "每天都有异常细胞冒出",
+      "正常时免疫细胞及时清除",
+      "四面楚歌时漏网概率大增"
+    ],
+    "atoms_text": "你的身体每天都会有异常细胞冒出来 正常情况下免疫细胞会清除掉 但当你四面楚歌的时候 漏网的概率啊就大了",
+    "needs_animation": true,
+    "label": "免疫细胞清除异常细胞的机制被多重因素破坏"
+  },
+  {
+    "global_index": 1839,
+    "seg_id": "S5-L1",
+    "bp_title": "别问哪个坏习惯危害最大，它们是一伙的",
+    "scene_title": "坏习惯联动，改变也联动",
+    "template": "hero_text",
+    "items": [
+      "哪个危害最大？这个问题问错了"
+    ],
+    "atoms_text": "所以你问我哪个危害最大 我没有办法回答你",
+    "needs_animation": false,
+    "label": ""
+  }
+]

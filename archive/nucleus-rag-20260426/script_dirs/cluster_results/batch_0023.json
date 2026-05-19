@@ -1,0 +1,523 @@
+[
+  {
+    "global_index": 920,
+    "seg_id": "S2-L4",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "list_fade",
+    "items": [
+      "心电图曾提示异常",
+      "血压长期偏高",
+      "血糖在临界值徘徊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 921,
+    "seg_id": "S2-L5",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "warning_alert",
+    "items": [
+      "多重问题叠加是心脏在高风险下运转的信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 922,
+    "seg_id": "S2-L6",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "list_fade",
+    "items": [
+      "家族有猝死或早发心脏病史",
+      "往往无明显症状最易被忽略",
+      "遗传因素让心脏风险阈值天然偏低"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 923,
+    "seg_id": "S2-L7",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "hero_text",
+    "items": [
+      "有家族心脏病史，运动前必须认真评估"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 924,
+    "seg_id": "S2-L8",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "list_fade",
+    "items": [
+      "运动时喘得比别人厉害得多",
+      "心脏偶尔咯噔一下",
+      "爬两层楼就需要停下来缓一缓"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 925,
+    "seg_id": "S2-L9",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "myth_buster",
+    "items": [
+      "喘不过气是体力太差",
+      "这是心脏在发出求救信号",
+      "爬楼腿软是太久没运动",
+      "这是心脏承受能力下降的警报"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 926,
+    "seg_id": "S2-L10",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "brick_stack",
+    "items": [
+      "运动喘息明显异于常人",
+      "心脏偶发咯噔感",
+      "轻微活动即需停歇恢复",
+      "心脏已在用极限方式求救"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 927,
+    "seg_id": "S2-L11",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "hero_text",
+    "items": [
+      "这不是体能问题，是心脏在说\"我快撑不住了\""
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 928,
+    "seg_id": "S3-L1",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "怎么运动才更安心",
+    "template": "hero_text",
+    "items": [
+      "没有风险因素的人，该怎么科学运动？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 929,
+    "seg_id": "S3-L2",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "怎么运动才更安心",
+    "template": "step_arrow",
+    "items": [
+      "运动前热身十分钟，给心脏缓冲时间",
+      "运动中能说话但说不了完整歌词",
+      "运动后慢走五到十分钟，平稳降心率",
+      "避免骤然停止或马上冲冷水澡喝冰水"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 930,
+    "seg_id": "S3-L3",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "怎么运动才更安心",
+    "template": "hero_text",
+    "items": [
+      "能说话、说不了歌词，这个强度最安全"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 931,
+    "seg_id": "S3-L4",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "怎么运动才更安心",
+    "template": "warning_alert",
+    "items": [
+      "心率未稳、血管扩张时突然受冷是额外冲击"
+    ],
+    "needs_animation": true,
+    "label": "运动后血管扩张遇冷收缩机制"
+  },
+  {
+    "global_index": 932,
+    "seg_id": "S3-L5",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "怎么运动才更安心",
+    "template": "split_column",
+    "items": [
+      "/ 冲冷水澡",
+      "慢走五到十分钟降心率",
+      "血管扩张遇冷，额外冲击心脏",
+      "心率平稳回落，心脏安全过渡"
+    ],
+    "needs_animation": true,
+    "label": "运动后血管扩张遇冷收缩机制"
+  },
+  {
+    "global_index": 933,
+    "seg_id": "S3-L6",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "怎么运动才更安心",
+    "template": "number_center",
+    "items": [
+      "150"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 934,
+    "seg_id": "S4-L1",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "写给每一个想动起来的人",
+    "template": "hero_text",
+    "items": [
+      "运动本身没有错，错的是不匹配的强度"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 935,
+    "seg_id": "S4-L2",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "写给每一个想动起来的人",
+    "template": "hero_text",
+    "items": [
+      "我现在的状态，配得上我想要的运动强度吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 936,
+    "seg_id": "S4-L3",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "写给每一个想动起来的人",
+    "template": "hero_text",
+    "items": [
+      "动起来之前，先认真看一眼自己的心脏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 937,
+    "seg_id": "S1-L1",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是毒药还是宝？",
+    "template": "hero_text",
+    "items": [
+      "今天聊点刺激的——血脂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 938,
+    "seg_id": "S1-L2",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是毒药还是宝？",
+    "template": "list_fade",
+    "items": [
+      "他汀会不会伤肝？",
+      "他汀会不会损害肌肉？",
+      "我能不能不吃他汀？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 939,
+    "seg_id": "S1-L3",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是毒药还是宝？",
+    "template": "myth_buster",
+    "items": [
+      "患者把他汀当毒药",
+      "医生把他汀当个宝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 940,
+    "seg_id": "S2-L1",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是血管清洁工",
+    "template": "split_column",
+    "items": [
+      "血管就像一条小河",
+      "血脂就是河里的淤泥"
+    ],
+    "needs_animation": true,
+    "label": "血管内脂质（低密度脂蛋白）沉积过程"
+  },
+  {
+    "global_index": 941,
+    "seg_id": "S2-L2",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是血管清洁工",
+    "template": "step_arrow",
+    "items": [
+      "日夜不停铲除淤泥",
+      "清除垃圾防止河床堵塞",
+      "预防心梗和脑梗发生"
+    ],
+    "needs_animation": true,
+    "label": "他汀类药物清除血管内脂质机制"
+  },
+  {
+    "global_index": 942,
+    "seg_id": "S2-L3",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是血管清洁工",
+    "template": "warning_alert",
+    "items": [
+      "工作太卖力，容易累出工伤"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 943,
+    "seg_id": "S2-L4",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是血管清洁工",
+    "template": "hero_text",
+    "items": [
+      "想让他安心干活，记住三条江湖规矩"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 944,
+    "seg_id": "S3-L1",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩一：戒酒护肝",
+    "template": "body_annotate",
+    "items": [
+      "他汀主要在肝脏干活",
+      "酗酒相当于往河里倒工业废水",
+      "双重负担导致转氨酶升高"
+    ],
+    "needs_animation": true,
+    "label": "他汀类药物肝脏代谢过程"
+  },
+  {
+    "global_index": 945,
+    "seg_id": "S3-L2",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩一：戒酒护肝",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 946,
+    "seg_id": "S3-L3",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩一：戒酒护肝",
+    "template": "warning_alert",
+    "items": [
+      "服药期间千万不能酗酒",
+      "让清洁工在好环境里放心干活"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 947,
+    "seg_id": "S3-L4",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩一：戒酒护肝",
+    "template": "hero_text",
+    "items": [
+      "能不喝酒，就不要喝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 948,
+    "seg_id": "S4-L1",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩二：远离西柚",
+    "template": "hero_text",
+    "items": [
+      "西柚是他汀眼里的迷魂汤"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 949,
+    "seg_id": "S4-L2",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩二：远离西柚",
+    "template": "step_arrow",
+    "items": [
+      "西柚成分让他汀浓度骤升",
+      "清洁工血管里疯狂加班",
+      "肌肉酸痛甚至横纹肌溶解"
+    ],
+    "needs_animation": true,
+    "label": "西柚抑制他汀代谢致药物浓度升高机制"
+  },
+  {
+    "global_index": 950,
+    "seg_id": "S4-L3",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩二：远离西柚",
+    "template": "split_column",
+    "items": [
+      "橙子柚子随便吃",
+      "西柚服药期间需避开"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 951,
+    "seg_id": "S4-L4",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩二：远离西柚",
+    "template": "number_center",
+    "items": [
+      "1.2"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 952,
+    "seg_id": "S5-L1",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩三：不能擅自停药",
+    "template": "warning_alert",
+    "items": [
+      "血脂正常了就停药，是大错误"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 953,
+    "seg_id": "S5-L2",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩三：不能擅自停药",
+    "template": "step_arrow",
+    "items": [
+      "河道刚打通就辞退清洁工",
+      "淤泥血脂反弹比原来还猛",
+      "心脑血管风险重新升高"
+    ],
+    "needs_animation": true,
+    "label": "擅自停用他汀后血脂反弹与血管再狭窄"
+  },
+  {
+    "global_index": 954,
+    "seg_id": "S5-L3",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩三：不能擅自停药",
+    "template": "branch_path",
+    "items": [
+      "是否需要停药？",
+      "听医生判断再决定",
+      "自行停药危害极大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 955,
+    "seg_id": "S6-L1",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "总结：他汀是个宝",
+    "template": "list_fade",
+    "items": [
+      "服药期间戒酒护肝",
+      "远离西柚防肌肉损伤",
+      "遵医嘱用药不擅自停",
+      "肌肉酸痛及时就医",
+      "长期用药保护心脑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 956,
+    "seg_id": "S1-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "颠覆认知开场",
+    "template": "hero_text",
+    "items": [
+      "运动其实会直接伤害血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 957,
+    "seg_id": "S1-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "颠覆认知开场",
+    "template": "myth_buster",
+    "items": [
+      "运动等于健康，动越多越好",
+      "过量运动为何会猝死",
+      "跑得越快越牛",
+      "怎么判断自己练过头了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 958,
+    "seg_id": "S1-L3",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "颠覆认知开场",
+    "template": "hero_text",
+    "items": [
+      "过量运动为什么会猝死"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 959,
+    "seg_id": "S1-L4",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "颠覆认知开场",
+    "template": "hero_text",
+    "items": [
+      "今天把这件事讲清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

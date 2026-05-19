@@ -1,0 +1,516 @@
+[
+  {
+    "global_index": 3840,
+    "seg_id": "S4-L6",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "尿路梗阻危害",
+    "template": "list_fade",
+    "items": [
+      "尤其是中老年男性",
+      "排尿不顺畅的时候",
+      "千万别隐藏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3841,
+    "seg_id": "S5-L1",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "横纹肌溶解",
+    "template": "step_arrow",
+    "items": [
+      "平时缺乏锻炼",
+      "突然剧烈运动",
+      "肌红蛋白入血"
+    ],
+    "needs_animation": true,
+    "label": "横纹肌溶解致肌红蛋白入血过程"
+  },
+  {
+    "global_index": 3842,
+    "seg_id": "S5-L2",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "横纹肌溶解",
+    "template": "warning_alert",
+    "items": [
+      "尿液呈酱油色",
+      "立即去医院检查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3843,
+    "seg_id": "S5-L3",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "横纹肌溶解",
+    "template": "list_fade",
+    "items": [
+      "肌肉大量的损伤",
+      "肌红蛋白就会跑到血液里面",
+      "堵塞到肾小管"
+    ],
+    "needs_animation": true,
+    "label": "肌红蛋白堵塞肾小管过程"
+  },
+  {
+    "global_index": 3844,
+    "seg_id": "S5-L4",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "横纹肌溶解",
+    "template": "list_fade",
+    "items": [
+      "如果你剧烈运动之后",
+      "发现尿液变成酱油色"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3845,
+    "seg_id": "S5-L5",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "横纹肌溶解",
+    "template": "hero_text",
+    "items": [
+      "这就是一个比较危险的信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3846,
+    "seg_id": "S5-L6",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "横纹肌溶解",
+    "template": "hero_text",
+    "items": [
+      "需要马上去医院看一看"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3847,
+    "seg_id": "S6-L1",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "严重感染威胁",
+    "template": "category_table",
+    "items": [
+      "老年人群体",
+      "糖尿病患者"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3848,
+    "seg_id": "S6-L2",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "严重感染威胁",
+    "template": "step_arrow",
+    "items": [
+      "局部感染失控",
+      "引发全身感染",
+      "免疫系统失控"
+    ],
+    "needs_animation": true,
+    "label": "脓毒症全身炎症反应过程"
+  },
+  {
+    "global_index": 3849,
+    "seg_id": "S6-L3",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "严重感染威胁",
+    "template": "step_arrow",
+    "items": [
+      "微血管被破坏",
+      "肾功能急剧下降"
+    ],
+    "needs_animation": true,
+    "label": "脓毒症致肾脏微血管损伤过程"
+  },
+  {
+    "global_index": 3850,
+    "seg_id": "S6-L4",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "严重感染威胁",
+    "template": "number_center",
+    "items": [
+      "24-48"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3851,
+    "seg_id": "S6-L5",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "严重感染威胁",
+    "template": "hero_text",
+    "items": [
+      "你的免疫系统就有可能彻底失控"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3852,
+    "seg_id": "S6-L6",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "严重感染威胁",
+    "template": "hero_text",
+    "items": [
+      "连自己的器官也会一起伤害"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3853,
+    "seg_id": "S6-L7",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "严重感染威胁",
+    "template": "list_fade",
+    "items": [
+      "一旦肾脏的微血管被破坏",
+      "肾功能就有可能急剧的下降"
+    ],
+    "needs_animation": true,
+    "label": "脓毒症致肾脏微血管损伤过程"
+  },
+  {
+    "global_index": 3854,
+    "seg_id": "S6-L8",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "严重感染威胁",
+    "template": "list_fade",
+    "items": [
+      "急性肾损伤的黄金窗口",
+      "可能就在二十四到四十八小时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3855,
+    "seg_id": "S7-L1",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "总结与呼吁",
+    "template": "hero_text",
+    "items": [
+      "记住五凶手保肾"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3856,
+    "seg_id": "S7-L2",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "总结与呼吁",
+    "template": "hero_text",
+    "items": [
+      "我都说明白了吗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3857,
+    "seg_id": "S1-L1",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "最害人的谣言",
+    "template": "myth_buster",
+    "items": [
+      "肾病不能吃肉",
+      "流传最广的有害谣言"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3858,
+    "seg_id": "S1-L2",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "最害人的谣言",
+    "template": "warning_alert",
+    "items": [
+      "大鱼大肉加速肾功能下降"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3859,
+    "seg_id": "S1-L3",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "最害人的谣言",
+    "template": "myth_buster",
+    "items": [
+      "过度吃肉伤肾",
+      "一口肉不碰同样危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3860,
+    "seg_id": "S1-L4",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "最害人的谣言",
+    "template": "step_arrow",
+    "items": [
+      "拒绝一切蛋白质摄入",
+      "身体被迫分解自身肌肉",
+      "免疫力下降抵抗力崩溃"
+    ],
+    "needs_animation": true,
+    "label": "蛋白质缺乏致肌肉分解代谢过程"
+  },
+  {
+    "global_index": 3861,
+    "seg_id": "S1-L5",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "最害人的谣言",
+    "template": "warning_alert",
+    "items": [
+      "肌肉流失人体消瘦",
+      "普通感冒可能拖成肺炎"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3862,
+    "seg_id": "S2-L1",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "吃蛋白质的核心原则",
+    "template": "hero_text",
+    "items": [
+      "肾病吃蛋白质核心：精准"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3863,
+    "seg_id": "S2-L2",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "吃蛋白质的核心原则",
+    "template": "split_column",
+    "items": [
+      "按肾功能分期调整",
+      "同时兼顾量与种类"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3864,
+    "seg_id": "S3-L1",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "一二期：接近正常饮食",
+    "template": "category_table",
+    "items": [
+      "肾功能基本正常",
+      "仅有轻微蛋白尿"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3865,
+    "seg_id": "S3-L2",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "一二期：接近正常饮食",
+    "template": "number_center",
+    "items": [
+      "0.8～1"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3866,
+    "seg_id": "S4-L1",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "vertical_timeline",
+    "items": [
+      "三四期：肌酐明显升高",
+      "尚未开始透析治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3867,
+    "seg_id": "S4-L2",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "number_center",
+    "items": [
+      "0.6～0.8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3868,
+    "seg_id": "S4-L3",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "list_fade",
+    "items": [
+      "每天一个鸡蛋",
+      "每天一杯牛奶",
+      "手掌心大小的瘦肉一两多"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3869,
+    "seg_id": "S4-L4",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "hero_text",
+    "items": [
+      "有限配额中优质蛋白须过半"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3870,
+    "seg_id": "S4-L5",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "color_grid",
+    "items": [
+      "蛋",
+      "奶",
+      "鱼与瘦肉",
+      "大豆制品适量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3871,
+    "seg_id": "S4-L6",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "step_arrow",
+    "items": [
+      "必需氨基酸种类更齐全",
+      "身体利用率更高",
+      "同等量更满足身体需求"
+    ],
+    "needs_animation": true,
+    "label": "优质蛋白质氨基酸吸收利用机制"
+  },
+  {
+    "global_index": 3872,
+    "seg_id": "S4-L7",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "split_column",
+    "items": [
+      "鱼肉蛋奶氨基酸全面",
+      "米面馒头氨基酸不齐全"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3873,
+    "seg_id": "S4-L8",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "hero_text",
+    "items": [
+      "把蛋白质额度花在刀刃上"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3874,
+    "seg_id": "S4-L9",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "step_arrow",
+    "items": [
+      "部分主食换成低蛋白淀粉食品",
+      "主食蛋白占用额度降低",
+      "更多配额留给肉蛋奶"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3875,
+    "seg_id": "S4-L10",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "三四期：限量精准吃",
+    "template": "hero_text",
+    "items": [
+      "省出额度，优先补充优质蛋白"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3876,
+    "seg_id": "S5-L1",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "五期透析：反向补充",
+    "template": "hero_text",
+    "items": [
+      "进入透析，饮食策略需反转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3877,
+    "seg_id": "S5-L2",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "五期透析：反向补充",
+    "template": "step_arrow",
+    "items": [
+      "透析过滤代谢废物",
+      "同时带走氨基酸与蛋白质",
+      "蛋白质持续流失需补充"
+    ],
+    "needs_animation": true,
+    "label": "血液透析过滤蛋白质流失过程"
+  },
+  {
+    "global_index": 3878,
+    "seg_id": "S5-L3",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "五期透析：反向补充",
+    "template": "number_center",
+    "items": [
+      "1.0～1.2"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3879,
+    "seg_id": "S5-L4",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "五期透析：反向补充",
+    "template": "warning_alert",
+    "items": [
+      "营养跟不上透析效果大打折扣"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

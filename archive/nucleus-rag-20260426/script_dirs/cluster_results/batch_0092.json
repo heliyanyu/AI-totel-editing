@@ -1,0 +1,531 @@
+[
+  {
+    "global_index": 3680,
+    "seg_id": "S6-L4",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第二步：规范用药",
+    "template": "warning_alert",
+    "items": [
+      "药物搭配方案务必遵医嘱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3681,
+    "seg_id": "S7-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第三步与终极手段",
+    "template": "list_fade",
+    "items": [
+      "规律透析可清除血磷",
+      "每次做够时间，不偷工减料"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3682,
+    "seg_id": "S7-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "第三步与终极手段",
+    "template": "branch_path",
+    "items": [
+      "饮食、药物、透析仍控制不住",
+      "手术切除亢进的甲状旁腺",
+      "微创消融从根源解决问题"
+    ],
+    "needs_animation": true,
+    "label": "甲状旁腺切除与微创消融手术过程"
+  },
+  {
+    "global_index": 3683,
+    "seg_id": "S8-L1",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "监测提醒与总结",
+    "template": "vertical_timeline",
+    "items": [
+      "→ 查血钙、血磷、PTH",
+      "→ 立即听从医生调整方案",
+      "→ 及时告知医生"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3684,
+    "seg_id": "S8-L2",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "监测提醒与总结",
+    "template": "warning_alert",
+    "items": [
+      "甲旁亢早期毫无感觉，更要主动筛查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3685,
+    "seg_id": "S8-L3",
+    "bp_title": "透析患者骨痛皮痒？小心继发性甲旁亢",
+    "scene_title": "监测提醒与总结",
+    "template": "hero_text",
+    "items": [
+      "管磷、用药、好好透析，剩下交给医生"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3686,
+    "seg_id": "S1-L1",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "开篇引入主题",
+    "template": "hero_text",
+    "items": [
+      "久坐到底有多伤身体？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3687,
+    "seg_id": "S1-L2",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "开篇引入主题",
+    "template": "hero_text",
+    "items": [
+      "久坐危害远超你的想象"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3688,
+    "seg_id": "S2-L1",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "久坐对心血管的危害",
+    "template": "step_arrow",
+    "items": [
+      "长时间久坐不动",
+      "下肢血流速度变慢",
+      "脂质沉积在血管壁",
+      "形成深静脉血栓"
+    ],
+    "needs_animation": true,
+    "label": "久坐致下肢深静脉血栓形成过程"
+  },
+  {
+    "global_index": 3689,
+    "seg_id": "S2-L2",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "久坐对心血管的危害",
+    "template": "warning_alert",
+    "items": [
+      "血栓脱落可引发肺栓塞",
+      "严重肺栓塞可直接致命"
+    ],
+    "needs_animation": true,
+    "label": "深静脉血栓脱落引发肺栓塞"
+  },
+  {
+    "global_index": 3690,
+    "seg_id": "S3-L1",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "久坐对代谢的负面影响",
+    "template": "step_arrow",
+    "items": [
+      "久坐进入低功耗模式",
+      "热量消耗降到最低",
+      "胰岛素敏感性下降",
+      "血糖水平容易波动"
+    ],
+    "needs_animation": true,
+    "label": "久坐导致胰岛素敏感性下降与血糖调节异常"
+  },
+  {
+    "global_index": 3691,
+    "seg_id": "S3-L2",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "久坐对代谢的负面影响",
+    "template": "number_center",
+    "items": [
+      "8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3692,
+    "seg_id": "S4-L1",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "久坐科学应对方法",
+    "template": "hero_text",
+    "items": [
+      "核心原则：打断久坐"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3693,
+    "seg_id": "S4-L2",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "久坐科学应对方法",
+    "template": "list_fade",
+    "items": [
+      "每坐45到60分钟起身",
+      "接水如厕简单走动",
+      "每次活动仅需2-3分钟",
+      "可促血流回升代谢恢复"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3694,
+    "seg_id": "S5-L1",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "核心内容总结",
+    "template": "list_fade",
+    "items": [
+      "损伤心血管功能",
+      "降低整体代谢水平",
+      "伤害腰椎颈椎健康"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3695,
+    "seg_id": "S5-L2",
+    "bp_title": "久坐的危害与正确应对指南",
+    "scene_title": "核心内容总结",
+    "template": "hero_text",
+    "items": [
+      "每45分钟起身是低成本健康习惯"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3696,
+    "seg_id": "S1-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "你是不是也有这个问题",
+    "template": "hero_text",
+    "items": [
+      "没多喝水，却总想跑厕所"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3697,
+    "seg_id": "S1-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "你是不是也有这个问题",
+    "template": "warning_alert",
+    "items": [
+      "频繁尿意可能是身体的警报"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3698,
+    "seg_id": "S1-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "你是不是也有这个问题",
+    "template": "number_center",
+    "items": [
+      "4~6"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3699,
+    "seg_id": "S1-L4",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "你是不是也有这个问题",
+    "template": "warning_alert",
+    "items": [
+      "白天超8次或夜间超2次",
+      "单次尿量少且持续1~2天"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3700,
+    "seg_id": "S1-L5",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "你是不是也有这个问题",
+    "template": "split_column",
+    "items": [
+      "生理性尿频",
+      "病理性尿频",
+      "调整生活即可缓解",
+      "需要就医规范治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3701,
+    "seg_id": "S2-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "生理性尿频的三大原因",
+    "template": "hero_text",
+    "items": [
+      "生理性尿频，调整即可好转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3702,
+    "seg_id": "S2-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "生理性尿频的三大原因",
+    "template": "color_grid",
+    "items": [
+      "短时间大量饮水果汁饮料",
+      "代谢加快，尿量自然增多"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3703,
+    "seg_id": "S2-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "生理性尿频的三大原因",
+    "template": "color_grid",
+    "items": [
+      "气温低，抗利尿激素分泌减少",
+      "冬天如厕次数明显增多"
+    ],
+    "needs_animation": true,
+    "label": "低温下抗利尿激素分泌减少导致尿量增多"
+  },
+  {
+    "global_index": 3704,
+    "seg_id": "S2-L4",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "生理性尿频的三大原因",
+    "template": "color_grid",
+    "items": [
+      "焦虑压力大，交感神经兴奋",
+      "膀胱敏感，微量尿意就想排"
+    ],
+    "needs_animation": true,
+    "label": "交感神经兴奋致膀胱敏感性增高"
+  },
+  {
+    "global_index": 3705,
+    "seg_id": "S2-L5",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "生理性尿频的三大原因",
+    "template": "branch_path",
+    "items": [
+      "每次尿量正常，无尿急尿痛",
+      "调整饮水与心态，1~2天缓解",
+      "未缓解或有其他症状，需就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3706,
+    "seg_id": "S3-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频一：泌尿道感染",
+    "template": "hero_text",
+    "items": [
+      "有其他不适，就要警惕病理性尿频"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3707,
+    "seg_id": "S3-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频一：泌尿道感染",
+    "template": "brick_stack",
+    "items": [
+      "细菌进入泌尿道繁殖产毒素",
+      "黏膜受到刺激，膀胱持续有尿意",
+      "女性尿道短直，感染风险更高"
+    ],
+    "needs_animation": true,
+    "label": "细菌侵入泌尿道繁殖致黏膜炎症反应"
+  },
+  {
+    "global_index": 3708,
+    "seg_id": "S3-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频一：泌尿道感染",
+    "template": "list_fade",
+    "items": [
+      "性生活频繁的女性",
+      "经期及绝经期后女性",
+      "长期憋尿的人",
+      "个人卫生习惯不佳者"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3709,
+    "seg_id": "S3-L4",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频一：泌尿道感染",
+    "template": "list_fade",
+    "items": [
+      "排尿时有烧灼样疼痛",
+      "尿液浑浊，频繁上厕所",
+      "部分伴有低热",
+      "感染上行至肾脏可出现腰痛高烧"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3710,
+    "seg_id": "S4-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频二：前列腺问题",
+    "template": "number_center",
+    "items": [
+      "60%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3711,
+    "seg_id": "S4-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频二：前列腺问题",
+    "template": "step_arrow",
+    "items": [
+      "前列腺增生压迫尿道",
+      "膀胱残余尿增多",
+      "尿频夜尿多，排尿困难尿不尽"
+    ],
+    "needs_animation": true,
+    "label": "前列腺增生压迫尿道致排尿障碍"
+  },
+  {
+    "global_index": 3712,
+    "seg_id": "S4-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频二：前列腺问题",
+    "template": "warning_alert",
+    "items": [
+      "前列腺炎同样引发尿频",
+      "伴有小腹坠胀及尿急感"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3713,
+    "seg_id": "S5-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频三：膀胱过度活动症",
+    "template": "step_arrow",
+    "items": [
+      "膀胱逼尿肌异常收缩",
+      "出现尿频尿急甚至漏尿",
+      "尿常规检查大多正常"
+    ],
+    "needs_animation": true,
+    "label": "膀胱逼尿肌异常收缩机制"
+  },
+  {
+    "global_index": 3714,
+    "seg_id": "S5-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频三：膀胱过度活动症",
+    "template": "number_center",
+    "items": [
+      "10%~15%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3715,
+    "seg_id": "S5-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频三：膀胱过度活动症",
+    "template": "split_column",
+    "items": [
+      "泌尿感染",
+      "膀胱过度活动症",
+      "尿常规有感染证据",
+      "尿常规通常无异常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3716,
+    "seg_id": "S6-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频四：糖尿病",
+    "template": "step_arrow",
+    "items": [
+      "血糖升高超过肾糖阈",
+      "葡萄糖无法完全重吸收",
+      "渗透性利尿，尿多且频繁"
+    ],
+    "needs_animation": true,
+    "label": "血糖超肾糖阈致渗透性利尿过程"
+  },
+  {
+    "global_index": 3717,
+    "seg_id": "S6-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频四：糖尿病",
+    "template": "list_fade",
+    "items": [
+      "多尿",
+      "多饮",
+      "多食",
+      "体重下降"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3718,
+    "seg_id": "S7-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频五：结石与肿瘤",
+    "template": "warning_alert",
+    "items": [
+      "结石和肿瘤虽少见，切勿忽视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3719,
+    "seg_id": "S7-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频五：结石与肿瘤",
+    "template": "list_fade",
+    "items": [
+      "刺激划伤膀胱黏膜和尿道",
+      "可能出现血尿",
+      "排尿中断"
+    ],
+    "needs_animation": true,
+    "label": "结石或肿瘤刺激膀胱黏膜致血尿"
+  }
+]

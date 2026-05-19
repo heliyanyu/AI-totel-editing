@@ -1,0 +1,550 @@
+[
+  {
+    "global_index": 440,
+    "seg_id": "S2-L7",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "list_fade",
+    "items": [
+      "交感神经持续高度警惕",
+      "心率偏快、肌肉紧绷",
+      "呼吸浅快"
+    ],
+    "atoms_text": "支架放完呢 血管通了 但恐惧没有消失",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 441,
+    "seg_id": "S2-L8",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "step_arrow",
+    "items": [
+      "交感神经亢奋",
+      "心率快、肌肉紧",
+      "胸闷、心慌、乏力"
+    ],
+    "atoms_text": "你的交感神经一直在高度警惕 你的心率偏快 你的肌肉紧绷着 你的呼吸是浅快的",
+    "needs_animation": true,
+    "label": "交感神经持续兴奋导致心率加快、肌肉紧绷、呼吸浅快"
+  },
+  {
+    "global_index": 442,
+    "seg_id": "S2-L9",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "hero_text",
+    "items": [
+      "胸闷乏力，是焦虑的躯体化表现"
+    ],
+    "atoms_text": "你就觉得哎 胸闷心慌乏力",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 443,
+    "seg_id": "S2-L10",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "不舒服是真的，但不是心脏问题",
+    "template": "myth_buster",
+    "items": [
+      "这是在装，在矫情",
+      "这是焦虑在身体上的真实反应"
+    ],
+    "atoms_text": "这不是装的 也不是矫情 是焦虑在身体上的真实的表现",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 444,
+    "seg_id": "S3-L1",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "越怕越来，恶性循环",
+    "template": "hero_text",
+    "items": [
+      "越害怕，它就越来"
+    ],
+    "atoms_text": "第二句实话就是 你越害怕它 它就越来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 445,
+    "seg_id": "S3-L2",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "越怕越来，恶性循环",
+    "template": "step_arrow",
+    "items": [
+      "胸闷出现，立刻紧张",
+      "交感神经更兴奋，心跳更快",
+      "胸闷感更明显，更加害怕"
+    ],
+    "atoms_text": "你胸闷一下 哎马上紧张了 一紧张 交感神经更兴奋了 心跳更快了 呼吸更浅了 胸闷感就更加明显了",
+    "needs_animation": true,
+    "label": "紧张激活交感神经→心跳加快→呼吸变浅→胸闷加重的反馈环路"
+  },
+  {
+    "global_index": 446,
+    "seg_id": "S3-L3",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "越怕越来，恶性循环",
+    "template": "hero_text",
+    "items": [
+      "越来越怕，觉得果然是心脏问题"
+    ],
+    "atoms_text": "然后你就更害怕了 觉得哎 果然是心脏的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 447,
+    "seg_id": "S3-L4",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "越怕越来，恶性循环",
+    "template": "hero_text",
+    "items": [
+      "恶性循环就这么转起来了"
+    ],
+    "atoms_text": "那恶性循环 不就这么转起来了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 448,
+    "seg_id": "S3-L5",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "越怕越来，恶性循环",
+    "template": "myth_buster",
+    "items": [
+      "是心脏病困住了你",
+      "是对心脏病的恐惧困住了你"
+    ],
+    "atoms_text": "你不是被心脏病困住了 你是被对心脏病的恐惧困住了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 449,
+    "seg_id": "S4-L1",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "生活方式在加重问题",
+    "template": "hero_text",
+    "items": [
+      "生活方式正在让问题变得更重"
+    ],
+    "atoms_text": "第三句实话就是 你现在的生活方式在加重问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 450,
+    "seg_id": "S4-L2",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "生活方式在加重问题",
+    "template": "list_fade",
+    "items": [
+      "不敢运动，整天窝在家",
+      "不敢出门，闭门不出",
+      "反复刷手机查症状"
+    ],
+    "atoms_text": "很多人术后 什么都不敢做了 不敢运动 不敢出门 整天窝在家里 刷手机查症状",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 451,
+    "seg_id": "S4-L3",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "生活方式在加重问题",
+    "template": "step_arrow",
+    "items": [
+      "越不动，越没力气",
+      "越不出门，越焦虑害怕",
+      "以为在保护自己，其实越陷越深"
+    ],
+    "atoms_text": "越不动越没力气 越不出门越焦虑 越害怕越查 以为自己在保护自己 其实是把自己往更深的坑里面推",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 452,
+    "seg_id": "S5-L1",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "怎么走出来？"
+    ],
+    "atoms_text": "那该怎么走出呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 453,
+    "seg_id": "S5-L2",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "把复查结果当回事，相信它"
+    ],
+    "atoms_text": "首先啊 把复查的结果当回事 你花了钱 做了检查 结果是好的 那就应该相信这个结果",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 454,
+    "seg_id": "S5-L3",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "myth_buster",
+    "items": [
+      "做完检查，过两天又开始怀疑",
+      "结果是好的，就应该相信这个结果"
+    ],
+    "atoms_text": "不要做完了检查 心安了 过两天又开始怀疑了 你做这个检查的意义到底在哪里呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 455,
+    "seg_id": "S5-L4",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "医生说没问题，你的心脏现在最安全"
+    ],
+    "atoms_text": "医生说没有问题就是没有问题 你的心脏现在是最安全的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 456,
+    "seg_id": "S5-L5",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "支架术后，医生鼓励你动起来"
+    ],
+    "atoms_text": "第二就是动起来 支架术后不是不能运动了 恰恰相反 医生是鼓励运动的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 457,
+    "seg_id": "S5-L6",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "step_arrow",
+    "items": [
+      "主治医生评估可以运动",
+      "从走路开始，每天半小时",
+      "慢慢加量，循序渐进"
+    ],
+    "atoms_text": "在你的主治医生评估后 你可以运动了 哎那我们就从走路开始 每天半个小时 慢慢加量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 458,
+    "seg_id": "S5-L7",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "list_fade",
+    "items": [
+      "直接降低交感神经兴奋",
+      "改善焦虑状态"
+    ],
+    "atoms_text": "运动能直接降低交感神经兴奋 改善你的焦虑的状态",
+    "needs_animation": true,
+    "label": "运动直接降低交感神经兴奋从而缓解焦虑"
+  },
+  {
+    "global_index": 459,
+    "seg_id": "S5-L8",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "走了半小时没事，心脏扛得住"
+    ],
+    "atoms_text": "同时也在用实际行动告诉你 哎你看 我走了半个小时 什么事都没有 我的心脏扛得住",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 460,
+    "seg_id": "S5-L9",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "这比任何人说\"没事\"都有说服力"
+    ],
+    "atoms_text": "这比任何人对你说没事的 都要有说服力",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 461,
+    "seg_id": "S5-L10",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "跟医生聊聊你的焦虑，不丢人"
+    ],
+    "atoms_text": "第三 跟你医生聊聊你的焦虑 这个不丢人啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 462,
+    "seg_id": "S5-L11",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "number_center",
+    "items": [
+      "30~40%"
+    ],
+    "atoms_text": "支架术后出现焦虑甚至抑郁的比例非常高 有研究可以说明的是 高达到百分之三十到四十",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 463,
+    "seg_id": "S5-L12",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "myth_buster",
+    "items": [
+      "出现焦虑说明心理素质差",
+      "经历生死关口后的正常反应"
+    ],
+    "atoms_text": "这并不是你的心理素质差 是经历了生死关口之后啊 正常反应",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 464,
+    "seg_id": "S5-L13",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "branch_path",
+    "items": [
+      "焦虑影响到正常生活了吗",
+      "医生可以给予帮助",
+      "自己调整，逐步恢复"
+    ],
+    "atoms_text": "如果你自己调不过来 影响到正常生活了 医生可以给你一点帮助",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 465,
+    "seg_id": "S5-L14",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "短期抗焦虑用药效果好，不需长期吃"
+    ],
+    "atoms_text": "必要的时候啊 短期用一点抗焦虑的用药 效果是非常好的 不需要长期吃",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 466,
+    "seg_id": "S5-L15",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "别再反复刷手机查症状了"
+    ],
+    "atoms_text": "最后啊 就是别再反复的刷手机查症状了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 467,
+    "seg_id": "S5-L16",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "warning_alert",
+    "items": [
+      "每搜一次，就看到一堆最坏结果",
+      "焦虑翻倍，越查越怕"
+    ],
+    "atoms_text": "你每搜一次哎 支架术后胸闷 就会看到一堆最坏的情况 然后焦虑翻倍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 468,
+    "seg_id": "S5-L17",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "split_column",
+    "items": [
+      "反复刷手机查症状",
+      "出门散步、和朋友聊天",
+      "焦虑加重",
+      "心情改善"
+    ],
+    "atoms_text": "把这个时间拿去散步 跟朋友聊天 都比刷手机要强",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 469,
+    "seg_id": "S6-L1",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "过的是心理那一关",
+    "template": "list_fade",
+    "items": [
+      "支架在好好工作",
+      "血管是通的",
+      "检查结果是正常的"
+    ],
+    "atoms_text": "你的支架在好好的工作 你的血管是通的 你的检查是正常的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 470,
+    "seg_id": "S6-L2",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "过的是心理那一关",
+    "template": "hero_text",
+    "items": [
+      "要过的不是支架那关，是心理那关"
+    ],
+    "atoms_text": "你现在需要过的 不是支架那一关 是心理那一关",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 471,
+    "seg_id": "S6-L3",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "过的是心理那一关",
+    "template": "hero_text",
+    "items": [
+      "这一关过了，日子能过得比以前更好"
+    ],
+    "atoms_text": "这一关过了 你就会发现啊 比放完支架之后啊 日子其实可以过得更好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 472,
+    "seg_id": "S1-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "胸痛不等于心脏病",
+    "template": "hero_text",
+    "items": [
+      "胸痛一来就慌神？先别急"
+    ],
+    "atoms_text": "很多人啊 一出现胸痛 第一反应就是 心脏出问题了 瞬间慌了神",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 473,
+    "seg_id": "S1-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "胸痛不等于心脏病",
+    "template": "body_annotate",
+    "items": [
+      "心脏",
+      "肺",
+      "肋骨与神经",
+      "胃"
+    ],
+    "atoms_text": "其实啊 咱们的胸腔 就像是一个大房子 里面装着 心啊肺啊胃啊肋骨啊神经 等多个器官",
+    "needs_animation": true,
+    "label": "胸腔内心、肺、胃、肋骨、神经等多器官的解剖位置关系"
+  },
+  {
+    "global_index": 474,
+    "seg_id": "S1-L3",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "胸痛不等于心脏病",
+    "template": "hero_text",
+    "items": [
+      "任何部位出问题都可能胸痛"
+    ],
+    "atoms_text": "任何一个部位啊 出问题 都有可能引发胸痛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 475,
+    "seg_id": "S1-L4",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "胸痛不等于心脏病",
+    "template": "number_center",
+    "items": [
+      "绝大多数"
+    ],
+    "atoms_text": "绝大多数的时候 让你紧张不已的胸痛啊 根本和心脏是没有关系的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 476,
+    "seg_id": "S1-L5",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "胸痛不等于心脏病",
+    "template": "hero_text",
+    "items": [
+      "学会判断胸痛轻重缓急"
+    ],
+    "atoms_text": "今天咱们就 把胸痛的判断逻辑理清楚 教大家一眼分清轻重缓急 再也不要瞎慌了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 477,
+    "seg_id": "S2-L1",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "最危险的信号",
+    "template": "hero_text",
+    "items": [
+      "先说最危险的胸痛"
+    ],
+    "atoms_text": "我们先说 最危险的情况",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 478,
+    "seg_id": "S2-L2",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "最危险的信号",
+    "template": "warning_alert",
+    "items": [
+      "出现以下任意一种，立刻拨打120"
+    ],
+    "atoms_text": "出现以下任何一种情况 不要纠结 不要硬扛 立刻拨打幺二零",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 479,
+    "seg_id": "S2-L3",
+    "bp_title": "胸痛别乱慌，一眼分清轻重缓急",
+    "scene_title": "最危险的信号",
+    "template": "hero_text",
+    "items": [
+      "早到十分钟，可能是生与死的距离"
+    ],
+    "atoms_text": "早到医院十分钟啊 可能就是 生与死的距离",
+    "needs_animation": false,
+    "label": ""
+  }
+]

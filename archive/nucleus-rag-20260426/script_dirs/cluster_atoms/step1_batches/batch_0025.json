@@ -1,0 +1,589 @@
+[
+  {
+    "global_index": 1000,
+    "seg_id": "S3-L4",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "本期内容预告",
+    "template": "list_fade",
+    "items": [
+      "看看",
+      "您是",
+      "属于",
+      "哪一种"
+    ],
+    "atoms_text": "看看 您是 属于 哪一种",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1001,
+    "seg_id": "S4-L1",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "脑子无法关机",
+      "半小时难入睡",
+      "脑中像放电影"
+    ],
+    "atoms_text": "第一种 入睡困难型",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1002,
+    "seg_id": "S4-L2",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "brick_stack",
+    "items": [
+      "焦虑压力大",
+      "睡前刷手机",
+      "大脑兴奋态"
+    ],
+    "atoms_text": "脑子 关不了机",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1003,
+    "seg_id": "S4-L3",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "step_arrow",
+    "items": [
+      "建立床睡反射",
+      "二十分钟未睡起",
+      "做枯燥事待困"
+    ],
+    "atoms_text": "躺在床上 半个小时了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1004,
+    "seg_id": "S4-L4",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "hero_text",
+    "items": [
+      "认知行为疗法"
+    ],
+    "atoms_text": "一个小时",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1005,
+    "seg_id": "S4-L5",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "甚至",
+      "更久"
+    ],
+    "atoms_text": "甚至 更久",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1006,
+    "seg_id": "S4-L6",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "才能",
+      "睡着"
+    ],
+    "atoms_text": "才能 睡着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1007,
+    "seg_id": "S4-L7",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "脑子里",
+      "就像",
+      "放电影",
+      "一样"
+    ],
+    "atoms_text": "脑子里 就像 放电影 一样",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1008,
+    "seg_id": "S4-L8",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "翻来覆去的",
+      "想"
+    ],
+    "atoms_text": "翻来覆去的 想",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1009,
+    "seg_id": "S4-L9",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "越想",
+      "越清醒"
+    ],
+    "atoms_text": "越想 越清醒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1010,
+    "seg_id": "S4-L10",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "越想",
+      "越睡不着"
+    ],
+    "atoms_text": "越想 越睡不着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1011,
+    "seg_id": "S4-L11",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "这种",
+      "往往是",
+      "焦虑",
+      "压力大"
+    ],
+    "atoms_text": "这种 往往是 焦虑 压力大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1012,
+    "seg_id": "S4-L12",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "或者是",
+      "睡前",
+      "刷手机",
+      "看视频"
+    ],
+    "atoms_text": "或者是 睡前 刷手机 看视频",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1013,
+    "seg_id": "S4-L13",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "大脑啊",
+      "一直",
+      "处于",
+      "兴奋状态"
+    ],
+    "atoms_text": "大脑啊 一直 处于 兴奋状态",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1014,
+    "seg_id": "S4-L14",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "对于",
+      "这种情况"
+    ],
+    "atoms_text": "对于 这种情况",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1015,
+    "seg_id": "S4-L15",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "安眠药啊",
+      "不是",
+      "首选"
+    ],
+    "atoms_text": "安眠药啊 不是 首选",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1016,
+    "seg_id": "S4-L16",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "真正",
+      "管用的",
+      "是"
+    ],
+    "atoms_text": "真正 管用的 是",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1017,
+    "seg_id": "S4-L17",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "建立",
+      "床",
+      "就是",
+      "用来睡觉的",
+      "这一"
+    ],
+    "atoms_text": "建立 床 就是 用来睡觉的 这一 条件反射",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1018,
+    "seg_id": "S4-L18",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "躺下去",
+      "二十分钟",
+      "睡不着"
+    ],
+    "atoms_text": "躺下去 二十分钟 睡不着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1019,
+    "seg_id": "S4-L19",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "就",
+      "起来"
+    ],
+    "atoms_text": "就 起来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1020,
+    "seg_id": "S4-L20",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "做点",
+      "枯燥的",
+      "事儿"
+    ],
+    "atoms_text": "做点 枯燥的 事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1021,
+    "seg_id": "S4-L21",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "等",
+      "困了"
+    ],
+    "atoms_text": "等 困了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1022,
+    "seg_id": "S4-L22",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "再",
+      "躺回去"
+    ],
+    "atoms_text": "再 躺回去",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1023,
+    "seg_id": "S4-L23",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "别",
+      "在床上",
+      "玩手机",
+      "看电视"
+    ],
+    "atoms_text": "别 在床上 玩手机 看电视",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1024,
+    "seg_id": "S4-L24",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "把床",
+      "就是",
+      "留给",
+      "睡眠的"
+    ],
+    "atoms_text": "把床 就是 留给 睡眠的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1025,
+    "seg_id": "S4-L25",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "入睡困难型",
+    "template": "list_fade",
+    "items": [
+      "这是",
+      "认知行为疗法"
+    ],
+    "atoms_text": "这是 认知行为疗法",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1026,
+    "seg_id": "S5-L1",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "夜醒两三次",
+      "醒后难再睡",
+      "中老年常见"
+    ],
+    "atoms_text": "第二一种 睡眠维持障碍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1027,
+    "seg_id": "S5-L2",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "color_grid",
+    "items": [
+      "夜尿增多",
+      "打呼噜憋气",
+      "更年期潮热",
+      "焦虑情绪"
+    ],
+    "atoms_text": "一晚上 醒 好几回",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1028,
+    "seg_id": "S5-L3",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "warning_alert",
+    "items": [
+      "警惕呼吸暂停",
+      "损伤心脑健康"
+    ],
+    "atoms_text": "睡着了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1029,
+    "seg_id": "S5-L4",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "step_arrow",
+    "items": [
+      "呼吸或神经科",
+      "做睡眠监测"
+    ],
+    "atoms_text": "但又 睡得 不踏实",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1030,
+    "seg_id": "S5-L5",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "夜里",
+      "醒来",
+      "两三次"
+    ],
+    "atoms_text": "夜里 醒来 两三次",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1031,
+    "seg_id": "S5-L6",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "甚至",
+      "更多"
+    ],
+    "atoms_text": "甚至 更多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1032,
+    "seg_id": "S5-L7",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "醒了",
+      "半天"
+    ],
+    "atoms_text": "醒了 半天",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1033,
+    "seg_id": "S5-L8",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "才能",
+      "再",
+      "睡着"
+    ],
+    "atoms_text": "才能 再 睡着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1034,
+    "seg_id": "S5-L9",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "这种啊",
+      "在",
+      "中老年人里",
+      "特别常见"
+    ],
+    "atoms_text": "这种啊 在 中老年人里 特别常见",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1035,
+    "seg_id": "S5-L10",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "原因",
+      "有很多"
+    ],
+    "atoms_text": "原因 有很多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1036,
+    "seg_id": "S5-L11",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "hero_text",
+    "items": [
+      "夜尿增多"
+    ],
+    "atoms_text": "夜尿增多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1037,
+    "seg_id": "S5-L12",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "hero_text",
+    "items": [
+      "打呼噜"
+    ],
+    "atoms_text": "打呼噜",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1038,
+    "seg_id": "S5-L13",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "hero_text",
+    "items": [
+      "憋气"
+    ],
+    "atoms_text": "憋气",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1039,
+    "seg_id": "S5-L14",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "睡眠维持障碍",
+    "template": "list_fade",
+    "items": [
+      "更年期",
+      "潮热"
+    ],
+    "atoms_text": "更年期 潮热",
+    "needs_animation": false,
+    "label": ""
+  }
+]

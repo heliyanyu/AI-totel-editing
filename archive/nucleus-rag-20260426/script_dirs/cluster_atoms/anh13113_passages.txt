@@ -1,0 +1,36 @@
+[0-22s] 急性冠脉综合征的定义：由心肌供血阻塞引起的一组疾病，属医学急症，可能正在发生心肌梗死（心肌开始坏死）。
+  medical: True
+  text: If you have acute coronary syndrome, you have one or more conditions caused by a blockage of blood flow to your heart muscle. This is a medical emerge
+
+[22-56s] 心脏正常解剖与供血机制：心脏作为泵血器官，左心室收缩将富氧血液经主动脉泵出，冠状动脉从主动脉分支为心肌提供氧气和营养。
+  medical: True
+  text: Your heart is a muscular organ that pumps blood containing the oxygen and nutrients your body needs. The main pumping chamber of your heart is the lef
+
+[56-92s] 急性冠脉综合征的常见病因——动脉粥样硬化：脂肪斑块在冠状动脉内壁积聚使管腔狭窄，斑块破裂可形成血栓阻塞动脉，血栓是冠脉阻塞最常见的原因。
+  medical: True
+  text: If you have acute coronary syndrome, blood flow through your coronary arteries is severely reduced or completely blocked. One possible cause of reduce
+
+[92-129s] 其他较少见病因：冠状动脉痉挛（药物、吸烟、寒冷、极端情绪等诱因导致冠脉突然收缩）和冠状动脉夹层（冠脉内壁分离阻断血流）。
+  medical: True
+  text: Other less common causes of reduced blood flow include coronary artery spasm or dissection. In a coronary artery spasm, triggers such as drugs, smokin
+
+[129-155s] 冠脉阻塞的后果——心肌梗死：无论何种原因，冠脉阻塞使对应区域心肌缺氧缺营养并开始坏死，即心脏病发作（心肌梗死/MI）。
+  medical: True
+  text: Regardless of the cause, a blockage in either coronary artery prevents the oxygen and nutrients in your blood from reaching the part of your heart sup
+
+[155-205s] 急性冠脉综合征的症状：胸部疼痛、紧缩或烧灼感（心绞痛），可放射至上腹部、肩部、手臂、颈部和下颌；静息或轻度活动时发作的不稳定型心绞痛是ACS的主要症状；其他症状包括呼吸困难、头晕、恶心和出汗。
+  medical: True
+  text: A blocked coronary artery may also cause you to feel sudden pain, discomfort, tightening, or a burning sensation in your chest called angina. This pai
+
+[205-259s] 药物治疗：氧疗增加血氧、阿司匹林等抗凝药预防血栓、溶栓药溶解已有血栓、硝酸甘油和吗啡扩张冠脉并缓解心绞痛、β受体阻滞剂减慢心率降低心肌耗氧。
+  medical: True
+  text: If you've had a heart attack or have other types of acute coronary syndrome, your doctor may prescribe oxygen therapy to get more oxygen into your blo
+
+[259-302s] 手术治疗：冠脉血管成形术（球囊扩张阻塞的冠脉并可植入支架保持通畅）和冠状动脉旁路移植术（CABG，用静脉或人工移植材料绕过阻塞区域）。
+  medical: True
+  text: Your doctor may also recommend immediate surgical procedures such as coronary angioplasty, in which a balloon-tipped catheter inflates inside your blo
+
+[302-310s] 结尾提示：如出现急性冠脉综合征症状应立即就医。
+  medical: False
+  text: Seek treatment immediately if you have the symptoms of acute coronary syndrome.
+

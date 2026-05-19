@@ -1,0 +1,558 @@
+[
+  {
+    "global_index": 2360,
+    "seg_id": "S1-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "门诊最常被问的问题",
+    "template": "hero_text",
+    "items": [
+      "降压药吃了就不能停？"
+    ],
+    "atoms_text": "降压药一旦吃了就不能停 到底是不是真的呢 这个问题啊 是我在门诊上 被问的最多的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2361,
+    "seg_id": "S1-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "门诊最常被问的问题",
+    "template": "warning_alert",
+    "items": [
+      "怕有成瘾性，高血压多年不敢吃药"
+    ],
+    "atoms_text": "很多人 血压高了好几年 就是不肯吃药 问他为什么 他说 医生都说 吃降压药有成瘾性 吃了就停不下来了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2362,
+    "seg_id": "S1-L3",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "门诊最常被问的问题",
+    "template": "hero_text",
+    "items": [
+      "大概率搞错了一个关键东西"
+    ],
+    "atoms_text": "其实他的顾虑我能理解 但是啊 他大概率搞错了 一个很关键的东西",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2363,
+    "seg_id": "S2-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "药没有成瘾性，是病好不了",
+    "template": "myth_buster",
+    "items": [
+      "降压药有成瘾性，吃了会上瘾",
+      "降压药无成瘾性，不同于安眠药"
+    ],
+    "atoms_text": "降压药是没有成瘾性的 它不是安眠药 也不是止痛药 吃了根本不会上瘾",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2364,
+    "seg_id": "S2-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "药没有成瘾性，是病好不了",
+    "template": "hero_text",
+    "items": [
+      "高血压本身就是需要长期治疗的病"
+    ],
+    "atoms_text": "那为什么很多人觉得停不了呢 因为高血压这个病 大多数的情况下 它本身就好不了 它是一种 需要长期治疗的疾病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2365,
+    "seg_id": "S2-L3",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "药没有成瘾性，是病好不了",
+    "template": "split_column",
+    "items": [
+      "药停不了",
+      "血压降不下来"
+    ],
+    "atoms_text": "这件事你一定要搞清楚 不是药停不了 是你的血压降不下来 这两件事的差别呢 非常大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2366,
+    "seg_id": "S3-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "近视眼镜类比",
+    "template": "split_column",
+    "items": [
+      "摘掉眼镜看不清",
+      "是眼睛有问题，不是眼镜有依赖"
+    ],
+    "atoms_text": "就像你戴了近视眼镜 摘掉了还是看不清 你能说眼镜有依赖性吗 不是眼镜的问题 是你的眼睛有问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2367,
+    "seg_id": "S3-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "近视眼镜类比",
+    "template": "split_column",
+    "items": [
+      "停药后血压又升上去",
+      "是血压本就高，药只是压着"
+    ],
+    "atoms_text": "降压药呢也一样 你吃药血压正常了 停了血压又上去了 不是你对药物产生了依赖 而是你的血压本来就高 药只是在帮你压着而已",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2368,
+    "seg_id": "S3-L3",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "近视眼镜类比",
+    "template": "hero_text",
+    "items": [
+      "真正的问题：血压能否自己回到正常"
+    ],
+    "atoms_text": "所以啊 真正的问题 从来不是降压药能不能停 而是你的血压 能不能自己回到正常",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2369,
+    "seg_id": "S4-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "轻度高血压可先改生活方式",
+    "template": "category_table",
+    "items": [
+      "高压 140～160 之间",
+      "低压未超过 100",
+      "无糖尿病/肾病/心血管问题",
+      "先改变生活方式 3～6 个月"
+    ],
+    "atoms_text": "如果血压只是稍微高一点 高压呢在一百四到一百六 低压呢没超过一百 同时呢 你也没有糖尿病 肾病 心脏血管等问题 医生会给你三到六个月的窗口期 让你啊 先改变生活方式试试 例如少盐 少熬夜 减重 运动 戒烟 少喝酒 等等等",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2370,
+    "seg_id": "S4-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "轻度高血压可先改生活方式",
+    "template": "list_fade",
+    "items": [
+      "少盐、少熬夜、减重",
+      "规律运动、戒烟限酒",
+      "血压真的降正常，可先不用药"
+    ],
+    "atoms_text": "三到六个月下来之后呢 血压真的降到正常了 确实可以先不用药 这种情况呀 我门诊也见过不少",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2371,
+    "seg_id": "S5-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "血压高+并发症风险，必须用药",
+    "template": "warning_alert",
+    "items": [
+      "血压超过 160，或合并糖尿病/肾病",
+      "血管已受损，千万别再硬扛"
+    ],
+    "atoms_text": "但如果你的血压 已经到了一百六以上 或者是同时有糖尿病 肾脏等问题 血管已经受损伤了 那你千万别赌了 该吃药还是吃药比较好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2372,
+    "seg_id": "S5-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "血压高+并发症风险，必须用药",
+    "template": "step_arrow",
+    "items": [
+      "血压持续偏高",
+      "血管每天承受冲击，损伤积累",
+      "损伤到一定程度，不可逆"
+    ],
+    "atoms_text": "因为血管这个东西啊 它跟皮肤不一样 划一刀很快能长好 血管的损伤啊 它是积累的 你的血压高一天 血管呢就多挨一天的冲击 心脏呢就多扛一天 等这些损伤攒到一定程度的时候啊 那就不可逆了",
+    "needs_animation": true,
+    "label": "高血压持续冲击血管壁造成累积性不可逆损伤"
+  },
+  {
+    "global_index": 2373,
+    "seg_id": "S5-L3",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "血压高+并发症风险，必须用药",
+    "template": "brick_stack",
+    "items": [
+      "怕停不了药，硬扛不吃",
+      "血管硬化、心脏肥大、肾脏受损",
+      "不只吃降压药，还要加护肾、护心药",
+      "一种药扛成三四种，得不偿失"
+    ],
+    "atoms_text": "你想想 什么才叫划算呢 今天因为怕停不了药 选择硬扛着不吃药 扛了几年之后呢 血管也硬了 心脏也大了 肾脏也出问题了 等到那个时候啊 你不光得好好吃降压药 可能还得加上护肾的药 护心的药 等等很多的药物 到时候啊 是把一种药 扛成了三种甚至四种药 这笔账怎么算都是你吃亏",
+    "needs_animation": true,
+    "label": "长期高血压导致血管硬化、心脏肥大和肾脏损伤的进展"
+  },
+  {
+    "global_index": 2374,
+    "seg_id": "S6-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "换角度看：吃药不是终身监禁",
+    "template": "hero_text",
+    "items": [
+      "很多人怕的是吃药像判了终身监禁"
+    ],
+    "atoms_text": "其实啊 我觉得很多人啊 真正怕的不是吃药 是觉得一旦吃了药之后啊 就像被判了终身监禁一样",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2375,
+    "seg_id": "S6-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "换角度看：吃药不是终身监禁",
+    "template": "hero_text",
+    "items": [
+      "开始吃药，将来也有停药的可能"
+    ],
+    "atoms_text": "但如果你换个角度去想 就算现在开始吃 将来呢 也不是没有停药的可能",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2376,
+    "seg_id": "S6-L3",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "换角度看：吃药不是终身监禁",
+    "template": "list_fade",
+    "items": [
+      "认真控体重、改变生活习惯",
+      "部分人血压会慢慢好转"
+    ],
+    "atoms_text": "现在开始认真的控制体重 改变生活习惯 有些人的血压 确实会慢慢的好转",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2377,
+    "seg_id": "S6-L4",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "换角度看：吃药不是终身监禁",
+    "template": "vertical_timeline",
+    "items": [
+      "初期：多种药联合控压",
+      "稳定后：在医生指导下逐步减药",
+      "理想状态：减至一种、剂量最小"
+    ],
+    "atoms_text": "就算是停不了药 但你也会在医生的指导下 把降压药慢慢的减下来 可能由几种减成了两种 甚至一种 剂量呢也可以逐渐的减量 何乐而不为呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2378,
+    "seg_id": "S6-L5",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "换角度看：吃药不是终身监禁",
+    "template": "warning_alert",
+    "items": [
+      "不能自己偷偷停药，必须医生监测"
+    ],
+    "atoms_text": "但前提你得监测 不能自己偷偷的停药 肯定会出事的 这样的我见过太多了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2379,
+    "seg_id": "S7-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "真相揭晓：关键在血压，不在药",
+    "template": "split_column",
+    "items": [
+      "血压自己正常了，药可以停",
+      "血压降不来，药就是你的拐杖"
+    ],
+    "atoms_text": "所以啊 这件事情的真相就是 药停不停 不取决于药 取决于你的血压 血压自己正常了 药当然可以停 血压下不来 药就是你的拐杖 你还真离不开它",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2380,
+    "seg_id": "S7-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "真相揭晓：关键在血压，不在药",
+    "template": "warning_alert",
+    "items": [
+      "真正该怕的：血压高了几年一直扛着",
+      "高血压并发症比吃一辈子药更严重"
+    ],
+    "atoms_text": "因此啊 你一定要记住了 你真正该怕的呀 从来不是吃药停不了 而是血压高了好几年 你一直扛着没管它 等出现了高血压的并发症 那个后果呀 比吃一辈子药可严重多了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2381,
+    "seg_id": "S8-L1",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "行动建议：别自己瞎猜",
+    "template": "list_fade",
+    "items": [
+      "拿不准时，找医生系统评估",
+      "确实需要吃药，该吃就吃"
+    ],
+    "atoms_text": "所以当你拿不准的时候啊 就赶紧来找我吧 我会给你系统的评估和治疗 如果确实需要吃药 建议你该吃药还是吃药比较好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2382,
+    "seg_id": "S8-L2",
+    "bp_title": "降压药吃了真的停不了吗？",
+    "scene_title": "行动建议：别自己瞎猜",
+    "template": "warning_alert",
+    "items": [
+      "别自己觉得没事就行，有感觉时已晚"
+    ],
+    "atoms_text": "这件事啊 千万别自己瞎猜 别自己觉得没事就行 等到有感觉的时候了 可能就悔之晚矣了 你说是吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2383,
+    "seg_id": "S1-L1",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "患者的困惑",
+    "template": "hero_text",
+    "items": [
+      "冠心病能吃鸡蛋吗？蛋黄要扔掉吗？"
+    ],
+    "atoms_text": "得了冠心病 鸡蛋能吃吗 蛋黄要不要扔掉呢 一天能吃几个呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2384,
+    "seg_id": "S1-L2",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "患者的困惑",
+    "template": "hero_text",
+    "items": [
+      "门诊被问烂了的高频问题"
+    ],
+    "atoms_text": "在门诊上 这些问题 我都被问烂了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2385,
+    "seg_id": "S1-L3",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "患者的困惑",
+    "template": "hero_text",
+    "items": [
+      "患者不是不想吃，是被吓怕了"
+    ],
+    "atoms_text": "每次被问到这个的时候 我心里都有点无奈",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2386,
+    "seg_id": "S1-L4",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "患者的困惑",
+    "template": "hero_text",
+    "items": [
+      "很多人怕鸡蛋，不敢碰蛋黄"
+    ],
+    "atoms_text": "因为很多患者啊 不是不想吃 是被吓怕了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2387,
+    "seg_id": "S1-L5",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "患者的困惑",
+    "template": "warning_alert",
+    "items": [
+      "好几年没碰蛋黄",
+      "白白损失大量营养"
+    ],
+    "atoms_text": "有的人 已经好几年 没有碰过蛋黄了 白白损失了 那么多的营养",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2388,
+    "seg_id": "S2-L1",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "直接给结论",
+    "template": "hero_text",
+    "items": [
+      "今天把这件事彻底说清楚"
+    ],
+    "atoms_text": "今天呢 我就把这件事情 彻底说清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2389,
+    "seg_id": "S2-L2",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "直接给结论",
+    "template": "myth_buster",
+    "items": [
+      "冠心病患者不能吃鸡蛋",
+      "鸡蛋能吃，蛋黄也不用扔"
+    ],
+    "atoms_text": "先把结论说一下 鸡蛋能吃 蛋黄呢 也不用扔",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2390,
+    "seg_id": "S3-L1",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "brick_stack",
+    "items": [
+      "蛋黄胆固醇含量高",
+      "吃进去血脂会升高",
+      "担心心脏出问题"
+    ],
+    "atoms_text": "大家怕蛋黄呀 主要是因为 它的胆固醇含量太高 担心吃进去之后啊 血脂就升上来了 心脏出问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2391,
+    "seg_id": "S3-L2",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "myth_buster",
+    "items": [
+      "吃进胆固醇=血液胆固醇升高",
+      "饮食胆固醇与血脂不成正比"
+    ],
+    "atoms_text": "这个逻辑啊 乍听起来 好像还挺通顺的 但其实是错的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2392,
+    "seg_id": "S3-L3",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "hero_text",
+    "items": [
+      "饮食胆固醇≠血液胆固醇直接换算"
+    ],
+    "atoms_text": "你吃进去的胆固醇 和你血液里的胆固醇 并不是一比一换算的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2393,
+    "seg_id": "S3-L4",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "number_center",
+    "items": [
+      "30%"
+    ],
+    "atoms_text": "研究啊 早就证实了 饮食的胆固醇 对血脂水平的影响 一般都不超过百分之三十",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2394,
+    "seg_id": "S3-L5",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "split_column",
+    "items": [
+      "常见误解：吃太多蛋黄",
+      "真实原因：肝脏合成过旺",
+      "饮食影响被高估",
+      "代谢问题是根本"
+    ],
+    "atoms_text": "血脂高 绝大多数的时候啊 并不是因为你吃多了 而是代谢出了问题 是肝脏自己合成的太旺盛 跟鸡蛋的关系 真的没有你想象的那么大",
+    "needs_animation": true,
+    "label": "肝脏自身合成胆固醇过于旺盛导致血脂升高"
+  },
+  {
+    "global_index": 2395,
+    "seg_id": "S3-L6",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "hero_text",
+    "items": [
+      "膳食指南已取消胆固醇摄入上限"
+    ],
+    "atoms_text": "国内外的膳食指南呢 也早就取消了 每天胆固醇的摄入不能超过多少 这条推荐 因人而异 没有办法给一个统一的标准",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2396,
+    "seg_id": "S3-L7",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "split_column",
+    "items": [
+      "扔蛋黄护心效果微乎其微",
+      "扔蛋黄营养损失实打实"
+    ],
+    "atoms_text": "所以你把蛋黄扔掉 保护心脏的效果 可能微乎其微 但营养损失呢 却是实打实的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2397,
+    "seg_id": "S4-L1",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "蛋黄的营养价值",
+    "template": "color_grid",
+    "items": [
+      "优质蛋白",
+      "卵磷脂",
+      "多种维生素",
+      "矿物质"
+    ],
+    "atoms_text": "鸡蛋里的 优质蛋白 卵磷脂 各种维生素和矿物质 都集中在蛋黄里",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2398,
+    "seg_id": "S4-L2",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "蛋黄的营养价值",
+    "template": "list_fade",
+    "items": [
+      "保护视力",
+      "提升免疫力",
+      "改善记忆力",
+      "参与胆固醇代谢调脂"
+    ],
+    "atoms_text": "这些东西 对身体是有益的 它能够保护视力 还能够提高免疫力和记忆力 甚至还能参与 体内的胆固醇代谢 帮你调脂",
+    "needs_animation": true,
+    "label": "卵磷脂参与体内胆固醇代谢帮助调节血脂"
+  },
+  {
+    "global_index": 2399,
+    "seg_id": "S4-L3",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "蛋黄的营养价值",
+    "template": "hero_text",
+    "items": [
+      "蛋黄不是添乱的，是帮助你的"
+    ],
+    "atoms_text": "它不是添乱的 是帮助你的",
+    "needs_animation": false,
+    "label": ""
+  }
+]

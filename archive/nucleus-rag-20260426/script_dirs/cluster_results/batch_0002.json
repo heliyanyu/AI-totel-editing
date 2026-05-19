@@ -1,0 +1,517 @@
+[
+  {
+    "global_index": 80,
+    "seg_id": "S5-L5",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言四：胰岛素打了会上瘾",
+    "template": "warning_alert",
+    "items": [
+      "血糖长期高着并发症才是真正回不了头"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 81,
+    "seg_id": "S6-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言五：瘦人不会得糖尿病",
+    "template": "myth_buster",
+    "items": [
+      "体型瘦所以不会得糖尿病",
+      "瘦人同样可能患上糖尿病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 82,
+    "seg_id": "S6-L2",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言五：瘦人不会得糖尿病",
+    "template": "body_annotate",
+    "items": [
+      "肝脏脂肪从外表看不出来",
+      "胰腺上有脂肪影响功能",
+      "体重正常但内脏脂肪不少"
+    ],
+    "needs_animation": true,
+    "label": "内脏脂肪在肝脏和胰腺的解剖分布"
+  },
+  {
+    "global_index": 83,
+    "seg_id": "S6-L3",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言五：瘦人不会得糖尿病",
+    "template": "warning_alert",
+    "items": [
+      "瘦人得糖尿病往往胰腺功能更弱更难逆转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 84,
+    "seg_id": "S6-L4",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言五：瘦人不会得糖尿病",
+    "template": "list_fade",
+    "items": [
+      "有糖尿病家族史的瘦人",
+      "腰围偏大的隐性肥胖者",
+      "平时几乎不运动的瘦子"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 85,
+    "seg_id": "S6-L5",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "谣言五：瘦人不会得糖尿病",
+    "template": "step_arrow",
+    "items": [
+      "每年定期检查一次",
+      "查空腹血糖了解即时状态",
+      "查糖化血红蛋白了解长期血糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 86,
+    "seg_id": "S7-L1",
+    "bp_title": "糖尿病五大谣言逐条击破",
+    "scene_title": "总结互动收尾",
+    "template": "hero_text",
+    "items": [
+      "这五条谣言你中了几条？家人信了几条？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 87,
+    "seg_id": "S1-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "hero_text",
+    "items": [
+      "体检正常，怎么突然就糖尿病了？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 88,
+    "seg_id": "S1-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "hero_text",
+    "items": [
+      "二型糖尿病从不突然降临"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 89,
+    "seg_id": "S1-L3",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "vertical_timeline",
+    "items": [
+      "早期：身体持续发出求救信号",
+      "中期：胰腺超负荷运转",
+      "晚期：血糖全线崩溃"
+    ],
+    "needs_animation": true,
+    "label": "胰岛素抵抗到胰腺功能衰竭的病理演进"
+  },
+  {
+    "global_index": 90,
+    "seg_id": "S1-L4",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "hero_text",
+    "items": [
+      "这个阶段叫做胰岛素抵抗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 91,
+    "seg_id": "S1-L5",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "step_arrow",
+    "items": [
+      "胰腺日夜超负荷分泌",
+      "胰岛功能缓慢衰退",
+      "功能严重受损血糖崩溃"
+    ],
+    "needs_animation": true,
+    "label": "胰腺β细胞超负荷分泌到功能衰退过程"
+  },
+  {
+    "global_index": 92,
+    "seg_id": "S1-L6",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "warning_alert",
+    "items": [
+      "不干预，等待功能受损时已晚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 93,
+    "seg_id": "S1-L7",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 94,
+    "seg_id": "S2-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号一：肚子变大",
+    "template": "body_annotate",
+    "items": [
+      "四肢不胖",
+      "腹部单独凸出",
+      "内脏脂肪堆积"
+    ],
+    "needs_animation": true,
+    "label": "腹腔内脏脂肪堆积的解剖分布"
+  },
+  {
+    "global_index": 95,
+    "seg_id": "S2-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号一：肚子变大",
+    "template": "step_arrow",
+    "items": [
+      "内脏脂肪持续积累",
+      "腰围超标",
+      "胰岛素抵抗风险升高"
+    ],
+    "needs_animation": true,
+    "label": "内脏脂肪积累导致胰岛素抵抗的病理机制"
+  },
+  {
+    "global_index": 96,
+    "seg_id": "S3-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号二：饭后犯困",
+    "template": "hero_text",
+    "items": [
+      "吃完饭就困，可能不是懒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 97,
+    "seg_id": "S3-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号二：饭后犯困",
+    "template": "step_arrow",
+    "items": [
+      "大量精细碳水进入身体",
+      "血糖快速飙升",
+      "被迫分泌超量胰岛素"
+    ],
+    "needs_animation": true,
+    "label": "碳水摄入后血糖飙升触发胰岛素大量分泌的生理过程"
+  },
+  {
+    "global_index": 98,
+    "seg_id": "S3-L3",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号二：饭后犯困",
+    "template": "warning_alert",
+    "items": [
+      "血糖大幅波动触发强烈疲惫感"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 99,
+    "seg_id": "S3-L4",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号二：饭后犯困",
+    "template": "list_fade",
+    "items": [
+      "这种血糖较大幅度的波动呢",
+      "很容易让人产生",
+      "强烈的疲惫和困倦感"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 100,
+    "seg_id": "S4-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号三：皮肤发黑",
+    "template": "hero_text",
+    "items": [
+      "脖子腋窝发黑，搓不掉是警报"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 101,
+    "seg_id": "S4-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号三：皮肤发黑",
+    "template": "myth_buster",
+    "items": [
+      "以为是没洗干净",
+      "黑棘皮症是胰岛素过高所致",
+      "反复搓洗没有用",
+      "应立即排查胰岛素抵抗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 102,
+    "seg_id": "S4-L3",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号三：皮肤发黑",
+    "template": "hero_text",
+    "items": [
+      "高浓度胰岛素刺激皮肤细胞增生"
+    ],
+    "needs_animation": true,
+    "label": "高浓度胰岛素刺激皮肤细胞异常增生（黑棘皮症病理）"
+  },
+  {
+    "global_index": 103,
+    "seg_id": "S5-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "好消息：还来得及",
+    "template": "hero_text",
+    "items": [
+      "胰岛素抵抗是完全可以逆转的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 104,
+    "seg_id": "S5-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "好消息：还来得及",
+    "template": "split_column",
+    "items": [
+      "早期发现及时干预",
+      "无需用药生活调整即可",
+      "拖到胰腺受损才干预",
+      "只能依赖药物治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 105,
+    "seg_id": "S6-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "变化一：换掉精细主食",
+    "template": "split_column",
+    "items": [
+      "白米饭 / 白面条",
+      "糙米 / 燕麦 / 薯类",
+      "升糖快，胰腺瞬间救火",
+      "升糖慢，胰腺从容应对"
+    ],
+    "needs_animation": true,
+    "label": "精制与粗粮碳水对血糖-胰岛素响应曲线的生理对比"
+  },
+  {
+    "global_index": 106,
+    "seg_id": "S6-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "变化一：换掉精细主食",
+    "template": "hero_text",
+    "items": [
+      "给胰腺放个假"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 107,
+    "seg_id": "S7-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "变化二：建造糖分仓库",
+    "template": "hero_text",
+    "items": [
+      "肌肉是人体最大的储糖仓库"
+    ],
+    "needs_animation": true,
+    "label": "肌肉组织摄取和储存葡萄糖的生理机制"
+  },
+  {
+    "global_index": 108,
+    "seg_id": "S7-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "变化二：建造糖分仓库",
+    "template": "list_fade",
+    "items": [
+      "每天两组深蹲",
+      "饭后快走二十分钟",
+      "肌肉发力即可消耗血糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 109,
+    "seg_id": "S7-L3",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "变化二：建造糖分仓库",
+    "template": "hero_text",
+    "items": [
+      "肌肉越强，血糖越稳"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 110,
+    "seg_id": "S8-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "结语祝福",
+    "template": "hero_text",
+    "items": [
+      "管好血糖，守护健康身体"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 111,
+    "seg_id": "S1-L1",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "引发好奇：心律失常真的危险吗",
+    "template": "hero_text",
+    "items": [
+      "体检写了\"心律失常\"，你慌了吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 112,
+    "seg_id": "S1-L2",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "引发好奇：心律失常真的危险吗",
+    "template": "hero_text",
+    "items": [
+      "窦性心律不齐？根本无病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 113,
+    "seg_id": "S1-L3",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "引发好奇：心律失常真的危险吗",
+    "template": "myth_buster",
+    "items": [
+      "网上说心律失常会猝死",
+      "心律失常类型不同，危险差异极大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 114,
+    "seg_id": "S1-L4",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "引发好奇：心律失常真的危险吗",
+    "template": "hero_text",
+    "items": [
+      "关键是：分清虚惊一场还是真危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 115,
+    "seg_id": "S1-L5",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "引发好奇：心律失常真的危险吗",
+    "template": "hero_text",
+    "items": [
+      "今天聊聊心律失常那些事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 116,
+    "seg_id": "S2-L1",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "心脏电路系统如何运作",
+    "template": "hero_text",
+    "items": [
+      "先搞清楚心脏怎么跳动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 117,
+    "seg_id": "S2-L2",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "心脏电路系统如何运作",
+    "template": "step_arrow",
+    "items": [
+      "窦房结定时发放电信号",
+      "信号沿固定线路向下传导",
+      "心脏完成一次跳动"
+    ],
+    "needs_animation": true,
+    "label": "心脏电传导系统正常工作过程（窦房结→传导束→心肌收缩）"
+  },
+  {
+    "global_index": 118,
+    "seg_id": "S2-L3",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "心脏电路系统如何运作",
+    "template": "number_center",
+    "items": [
+      "60～100"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 119,
+    "seg_id": "S2-L4",
+    "bp_title": "心律失常到底哪些该怕？医生帮你分清楚",
+    "scene_title": "心脏电路系统如何运作",
+    "template": "branch_path",
+    "items": [
+      "电路系统出了状况",
+      "发电站节奏紊乱或线路短路",
+      "异位起搏点偷偷放电"
+    ],
+    "needs_animation": true,
+    "label": "心脏电传导异常与异位起搏点放电的病理机制"
+  }
+]

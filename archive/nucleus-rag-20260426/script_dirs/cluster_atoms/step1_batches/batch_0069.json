@@ -1,0 +1,566 @@
+[
+  {
+    "global_index": 2760,
+    "seg_id": "S2-L6",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "step_arrow",
+    "items": [
+      "CTA发现血管狭窄",
+      "仍需进行冠脉造影"
+    ],
+    "atoms_text": "而且它只能看不能治 要是查出来血管狭窄 还是得做造影",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2761,
+    "seg_id": "S2-L7",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "hero_text",
+    "items": [
+      "CTA定位：初步筛查排除狭窄"
+    ],
+    "atoms_text": "所以CTA的定位 就是初步筛查 和排除血管狭窄情况",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2762,
+    "seg_id": "S3-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉造影详解",
+    "template": "hero_text",
+    "items": [
+      "冠脉造影是冠心病诊断金标准"
+    ],
+    "atoms_text": "接下来我们说冠脉造影 它是目前 冠心病诊断的金标准",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2763,
+    "seg_id": "S3-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉造影详解",
+    "template": "myth_buster",
+    "items": [
+      "造影是个大手术很可怕",
+      "造影只是微创检查并不可怕"
+    ],
+    "atoms_text": "很多人一听就害怕 觉得是个大手术 其实这就是个微创的检查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2764,
+    "seg_id": "S3-L3",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉造影详解",
+    "template": "step_arrow",
+    "items": [
+      "手腕或大腿根部穿入细导管",
+      "导管送至心脏冠脉开口",
+      "注入造影剂实时看血管流动"
+    ],
+    "atoms_text": "从你的手腕或大腿根部的血管 穿一根细导管 送到心脏冠脉开口 打上造影剂 就能在屏幕上 看到血管实时流动的画面 比CTA清楚多了",
+    "needs_animation": true,
+    "label": "导管从手腕或大腿根穿入血管送至冠脉开口注入造影剂显示血管实时流动"
+  },
+  {
+    "global_index": 2765,
+    "seg_id": "S3-L4",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉造影详解",
+    "template": "list_fade",
+    "items": [
+      "血管哪里堵了",
+      "堵塞程度是多少",
+      "是否需要放支架"
+    ],
+    "atoms_text": "血管哪里堵了 堵了多少 需不需要放支架 一眼就能看明白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2766,
+    "seg_id": "S3-L5",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉造影详解",
+    "template": "branch_path",
+    "items": [
+      "造影发现血管狭窄超75%",
+      "当场放支架一次完成治疗",
+      "狭窄不重继续随访观察"
+    ],
+    "atoms_text": "它的优势就是 精准真实 还能同步治疗 要是造影的时候 发现血管狭窄超过了百分之七十五 而且是有意义的狭窄 医生当场就能放支架 一次检查把治疗也做完 不用再受第二次罪",
+    "needs_animation": true,
+    "label": "造影发现血管狭窄超过75%后当场植入支架"
+  },
+  {
+    "global_index": 2767,
+    "seg_id": "S3-L6",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉造影详解",
+    "template": "split_column",
+    "items": [
+      "需要住院进行",
+      "CTA门诊即可",
+      "费用约4000-5000元",
+      "CTA约500-800元"
+    ],
+    "atoms_text": "报销之前的价格 大概是四五千块钱左右 这个需要住院做",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2768,
+    "seg_id": "S4-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "四种情况如何选",
+    "template": "hero_text",
+    "items": [
+      "四种情况对号入座不再纠结"
+    ],
+    "atoms_text": "最后也是大家最关心的 到底是该选CTA 还是直接做造影呢 我分四种情况说 你对号入座就可以了 不用再瞎纠结了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2769,
+    "seg_id": "S4-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "四种情况如何选",
+    "template": "list_fade",
+    "items": [
+      "偶尔胸闷年纪不大",
+      "无三高无吸烟无家族史",
+      "首选CTA门诊排查最划算"
+    ],
+    "atoms_text": "第一种 你只是偶尔的胸闷心慌 年纪不大 没有三高抽烟家族史 症状很轻 首选冠脉CTA 门诊做一个排除问题 最划算了 不用住院",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2770,
+    "seg_id": "S4-L3",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "四种情况如何选",
+    "template": "list_fade",
+    "items": [
+      "压榨样胸痛活动加重",
+      "合并三高肥胖家族史",
+      "直接造影避免二次检查"
+    ],
+    "atoms_text": "第二种呢 你的症状很典型 胸口啊 压榨样疼痛 活动就加重 休息就缓解 或者有三高抽烟肥胖各种家族史 风险很高 医生大概率会建议你直接做造影 不然CTA检查查出来血管狭窄很重 还得再做造影 花两遍钱受两遍罪",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2771,
+    "seg_id": "S4-L4",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "四种情况如何选",
+    "template": "warning_alert",
+    "items": [
+      "急性胸痛怀疑心梗直接造影"
+    ],
+    "atoms_text": "第三种呢 急性胸痛怀疑心梗 直接做造影 千万别犹豫 这是救命的检查 一分钟都耽误不起",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2772,
+    "seg_id": "S4-L5",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "四种情况如何选",
+    "template": "list_fade",
+    "items": [
+      "已放过支架或搭过桥",
+      "再次出现不适症状",
+      "首选造影CTA看不清支架内部"
+    ],
+    "atoms_text": "第四种呢 就是已经放过支架搭过桥 现在又不舒服 复查是要首选造影的 因为CTA 是看不清楚支架内部情况的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2773,
+    "seg_id": "S5-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "辐射与造影剂安全",
+    "template": "split_column",
+    "items": [
+      "CTA有辐射",
+      "造影也有辐射",
+      "均在安全范围内",
+      "正规医院做影响微乎其微"
+    ],
+    "atoms_text": "还有大家最担心的 辐射和造影剂伤害的问题 确实CTA有辐射 造影也有辐射 但都在安全范围里 正规医院做一次 对身体的影响微乎其微 不用过度的恐慌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2774,
+    "seg_id": "S5-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "辐射与造影剂安全",
+    "template": "branch_path",
+    "items": [
+      "造影剂需要排出体外",
+      "肾功能正常多喝水24小时排出",
+      "肾功能很差需特别注意"
+    ],
+    "atoms_text": "造影剂方面呢 肾功能正常的人 多喝水啊 二十四小时造影剂就排出去了 只有肾功能很差的人 才需要特别的注意",
+    "needs_animation": true,
+    "label": "造影剂经肾脏在24小时内随尿液排出体外"
+  },
+  {
+    "global_index": 2775,
+    "seg_id": "S6-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "三句话核心总结",
+    "template": "hero_text",
+    "items": [
+      "三句话记住选检查的核心原则"
+    ],
+    "atoms_text": "最后给大家总结 最核心的三句话",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2776,
+    "seg_id": "S6-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "三句话核心总结",
+    "template": "list_fade",
+    "items": [
+      "初步排查症状轻首选冠脉CTA"
+    ],
+    "atoms_text": "第一 想初步排查 怕麻烦 症状轻 选冠脉CTA",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2777,
+    "seg_id": "S6-L3",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "三句话核心总结",
+    "template": "list_fade",
+    "items": [
+      "症状典型风险高需精准选造影"
+    ],
+    "atoms_text": "第二 症状典型 心梗风险高 要精准的确诊 可能需要放支架的 选冠脉造影",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2778,
+    "seg_id": "S6-L4",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "三句话核心总结",
+    "template": "warning_alert",
+    "items": [
+      "急性心梗不稳定胸痛直接造影"
+    ],
+    "atoms_text": "第三个呢 急性心梗 不稳定性胸痛 直接造影吧 这是救命的事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2779,
+    "seg_id": "S7-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "结尾行动召唤",
+    "template": "split_column",
+    "items": [
+      "不敢做造影",
+      "没必要却住院做造影",
+      "耽误病情",
+      "白花钱多遭罪"
+    ],
+    "atoms_text": "其实很多朋友啊 就是因为不懂 要么不敢做造影 耽误了病情 要么没必要做造影 却白白住院 花了钱还遭罪",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2780,
+    "seg_id": "S7-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "结尾行动召唤",
+    "template": "hero_text",
+    "items": [
+      "转发给家人朋友心里有底不迷茫"
+    ],
+    "atoms_text": "今天我把最实用的判断标准讲给你 你可以转发给家里的亲人朋友 做到心里有底 不再迷茫",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2781,
+    "seg_id": "S7-L3",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "结尾行动召唤",
+    "template": "hero_text",
+    "items": [
+      "选对检查省钱安心早查早治"
+    ],
+    "atoms_text": "心脏问题无小事 选对检查 既省钱又安心 早查早放心 早治早安全",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2782,
+    "seg_id": "S1-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选透析为何这么纠结",
+    "template": "hero_text",
+    "items": [
+      "血透还是腹透，到底选哪个？"
+    ],
+    "atoms_text": "有一段话 我在门诊 经常需要跟人反复解释 就是到底该选血透还是腹透",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2783,
+    "seg_id": "S1-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选透析为何这么纠结",
+    "template": "list_fade",
+    "items": [
+      "家属到处打听，众说纷纭",
+      "一家人为此吵得比选房还纠结"
+    ],
+    "atoms_text": "家属到处打听 有人说血透好 有人说腹透好 最后一家人吵的 比选房子还纠结",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2784,
+    "seg_id": "S1-L3",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选透析为何这么纠结",
+    "template": "myth_buster",
+    "items": [
+      "血透比腹透更好",
+      "两者生存率相当，没有更好只有更适合",
+      "腹透比血透更好",
+      "要根据个人情况选择最适合的方式"
+    ],
+    "atoms_text": "我先把结论说在前面 目前的研究认为 血透和腹透的预期生存率 是差不多的 所以不存在哪个更好 只有哪个更适合你",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2785,
+    "seg_id": "S1-L4",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选透析为何这么纠结",
+    "template": "hero_text",
+    "items": [
+      "先搞清楚这两种透析是怎么回事"
+    ],
+    "atoms_text": "那你得先搞清楚 这两种透析到底是怎么回事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2786,
+    "seg_id": "S2-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "血透原理解析",
+    "template": "step_arrow",
+    "items": [
+      "血液从体内引出",
+      "通过透析器过滤毒素和多余水分",
+      "净化后的血液输回体内"
+    ],
+    "atoms_text": "血透就是 把你的血引出来 经过一个透析器 过滤一遍 把毒素和多余的水清掉 再输回去 相当于在体外 给血液洗个澡",
+    "needs_animation": true,
+    "label": "血液从体内引出经透析器过滤清除毒素和多余水分后回输体内"
+  },
+  {
+    "global_index": 2787,
+    "seg_id": "S2-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "血透原理解析",
+    "template": "list_fade",
+    "items": [
+      "每周去医院三次，每次四小时",
+      "手臂需做动静脉瘘方便扎针"
+    ],
+    "atoms_text": "一般一周去医院三次 每次四小时 需要在手臂上做一个动静脉瘘 方便每次扎针",
+    "needs_animation": true,
+    "label": "手臂上建立动静脉瘘用于反复穿刺透析"
+  },
+  {
+    "global_index": 2788,
+    "seg_id": "S3-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透原理解析",
+    "template": "step_arrow",
+    "items": [
+      "利用腹膜作为天然过滤器",
+      "透析液灌入腹腔，毒素渗入液体",
+      "每天换液三到五次，在家即可完成"
+    ],
+    "atoms_text": "腹透呢 是利用你自己肚子里的一层膜 腹膜 来当过滤器 在肚子上装一根管子 把透析液灌进去 毒素和水通过腹膜 慢慢渗到透析液里 再把脏的液体放出来 换新的 一天换三到五次 在家就能做",
+    "needs_animation": true,
+    "label": "透析液经腹部导管灌入腹腔后毒素和水通过腹膜渗透进透析液再排出更换"
+  },
+  {
+    "global_index": 2789,
+    "seg_id": "S4-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "两者核心差异",
+    "template": "hero_text",
+    "items": [
+      "差异不在效果，而在生活方式"
+    ],
+    "atoms_text": "说到这儿 你大概能感觉到 核心的区别 不在于效果 而在于生活方式",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2790,
+    "seg_id": "S5-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "血透的利与弊",
+    "template": "list_fade",
+    "items": [
+      "护士操作，患者省心躺着即可",
+      "四小时高效清除毒素和水分"
+    ],
+    "atoms_text": "血透的好处是省心 你去医院躺着 护士帮你搞定 清除效率高 四小时搞完 剩下的时间该干嘛干嘛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2791,
+    "seg_id": "S5-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "血透的利与弊",
+    "template": "list_fade",
+    "items": [
+      "每周三次雷打不动，上班族折腾",
+      "每次扎针，疼痛感真实存在"
+    ],
+    "atoms_text": "但问题是 一周三次雷打不动跑医院 对上班的人确实折腾 每次扎针也是真的疼",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2792,
+    "seg_id": "S5-L3",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "血透的利与弊",
+    "template": "warning_alert",
+    "items": [
+      "快速清除水分，血压波动大",
+      "心血管差者易低血压、头晕、抽筋"
+    ],
+    "atoms_text": "而且血透每次 快速清掉大量的水和毒素 身体波动大 对心脏的负担重 心血管不好的人 透析过程中可能 低血压 头晕 抽筋",
+    "needs_animation": true,
+    "label": "血透快速清除大量水分和毒素导致血容量剧烈波动加重心脏负担"
+  },
+  {
+    "global_index": 2793,
+    "seg_id": "S6-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透的优势",
+    "template": "list_fade",
+    "items": [
+      "出差旅行带透析液，随时可做",
+      "时间自主安排，生活灵活度高"
+    ],
+    "atoms_text": "腹透最大的优势是自由 在家操作 时间自己安排 出差旅行 带着透析液也能做",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2794,
+    "seg_id": "S6-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透的优势",
+    "template": "list_fade",
+    "items": [
+      "持续缓慢清毒，心脏冲击小",
+      "内环境平稳，身体波动小"
+    ],
+    "atoms_text": "而且腹透是持续的 慢慢的清毒素 身体内环境平稳 对心脏冲击小",
+    "needs_animation": true,
+    "label": "腹透持续缓慢清除毒素维持体内环境平稳减少心脏冲击"
+  },
+  {
+    "global_index": 2795,
+    "seg_id": "S6-L3",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透的优势",
+    "template": "hero_text",
+    "items": [
+      "腹透对残余肾功能的保护优于血透"
+    ],
+    "atoms_text": "腹透对残余肾功能的保护 大概率优于血透",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2796,
+    "seg_id": "S6-L4",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透的优势",
+    "template": "step_arrow",
+    "items": [
+      "肾脏仍有少量残余功能在运作",
+      "腹透不剧烈波动血容量",
+      "残余肾功能保留更久，长期价值高"
+    ],
+    "atoms_text": "你的肾虽然不行了 但可能还剩一点点功能在工作 腹透不会像血透那样 剧烈波动血容量 所以这点肾功能能保留更久 对长期透析的人很有价值",
+    "needs_animation": true,
+    "label": "腹透避免血容量剧烈波动从而保护肾脏残余滤过功能"
+  },
+  {
+    "global_index": 2797,
+    "seg_id": "S7-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透的风险与麻烦",
+    "template": "step_arrow",
+    "items": [
+      "每日换液卫生要求极高",
+      "操作不当细菌进入腹腔",
+      "反复腹膜炎导致腹膜功能衰竭"
+    ],
+    "atoms_text": "但腹透也有麻烦 每天三到五次换液 不能偷懒 卫生要求很高 操作不注意 细菌就可能跑进肚子里 引起腹膜炎 反复发炎会让腹膜功能越来越差 最后腹透就做不了了",
+    "needs_animation": true,
+    "label": "细菌经腹透导管侵入腹腔引发腹膜炎致腹膜反复炎症功能退化"
+  },
+  {
+    "global_index": 2798,
+    "seg_id": "S7-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透的风险与麻烦",
+    "template": "warning_alert",
+    "items": [
+      "透析液含葡萄糖，长期影响血糖血脂",
+      "糖尿病患者尤其需要注意"
+    ],
+    "atoms_text": "另外透析液含葡萄糖 长期下来 血糖和血脂容易出问题 糖尿病的人尤其要注意",
+    "needs_animation": true,
+    "label": "透析液中葡萄糖经腹膜吸收入血导致血糖血脂升高"
+  },
+  {
+    "global_index": 2799,
+    "seg_id": "S8-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选择方向指引",
+    "template": "hero_text",
+    "items": [
+      "几个明确方向帮你做决定"
+    ],
+    "atoms_text": "那到底要怎么选 我给你几个明确的方向",
+    "needs_animation": false,
+    "label": ""
+  }
+]

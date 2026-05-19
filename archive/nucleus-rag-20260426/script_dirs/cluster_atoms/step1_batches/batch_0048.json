@@ -1,0 +1,549 @@
+[
+  {
+    "global_index": 1920,
+    "seg_id": "S4-L2",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相三：血脂看的是长期水平",
+    "template": "number_center",
+    "items": [
+      "数年至十余年"
+    ],
+    "atoms_text": "血管里的斑块 不是一两天长出来的 而是几年甚至十几年 慢慢积累的",
+    "needs_animation": true,
+    "label": "血管斑块在数年间缓慢积累形成"
+  },
+  {
+    "global_index": 1921,
+    "seg_id": "S4-L3",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相三：血脂看的是长期水平",
+    "template": "step_arrow",
+    "items": [
+      "LDL 长期稍高",
+      "持续沉积于血管壁",
+      "斑块不断积累加重"
+    ],
+    "atoms_text": "低密度脂蛋白胆固醇 长期偏高 哪怕只是 稍微高一点 时间一长 也会不断沉积在血管壁",
+    "needs_animation": true,
+    "label": "低密度脂蛋白长期沉积到血管壁内"
+  },
+  {
+    "global_index": 1922,
+    "seg_id": "S4-L4",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相三：血脂看的是长期水平",
+    "template": "myth_buster",
+    "items": [
+      "这次体检正常就没事了",
+      "前几年偏高斑块已在悄悄形成"
+    ],
+    "atoms_text": "很多人 这一次体检正常 就觉得没事了 但前几年如果 一直偏高 斑块其实 已经在形成了",
+    "needs_animation": true,
+    "label": "血脂持续偏高期间斑块逐步形成"
+  },
+  {
+    "global_index": 1923,
+    "seg_id": "S4-L5",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相三：血脂看的是长期水平",
+    "template": "warning_alert",
+    "items": [
+      "不干预斑块将持续进展"
+    ],
+    "atoms_text": "而后续如果你 不管它 它还会 继续发展",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1924,
+    "seg_id": "S4-L6",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相三：血脂看的是长期水平",
+    "template": "hero_text",
+    "items": [
+      "血脂管理要长期稳定达标"
+    ],
+    "atoms_text": "所以啊 血脂管理核心 是长期稳定达标 而不是一次达标",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1925,
+    "seg_id": "S5-L1",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相四：饮食运动是基础",
+    "template": "hero_text",
+    "items": [
+      "控脂别盲目吃药，生活方式才是根本"
+    ],
+    "atoms_text": "第四个真相 控脂别盲目吃药 饮食运动 才是基础",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1926,
+    "seg_id": "S5-L2",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相四：饮食运动是基础",
+    "template": "list_fade",
+    "items": [
+      "轻度血脂异常优先调整生活方式",
+      "饮食与运动不可忽视"
+    ],
+    "atoms_text": "一定不要忽略 饮食和运动的 核心作用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1927,
+    "seg_id": "S5-L3",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相四：饮食运动是基础",
+    "template": "color_grid",
+    "items": [
+      "每日盐摄入 < 5g",
+      "减少饱和及反式脂肪",
+      "每周运动≥150分钟",
+      "控制体重"
+    ],
+    "atoms_text": "对于轻度的血脂异常 优先要通过 调整生活方式",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1928,
+    "seg_id": "S5-L4",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相四：饮食运动是基础",
+    "template": "branch_path",
+    "items": [
+      "根据个人心血管风险等级判断",
+      "高风险：尽早启动药物治疗",
+      "低风险：生活方式干预为主"
+    ],
+    "atoms_text": "控制每天盐摄入 要小于五克 减少饱和脂肪酸 和反式脂肪酸摄入 每周至少 一百五十分钟 中等强度的运动 而且要出汗 要控制体重",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1929,
+    "seg_id": "S5-L5",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相四：饮食运动是基础",
+    "template": "warning_alert",
+    "items": [
+      "是否用药务必遵医嘱，切勿自行决定"
+    ],
+    "atoms_text": "何时用药呢 取决于 你个人心血管风险的等级",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1930,
+    "seg_id": "S5-L6",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相四：饮食运动是基础",
+    "template": "list_fade",
+    "items": [
+      "生活方式是基础",
+      "药物治疗是辅助手段"
+    ],
+    "atoms_text": "高风险人群 可能需要尽早 启动药物治疗 务必遵医嘱 不要自行决定",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1931,
+    "seg_id": "S6-L1",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相五：查血脂还不够",
+    "template": "hero_text",
+    "items": [
+      "仅查血脂四项还不够"
+    ],
+    "atoms_text": "那第五个真相 不能只看血脂四项 还要查一下 脂蛋白小a 和颈动脉超声",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1932,
+    "seg_id": "S6-L2",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相五：查血脂还不够",
+    "template": "list_fade",
+    "items": [
+      "脂蛋白(a)由遗传决定，查一次终身有效",
+      "数值偏高直接增加血栓与斑块风险"
+    ],
+    "atoms_text": "脂蛋白小a 是遗传决定的 查一次 管一辈子",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1933,
+    "seg_id": "S6-L3",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相五：查血脂还不够",
+    "template": "warning_alert",
+    "items": [
+      "脂蛋白(a)高者须更严格控制LDL"
+    ],
+    "atoms_text": "如果数值偏高 会直接增加 血栓和斑块风险",
+    "needs_animation": true,
+    "label": "脂蛋白(a)升高促进血栓形成和斑块生长"
+  },
+  {
+    "global_index": 1934,
+    "seg_id": "S6-L4",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相五：查血脂还不够",
+    "template": "list_fade",
+    "items": [
+      "颈动脉超声是观察血管状态的窗口",
+      "颈部有斑块，心脑血管大概率也受累"
+    ],
+    "atoms_text": "所以啊 平时要更严控 低密度脂蛋白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1935,
+    "seg_id": "S6-L5",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相五：查血脂还不够",
+    "template": "color_grid",
+    "items": [
+      "费用低廉无创伤",
+      "建议每年检查一次"
+    ],
+    "atoms_text": "而颈动脉超声 是看血管的窗口 脖子上的血管有斑块 心脏脑袋的血管 大概率也不干净",
+    "needs_animation": true,
+    "label": "颈动脉超声探查血管壁斑块及多处血管斑块分布"
+  },
+  {
+    "global_index": 1936,
+    "seg_id": "S6-L6",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相五：查血脂还不够",
+    "template": "step_arrow",
+    "items": [
+      "血脂检测 + 颈动脉超声",
+      "结合分析更全面",
+      "更准确了解血管健康状况"
+    ],
+    "atoms_text": "这个检查 便宜无创 每年做一次 和血脂检测结合来看 能更全面的了解 自己的健康状况",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1937,
+    "seg_id": "S7-L1",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "总结与行动提醒",
+    "template": "warning_alert",
+    "items": [
+      "血脂正常只是基础，不是终点"
+    ],
+    "atoms_text": "最后提醒 血脂正常啊 只是基础 不是终点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1938,
+    "seg_id": "S7-L2",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "总结与行动提醒",
+    "template": "list_fade",
+    "items": [
+      "日常保持清淡饮食",
+      "坚持规律运动",
+      "高风险者遵医嘱控脂",
+      "定期复查守住血管健康"
+    ],
+    "atoms_text": "平时清淡饮食 规律运动 高风险人群 遵医嘱控脂 定期复查 才能真正 守住血管健康",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1939,
+    "seg_id": "S1-L1",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "开场抛问题",
+    "template": "image_overlay",
+    "items": [
+      "体检报告翻到心电图那页",
+      "赫然写着：窦性心律不齐"
+    ],
+    "atoms_text": "拿到体检报告 翻到心电图那一页 上面写着六个字 窦性心律不齐",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1940,
+    "seg_id": "S1-L2",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "开场抛问题",
+    "template": "warning_alert",
+    "items": [
+      "是不是得赶紧去医院？"
+    ],
+    "atoms_text": "那还得了 是不是得赶紧去医院看看",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1941,
+    "seg_id": "S1-L3",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "开场抛问题",
+    "template": "hero_text",
+    "items": [
+      "先别急，听我说清楚"
+    ],
+    "atoms_text": "先别急 我跟你说",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1942,
+    "seg_id": "S2-L1",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "门诊高频困惑",
+    "template": "image_overlay",
+    "items": [
+      "体检季门诊挤满拿报告来问诊的人",
+      "手指点着这六个字一脸紧张"
+    ],
+    "atoms_text": "每年体检季 我的门诊 都会来一批人 拿着体检报告 手指头点着这六个字 一脸紧张的问大夫 这个心律不齐 严不严重",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1943,
+    "seg_id": "S2-L2",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "门诊高频困惑",
+    "template": "number_center",
+    "items": [
+      "几分钟"
+    ],
+    "atoms_text": "我每次都得花好几分钟时间 给他们解释",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1944,
+    "seg_id": "S2-L3",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "门诊高频困惑",
+    "template": "hero_text",
+    "items": [
+      "这六个字要拆开来看：先看「窦性」"
+    ],
+    "atoms_text": "今天我一次讲清楚 这六个字 你得拆开来看 先看前面两个字 窦性",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1945,
+    "seg_id": "S3-L1",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "body_annotate",
+    "items": [
+      "心脏内有天然指挥官",
+      "负责发号施令让心脏跳动"
+    ],
+    "atoms_text": "窦性是什么意思呢 你的心脏里面 有一个天然的指挥官 负责发号施令 让心脏跳起来",
+    "needs_animation": true,
+    "label": "窦房结发出电信号指挥心脏规律跳动"
+  },
+  {
+    "global_index": 1946,
+    "seg_id": "S3-L2",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "hero_text",
+    "items": [
+      "报告写「窦性」= 指挥官在正常上班"
+    ],
+    "atoms_text": "你不用记它叫什么 就知道 只要心电图上写了窦性两个字 就说明这个指挥官在正常上班",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1947,
+    "seg_id": "S3-L3",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "hero_text",
+    "items": [
+      "窦性心律 = 心跳节奏正常"
+    ],
+    "atoms_text": "所以窦性心律 翻译成大白话 就是你的心跳节奏是正常的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1948,
+    "seg_id": "S4-L1",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "不齐到底怎么回事",
+    "template": "hero_text",
+    "items": [
+      "既然正常，为什么还写了「不齐」？"
+    ],
+    "atoms_text": "那既然正常 后面为什么又写了个不齐呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1949,
+    "seg_id": "S4-L2",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "不齐到底怎么回事",
+    "template": "myth_buster",
+    "items": [
+      "心跳像钟表，一秒一下均匀不变",
+      "心跳本就会随状态有快慢波动"
+    ],
+    "atoms_text": "因为人的心跳呀 本来就不是 像钟表一样 一秒一下一秒一下 完全均匀的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1950,
+    "seg_id": "S4-L3",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "不齐到底怎么回事",
+    "template": "step_arrow",
+    "items": [
+      "深吸一口气憋住",
+      "心跳微微加快",
+      "慢慢呼出，心跳随之减慢"
+    ],
+    "atoms_text": "你现在可以试一下 深吸一口气 憋住 你会感觉心跳微微快了一点 慢慢呼出来 心跳又慢下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1951,
+    "seg_id": "S4-L4",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "不齐到底怎么回事",
+    "template": "hero_text",
+    "items": [
+      "这种变化反映到心电图就是「不齐」"
+    ],
+    "atoms_text": "这个快一点慢一点 反映在心电图上 机器就会判断你的心律不齐 其实是你呼吸的时候 心跳跟着有点快慢变化而已",
+    "needs_animation": true,
+    "label": "呼吸导致心率快慢交替在心电图上呈现不均匀波形"
+  },
+  {
+    "global_index": 1952,
+    "seg_id": "S4-L5",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "不齐到底怎么回事",
+    "template": "split_column",
+    "items": [
+      "年轻人更容易出现",
+      "年龄越大反而越不明显"
+    ],
+    "atoms_text": "特别正常的生理现象 年轻人反而更加明显",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1953,
+    "seg_id": "S4-L6",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "不齐到底怎么回事",
+    "template": "hero_text",
+    "items": [
+      "心脏越灵活，波动越大，是调节好的表现"
+    ],
+    "atoms_text": "说白了 你的心脏越灵活 这种随着呼吸的快慢变化 反而越大 这不是病 而是你的心脏调节能力好的表现",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1954,
+    "seg_id": "S5-L1",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "结论：大多不需要处理",
+    "template": "hero_text",
+    "items": [
+      "窦性心律不齐 ≠ 心脏有病，无需处理"
+    ],
+    "atoms_text": "所以你体检报告上写的窦性心律不齐 大多数情况下的意思 就是你的心脏跳动节奏正常 只不过有点快慢交替的小波动 完全不需要处理",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1955,
+    "seg_id": "S5-L2",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "结论：大多不需要处理",
+    "template": "hero_text",
+    "items": [
+      "真有问题，心电图绝不止这六个字"
+    ],
+    "atoms_text": "如果你还是不太放心 那你就反过来想 如果你的心脏真的有什么问题 心电图上不会只写这六个字就完了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1956,
+    "seg_id": "S5-L3",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "结论：大多不需要处理",
+    "template": "list_fade",
+    "items": [
+      "房颤会明确写出房颤",
+      "早搏会明确写出早搏",
+      "ST段变化会明确标注"
+    ],
+    "atoms_text": "该写房颤会写房颤 该写早搏会写早搏 该写ST段变化会写ST段变化",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1957,
+    "seg_id": "S5-L4",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "结论：大多不需要处理",
+    "template": "hero_text",
+    "items": [
+      "心内科医生不会对真问题轻描淡写"
+    ],
+    "atoms_text": "我做了这么多年的心内科 真正有问题的心电图 没有哪个医生会轻描淡写的 只留一句窦性心律不齐就完了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1958,
+    "seg_id": "S6-L1",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "这些情况才要去查",
+    "template": "hero_text",
+    "items": [
+      "但有一类情况，不能忽视"
+    ],
+    "atoms_text": "当然我不是说 所有的心脏不舒服都不用管",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1959,
+    "seg_id": "S6-L2",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "这些情况才要去查",
+    "template": "warning_alert",
+    "items": [
+      "心慌、胸闷、突然心跳过快或过慢、晕倒"
+    ],
+    "atoms_text": "如果你平时经常感觉心慌胸闷 或者突然跳的特别快特别慢 又或者有过晕倒的情况 那不管心电图上写的是什么 都应该来心内科查一查看一看",
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,567 @@
+[
+  {
+    "global_index": 160,
+    "seg_id": "S1-L5",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "step_arrow",
+    "items": [
+      "胰腺日夜超负荷分泌",
+      "胰岛功能缓慢衰退",
+      "功能严重受损血糖崩溃"
+    ],
+    "atoms_text": "你的胰腺 在没日没夜的超负荷加班 胰岛功能呢 正在慢慢的衰退",
+    "needs_animation": true,
+    "label": "胰腺超负荷工作导致胰岛功能逐渐衰退"
+  },
+  {
+    "global_index": 161,
+    "seg_id": "S1-L6",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "warning_alert",
+    "items": [
+      "不干预，等待功能受损时已晚"
+    ],
+    "atoms_text": "如果不加以干预 等到它功能严重受损的那一天 你的血糖呢 就会全线崩溃",
+    "needs_animation": true,
+    "label": "胰岛功能严重受损后血糖调节全面崩溃"
+  },
+  {
+    "global_index": 162,
+    "seg_id": "S1-L7",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "糖尿病并非突然到来",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "atoms_text": "而它在罢工之前 至少给你发过三次求救信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 163,
+    "seg_id": "S2-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号一：肚子变大",
+    "template": "body_annotate",
+    "items": [
+      "四肢不胖",
+      "腹部单独凸出",
+      "内脏脂肪堆积"
+    ],
+    "atoms_text": "第一 低头看看你的肚子 如果你四肢不胖 唯独肚子很大 这叫做呢 内脏脂肪的堆积",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 164,
+    "seg_id": "S2-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号一：肚子变大",
+    "template": "step_arrow",
+    "items": [
+      "内脏脂肪持续积累",
+      "腰围超标",
+      "胰岛素抵抗风险升高"
+    ],
+    "atoms_text": "过多的内脏脂肪 是引发胰岛素抵抗核心的危险因素之一 腰围越粗 你的胰岛素抵抗 可能就越近",
+    "needs_animation": true,
+    "label": "内脏脂肪堆积引发胰岛素抵抗"
+  },
+  {
+    "global_index": 165,
+    "seg_id": "S3-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号二：饭后犯困",
+    "template": "hero_text",
+    "items": [
+      "吃完饭就困，可能不是懒"
+    ],
+    "atoms_text": "第二 吃完饭总是觉得特别困",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 166,
+    "seg_id": "S3-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号二：饭后犯困",
+    "template": "step_arrow",
+    "items": [
+      "大量精细碳水进入身体",
+      "血糖快速飙升",
+      "被迫分泌超量胰岛素"
+    ],
+    "atoms_text": "如果你本身存在胰岛素抵抗 在吃大量精细碳水之后 血糖呢 会快速的上升",
+    "needs_animation": true,
+    "label": "胰岛素抵抗状态下精细碳水导致血糖快速飙升"
+  },
+  {
+    "global_index": 167,
+    "seg_id": "S3-L3",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号二：饭后犯困",
+    "template": "warning_alert",
+    "items": [
+      "血糖大幅波动触发强烈疲惫感"
+    ],
+    "atoms_text": "身体不得不分泌 比常人更多的胰岛素 来处理这些糖分",
+    "needs_animation": true,
+    "label": "胰岛被迫代偿性分泌大量胰岛素处理糖分"
+  },
+  {
+    "global_index": 168,
+    "seg_id": "S3-L4",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号二：饭后犯困",
+    "template": "list_fade",
+    "items": [
+      "这种血糖较大幅度的波动呢",
+      "很容易让人产生",
+      "强烈的疲惫和困倦感"
+    ],
+    "atoms_text": "这种血糖较大幅度的波动呢 很容易让人产生 强烈的疲惫和困倦感",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 169,
+    "seg_id": "S4-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号三：皮肤发黑",
+    "template": "hero_text",
+    "items": [
+      "脖子腋窝发黑，搓不掉是警报"
+    ],
+    "atoms_text": "第三个信号 脖子和腋窝发黑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 170,
+    "seg_id": "S4-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号三：皮肤发黑",
+    "template": "myth_buster",
+    "items": [
+      "以为是没洗干净",
+      "黑棘皮症是胰岛素过高所致",
+      "反复搓洗没有用",
+      "应立即排查胰岛素抵抗"
+    ],
+    "atoms_text": "很多人以为是洗澡没有洗干净 怎么搓呢 都搓不掉",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 171,
+    "seg_id": "S4-L3",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "信号三：皮肤发黑",
+    "template": "hero_text",
+    "items": [
+      "高浓度胰岛素刺激皮肤细胞增生"
+    ],
+    "atoms_text": "其实这可能是黑棘皮症 是高浓度胰岛素 刺激皮肤细胞过度生长的典型标志",
+    "needs_animation": true,
+    "label": "高浓度胰岛素刺激皮肤细胞过度增生形成黑棘皮"
+  },
+  {
+    "global_index": 172,
+    "seg_id": "S5-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "好消息：还来得及",
+    "template": "hero_text",
+    "items": [
+      "胰岛素抵抗是完全可以逆转的"
+    ],
+    "atoms_text": "好消息是呢 如果在胰腺彻底累死之前 发现这些信号 胰岛素抵抗是完全可以逆转的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 173,
+    "seg_id": "S5-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "好消息：还来得及",
+    "template": "split_column",
+    "items": [
+      "早期发现及时干预",
+      "无需用药生活调整即可",
+      "拖到胰腺受损才干预",
+      "只能依赖药物治疗"
+    ],
+    "atoms_text": "早期干预阶段 不需要吃药 可以先尝试 在生活中做两个微小的变化",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 174,
+    "seg_id": "S6-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "变化一：换掉精细主食",
+    "template": "split_column",
+    "items": [
+      "白米饭 / 白面条",
+      "糙米 / 燕麦 / 薯类",
+      "升糖快，胰腺瞬间救火",
+      "升糖慢，胰腺从容应对"
+    ],
+    "atoms_text": "首先 给你的胰腺放个假 把你碗里的白米饭白面条 换掉一半 改成糙米燕麦或者薯类",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 175,
+    "seg_id": "S6-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "变化一：换掉精细主食",
+    "template": "hero_text",
+    "items": [
+      "给胰腺放个假"
+    ],
+    "atoms_text": "这些粗粮 进入血液的升糖速度慢 你的胰腺呢 就不需要瞬间分泌大量的胰岛素去救火",
+    "needs_animation": true,
+    "label": "粗粮缓慢释放糖分减轻胰腺瞬间分泌压力"
+  },
+  {
+    "global_index": 176,
+    "seg_id": "S7-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "变化二：建造糖分仓库",
+    "template": "hero_text",
+    "items": [
+      "肌肉是人体最大的储糖仓库"
+    ],
+    "atoms_text": "其次 去给你的身体建一个糖分的仓库",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 177,
+    "seg_id": "S7-L2",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "变化二：建造糖分仓库",
+    "template": "list_fade",
+    "items": [
+      "每天两组深蹲",
+      "饭后快走二十分钟",
+      "肌肉发力即可消耗血糖"
+    ],
+    "atoms_text": "人体最大的糖分仓库呢 就是你的肌肉",
+    "needs_animation": true,
+    "label": "肌肉作为人体最大糖原储存库的功能"
+  },
+  {
+    "global_index": 178,
+    "seg_id": "S7-L3",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "变化二：建造糖分仓库",
+    "template": "hero_text",
+    "items": [
+      "肌肉越强，血糖越稳"
+    ],
+    "atoms_text": "不用你去健身房举铁 每天哪怕做两组深蹲 或者饭后快走二十分钟 只要你的肌肉开始发力 就能消耗掉血糖",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 179,
+    "seg_id": "S8-L1",
+    "bp_title": "血糖崩溃前身体发出过三次求救",
+    "scene_title": "结语祝福",
+    "template": "hero_text",
+    "items": [
+      "管好血糖，守护健康身体"
+    ],
+    "atoms_text": "我都说明白了吗 希望大家都能管理好自己的血糖 祝大家有个健康的好身体",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 180,
+    "seg_id": "S1-L1",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "拿到报告后的恐慌",
+    "template": "hero_text",
+    "items": [
+      "CT报告写着结节，一搜全是肺癌"
+    ],
+    "atoms_text": "拿到CT报告 上面写着 磨玻璃结节 或者实性结节 打开手机一搜 满屏全是肺癌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 181,
+    "seg_id": "S1-L2",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "拿到报告后的恐慌",
+    "template": "warning_alert",
+    "items": [
+      "夜里越想越害怕，翻来覆去睡不着",
+      "手机一搜，吓出满屏癌症词条"
+    ],
+    "atoms_text": "然后就开始胡思乱想 我是不是得了 晚上躺在床上 翻来覆去睡不着 越想越害怕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 182,
+    "seg_id": "S2-L1",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "肺结节没你想的那么可怕",
+    "template": "hero_text",
+    "items": [
+      "先把心放下来，听我说完"
+    ],
+    "atoms_text": "你呢先把心放下来 听我跟你说 查出肺结节的人 非常多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 183,
+    "seg_id": "S2-L2",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "肺结节没你想的那么可怕",
+    "template": "step_arrow",
+    "items": [
+      "CT分辨率越来越高",
+      "以前看不见的小东西全能发现",
+      "结节检出率大幅上升"
+    ],
+    "atoms_text": "现在的CT分辨率 越越来越高 以前看不见的小东西 现在呢全部都能看见",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 184,
+    "seg_id": "S2-L3",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "肺结节没你想的那么可怕",
+    "template": "number_center",
+    "items": [
+      "90%+"
+    ],
+    "atoms_text": "体检发现肺结节的人 百分之九十几 最后证实呢 都不是什么癌症",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 185,
+    "seg_id": "S2-L4",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "肺结节没你想的那么可怕",
+    "template": "color_grid",
+    "items": [
+      "炎症愈合后的疤痕",
+      "淋巴结钙化灶",
+      "尚未完全吸收的炎症",
+      "普通良性小疙瘩"
+    ],
+    "atoms_text": "绝大多数的肺结节 就是一个良性的小疙瘩 它可能是 你之前得过炎症留下的疤痕 也可能是淋巴结 甚至可能就是 一个小块的炎症 还没有完全吸收",
+    "needs_animation": true,
+    "label": "肺结节的良性成因：炎症疤痕、淋巴结、未吸收炎症灶"
+  },
+  {
+    "global_index": 186,
+    "seg_id": "S3-L1",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "读懂报告上的专业术语",
+    "template": "list_fade",
+    "items": [
+      "CT上呈淡淡云雾状",
+      "密度低、边界不太清晰",
+      "常见于炎症感染留下的痕迹"
+    ],
+    "atoms_text": "报告上写着磨玻璃结节 不是说你肺呢变成玻璃 它呢是CT上看着 一团淡淡的云雾 密度比较低 边界呢不太清楚 很多炎症感染留下的痕迹 在CT上就长成这样",
+    "needs_animation": true,
+    "label": "磨玻璃结节在CT上呈云雾状低密度影像"
+  },
+  {
+    "global_index": 187,
+    "seg_id": "S3-L2",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "读懂报告上的专业术语",
+    "template": "split_column",
+    "items": [
+      "磨玻璃结节：密度低，形似云雾",
+      "实性结节：密度高，形态实在",
+      "部分实性：一半淡、一半实",
+      "均为影像形态描述，非诊断结论"
+    ],
+    "atoms_text": "写实性结节 就是这个小疙瘩 密度比较高 CT上看着比较实在",
+    "needs_animation": true,
+    "label": "实性结节在CT上呈高密度致密影像"
+  },
+  {
+    "global_index": 188,
+    "seg_id": "S3-L3",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "读懂报告上的专业术语",
+    "template": "myth_buster",
+    "items": [
+      "磨玻璃结节就是肺变成玻璃",
+      "这只是影像密度的形态描述",
+      "放射科报告直接等于诊断结论",
+      "报告是描述，诊断需结合临床"
+    ],
+    "atoms_text": "写部分实性 就是一半淡一半实 这些都是描述 它在片子上长什么样子",
+    "needs_animation": true,
+    "label": "部分实性结节CT上半淡半实的混合影像"
+  },
+  {
+    "global_index": 189,
+    "seg_id": "S3-L4",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "读懂报告上的专业术语",
+    "template": "hero_text",
+    "items": [
+      "影像描述形态，诊断结合全人"
+    ],
+    "atoms_text": "放射科的医生工作 就是如实描述 他看到的东西 至于这个东西到底是什么 要结合你自己的情况来判断",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 190,
+    "seg_id": "S4-L1",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "哪类结节需要认真对待",
+    "template": "hero_text",
+    "items": [
+      "记住几个关键点，看结节大小和形态"
+    ],
+    "atoms_text": "到底什么样的结节 需要当回事 记住几个关键点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 191,
+    "seg_id": "S4-L2",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "哪类结节需要认真对待",
+    "template": "vertical_timeline",
+    "items": [
+      "小于6mm：风险极低，定期复查即可",
+      "6-8mm：需持续监控，3-6个月复查CT",
+      "超过8mm：建议增强CT或穿刺排查"
+    ],
+    "atoms_text": "小于六毫米的纯磨玻璃结节 一般来说风险非常低 大概率不用做任何处理 按医生的建议 定期复查就行",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 192,
+    "seg_id": "S4-L3",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "哪类结节需要认真对待",
+    "template": "list_fade",
+    "items": [
+      "边缘不光滑，带有毛刺",
+      "轮廓出现分叶",
+      "内部实性成分增多"
+    ],
+    "atoms_text": "六到八毫米的 属于需要盯着的范围 医生一般会让你 三个月或者半年 复查一次CT 看看它有没有变化",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 193,
+    "seg_id": "S4-L4",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "哪类结节需要认真对待",
+    "template": "myth_buster",
+    "items": [
+      "有毛刺有分叶就一定是癌",
+      "这些只是需要认真排查的信号"
+    ],
+    "atoms_text": "超过八毫米的 或者复查发现长大的 医生可能会建议你 做进一步的检查 比如增强CT 或PET-CT 必要的时候穿刺看一看 这时候你好好配合就行",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 194,
+    "seg_id": "S4-L5",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "哪类结节需要认真对待",
+    "template": "branch_path",
+    "items": [
+      "复查时结节有无变化",
+      "无变化或缩小：继续观察随访",
+      "增大或特征改变：进一步检查"
+    ],
+    "atoms_text": "还有一种情况要留意 如果结节边缘不光滑 有毛刺 有分叶 或者里面出现了实性的成分在增多 这些都是医生要重点关注的特征",
+    "needs_animation": true,
+    "label": "结节边缘毛刺、分叶及实性成分增多的形态特征"
+  },
+  {
+    "global_index": 195,
+    "seg_id": "S4-L6",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "哪类结节需要认真对待",
+    "template": "hero_text",
+    "items": [
+      "有特征不等于是癌，认真排查就够了"
+    ],
+    "atoms_text": "但注意 有这些特征 也不等于就是癌 只是说需要认真地去排查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 196,
+    "seg_id": "S5-L1",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "三个月复查其实是好事",
+    "template": "warning_alert",
+    "items": [
+      "三个月太漫长，每天担心它在长"
+    ],
+    "atoms_text": "如果你害怕的是 医生让我三个月后复查 觉得三个月太漫长了 每天都在想 那个东西是不是还在长",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 197,
+    "seg_id": "S5-L2",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "三个月复查其实是好事",
+    "template": "myth_buster",
+    "items": [
+      "让我复查说明医生在拖延",
+      "复查恰恰说明当下情况不紧急"
+    ],
+    "atoms_text": "那你也可以反过来想 医生让你三个月复查 恰恰说明 判断你现在的情况不紧急 真正觉得有问题 他当场就给你安排进一步检查了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 198,
+    "seg_id": "S5-L3",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "三个月复查其实是好事",
+    "template": "hero_text",
+    "items": [
+      "复查是主动监控，不老实再收拾它"
+    ],
+    "atoms_text": "复查呢是在主动监控 看他老不老实 不老实我们再收拾他 记得上来得及",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 199,
+    "seg_id": "S6-L1",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "现在该做的事情",
+    "template": "step_arrow",
+    "items": [
+      "停止单纯在网上乱搜索",
+      "带报告找呼吸科或胸外科医生",
+      "结合年龄、烟史、家族史综合判断"
+    ],
+    "atoms_text": "所以你现在要做的事情很简单 别只在网上瞎搜索 实在害怕呢 就拿着你的报告 去找一个呼吸科 或者胸外科的医生 让他结合 你的片子 你的年龄 你的吸烟史 你的家族情况 给你一个具体的判断",
+    "needs_animation": false,
+    "label": ""
+  }
+]

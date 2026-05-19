@@ -1,0 +1,529 @@
+[
+  {
+    "global_index": 1160,
+    "seg_id": "S3-L2",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因一：暴饮暴食与饮酒",
+    "template": "warning_alert",
+    "items": [
+      "酒精加速心跳，诱发心律失常",
+      "酒精是心律失常最常见导火线"
+    ],
+    "needs_animation": true,
+    "label": "酒精诱发心律失常机制"
+  },
+  {
+    "global_index": 1161,
+    "seg_id": "S3-L3",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因一：暴饮暴食与饮酒",
+    "template": "list_fade",
+    "items": [
+      "三餐定时，每餐七分饱",
+      "少油少盐，戒酒或限量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1162,
+    "seg_id": "S4-L1",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因二：排便用力过猛",
+    "template": "step_arrow",
+    "items": [
+      "憋气用力，腹压骤升",
+      "血压随之升高",
+      "心脏负担瞬间加大，可致命"
+    ],
+    "needs_animation": true,
+    "label": "腹压升高致血压骤升的生理连锁反应"
+  },
+  {
+    "global_index": 1163,
+    "seg_id": "S4-L2",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因二：排便用力过猛",
+    "template": "list_fade",
+    "items": [
+      "多喝水，多摄入膳食纤维",
+      "保持通畅，排便别硬来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1164,
+    "seg_id": "S5-L1",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因三：情绪失控",
+    "template": "step_arrow",
+    "items": [
+      "易怒悲恸惊吓，交感神经亢奋",
+      "血压飙升，心脏耗氧量猛增",
+      "心脏不堪重负，猝死风险剧增"
+    ],
+    "needs_animation": true,
+    "label": "交感神经兴奋致血压升高与心脏耗氧增加"
+  },
+  {
+    "global_index": 1165,
+    "seg_id": "S5-L2",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因三：情绪失控",
+    "template": "number_center",
+    "items": [
+      "第1位"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1166,
+    "seg_id": "S5-L3",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因三：情绪失控",
+    "template": "list_fade",
+    "items": [
+      "生气时先做深呼吸",
+      "能走开就先走开，别拿命较劲"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1167,
+    "seg_id": "S6-L1",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因四：洗澡水过热过久",
+    "template": "step_arrow",
+    "items": [
+      "水温过高，血管扩张",
+      "心率加快，浴室缺氧",
+      "胸闷心慌，心脏负担加重"
+    ],
+    "needs_animation": true,
+    "label": "高温致血管扩张与心率加快的生理过程"
+  },
+  {
+    "global_index": 1168,
+    "seg_id": "S6-L2",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因四：洗澡水过热过久",
+    "template": "list_fade",
+    "items": [
+      "水温控制在35~38℃",
+      "每次不超过20分钟",
+      "老人洗澡最好有人陪伴"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1169,
+    "seg_id": "S7-L1",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因五：突然剧烈运动",
+    "template": "warning_alert",
+    "items": [
+      "平时不锻炼突然高强度运动",
+      "心脏负担骤增，易致心肌缺血"
+    ],
+    "needs_animation": true,
+    "label": "剧烈运动致心肌缺血过程"
+  },
+  {
+    "global_index": 1170,
+    "seg_id": "S7-L2",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因五：突然剧烈运动",
+    "template": "number_center",
+    "items": [
+      "150分钟"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1171,
+    "seg_id": "S8-L1",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因六：久坐不动",
+    "template": "brick_stack",
+    "items": [
+      "心肺功能逐渐退化",
+      "血压血脂容易出现问题",
+      "下肢血流变慢，易形成静脉血栓"
+    ],
+    "needs_animation": true,
+    "label": "久坐致下肢深静脉血栓形成过程"
+  },
+  {
+    "global_index": 1172,
+    "seg_id": "S8-L2",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因六：久坐不动",
+    "template": "warning_alert",
+    "items": [
+      "血栓脱落至肺部，引发肺栓塞",
+      "肺栓塞同样致命，不可忽视"
+    ],
+    "needs_animation": true,
+    "label": "静脉血栓脱落致肺栓塞过程"
+  },
+  {
+    "global_index": 1173,
+    "seg_id": "S8-L3",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因六：久坐不动",
+    "template": "list_fade",
+    "items": [
+      "每坐1小时，起身活动几分钟"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1174,
+    "seg_id": "S9-L1",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因七：熬夜与过劳",
+    "template": "step_arrow",
+    "items": [
+      "熬夜过劳，交感神经持续兴奋",
+      "心跳加速，血压升高",
+      "心脏得不到休息，风险累积"
+    ],
+    "needs_animation": true,
+    "label": "交感神经持续兴奋致心脏负担加重"
+  },
+  {
+    "global_index": 1175,
+    "seg_id": "S9-L2",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因七：熬夜与过劳",
+    "template": "myth_buster",
+    "items": [
+      "年轻身体好，熬夜扛得住",
+      "心脏不认为你扛得住"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1176,
+    "seg_id": "S9-L3",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因七：熬夜与过劳",
+    "template": "hero_text",
+    "items": [
+      "保证7~8小时睡眠，别拿命换钱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1177,
+    "seg_id": "S10-L1",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "总结与行动呼吁",
+    "template": "number_center",
+    "items": [
+      "55万+"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1178,
+    "seg_id": "S10-L2",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "总结与行动呼吁",
+    "template": "hero_text",
+    "items": [
+      "真正做到这七条的人，往往活得最久"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1179,
+    "seg_id": "S10-L3",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "总结与行动呼吁",
+    "template": "list_fade",
+    "items": [
+      "定期检查血压、血糖、血脂",
+      "别等扛不住了才去医院"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1180,
+    "seg_id": "S10-L4",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "总结与行动呼吁",
+    "template": "hero_text",
+    "items": [
+      "关爱心脏，从今天的每个选择开始"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1181,
+    "seg_id": "S1-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "错误认知引发焦虑",
+    "template": "myth_buster",
+    "items": [
+      "查出高血压就买活血化瘀补品",
+      "高血压与血管堵塞并无直接关系",
+      "每年固定输液\"通血管\"",
+      "通血管并不能降低血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1182,
+    "seg_id": "S1-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "错误认知引发焦虑",
+    "template": "warning_alert",
+    "items": [
+      "血压没控制住，白白遭了罪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1183,
+    "seg_id": "S1-L3",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "错误认知引发焦虑",
+    "template": "hero_text",
+    "items": [
+      "搞清因果，降血压才不走弯路"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1184,
+    "seg_id": "S2-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "高血压真正成因",
+    "template": "number_center",
+    "items": [
+      "90%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1185,
+    "seg_id": "S2-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "高血压真正成因",
+    "template": "myth_buster",
+    "items": [
+      "血管堵了导致血压升高",
+      "绝大多数人把因果完全搞反了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1186,
+    "seg_id": "S2-L3",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "高血压真正成因",
+    "template": "step_arrow",
+    "items": [
+      "血压是血流对管壁的压力",
+      "压力升高不是管里堵了东西",
+      "根本原因有三个核心点"
+    ],
+    "needs_animation": true,
+    "label": "血压形成原理（血流对血管壁压力）"
+  },
+  {
+    "global_index": 1187,
+    "seg_id": "S3-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血管弹性变差",
+    "template": "split_column",
+    "items": [
+      "年轻血管像橡皮管",
+      "老化血管像硬塑料管",
+      "血流来了能收缩舒张缓冲",
+      "毫无缓冲力，压力直线上升"
+    ],
+    "needs_animation": true,
+    "label": "血管弹性退化对血压调节的影响"
+  },
+  {
+    "global_index": 1188,
+    "seg_id": "S3-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血管弹性变差",
+    "template": "brick_stack",
+    "items": [
+      "长期高盐饮食",
+      "熬夜作息紊乱",
+      "自然年龄增长"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1189,
+    "seg_id": "S4-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血容量过高升压",
+    "template": "step_arrow",
+    "items": [
+      "吃盐越多，身体留水越多",
+      "血管内血容量随之增加",
+      "管壁承受压力自然升高"
+    ],
+    "needs_animation": true,
+    "label": "高盐摄入致水钠潴留与血容量升高机制"
+  },
+  {
+    "global_index": 1190,
+    "seg_id": "S4-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血容量过高升压",
+    "template": "hero_text",
+    "items": [
+      "控盐是为了控血容量，不是通血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1191,
+    "seg_id": "S4-L3",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血容量过高升压",
+    "template": "myth_buster",
+    "items": [
+      "医生让少吃盐是为了通血管",
+      "少盐的核心目的是控制血容量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1192,
+    "seg_id": "S5-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "神经调控失衡",
+    "template": "brick_stack",
+    "items": [
+      "长期熬夜",
+      "持续焦虑压力大",
+      "久坐缺乏运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1193,
+    "seg_id": "S5-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "神经调控失衡",
+    "template": "step_arrow",
+    "items": [
+      "控血管收缩的神经持续紧绷",
+      "血管收紧，管腔变细",
+      "压力升高，与堵塞无关"
+    ],
+    "needs_animation": true,
+    "label": "交感神经调控血管收缩致血压升高"
+  },
+  {
+    "global_index": 1194,
+    "seg_id": "S6-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血管堵塞的真实影响",
+    "template": "hero_text",
+    "items": [
+      "血管堵了到底会发生什么"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1195,
+    "seg_id": "S6-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血管堵塞的真实影响",
+    "template": "body_annotate",
+    "items": [
+      "血管内壁长出动脉粥样硬化斑块",
+      "斑块使管腔变窄",
+      "类似水管内壁积厚水垢"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块形成与管腔狭窄"
+  },
+  {
+    "global_index": 1196,
+    "seg_id": "S6-L3",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血管堵塞的真实影响",
+    "template": "split_column",
+    "items": [
+      "水管堵了一半",
+      "水龙头出水变小",
+      "直觉认为压力会升高",
+      "实际上压力反而会降低"
+    ],
+    "needs_animation": true,
+    "label": "血管狭窄后血流动力学变化"
+  },
+  {
+    "global_index": 1197,
+    "seg_id": "S6-L4",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "血管堵塞的真实影响",
+    "template": "warning_alert",
+    "items": [
+      "极罕见情况下堵塞才影响血压",
+      "血管堵塞绝非高血压常见成因"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1198,
+    "seg_id": "S7-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "真实因果链",
+    "template": "hero_text",
+    "items": [
+      "不是血管堵了导致高血压，正好相反"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1199,
+    "seg_id": "S7-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "真实因果链",
+    "template": "step_arrow",
+    "items": [
+      "长期高血压如高压水枪冲击管壁",
+      "血管内壁被冲出坑洼破损",
+      "血脂垃圾钻入，慢慢长成斑块",
+      "日积月累，血管堵塞形成"
+    ],
+    "needs_animation": true,
+    "label": "高血压损伤血管内壁致动脉粥样硬化斑块形成全过程"
+  }
+]

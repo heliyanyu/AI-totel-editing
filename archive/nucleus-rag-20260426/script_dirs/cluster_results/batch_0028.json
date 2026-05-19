@@ -1,0 +1,525 @@
+[
+  {
+    "global_index": 1120,
+    "seg_id": "S6-L2",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "暖心收尾提醒",
+    "template": "hero_text",
+    "items": [
+      "自律运动，是为了更好地生活"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1121,
+    "seg_id": "S6-L3",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "暖心收尾提醒",
+    "template": "warning_alert",
+    "items": [
+      "千万别拿身体来当赌注"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1122,
+    "seg_id": "S6-L4",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "暖心收尾提醒",
+    "template": "list_fade",
+    "items": [
+      "少熬夜，不透支体力",
+      "避免过度劳累"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1123,
+    "seg_id": "S6-L5",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "暖心收尾提醒",
+    "template": "hero_text",
+    "items": [
+      "守住健康底线，才能更好奔赴远方"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1124,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "冠心病患者的运动误区",
+    "template": "hero_text",
+    "items": [
+      "冠心病确诊后就不敢动了？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1125,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "冠心病患者的运动误区",
+    "template": "warning_alert",
+    "items": [
+      "走路都小心翼翼怕心脏出事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1126,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "冠心病患者的运动误区",
+    "template": "list_fade",
+    "items": [
+      "家人跟着紧张焦虑",
+      "恨不得天天让他躺着睡觉"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1127,
+    "seg_id": "S1-L4",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "冠心病患者的运动误区",
+    "template": "myth_buster",
+    "items": [
+      "越安静越安全",
+      "完全不动反而更危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1128,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "不动为什么更伤心脏",
+    "template": "hero_text",
+    "items": [
+      "肌肉越用越强，心脏也一样"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1129,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "不动为什么更伤心脏",
+    "template": "brick_stack",
+    "items": [
+      "心肌力量退化",
+      "血液循环变慢",
+      "血脂更容易升高",
+      "斑块长得更快"
+    ],
+    "needs_animation": true,
+    "label": "久坐不动导致心肌退化与冠状动脉斑块加速形成"
+  },
+  {
+    "global_index": 1130,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "不动为什么更伤心脏",
+    "template": "hero_text",
+    "items": [
+      "久卧伤心——真的伤你的心脏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1131,
+    "seg_id": "S2-L4",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "不动为什么更伤心脏",
+    "template": "split_column",
+    "items": [
+      "心脏病人能运动吗",
+      "不但能动，运动本身就是治疗",
+      "传统观念：静养为主",
+      "国际指南：运动列为核心处方"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1132,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "运动是双刃剑",
+    "template": "hero_text",
+    "items": [
+      "运动对血管是一把双刃剑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1133,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "运动是双刃剑",
+    "template": "step_arrow",
+    "items": [
+      "运动时血压升高心率加快",
+      "血液对血管壁冲击力增大",
+      "血管内膜承受直接损伤"
+    ],
+    "needs_animation": true,
+    "label": "运动时血流冲击血管内膜的损伤机制"
+  },
+  {
+    "global_index": 1134,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "运动是双刃剑",
+    "template": "step_arrow",
+    "items": [
+      "运动后身体代谢增强",
+      "微循环变丰富心脏更有力",
+      "长远血压心率双双下降"
+    ],
+    "needs_animation": true,
+    "label": "运动后微循环增强与心脏泵血能力提升"
+  },
+  {
+    "global_index": 1135,
+    "seg_id": "S3-L4",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "运动是双刃剑",
+    "template": "split_column",
+    "items": [
+      "运动时血管承受轻微冲击",
+      "运动后修复能力大幅上升",
+      "短期：一点点损伤",
+      "长远：获益远大于损伤"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1136,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "怎么动才安全有效",
+    "template": "branch_path",
+    "items": [
+      "运动时稍费力但能正常说话",
+      "中等强度，安全有效",
+      "喘到说不出话，强度过高需降低"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1137,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "怎么动才安全有效",
+    "template": "number_center",
+    "items": [
+      "3～5次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1138,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "怎么动才安全有效",
+    "template": "color_grid",
+    "items": [
+      "快走",
+      "骑车",
+      "游泳"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1139,
+    "seg_id": "S4-L4",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "怎么动才安全有效",
+    "template": "list_fade",
+    "items": [
+      "去医院做心肺运动试验",
+      "医生制定个人安全心率范围",
+      "在范围内运动既有效又安全"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1140,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "这几种情况先别动",
+    "template": "warning_alert",
+    "items": [
+      "有这几种情况须先暂停运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1141,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "这几种情况先别动",
+    "template": "warning_alert",
+    "items": [
+      "平时血压160～170运动飙到200",
+      "血管随时面临危险，先降压再动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1142,
+    "seg_id": "S5-L3",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "这几种情况先别动",
+    "template": "vertical_timeline",
+    "items": [
+      "刚发生心梗或刚完成介入手术",
+      "血管内膜尚未修复",
+      "须在医生指导下循序渐进"
+    ],
+    "needs_animation": true,
+    "label": "介入手术后血管内膜修复过程"
+  },
+  {
+    "global_index": 1143,
+    "seg_id": "S5-L4",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "这几种情况先别动",
+    "template": "warning_alert",
+    "items": [
+      "发烧或极度疲惫时炎症水平高",
+      "血管内膜更脆弱千万别逞强"
+    ],
+    "needs_animation": true,
+    "label": "炎症状态下血管内膜脆弱与损伤"
+  },
+  {
+    "global_index": 1144,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "给心脏病朋友的心里话",
+    "template": "hero_text",
+    "items": [
+      "生了病不代表你是废人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1145,
+    "seg_id": "S6-L2",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "给心脏病朋友的心里话",
+    "template": "step_arrow",
+    "items": [
+      "越不敢动身体越差",
+      "越差越不敢动",
+      "陷入无法自拔的恶性循环"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1146,
+    "seg_id": "S6-L3",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "给心脏病朋友的心里话",
+    "template": "step_arrow",
+    "items": [
+      "安全范围内坚持运动",
+      "心脏一点一点变强",
+      "生活质量超出你的想象"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1147,
+    "seg_id": "S6-L4",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "给心脏病朋友的心里话",
+    "template": "hero_text",
+    "items": [
+      "运动是确定性收益最高的投资"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1148,
+    "seg_id": "S6-L5",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "给心脏病朋友的心里话",
+    "template": "split_column",
+    "items": [
+      "急功近利盲目大量运动",
+      "找到节奏慢慢来才是真正护心",
+      "完全不动消极躺平",
+      "安全范围内持续坚持运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1149,
+    "seg_id": "S1-L1",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "心源性猝死是什么",
+    "template": "hero_text",
+    "items": [
+      "张雪峰老师心源性猝死，令人痛心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1150,
+    "seg_id": "S1-L2",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "心源性猝死是什么",
+    "template": "hero_text",
+    "items": [
+      "心源性猝死，到底是怎么回事？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1151,
+    "seg_id": "S1-L3",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "心源性猝死是什么",
+    "template": "step_arrow",
+    "items": [
+      "心脏靠电信号系统正常跳动",
+      "电信号紊乱，引发室颤",
+      "心脏只抖不泵，血液停止输送"
+    ],
+    "needs_animation": true,
+    "label": "心脏电信号紊乱引发室颤的过程"
+  },
+  {
+    "global_index": 1152,
+    "seg_id": "S1-L4",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "心源性猝死是什么",
+    "template": "step_arrow",
+    "items": [
+      "大脑数秒内失去供血",
+      "意识迅速丧失",
+      "几分钟内未除颤即可致命"
+    ],
+    "needs_animation": true,
+    "label": "心脏骤停后大脑缺血过程"
+  },
+  {
+    "global_index": 1153,
+    "seg_id": "S1-L5",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "心源性猝死是什么",
+    "template": "number_center",
+    "items": [
+      "80%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1154,
+    "seg_id": "S1-L6",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "心源性猝死是什么",
+    "template": "warning_alert",
+    "items": [
+      "猝死多发于家中，抢救率极低"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1155,
+    "seg_id": "S2-L1",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "斑块如何引发猝死",
+    "template": "number_center",
+    "items": [
+      "80%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1156,
+    "seg_id": "S2-L2",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "斑块如何引发猝死",
+    "template": "brick_stack",
+    "items": [
+      "高油高盐饮食",
+      "久坐不动",
+      "长期熬夜"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1157,
+    "seg_id": "S2-L3",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "斑块如何引发猝死",
+    "template": "branch_path",
+    "items": [
+      "需要诱因来点火",
+      "斑块破裂，引发心梗",
+      "无诱因，斑块暂时稳定"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉斑块破裂引发心梗过程"
+  },
+  {
+    "global_index": 1158,
+    "seg_id": "S2-L4",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "斑块如何引发猝死",
+    "template": "hero_text",
+    "items": [
+      "心脏最怕的七个诱因"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1159,
+    "seg_id": "S3-L1",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因一：暴饮暴食与饮酒",
+    "template": "step_arrow",
+    "items": [
+      "油脂入血管形成斑块",
+      "斑块破裂产生血栓",
+      "血栓堵塞，引发心梗"
+    ],
+    "needs_animation": true,
+    "label": "血脂沉积形成斑块到血栓堵塞引发心梗全过程"
+  }
+]

@@ -1,0 +1,576 @@
+[
+  {
+    "global_index": 3840,
+    "seg_id": "S5-L3",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "什么情况该真的去查",
+    "template": "step_arrow",
+    "items": [
+      "到心内科就诊",
+      "佩戴动态心电图小机器",
+      "记录二十四小时心跳数据"
+    ],
+    "atoms_text": "做个动态心电图 背一个小机器 记录二十四小时 看看有没有藏着什么问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3841,
+    "seg_id": "S5-L4",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "什么情况该真的去查",
+    "template": "branch_path",
+    "items": [
+      "体检报告有这句话",
+      "无任何症状 → 大概率正常",
+      "有明显不适 → 尽快来查"
+    ],
+    "atoms_text": "但如果你什么症状都没有 就体检报告上多了这么一句话 那大概率你是正常的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3842,
+    "seg_id": "S6-L1",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "别让报告焦虑你",
+    "template": "list_fade",
+    "items": [
+      "看不懂的报告词",
+      "越想越焦虑",
+      "焦虑本身引发了胸闷心慌"
+    ],
+    "atoms_text": "说实话 我见过太多人本来身体好好的 就是因为体检报告上一句看不懂的话 把自己焦虑出了胸闷心慌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3843,
+    "seg_id": "S6-L2",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "别让报告焦虑你",
+    "template": "hero_text",
+    "items": [
+      "体检是让你了解身体，不是吓自己"
+    ],
+    "atoms_text": "体检是让你了解身体情况的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3844,
+    "seg_id": "S1-L1",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "引发共鸣的开场追问",
+    "template": "hero_text",
+    "items": [
+      "你爸妈的降压药多久没换过了"
+    ],
+    "atoms_text": "你爸妈 吃的 那个降压药 多久 没有换过了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3845,
+    "seg_id": "S1-L2",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "引发共鸣的开场追问",
+    "template": "list_fade",
+    "items": [
+      "67岁老人，高血压史",
+      "氨氯地平吃了近15年",
+      "药方从未调整过"
+    ],
+    "atoms_text": "前段时间 有个粉丝 带他爸 来找我看病 六十七了 高血压 吃了快十五年的 氨氯地平 一天一片 从来没改过",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3846,
+    "seg_id": "S1-L3",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "引发共鸣的开场追问",
+    "template": "myth_buster",
+    "items": [
+      "血压好就代表没问题",
+      "没有定期复查的必要",
+      "身体没不舒服就够了",
+      "药一直吃就一直有效"
+    ],
+    "atoms_text": "我问老爷子 你这药 吃了这么久 中间复查过没有啊 他说 查什么呀 血压挺好的 也不难受",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3847,
+    "seg_id": "S1-L4",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "引发共鸣的开场追问",
+    "template": "vertical_timeline",
+    "items": [
+      "· 查过肾功能无异常",
+      "· 再未复查过"
+    ],
+    "atoms_text": "我说 你最近一次 查肾功能 是什么时候 他想了半天 说好像 五六年前 检查过 没啥问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3848,
+    "seg_id": "S2-L1",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "检查结果：器官已受损",
+    "template": "number_center",
+    "items": [
+      "50+"
+    ],
+    "atoms_text": "我给他一查 肌酐 已经偏高了 肾小球滤过率 掉到了 五十多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3849,
+    "seg_id": "S2-L2",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "检查结果：器官已受损",
+    "template": "hero_text",
+    "items": [
+      "肾脏功能已悄悄丢失近一半"
+    ],
+    "atoms_text": "换句话说 他的肾脏功能 已经丢掉了 将近一半",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3850,
+    "seg_id": "S2-L3",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "检查结果：器官已受损",
+    "template": "body_annotate",
+    "items": [
+      "左心室肥厚",
+      "室间隔增厚"
+    ],
+    "atoms_text": "心脏彩超一做 左心室肥厚 室间隔 也厚了",
+    "needs_animation": true,
+    "label": "左心室壁与室间隔在长期高血压下增厚的结构变化"
+  },
+  {
+    "global_index": 3851,
+    "seg_id": "S2-L4",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "检查结果：器官已受损",
+    "template": "step_arrow",
+    "items": [
+      "多年血压持续偏高",
+      "心脏拼命代偿变厚变粗",
+      "代偿到极限走向心衰"
+    ],
+    "atoms_text": "你知道 这意味着什么吗 他的心脏 为了对抗 这么多年的 血压高 已经想尽一切 把自己变粗了",
+    "needs_animation": true,
+    "label": "心肌为对抗持续高血压而代偿性肥厚的过程"
+  },
+  {
+    "global_index": 3852,
+    "seg_id": "S2-L5",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "检查结果：器官已受损",
+    "template": "warning_alert",
+    "items": [
+      "心脏变厚不是强壮，是在透支"
+    ],
+    "atoms_text": "但这种粗 不是好事 是心脏在 拼命扛 扛到一定程度 就是心衰",
+    "needs_animation": true,
+    "label": "肥厚心肌超过代偿极限后进展为心力衰竭"
+  },
+  {
+    "global_index": 3853,
+    "seg_id": "S3-L1",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "儿子的疑惑与医生的解释",
+    "template": "hero_text",
+    "items": [
+      "一直在吃药，血压正常，怎么会这样"
+    ],
+    "atoms_text": "他儿子当时 脸就白了 问我 大夫 他不是 一直在吃药吗 血压一直正常啊 怎么会这样",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3854,
+    "seg_id": "S3-L2",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "儿子的疑惑与医生的解释",
+    "template": "vertical_timeline",
+    "items": [
+      "· 血管弹性好，肾脏心脏尚强健",
+      "· 血管变硬，肾脏滤过力下降"
+    ],
+    "atoms_text": "我说 这就是问题所在 你爸 是十几年前 开始吃的 那个药 他五十出头 血管弹性还行 肾脏还好 心脏也扛得住 那个药 是给他 当时那个身体 选的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3855,
+    "seg_id": "S3-L3",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "儿子的疑惑与医生的解释",
+    "template": "split_column",
+    "items": [
+      "当年的身体状态",
+      "当年选的那个药",
+      "十几年后的身体",
+      "药方却从未改变"
+    ],
+    "atoms_text": "但人会老啊 十几年过去了 血管变硬了 肾脏的过滤能力 掉了 他自己不知道 心脏的负担 也不是当年了",
+    "needs_animation": true,
+    "label": "衰老导致血管硬化、肾小球滤过能力下降和心脏负担加重"
+  },
+  {
+    "global_index": 3856,
+    "seg_id": "S3-L4",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "儿子的疑惑与医生的解释",
+    "template": "hero_text",
+    "items": [
+      "身体变了，药没变，还能保护你吗"
+    ],
+    "atoms_text": "身体变了 药没变 你觉得 他还能 很好的 保护他吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3857,
+    "seg_id": "S4-L1",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "血压达标≠万事大吉",
+    "template": "myth_buster",
+    "items": [
+      "血压数字正常就说明没问题",
+      "血压达标只是最低要求",
+      "降压药都一样，换哪个无所谓",
+      "不同药物保护靶器官的侧重各不同"
+    ],
+    "atoms_text": "很多人觉得 血压数字正常 就说明没问题 说实话 这是 我们能听到 最多的 一句误解",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3858,
+    "seg_id": "S4-L2",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "血压达标≠万事大吉",
+    "template": "color_grid",
+    "items": [
+      "某类药对肾脏有保护",
+      "某类药帮心脏减负",
+      "某类药更适合糖尿病患者",
+      "老龄身体需要重新适配"
+    ],
+    "atoms_text": "血压达标 只是最低要求 降压药 跟降压药之间的 差别 大了去了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3859,
+    "seg_id": "S4-L3",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "血压达标≠万事大吉",
+    "template": "split_column",
+    "items": [
+      "十几年前的身体",
+      "那时选的降压药",
+      "现在的身体完全不同",
+      "用药方案早该更新"
+    ],
+    "atoms_text": "有的药 在降压的同时 能辅助肾脏 有的 能帮心脏减负 有的 对糖尿病患者 更合适",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3860,
+    "seg_id": "S4-L4",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "血压达标≠万事大吉",
+    "template": "list_fade",
+    "items": [
+      "你爸现在的身体",
+      "跟十几年前相比",
+      "完全是两个人了",
+      "可能需要的",
+      "早就不是"
+    ],
+    "atoms_text": "你爸现在的身体 跟十几年前相比 完全是两个人了 可能需要的 早就不是 当年那个药了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3861,
+    "seg_id": "S5-L1",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "早复查才能多一分选择",
+    "template": "step_arrow",
+    "items": [
+      "几年前就来复查调整",
+      "医生加用肾保护类药物",
+      "肾功能下降或可延缓"
+    ],
+    "atoms_text": "像刚才那个老爷子 如果他 早几年 就来复查 调整过方案 医生可能会 根据他的心脏情况 加上或者换用 对肾脏有额外保护作用的 药物 情况可能会 更好一些",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3862,
+    "seg_id": "S5-L2",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "早复查才能多一分选择",
+    "template": "warning_alert",
+    "items": [
+      "肌酐已高，很多药反而不敢用了"
+    ],
+    "atoms_text": "但现在 肌酐已经高了 很多药 反而不太敢用了 你说 可不可惜",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3863,
+    "seg_id": "S6-L1",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "自查清单：这几条中了几条",
+    "template": "list_fade",
+    "items": [
+      "降压药吃了十几年从未调整",
+      "从不查肾功能尿常规",
+      "从不做心脏彩超"
+    ],
+    "atoms_text": "你对照看看 你爸妈 有没有 这几种情况 药吃了 十几年以上 从来没有调整过",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3864,
+    "seg_id": "S6-L2",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "自查清单：这几条中了几条",
+    "template": "list_fade",
+    "items": [
+      "血压降了但头晕没好",
+      "脚踝出现水肿",
+      "夜里起夜次数越来越多"
+    ],
+    "atoms_text": "从来不查 肾功能 尿常规 心脏彩超",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3865,
+    "seg_id": "S6-L3",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "自查清单：这几条中了几条",
+    "template": "list_fade",
+    "items": [
+      "又多了糖尿病",
+      "又多了高血脂",
+      "降压药还是原来那个"
+    ],
+    "atoms_text": "血压倒是降下来了 但 头晕 脚肿 夜里起来上厕所的 次数 越来越多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3866,
+    "seg_id": "S6-L4",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "自查清单：这几条中了几条",
+    "template": "warning_alert",
+    "items": [
+      "中了任意一条，就该去医院了"
+    ],
+    "atoms_text": "这些年 又多了 糖尿病 或者血脂问题 降压药 还是原来那个",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3867,
+    "seg_id": "S6-L5",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "自查清单：这几条中了几条",
+    "template": "hero_text",
+    "items": [
+      "有一条就要去查，别拖"
+    ],
+    "atoms_text": "有任何一条 都应该去一趟医院了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3868,
+    "seg_id": "S7-L1",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "怎么去看诊：三句话就够",
+    "template": "list_fade",
+    "items": [
+      "心内科或老年科",
+      "普通号就够，不必挂专家"
+    ],
+    "atoms_text": "你不用挂 什么大专家 心内科 或者老年科 普通号就行",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3869,
+    "seg_id": "S7-L2",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "怎么去看诊：三句话就够",
+    "template": "step_arrow",
+    "items": [
+      "这个药吃了十几年没换过",
+      "这些年又多了某某问题",
+      "请帮忙看看要不要调整"
+    ],
+    "atoms_text": "跟医生说 三句话 我爸这个降压药 吃了十几年 没换过 这些年 又多了 什么什么问题 麻烦你帮忙看看 要不要调整",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3870,
+    "seg_id": "S7-L3",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "怎么去看诊：三句话就够",
+    "template": "hero_text",
+    "items": [
+      "三句话说完，剩下交给医生"
+    ],
+    "atoms_text": "这三句话 就够了 剩下来的 交给医生",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3871,
+    "seg_id": "S8-L1",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "高血压最狡猾的地方",
+    "template": "myth_buster",
+    "items": [
+      "吃了这么多年没事，应该没问题",
+      "没出事不代表没有在受伤",
+      "身体没感觉就是药还管用",
+      "感觉不到的损伤才最危险"
+    ],
+    "atoms_text": "你可能觉得 他吃了这么多年 也没出事 是不是 小题大做了 不是的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3872,
+    "seg_id": "S8-L2",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "高血压最狡猾的地方",
+    "template": "step_arrow",
+    "items": [
+      "血压长期未精准管控",
+      "器官缓慢受损，无明显感觉",
+      "发现时肾脏已丢失一半",
+      "心脏已肥厚，调整空间极小"
+    ],
+    "atoms_text": "高血压这个病 最狡猾的地方 就在于 它伤人 伤的特别慢 慢到 你以为 它已经不存在了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3873,
+    "seg_id": "S8-L3",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "高血压最狡猾的地方",
+    "template": "hero_text",
+    "items": [
+      "高血压伤人，慢到你以为它不存在"
+    ],
+    "atoms_text": "等你发现的时候 肾脏已经丢了一半 心脏已经变厚了 那个时候 再来调药 能做的事情 就少多了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3874,
+    "seg_id": "S9-L1",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "你能为父母做的那一件事",
+    "template": "split_column",
+    "items": [
+      "让他少吃盐，他不听",
+      "带他去医院查一次",
+      "让他多走路，他嫌烦",
+      "让医生评估药方是否该换"
+    ],
+    "atoms_text": "说实话 你管不了 你爸妈 一辈子的 生活习惯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3875,
+    "seg_id": "S9-L2",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "你能为父母做的那一件事",
+    "template": "list_fade",
+    "items": [
+      "带父母去医院复诊一次",
+      "让医生评估十几年的药方"
+    ],
+    "atoms_text": "让他少吃盐 他不听 让他多走路 他嫌烦 这些你改变不了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3876,
+    "seg_id": "S9-L3",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "你能为父母做的那一件事",
+    "template": "myth_buster",
+    "items": [
+      "过年买很多保健品表孝心",
+      "带去查一次药比保健品有用万倍"
+    ],
+    "atoms_text": "但有一件事 你能做 带他去一趟医院 让医生看一看 这个吃了十几年的药 是不是需要调整",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3877,
+    "seg_id": "S9-L4",
+    "bp_title": "降压药吃了十几年没换过？小心肾脏已悄悄受损",
+    "scene_title": "你能为父母做的那一件事",
+    "template": "hero_text",
+    "items": [
+      "带他去查一次，这是最值钱的孝心"
+    ],
+    "atoms_text": "这件事 比你过年 给他买 很多很多保健品 要有用 一万倍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3878,
+    "seg_id": "S1-L1",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "体检报告里的无声预警",
+    "template": "hero_text",
+    "items": [
+      "心梗后才发现报告早有征兆"
+    ],
+    "atoms_text": "我在门诊 经常遇到 心梗做完支架了 家属拿着之前的体检报告 来问我 医生 我们年年都体检的 怎么一点征兆都没有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3879,
+    "seg_id": "S1-L2",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "体检报告里的无声预警",
+    "template": "hero_text",
+    "items": [
+      "征兆全写在报告上，没人讲透"
+    ],
+    "atoms_text": "我一看报告 征兆全在上面写着呢 只是没人告诉他",
+    "needs_animation": false,
+    "label": ""
+  }
+]

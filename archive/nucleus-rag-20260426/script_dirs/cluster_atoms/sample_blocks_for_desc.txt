@@ -1,0 +1,159 @@
+[0] ANH19226 Treatment for Tetralogy of Fallot [63-82s]
+    Your child may not be ready for a complete repair right away. In this case, a temporary repair, such as a shunt or a stent, can be placed until a complete repair can be done. Both repairs increase blood flow to the lungs and improve oxygen levels in the blood delivered to the body.
+
+[1] ANH19226 Treatment for Tetralogy of Fallot [135-141s]
+    If the main pulmonary artery is too small, it will be widened with a patch.
+
+[2] ANH19226 Treatment for Tetralogy of Fallot [225-230s]
+    To find out more about treatment for tetralogy of follow, talk to your health care provider.
+
+[3] ANH13113 Acute Coronary Syndrome and Heart Attack [225-231s]
+    Thrombolytics, also known as clot buster drugs, may be used to break up any existing blood
+
+[4] ANH13113 Acute Coronary Syndrome and Heart Attack [155-189s]
+    A blocked coronary artery may also cause you to feel sudden pain, discomfort, tightening, or a burning sensation in your chest called angina. This pain may extend to your upper abdomen, shoulders, arms, neck, and lower jaw. If you have angina when you're at rest or frequent angina that prevents even moderate physical activity, you have unstable angina which is the main symptom of acute coronary
+
+[5] ANH13113 Acute Coronary Syndrome and Heart Attack [129-155s]
+    Regardless of the cause, a blockage in either coronary artery prevents the oxygen and nutrients in your blood from reaching the part of your heart supplied by the artery. As a result, heart muscle in that area starts to die. Death of part of your heart muscle is called a heart attack. It's also known as a myocardial infarction or MI.
+
+[6] AND13015 Removing Your Pain Pump [315-322s]
+    Step 6. Cover the site where the tube entered your skin with an adhesive bandage.
+
+[7] AND13015 Removing Your Pain Pump [244-257s]
+    Materials for removing the pump. To remove your pain pump you will need an adhesive bandage and a trash bag.
+
+[8] AND13015 Removing Your Pain Pump [57-79s]
+    The pump gives you numbing medicine at a rate ordered by your surgeon. The rate on the pump cannot be changed. You receive the medicine over two to four days. When the pump is empty, you remove the tube and throw the pump and tube away.
+
+[9] ANCE00199S102 What Blood Vessels are Commonly Used [12-32s]
+    For the internal thoracic artery graft, your surgeon will leave the upper end attached to the subclavian artery, and divert the lower end from your chest wall to your coronary artery, just beyond the blockage. Your surgeon will then sew the graft into place.
+
+[10] ANCE00199S102 What Blood Vessels are Commonly Used [0-12s]
+    Different blood vessels may typically be used for the grafts. The internal thoracic arteries in the chest, also known as internal mammary arteries, or the saffonous veins in the legs.
+
+[11] ANCE00199S102 What Blood Vessels are Commonly Used [32-43s]
+    For the saffonous vein graft, your surgeon will suture one end to the aorta, and the other end to the narrowed artery, just beyond the blockage.
+
+[12] Common Causes of Heart Failure [23-33s]
+    Other common causes of heart failure include uncontrolled high blood pressure and high blood sugar in diabetes.
+
+[13] Common Causes of Heart Failure [33-51s]
+    Less common causes of heart failure include diseased, infected or damaged heart valves, your regular heartbeats, called arrhythmias, heart defects, poisons or substance abuse, lung diseases, and breathing problems during sleep, called sleep apnea.
+
+[14] Common Causes of Heart Failure [10-21s]
+    For example, the most common cause is coronary artery disease in which blood vessels that supply your heart muscle, called coronary arteries, become blocked by a fatty substance called
+
+[15] ANH16182 Magnetic Resonance Imaging (MRI) [187-196s]
+    In some cases, you may get contrast dye with your MRI. The dye helps make clearer pictures.
+
+[16] ANH16182 Magnetic Resonance Imaging (MRI) [130-139s]
+    For either type of scanner, a technologist will operate it from the next room. You will be able to talk to each other through a two-way speaker.
+
+[17] ANH16182 Magnetic Resonance Imaging (MRI) [114-127s]
+    In some areas, open scanners are available. This scanner is open on the sides, so you won't be completely surrounded by the machine. However, the pictures may not be as good as with closed scanners.
+
+[18] ANCE00174 Coronary Artery Angioplasty (Radial Acce [45-64s]
+    Then, the needle will be withdrawn. It will be exchanged for a small, flexible tube called a sheath. This permits access into your artery. You may feel pressure when the doctor inserts the sheath, but you will not feel it moving inside your artery.
+
+[19] ANCE00174 Coronary Artery Angioplasty (Radial Acce [40-45s]
+    Next, a flexible guide wire will be passed through the needle into your artery.
+
+[20] ANCE00174 Coronary Artery Angioplasty (Radial Acce [115-125s]
+    When the balloon inflates, it will expand the artery and improve the blood flow. You may feel some chest discomfort while this is happening.
+
+[21] ANH23268 Transcatheter Aortic Valve Implantation ( [217-223s]
+    To find out more about trans catheter aortic valve implantation, talk to your healthcare practitioner.
+
+---
+
+**切分说明（16 个 logic blocks）：**
+
+| # | 主题 | 画面动作 |
+|---|------|----------|
+| 1 | 手术介绍 | 标题/概念引入 TAVI/TAVR |
+| 2 | 主动脉瓣解剖 | 展示心脏四瓣膜、左心室与主动脉位置 |
+| 3 | 瓣膜开放 | 左心室收缩，血液通过三个瓣叶 |
+| 4 | 瓣膜关闭 | 左心室舒张，瓣膜关闭防止回流 |
+| 5 | 钙化狭窄病变 | 钙沉积→瓣叶增厚→开口狭窄→血流减少 |
+| 6 | 左室壁增厚 | 代偿性心肌肥厚动画 |
+| 7 | 腹股沟切口+鞘管置入 | 切皮→股动脉开口→置入引导鞘 |
+| 8 | 导丝推进 | 导丝经股动脉→主动脉→穿过瓣膜→进入左室 |
+| 9 | 球囊扩张（预扩） | 导管通过瓣膜，球囊充气撑开瓣叶 |
+| 10 | 球囊回收 | 球囊放气，撤出导管 |
+| 11 | 人工瓣膜描述 | 展示组织瓣+金属支架结构，压缩装载 |
+| 12 | 瓣膜释放 | 导管送入瓣膜位置，球囊扩张释放支架瓣 |
+| 13 | 释放后固定 | 球囊放气，支架支撑瓣膜就位 |
+| 14 | 撤出导管导丝 | 移除catheter和guide wire |
+| 15 | 切口关闭 | 撤鞘管，缝合双侧腹股沟切口 |
+| 16 | 结束语 | 建议咨询医生 |
+
+[22] ANH23268 Transcatheter Aortic Valve Implantation ( [18-32s]
+    Your aortic valve is one of the four valves in your heart. It lies between your left ventricle or lower left chamber and the large blood vessel supplying oxygen-rich blood to your body called the aorta.
+
+[23] ANH23268 Transcatheter Aortic Valve Implantation ( [179-190s]
+    After placement of the new aortic valve, your doctor will deflate the balloon. The stent will support and secure the replacement valve in place.
+
+[24] ANS00432 Carotid Artery Disease [0-14s]
+    In your neck are two major blood vessels called the carotid arteries, which carry oxygen-rich blood from your heart to your brain. You can feel the pulse of the carotid artery in the side of your neck.
+
+[25] ANS00432 Carotid Artery Disease [39-44s]
+    When the blood flow is completely obstructed, as in a carotid artery blockage, a stroke
+
+[26] ANS00432 Carotid Artery Disease [30-39s]
+    If blood flow to the brain is blocked temporarily, a transient ischemic attack, also known as a TIA, may occur.
+
+[27] Normal Anatomy and Function of the Heart [30-37s]
+    In your heart, oxygen poor blood flows from your body through large veins into your right atrium.
+
+[28] Normal Anatomy and Function of the Heart [46-53s]
+    Oxygen rich blood moves out of your lungs into your left atrium, then moves into your left ventricle.
+
+[29] Normal Anatomy and Function of the Heart [37-46s]
+    Next, your blood moves into your right ventricle, which contracts, sending blood out of the heart to pick up oxygen from your lungs.
+
+[30] ANS00260 Atherosclerosis [21-42s]
+    Although the exact causes of atherosclerosis are not clear, many scientists think it begins with damage to the inner wall of an artery, called the endothelium, substances traveling in the blood, such as cholesterol, fats, and cellular waste products accumulate inside the damaged area of the arterial wall.
+
+[31] ANS00260 Atherosclerosis [59-73s]
+    In response, monocytes from the bloodstream travel to the damaged site. Stimulation from oxidized cholesterol converts the monocytes into macrophages.
+
+[32] ANS00260 Atherosclerosis [132-142s]
+    Eventually, the passageway through the artery narrows, enough to reduce blood flow, and the amount of oxygen received by the organs it supplies.
+
+[33] ANS00201 Balloon Angioplasty with Stent Repair (De [30-44s]
+    Some patients will receive a coronary stent, which is a small tube made of wire mesh, designed to prop open the artery once it has been treated. A collapsed stent is placed over the deflated balloon as it's moved into position.
+
+[34] ANS00201 Balloon Angioplasty with Stent Repair (De [25-29s]
+    Afterwards, your doctor will withdraw the deflated balloon and catheter from your arteries.
+
+[35] ANS00201 Balloon Angioplasty with Stent Repair (De [48-54s]
+    After the balloon and catheter are withdrawn, the stent remains behind to hold the artery open permanently.
+
+[36] ANCE00199S103 What are the Different Types of Coro [24-45s]
+    When the surgeon chooses to do the surgery without using the heart lung machine, the heart continues to beat. This may be referred to as off-pump bypass surgery or minimally invasive surgery. Instead, a mechanical device is used to steady the part of the heart where the grafting is being done.
+
+[37] ANCE00199S103 What are the Different Types of Coro [45-57s]
+    Surgeons perform minimally invasive bypass procedures using specially designed instruments inserted through small incisions or ports in the chest.
+
+[38] ANCE00199S103 What are the Different Types of Coro [0-14s]
+    During a conventional bypass surgery, your surgeon begins by making an incision in the skin over your breastbone or sternum. He or she will then cut the sternum and move your ribcage in order to get to your heart.
+
+[39] ANH13109 Craniotomy and Craniectomy [262-281s]
+    You may have a variation on a craniotomy called a craniectomy if your brain is very swollen or your skull is infected. Your surgeon may delay reattaching the bone flap until a later procedure to allow time for the swelling to go down.
+
+[40] ANH13109 Craniotomy and Craniectomy [294-304s]
+    If you had a craniectomy, you will have another procedure called a cranioplasty at a later date after the swelling goes down.
+
+[41] ANH13109 Craniotomy and Craniectomy [45-57s]
+    Between the arachnoid motor and the pia-motor is the subarachnoid space, which contains blood vessels and a clear fluid called cerebrospinal fluid.
+
+[42] ANH19228 Treatment Options for Leukemia [196-210s]
+    Your doctor may prescribe a combination of the treatments we've discussed or different treatment options than those mentioned here. As you deal with a diagnosis of leukemia, continue to talk to your doctor and your cancer
+
+[43] ANH19228 Treatment Options for Leukemia [70-96s]
+    Another treatment option is radiation therapy. It uses radiation to kill cancer cells or stop them from growing. The target area of the radiation varies depending on the stage and type of leukemia. The type of radiation therapy used for leukemia is external radiation. It uses a machine that aims radiation at the cancer from outside the body.
+
+[44] ANH19228 Treatment Options for Leukemia [123-155s]
+    Immunotherapy can help your immune system fight leukemia. For example, monoclonal antibodies are laboratory-produced versions of proteins that your immune system makes to fight bacteria, viruses, chemicals, and other foreign substances. Monoclonal antibodies can be designed to attach to markers on leukemia cells and become part of the immune system attacking the leukemia. When attached to immune cells, monoclonal antibodies can help recognize and destroy the leukemia
+
+Total: 45 samples

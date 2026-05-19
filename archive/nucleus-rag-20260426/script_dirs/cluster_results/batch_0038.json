@@ -1,0 +1,518 @@
+[
+  {
+    "global_index": 1520,
+    "seg_id": "S3-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "brick_stack",
+    "items": [
+      "消耗越多血糖掉得越快",
+      "糖尿病人血管本就脆弱",
+      "高强度冲击血管受不了"
+    ],
+    "needs_animation": true,
+    "label": "糖尿病患者血管脆弱与运动冲击损伤机制"
+  },
+  {
+    "global_index": 1521,
+    "seg_id": "S3-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "number_center",
+    "items": [
+      "5"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1522,
+    "seg_id": "S3-L5",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "hero_text",
+    "items": [
+      "稍感费力但还能正常说话，刚刚好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1523,
+    "seg_id": "S3-L6",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "category_table",
+    "items": [
+      "过量运动",
+      "推荐强度",
+      "低血糖风险高、伤血管",
+      "每周五天、每次半小时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1524,
+    "seg_id": "S4-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "hero_text",
+    "items": [
+      "只做有氧运动还不够"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1525,
+    "seg_id": "S4-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "myth_buster",
+    "items": [
+      "走路跑步就够了",
+      "有氧加力量训练效果才完整"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1526,
+    "seg_id": "S4-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "hero_text",
+    "items": [
+      "肌肉越多，血糖消耗越持续"
+    ],
+    "needs_animation": true,
+    "label": "肌肉组织摄取消耗血糖的生理机制"
+  },
+  {
+    "global_index": 1527,
+    "seg_id": "S4-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "step_arrow",
+    "items": [
+      "加入力量训练",
+      "肌肉量增加",
+      "静息状态血糖也更易消耗"
+    ],
+    "needs_animation": true,
+    "label": "肌肉量增加促进静息血糖代谢机制"
+  },
+  {
+    "global_index": 1528,
+    "seg_id": "S4-L5",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "list_fade",
+    "items": [
+      "深蹲",
+      "俯卧撑",
+      "弹力带训练"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1529,
+    "seg_id": "S4-L6",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "split_column",
+    "items": [
+      "有氧运动",
+      "力量训练"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1530,
+    "seg_id": "S5-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "hero_text",
+    "items": [
+      "血糖极高时硬练很危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1531,
+    "seg_id": "S5-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "myth_buster",
+    "items": [
+      "血糖十六七了，赶紧运动降下来",
+      "血糖过高时运动反而更危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1532,
+    "seg_id": "S5-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "step_arrow",
+    "items": [
+      "血糖超过14，胰岛素严重不足",
+      "身体无法利用血糖，开始分解脂肪",
+      "酮体堆积，引发酮症酸中毒"
+    ],
+    "needs_animation": true,
+    "label": "高血糖状态下酮症酸中毒发生机制"
+  },
+  {
+    "global_index": 1533,
+    "seg_id": "S5-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "warning_alert",
+    "items": [
+      "酮症酸中毒同样危及生命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1534,
+    "seg_id": "S5-L5",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "number_center",
+    "items": [
+      "14"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1535,
+    "seg_id": "S6-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "方法对了，每天半小时胜过猛练三天"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1536,
+    "seg_id": "S1-L1",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "有一种高血压，真的能根治"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1537,
+    "seg_id": "S1-L2",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "开场点题",
+    "template": "myth_buster",
+    "items": [
+      "高血压都是终身病",
+      "部分高血压有冒牌货",
+      "吃药就能控制血压",
+      "找对病根才能治根"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1538,
+    "seg_id": "S1-L3",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "年纪轻轻血压高",
+      "不胖不瘦生活好",
+      "吃两三种药降不下来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1539,
+    "seg_id": "S2-L1",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "真实病例引入",
+    "template": "number_center",
+    "items": [
+      "180/110"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1540,
+    "seg_id": "S2-L2",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "真实病例引入",
+    "template": "list_fade",
+    "items": [
+      "不抽烟不喝酒",
+      "坚持健身运动",
+      "按时吃药仍降不下来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1541,
+    "seg_id": "S2-L3",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "真实病例引入",
+    "template": "hero_text",
+    "items": [
+      "先别着急，做个检查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1542,
+    "seg_id": "S2-L4",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "真实病例引入",
+    "template": "hero_text",
+    "items": [
+      "血压高的根儿不在血管里"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1543,
+    "seg_id": "S3-L1",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "split_column",
+    "items": [
+      "全楼水压都高",
+      "某处水管在漏水",
+      "血管或心脏原因",
+      "有隐藏病灶在加压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1544,
+    "seg_id": "S3-L2",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "hero_text",
+    "items": [
+      "继发性高血压：漏水导致全楼加压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1545,
+    "seg_id": "S3-L3",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "step_arrow",
+    "items": [
+      "肾上腺长了小腺瘤",
+      "不停分泌加压素",
+      "血压层层往上窜"
+    ],
+    "needs_animation": true,
+    "label": "肾上腺腺瘤分泌激素导致继发性高血压机制"
+  },
+  {
+    "global_index": 1546,
+    "seg_id": "S3-L4",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "body_annotate",
+    "items": [
+      "肾上腺：肾脏上方两顶小帽子",
+      "腺瘤：持续分泌加压素的元凶"
+    ],
+    "needs_animation": true,
+    "label": "肾上腺解剖位置与腺瘤结构"
+  },
+  {
+    "global_index": 1547,
+    "seg_id": "S3-L5",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "warning_alert",
+    "items": [
+      "病根未除，降压药效果极差"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1548,
+    "seg_id": "S3-L6",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "step_arrow",
+    "items": [
+      "降压药告诉全楼别加压",
+      "漏水口一直在喊快加压",
+      "血压根本降不下来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1549,
+    "seg_id": "S3-L7",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "继发性高血压原理",
+    "template": "hero_text",
+    "items": [
+      "关键在于找到那个漏水点"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1550,
+    "seg_id": "S4-L1",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "治愈案例结果",
+    "template": "step_arrow",
+    "items": [
+      "上级医院手术切除腺瘤",
+      "术后第二天血压降至120",
+      "此后再未吃一片降压药"
+    ],
+    "needs_animation": true,
+    "label": "肾上腺腺瘤切除手术过程"
+  },
+  {
+    "global_index": 1551,
+    "seg_id": "S4-L2",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "治愈案例结果",
+    "template": "number_center",
+    "items": [
+      "120"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1552,
+    "seg_id": "S4-L3",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "治愈案例结果",
+    "template": "hero_text",
+    "items": [
+      "早知能根治，早点来查就好了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1553,
+    "seg_id": "S5-L1",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "排查继发性高血压",
+    "template": "hero_text",
+    "items": [
+      "出现以下情况，建议去专科排查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1554,
+    "seg_id": "S5-L2",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "排查继发性高血压",
+    "template": "list_fade",
+    "items": [
+      "40岁以下血压居高不下",
+      "血压常超160/100 mmHg"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1555,
+    "seg_id": "S5-L3",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "排查继发性高血压",
+    "template": "warning_alert",
+    "items": [
+      "吃两三种降压药仍控制不住"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1556,
+    "seg_id": "S5-L4",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "排查继发性高血压",
+    "template": "list_fade",
+    "items": [
+      "莫名乏力浑身没劲",
+      "腿软无力反复出现"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1557,
+    "seg_id": "S5-L5",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "排查继发性高血压",
+    "template": "list_fade",
+    "items": [
+      "夜间打鼾严重",
+      "存在呼吸暂停现象"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1558,
+    "seg_id": "S5-L6",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "排查继发性高血压",
+    "template": "step_arrow",
+    "items": [
+      "抽血化验相关指标",
+      "做肾上腺CT扫描",
+      "进行睡眠监测"
+    ],
+    "needs_animation": true,
+    "label": "继发性高血压排查检查流程（肾上腺CT与睡眠监测）"
+  },
+  {
+    "global_index": 1559,
+    "seg_id": "S6-L1",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "总结与呼吁",
+    "template": "hero_text",
+    "items": [
+      "高血压不一定是终身病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

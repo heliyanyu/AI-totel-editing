@@ -1,0 +1,556 @@
+[
+  {
+    "global_index": 2240,
+    "seg_id": "S6-L3",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "焦虑失眠也会头晕",
+    "template": "list_fade",
+    "items": [
+      "11点前放下手机上床",
+      "保证每晚7~8小时睡眠"
+    ],
+    "atoms_text": "平时最好在十一点钟以前 就要放下手机 躺在床上面 保证七到八小时的睡眠",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2241,
+    "seg_id": "S7-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "脑卒中紧急识别",
+    "template": "warning_alert",
+    "items": [
+      "头晕伴一侧手脚麻木无力",
+      "突然说话不清或走路偏斜"
+    ],
+    "atoms_text": "第六个就是脑卒中啊 如果你头晕的同时 出现了一侧的手脚发麻 没有力气 说话突然说不清楚了 或者走路的时候往一边歪了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2242,
+    "seg_id": "S7-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "脑卒中紧急识别",
+    "template": "hero_text",
+    "items": [
+      "不要犹豫，立刻去医院！"
+    ],
+    "atoms_text": "那这种情况不要犹豫 赶紧到医院去啊 这可能是脑卒中",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2243,
+    "seg_id": "S7-L3",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "脑卒中紧急识别",
+    "template": "step_arrow",
+    "items": [
+      "每拖延1分钟",
+      "大量脑细胞死亡",
+      "立即拨打120争分夺秒"
+    ],
+    "atoms_text": "每拖延一分钟啊 脑细胞它就大量死亡 必须立即拨打一二零 抢在这个黄金救助时间里面救援",
+    "needs_animation": true,
+    "label": "脑卒中每拖延一分钟脑细胞大量死亡"
+  },
+  {
+    "global_index": 2244,
+    "seg_id": "S8-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "实用小建议总结",
+    "template": "hero_text",
+    "items": [
+      "5个实用建议，应对日常头晕"
+    ],
+    "atoms_text": "最后啊 再给你几个实用的小建议",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2245,
+    "seg_id": "S8-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "实用小建议总结",
+    "template": "list_fade",
+    "items": [
+      "记录发作时间、场景、感受",
+      "为医生诊断提供参考依据"
+    ],
+    "atoms_text": "第一个呢就是 做一个头晕日记 记录你发作的时间 场景 感觉 对医生的诊断很有帮助的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2246,
+    "seg_id": "S8-L3",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "实用小建议总结",
+    "template": "vertical_timeline",
+    "items": [
+      "醒后躺床上静待半分钟",
+      "缓慢坐起再等半分钟",
+      "腿垂床边再坐半分钟",
+      "再缓慢站起身"
+    ],
+    "atoms_text": "第二个呢就是 缓慢的改变体位 尤其是你早上起床 遵循三个半分钟 对吧 躺半分钟 坐半分钟 腿下垂坐半分钟 然后再站起来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2247,
+    "seg_id": "S8-L4",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "实用小建议总结",
+    "template": "list_fade",
+    "items": [
+      "避免熬夜，疲劳也是头晕诱因"
+    ],
+    "atoms_text": "第三个就是保证充足的睡眠 不要熬夜啊 很多的头晕是疲劳导致的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2248,
+    "seg_id": "S8-L5",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "实用小建议总结",
+    "template": "list_fade",
+    "items": [
+      "焦虑紧张是头晕的常见诱因"
+    ],
+    "atoms_text": "第四个管理好情绪 焦虑啊 紧张啊 也是常见的原因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2249,
+    "seg_id": "S8-L6",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "实用小建议总结",
+    "template": "color_grid",
+    "items": [
+      "影响生活应及时就诊",
+      "首选耳鼻喉科",
+      "或挂神经内科"
+    ],
+    "atoms_text": "第五个呢就是及时就医 反复头晕影响生活的话 那建议看耳鼻喉科 或者神经内科",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2250,
+    "seg_id": "S8-L7",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "实用小建议总结",
+    "template": "hero_text",
+    "items": [
+      "头晕6大原因，你学会了吗？"
+    ],
+    "atoms_text": "关于头晕 我讲明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2251,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "开场点题",
+    "template": "number_center",
+    "items": [
+      "1/4"
+    ],
+    "atoms_text": "全世界啊 每四个人里面 就有一个人 心脏里面有一个小洞 这就是卵圆孔未闭",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2252,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "这个小洞需要手术吗？"
+    ],
+    "atoms_text": "那他到底需要手术吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2253,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "什么是卵圆孔未闭",
+      "它是心脏病吗",
+      "什么时候需要警惕",
+      "发现后该怎么办"
+    ],
+    "atoms_text": "今天我们 用四个问题 来说清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2254,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么是卵圆孔未闭",
+    "template": "hero_text",
+    "items": [
+      "什么是卵圆孔未闭？"
+    ],
+    "atoms_text": "第一个就是 什么是卵圆孔未闭",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2255,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么是卵圆孔未闭",
+    "template": "body_annotate",
+    "items": [
+      "胎儿无法用肺呼吸",
+      "左右心房之间有卵圆孔",
+      "血液通过此孔直接流通"
+    ],
+    "atoms_text": "在你妈妈肚子里面的时候 胎儿 它是不能用肺呼吸的 对吧 那心脏左右心房之间的话 有一个卵圆孔的通道啊 它让这个血液直接流通",
+    "needs_animation": true,
+    "label": "胎儿期左右心房间卵圆孔通道让血液直接流通"
+  },
+  {
+    "global_index": 2256,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么是卵圆孔未闭",
+    "template": "step_arrow",
+    "items": [
+      "出生后第一声啼哭",
+      "肺开始工作",
+      "卵圆孔自然关闭"
+    ],
+    "atoms_text": "出生以后呢 随着你第一声啼哭 肺开始工作 这个孔道就会自然的关闭",
+    "needs_animation": true,
+    "label": "出生后第一声啼哭肺开始工作卵圆孔自然关闭"
+  },
+  {
+    "global_index": 2257,
+    "seg_id": "S2-L4",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么是卵圆孔未闭",
+    "template": "hero_text",
+    "items": [
+      "门没关严，留下缝隙，即卵圆孔未闭"
+    ],
+    "atoms_text": "但是大约有四分之一的人 这一扇门没有完全关严 留下了一道缝隙 这就是卵圆孔未闭",
+    "needs_animation": true,
+    "label": "卵圆孔未完全关闭留下缝隙"
+  },
+  {
+    "global_index": 2258,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "它是心脏病吗",
+    "template": "hero_text",
+    "items": [
+      "卵圆孔未闭是心脏病吗？"
+    ],
+    "atoms_text": "第二个就是 它是心脏病吗 严重吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2259,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "它是心脏病吗",
+    "template": "number_center",
+    "items": [
+      "25%"
+    ],
+    "atoms_text": "放心啊 卵圆孔未闭 非常常见 通常不可怕 成年人 每四个人里面就有一个",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2260,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "它是心脏病吗",
+    "template": "list_fade",
+    "items": [
+      "一辈子可能毫不知情",
+      "生活运动完全不受影响"
+    ],
+    "atoms_text": "绝大多数人啊 一辈子都不知道的 生活运动完全不受影响",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2261,
+    "seg_id": "S3-L4",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "它是心脏病吗",
+    "template": "myth_buster",
+    "items": [
+      "这是传统意义上的心脏病",
+      "这只是解剖结构上的小差异"
+    ],
+    "atoms_text": "它更像是 一个解剖结构上的一个小差异 而不是传统意义上的心脏病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2262,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "hero_text",
+    "items": [
+      "什么情况下需要警惕？"
+    ],
+    "atoms_text": "第三个就是 什么时候需要警惕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2263,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "split_column",
+    "items": [
+      "左心压力较高",
+      "门缝被压住不漏血"
+    ],
+    "atoms_text": "正常情况下面呢 你的左心的压力 它比这个右心要高的 对吧 这一扇没有关严的门啊 它是被压住的 血液是过不去的啊",
+    "needs_animation": true,
+    "label": "左心压力高于右心将未闭卵圆孔压住阻止血液通过"
+  },
+  {
+    "global_index": 2264,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "color_grid",
+    "items": [
+      "剧烈咳嗽",
+      "用力排便",
+      "突然憋气",
+      "右心压力瞬间飙升"
+    ],
+    "atoms_text": "但有些时刻 比如说你剧烈咳嗽啊 用力排便啊 突然憋气啊 对吧 右心的压力瞬间升高 门被冲开 右心的血液 它就会混到左心",
+    "needs_animation": true,
+    "label": "咳嗽憋气时右心压力瞬间升高冲开卵圆孔血液混入左心"
+  },
+  {
+    "global_index": 2265,
+    "seg_id": "S4-L4",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "step_arrow",
+    "items": [
+      "右心静脉血含微小血栓",
+      "绕过肺部过滤直入左心",
+      "冲入动脉直奔大脑"
+    ],
+    "atoms_text": "而这个右心的静脉血里面 它可能会有 微小的血栓 或者有害的物质 对吧 本来应该先到肺里面去过滤掉 结果现在 直接抄近道 就跑到左心了 一路就冲进动脉 直奔大脑",
+    "needs_animation": true,
+    "label": "静脉血中微小血栓绕过肺过滤经卵圆孔进入左心冲向大脑"
+  },
+  {
+    "global_index": 2266,
+    "seg_id": "S4-L5",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "hero_text",
+    "items": [
+      "可能带来两个健康问题"
+    ],
+    "atoms_text": "这就有可能带来两个问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2267,
+    "seg_id": "S4-L6",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "warning_alert",
+    "items": [
+      "隐源性脑卒中",
+      "不明原因中风的重要原因之一"
+    ],
+    "atoms_text": "一个就是 隐源性的脑卒中 对吧 尤其是这个 如果发生不明原因的中风 卵圆孔未闭 是重要的原因之一",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2268,
+    "seg_id": "S4-L7",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "warning_alert",
+    "items": [
+      "有害物质绕过肺直接刺激大脑",
+      "可能诱发或加重先兆性偏头痛"
+    ],
+    "atoms_text": "第二个就是 偏头痛 一些本来应该被肺过滤掉的 一些化学物质 它直接的刺激大脑 对吧 可能会诱发或者加重 你的这个先兆性的偏头痛",
+    "needs_animation": true,
+    "label": "未被肺过滤的化学物质经卵圆孔直接刺激大脑诱发偏头痛"
+  },
+  {
+    "global_index": 2269,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "发现后该怎么办",
+    "template": "hero_text",
+    "items": [
+      "发现卵圆孔未闭后怎么办？"
+    ],
+    "atoms_text": "第四个就是 发现以后该怎么办啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2270,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "发现后该怎么办",
+    "template": "hero_text",
+    "items": [
+      "按三种情况对号入座"
+    ],
+    "atoms_text": "如果你在体检的时候 发现卵圆孔未闭 可以按照以下的情况 对号入座",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2271,
+    "seg_id": "S5-L3",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "发现后该怎么办",
+    "template": "category_table",
+    "items": [
+      "无症状人群（绝大多数）",
+      "无需治疗，正常生活"
+    ],
+    "atoms_text": "第一种呢就是 无症状人群 对吧 这个是绝大多数的 没有偏头痛 也没有这个中风的 甚至不用治疗啊 正常生活 无需焦虑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2272,
+    "seg_id": "S5-L4",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "发现后该怎么办",
+    "template": "branch_path",
+    "items": [
+      "头痛严重且药物效果差",
+      "可咨询封堵，部分人明显缓解",
+      "症状轻微则继续观察"
+    ],
+    "atoms_text": "第二种就是 偏头痛人群 如果偏头痛严重的影响到你的生活 对吧 而且药物治疗效果也不好 那你可以咨询医生 是否可以考虑封堵 有研究表明啊 部分人封堵以后 头痛是明显缓解的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2273,
+    "seg_id": "S5-L5",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "发现后该怎么办",
+    "template": "warning_alert",
+    "items": [
+      "已发生不明原因中风",
+      "积极干预，建议封堵术"
+    ],
+    "atoms_text": "那第三种就是 中风的人群 如果已经发生不明原因的中风 需要积极的干预 医生啊 通常会建议 做一个卵圆孔未闭的封堵术",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2274,
+    "seg_id": "S5-L6",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "发现后该怎么办",
+    "template": "step_arrow",
+    "items": [
+      "穿刺腿部血管",
+      "送入小伞封堵门缝",
+      "微创，恢复快"
+    ],
+    "atoms_text": "这是一种微创手术 你就从腿上面 对吧 穿刺血管 送一个小伞 把这个门缝堵上 创伤小 恢复快",
+    "needs_animation": true,
+    "label": "从腿部穿刺血管送入封堵伞堵住卵圆孔的微创手术"
+  },
+  {
+    "global_index": 2275,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "心脏里安静的小过客"
+    ],
+    "atoms_text": "卵圆孔未闭啊 就像你心脏里面的 一个安静的小过客",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2276,
+    "seg_id": "S6-L2",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "总结收尾",
+    "template": "split_column",
+    "items": [
+      "大多数人：不打扰生活",
+      "极少数人：关注并处理"
+    ],
+    "atoms_text": "对于大多数人来说 它都不打搅你的生活的 只有极少数情况下面 才需要我们去关注和处理",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2277,
+    "seg_id": "S6-L3",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "别自己吓自己，交给医生科学决策"
+    ],
+    "atoms_text": "发现问题 不要自己吓自己 交给专业的医生 用科学的方法 做出最适合的选择",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2278,
+    "seg_id": "S1-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "门诊真实困惑",
+    "template": "hero_text",
+    "items": [
+      "血压138/85，算正常吗？"
+    ],
+    "atoms_text": "我们在门诊 经常遇到 这样的情况 有人拿着血压计 测出来的 一百三八十五 说 大夫你看看 我这个血压 是不是正常的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2279,
+    "seg_id": "S1-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "门诊真实困惑",
+    "template": "hero_text",
+    "items": [
+      "118/78，是不是偏低了？"
+    ],
+    "atoms_text": "也有些人 测出来 一百一十八七十八 说 我这个血压 是不是有点低了 是不是要补一补",
+    "needs_animation": false,
+    "label": ""
+  }
+]

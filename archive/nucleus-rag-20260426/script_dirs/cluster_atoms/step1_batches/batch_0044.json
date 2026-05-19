@@ -1,0 +1,571 @@
+[
+  {
+    "global_index": 1760,
+    "seg_id": "S5-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "护理无效时的就医路径",
+    "template": "warning_alert",
+    "items": [
+      "坚持护理2-4周仍有口臭须就医"
+    ],
+    "atoms_text": "第二 如果这些都做到了 坚持两到四周还是臭 那就一定要去看看医生了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1761,
+    "seg_id": "S5-L2",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "护理无效时的就医路径",
+    "template": "step_arrow",
+    "items": [
+      "第一站：挂口腔科",
+      "查牙周病/龋齿/智齿",
+      "该洗牙洗牙，该补牙补牙"
+    ],
+    "atoms_text": "先去口腔科 查牙周病 牙结石 龋齿 智齿 该洗牙洗牙 该补牙补牙",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1762,
+    "seg_id": "S5-L3",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "护理无效时的就医路径",
+    "template": "list_fade",
+    "items": [
+      "口腔无异常→挂耳鼻喉科",
+      "排查鼻窦炎和扁桃体结石"
+    ],
+    "atoms_text": "口腔没问题 就去耳鼻喉科 查查鼻窦炎 扁桃体结石",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1763,
+    "seg_id": "S5-L4",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "护理无效时的就医路径",
+    "template": "list_fade",
+    "items": [
+      "耳鼻喉无异常→消化科",
+      "排查胃食管反流",
+      "排查幽门螺杆菌感染"
+    ],
+    "atoms_text": "再没问题 就去消化科看看 有没有胃食管反流 幽门螺杆菌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1764,
+    "seg_id": "S6-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口臭可能是全身疾病预警",
+    "template": "hero_text",
+    "items": [
+      "口臭可能是全身疾病的预警信号"
+    ],
+    "atoms_text": "这里啊 作为心内科医生 提醒大家一句 有些口臭可能是全身疾病给你发的预警信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1765,
+    "seg_id": "S6-L2",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口臭可能是全身疾病预警",
+    "template": "split_column",
+    "items": [
+      "糖尿病酮症酸中毒",
+      "呼气带烂苹果气味"
+    ],
+    "atoms_text": "比如糖尿病患者 血糖控制不好 出现酮症酸中毒的时候 呼气里会有一种烂苹果味儿",
+    "needs_animation": true,
+    "label": "糖尿病血糖失控时酮体生成经肺呼出产生烂苹果味"
+  },
+  {
+    "global_index": 1766,
+    "seg_id": "S6-L3",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口臭可能是全身疾病预警",
+    "template": "split_column",
+    "items": [
+      "肾功能不全",
+      "呼气带氨味"
+    ],
+    "atoms_text": "肾功能不好的人啊 呼气里会有氨味儿",
+    "needs_animation": true,
+    "label": "肾功能下降时氨类废物经肺呼出产生氨味"
+  },
+  {
+    "global_index": 1767,
+    "seg_id": "S6-L4",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口臭可能是全身疾病预警",
+    "template": "list_fade",
+    "items": [
+      "慢性心衰引起肺部瘀血",
+      "胃肠道同样发生瘀血",
+      "口臭发生率明显高于常人"
+    ],
+    "atoms_text": "还有慢性心衰的患者 因为肺瘀血 胃肠道瘀血 口臭的发生率会明显高于健康人",
+    "needs_animation": true,
+    "label": "慢性心衰导致肺瘀血和胃肠道瘀血引发口臭"
+  },
+  {
+    "global_index": 1768,
+    "seg_id": "S6-L5",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口臭可能是全身疾病预警",
+    "template": "step_arrow",
+    "items": [
+      "口渴、多饮、多尿",
+      "体重不明原因下降",
+      "立即检查血糖水平"
+    ],
+    "atoms_text": "所以如果除了口臭 你还同时出现口渴 多饮多尿 体重不明原因下降 那就要去查查血糖",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1769,
+    "seg_id": "S6-L6",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口臭可能是全身疾病预警",
+    "template": "step_arrow",
+    "items": [
+      "胸闷气短",
+      "下肢水肿或心慌",
+      "及时到心内科检查"
+    ],
+    "atoms_text": "如果伴有胸闷气短 下肢水肿 心慌 这些表现 也建议啊 到心内科做一下检查 看看有没有心血管方面的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1770,
+    "seg_id": "S7-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "结尾互动",
+    "template": "hero_text",
+    "items": [
+      "觉得有用就点赞收藏"
+    ],
+    "atoms_text": "好啦 觉得有用就点赞收藏吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1771,
+    "seg_id": "S1-L1",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "脖子响到底要不要慌",
+    "template": "list_fade",
+    "items": [
+      "颈椎病？",
+      "骨质增生？",
+      "椎间盘突出？",
+      "最终瘫痪？"
+    ],
+    "atoms_text": "脖子一转就咔咔响 是颈椎出了大问题吗 上网越搜越害怕 颈椎病 骨质增生 椎间盘突出 最后瘫痪 都搜出来了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1772,
+    "seg_id": "S1-L2",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "脖子响到底要不要慌",
+    "template": "hero_text",
+    "items": [
+      "三种情况，一次讲清"
+    ],
+    "atoms_text": "今天一个视频 把脖子响的三种情况 跟你讲清楚 教你更好的 保护好自己的颈椎",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1773,
+    "seg_id": "S2-L1",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第一种：响了没事",
+    "template": "hero_text",
+    "items": [
+      "不疼不麻，大概率没问题"
+    ],
+    "atoms_text": "第一种 响完了啥事没有 不疼不麻 这种情况 大概率呢 没有问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1774,
+    "seg_id": "S2-L2",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第一种：响了没事",
+    "template": "step_arrow",
+    "items": [
+      "关节囊内液体受压",
+      "溶解气体快速析出成泡",
+      "气泡塌陷发出声响",
+      "与掰手指原理相同"
+    ],
+    "atoms_text": "你的颈椎关节之间 是有关节囊的 里面有液体 压力变化 关节液中溶解的气体 会快速析出 形成气泡 并塌陷 导致脖子一转就咔咔响 跟你掰手指响 是一模一样的道理",
+    "needs_animation": true,
+    "label": "颈椎关节囊内压力变化使气体析出形成气泡并塌陷发出响声"
+  },
+  {
+    "global_index": 1775,
+    "seg_id": "S2-L3",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第一种：响了没事",
+    "template": "color_grid",
+    "items": [
+      "响后感觉脖子松开",
+      "无需去医院检查",
+      "无需服药处理"
+    ],
+    "atoms_text": "响完之后 你还觉得 脖子松开了 这种就是正常的 不需要去医院 更不需要吃药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1776,
+    "seg_id": "S2-L4",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第一种：响了没事",
+    "template": "list_fade",
+    "items": [
+      "改掉长期低头的习惯",
+      "每40-50分钟活动颈部"
+    ],
+    "atoms_text": "所以 与其担心声响 不如改掉低头不动的习惯 每隔四五十分钟 起来活动活动脖子",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1777,
+    "seg_id": "S3-L1",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第二种：肌肉在发出预警",
+    "template": "list_fade",
+    "items": [
+      "响后颈部发僵发酸",
+      "轻微疼痛但无麻木",
+      "活动几下可缓解"
+    ],
+    "atoms_text": "第二种 响完了后 脖子发僵发酸 甚至有点疼 但不麻 活动几下呢 能够缓解",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1778,
+    "seg_id": "S3-L2",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第二种：肌肉在发出预警",
+    "template": "hero_text",
+    "items": [
+      "肌肉和筋膜出了问题"
+    ],
+    "atoms_text": "这种情况 往往是 你的脖子周围的 肌肉和筋膜 出现了问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1779,
+    "seg_id": "S3-L3",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第二种：肌肉在发出预警",
+    "template": "brick_stack",
+    "items": [
+      "颈椎承重约5-6公斤",
+      "长期低头肌肉持续紧绷",
+      "积累形成劳损与硬结",
+      "扭转时摩擦发声伴酸胀"
+    ],
+    "atoms_text": "你的颈椎虽然小 但是它要扛住 你整个脑袋的重量 大概五六公斤 长期低头啊 这些肌肉 就一直在紧绷拉扯 时间长呢 会导致劳损痉挛 甚至形成一些硬结 这时候 你一扭脖子 肌肉和筋膜 这些关节表面 摩擦滑动 就容易发出声响 同时还会觉得 酸胀僵硬",
+    "needs_animation": true,
+    "label": "长期低头致颈部肌肉紧绷劳损痉挛形成硬结后摩擦滑动发出声响"
+  },
+  {
+    "global_index": 1780,
+    "seg_id": "S3-L4",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第二种：肌肉在发出预警",
+    "template": "warning_alert",
+    "items": [
+      "暂不算颈椎病",
+      "但已是颈椎的预警信号"
+    ],
+    "atoms_text": "这种情况 严格来说 还算不上颈椎病 但它是 颈椎出问题之前的 预警信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1781,
+    "seg_id": "S3-L5",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第二种：肌肉在发出预警",
+    "template": "myth_buster",
+    "items": [
+      "急着去医院拍片",
+      "先调整坐姿和屏幕高度"
+    ],
+    "atoms_text": "这时候你需要的 不是去拍片 而是改善脖子的方式 调整办公的姿势啊 让屏幕跟眼睛平齐 别老低头",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1782,
+    "seg_id": "S3-L6",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第二种：肌肉在发出预警",
+    "template": "step_arrow",
+    "items": [
+      "下巴向后平推缩脖子",
+      "帮助恢复颈椎自然曲度",
+      "每天3-4组每组十余次",
+      "效果往往优于花钱按摩"
+    ],
+    "atoms_text": "另外呢 也可以做一些 针对性的训练 比如说 下巴往后推 像乌龟缩脖子一样 帮助恢复颈椎的曲度 放松后面紧张的肌肉 每天呢 做三四组 每组十几次 比你花几百块钱去按摩 效果往往更好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1783,
+    "seg_id": "S4-L1",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第三种：神经受压必须重视",
+    "template": "body_annotate",
+    "items": [
+      "颈部持续疼痛",
+      "疼痛沿肩膀向手臂放射",
+      "手指麻木或触电感"
+    ],
+    "atoms_text": "第三种 响的同时 伴有持续的疼痛 尤其是 疼痛会顺着肩膀往胳膊上走 手指头呢 可能有麻木感 触电感",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1784,
+    "seg_id": "S4-L2",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第三种：神经受压必须重视",
+    "template": "warning_alert",
+    "items": [
+      "间盘或骨刺压迫神经",
+      "这种情况必须认真对待"
+    ],
+    "atoms_text": "这种呢 必须要重视了 大概率呢 是颈椎的间盘 或者骨刺 压到了神经",
+    "needs_animation": true,
+    "label": "颈椎间盘突出或骨刺压迫神经根"
+  },
+  {
+    "global_index": 1785,
+    "seg_id": "S4-L3",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第三种：神经受压必须重视",
+    "template": "list_fade",
+    "items": [
+      "头晕",
+      "走路腿软无力",
+      "手麻且握力减退"
+    ],
+    "atoms_text": "如果你还同时出现了 头晕 走路腿没画一样 手麻又紧 离不开瓶盖 这些表现 那说明 压迫可能已经比较严重了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1786,
+    "seg_id": "S4-L4",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第三种：神经受压必须重视",
+    "template": "step_arrow",
+    "items": [
+      "不能在家硬扛拖延",
+      "去医院做颈椎磁共振",
+      "请医生专业评估方案"
+    ],
+    "atoms_text": "这种情况 不能自己家里自己硬扛 一定要去医院检查一下 做个颈椎的磁共振 让医生评估一下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1787,
+    "seg_id": "S5-L1",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "手麻头晕是关键分界线",
+    "template": "split_column",
+    "items": [
+      "仅有响声和酸疼",
+      "伴随手麻或头晕",
+      "多为肌肉问题，调整即可",
+      "性质已发生根本变化"
+    ],
+    "atoms_text": "手麻和头晕呢 是两个关键的征税点 没有这两个东西 脖子响和酸疼 多数是肌肉的问题 只是调整就好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1788,
+    "seg_id": "S5-L2",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "手麻头晕是关键分界线",
+    "template": "warning_alert",
+    "items": [
+      "一旦出现手麻或头晕",
+      "问题性质已截然不同"
+    ],
+    "atoms_text": "一旦出现了手麻或者头晕 性质呢 往往不一样",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1789,
+    "seg_id": "S5-L3",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "手麻头晕是关键分界线",
+    "template": "warning_alert",
+    "items": [
+      "切勿自行或找无资质者扳脖子",
+      "颈椎内有脊髓，暴力操作危险"
+    ],
+    "atoms_text": "这时 不要自己扳脖子 更不要去找 那些没有资质的人 给你正骨推拿 颈椎这个位置 里面走的是脊髓 暴力操作 可能是出大问题的",
+    "needs_animation": true,
+    "label": "颈椎椎管内脊髓走行的解剖结构"
+  },
+  {
+    "global_index": 1790,
+    "seg_id": "S5-L4",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "手麻头晕是关键分界线",
+    "template": "hero_text",
+    "items": [
+      "学会分辨，守护颈椎健康"
+    ],
+    "atoms_text": "都明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1791,
+    "seg_id": "S1-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "错过黄金时间窗",
+    "template": "hero_text",
+    "items": [
+      "脑梗送医太晚，错过最佳治疗"
+    ],
+    "atoms_text": "我发现 一件特别可惜的事情 很多脑梗的病人 送到医院的时候 已经错过了最佳的治疗时间",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1792,
+    "seg_id": "S1-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "错过黄金时间窗",
+    "template": "number_center",
+    "items": [
+      "4.5"
+    ],
+    "atoms_text": "不是幺二零来的吗 是他自己在家 拖得太久 已经超过四点五小时了 已经超过了溶栓的时间窗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1793,
+    "seg_id": "S1-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "错过黄金时间窗",
+    "template": "hero_text",
+    "items": [
+      "不认识脑梗前兆症状"
+    ],
+    "atoms_text": "是因为他根本不知道 哪些症状是脑梗的前兆",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1794,
+    "seg_id": "S1-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "错过黄金时间窗",
+    "template": "hero_text",
+    "items": [
+      "5个求救信号，今天全讲清"
+    ],
+    "atoms_text": "今天呢 就讲五个 脑梗死来临 身体发出求救的信号 都不复杂 但你得认识它",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1795,
+    "seg_id": "S2-L1",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号一：肢体突然无力麻木",
+    "template": "hero_text",
+    "items": [
+      "突然一侧肢体发麻或无力"
+    ],
+    "atoms_text": "第一 突然一侧肢体发麻 或者是没有劲儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1796,
+    "seg_id": "S2-L2",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号一：肢体突然无力麻木",
+    "template": "list_fade",
+    "items": [
+      "筷子突然拿不住",
+      "走路一条腿突然发软",
+      "半边脸发麻、笑起来嘴歪"
+    ],
+    "atoms_text": "比如您正在吃饭呢 筷子突然拿不住了 或者走路的时候 一条腿突然发软 拖不动了 或者是说 半边脸发麻 笑起来嘴歪了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1797,
+    "seg_id": "S2-L3",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号一：肢体突然无力麻木",
+    "template": "split_column",
+    "items": [
+      "久坐后腿麻，活动可缓解",
+      "突然一侧麻木，无明显诱因"
+    ],
+    "atoms_text": "注意 是突然出现的 不是那种坐久了腿麻了 站起来走走就好的那种",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1798,
+    "seg_id": "S2-L4",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号一：肢体突然无力麻木",
+    "template": "warning_alert",
+    "items": [
+      "症状仅持续几分钟也必须重视"
+    ],
+    "atoms_text": "如果是突然一侧肢体无力 或者是麻木 哪怕仅仅持续了几分钟 就恢复了 也一定要当回事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1799,
+    "seg_id": "S2-L5",
+    "bp_title": "脑梗来临前的5个求救信号",
+    "scene_title": "信号一：肢体突然无力麻木",
+    "template": "step_arrow",
+    "items": [
+      "短暂性脑缺血发作（TIA）",
+      "脑梗前兆，风险极高",
+      "下次可能不会自行恢复"
+    ],
+    "atoms_text": "因为这很可能是短暂性脑缺血发作 说白了就是脑梗的前兆 下一次可能就不会自己好了",
+    "needs_animation": true,
+    "label": "短暂性脑缺血发作时脑血管短暂阻塞又恢复通畅"
+  }
+]

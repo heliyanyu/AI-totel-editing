@@ -1,0 +1,96 @@
+S2-L2 [心梗发病底层逻辑]
+  【医生原话】不妨把我们的心脏 想象成 一台永不停止工作的发动机 而冠状动脉 就是给这台发动机供油的 专属管道
+  【items概括】心脏是永不停歇的发动机 → 冠状动脉是专属供油管道
+  → 类别: 冠状动脉解剖与侧支循环
+  → 素材: ANH12082_Heart Anatomy.mp4
+    [206.4-212.4s] The first branches off your aorta are the coronary arteries, which supply your heart muscle
+    理由: 心脏解剖视频，展示冠状动脉从主动脉分出供应心肌的全景画面，完美匹配'专属管道'的比喻
+
+S2-L3 [心梗发病底层逻辑]
+  【医生原话】随着年龄增长 长期熬夜 高脂饮食 或者抽烟 这些管道内壁上 就会慢慢长出 一些像水垢一样的斑块
+  【items概括】长期熬夜吸烟高脂饮食 → 管道内壁积累斑块变窄
+  → 类别: 动脉粥样硬化斑块形成
+  → 素材: ANS00149_Atherosclerosis Bulleted Version.mp4
+    [49.2-55.7s] Over time, substances traveling in the blood, such as cholesterol, fats, and cellular waste
+    理由: 画面展示血液中的胆固醇、脂肪等物质在动脉壁损伤处逐渐堆积的过程，完美对应医生所说的'管道内壁上慢慢长出水垢一样的斑块'这一渐进形成过程
+
+S2-L4 [心梗发病底层逻辑]
+  【医生原话】平时这些斑块 只是让管道变窄 但在情绪激动 极度劳累 或气温骤降时 斑块表面的包膜 可能会突然破裂
+  【items概括】情绪激动致斑块包膜破裂 → 血小板大量聚集形成血栓 → 血管被彻底堵死
+  → 类别: 斑块破裂与血栓形成
+  → 素材: ANS00149_Atherosclerosis Bulleted Version.mp4
+    [162.5-169.6s] Over time, the cap may erode and break open, releasing plaque into the bloodstream.
+    理由: 旁白与画面明确展示纤维帽(cap)侵蚀破裂过程，与医生所说'包膜突然破裂'完美匹配
+
+S2-L5 [心梗发病底层逻辑]
+  【医生原话】身体的免疫系统 为了修补破损 会立刻召唤大量血小板聚集 结果越聚越多 瞬间形成一个巨大的血栓 把整个血管 死死堵住 这就是心血管堵塞
+  【items概括】下游心肌细胞数十分钟内不可逆坏死
+  → 类别: 急性心肌梗死
+  → 素材: ANH16180_About Your Heart Attack.mp4
+    [71.4-77.6s] If this plaque became disrupted, a blood clot might form and severely worsen the narrowing
+    理由: 画面展示斑块破裂后血凝块(血栓)形成过程，对应医生说的'召唤血小板聚集→形成血栓'
+
+S2-L6 [心梗发病底层逻辑]
+  【医生原话】血管堵 下游的心肌细胞 就像被掐住了脖子 没有氧气和养分 几十分钟内 就会开始不可逆的坏死
+  【items概括】常见自救动作正在加速危机
+  → 类别: 急性心肌梗死
+  → 素材: ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+    [128.7-134.4s] Regardless of the cause, a blockage in either coronary artery prevents the oxygen and nutrients
+    理由: 画面展示冠脉堵塞阻断氧气和养分供应，直接对应'血管堵…没有氧气和养分'
+
+S3-L3 [错误一：乱动身体]
+  【医生原话】前面说了 心梗是 在给心脏供血的管道堵了 你在这个时候 走路 爬楼梯 做动作 全身的耗氧量 就会剧增
+  【items概括】活动导致全身耗氧量剧增 → 心脏被迫加速跳动 → 心肌坏死面积迅速扩大
+  → 类别: 冠状动脉狭窄与心肌缺血
+  → 素材: AND14017_After a Heart Attack_ Managing Your Recovery.m
+    [29.4-34.2s] When the blood supply is not able to keep up with the demand, the heart muscle cells don't
+    理由: 画面展示血液供应跟不上需求的供需失衡过程，完美对应医生所讲的活动后耗氧量剧增、心脏供血不足的核心概念
+
+S3-L4 [错误一：乱动身体]
+  【医生原话】心脏为了满足身体的氧气需求 只能拼命加速跳动 这就像 一辆已经被切断了燃油供应的汽车 你还在死命的踩油门 结果只能是 发动机彻底爆缸
+  【items概括】切断燃油还死踩油门 → 停止供油应立刻熄火停车
+  → 类别: 急性心肌梗死
+  → 素材: AND14017_After a Heart Attack_ Managing Your Recovery.m
+    [29.4-34.2s] When the blood supply is not able to keep up with the demand, the heart muscle cells don't
+    理由: 动画展示血液供应跟不上心脏需求的过程，直接对应医生所说'心脏为了满足氧气需求拼命加速跳动'的供需失衡画面
+
+S3-L5 [错误一：乱动身体]
+  【医生原话】这种无谓的体力消耗 会迅速扩大心肌坏死的面积 极易诱发 致命的心室颤动
+  【items概括】极易诱发致命心室颤动
+  → 类别: 心源性猝死机制
+  → 素材: ANH14135_Cardiac Arrhythmia.mp4
+    [188.8-194.1s] In ventricular fibrillation, the ventricles are quivering instead of beating.
+    理由: 画面展示心室颤动状态——心室在颤抖而非正常搏动，与医生所说'致命的心室颤动'直接对应，是VF最直观的动画表现
+
+S4-L5 [错误二：进食与乱用药]
+  【医生原话】如果患者此时 是因为右心室梗死 导致的低血压 再吃 具有扩张血管降压作用的 硝酸甘油 会让血压瞬间崩盘 直接休克
+  【items概括】如果患者此时 → 是因为右心室梗死 → 导致的低血压 → 再吃 → 具有扩张血管降压作用的
+  → 类别: 硝酸甘油与急救用药
+  → 素材: ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+    [236.1-241.9s] Cards such as nitroglycerin and morphine will relax your coronary arteries and relieve
+    理由: 画面展示硝酸甘油(nitroglycerin)舒张冠状动脉的动画过程，直接对应医生讲述的'具有扩张血管降压作用的硝酸甘油'，帮助观众理解其扩血管机制及为何会导致血压崩盘
+
+S5-L3 [错误三：迷信偏方]
+  【医生原话】从医学角度讲 这完全是无稽之谈 用力拍打 不仅不能把血栓拍散 反而会因为剧烈疼痛 刺激交感神经 让血压进一步升高 心脏负担更重
+  【items概括】拍打手肘可以拍散血栓 → 拍打刺激交感神经升高血压 → 用力咳嗽能自救心梗 → 咳嗽增加胸腔压力加剧缺血
+  → 类别: 交感神经兴奋与血管收缩
+  → 素材: ANH13100_High Blood Pressure (Hypertension).mp4
+    [105.5-111.4s] or reduce the diameter to raise your blood pressure.
+    理由: 画面展示动脉直径缩小、血压升高的动画过程，直接对应医生描述的交感神经兴奋→血管收缩→血压升高
+
+S5-L5 [错误三：迷信偏方]
+  【医生原话】普通人在家中心梗发作时 用力咳嗽 只会增加胸腔压力 加剧心脏缺血 不仅救不了命 反而是在催命
+  【items概括】真正救命的只有四个字
+  → 类别: 冠状动脉狭窄与心肌缺血
+  → 素材: Heart Ischemia.mp4
+    [0.0-2.0s] you
+    理由: Heart Ischemia动画直接展示心肌缺血病理过程，与医生所说'加剧心脏缺血'完全对应，是最直观的画面匹配
+
+S9-L1 [黄金步骤第四步：等]
+  【医生原话】第四步是等 保持情绪稳定 安静等待救援 过度恐慌和焦虑 会让肾上腺素飙升 进一步收缩血管
+  【items概括】保持情绪稳定安静等待 → 家人轻声安抚不要哭喊 → 肾上腺素飙升会收缩血管
+  → 类别: 肾上腺素与应激升压
+  → 素材: ANH12071_Health Effects of Smoking.mp4
+    [137.7-145.6s] it stimulates the release of epinephrine, a hormone that raises your blood pressure.
+    理由: 画面直接展示肾上腺素(epinephrine)释放并导致血压升高的动画过程，与医生所讲'肾上腺素飙升、收缩血管'的核心机制完全吻合
+

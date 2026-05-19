@@ -1,0 +1,532 @@
+[
+  {
+    "global_index": 4120,
+    "seg_id": "S3-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "耳石症解析",
+    "template": "branch_path",
+    "items": [
+      "挂耳鼻喉或神经科",
+      "手法复位即可痊愈",
+      "绝大多数无需服药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4121,
+    "seg_id": "S4-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "血压异常影响",
+    "template": "color_grid",
+    "items": [
+      "高压飙升至180+",
+      "低压跌至90以下"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4122,
+    "seg_id": "S4-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "血压异常影响",
+    "template": "step_arrow",
+    "items": [
+      "久蹲后突然站起",
+      "眼前发黑短暂晕厥",
+      "缓慢起身可预防"
+    ],
+    "needs_animation": true,
+    "label": "体位性低血压发生机制"
+  },
+  {
+    "global_index": 4123,
+    "seg_id": "S4-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "血压异常影响",
+    "template": "list_fade",
+    "items": [
+      "排查贫血或脱水",
+      "检查降压药是否过量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4124,
+    "seg_id": "S5-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "前庭性偏头痛",
+    "template": "myth_buster",
+    "items": [
+      "偏头痛一定头疼",
+      "只晕不痛也常见"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4125,
+    "seg_id": "S5-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "前庭性偏头痛",
+    "template": "list_fade",
+    "items": [
+      "畏光怕吵恶心",
+      "经期熬夜易诱发",
+      "发作时天旋地转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4126,
+    "seg_id": "S5-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "前庭性偏头痛",
+    "template": "brick_stack",
+    "items": [
+      "神经敏感非血管堵",
+      "普通止晕药无效",
+      "需针对偏头痛治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4127,
+    "seg_id": "S6-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "贫血性头晕",
+    "template": "warning_alert",
+    "items": [
+      "女性警惕缺铁性贫血"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4128,
+    "seg_id": "S6-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "贫血性头晕",
+    "template": "step_arrow",
+    "items": [
+      "月经量大或节食",
+      "血液携氧能力降",
+      "大脑缺氧致头晕",
+      "查血常规明确诊断",
+      "及时补铁可消失"
+    ],
+    "needs_animation": true,
+    "label": "贫血致脑缺氧机制"
+  },
+  {
+    "global_index": 4129,
+    "seg_id": "S7-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "焦虑性头晕",
+    "template": "list_fade",
+    "items": [
+      "全身检查均正常",
+      "长期昏沉晕乎乎",
+      "植物神经功能紊乱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4130,
+    "seg_id": "S7-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "焦虑性头晕",
+    "template": "split_column",
+    "items": [
+      "走路逛街时加重",
+      "平躺休息时减轻"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4131,
+    "seg_id": "S7-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "焦虑性头晕",
+    "template": "brick_stack",
+    "items": [
+      "调整作息放松身心",
+      "适度运动多活动",
+      "严重时抗焦虑治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4132,
+    "seg_id": "S8-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "颈椎劳损辨析",
+    "template": "myth_buster",
+    "items": [
+      "头晕都是血管压迫",
+      "多为肌肉姿势问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4133,
+    "seg_id": "S8-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "颈椎劳损辨析",
+    "template": "step_arrow",
+    "items": [
+      "长期低头看手机",
+      "颈部肌肉紧张",
+      "传出错误平衡信号",
+      "拉伸活动可改善"
+    ],
+    "needs_animation": true,
+    "label": "颈部本体感觉异常致眩晕机制"
+  },
+  {
+    "global_index": 4134,
+    "seg_id": "S8-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "颈椎劳损辨析",
+    "template": "warning_alert",
+    "items": [
+      "手脚麻木踩棉花感"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4135,
+    "seg_id": "S9-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "总结与就医建议",
+    "template": "category_table",
+    "items": [
+      "最凶险：脑血管病",
+      "最常见：耳石血压",
+      "常忽视：贫血情绪",
+      "少数见：颈椎劳损"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4136,
+    "seg_id": "S9-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "总结与就医建议",
+    "template": "hero_text",
+    "items": [
+      "分不清先挂神经内科"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4137,
+    "seg_id": "S1-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "开场警示",
+    "template": "warning_alert",
+    "items": [
+      "乱吃护心保健品进医院的人不在少数"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4138,
+    "seg_id": "S1-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "开场警示",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4139,
+    "seg_id": "S1-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "开场警示",
+    "template": "warning_alert",
+    "items": [
+      "没治好病反而身体更受伤",
+      "差点要了命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4140,
+    "seg_id": "S1-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "开场警示",
+    "template": "hero_text",
+    "items": [
+      "今天拆穿四大护心骗局"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4141,
+    "seg_id": "S1-L5",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "开场警示",
+    "template": "list_fade",
+    "items": [
+      "家里有老人的一定看完",
+      "转发给爸妈少花冤枉钱",
+      "更能救他们一命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4142,
+    "seg_id": "S2-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "vertical_timeline",
+    "items": [
+      "背景：72岁老人冠心病放两个支架",
+      "转折：听讲座被劝停药买护心胶囊",
+      "上当：花8万多停掉所有正规药物",
+      "后果：不到三月再次急性心梗",
+      "抢救：三个多小时才脱离危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4143,
+    "seg_id": "S2-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "hero_text",
+    "items": [
+      "钱花了，命也差点没了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4144,
+    "seg_id": "S2-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "warning_alert",
+    "items": [
+      "擅自停药随时可能诱发心梗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4145,
+    "seg_id": "S2-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "number_center",
+    "items": [
+      "3小时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4146,
+    "seg_id": "S2-L5",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "hero_text",
+    "items": [
+      "又心疼又生气，太多老人被坑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4147,
+    "seg_id": "S2-L6",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "list_fade",
+    "items": [
+      "老年患者最容易轻信",
+      "花大钱买到的是伤害"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4148,
+    "seg_id": "S2-L7",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "hero_text",
+    "items": [
+      "四大骗局逐一拆穿"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4149,
+    "seg_id": "S2-L8",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "真实案例还原",
+    "template": "warning_alert",
+    "items": [
+      "太多老人被护心神药坑害"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4150,
+    "seg_id": "S3-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局总览",
+    "template": "color_grid",
+    "items": [
+      "号称根治冠心病的保健品",
+      "号称打通血管的磁疗仪",
+      "号称替代他汀阿司匹林的产品",
+      "打着名医秘方旗号的护心药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4151,
+    "seg_id": "S4-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局一：根治斑块",
+    "template": "hero_text",
+    "items": [
+      "骗局一：号称根治冠心病逆转斑块"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4152,
+    "seg_id": "S4-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局一：根治斑块",
+    "template": "myth_buster",
+    "items": [
+      "某些保健品能根治冠心病",
+      "全世界没有任何保健品能根治冠心病",
+      "某些产品可以逆转已形成的斑块",
+      "斑块一旦形成无法被保健品逆转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4153,
+    "seg_id": "S4-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局一：根治斑块",
+    "template": "split_column",
+    "items": [
+      "冠心病等于血管老化",
+      "白发皱纹无法逆转",
+      "只能控制不能根治",
+      "正规治疗才是正道"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4154,
+    "seg_id": "S4-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局一：根治斑块",
+    "template": "warning_alert",
+    "items": [
+      "说能根治冠心病的全是假的",
+      "说能消斑块的全是假的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4155,
+    "seg_id": "S5-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局二：磁疗打通血管",
+    "template": "hero_text",
+    "items": [
+      "骗局二：磁疗仪打通血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4156,
+    "seg_id": "S5-L2",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局二：磁疗打通血管",
+    "template": "list_fade",
+    "items": [
+      "护心项链",
+      "护心腰带",
+      "磁疗仪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4157,
+    "seg_id": "S5-L3",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局二：磁疗打通血管",
+    "template": "myth_buster",
+    "items": [
+      "戴在身上就能打通血管",
+      "血管在体内外部设备根本触及不到",
+      "磁疗仪不用吃药就能护心",
+      "这些全是智商税没有任何作用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4158,
+    "seg_id": "S5-L4",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局二：磁疗打通血管",
+    "template": "warning_alert",
+    "items": [
+      "除了掏空钱包没有任何用处"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4159,
+    "seg_id": "S6-L1",
+    "bp_title": "心内科医生揭秘四大护心保健品骗局",
+    "scene_title": "骗局三：替代正规药物",
+    "template": "hero_text",
+    "items": [
+      "骗局三：替代他汀和阿司匹林"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

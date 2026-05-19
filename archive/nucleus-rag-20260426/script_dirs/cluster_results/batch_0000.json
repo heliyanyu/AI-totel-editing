@@ -1,0 +1,528 @@
+[
+  {
+    "global_index": 0,
+    "seg_id": "S1-L1",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "拿到报告后的恐慌",
+    "template": "hero_text",
+    "items": [
+      "CT报告写着结节，一搜全是肺癌"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1,
+    "seg_id": "S1-L2",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "拿到报告后的恐慌",
+    "template": "warning_alert",
+    "items": [
+      "夜里越想越害怕，翻来覆去睡不着",
+      "手机一搜，吓出满屏癌症词条"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2,
+    "seg_id": "S2-L1",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "肺结节没你想的那么可怕",
+    "template": "hero_text",
+    "items": [
+      "先把心放下来，听我说完"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3,
+    "seg_id": "S2-L2",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "肺结节没你想的那么可怕",
+    "template": "step_arrow",
+    "items": [
+      "CT分辨率越来越高",
+      "以前看不见的小东西全能发现",
+      "结节检出率大幅上升"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4,
+    "seg_id": "S2-L3",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "肺结节没你想的那么可怕",
+    "template": "number_center",
+    "items": [
+      "90%+"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 5,
+    "seg_id": "S2-L4",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "肺结节没你想的那么可怕",
+    "template": "color_grid",
+    "items": [
+      "炎症愈合后的疤痕",
+      "淋巴结钙化灶",
+      "尚未完全吸收的炎症",
+      "普通良性小疙瘩"
+    ],
+    "needs_animation": true,
+    "label": "肺结节常见良性病理类型"
+  },
+  {
+    "global_index": 6,
+    "seg_id": "S3-L1",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "读懂报告上的专业术语",
+    "template": "list_fade",
+    "items": [
+      "CT上呈淡淡云雾状",
+      "密度低、边界不太清晰",
+      "常见于炎症感染留下的痕迹"
+    ],
+    "needs_animation": true,
+    "label": "磨玻璃结节CT影像形态"
+  },
+  {
+    "global_index": 7,
+    "seg_id": "S3-L2",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "读懂报告上的专业术语",
+    "template": "split_column",
+    "items": [
+      "磨玻璃结节：密度低，形似云雾",
+      "实性结节：密度高，形态实在",
+      "部分实性：一半淡、一半实",
+      "均为影像形态描述，非诊断结论"
+    ],
+    "needs_animation": true,
+    "label": "肺结节密度分类对比（磨玻璃/实性/部分实性）"
+  },
+  {
+    "global_index": 8,
+    "seg_id": "S3-L3",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "读懂报告上的专业术语",
+    "template": "myth_buster",
+    "items": [
+      "磨玻璃结节就是肺变成玻璃",
+      "这只是影像密度的形态描述",
+      "放射科报告直接等于诊断结论",
+      "报告是描述，诊断需结合临床"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 9,
+    "seg_id": "S3-L4",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "读懂报告上的专业术语",
+    "template": "hero_text",
+    "items": [
+      "影像描述形态，诊断结合全人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 10,
+    "seg_id": "S4-L1",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "哪类结节需要认真对待",
+    "template": "hero_text",
+    "items": [
+      "记住几个关键点，看结节大小和形态"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 11,
+    "seg_id": "S4-L2",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "哪类结节需要认真对待",
+    "template": "vertical_timeline",
+    "items": [
+      "小于6mm：风险极低，定期复查即可",
+      "6-8mm：需持续监控，3-6个月复查CT",
+      "超过8mm：建议增强CT或穿刺排查"
+    ],
+    "needs_animation": true,
+    "label": "肺结节大小分级与风险评估"
+  },
+  {
+    "global_index": 12,
+    "seg_id": "S4-L3",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "哪类结节需要认真对待",
+    "template": "list_fade",
+    "items": [
+      "边缘不光滑，带有毛刺",
+      "轮廓出现分叶",
+      "内部实性成分增多"
+    ],
+    "needs_animation": true,
+    "label": "肺结节恶性形态特征（毛刺、分叶、实性成分）"
+  },
+  {
+    "global_index": 13,
+    "seg_id": "S4-L4",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "哪类结节需要认真对待",
+    "template": "myth_buster",
+    "items": [
+      "有毛刺有分叶就一定是癌",
+      "这些只是需要认真排查的信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 14,
+    "seg_id": "S4-L5",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "哪类结节需要认真对待",
+    "template": "branch_path",
+    "items": [
+      "复查时结节有无变化",
+      "无变化或缩小：继续观察随访",
+      "增大或特征改变：进一步检查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 15,
+    "seg_id": "S4-L6",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "哪类结节需要认真对待",
+    "template": "hero_text",
+    "items": [
+      "有特征不等于是癌，认真排查就够了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 16,
+    "seg_id": "S5-L1",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "三个月复查其实是好事",
+    "template": "warning_alert",
+    "items": [
+      "三个月太漫长，每天担心它在长"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 17,
+    "seg_id": "S5-L2",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "三个月复查其实是好事",
+    "template": "myth_buster",
+    "items": [
+      "让我复查说明医生在拖延",
+      "复查恰恰说明当下情况不紧急"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 18,
+    "seg_id": "S5-L3",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "三个月复查其实是好事",
+    "template": "hero_text",
+    "items": [
+      "复查是主动监控，不老实再收拾它"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 19,
+    "seg_id": "S6-L1",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "现在该做的事情",
+    "template": "step_arrow",
+    "items": [
+      "停止单纯在网上乱搜索",
+      "带报告找呼吸科或胸外科医生",
+      "结合年龄、烟史、家族史综合判断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 20,
+    "seg_id": "S6-L2",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "现在该做的事情",
+    "template": "list_fade",
+    "items": [
+      "让复查就按时去复查",
+      "让进一步检查就配合做"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 21,
+    "seg_id": "S6-L3",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "现在该做的事情",
+    "template": "number_center",
+    "items": [
+      "大多数"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 22,
+    "seg_id": "S6-L4",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "现在该做的事情",
+    "template": "hero_text",
+    "items": [
+      "今晚睡个好觉，明天该干嘛就干嘛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 23,
+    "seg_id": "S1-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "hero_text",
+    "items": [
+      "糖尿病真的能逆转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 24,
+    "seg_id": "S1-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "hero_text",
+    "items": [
+      "内脏脂肪才是血糖的幕后推手"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 25,
+    "seg_id": "S1-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "step_arrow",
+    "items": [
+      "脂肪堆积肝脏和胰腺",
+      "肝脏无法正常处理血糖",
+      "血液中糖分持续升高"
+    ],
+    "needs_animation": true,
+    "label": "内脏脂肪堆积导致肝脏糖代谢异常"
+  },
+  {
+    "global_index": 26,
+    "seg_id": "S1-L4",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "hero_text",
+    "items": [
+      "脂肪肝是糖尿病的前奏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 27,
+    "seg_id": "S1-L5",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "step_arrow",
+    "items": [
+      "肝脏被脂肪塞满",
+      "肝脏不停向血液释放糖分",
+      "空腹血糖持续偏高"
+    ],
+    "needs_animation": true,
+    "label": "脂肪肝导致肝脏异常释放葡萄糖"
+  },
+  {
+    "global_index": 28,
+    "seg_id": "S1-L6",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "hero_text",
+    "items": [
+      "没吃东西空腹血糖仍然很高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 29,
+    "seg_id": "S1-L7",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "糖尿病逆转的根源",
+    "template": "step_arrow",
+    "items": [
+      "脂肪挤占胰腺空间",
+      "胰岛素分泌能力下降",
+      "血糖调控能力逐步减弱"
+    ],
+    "needs_animation": true,
+    "label": "胰腺脂肪浸润导致胰岛素分泌下降"
+  },
+  {
+    "global_index": 30,
+    "seg_id": "S2-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "谁最有希望逆转",
+    "template": "category_table",
+    "items": [
+      "已确诊脂肪肝",
+      "腰围男超90cm女超85cm",
+      "确诊糖尿病或血糖升高",
+      "病程不超过五年"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 31,
+    "seg_id": "S2-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "谁最有希望逆转",
+    "template": "hero_text",
+    "items": [
+      "脂肪减掉胰腺功能还能恢复"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 32,
+    "seg_id": "S2-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "谁最有希望逆转",
+    "template": "warning_alert",
+    "items": [
+      "拖延十年胰岛细胞真的会累死",
+      "细胞死亡后无法逆转"
+    ],
+    "needs_animation": true,
+    "label": "胰岛β细胞逐渐衰竭与死亡"
+  },
+  {
+    "global_index": 33,
+    "seg_id": "S3-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "逆转窗口期行动",
+    "template": "hero_text",
+    "items": [
+      "越早行动逆转机会越大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 34,
+    "seg_id": "S4-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第一件事：吃够蛋白质",
+    "template": "hero_text",
+    "items": [
+      "吃够蛋白质别再饿自己"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 35,
+    "seg_id": "S4-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第一件事：吃够蛋白质",
+    "template": "myth_buster",
+    "items": [
+      "控血糖就要少吃",
+      "肌肉是最大血糖消耗站",
+      "饿着是正确控糖方式",
+      "掉肌肉会让血糖更差"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 36,
+    "seg_id": "S4-L3",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第一件事：吃够蛋白质",
+    "template": "step_arrow",
+    "items": [
+      "过度节食导致肌肉流失",
+      "肌肉少血糖无处消耗",
+      "血糖控制越来越差"
+    ],
+    "needs_animation": true,
+    "label": "肌肉组织消耗血糖的生理机制"
+  },
+  {
+    "global_index": 37,
+    "seg_id": "S4-L4",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第一件事：吃够蛋白质",
+    "template": "list_fade",
+    "items": [
+      "一巴掌大的肉类",
+      "鸡蛋补充蛋白质",
+      "鱼类优质蛋白",
+      "豆腐植物蛋白"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 38,
+    "seg_id": "S5-L1",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第二件事：力量训练",
+    "template": "hero_text",
+    "items": [
+      "光散步不够要加力量训练"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 39,
+    "seg_id": "S5-L2",
+    "bp_title": "糖尿病能逆转吗？四件事越早做机会越大",
+    "scene_title": "第二件事：力量训练",
+    "template": "split_column",
+    "items": [
+      "走一万步热量消耗极少",
+      "力量训练高效燃烧内脏脂肪",
+      "几乎减不了内脏脂肪",
+      "直接作用于血糖消耗根源"
+    ],
+    "needs_animation": true,
+    "label": "力量训练燃烧内脏脂肪的生理机制"
+  }
+]

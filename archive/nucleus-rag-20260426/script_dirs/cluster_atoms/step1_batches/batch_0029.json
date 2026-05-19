@@ -1,0 +1,572 @@
+[
+  {
+    "global_index": 1160,
+    "seg_id": "S7-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第六原因：焦虑失眠",
+    "template": "split_column",
+    "items": [
+      "走路逛街时头晕加重",
+      "躺下休息时头晕减轻"
+    ],
+    "atoms_text": "这种头晕呢 在走路啊逛街的时候加重 躺下来的时候就会减轻 不是脑子有病 是脑子太累了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1161,
+    "seg_id": "S7-L4",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第六原因：焦虑失眠",
+    "template": "list_fade",
+    "items": [
+      "规律作息放松心情",
+      "多活动改善神经调节",
+      "严重时可用抗焦虑药物"
+    ],
+    "atoms_text": "调整作息 放松心情 比吃药更管用 如果严重了 需要吃口服抗焦虑抑郁的药 另外多活动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1162,
+    "seg_id": "S8-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第七原因：颈椎劳损",
+    "template": "hero_text",
+    "items": [
+      "低头族头晕多是肌肉问题非压血管"
+    ],
+    "atoms_text": "第七种 颈椎劳损 别让颈椎病乱背锅",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1163,
+    "seg_id": "S8-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第七原因：颈椎劳损",
+    "template": "step_arrow",
+    "items": [
+      "长期低头伏案",
+      "颈部肌肉紧张",
+      "向大脑传出错误信号致头重脚轻"
+    ],
+    "atoms_text": "长期低头看手机 伏案工作 颈部肌肉就会紧张 会向大脑传出错误信号 导致头重脚轻 走路发飘",
+    "needs_animation": true,
+    "label": "颈部肌肉紧张向大脑传出错误平衡信号导致头重脚轻"
+  },
+  {
+    "global_index": 1164,
+    "seg_id": "S8-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第七原因：颈椎劳损",
+    "template": "list_fade",
+    "items": [
+      "多活动肩颈",
+      "做拉伸训练"
+    ],
+    "atoms_text": "大多数不是血管被压迫的 只是肌肉和姿势的问题 多活动一下肩颈 做下拉伸训练 就能改善",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1165,
+    "seg_id": "S8-L4",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第七原因：颈椎劳损",
+    "template": "warning_alert",
+    "items": [
+      "伴随手脚麻木",
+      "严重踩棉花感需排查颈椎病"
+    ],
+    "atoms_text": "但如果伴随手脚麻木 严重的踩棉花感 就要排查 是否伴有明显的颈椎病了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1166,
+    "seg_id": "S9-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "总结与就医指引",
+    "template": "category_table",
+    "items": [
+      "最凶险：脑血管病",
+      "需立刻就医排除",
+      "最常见：耳石症",
+      "血压异常、贫血、情绪问题",
+      "少数：颈椎劳损颈椎病",
+      "对号入座去相应科室"
+    ],
+    "atoms_text": "最后提醒大家 头晕最凶险的是 脑血管病问题 最常见的呢 却是耳朵血压贫血和情绪的问题 还有少数人 是由于颈椎劳损颈椎病造成的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1167,
+    "seg_id": "S9-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "总结与就医指引",
+    "template": "myth_buster",
+    "items": [
+      "一头晕就觉得自己要脑梗了",
+      "对号入座去相应科室看诊"
+    ],
+    "atoms_text": "别一头晕就觉得 自己要脑梗了 对号入座 要去相应的科室看看",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1168,
+    "seg_id": "S9-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "总结与就医指引",
+    "template": "hero_text",
+    "items": [
+      "分不清先挂神经内科，让医生帮你分诊"
+    ],
+    "atoms_text": "实在分不清 就先挂一个神经内科的号 让医生帮您排查 为您分诊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1169,
+    "seg_id": "S1-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "常见头晕误区",
+    "template": "list_fade",
+    "items": [
+      "突然天旋地转",
+      "起身眼前发黑",
+      "头脑昏沉如铅"
+    ],
+    "atoms_text": "您 有没有过 突然的 就 天旋地转了 或者是 蹲下去 一 站起来 眼前 就 一黑 再或者 整天 昏昏沉沉的 脑子 像 灌了铅似的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1170,
+    "seg_id": "S1-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "常见头晕误区",
+    "template": "myth_buster",
+    "items": [
+      "盲目认定脑供血不足",
+      "乱吃银杏丹参无效"
+    ],
+    "atoms_text": "很多人 一 头晕呢 就 认定 我是不是 脑供血不足了 银杏叶 丹参片 乱吃一堆 结果 一点用都没有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1171,
+    "seg_id": "S1-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "常见头晕误区",
+    "template": "hero_text",
+    "items": [
+      "厘清病因关键时刻救命"
+    ],
+    "atoms_text": "今天呢 我 把 临床上 比较常见的 头晕的原因 说一说 简单好懂 看完了 自己也能 初步判断 关键时刻 还能救命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1172,
+    "seg_id": "S2-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "警惕脑血管病",
+    "template": "warning_alert",
+    "items": [
+      "突发头晕伴肢体无力"
+    ],
+    "atoms_text": "第一种 脑血管病的问题 必须 第一时间排除",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1173,
+    "seg_id": "S2-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "警惕脑血管病",
+    "template": "step_arrow",
+    "items": [
+      "说话含糊或视物重影",
+      "立即拨打120急救",
+      "延误导致脑细胞损伤"
+    ],
+    "atoms_text": "头晕的时候 如果 突然伴有 一侧的 手脚无力 或者 说话含糊不清 或者 单眼 看不清东西 或者是 看东西双影 别犹豫 马上拨打幺二零 很有可能就是 脑血管病的 前兆 耽误一秒 脑细胞 就多损伤一批",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1174,
+    "seg_id": "S2-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "警惕脑血管病",
+    "template": "split_column",
+    "items": [
+      "单纯头晕无需恐慌",
+      "伴随症状必须急诊"
+    ],
+    "atoms_text": "但如果 只是 单纯的头晕 没有 那些 伴随的症状 基本上 也不用 自己瞎着急",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1175,
+    "seg_id": "S3-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "耳石症解析",
+    "template": "number_center",
+    "items": [
+      "耳源性头晕最常见"
+    ],
+    "atoms_text": "第二种 耳朵的问题 才是 头晕 最常见的原因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1176,
+    "seg_id": "S3-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "耳石症解析",
+    "template": "vertical_timeline",
+    "items": [
+      "翻身低头诱发眩晕",
+      "持续数秒至一分钟",
+      "耳石脱落引发失衡"
+    ],
+    "atoms_text": "内耳里 有关平衡的 小结晶 叫 耳石 一旦 脱落了 翻身 低头 起床 躺下的时候 就会引发 天旋地转 通常 持续数秒 或者 数十秒 就能缓解 绝大多数 不超过一分钟",
+    "needs_animation": true,
+    "label": "内耳耳石脱落在翻身低头时引发短暂天旋地转"
+  },
+  {
+    "global_index": 1177,
+    "seg_id": "S3-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "耳石症解析",
+    "template": "branch_path",
+    "items": [
+      "挂耳鼻喉或神经科",
+      "手法复位即可痊愈",
+      "绝大多数无需服药"
+    ],
+    "atoms_text": "耳石症 去 神经内科 或 耳鼻喉科 做做复位 很快就能 好转 或者是 痊愈 绝大多数 是 不用吃药的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1178,
+    "seg_id": "S4-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "血压异常影响",
+    "template": "color_grid",
+    "items": [
+      "高压飙升至180+",
+      "低压跌至90以下"
+    ],
+    "atoms_text": "第三种 血压高与低 也会 让人 晕乎乎的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1179,
+    "seg_id": "S4-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "血压异常影响",
+    "template": "step_arrow",
+    "items": [
+      "久蹲后突然站起",
+      "眼前发黑短暂晕厥",
+      "缓慢起身可预防"
+    ],
+    "atoms_text": "血压 一下子 飙到 一百八以上 或者 高压 低到 九十毫米汞柱以下 都会引发 头晕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1180,
+    "seg_id": "S4-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "血压异常影响",
+    "template": "list_fade",
+    "items": [
+      "排查贫血或脱水",
+      "检查降压药是否过量"
+    ],
+    "atoms_text": "而 蹲久了 站起来 眼前发黑 多数时候 是 体位性低血压 偶尔出现 慢起身就晕 频繁发作 甚至 晕倒 就要查查 有没有 贫血 脱水呀 或者是 降压药 是否过量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1181,
+    "seg_id": "S5-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "前庭性偏头痛",
+    "template": "myth_buster",
+    "items": [
+      "偏头痛一定头疼",
+      "只晕不痛也常见"
+    ],
+    "atoms_text": "第四种 前庭性偏头疼 不头疼 也会晕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1182,
+    "seg_id": "S5-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "前庭性偏头痛",
+    "template": "list_fade",
+    "items": [
+      "畏光怕吵恶心",
+      "经期熬夜易诱发",
+      "发作时天旋地转"
+    ],
+    "atoms_text": "别以为 偏头疼 一定是 偏侧头疼 有一种 又晕又痛 或者是 只晕不痛 发作起来 也可以是 天旋地转的 害怕光 怕吵 恶心想吐 女性的经期 熬夜以后 更容易犯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1183,
+    "seg_id": "S5-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "前庭性偏头痛",
+    "template": "brick_stack",
+    "items": [
+      "神经敏感非血管堵",
+      "普通止晕药无效",
+      "需针对偏头痛治疗"
+    ],
+    "atoms_text": "这就是 神经敏感导致的 不是 血管堵塞了 吃普通的 止晕药 也没有用 根源是在 偏头痛上 要治到根上才行",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1184,
+    "seg_id": "S6-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "贫血性头晕",
+    "template": "warning_alert",
+    "items": [
+      "女性警惕缺铁性贫血"
+    ],
+    "atoms_text": "第五种 贫血 女性 尤其要警惕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1185,
+    "seg_id": "S6-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "贫血性头晕",
+    "template": "step_arrow",
+    "items": [
+      "月经量大或节食",
+      "血液携氧能力降",
+      "大脑缺氧致头晕",
+      "查血常规明确诊断",
+      "及时补铁可消失"
+    ],
+    "atoms_text": "月经量过大 过度的 节食减肥 容易 缺铁性贫血 血液携氧能力下降 大脑缺氧 就会 头晕乏力 面色苍白 查一个 血常规 就一目了然 及时的补铁 头晕 自然会消失",
+    "needs_animation": true,
+    "label": "缺铁性贫血致血液携氧能力下降大脑缺氧"
+  },
+  {
+    "global_index": 1186,
+    "seg_id": "S7-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "焦虑性头晕",
+    "template": "list_fade",
+    "items": [
+      "全身检查均正常",
+      "长期昏沉晕乎乎",
+      "植物神经功能紊乱"
+    ],
+    "atoms_text": "第六种 焦虑失眠 最容易被忽视的 头晕原因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1187,
+    "seg_id": "S7-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "焦虑性头晕",
+    "template": "split_column",
+    "items": [
+      "走路逛街时加重",
+      "平躺休息时减轻"
+    ],
+    "atoms_text": "不少人 全身检查 都可正常了 却 长期 晕乎乎的 其实就是 压力大 睡不好 植物神经紊乱 大脑平衡信号出错",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1188,
+    "seg_id": "S7-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "焦虑性头晕",
+    "template": "brick_stack",
+    "items": [
+      "调整作息放松身心",
+      "适度运动多活动",
+      "严重时抗焦虑治疗"
+    ],
+    "atoms_text": "这种头晕呢 在走路啊 逛街的时候 加重 躺下来的时候 就会减轻 不是 脑子有病 是 脑子太累了 调整作息 放松心情 比吃药更管用 如果严重了 需要吃 口服抗焦虑抑郁的药 另外 多活动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1189,
+    "seg_id": "S8-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "颈椎劳损辨析",
+    "template": "myth_buster",
+    "items": [
+      "头晕都是血管压迫",
+      "多为肌肉姿势问题"
+    ],
+    "atoms_text": "第七种 颈椎劳损 别让颈椎病 乱背锅",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1190,
+    "seg_id": "S8-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "颈椎劳损辨析",
+    "template": "step_arrow",
+    "items": [
+      "长期低头看手机",
+      "颈部肌肉紧张",
+      "传出错误平衡信号",
+      "拉伸活动可改善"
+    ],
+    "atoms_text": "长期 低头看手机 伏案工作 颈部肌肉 就会紧张 会向大脑 传出错误信号 导致 头重脚轻 走路发飘 大多数 不是 血管被压迫的 只是 肌肉和姿势的问题 多活动一下肩颈 做下拉伸训练 就能改善",
+    "needs_animation": true,
+    "label": "颈部肌肉紧张向大脑传出错误信号导致头重脚轻"
+  },
+  {
+    "global_index": 1191,
+    "seg_id": "S8-L3",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "颈椎劳损辨析",
+    "template": "warning_alert",
+    "items": [
+      "手脚麻木踩棉花感"
+    ],
+    "atoms_text": "但如果 伴随 手脚麻木 严重的 踩棉花感 就要排查 是否伴有 明显的 颈椎病了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1192,
+    "seg_id": "S9-L1",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "总结与就医建议",
+    "template": "category_table",
+    "items": [
+      "最凶险：脑血管病",
+      "最常见：耳石血压",
+      "常忽视：贫血情绪",
+      "少数见：颈椎劳损"
+    ],
+    "atoms_text": "最后提醒大家 头晕 最凶险的是 脑血管病问题 最常见的呢 却是 耳朵 血压 贫血 和 情绪的问题 还有 少数人 是由于 颈椎劳损 颈椎病 造成的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1193,
+    "seg_id": "S9-L2",
+    "bp_title": "头晕别乱吃药，7种原因对号入座",
+    "scene_title": "总结与就医建议",
+    "template": "hero_text",
+    "items": [
+      "分不清先挂神经内科"
+    ],
+    "atoms_text": "别一头晕 就觉得自己 要脑梗了 对号入座 要去 相应的科室 看看 实在分不清 就先挂一个 神经内科的号 让医生 帮您排查 为您分诊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1194,
+    "seg_id": "S1-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "沉默的肾脏危机",
+    "template": "number_center",
+    "items": [
+      "1.2亿"
+    ],
+    "atoms_text": "中国有1.2亿 慢性肾脏病患者 其中超过九成的人 不知道自己有肾病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1195,
+    "seg_id": "S1-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "沉默的肾脏危机",
+    "template": "warning_alert",
+    "items": [
+      "初诊时肾功能已剩二三成"
+    ],
+    "atoms_text": "很多人 第一次走进医院的时候 肾功能已经是 百分之二三十了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1196,
+    "seg_id": "S1-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "沉默的肾脏危机",
+    "template": "hero_text",
+    "items": [
+      "没有人是突然肾衰的"
+    ],
+    "atoms_text": "但是 没有人是 突然肾衰的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1197,
+    "seg_id": "S1-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "沉默的肾脏危机",
+    "template": "number_center",
+    "items": [
+      "5"
+    ],
+    "atoms_text": "从肾脏开始出问题 到走向透析 至少要经过五个阶段",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1198,
+    "seg_id": "S1-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "沉默的肾脏危机",
+    "template": "hero_text",
+    "items": [
+      "每一步你都有机会踩刹车"
+    ],
+    "atoms_text": "每一步 你都有机会 踩刹车的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1199,
+    "seg_id": "S2-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "vertical_timeline",
+    "items": [
+      "肾脏有损伤，滤过功能仍正常",
+      "尿中出现微量蛋白或结构异常",
+      "肾小球滤过率仍在90以上"
+    ],
+    "atoms_text": "第一步 肾脏有损伤 但滤过功能还是正常的",
+    "needs_animation": true,
+    "label": "肾脏已有损伤但肾小球滤过功能仍维持正常"
+  }
+]

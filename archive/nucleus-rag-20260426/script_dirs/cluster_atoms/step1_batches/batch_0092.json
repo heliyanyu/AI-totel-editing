@@ -1,0 +1,569 @@
+[
+  {
+    "global_index": 3680,
+    "seg_id": "S2-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号一：胸口发闷发紧",
+    "template": "step_arrow",
+    "items": [
+      "胸口发闷是心肌缺血信号",
+      "冠脉狭窄，供血跟不上需求",
+      "心肌缺氧，出现胸闷症状"
+    ],
+    "atoms_text": "这种感觉 往往就是 心肌缺血的信号 就是你心脏的供血 跟不上运动的需求了",
+    "needs_animation": true,
+    "label": "运动时心脏供血跟不上需求导致心肌缺血"
+  },
+  {
+    "global_index": 3681,
+    "seg_id": "S2-L4",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号一：胸口发闷发紧",
+    "template": "branch_path",
+    "items": [
+      "停下来休息几分钟",
+      "能缓解——冠脉可能已有狭窄",
+      "不缓解——情况更为紧急"
+    ],
+    "atoms_text": "如果你 停下来休息几分钟 能缓解 那说明 你的冠脉 大概率已经有狭窄了",
+    "needs_animation": true,
+    "label": "冠脉狭窄导致运动时缺血、休息后血供恢复缓解"
+  },
+  {
+    "global_index": 3682,
+    "seg_id": "S2-L5",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号一：胸口发闷发紧",
+    "template": "step_arrow",
+    "items": [
+      "运动需要更多血液供应",
+      "血管堵塞，血液送不过去",
+      "心肌缺氧，胸口发闷"
+    ],
+    "atoms_text": "运动的时候 心脏需要更多的血 但血管堵了一部分 送不过去 心肌就缺氧了",
+    "needs_animation": true,
+    "label": "运动时心脏需血增加但狭窄血管送血不足导致心肌缺氧"
+  },
+  {
+    "global_index": 3683,
+    "seg_id": "S2-L6",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号一：胸口发闷发紧",
+    "template": "warning_alert",
+    "items": [
+      "不是减速就行，需去医院检查",
+      "做冠脉CT或冠脉造影排查"
+    ],
+    "atoms_text": "这种情况 不是减速就行的 是要去医院 做个冠脉CT 或者冠脉造影 查一查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3684,
+    "seg_id": "S3-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号二：晕厥与眼前发黑",
+    "template": "warning_alert",
+    "items": [
+      "信号二：头晕眼前发黑甚至晕厥"
+    ],
+    "atoms_text": "第二个信号 突然头晕 眼前发黑 甚至短暂失去意识",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3685,
+    "seg_id": "S3-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号二：晕厥与眼前发黑",
+    "template": "hero_text",
+    "items": [
+      "运动时晕厥，非常非常危险"
+    ],
+    "atoms_text": "这个是 非常非常危险的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3686,
+    "seg_id": "S3-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号二：晕厥与眼前发黑",
+    "template": "step_arrow",
+    "items": [
+      "心脏电信号出现紊乱",
+      "可能是恶性心律失常前兆",
+      "大脑供血不足，眼前发黑"
+    ],
+    "atoms_text": "运动时候晕厥 很多时候 是心脏的电信号 出了问题 可能是恶性心律失常的前兆",
+    "needs_animation": true,
+    "label": "心脏电信号异常引发恶性心律失常"
+  },
+  {
+    "global_index": 3687,
+    "seg_id": "S3-L4",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号二：晕厥与眼前发黑",
+    "template": "step_arrow",
+    "items": [
+      "心脏跳得太快太乱",
+      "大脑供血突然不足",
+      "眼前一黑，短暂失去意识"
+    ],
+    "atoms_text": "你的心脏 在那一瞬间 可能跳的太快太乱 大脑供血 突然不够了 所以你才会 眼前一黑",
+    "needs_animation": true,
+    "label": "心跳过快过乱导致大脑供血突然不足引起晕厥"
+  },
+  {
+    "global_index": 3688,
+    "seg_id": "S3-L5",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号二：晕厥与眼前发黑",
+    "template": "myth_buster",
+    "items": [
+      "晕一下几秒就醒，接着练",
+      "这是在用性命赌博"
+    ],
+    "atoms_text": "有些人 晕一下 几秒钟就醒了 觉得没事 接着练 这是拿命在赌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3689,
+    "seg_id": "S3-L6",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号二：晕厥与眼前发黑",
+    "template": "warning_alert",
+    "items": [
+      "运动晕厥一次必须去医院",
+      "做24小时动态心电图排查"
+    ],
+    "atoms_text": "只要运动时 晕过一次 哪怕只有几秒钟 都必须去做 二十四小时动态心电图 排除隐藏的心律失常",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3690,
+    "seg_id": "S4-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号三：心跳又快又乱",
+    "template": "hero_text",
+    "items": [
+      "信号三：心跳突然又快又乱"
+    ],
+    "atoms_text": "第三个信号 心跳突然变得 又快又乱 像心脏在胸腔里面乱蹦",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3691,
+    "seg_id": "S4-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号三：心跳又快又乱",
+    "template": "split_column",
+    "items": [
+      "跑越快心跳越快，匀速上升",
+      "突然心脏像被猛踹，毫无节奏",
+      "运动强度决定心率，规律变化",
+      "感觉空跳，节奏完全混乱"
+    ],
+    "atoms_text": "正常运动 心率加快 是匀速上去的 你跑的越快 心跳越快 这没问题",
+    "needs_animation": true,
+    "label": "正常运动时心率随运动强度匀速上升的生理过程"
+  },
+  {
+    "global_index": 3692,
+    "seg_id": "S4-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号三：心跳又快又乱",
+    "template": "warning_alert",
+    "items": [
+      "可能是室性早搏或严重心律失常"
+    ],
+    "atoms_text": "但如果你 突然感觉 心脏像被人猛踹了一脚 砰砰砰 跳的完全没有节奏 甚至感觉 有几下是空跳的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3693,
+    "seg_id": "S4-L4",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号三：心跳又快又乱",
+    "template": "step_arrow",
+    "items": [
+      "立刻停下来",
+      "坐下或蹲下，不要躺平",
+      "等待心跳慢慢恢复正常"
+    ],
+    "atoms_text": "这就不是 运动导致的 正常心率加快了 这很可能是 室性早搏 甚至更严重的心律失常",
+    "needs_animation": true,
+    "label": "室性早搏区别于正常心率加快的异常电活动"
+  },
+  {
+    "global_index": 3694,
+    "seg_id": "S4-L5",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号三：心跳又快又乱",
+    "template": "branch_path",
+    "items": [
+      "停下来等待几分钟",
+      "心跳恢复——密切观察就医",
+      "无法恢复——立即拨打120"
+    ],
+    "atoms_text": "立刻停下来 坐下或者蹲下 不要躺平 等心跳慢慢恢复",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3695,
+    "seg_id": "S4-L6",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号三：心跳又快又乱",
+    "template": "warning_alert",
+    "items": [
+      "几分钟恢复不了，立即拨120"
+    ],
+    "atoms_text": "如果几分钟 恢复不了 打一二零",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3696,
+    "seg_id": "S5-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号四：肩臂下巴腹部疼痛",
+    "template": "hero_text",
+    "items": [
+      "信号四：左肩左臂下巴上腹突然痛"
+    ],
+    "atoms_text": "第四个信号 运动时候 左肩 左臂 下巴 或者上腹部 突然疼痛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3697,
+    "seg_id": "S5-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号四：肩臂下巴腹部疼痛",
+    "template": "body_annotate",
+    "items": [
+      "心脏缺血疼痛不一定在胸口",
+      "向左肩、左臂内侧放射",
+      "向下巴、牙齿部位放射",
+      "向上腹部放射"
+    ],
+    "atoms_text": "很多人不知道 心脏缺血的疼痛 不一定表现在胸口 它会往 左肩 左臂的内侧 下巴 或者上腹部 放射",
+    "needs_animation": true,
+    "label": "心脏缺血疼痛沿神经向左肩左臂下巴上腹部放射"
+  },
+  {
+    "global_index": 3698,
+    "seg_id": "S5-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号四：肩臂下巴腹部疼痛",
+    "template": "myth_buster",
+    "items": [
+      "以为是肌肉拉伤或牙齿问题",
+      "可能是心绞痛的不典型表现"
+    ],
+    "atoms_text": "如果你 跑着跑着 突然左肩疼了 或者感觉 牙疼 下巴紧 别以为是 肌肉拉伤 或者牙齿问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3699,
+    "seg_id": "S5-L4",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号四：肩臂下巴腹部疼痛",
+    "template": "step_arrow",
+    "items": [
+      "立刻停下来休息",
+      "几分钟内好转——尽快看心内科",
+      "越来越重——直接拨打120"
+    ],
+    "atoms_text": "这很可能是 心绞痛的不典型表现",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3700,
+    "seg_id": "S5-L5",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号四：肩臂下巴腹部疼痛",
+    "template": "warning_alert",
+    "items": [
+      "越来越重且伴随冒冷汗恶心",
+      "直接拨120，不要自己开车"
+    ],
+    "atoms_text": "停下来 如果休息几分钟 能好转 尽快去心内科 查一查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3701,
+    "seg_id": "S5-L6",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号四：肩臂下巴腹部疼痛",
+    "template": "warning_alert",
+    "items": [
+      "出现放射性疼痛需立即就医"
+    ],
+    "atoms_text": "如果越来越重 伴随冒冷汗 恶心 直接打一二零 不要自己开车去医院",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3702,
+    "seg_id": "S6-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号五：异常呼吸困难",
+    "template": "hero_text",
+    "items": [
+      "信号五：突然异常的呼吸困难"
+    ],
+    "atoms_text": "第五个信号 异常的呼吸困难",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3703,
+    "seg_id": "S6-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号五：异常呼吸困难",
+    "template": "split_column",
+    "items": [
+      "跑步时喘气，属于正常现象",
+      "像被掐住脖子，每口气吸不到底",
+      "运动强度越大越喘，成比例",
+      "停下好几分钟仍缓不过来"
+    ],
+    "atoms_text": "跑步喘是正常的 但如果你 突然觉得 呼吸像被人掐住了脖子 每一口气 都吸不到底 跟刚才的运动强度 完全不成比例 并且停下来之后 好几分钟 都缓不过来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3704,
+    "seg_id": "S6-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "信号五：异常呼吸困难",
+    "template": "warning_alert",
+    "items": [
+      "可能是严重心肌缺血或支气管痉挛",
+      "不管哪种原因都不应硬撑"
+    ],
+    "atoms_text": "这个要警惕 它可能是 严重的心肌缺血 也可能是 运动诱发的支气管痉挛 不管是哪种 都不应该硬撑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3705,
+    "seg_id": "S7-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "五大信号总结",
+    "template": "split_column",
+    "items": [
+      "正常累：全身均匀，停下很快恢复",
+      "危险信号：局部异常，停下不能恢复",
+      "正常喘：与运动强度成比例",
+      "异常感：与运动强度不成比例"
+    ],
+    "atoms_text": "总结一下 运动时候正常的累 是全身的 均匀的 停下来 很快就能恢复的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3706,
+    "seg_id": "S7-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "五大信号总结",
+    "template": "list_fade",
+    "items": [
+      "胸口压迫感、发闷发紧",
+      "突然晕厥或眼前发黑",
+      "心跳突然乱蹦无节奏",
+      "左肩下巴莫名疼痛",
+      "停下来仍缓不过来的喘"
+    ],
+    "atoms_text": "但如果 胸口压迫感 突然晕厥 心跳乱蹦 左肩下巴莫名的疼痛 或者不正常的呼吸困难 这五个信号 出现任何一个 请你 立刻停下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3707,
+    "seg_id": "S7-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "五大信号总结",
+    "template": "hero_text",
+    "items": [
+      "停下来不丢人，硬撑出事才是真傻"
+    ],
+    "atoms_text": "停下来不丢人 硬撑着出事 才是真的傻",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3708,
+    "seg_id": "S8-L1",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "运动与心脏保护",
+    "template": "hero_text",
+    "items": [
+      "运动对心脏有保护作用"
+    ],
+    "atoms_text": "其实我说这些 不是让大家害怕运动 恰恰相反 运动对心脏 是有保护作用的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3709,
+    "seg_id": "S8-L2",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "运动与心脏保护",
+    "template": "split_column",
+    "items": [
+      "不了解身体，盲目坚持运动",
+      "了解信号，知道何时该停下",
+      "把危险当挑战，风险极高",
+      "读懂身体信号，安全运动"
+    ],
+    "atoms_text": "但前提是 你了解自己的身体 知道哪些信号是正常的 哪些是危险的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3710,
+    "seg_id": "S8-L3",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "运动与心脏保护",
+    "template": "step_arrow",
+    "items": [
+      "从未做过心脏检查",
+      "花几百元做心电图或心脏彩超",
+      "给自己买一份安心再运动"
+    ],
+    "atoms_text": "如果你之前 从来没有做过 心脏方面的检查 开始规律运动之前 花个几百块 做个心电图 或者心脏彩超 这不是浪费钱 这是给自己买一份安心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3711,
+    "seg_id": "S8-L4",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "运动与心脏保护",
+    "template": "hero_text",
+    "items": [
+      "你好好的，比跑多少公里都重要"
+    ],
+    "atoms_text": "你好好的 比跑完多少公里 都重要",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3712,
+    "seg_id": "S8-L5",
+    "bp_title": "运动时这5个信号是心脏在求救",
+    "scene_title": "运动与心脏保护",
+    "template": "hero_text",
+    "items": [
+      "这5个信号，你记住了吗"
+    ],
+    "atoms_text": "我讲明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3713,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "心脏从不停歇",
+    "template": "hero_text",
+    "items": [
+      "心脏从未休息过一秒"
+    ],
+    "atoms_text": "张旭峰老师 猝死离世 让我们感到 非常惋惜 我不禁想到 咱们的心脏 从你出生那一刻起 就没有再休息过 一秒钟了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3714,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "心脏从不停歇",
+    "template": "number_center",
+    "items": [
+      "100000"
+    ],
+    "atoms_text": "每天跳将近十万次 它什么时候罢工 取决于你现在怎么对它",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3715,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "心脏从不停歇",
+    "template": "hero_text",
+    "items": [
+      "这五件事让心脏陪你到九十九"
+    ],
+    "atoms_text": "想让心脏陪你到九十九岁 这五件事儿 一定要注意",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3716,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "hero_text",
+    "items": [
+      "第一件事：把觉睡好"
+    ],
+    "atoms_text": "第一件事儿 就是把觉睡好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3717,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "number_center",
+    "items": [
+      "7-8"
+    ],
+    "atoms_text": "这些年我在急诊 见过的年轻心梗患者里边 十个里有七八个 都有一个共同的特征 连着好几个月 每天只睡五六个小时",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3718,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "list_fade",
+    "items": [
+      "每天连轴转，熬夜舍不得睡",
+      "睡前刷手机，越刷越清醒"
+    ],
+    "atoms_text": "很多打工人其实也一样 每天连轴转 晚上还舍不得睡",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3719,
+    "seg_id": "S2-L4",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "step_arrow",
+    "items": [
+      "长期睡眠不足",
+      "身体持续应激，心跳快血压高",
+      "血管内皮损伤积累",
+      "某天突然出大事"
+    ],
+    "atoms_text": "可长期睡不够 你的身体啊 会一直处于应激状态 心跳快 血压高 血管一直收着劲儿 就像橡皮筋儿一直绷着 早晚得断",
+    "needs_animation": true,
+    "label": "长期睡眠不足致身体应激状态下心跳加快血压升高血管持续收缩"
+  }
+]

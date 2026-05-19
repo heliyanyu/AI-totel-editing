@@ -1,0 +1,566 @@
+[
+  {
+    "global_index": 200,
+    "seg_id": "S6-L2",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "现在该做的事情",
+    "template": "list_fade",
+    "items": [
+      "让复查就按时去复查",
+      "让进一步检查就配合做"
+    ],
+    "atoms_text": "医生让你复查 就按时去 让你进一步检查呢 你就配合做",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 201,
+    "seg_id": "S6-L3",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "现在该做的事情",
+    "template": "number_center",
+    "items": [
+      "大多数"
+    ],
+    "atoms_text": "大多数肺结节 最后都会证明 不是什么大问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 202,
+    "seg_id": "S6-L4",
+    "bp_title": "查出肺结节别慌，听医生说完再判断",
+    "scene_title": "现在该做的事情",
+    "template": "hero_text",
+    "items": [
+      "今晚睡个好觉，明天该干嘛就干嘛"
+    ],
+    "atoms_text": "今晚就先睡个好觉 明天该干嘛就干嘛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 203,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "别乱查心脏",
+    "template": "hero_text",
+    "items": [
+      "心脏不舒服，想查全一点"
+    ],
+    "atoms_text": "门诊啊 经常有人说 医生啊 我心脏不舒服 你给我查查吧 查全一点 钱不是问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 204,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "别乱查心脏",
+    "template": "warning_alert",
+    "items": [
+      "花大几千，很多检查根本不需要"
+    ],
+    "atoms_text": "我说啊 先别急 心脏的检查项目 有几十种 全做一遍啊 花大几千不说 很多啊 根本不是你需要的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 205,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "别乱查心脏",
+    "template": "hero_text",
+    "items": [
+      "搞清楚什么情况做什么检查"
+    ],
+    "atoms_text": "今天啊 帮你理清楚 什么情况 做什么检查 别花冤枉钱 也别漏掉该查的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 206,
+    "seg_id": "S1-L4",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "别乱查心脏",
+    "template": "warning_alert",
+    "items": [
+      "有几种情况不考虑检查，直接急诊"
+    ],
+    "atoms_text": "但在讲检查之前啊 必须先说一个前提 有几种情况 不需要考虑做什么检查 直接去急诊科",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 207,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "这些症状直接急诊",
+    "template": "list_fade",
+    "items": [
+      "胸口剧烈疼痛超过15分钟",
+      "疼痛时大汗淋漓、恶心呕吐",
+      "突然晕倒",
+      "呼吸困难、喘不上气"
+    ],
+    "atoms_text": "比如 胸口疼痛啊 剧烈的啊 超过十五分钟不缓解的 疼的时候啊 大汗淋漓 恶心呕吐的 突然晕倒过的 呼吸困难 喘不上气的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 208,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "这些症状直接急诊",
+    "template": "brick_stack",
+    "items": [
+      "急性心肌梗死",
+      "主动脉夹层",
+      "严重心室颤动"
+    ],
+    "atoms_text": "这些啊 可能是 急性心梗 主动脉夹层 或者严重的心室颤动",
+    "needs_animation": true,
+    "label": "急性心梗、主动脉夹层、心室颤动的危急病理表现"
+  },
+  {
+    "global_index": 209,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "这些症状直接急诊",
+    "template": "hero_text",
+    "items": [
+      "别纠结挂什么科，直接打120"
+    ],
+    "atoms_text": "别纠结挂什么科了 直接打幺幺零",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 210,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "普通心脏不适怎么查",
+    "template": "hero_text",
+    "items": [
+      "排除危急情况，再说普通的怎么查"
+    ],
+    "atoms_text": "好 排除了这些危急的情况 咱们再说说 普通的心脏不舒服 该怎么查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 211,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第一步：心电图",
+    "template": "step_arrow",
+    "items": [
+      "记录心脏电活动是否正常",
+      "发现早搏、传导阻滞、缺血迹象",
+      "两分钟完成，价格低廉"
+    ],
+    "atoms_text": "第一个 心电图 最基础的 两分钟就能完事 几十块钱 看看心脏的电活动 正不正常 有没有早搏 有没有传导阻滞 有没有心肌缺血的迹象",
+    "needs_animation": true,
+    "label": "心电图记录心脏电活动检测早搏、传导阻滞和心肌缺血"
+  },
+  {
+    "global_index": 212,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第一步：心电图",
+    "template": "warning_alert",
+    "items": [
+      "只记录检查那几十秒，阵发问题易漏检"
+    ],
+    "atoms_text": "但啊 心电图有个局限 它只记录 做检查的那几十秒的心跳 你的问题啊 是一阵一阵的 做的时候刚好没犯 就抓不到了",
+    "needs_animation": true,
+    "label": "心电图只能记录检查时几十秒的心跳信号"
+  },
+  {
+    "global_index": 213,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第一步：心电图",
+    "template": "branch_path",
+    "items": [
+      "心慌一阵一阵，心电图未见异常",
+      "需要做动态心电图",
+      "心电图有发现，对症处理"
+    ],
+    "atoms_text": "如果你是那种心慌啊 是一阵一阵的 做普通心电图 又没有发现什么问题 就需要做第二个检查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 214,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第二步：动态心电图",
+    "template": "step_arrow",
+    "items": [
+      "身上贴电极片，背小盒子",
+      "连续记录整整24小时心跳"
+    ],
+    "atoms_text": "就是 二十四小时动态心电图 也叫Holter 就是身上贴几个电极片 背一个小盒子 记录啊 一整天的心跳",
+    "needs_animation": true,
+    "label": "动态心电图电极片贴附身体持续记录24小时心跳"
+  },
+  {
+    "global_index": 215,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第二步：动态心电图",
+    "template": "list_fade",
+    "items": [
+      "阵发性房颤",
+      "室上性心动过速",
+      "频繁早搏"
+    ],
+    "atoms_text": "这样 不管你白天心慌 还是半夜犯病 它都能抓得到 阵发性房颤啊 室上速啊 频繁的早搏啊 基本上靠这个就能确诊了",
+    "needs_animation": true,
+    "label": "动态心电图捕捉阵发性房颤、室上速和频繁早搏"
+  },
+  {
+    "global_index": 216,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第三步：心脏彩超",
+    "template": "list_fade",
+    "items": [
+      "心脏大小是否正常",
+      "瓣膜有无问题",
+      "心肌收缩力是否充足",
+      "有无心包积液"
+    ],
+    "atoms_text": "第三个 就是心脏彩超 这个查的 不是电路 而是结构 就是看你心脏大不大 瓣膜啊有没有问题 心肌收缩啊有没有力气 有没有心包积液",
+    "needs_animation": true,
+    "label": "心脏彩超观察心脏大小、瓣膜功能、心肌收缩力和心包积液"
+  },
+  {
+    "global_index": 217,
+    "seg_id": "S6-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第三步：心脏彩超",
+    "template": "split_column",
+    "items": [
+      "活动后气喘或腿肿",
+      "躺着做，几十分钟完成",
+      "怀疑心功能不好必须做",
+      "价格不贵，无创无痛"
+    ],
+    "atoms_text": "如果你觉得 活动后气喘 或者腿老是肿 怀疑心功能不好的 心脏彩超必须要做 它不贵也不疼 几百块钱 躺着做几十分钟就行了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 218,
+    "seg_id": "S7-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第四步：心肌标志物",
+    "template": "list_fade",
+    "items": [
+      "肌钙蛋白",
+      "BNP"
+    ],
+    "atoms_text": "第四个 就是抽血查心肌标志物 主要看 肌钙蛋白 和BNP 这两个指标",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 219,
+    "seg_id": "S7-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第四步：心肌标志物",
+    "template": "step_arrow",
+    "items": [
+      "肌钙蛋白升高",
+      "提示心肌可能损伤",
+      "排除心梗最关键指标"
+    ],
+    "atoms_text": "肌钙蛋白升高 说明心肌啊 有可能损伤了 是要排除心梗的 最关键的指标",
+    "needs_animation": true,
+    "label": "肌钙蛋白升高提示心肌细胞损伤"
+  },
+  {
+    "global_index": 220,
+    "seg_id": "S7-L3",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第四步：心肌标志物",
+    "template": "step_arrow",
+    "items": [
+      "BNP升高",
+      "心脏负担较重",
+      "可能提示心力衰竭"
+    ],
+    "atoms_text": "BNP升高啊 提示心脏的负担 是比较重的 有可能是心衰",
+    "needs_animation": true,
+    "label": "BNP升高反映心脏负担过重与心衰"
+  },
+  {
+    "global_index": 221,
+    "seg_id": "S7-L4",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "第四步：心肌标志物",
+    "template": "hero_text",
+    "items": [
+      "胸痛来急，医生第一时间抽血查"
+    ],
+    "atoms_text": "所以啊 如果你胸痛来的很急 医生啊 一般第一时间 就给你抽这个血 也不用你提醒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 222,
+    "seg_id": "S8-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "四项基础检查足够了",
+    "template": "color_grid",
+    "items": [
+      "心电图",
+      "动态心电图",
+      "心脏彩超",
+      "心肌标志物"
+    ],
+    "atoms_text": "以上这四个 心电图 动态心电图 心脏彩超 心肌标志物 对于绝大多数 心脏不舒服的人来说啊 就足够了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 223,
+    "seg_id": "S8-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "四项基础检查足够了",
+    "template": "number_center",
+    "items": [
+      "80%"
+    ],
+    "atoms_text": "做完这四个最基本的检查 基本上能够覆盖 百分之八十以上的 常见问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 224,
+    "seg_id": "S9-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "什么时候需要进一步查",
+    "template": "brick_stack",
+    "items": [
+      "基础检查提示心肌缺血",
+      "高血压糖尿病抽烟等高危因素",
+      "年龄45岁以上"
+    ],
+    "atoms_text": "那什么时候 需要做进一步检查呢 如果这上面都做了 确实有心肌缺血的迹象 或者你本身就有 高血压 糖尿病 抽烟 这种高危因素 年纪啊 也四五十岁以上了 医生呢 可能会建议你做冠脉CT 看看血管有没有狭窄",
+    "needs_animation": true,
+    "label": "冠脉CT检查冠状动脉血管有无狭窄"
+  },
+  {
+    "global_index": 225,
+    "seg_id": "S9-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "什么时候需要进一步查",
+    "template": "split_column",
+    "items": [
+      "冠脉CT：无创，筛查血管狭窄",
+      "冠脉造影：有创，评估最准确",
+      "适合初步评估高危人群",
+      "该做时不要抗拒"
+    ],
+    "atoms_text": "有些情况 医生可能根据你的症状 和危险因素 直接建议你做冠脉造影 虽然是有创的检查 但它是评估冠脉啊 最准确的手段 该做的时候 不要抗拒",
+    "needs_animation": true,
+    "label": "冠脉造影有创评估冠状动脉狭窄程度"
+  },
+  {
+    "global_index": 226,
+    "seg_id": "S10-L1",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "总结记住这三点",
+    "template": "warning_alert",
+    "items": [
+      "胸痛剧烈、大汗、晕倒、喘不上气→急诊"
+    ],
+    "atoms_text": "总结一下 心脏不舒服的时候 先排除危急的情况 胸痛剧烈 大汗 晕倒 喘不上气 直接去急诊科",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 227,
+    "seg_id": "S10-L2",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "总结记住这三点",
+    "template": "list_fade",
+    "items": [
+      "心电图",
+      "动态心电图",
+      "心脏彩超",
+      "心肌标志物"
+    ],
+    "atoms_text": "不是急症的 心电图啊 动态心电图啊 心脏彩超 心肌标志物 这四个先做 大部分问题啊 就能搞清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 228,
+    "seg_id": "S10-L3",
+    "bp_title": "心脏不舒服该做哪些检查",
+    "scene_title": "总结记住这三点",
+    "template": "hero_text",
+    "items": [
+      "别乱猜也别求最贵，一步一步来就对了"
+    ],
+    "atoms_text": "别自己瞎猜 也别上来就要求做最贵的 一步一步来 就对了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 229,
+    "seg_id": "S1-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "那些让你心慌的话",
+    "template": "hero_text",
+    "items": [
+      "放过支架？这几句话你一定听过"
+    ],
+    "atoms_text": "如果你 放过支架 下面这几句话 你一定听过 至少一句",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 230,
+    "seg_id": "S1-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "那些让你心慌的话",
+    "template": "list_fade",
+    "items": [
+      "放了支架这辈子就废了",
+      "支架最多管十年到时候得换",
+      "谁谁放了支架没几年就走了"
+    ],
+    "atoms_text": "放了支架 这辈子就废了 支架最多管十年 到时候还得再换 谁谁 放了支架 没几年就走了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 231,
+    "seg_id": "S1-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "那些让你心慌的话",
+    "template": "hero_text",
+    "items": [
+      "不是恶意，但每句都在给你添堵"
+    ],
+    "atoms_text": "说这些话的人啊 可能不是恶意的 但说实话 每一句话 都在给你添堵",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 232,
+    "seg_id": "S1-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "那些让你心慌的话",
+    "template": "hero_text",
+    "items": [
+      "逐句拆解，听完心里不再慌"
+    ],
+    "atoms_text": "今天我就 把这几句话 一条一条拆清楚 下次你再听到 心里就不慌了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 233,
+    "seg_id": "S2-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架≠废掉",
+    "template": "hero_text",
+    "items": [
+      "放了支架这辈子就废了？"
+    ],
+    "atoms_text": "第一句就是 放了支架 这辈子就废了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 234,
+    "seg_id": "S2-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架≠废掉",
+    "template": "list_fade",
+    "items": [
+      "该上班上班，生活照常",
+      "该运动运动，质量更好",
+      "该旅游旅游，不受限制"
+    ],
+    "atoms_text": "那当然不是啊 支架放了之后 该上班上班 该运动运动 该旅游旅游 生活质量 比放之前更好了 不是更差了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 235,
+    "seg_id": "S2-L3",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架≠废掉",
+    "template": "step_arrow",
+    "items": [
+      "堵塞血管被打通",
+      "心脏供血全面恢复",
+      "工作条件比术前更好"
+    ],
+    "atoms_text": "那为什么呢 因为堵着的血管 它通了 心脏供血恢复了 你的心脏 比放支架之前的 工作条件好多了",
+    "needs_animation": true,
+    "label": "支架撑开堵塞血管后心脏供血恢复"
+  },
+  {
+    "global_index": 236,
+    "seg_id": "S2-L4",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架≠废掉",
+    "template": "number_center",
+    "items": [
+      "数百万"
+    ],
+    "atoms_text": "全世界每年 几百万人 做支架手术 大多数人 术后回归正常生活",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 237,
+    "seg_id": "S2-L5",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架≠废掉",
+    "template": "hero_text",
+    "items": [
+      "支架只是帮你修了一段路"
+    ],
+    "atoms_text": "放了支架 不等于贴了标签 它只是 帮你修了一段路 而已",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 238,
+    "seg_id": "S3-L1",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架没有使用年限",
+    "template": "hero_text",
+    "items": [
+      "支架最多管十年要换？"
+    ],
+    "atoms_text": "第二个就是 支架最多管十年 到时候还得换",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 239,
+    "seg_id": "S3-L2",
+    "bp_title": "放了支架你听过这几句话吗？",
+    "scene_title": "支架没有使用年限",
+    "template": "myth_buster",
+    "items": [
+      "支架像轮胎有使用年限",
+      "支架永久植入成为血管壁一部分",
+      "管十年后需要更换",
+      "没有医学依据不需要更换"
+    ],
+    "atoms_text": "支架是永久植入的 它不是轮胎 没有使用年限 也不需要更换 放进去之后 血管内膜 会把它包裹住 变成血管壁的一部分",
+    "needs_animation": true,
+    "label": "支架植入后血管内膜包裹支架使其成为血管壁一部分"
+  }
+]

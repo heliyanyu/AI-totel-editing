@@ -1,0 +1,517 @@
+[
+  {
+    "global_index": 2280,
+    "seg_id": "S3-L3",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "国际通用筛查测试法",
+    "template": "hero_text",
+    "items": [
+      "第二步：独立画指定时间的表盘"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2281,
+    "seg_id": "S3-L4",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "国际通用筛查测试法",
+    "template": "hero_text",
+    "items": [
+      "第三步：回忆此前记住的三个词"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2282,
+    "seg_id": "S3-L5",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "国际通用筛查测试法",
+    "template": "list_fade",
+    "items": [
+      "考察大脑听理解能力",
+      "考察空间定向能力",
+      "考察执行规划能力",
+      "考察短期工作记忆能力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2283,
+    "seg_id": "S4-L1",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "痴呆早期隐藏信号",
+    "template": "hero_text",
+    "items": [
+      "痴呆早期有多个易忽略信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2284,
+    "seg_id": "S4-L2",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "痴呆早期隐藏信号",
+    "template": "hero_text",
+    "items": [
+      "原本温和突然多疑暴躁自私"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2285,
+    "seg_id": "S4-L3",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "痴呆早期隐藏信号",
+    "template": "hero_text",
+    "items": [
+      "住多年的小区也找不到回家路"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2286,
+    "seg_id": "S4-L4",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "痴呆早期隐藏信号",
+    "template": "hero_text",
+    "items": [
+      "分不清早晚季节等时间信息"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2287,
+    "seg_id": "S5-L1",
+    "bp_title": "在家自测老年痴呆 快速鉴别良性遗忘",
+    "scene_title": "总结倡导早干预",
+    "template": "hero_text",
+    "items": [
+      "早诊早治可大幅延缓病情发展"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2288,
+    "seg_id": "S1-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗来袭你会怎么做",
+    "template": "hero_text",
+    "items": [
+      "胸闷大汗胸口如压巨石"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2289,
+    "seg_id": "S1-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗来袭你会怎么做",
+    "template": "list_fade",
+    "items": [
+      "强撑着走去医院",
+      "赶紧喝口热水缓缓",
+      "用力咳嗽自我急救"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2290,
+    "seg_id": "S1-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗来袭你会怎么做",
+    "template": "warning_alert",
+    "items": [
+      "错误急救反将血管逼上绝路"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2291,
+    "seg_id": "S1-L4",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗来袭你会怎么做",
+    "template": "hero_text",
+    "items": [
+      "时间就是心肌，心肌就是生命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2292,
+    "seg_id": "S1-L5",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗来袭你会怎么做",
+    "template": "hero_text",
+    "items": [
+      "致命错误与黄金步骤一次讲透"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2293,
+    "seg_id": "S1-L6",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗来袭你会怎么做",
+    "template": "hero_text",
+    "items": [
+      "收藏转发，关键时刻是保命符"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2294,
+    "seg_id": "S2-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "hero_text",
+    "items": [
+      "先弄懂心梗到底怎么发生"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2295,
+    "seg_id": "S2-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "body_annotate",
+    "items": [
+      "心脏是永不停歇的发动机",
+      "冠状动脉是专属供油管道"
+    ],
+    "needs_animation": true,
+    "label": "心脏与冠状动脉解剖结构"
+  },
+  {
+    "global_index": 2296,
+    "seg_id": "S2-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "vertical_timeline",
+    "items": [
+      "长期熬夜吸烟高脂饮食",
+      "管道内壁积累斑块变窄"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉斑块形成与管腔狭窄"
+  },
+  {
+    "global_index": 2297,
+    "seg_id": "S2-L4",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "step_arrow",
+    "items": [
+      "情绪激动致斑块包膜破裂",
+      "血小板大量聚集形成血栓",
+      "血管被彻底堵死"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉斑块破裂与血栓形成"
+  },
+  {
+    "global_index": 2298,
+    "seg_id": "S2-L5",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "warning_alert",
+    "items": [
+      "下游心肌细胞数十分钟内不可逆坏死"
+    ],
+    "needs_animation": true,
+    "label": "心肌缺血坏死过程"
+  },
+  {
+    "global_index": 2299,
+    "seg_id": "S2-L6",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "hero_text",
+    "items": [
+      "常见自救动作正在加速危机"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2300,
+    "seg_id": "S2-L7",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "心梗发病底层逻辑",
+    "template": "list_fade",
+    "items": [
+      "理解了这个过程",
+      "你就会明白",
+      "为什么下面这几个",
+      "常见的自救动作",
+      "其实是在加速危机"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2301,
+    "seg_id": "S3-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误一：乱动身体",
+    "template": "hero_text",
+    "items": [
+      "感觉不对劲却强撑走去医院"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2302,
+    "seg_id": "S3-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误一：乱动身体",
+    "template": "list_fade",
+    "items": [
+      "自己走路前往医院",
+      "爬楼梯或做拉伸动作",
+      "以为是岔气想活动缓解"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2303,
+    "seg_id": "S3-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误一：乱动身体",
+    "template": "step_arrow",
+    "items": [
+      "活动导致全身耗氧量剧增",
+      "心脏被迫加速跳动",
+      "心肌坏死面积迅速扩大"
+    ],
+    "needs_animation": true,
+    "label": "运动增加心肌耗氧加速坏死机制"
+  },
+  {
+    "global_index": 2304,
+    "seg_id": "S3-L4",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误一：乱动身体",
+    "template": "split_column",
+    "items": [
+      "切断燃油还死踩油门",
+      "停止供油应立刻熄火停车"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2305,
+    "seg_id": "S3-L5",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误一：乱动身体",
+    "template": "warning_alert",
+    "items": [
+      "极易诱发致命心室颤动"
+    ],
+    "needs_animation": true,
+    "label": "心室颤动发生机制"
+  },
+  {
+    "global_index": 2306,
+    "seg_id": "S4-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误二：进食与乱用药",
+    "template": "hero_text",
+    "items": [
+      "心梗发作时喝水吃药暗藏危机"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2307,
+    "seg_id": "S4-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误二：进食与乱用药",
+    "template": "step_arrow",
+    "items": [
+      "家人端来热水患者饮用",
+      "随时可能意识丧失骤停",
+      "食物误入气管引发窒息"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2308,
+    "seg_id": "S4-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误二：进食与乱用药",
+    "template": "myth_buster",
+    "items": [
+      "胸痛就该立刻吃硝酸甘油",
+      "右室梗死时吃会导致血压崩盘",
+      "硝酸甘油是心绞痛的常备药",
+      "心梗类型不同用药需医生判断"
+    ],
+    "needs_animation": true,
+    "label": "硝酸甘油扩张血管降压机制"
+  },
+  {
+    "global_index": 2309,
+    "seg_id": "S4-L4",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误二：进食与乱用药",
+    "template": "warning_alert",
+    "items": [
+      "血压瞬间崩盘直接休克"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2310,
+    "seg_id": "S4-L5",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误二：进食与乱用药",
+    "template": "list_fade",
+    "items": [
+      "如果患者此时",
+      "是因为右心室梗死",
+      "导致的低血压",
+      "再吃",
+      "具有扩张血管降压作用的"
+    ],
+    "needs_animation": true,
+    "label": "右心室梗死低血压与硝酸甘油降压机制"
+  },
+  {
+    "global_index": 2311,
+    "seg_id": "S5-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误三：迷信偏方",
+    "template": "hero_text",
+    "items": [
+      "网传急救偏方害人不浅"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2312,
+    "seg_id": "S5-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误三：迷信偏方",
+    "template": "list_fade",
+    "items": [
+      "拍打手肘内侧急救法",
+      "拼命用力咳嗽急救法"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2313,
+    "seg_id": "S5-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误三：迷信偏方",
+    "template": "myth_buster",
+    "items": [
+      "拍打手肘可以拍散血栓",
+      "拍打刺激交感神经升高血压",
+      "用力咳嗽能自救心梗",
+      "咳嗽增加胸腔压力加剧缺血"
+    ],
+    "needs_animation": true,
+    "label": "错误急救刺激交感神经加剧心肌缺血机制"
+  },
+  {
+    "global_index": 2314,
+    "seg_id": "S5-L4",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误三：迷信偏方",
+    "template": "warning_alert",
+    "items": [
+      "错用偏方不是救命而是催命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2315,
+    "seg_id": "S5-L5",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误三：迷信偏方",
+    "template": "hero_text",
+    "items": [
+      "真正救命的只有四个字"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2316,
+    "seg_id": "S6-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第一步：静",
+    "template": "hero_text",
+    "items": [
+      "正确急救口诀：静·叫·开·等"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2317,
+    "seg_id": "S6-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第一步：静",
+    "template": "step_arrow",
+    "items": [
+      "立刻停止一切活动",
+      "就地平躺或半靠在床头",
+      "降低心脏耗氧保护心肌"
+    ],
+    "needs_animation": true,
+    "label": "静止降低心肌耗氧保护机制"
+  },
+  {
+    "global_index": 2318,
+    "seg_id": "S6-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第一步：静",
+    "template": "warning_alert",
+    "items": [
+      "哪怕上厕所也绝对不能走动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2319,
+    "seg_id": "S7-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第二步：叫",
+    "template": "step_arrow",
+    "items": [
+      "立刻拨打120急救电话",
+      "告知调度员位置与症状",
+      "急救车上即是移动急诊室"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,536 @@
+[
+  {
+    "global_index": 3360,
+    "seg_id": "S5-L5",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "为什么偏偏是年轻人",
+    "template": "warning_alert",
+    "items": [
+      "年轻≠安全，血管危机可以零预警"
+    ],
+    "atoms_text": "一旦斑块突然破裂 血栓把血管堵死 就是直接总闸跳闸 没有任何的缓冲",
+    "needs_animation": true,
+    "label": "斑块破裂后血栓堵死血管的过程"
+  },
+  {
+    "global_index": 3361,
+    "seg_id": "S6-L1",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "抢救就在现场",
+    "template": "hero_text",
+    "items": [
+      "最坏情况发生时，你必须知道怎么做"
+    ],
+    "atoms_text": "万一最坏的情况真的发生了 不管是发生在你自己身上 还是你身边的人身上 你也必须知道怎么做",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3362,
+    "seg_id": "S6-L2",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "抢救就在现场",
+    "template": "split_column",
+    "items": [
+      "大多数人以为抢救在医院",
+      "心源性猝死战场在事发现场"
+    ],
+    "atoms_text": "因为心源性猝死的抢救战场 往往不在医院 而在现场",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3363,
+    "seg_id": "S6-L3",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "抢救就在现场",
+    "template": "number_center",
+    "items": [
+      "10"
+    ],
+    "atoms_text": "黄金抢救时间只有十分钟 超过十分钟 基本上就回天乏术了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3364,
+    "seg_id": "S6-L4",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "抢救就在现场",
+    "template": "list_fade",
+    "items": [
+      "牢记关键三步，关键时刻能救命"
+    ],
+    "atoms_text": "要记住三步",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3365,
+    "seg_id": "S7-L1",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "急救第一步：判断+呼救",
+    "template": "hero_text",
+    "items": [
+      "第一步：判断意识，立即呼救"
+    ],
+    "atoms_text": "第一步 判断加呼救",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3366,
+    "seg_id": "S7-L2",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "急救第一步：判断+呼救",
+    "template": "step_arrow",
+    "items": [
+      "拍双肩，耳边大声呼喊",
+      "无反应、无呼吸确认倒地"
+    ],
+    "atoms_text": "拍他双肩 在耳边大声喊 如果没有反应 没有呼吸",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3367,
+    "seg_id": "S7-L3",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "急救第一步：判断+呼救",
+    "template": "step_arrow",
+    "items": [
+      "拨打120并开启免提",
+      "让调度员语音指导急救操作"
+    ],
+    "atoms_text": "马上拨幺二零 打开免提 让调度员在电话里 指导你急救",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3368,
+    "seg_id": "S8-L1",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "急救第二步：胸外按压",
+    "template": "hero_text",
+    "items": [
+      "第二步：胸外按压，持续有力"
+    ],
+    "atoms_text": "第二步 胸外按压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3369,
+    "seg_id": "S8-L2",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "急救第二步：胸外按压",
+    "template": "body_annotate",
+    "items": [
+      "两乳头连线中点"
+    ],
+    "atoms_text": "找到两个乳头连线中点 双手交叠 用上半身的重量 垂直往下压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3370,
+    "seg_id": "S8-L3",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "急救第二步：胸外按压",
+    "template": "step_arrow",
+    "items": [
+      "双手交叠，用上半身重量垂直下压",
+      "频率：每分钟100~120次",
+      "深度：5~6厘米"
+    ],
+    "atoms_text": "频率快点 每分钟一百到一百二十次 深度要够 五到六厘米",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3371,
+    "seg_id": "S9-L1",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "急救第三步：找AED",
+    "template": "hero_text",
+    "items": [
+      "第三步：找到AED，立即使用"
+    ],
+    "atoms_text": "第三步 找AED",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3372,
+    "seg_id": "S9-L2",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "急救第三步：找AED",
+    "template": "list_fade",
+    "items": [
+      "商场",
+      "地铁站",
+      "写字楼"
+    ],
+    "atoms_text": "让旁边人啊 赶紧去找 自动体外除颤器",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3373,
+    "seg_id": "S9-L3",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "急救第三步：找AED",
+    "template": "step_arrow",
+    "items": [
+      "打开电源",
+      "跟随语音一步步操作"
+    ],
+    "atoms_text": "现在很多 商场 地铁站 写字楼 都有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3374,
+    "seg_id": "S9-L4",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "急救第三步：找AED",
+    "template": "warning_alert",
+    "items": [
+      "拿到AED别慌，机器会一步步告诉你怎么做"
+    ],
+    "atoms_text": "拿到手别慌 打开电源 它会一步一步语音提示你怎么做",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3375,
+    "seg_id": "S10-L1",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "珍爱心脏，从今天开始",
+    "template": "hero_text",
+    "items": [
+      "从今天起，真正重视自己的心脏"
+    ],
+    "atoms_text": "因为从今天开始 真的重视自己的心脏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3376,
+    "seg_id": "S10-L2",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "珍爱心脏，从今天开始",
+    "template": "list_fade",
+    "items": [
+      "感觉累了，就停下来歇歇",
+      "感觉不对劲，及时去医院检查"
+    ],
+    "atoms_text": "觉得累了就歇歇 觉得不对劲儿就去医院查查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3377,
+    "seg_id": "S10-L3",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "珍爱心脏，从今天开始",
+    "template": "hero_text",
+    "items": [
+      "哪怕只帮到一个人，这个视频就值了"
+    ],
+    "atoms_text": "今天这个视频 能帮到一个人 哪怕只是让一个人记住了怎么急救 我就觉得值了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3378,
+    "seg_id": "S10-L4",
+    "bp_title": "心源性猝死前，身体早就发出了求救信号",
+    "scene_title": "珍爱心脏，从今天开始",
+    "template": "hero_text",
+    "items": [
+      "转发给家人朋友，一起健康远离意外"
+    ],
+    "atoms_text": "赶紧转发给你身边的家人朋友 咱们一起 健健康康 远离意外",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3379,
+    "seg_id": "S1-L1",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "沉重的开场",
+    "template": "hero_text",
+    "items": [
+      "每次听到猝死的消息，心里都很沉重"
+    ],
+    "atoms_text": "每次 看到 有人 因为猝死 离开 我心里 都会 很沉重",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3380,
+    "seg_id": "S1-L2",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "沉重的开场",
+    "template": "hero_text",
+    "items": [
+      "生命有时脆弱得让人害怕"
+    ],
+    "atoms_text": "生命 这个东西啊 你平时 觉得 它稳稳当当的 但有的时候 它真是 脆弱的 让人害怕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3381,
+    "seg_id": "S1-L3",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "沉重的开场",
+    "template": "hero_text",
+    "items": [
+      "今天认真聊聊心源性猝死"
+    ],
+    "atoms_text": "今天这个话题呢 确实沉重 但我呀 还是想 认真的 跟大家 聊一聊 心源性猝死",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3382,
+    "seg_id": "S1-L4",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "沉重的开场",
+    "template": "hero_text",
+    "items": [
+      "不是制造焦虑，是希望大家好好的"
+    ],
+    "atoms_text": "不是为了 制造焦虑 而是 希望大家 都能好好的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3383,
+    "seg_id": "S1-L5",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "沉重的开场",
+    "template": "hero_text",
+    "items": [
+      "别让悲剧在你身上重演"
+    ],
+    "atoms_text": "千万不要 像张雪峰老师那样 突然因为 心源性猝死 离开我们",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3384,
+    "seg_id": "S2-L1",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死冷酷数字",
+    "template": "hero_text",
+    "items": [
+      "心脏突然停工导致的死亡"
+    ],
+    "atoms_text": "心源性猝死 就是 心脏突然不工作了 导致的死亡",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3385,
+    "seg_id": "S2-L2",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死冷酷数字",
+    "template": "number_center",
+    "items": [
+      "1小时"
+    ],
+    "atoms_text": "从发作到离开 往往呀 不超过 一个小时",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3386,
+    "seg_id": "S2-L3",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死冷酷数字",
+    "template": "number_center",
+    "items": [
+      "80%"
+    ],
+    "atoms_text": "大约百分之八十呢 是发生在家里",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3387,
+    "seg_id": "S2-L4",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死冷酷数字",
+    "template": "number_center",
+    "items": [
+      "5%"
+    ],
+    "atoms_text": "存活率啊 不到百分之五",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3388,
+    "seg_id": "S2-L5",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死冷酷数字",
+    "template": "hero_text",
+    "items": [
+      "正因如此，了解它才更有意义"
+    ],
+    "atoms_text": "这个数字啊 让人心里发紧 但正因为如此 了解它 才更有意义",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3389,
+    "seg_id": "S3-L1",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死的真实成因",
+    "template": "myth_buster",
+    "items": [
+      "猝死是毫无征兆的意外",
+      "绝大多数人早已有心脏病只是不知道"
+    ],
+    "atoms_text": "很多人觉得 猝死啊 是毫无征兆的 突然发生的意外 其实不是的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3390,
+    "seg_id": "S3-L2",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死的真实成因",
+    "template": "number_center",
+    "items": [
+      "80%"
+    ],
+    "atoms_text": "绝大多数的猝死人呢 发作之前 就已经有心脏病了 只是自己不知道而已 或者呢 根本就没有查出来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3391,
+    "seg_id": "S3-L3",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死的真实成因",
+    "template": "hero_text",
+    "items": [
+      "血管斑块导致供血血管狭窄"
+    ],
+    "atoms_text": "其中呢 有百分之八十以上呢 是跟冠心病有关",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3392,
+    "seg_id": "S3-L4",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死的真实成因",
+    "template": "step_arrow",
+    "items": [
+      "劳累熬夜压力大等诱因触发",
+      "斑块突然破裂血管完全堵塞",
+      "急性心肌梗死发生",
+      "恶性心律失常甚至猝死"
+    ],
+    "atoms_text": "就是 给心脏供血的血管呀 因为有斑块 引起的血管狭窄了",
+    "needs_animation": true,
+    "label": "冠状动脉内斑块导致血管狭窄"
+  },
+  {
+    "global_index": 3393,
+    "seg_id": "S3-L5",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死的真实成因",
+    "template": "split_column",
+    "items": [
+      "及时送医，幸运得救",
+      "来不及就医，悄然离开"
+    ],
+    "atoms_text": "当劳累熬夜压力大 等诱因的时候呢 引起血管里的斑块啊 突然破裂",
+    "needs_animation": true,
+    "label": "劳累熬夜等诱因下血管内斑块突然破裂"
+  },
+  {
+    "global_index": 3394,
+    "seg_id": "S3-L6",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死的真实成因",
+    "template": "warning_alert",
+    "items": [
+      "血管堵塞80%~90%，患者毫无感觉"
+    ],
+    "atoms_text": "心脏的血管呢 就突然完全的堵住了 引起急性心肌梗死",
+    "needs_animation": true,
+    "label": "冠状动脉完全堵塞引发急性心肌梗死"
+  },
+  {
+    "global_index": 3395,
+    "seg_id": "S3-L7",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死的真实成因",
+    "template": "hero_text",
+    "items": [
+      "心梗来了就是急，越早救治越好"
+    ],
+    "atoms_text": "进而呢 就会发生 恶性心律失常 甚至猝死",
+    "needs_animation": true,
+    "label": "心肌梗死引发恶性心律失常"
+  },
+  {
+    "global_index": 3396,
+    "seg_id": "S3-L8",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死的真实成因",
+    "template": "warning_alert",
+    "items": [
+      "有人甚至连来医院的机会都没有"
+    ],
+    "atoms_text": "临床上 这种情况 真的经常碰到",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3397,
+    "seg_id": "S3-L9",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死的真实成因",
+    "template": "hero_text",
+    "items": [
+      "问题不是突然出现，是早已埋在那里"
+    ],
+    "atoms_text": "有些人呢 比较幸运 有些人呢 甚至连来医院的机会 都没有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3398,
+    "seg_id": "S3-L10",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死的真实成因",
+    "template": "hero_text",
+    "items": [
+      "早一点查出来，结果可能完全不同"
+    ],
+    "atoms_text": "事实上 有不少冠状动脉 都堵了百分之八十到九十了 但是病人自己之前呢 就一点感觉都没有",
+    "needs_animation": true,
+    "label": "冠状动脉狭窄80%-90%但无症状"
+  },
+  {
+    "global_index": 3399,
+    "seg_id": "S3-L11",
+    "bp_title": "心源性猝死：你的心脏在给你发信号吗？",
+    "scene_title": "猝死的真实成因",
+    "template": "hero_text",
+    "items": [
+      "这种情况临床上真的经常碰到"
+    ],
+    "atoms_text": "所以啊 心梗一来 就是个急的 我们说啊 就越早救治越好",
+    "needs_animation": false,
+    "label": ""
+  }
+]

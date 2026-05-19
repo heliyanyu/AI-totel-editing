@@ -1,0 +1,555 @@
+[
+  {
+    "global_index": 2480,
+    "seg_id": "S5-L2",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "焦虑与睡眠障碍",
+    "template": "step_arrow",
+    "items": [
+      "长期焦虑紧绷 + 熬夜睡不好",
+      "植物神经持续亢奋",
+      "大脑无法休息，产生头晕感"
+    ],
+    "atoms_text": "整天紧绷绷 天天熬夜睡不好 焦虑是因为 一直处于亢奋状态 植物神经 因为是大脑的休息 能不晕吗",
+    "needs_animation": true,
+    "label": "焦虑致植物神经持续亢奋，大脑无法正常休息"
+  },
+  {
+    "global_index": 2481,
+    "seg_id": "S5-L3",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "焦虑与睡眠障碍",
+    "template": "split_column",
+    "items": [
+      "昏昏沉沉、头戴紧箍咒感",
+      "调整作息，放松心态",
+      "身体在抗议，不必自我惊吓",
+      "无需盲目用药"
+    ],
+    "atoms_text": "这种晕啊 通常是昏昏沉沉不清醒的感觉 像头上戴了个紧箍咒 这属于身体在抗议 需要调整作息和心态 真没必要自己吓自己",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2482,
+    "seg_id": "S6-L1",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "总结行动指南",
+    "template": "hero_text",
+    "items": [
+      "头晕 ≠ 脑供血不足"
+    ],
+    "atoms_text": "总结一下 头晕啊 不等于脑供血不足",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2483,
+    "seg_id": "S6-L2",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "总结行动指南",
+    "template": "list_fade",
+    "items": [
+      "天旋地转型 → 耳鼻喉科查耳石症"
+    ],
+    "atoms_text": "如果是天旋地转 去耳鼻喉科查查耳石症",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2484,
+    "seg_id": "S6-L3",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "总结行动指南",
+    "template": "list_fade",
+    "items": [
+      "颈部僵硬型 → 骨科查颈椎"
+    ],
+    "atoms_text": "如果是颈部僵硬 去骨科看看颈椎",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2485,
+    "seg_id": "S6-L4",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "总结行动指南",
+    "template": "list_fade",
+    "items": [
+      "血压不稳型 → 规范调药稳血压"
+    ],
+    "atoms_text": "如果伴随血压不稳 耐心地调好药 对症下药才能治本",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2486,
+    "seg_id": "S6-L5",
+    "bp_title": "头晕≠脑供血不足，四大真相一次说清",
+    "scene_title": "总结行动指南",
+    "template": "warning_alert",
+    "items": [
+      "停止乱吃活血化瘀药，对症才能治本"
+    ],
+    "atoms_text": "别再瞎吃什么活血化瘀的 知道了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2487,
+    "seg_id": "S1-L1",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "开场警示",
+    "template": "hero_text",
+    "items": [
+      "五个检查，挡住心梗脑梗尿毒症"
+    ],
+    "atoms_text": "不想让 心梗脑梗尿毒症 找上门 一定要做好 这五个检查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2488,
+    "seg_id": "S1-L2",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "开场警示",
+    "template": "warning_alert",
+    "items": [
+      "50岁后最怕心梗脑梗突袭"
+    ],
+    "atoms_text": "过了五十以后啊 最怕的就是 心梗脑梗 这些危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2489,
+    "seg_id": "S1-L3",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "开场警示",
+    "template": "hero_text",
+    "items": [
+      "上一秒睡觉，下一秒倒下"
+    ],
+    "atoms_text": "有的人啊 甚至上一秒 还在睡觉 下一秒 就突然倒下了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2490,
+    "seg_id": "S1-L4",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "开场警示",
+    "template": "split_column",
+    "items": [
+      "花费不多",
+      "提前数年发现隐患"
+    ],
+    "atoms_text": "这个五个检查 花不了多钱 但可能提前好几年 帮你发现隐患",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2491,
+    "seg_id": "S1-L5",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "开场警示",
+    "template": "hero_text",
+    "items": [
+      "再忙也要抽空去做"
+    ],
+    "atoms_text": "再忙也要 抽空去做",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2492,
+    "seg_id": "S2-L1",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查一：颈动脉超声",
+    "template": "number_center",
+    "items": [
+      "01"
+    ],
+    "atoms_text": "第一个 颈动脉超声",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2493,
+    "seg_id": "S2-L2",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查一：颈动脉超声",
+    "template": "color_grid",
+    "items": [
+      "费用不到200元",
+      "无辐射，脖子扫一扫"
+    ],
+    "atoms_text": "不到两百块 没有辐射 探头在脖子上 扫一扫就出结果",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2494,
+    "seg_id": "S2-L3",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查一：颈动脉超声",
+    "template": "hero_text",
+    "items": [
+      "颈动脉是全身动脉硬化的镜子"
+    ],
+    "atoms_text": "颈动脉 就是全身动脉硬化的 一面镜子",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2495,
+    "seg_id": "S2-L4",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查一：颈动脉超声",
+    "template": "step_arrow",
+    "items": [
+      "颈动脉有斑块",
+      "心脑血管大概率也受损"
+    ],
+    "atoms_text": "这里有斑块 说明 心脏和脑子里的血管 大概率也好不到哪去",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2496,
+    "seg_id": "S2-L5",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查一：颈动脉超声",
+    "template": "myth_buster",
+    "items": [
+      "有斑块就会马上堵塞",
+      "关键看狭窄程度和斑块稳定性"
+    ],
+    "atoms_text": "但大家也不需要恐慌 有斑块 不等于马上会堵",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2497,
+    "seg_id": "S2-L6",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查一：颈动脉超声",
+    "template": "branch_path",
+    "items": [
+      "狭窄超50%且斑块不稳定",
+      "遵医嘱用他汀+阿司匹林",
+      "继续监测，改善生活方式"
+    ],
+    "atoms_text": "关键看 狭窄程度 和斑块是不是稳定的",
+    "needs_animation": true,
+    "label": "颈动脉狭窄程度与不稳定斑块的病理特征"
+  },
+  {
+    "global_index": 2498,
+    "seg_id": "S2-L7",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查一：颈动脉超声",
+    "template": "hero_text",
+    "items": [
+      "斑块稳定可控，关键要尽早发现"
+    ],
+    "atoms_text": "如果狭窄超过百分之五十 斑块也不稳定 可能就需要用上 他汀 以及阿司匹林 等药物 降低风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2499,
+    "seg_id": "S3-L1",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查二：心脏彩超",
+    "template": "number_center",
+    "items": [
+      "02"
+    ],
+    "atoms_text": "第二个 心脏彩超",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2500,
+    "seg_id": "S3-L2",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查二：心脏彩超",
+    "template": "list_fade",
+    "items": [
+      "心壁厚不厚",
+      "心腔大不大",
+      "每次泵血够不够"
+    ],
+    "atoms_text": "这个是 看心脏结构的 心壁厚不厚 心腔大不大 每次泵血够不够 全都看得见",
+    "needs_animation": true,
+    "label": "心脏彩超下心壁厚度、心腔大小与每搏泵血量"
+  },
+  {
+    "global_index": 2501,
+    "seg_id": "S3-L3",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查二：心脏彩超",
+    "template": "warning_alert",
+    "items": [
+      "高血压患者即使吃药也要做",
+      "血压正常≠心脏没问题"
+    ],
+    "atoms_text": "有高血压的人 哪怕你吃药 也该查这个",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2502,
+    "seg_id": "S3-L4",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查二：心脏彩超",
+    "template": "step_arrow",
+    "items": [
+      "血压控制尚可",
+      "心壁已悄悄变厚",
+      "向心衰方向发展"
+    ],
+    "atoms_text": "因为不少人啊 血压控制的还行 一查心脏彩超 心壁已经开始变厚了",
+    "needs_animation": true,
+    "label": "长期高血压使心壁逐渐增厚"
+  },
+  {
+    "global_index": 2503,
+    "seg_id": "S3-L5",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查二：心脏彩超",
+    "template": "warning_alert",
+    "items": [
+      "心壁变厚是心衰的前兆"
+    ],
+    "atoms_text": "这就是在往 心衰的方向走",
+    "needs_animation": true,
+    "label": "心壁增厚逐步进展为心衰"
+  },
+  {
+    "global_index": 2504,
+    "seg_id": "S3-L6",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查二：心脏彩超",
+    "template": "branch_path",
+    "items": [
+      "早期发现心壁增厚",
+      "血压控制130/80以下可逆转",
+      "拖延不查，走向心衰"
+    ],
+    "atoms_text": "但如果发现早 还在初期 把血压控制在 一百三八十以下 是有机会逆转的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2505,
+    "seg_id": "S4-L1",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查三：同型半胱氨酸",
+    "template": "number_center",
+    "items": [
+      "03"
+    ],
+    "atoms_text": "第三个 同型半胱氨酸",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2506,
+    "seg_id": "S4-L2",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查三：同型半胱氨酸",
+    "template": "warning_alert",
+    "items": [
+      "常规体检套餐里通常没有此项"
+    ],
+    "atoms_text": "这个 很多体检套餐里 根本没有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2507,
+    "seg_id": "S4-L3",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查三：同型半胱氨酸",
+    "template": "brick_stack",
+    "items": [
+      "数值偏高（>10）",
+      "叠加高血压",
+      "脑梗风险翻好几倍"
+    ],
+    "atoms_text": "但它偏高 超过十的话 配上高血压 脑梗风险 能翻好几倍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2508,
+    "seg_id": "S4-L4",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查三：同型半胱氨酸",
+    "template": "split_column",
+    "items": [
+      "中国人叶酸摄入不足",
+      "偏高比例远超欧美"
+    ],
+    "atoms_text": "我们中国人啊 因为叶酸摄入不够 这项偏高的比例啊 比欧美高的多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2509,
+    "seg_id": "S4-L5",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查三：同型半胱氨酸",
+    "template": "list_fade",
+    "items": [
+      "每天多吃菠菜、西兰花",
+      "深绿色蔬菜帮助降低指标"
+    ],
+    "atoms_text": "并且降它也特别简单 每天多吃一把 菠菜西兰花 这些深绿色的蔬菜",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2510,
+    "seg_id": "S4-L6",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查三：同型半胱氨酸",
+    "template": "color_grid",
+    "items": [
+      "遵医嘱补充叶酸片",
+      "几块钱一瓶即可降下来"
+    ],
+    "atoms_text": "或者遵医嘱 补点叶酸片 几块钱一瓶 基本就能降下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2511,
+    "seg_id": "S5-L1",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查四：低密度脂蛋白",
+    "template": "number_center",
+    "items": [
+      "04"
+    ],
+    "atoms_text": "第四个 血脂四项里的 低密度脂蛋白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2512,
+    "seg_id": "S5-L2",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查四：低密度脂蛋白",
+    "template": "color_grid",
+    "items": [
+      "高血压患者",
+      "糖尿病患者",
+      "吸烟者",
+      "已查出斑块者"
+    ],
+    "atoms_text": "如果你有 高血压 糖尿病 抽烟 或者已经查出斑块了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2513,
+    "seg_id": "S5-L3",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查四：低密度脂蛋白",
+    "template": "category_table",
+    "items": [
+      "普通人群报告参考值",
+      "低于 3.4 mmol/L",
+      "高风险人群达标值",
+      "低于 2.6 甚至 1.8"
+    ],
+    "atoms_text": "你的达标值 可能是二点六 甚至一点八以下 而不是报告上的三点四",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2514,
+    "seg_id": "S5-L4",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查四：低密度脂蛋白",
+    "template": "myth_buster",
+    "items": [
+      "看报告没超标就放心了",
+      "应让医生评估个人达标值"
+    ],
+    "atoms_text": "所以下次拿到血脂报告 别自己看一眼 就塞抽屉了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2515,
+    "seg_id": "S5-L5",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查四：低密度脂蛋白",
+    "template": "hero_text",
+    "items": [
+      "让医生告诉你该控制到多少"
+    ],
+    "atoms_text": "拿去给医生 让他告诉你 你的低密度脂蛋白 到底应该控制到多少 才安全",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2516,
+    "seg_id": "S6-L1",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "number_center",
+    "items": [
+      "05"
+    ],
+    "atoms_text": "第五个 尿微量白蛋白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2517,
+    "seg_id": "S6-L2",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "color_grid",
+    "items": [
+      "几十元留个尿即可检测",
+      "发现肾小血管是否漏蛋白"
+    ],
+    "atoms_text": "几十块钱 留个尿就能查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2518,
+    "seg_id": "S6-L3",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "step_arrow",
+    "items": [
+      "高血压高血糖长期存在",
+      "最先损伤肾脏毛细血管"
+    ],
+    "atoms_text": "这个查的是 你肾脏里 最细的小血管 有没有开始漏蛋白",
+    "needs_animation": true,
+    "label": "肾脏微小血管开始漏出蛋白"
+  },
+  {
+    "global_index": 2519,
+    "seg_id": "S6-L4",
+    "bp_title": "50岁后必做的五项检查，远离心梗脑梗尿毒症",
+    "scene_title": "检查五：尿微量白蛋白",
+    "template": "warning_alert",
+    "items": [
+      "肾小血管漏蛋白",
+      "意味着全身微循环出问题"
+    ],
+    "atoms_text": "高血压高血糖 最先伤害的是 这种毛细血管",
+    "needs_animation": true,
+    "label": "高血压高血糖损伤肾脏毛细血管"
+  }
+]

@@ -1,0 +1,556 @@
+[
+  {
+    "global_index": 1520,
+    "seg_id": "S3-L4",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "走路喘的其他常见病因",
+    "template": "hero_text",
+    "items": [
+      "心脏无异常需查血和肺功能"
+    ],
+    "atoms_text": "所以 查了心脏 没问题 该查血常规 就查血常规 该查肺功能 就查肺功能 总得 找到原因吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1521,
+    "seg_id": "S4-L1",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "总结提示：别忽视异常喘信号",
+    "template": "hero_text",
+    "items": [
+      "别把走路喘只归于年纪大"
+    ],
+    "atoms_text": "总结一下 走路喘 这件事儿 别一句老了 就糊弄过去",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1522,
+    "seg_id": "S4-L2",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "总结提示：别忽视异常喘信号",
+    "template": "list_fade",
+    "items": [
+      "活动耐量明显变差",
+      "喘伴胸闷憋气",
+      "平躺比坐着更易喘"
+    ],
+    "atoms_text": "跟以前比 明显变差的 喘的时候 胸闷憋气的 躺下来 比坐着 更喘的 这三种情况 赶紧去医院",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1523,
+    "seg_id": "S4-L3",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "总结提示：别忽视异常喘信号",
+    "template": "hero_text",
+    "items": [
+      "异常喘早查早治避免延误"
+    ],
+    "atoms_text": "其他的 虽然 大概率不严重 但也 值得查一查 别等到 心脏真扛不住了 才后悔 我 说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1524,
+    "seg_id": "S1-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "化验单的误区",
+    "template": "myth_buster",
+    "items": [
+      "有箭头才慌，没箭头就放心",
+      "参考值不等于你的安全标准"
+    ],
+    "atoms_text": "我发现 很多人 拿着血脂的化验单 就盯着后面的 那个参考值看 没有箭头 就觉得自己没事儿 有箭头了 就慌了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1525,
+    "seg_id": "S1-L2",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "化验单的误区",
+    "template": "hero_text",
+    "items": [
+      "低密度脂蛋白，不能只看参考值"
+    ],
+    "atoms_text": "但 低密度脂蛋白 这个指标 真不能这么看",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1526,
+    "seg_id": "S1-L3",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "化验单的误区",
+    "template": "warning_alert",
+    "items": [
+      "参考值仅适用于完全健康人群"
+    ],
+    "atoms_text": "因为 化验单上写的 那个参考值 只是用于 什么基础疾病都没有的 健康人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1527,
+    "seg_id": "S1-L4",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "化验单的误区",
+    "template": "list_fade",
+    "items": [
+      "高血压患者",
+      "糖尿病患者",
+      "吸烟者",
+      "已放支架者"
+    ],
+    "atoms_text": "而你如果 有高血压 有糖尿病 抽烟 或者是 已经放了支架的 那三点四 这个标准 对你来说 根本不够",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1528,
+    "seg_id": "S1-L5",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "化验单的误区",
+    "template": "hero_text",
+    "items": [
+      "四档标准，今天一次讲透"
+    ],
+    "atoms_text": "所以今天 我把这个标准 分为四档 给你讲透了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1529,
+    "seg_id": "S2-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第一档：健康人群",
+    "template": "list_fade",
+    "items": [
+      "无高血压、无糖尿病",
+      "不吸烟",
+      "无家族性早发心梗史"
+    ],
+    "atoms_text": "第一档呢 就是 完全健康的普通人 没有高血压 没有糖尿病 不抽烟 家里也没有人 年纪轻轻的 得了心梗脑梗的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1530,
+    "seg_id": "S2-L2",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第一档：健康人群",
+    "template": "number_center",
+    "items": [
+      "3.4"
+    ],
+    "atoms_text": "这种人 低密度脂蛋白胆固醇 控制在三点四以下 就可以了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1531,
+    "seg_id": "S2-L3",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第一档：健康人群",
+    "template": "myth_buster",
+    "items": [
+      "没有箭头就可以放心",
+      "3.4只是及格线，越低越好"
+    ],
+    "atoms_text": "但注意 三点四 不是安全线 只是及格线 越低越好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1532,
+    "seg_id": "S2-L4",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第一档：健康人群",
+    "template": "step_arrow",
+    "items": [
+      "低密度每天向血管壁沉积",
+      "数值越高，沉积越快",
+      "长期累积形成动脉粥样硬化"
+    ],
+    "atoms_text": "我之前讲过 胆固醇累积暴露量的概念 你的低密度 哪怕是三点零 也是每天在 往血管里存货的 只不过 存的慢一点而已",
+    "needs_animation": true,
+    "label": "低密度脂蛋白每天持续沉积进入血管壁的累积过程"
+  },
+  {
+    "global_index": 1533,
+    "seg_id": "S2-L5",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第一档：健康人群",
+    "template": "warning_alert",
+    "items": [
+      "无箭头≠可以放飞自我"
+    ],
+    "atoms_text": "所以即使 你是健康人 也别觉得 没有箭头 就可以放飞自我了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1534,
+    "seg_id": "S3-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第二档：有危险因素",
+    "template": "color_grid",
+    "items": [
+      "高血压 / 糖尿病",
+      "吸烟 / 肥胖",
+      "高密度脂蛋白偏低",
+      "男≥45岁 / 女≥55岁"
+    ],
+    "atoms_text": "第二档呢 就是 有危险因素的人 比如说 有高血压 糖尿病 吸烟 肥胖 高密度脂蛋白偏低 年龄是大于四十五岁的男性 或者是五十五岁以上的女性 这些都算",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1535,
+    "seg_id": "S3-L2",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第二档：有危险因素",
+    "template": "number_center",
+    "items": [
+      "2.6"
+    ],
+    "atoms_text": "你只要 占了其中的两三个 那你的低密度 就应该控制在 二点六以下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1536,
+    "seg_id": "S3-L3",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第二档：有危险因素",
+    "template": "step_arrow",
+    "items": [
+      "危险因素损伤血管内膜",
+      "胆固醇更易渗入受损血管壁",
+      "需将低密度降至更低水平"
+    ],
+    "atoms_text": "为什么呢 因为 你血管壁的内膜 受损的速度 比健康人快得多 同样的低密度脂蛋白水平 胆固醇往你血管里钻的速度 就比别人快",
+    "needs_animation": true,
+    "label": "危险因素导致血管内膜受损后胆固醇加速穿透内膜沉积"
+  },
+  {
+    "global_index": 1537,
+    "seg_id": "S3-L4",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第二档：有危险因素",
+    "template": "hero_text",
+    "items": [
+      "降低原料，才能减缓血管堵塞"
+    ],
+    "atoms_text": "你得把原料给它降下来 不让它 有那么多东西 可以往里堆",
+    "needs_animation": true,
+    "label": "降低低密度脂蛋白减少胆固醇向血管壁内堆积的原料"
+  },
+  {
+    "global_index": 1538,
+    "seg_id": "S4-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第三档：确诊心血管病",
+    "template": "list_fade",
+    "items": [
+      "确诊冠心病",
+      "做过支架或搭桥",
+      "得过心梗或脑梗"
+    ],
+    "atoms_text": "第三档呢 就是 已经确诊了冠心病 做过支架 搭过桥 得过心梗 或者是得过脑梗的人 你的低密度 必须控制在 一点八以下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1539,
+    "seg_id": "S4-L2",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第三档：确诊心血管病",
+    "template": "number_center",
+    "items": [
+      "1.8"
+    ],
+    "atoms_text": "很多人 做完支架 觉得万事大吉了 药也不好吃 低密度二点几 觉得还行",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1540,
+    "seg_id": "S4-L3",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第三档：确诊心血管病",
+    "template": "myth_buster",
+    "items": [
+      "放完支架万事大吉，药不用吃",
+      "支架只撑开一处，其余斑块仍在"
+    ],
+    "atoms_text": "我跟你说 你其他地方的血管 该有斑块还有斑块 支架只是 把最窄的那一段 给撑开了",
+    "needs_animation": true,
+    "label": "支架只撑开最窄一段而其他部位血管斑块仍然存在"
+  },
+  {
+    "global_index": 1541,
+    "seg_id": "S4-L4",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第三档：确诊心血管病",
+    "template": "warning_alert",
+    "items": [
+      "低密度不降到1.8，斑块还在继续生长"
+    ],
+    "atoms_text": "如果你 不把低密度 降到一点八以下 那些斑块 还在长的",
+    "needs_animation": true,
+    "label": "低密度脂蛋白未达标时残余斑块继续增长"
+  },
+  {
+    "global_index": 1542,
+    "seg_id": "S5-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第四档：极高风险人群",
+    "template": "list_fade",
+    "items": [
+      "冠心病合并糖尿病",
+      "支架术后不足一年再次堵塞",
+      "反复发生心血管事件"
+    ],
+    "atoms_text": "第四档呢 就是 如果你不但 得了冠心病 而且有合并糖尿病 或者是 你虽然做了支架 但是不到一年 血管又给堵了 也就是 反复发生心血管事件的人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1543,
+    "seg_id": "S5-L2",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第四档：极高风险人群",
+    "template": "split_column",
+    "items": [
+      "多数指南推荐目标",
+      "mmol/L以下",
+      "部分指南强化目标",
+      "mmol/L以下"
+    ],
+    "atoms_text": "那你的低密度脂蛋白 需要控制在 一点四以下 有的指南 甚至建议 降到一点零",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1544,
+    "seg_id": "S6-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "如何降低低密度",
+    "template": "step_arrow",
+    "items": [
+      "多吃蔬菜粗粮，少吃红肉内脏",
+      "每天运动半小时",
+      "控制体重"
+    ],
+    "atoms_text": "怎么降呢 其实 对于大部分人来说 第一步 永远是生活方式 少吃红肉和内脏 这些高饱和脂肪的食物 多吃蔬菜粗粮 每天运动半个小时 把体重控制好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1545,
+    "seg_id": "S6-L2",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "如何降低低密度",
+    "template": "number_center",
+    "items": [
+      "10–15%"
+    ],
+    "atoms_text": "这些做到位了 低密度降个百分之十到十五 是完全有可能的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1546,
+    "seg_id": "S6-L3",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "如何降低低密度",
+    "template": "branch_path",
+    "items": [
+      "基数高或属于三四档人群",
+      "生活方式+他汀药物治疗",
+      "坚持生活方式干预即可"
+    ],
+    "atoms_text": "但是如果 你本身基数就高 或者是 你属于第三档或者第四档的人 光靠生活方式 往往是不够的 该吃药就得吃药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1547,
+    "seg_id": "S6-L4",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "如何降低低密度",
+    "template": "hero_text",
+    "items": [
+      "他汀是降低心血管风险证据最充分的药"
+    ],
+    "atoms_text": "他汀这个药 确实是 目前降低心血管风险 证据最充分的药物",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1548,
+    "seg_id": "S6-L5",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "如何降低低密度",
+    "template": "myth_buster",
+    "items": [
+      "他汀会伤肝伤肾，不敢吃",
+      "定期查肝肾功能，真正肝损极少见"
+    ],
+    "atoms_text": "别因为 听别人说 吃了会伤肝呀 伤肾呀 不敢吃 定期查个肝肾功能 就行了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1549,
+    "seg_id": "S6-L6",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "如何降低低密度",
+    "template": "warning_alert",
+    "items": [
+      "因恐惧副作用拒绝用药，风险远大于药物本身"
+    ],
+    "atoms_text": "真正因为他汀 把肝吃坏的人 少之又少",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1550,
+    "seg_id": "S7-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "总结对号入座",
+    "template": "hero_text",
+    "items": [
+      "对号入座四档标准，再看自己的化验单"
+    ],
+    "atoms_text": "今天我说的这四档 你对号入座 看看自己属于哪一档 然后再去看看 自己最近的化验单 就知道自己 达不达标了 我说明白了吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1551,
+    "seg_id": "S1-L1",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "支架后胸口疼，不一定是支架出问题"
+    ],
+    "atoms_text": "放了支架后 胸口还疼 是支架出了问题吗 别着急 先把最危险的排除掉 大部分情况 其实不是你想的那样的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1552,
+    "seg_id": "S1-L2",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "几乎每个支架患者都问过这个问题"
+    ],
+    "atoms_text": "我在门诊啊 经常听到这样的话 医生 我做完支架了 怎么胸口还是不舒服 是不是支架没放好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1553,
+    "seg_id": "S1-L3",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "支架没放好，胸口怎么还不舒服"
+    ],
+    "atoms_text": "说实话 几乎每个放过支架的病人 都问过我这句话",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1554,
+    "seg_id": "S1-L4",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "听完这期，自己就能判断个大概"
+    ],
+    "atoms_text": "我今天就把这个事儿 给你掰开了讲清楚 听完你自己 就能判断个大概了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1555,
+    "seg_id": "S2-L1",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "危险信号识别",
+    "template": "hero_text",
+    "items": [
+      "先排除最危险的情况"
+    ],
+    "atoms_text": "先说最重要的 什么情况必须赶紧回医院",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1556,
+    "seg_id": "S2-L2",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "危险信号识别",
+    "template": "warning_alert",
+    "items": [
+      "胸闷压榨感、冷汗恶心，休息不缓解",
+      "立即拨打120，不要等待"
+    ],
+    "atoms_text": "如果你放完支架后 尤其是头一两个月内 突然出现 跟之前的心绞痛是一模一样的 甚至比以前更严重 就是那种胸闷压榨感 一动就喘不过来气 休息了也不好转 甚至出现冒冷汗 恶心 那你不要犹豫 赶紧拨打幺二零",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1557,
+    "seg_id": "S2-L3",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "危险信号识别",
+    "template": "step_arrow",
+    "items": [
+      "血栓在支架内形成",
+      "刚疏通的血管再度堵塞",
+      "等同于急性心肌梗死"
+    ],
+    "atoms_text": "因为这种情况 可能是支架里面形成了血栓 把刚通开的血管又给堵上了 这叫支架内血栓",
+    "needs_animation": true,
+    "label": "支架内部形成血栓重新堵塞已开通的血管"
+  },
+  {
+    "global_index": 1558,
+    "seg_id": "S2-L4",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "危险信号识别",
+    "template": "number_center",
+    "items": [
+      "极危"
+    ],
+    "atoms_text": "虽然概率不高 但一旦发生 跟心肌梗死是一样的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1559,
+    "seg_id": "S2-L5",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "危险信号识别",
+    "template": "list_fade",
+    "items": [
+      "阿司匹林，按时服用",
+      "氯吡格雷或替格瑞洛二选一",
+      "双联抗血小板是保命底线"
+    ],
+    "atoms_text": "所以支架术后的抗血小板药 阿司匹林加氯吡格雷 或者是替格瑞洛 一定得按时吃",
+    "needs_animation": false,
+    "label": ""
+  }
+]

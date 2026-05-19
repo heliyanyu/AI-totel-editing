@@ -1,0 +1,525 @@
+[
+  {
+    "global_index": 2160,
+    "seg_id": "S3-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第二档：有危险因素",
+    "template": "color_grid",
+    "items": [
+      "高血压 / 糖尿病",
+      "吸烟 / 肥胖",
+      "高密度脂蛋白偏低",
+      "男≥45岁 / 女≥55岁"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2161,
+    "seg_id": "S3-L2",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第二档：有危险因素",
+    "template": "number_center",
+    "items": [
+      "2.6"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2162,
+    "seg_id": "S3-L3",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第二档：有危险因素",
+    "template": "step_arrow",
+    "items": [
+      "危险因素损伤血管内膜",
+      "胆固醇更易渗入受损血管壁",
+      "需将低密度降至更低水平"
+    ],
+    "needs_animation": true,
+    "label": "危险因素损伤血管内膜与胆固醇沉积过程"
+  },
+  {
+    "global_index": 2163,
+    "seg_id": "S3-L4",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第二档：有危险因素",
+    "template": "hero_text",
+    "items": [
+      "降低原料，才能减缓血管堵塞"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2164,
+    "seg_id": "S4-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第三档：确诊心血管病",
+    "template": "list_fade",
+    "items": [
+      "确诊冠心病",
+      "做过支架或搭桥",
+      "得过心梗或脑梗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2165,
+    "seg_id": "S4-L2",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第三档：确诊心血管病",
+    "template": "number_center",
+    "items": [
+      "1.8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2166,
+    "seg_id": "S4-L3",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第三档：确诊心血管病",
+    "template": "myth_buster",
+    "items": [
+      "放完支架万事大吉，药不用吃",
+      "支架只撑开一处，其余斑块仍在"
+    ],
+    "needs_animation": true,
+    "label": "支架撑开局部病变与其余斑块残留"
+  },
+  {
+    "global_index": 2167,
+    "seg_id": "S4-L4",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第三档：确诊心血管病",
+    "template": "warning_alert",
+    "items": [
+      "低密度不降到1.8，斑块还在继续生长"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块持续生长过程"
+  },
+  {
+    "global_index": 2168,
+    "seg_id": "S5-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第四档：极高风险人群",
+    "template": "list_fade",
+    "items": [
+      "冠心病合并糖尿病",
+      "支架术后不足一年再次堵塞",
+      "反复发生心血管事件"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2169,
+    "seg_id": "S5-L2",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "第四档：极高风险人群",
+    "template": "split_column",
+    "items": [
+      "多数指南推荐目标",
+      "mmol/L以下",
+      "部分指南强化目标",
+      "mmol/L以下"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2170,
+    "seg_id": "S6-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "如何降低低密度",
+    "template": "step_arrow",
+    "items": [
+      "多吃蔬菜粗粮，少吃红肉内脏",
+      "每天运动半小时",
+      "控制体重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2171,
+    "seg_id": "S6-L2",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "如何降低低密度",
+    "template": "number_center",
+    "items": [
+      "10–15%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2172,
+    "seg_id": "S6-L3",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "如何降低低密度",
+    "template": "branch_path",
+    "items": [
+      "基数高或属于三四档人群",
+      "生活方式+他汀药物治疗",
+      "坚持生活方式干预即可"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2173,
+    "seg_id": "S6-L4",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "如何降低低密度",
+    "template": "hero_text",
+    "items": [
+      "他汀是降低心血管风险证据最充分的药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2174,
+    "seg_id": "S6-L5",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "如何降低低密度",
+    "template": "myth_buster",
+    "items": [
+      "他汀会伤肝伤肾，不敢吃",
+      "定期查肝肾功能，真正肝损极少见"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2175,
+    "seg_id": "S6-L6",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "如何降低低密度",
+    "template": "warning_alert",
+    "items": [
+      "因恐惧副作用拒绝用药，风险远大于药物本身"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2176,
+    "seg_id": "S7-L1",
+    "bp_title": "血脂化验单怎么看？四档标准讲透低密度脂蛋白",
+    "scene_title": "总结对号入座",
+    "template": "hero_text",
+    "items": [
+      "对号入座四档标准，再看自己的化验单"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2177,
+    "seg_id": "S1-L1",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "支架后胸口疼，不一定是支架出问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2178,
+    "seg_id": "S1-L2",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "几乎每个支架患者都问过这个问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2179,
+    "seg_id": "S1-L3",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "支架没放好，胸口怎么还不舒服"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2180,
+    "seg_id": "S1-L4",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "听完这期，自己就能判断个大概"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2181,
+    "seg_id": "S2-L1",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "危险信号识别",
+    "template": "hero_text",
+    "items": [
+      "先排除最危险的情况"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2182,
+    "seg_id": "S2-L2",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "危险信号识别",
+    "template": "warning_alert",
+    "items": [
+      "胸闷压榨感、冷汗恶心，休息不缓解",
+      "立即拨打120，不要等待"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2183,
+    "seg_id": "S2-L3",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "危险信号识别",
+    "template": "step_arrow",
+    "items": [
+      "血栓在支架内形成",
+      "刚疏通的血管再度堵塞",
+      "等同于急性心肌梗死"
+    ],
+    "needs_animation": true,
+    "label": "支架内血栓形成导致急性血管闭塞"
+  },
+  {
+    "global_index": 2184,
+    "seg_id": "S2-L4",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "危险信号识别",
+    "template": "number_center",
+    "items": [
+      "极危"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2185,
+    "seg_id": "S2-L5",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "危险信号识别",
+    "template": "list_fade",
+    "items": [
+      "阿司匹林，按时服用",
+      "氯吡格雷或替格瑞洛二选一",
+      "双联抗血小板是保命底线"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2186,
+    "seg_id": "S3-L1",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "术后正常反应",
+    "template": "hero_text",
+    "items": [
+      "更常见的情况其实没那么危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2187,
+    "seg_id": "S3-L2",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "术后正常反应",
+    "template": "step_arrow",
+    "items": [
+      "导管从手腕或腹股沟送入心脏",
+      "球囊扩张压扁斑块、支架撑开",
+      "血管壁受损，进入愈合过程"
+    ],
+    "needs_animation": true,
+    "label": "经皮冠状动脉介入术（球囊扩张与支架植入）过程"
+  },
+  {
+    "global_index": 2188,
+    "seg_id": "S3-L3",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "术后正常反应",
+    "template": "step_arrow",
+    "items": [
+      "局部炎症反应启动",
+      "胸口隐隐闷、说不清楚的不适",
+      "持续数天至一两周后逐渐消退"
+    ],
+    "needs_animation": true,
+    "label": "支架植入后血管壁炎症反应与愈合过程"
+  },
+  {
+    "global_index": 2189,
+    "seg_id": "S3-L4",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "术后正常反应",
+    "template": "myth_buster",
+    "items": [
+      "以为和之前心绞痛一样危险",
+      "术后短期隐痛多属血管愈合反应",
+      "休息不缓解、压榨感",
+      "隐隐闷、随时间自行减轻"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2190,
+    "seg_id": "S4-L1",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "焦虑性胸痛",
+    "template": "hero_text",
+    "items": [
+      "术后焦虑比术前更严重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2191,
+    "seg_id": "S4-L2",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "焦虑性胸痛",
+    "template": "hero_text",
+    "items": [
+      "很多支架患者做完反而更焦虑了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2192,
+    "seg_id": "S4-L3",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "焦虑性胸痛",
+    "template": "split_column",
+    "items": [
+      "越躺着没事做越难受",
+      "出去散步聊天很快忘了",
+      "注意力集中于胸口时加重",
+      "分散注意力后症状消失"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2193,
+    "seg_id": "S4-L4",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "焦虑性胸痛",
+    "template": "hero_text",
+    "items": [
+      "放宽心，别天天盯着胸口"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2194,
+    "seg_id": "S5-L1",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "支架真正出问题",
+    "template": "hero_text",
+    "items": [
+      "支架真的出问题：支架内再狭窄"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2195,
+    "seg_id": "S5-L2",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "支架真正出问题",
+    "template": "step_arrow",
+    "items": [
+      "支架放入后内膜慢慢向内生长",
+      "内膜增生逐渐覆盖支架腔隙",
+      "血管再度变窄，症状重现"
+    ],
+    "needs_animation": true,
+    "label": "支架内新生内膜增生导致再狭窄过程"
+  },
+  {
+    "global_index": 2196,
+    "seg_id": "S5-L3",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "支架真正出问题",
+    "template": "vertical_timeline",
+    "items": [
+      "刚术后：一般不会发生再狭窄",
+      "半年至一年后：活动后胸闷再现",
+      "上楼喘、动一动就闷、休息可缓解"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2197,
+    "seg_id": "S5-L4",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "支架真正出问题",
+    "template": "list_fade",
+    "items": [
+      "冠脉CTA，无创评估支架状态",
+      "冠脉造影，直接观察支架内情况",
+      "术后半年以上出现症状应及时复查"
+    ],
+    "needs_animation": true,
+    "label": "冠脉CTA与冠脉造影检查支架状态"
+  },
+  {
+    "global_index": 2198,
+    "seg_id": "S6-L1",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "总结叮嘱",
+    "template": "warning_alert",
+    "items": [
+      "他汀、抗血小板药，擅自停药有危险",
+      "不疼不代表可以停药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2199,
+    "seg_id": "S6-L2",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "总结叮嘱",
+    "template": "brick_stack",
+    "items": [
+      "支架只撑开了最窄处",
+      "其余血管斑块依然存在",
+      "需长期用药控制血压血脂血糖",
+      "必须同步改变生活方式"
+    ],
+    "needs_animation": true,
+    "label": "支架撑开局部病变与其余斑块残留"
+  }
+]

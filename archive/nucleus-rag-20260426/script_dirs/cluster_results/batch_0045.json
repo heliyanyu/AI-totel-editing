@@ -1,0 +1,526 @@
+[
+  {
+    "global_index": 1800,
+    "seg_id": "S6-L1",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "治胃的本质",
+    "template": "myth_buster",
+    "items": [
+      "天天吃药压住症状",
+      "找到根本原因真正解决"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1801,
+    "seg_id": "S1-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "甲内科张医生"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1802,
+    "seg_id": "S1-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "阿托伐他汀",
+      "瑞舒伐他汀",
+      "临床王牌双子星"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1803,
+    "seg_id": "S1-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "一分钟讲清两药区别"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1804,
+    "seg_id": "S2-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "形象类比",
+    "template": "hero_text",
+    "items": [
+      "坏胆固醇 = 血管里的油污"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白在血管壁沉积过程"
+  },
+  {
+    "global_index": 1805,
+    "seg_id": "S2-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "形象类比",
+    "template": "hero_text",
+    "items": [
+      "他汀 = 强力去油剂"
+    ],
+    "needs_animation": true,
+    "label": "他汀类药物抑制胆固醇合成机制"
+  },
+  {
+    "global_index": 1806,
+    "seg_id": "S2-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "形象类比",
+    "template": "split_column",
+    "items": [
+      "传统款清洁剂",
+      "升级款猛力清洁剂",
+      "经验老道，应用广泛",
+      "劲更猛，用量更少"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1807,
+    "seg_id": "S2-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "形象类比",
+    "template": "split_column",
+    "items": [
+      "传统配方",
+      "新一代强效",
+      "适用场景广",
+      "低剂量高效能"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1808,
+    "seg_id": "S3-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别一：降脂强度",
+    "template": "hero_text",
+    "items": [
+      "区别一：降脂强度"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1809,
+    "seg_id": "S3-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别一：降脂强度",
+    "template": "split_column",
+    "items": [
+      "降脂效果较弱",
+      "降脂效果更强",
+      "同等剂量下",
+      "强度更胜一筹"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1810,
+    "seg_id": "S3-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别一：降脂强度",
+    "template": "number_center",
+    "items": [
+      "10mg"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1811,
+    "seg_id": "S3-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别一：降脂强度",
+    "template": "branch_path",
+    "items": [
+      "需要大幅度降血脂？",
+      "优先考虑瑞舒伐他汀",
+      "阿托伐他汀同样有效"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1812,
+    "seg_id": "S4-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别二：代谢途径",
+    "template": "hero_text",
+    "items": [
+      "区别二：代谢途径"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1813,
+    "seg_id": "S4-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别二：代谢途径",
+    "template": "step_arrow",
+    "items": [
+      "阿托伐他汀进入体内",
+      "经肝脏 CYP3A4 酶代谢",
+      "多种药物共走此通路"
+    ],
+    "needs_animation": true,
+    "label": "阿托伐他汀经肝脏CYP3A4酶代谢过程"
+  },
+  {
+    "global_index": 1814,
+    "seg_id": "S4-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别二：代谢途径",
+    "template": "warning_alert",
+    "items": [
+      "合用降压药/抗真菌药/抗生素易\"堵车\"",
+      "增加肌肉疼痛和肝损伤风险"
+    ],
+    "needs_animation": true,
+    "label": "CYP3A4通路药物相互作用机制"
+  },
+  {
+    "global_index": 1815,
+    "seg_id": "S4-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别二：代谢途径",
+    "template": "myth_buster",
+    "items": [
+      "CYP3A4 通路",
+      "瑞舒伐他汀不走此通路",
+      "与多种药物存在相互作用",
+      "与其他药物相互作用更少"
+    ],
+    "needs_animation": true,
+    "label": "瑞舒伐他汀绕过CYP3A4代谢通路"
+  },
+  {
+    "global_index": 1816,
+    "seg_id": "S5-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别三：排泄方式",
+    "template": "hero_text",
+    "items": [
+      "区别三：排泄方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1817,
+    "seg_id": "S5-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别三：排泄方式",
+    "template": "split_column",
+    "items": [
+      "主要经肝脏代谢排泄",
+      "部分经肾脏代谢排泄",
+      "阿托伐他汀",
+      "瑞舒伐他汀"
+    ],
+    "needs_animation": true,
+    "label": "他汀类药物肝肾排泄途径对比"
+  },
+  {
+    "global_index": 1818,
+    "seg_id": "S5-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别三：排泄方式",
+    "template": "branch_path",
+    "items": [
+      "患者有严重肾病？",
+      "阿托伐他汀更具优势",
+      "瑞舒伐他汀需谨慎使用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1819,
+    "seg_id": "S6-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "如何选药",
+    "template": "hero_text",
+    "items": [
+      "到底该怎么选？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1820,
+    "seg_id": "S6-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "如何选药",
+    "template": "color_grid",
+    "items": [
+      "年轻人需强效降脂",
+      "正在服用多种药物",
+      "目标降幅较大",
+      "对药物相互作用敏感"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1821,
+    "seg_id": "S6-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "如何选药",
+    "template": "color_grid",
+    "items": [
+      "老年人",
+      "肾功能不太好",
+      "用药经验丰富场景",
+      "追求更稳妥方案"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1822,
+    "seg_id": "S6-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "如何选药",
+    "template": "warning_alert",
+    "items": [
+      "具体选哪种，必须听医生的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1823,
+    "seg_id": "S7-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "互动收尾",
+    "template": "hero_text",
+    "items": [
+      "你吃的是哪种他汀？评论区告诉我"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1824,
+    "seg_id": "S1-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "得了糖尿病什么都不敢吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1825,
+    "seg_id": "S1-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "开场点题",
+    "template": "myth_buster",
+    "items": [
+      "以为吃太多导致血糖高",
+      "真正问题是吃的方式全错"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1826,
+    "seg_id": "S1-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "六大最常见饮食误区",
+      "一次讲清楚踩了几个坑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1827,
+    "seg_id": "S2-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区一：水果禁区",
+    "template": "hero_text",
+    "items": [
+      "糖尿病绝对不能吃水果？错！"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1828,
+    "seg_id": "S2-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区一：水果禁区",
+    "template": "list_fade",
+    "items": [
+      "新鲜水果富含维生素",
+      "膳食纤维有助控糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1829,
+    "seg_id": "S2-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区一：水果禁区",
+    "template": "step_arrow",
+    "items": [
+      "血糖控制相对平稳时",
+      "选苹果梨樱桃草莓等低升糖水果",
+      "两餐之间如十点或三点吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1830,
+    "seg_id": "S3-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区二：顿顿只吃粗粮",
+    "template": "hero_text",
+    "items": [
+      "粗粮好就顿顿只吃粗粮？错！"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1831,
+    "seg_id": "S3-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区二：顿顿只吃粗粮",
+    "template": "split_column",
+    "items": [
+      "富含纤维吸收慢对血糖友好",
+      "本质仍是碳水化合物会转化成糖"
+    ],
+    "needs_animation": true,
+    "label": "膳食纤维延缓碳水化合物消化吸收过程"
+  },
+  {
+    "global_index": 1832,
+    "seg_id": "S3-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区二：顿顿只吃粗粮",
+    "template": "warning_alert",
+    "items": [
+      "两三大碗总热量超标",
+      "血糖同样飙升"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1833,
+    "seg_id": "S3-L4",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区二：顿顿只吃粗粮",
+    "template": "hero_text",
+    "items": [
+      "粗细搭配适量才是关键"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1834,
+    "seg_id": "S3-L5",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区二：顿顿只吃粗粮",
+    "template": "branch_path",
+    "items": [
+      "粗粮怎么吃？",
+      "粗细搭配适量血糖平稳",
+      "敞开吃超量血糖照样升"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1835,
+    "seg_id": "S4-L1",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区三：饿着能降糖",
+    "template": "warning_alert",
+    "items": [
+      "少吃一顿或饿着能降血糖非常危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1836,
+    "seg_id": "S4-L2",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区三：饿着能降糖",
+    "template": "step_arrow",
+    "items": [
+      "不吃饭极易引发低血糖",
+      "严重时意识丧失跌倒受伤",
+      "心血管患者面临心脏事件风险"
+    ],
+    "needs_animation": true,
+    "label": "低血糖引发心血管事件的病理过程"
+  },
+  {
+    "global_index": 1837,
+    "seg_id": "S4-L3",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区三：饿着能降糖",
+    "template": "split_column",
+    "items": [
+      "低血糖对糖尿病患者可能致命",
+      "规律一日三餐才是稳糖基础"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1838,
+    "seg_id": "S4-L4",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区三：饿着能降糖",
+    "template": "hero_text",
+    "items": [
+      "规律三餐是稳糖的根本"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1839,
+    "seg_id": "S4-L5",
+    "bp_title": "糖尿病饮食六大误区全解析",
+    "scene_title": "误区三：饿着能降糖",
+    "template": "list_fade",
+    "items": [
+      "按时吃饭不跳餐不挨饿",
+      "保持餐次规律血糖更稳"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

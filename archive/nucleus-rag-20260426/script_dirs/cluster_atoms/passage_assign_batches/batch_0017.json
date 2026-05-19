@@ -1,0 +1,332 @@
+[
+  {
+    "file": "ANS00149_Atherosclerosis Bulleted Version.mp4",
+    "title": "ANS00149 Atherosclerosis Bulleted Version",
+    "start_sec": 104.8,
+    "end_sec": 162.5,
+    "summary_zh": "斑块增长与纤维帽形成：斑块增大导致动脉壁增厚硬化，平滑肌细胞增殖并迁移至斑块表面，形成坚固的纤维帽覆盖斑块，动脉通道逐渐狭窄，减少血流和器官供氧。",
+    "text_en": "As the plaque increases in size, the arterial wall thickens and hardens. At the same time, smooth muscle cells within the arterial wall begin to multiply. Most of the smooth muscle cells move to the surface of the plaque. These cells contribute to the formation of a firm, fibrous cap covering the plaque. Eventually, the passageway through the artery narrows, enough to reduce blood flow and the amount of oxygen received by the organs it supplies.",
+    "category_ids": [
+      1,
+      133
+    ]
+  },
+  {
+    "file": "ANS00149_Atherosclerosis Bulleted Version.mp4",
+    "title": "ANS00149 Atherosclerosis Bulleted Version",
+    "start_sec": 162.5,
+    "end_sec": 194.2,
+    "summary_zh": "纤维帽破裂与血栓形成：纤维帽侵蚀破裂释放斑块进入血流，斑块随血流形成血栓阻断血流，导致周围组织缺血坏死，心脏或大脑严重损伤可引发心脏病发作或中风。",
+    "text_en": "Over time, the cap may erode and break open, releasing plaque into the bloodstream. The plaque can flow downstream and contribute to the formation of the blood clot, which can stop blood flow. As a result, limited blood supply is available to the areas surrounding the partially blocked artery, degrading and potentially killing the neighboring tissue. Significant damage in organs, such as the heart or brain, can result in a heart attack or a stroke.",
+    "category_ids": [
+      2
+    ]
+  },
+  {
+    "file": "ANS00201_Balloon Angioplasty with Stent Repair (Detail).mp4",
+    "title": "ANS00201 Balloon Angioplasty with Stent Repair (Detail)",
+    "start_sec": 0,
+    "end_sec": 18,
+    "summary_zh": "球囊血管成形术操作过程：医生将柔性导丝插入动脉，沿导丝推进带球囊的导管至阻塞部位，快速充气和放气使血管壁向外扩张，恢复动脉血流。",
+    "text_en": "Your doctor will insert a flexible guide wire into the artery and advance a balloon-tipped catheter over this wire and into position at the side of the blockage. Rapid inflation and deflation of the small balloon pushes the vessel wall out, reestablishing blood flow through the artery.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00201_Balloon Angioplasty with Stent Repair (Detail).mp4",
+    "title": "ANS00201 Balloon Angioplasty with Stent Repair (Detail)",
+    "start_sec": 18,
+    "end_sec": 29.4,
+    "summary_zh": "球囊扩张术后续步骤：提示患者术中可能感到胸痛；对每处阻塞重复相同操作；完成后撤出放气的球囊和导管。",
+    "text_en": "You may feel some chest pain while this is happening. The same procedure is repeated for each blockage being treated. Afterwards, your doctor will withdraw the deflated balloon and catheter from your arteries.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00201_Balloon Angioplasty with Stent Repair (Detail).mp4",
+    "title": "ANS00201 Balloon Angioplasty with Stent Repair (Detail)",
+    "start_sec": 30.2,
+    "end_sec": 53.9,
+    "summary_zh": "冠状动脉支架植入过程：介绍支架为金属丝网小管，用于支撑已治疗的动脉；将压缩状态的支架套在未充气球囊上送入病变部位；球囊充气时支架膨胀并锁定就位；撤出球囊和导管后，支架永久留置以保持动脉通畅。",
+    "text_en": "Some patients will receive a coronary stent, which is a small tube made of wire mesh, designed to prop open the artery once it has been treated. A collapsed stent is placed over the deflated balloon as it's moved into position. When the balloon is inflated, the stent expands and locks into place. After the balloon and catheter are withdrawn, the stent remains behind to hold the artery open permanently.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00253_Coronary Artery Bypass Graft (CABG) Procedure.mp4",
+    "title": "ANS00253 Coronary Artery Bypass Graft (CABG) Procedure",
+    "start_sec": 0,
+    "end_sec": 35.4,
+    "summary_zh": "冠状动脉搭桥术（CABG）概述：为严重冠心病患者改善心肌供血，将身体其他部位的健康动脉或静脉连接到阻塞的冠状动脉上，绕过阻塞段将富氧血液输送至心肌",
+    "text_en": "A coronary artery bypass graft, or cabbage, is performed to improve circulation to the heart muscle in people with severe coronary artery disease. In this procedure, a healthy artery or vein from another part of the body is connected or grafted to the blocked coronary artery. A grafted artery or vein bypasses the blocked portion of the coronary artery, carrying oxygen rich blood to the heart muscle.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00253_Coronary Artery Bypass Graft (CABG) Procedure.mp4",
+    "title": "ANS00253 Coronary Artery Bypass Graft (CABG) Procedure",
+    "start_sec": 35.4,
+    "end_sec": 55.7,
+    "summary_zh": "手术开胸步骤：单次手术可搭桥一条或多条冠状动脉；外科医生在胸骨上方切开皮肤，锯开胸骨并撑开肋骨架以暴露心脏",
+    "text_en": "One or more coronary arteries may be bypassed during a single operation. During a conventional bypass surgery, your surgeon begins by making an incision in the skin over your breastbone or sternum. He or she will then cut the sternum and move your ribcage in order to get to your heart.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00253_Coronary Artery Bypass Graft (CABG) Procedure.mp4",
+    "title": "ANS00253 Coronary Artery Bypass Graft (CABG) Procedure",
+    "start_sec": 56.5,
+    "end_sec": 76.3,
+    "summary_zh": "体外循环（心肺机）：术中将循环系统连接到体外循环泵，该机器暂时替代心肺功能，使心脏停搏，便于外科医生缝合移植血管",
+    "text_en": "Throughout the procedure, your circulatory system will be connected to a cardiopulmonary bypass pump or heart lung machine. This machine temporarily performs the functions of your heart and lungs during the surgery, allowing your heart to be stopped while the surgeon soars the grafts into place.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00253_Coronary Artery Bypass Graft (CABG) Procedure.mp4",
+    "title": "ANS00253 Coronary Artery Bypass Graft (CABG) Procedure",
+    "start_sec": 76.3,
+    "end_sec": 101.9,
+    "summary_zh": "移植血管来源与内乳动脉搭桥：常用胸廓内动脉或大隐静脉作为移植血管；内乳动脉搭桥时保留其上端与锁骨下动脉的连接，将下端从胸壁游离后吻合至冠状动脉阻塞远端",
+    "text_en": "One of two blood vessels is typically used for the grafts, the internal thoracic artery, in the chest or the saffinous vein in the leg. For the internal thoracic artery graft, your surgeon will leave the upper end attached to the subclavian artery and divert the lower end from your chest wall to your coronary artery just beyond the blockage.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00253_Coronary Artery Bypass Graft (CABG) Procedure.mp4",
+    "title": "ANS00253 Coronary Artery Bypass Graft (CABG) Procedure",
+    "start_sec": 101.9,
+    "end_sec": 116.2,
+    "summary_zh": "大隐静脉搭桥：外科医生将移植静脉一端缝合至主动脉，另一端缝合至阻塞远端的狭窄冠状动脉",
+    "text_en": "Your surgeon will then sew the graft into place. For the saffinous vein graft, your surgeon will suture one end to the aorta and the other end to the narrowed artery just beyond the blockage.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00253_Coronary Artery Bypass Graft (CABG) Procedure.mp4",
+    "title": "ANS00253 Coronary Artery Bypass Graft (CABG) Procedure",
+    "start_sec": 116.2,
+    "end_sec": 144.6,
+    "summary_zh": "术后关胸与恢复：搭桥完成后用电信号恢复心跳并安装临时起搏器，心跳恢复正常后断开心肺机，用钢丝固定胸骨、缝合皮肤切口，并放置临时引流管",
+    "text_en": "With the grafts securely in place, your surgeon will use electrical signals to restore the heart beat and attach a temporary pacemaker to the heart. Once your heart is again beating normally, the heart lung machine will be disconnected. Your surgeon will wire the breastbone back together and suture the skin incision closed. A temporary drainage tube will be placed through the skin beneath the incision.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00254_Coronary Artery Bypass Graft (CABG) Procedure- Condensed.mp4",
+    "title": "ANS00254 Coronary Artery Bypass Graft (CABG) Procedure- Condensed",
+    "start_sec": 0,
+    "end_sec": 35.4,
+    "summary_zh": "冠状动脉搭桥术（CABG）概述：介绍手术目的是改善严重冠心病患者的心肌血液循环，将身体其他部位的健康动脉或静脉连接到阻塞的冠状动脉，绕过阻塞段，将富氧血液输送至心肌。",
+    "text_en": "A coronary artery bypass graft, or cabbage, is performed to improve circulation to the heart muscle in people with severe coronary artery disease. In this procedure, a healthy artery or vein from another part of the body is connected or grafted to the blocked coronary artery. A grafted artery or vein bypasses the blocked portion of the coronary artery, carrying oxygen rich blood to the heart muscle.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00254_Coronary Artery Bypass Graft (CABG) Procedure- Condensed.mp4",
+    "title": "ANS00254 Coronary Artery Bypass Graft (CABG) Procedure- Condensed",
+    "start_sec": 35.4,
+    "end_sec": 55.7,
+    "summary_zh": "传统搭桥手术的开胸步骤：一次手术可搭桥一条或多条冠状动脉。外科医生在胸骨上方切开皮肤，锯开胸骨并撑开肋骨笼以暴露心脏。",
+    "text_en": "One or more coronary arteries may be bypassed during a single operation. During a conventional bypass surgery, your surgeon begins by making an incision in the skin over your breastbone or sternum. He or she will then cut the sternum and move your ribcage in order to get to your heart.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00254_Coronary Artery Bypass Graft (CABG) Procedure- Condensed.mp4",
+    "title": "ANS00254 Coronary Artery Bypass Graft (CABG) Procedure- Condensed",
+    "start_sec": 56.5,
+    "end_sec": 76.3,
+    "summary_zh": "体外循环（心肺机）的使用：手术中将循环系统连接至体外循环泵（心肺机），由机器暂时替代心肺功能，使心脏停跳，以便外科医生缝合移植血管。",
+    "text_en": "Throughout the procedure, your circulatory system will be connected to a cardiopulmonary bypass pump or heart lung machine. This machine temporarily performs the functions of your heart and lungs during the surgery, allowing your heart to be stopped while the surgeon soars the grafts into place.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00254_Coronary Artery Bypass Graft (CABG) Procedure- Condensed.mp4",
+    "title": "ANS00254 Coronary Artery Bypass Graft (CABG) Procedure- Condensed",
+    "start_sec": 76.3,
+    "end_sec": 101.9,
+    "summary_zh": "内乳动脉移植物的取材与吻合：常用移植血管为胸廓内动脉或腿部大隐静脉。内乳动脉移植时，上端保留连接锁骨下动脉，下端从胸壁游离后吻合至冠状动脉阻塞远端。",
+    "text_en": "One of two blood vessels is typically used for the grafts, the internal thoracic artery, in the chest or the saffinous vein in the leg. For the internal thoracic artery graft, your surgeon will leave the upper end attached to the subclavian artery and divert the lower end from your chest wall to your coronary artery just beyond the blockage.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00254_Coronary Artery Bypass Graft (CABG) Procedure- Condensed.mp4",
+    "title": "ANS00254 Coronary Artery Bypass Graft (CABG) Procedure- Condensed",
+    "start_sec": 101.9,
+    "end_sec": 116.2,
+    "summary_zh": "大隐静脉移植物的吻合：外科医生将移植物缝合就位；大隐静脉移植时，一端缝合至主动脉，另一端吻合至狭窄冠状动脉的阻塞远端。",
+    "text_en": "Your surgeon will then sew the graft into place. For the saffinous vein graft, your surgeon will suture one end to the aorta and the other end to the narrowed artery just beyond the blockage.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00254_Coronary Artery Bypass Graft (CABG) Procedure- Condensed.mp4",
+    "title": "ANS00254 Coronary Artery Bypass Graft (CABG) Procedure- Condensed",
+    "start_sec": 116.2,
+    "end_sec": 146.3,
+    "summary_zh": "术后恢复与关胸：移植血管就位后，使用电信号恢复心跳并连接临时起搏器；心跳恢复正常后断开心肺机；用钢丝固定胸骨，缝合皮肤切口，并放置临时引流管。",
+    "text_en": "With the grafts securely in place, your surgeon will use electrical signals to restore the heart beat and attach a temporary pacemaker to the heart. Once your heart is again beating normally, the heart lung machine will be disconnected. Your surgeon will wire the breastbone back together and suture the skin incision closed. A temporary drainage tube will be placed through the skin beneath the incision.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00254_Coronary Artery Bypass Graft (CABG) Procedure- Condensed.mp4",
+    "title": "ANS00254 Coronary Artery Bypass Graft (CABG) Procedure- Condensed",
+    "start_sec": 146.3,
+    "end_sec": 177.3,
+    "summary_zh": "非体外循环搭桥术与微创搭桥术：非体外循环（跳动心脏）搭桥术不停心、不用心肺机，使用机械装置固定心脏局部；微创搭桥术通过胸壁小切口置入专用器械完成手术，有时仍需心肺机辅助。",
+    "text_en": "Off-pump cabbages also called beating heart bypass grafting because the heart isn't stopped and a heart lung machine isn't used. Instead a mechanical device is used to steady the part of the heart where grafting is being Students perform minimally invasive bypass procedures using specially designed instruments inserted through small incisions or ports in the chest. These procedures sometimes require a heart lung machine.",
+    "category_ids": [
+      55
+    ]
+  },
+  {
+    "file": "ANS00260_Atherosclerosis.mp4",
+    "title": "ANS00260 Atherosclerosis",
+    "start_sec": 0,
+    "end_sec": 20.8,
+    "summary_zh": "动脉粥样硬化的定义：一种可能从童年开始发展的危及生命的疾病，脂肪沉积物（斑块）在动脉壁内堆积，减少或完全阻断血流。",
+    "text_en": "Atherosclerosis is a life-threatening disease that may have begun to develop during childhood. This condition is a process in which deposits of fatty material, called plaque, build up inside the walls of arteries, reducing or completely blocking blood flow.",
+    "category_ids": [
+      1,
+      133
+    ]
+  },
+  {
+    "file": "ANS00260_Atherosclerosis.mp4",
+    "title": "ANS00260 Atherosclerosis",
+    "start_sec": 20.8,
+    "end_sec": 49,
+    "summary_zh": "动脉粥样硬化的早期病理过程：动脉内皮损伤后，胆固醇、脂肪和细胞废物在损伤区域积聚，发生化学反应导致胆固醇氧化。",
+    "text_en": "Although the exact causes of atherosclerosis are not clear, many scientists think it begins with damage to the inner wall of an artery, called the endothelium, substances traveling in the blood, such as cholesterol, fats, and cellular waste products accumulate inside the damaged area of the arterial wall. Chemical reactions occurring within the build up of material cause cholesterol molecules to oxidize.",
+    "category_ids": [
+      1,
+      7
+    ]
+  },
+  {
+    "file": "ANS00260_Atherosclerosis.mp4",
+    "title": "ANS00260 Atherosclerosis",
+    "start_sec": 49,
+    "end_sec": 85.4,
+    "summary_zh": "炎症反应与泡沫细胞形成：内皮细胞释放信号招募单核细胞，单核细胞在氧化胆固醇刺激下转化为巨噬细胞，巨噬细胞吞噬胆固醇后变为泡沫细胞，泡沫细胞聚集形成斑块。",
+    "text_en": "This initiates an inflammatory response in which the endothelial cells, at the damage site, release chemicals that signal a call for help. In response, monocytes from the bloodstream travel to the damaged site. Stimulation from oxidized cholesterol converts the monocytes into macrophages. The macrophages eat and digest the cholesterol molecules. As a result of this process, the macrophages change into foam cells, which accumulate to form plaque.",
+    "category_ids": [
+      1,
+      109
+    ]
+  },
+  {
+    "file": "ANS00260_Atherosclerosis.mp4",
+    "title": "ANS00260 Atherosclerosis",
+    "start_sec": 85.4,
+    "end_sec": 132.3,
+    "summary_zh": "斑块增大与纤维帽形成：斑块增大导致动脉壁增厚硬化，平滑肌细胞增殖并迁移至斑块表面，形成覆盖斑块的坚硬纤维帽。",
+    "text_en": "As the plaque increases in size, the arterial wall thickens and hardens. At the same time, smooth muscle cells within the arterial wall begin to multiply. Most of the smooth muscle cells move to the surface of the plaque. These cells contribute to the formation of a firm, fibrous cap covering the plaque.",
+    "category_ids": [
+      1,
+      47
+    ]
+  },
+  {
+    "file": "ANS00260_Atherosclerosis.mp4",
+    "title": "ANS00260 Atherosclerosis",
+    "start_sec": 132.3,
+    "end_sec": 166.1,
+    "summary_zh": "动脉狭窄、斑块破裂与血栓形成：动脉通道变窄减少血流和供氧，纤维帽侵蚀破裂释放斑块，斑块随血流促成血栓形成，阻断血供导致周围组织退化甚至坏死。",
+    "text_en": "Eventually, the passageway through the artery narrows, enough to reduce blood flow, and the amount of oxygen received by the organs it supplies. Over time, the cap may erode and break open, releasing plaque into the bloodstream. The plaque can flow downstream and contribute to the formation of a blood clot, which can stop blood flow. As a result, limited blood supply is available to the area surrounding the partially blocked artery, degrading, and potentially killing the neighboring tissue.",
+    "category_ids": [
+      2,
+      133
+    ]
+  },
+  {
+    "file": "ANS00339_Electrocardiography (ECG).mp4",
+    "title": "ANS00339 Electrocardiography (ECG)",
+    "start_sec": 0,
+    "end_sec": 5,
+    "summary_zh": "心电图（ECG）检查过程：将粘性电极片贴在胸部以监测心率",
+    "text_en": "Sticky pads will be placed on your chest to check your heart rate.",
+    "category_ids": [
+      51
+    ]
+  },
+  {
+    "file": "ANS00367_Open Abdominal Aortic Aneurysm Repair.mp4",
+    "title": "ANS00367 Open Abdominal Aortic Aneurysm Repair",
+    "start_sec": 14.3,
+    "end_sec": 27.4,
+    "summary_zh": "手术切开与暴露：从胸骨至脐下做腹部正中切口，定位动脉瘤后在其上方和下方钳夹主动脉以阻断血流",
+    "text_en": "Your surgeon will begin by making an incision from the breastbone to below the navel. He or she will then locate the aneurysm and clamp the aorta just above and below it.",
+    "category_ids": []
+  },
+  {
+    "file": "ANS00367_Open Abdominal Aortic Aneurysm Repair.mp4",
+    "title": "ANS00367 Open Abdominal Aortic Aneurysm Repair",
+    "start_sec": 27.4,
+    "end_sec": 50,
+    "summary_zh": "人工血管移植物置入：切开动脉瘤囊壁，将与健康主动脉同等尺寸和形状的人工血管移植物缝合就位，再将动脉瘤壁缝合包裹在移植物外侧以加固主动脉壁",
+    "text_en": "Your surgeon will then open the aneurysm and sew an artificial graft the same size and shape as a healthy aorta into place. Your surgeon will stitch the wall of the aneurysm closed over the newly placed graft. The graft will reinforce the walls of the aorta.",
+    "category_ids": []
+  },
+  {
+    "file": "ANS00368_Anatomy of the Aorta.mp4",
+    "title": "ANS00368 Anatomy of the Aorta",
+    "start_sec": 0,
+    "end_sec": 10,
+    "summary_zh": "主动脉概述：主动脉是人体最大的动脉，与心脏相连，直接从左心室（主要泵血腔室）接收血液。画面展示主动脉与心脏的解剖位置关系。",
+    "text_en": "The largest artery in the body is the aorta, which is attached to the heart and receives blood directly from the left ventricle or main pumping chamber.",
+    "category_ids": [
+      46
+    ]
+  },
+  {
+    "file": "ANS00368_Anatomy of the Aorta.mp4",
+    "title": "ANS00368 Anatomy of the Aorta",
+    "start_sec": 10,
+    "end_sec": 21,
+    "summary_zh": "主动脉的四个分段：升主动脉、主动脉弓、胸主动脉和腹主动脉。画面依次标注主动脉从上到下的四个解剖分区。",
+    "text_en": "The aorta is divided into four parts, the ascending aorta, aortic arch, thoracic aorta, and the abdominal aorta.",
+    "category_ids": [
+      46
+    ]
+  },
+  {
+    "file": "ANS00368_Anatomy of the Aorta.mp4",
+    "title": "ANS00368 Anatomy of the Aorta",
+    "start_sec": 21,
+    "end_sec": 41,
+    "summary_zh": "腹主动脉的解剖与功能：腹主动脉是主动脉最末端也是最大的一段，负责向下半身供血，包括腹腔和盆腔器官。腹主动脉在脐部水平分为左右两条髂动脉，向双下肢供血。画面展示腹主动脉走行及其末端分叉为髂动脉的结构。",
+    "text_en": "The abdominal aorta is the last and largest section of the aorta. It supplies blood to the lower regions of your body, including the organs and the abdomen and pelvis. The abdominal aorta ends around naval level, where it splits into the two iliac arteries that carry blood to the legs.",
+    "category_ids": [
+      46
+    ]
+  },
+  {
+    "file": "ANS00369_Endovascular Abdominal Aortic Aneurysm Repair.mp4",
+    "title": "ANS00369 Endovascular Abdominal Aortic Aneurysm Repair",
+    "start_sec": 12.8,
+    "end_sec": 25.8,
+    "summary_zh": "手术入路与导丝置入：在腹股沟股动脉处做小切口，插入导丝并沿动脉推送至动脉瘤部位",
+    "text_en": "Your surgeon will begin by making a small incision in your groin over your femoral artery. Then he or she will insert a guide wire into the artery and gently push it up toward the site of your aneurysm.",
+    "category_ids": []
+  }
+]

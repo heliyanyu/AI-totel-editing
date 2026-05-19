@@ -1,0 +1,563 @@
+[
+  {
+    "global_index": 3520,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "这几种情况先别动",
+    "template": "warning_alert",
+    "items": [
+      "有这几种情况须先暂停运动"
+    ],
+    "atoms_text": "但有这几种情况 确实要先把运动放一放",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3521,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "这几种情况先别动",
+    "template": "warning_alert",
+    "items": [
+      "平时血压160～170运动飙到200",
+      "血管随时面临危险，先降压再动"
+    ],
+    "atoms_text": "第一个 你血压还没有控制好的人啊 你平时血压就 一百六一百七 那你一运动的时候 哗一下 干到二百 天哪 那这样血管 真的会 迟早会出事的啊 那咱们把血压先降下来 再说",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3522,
+    "seg_id": "S5-L3",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "这几种情况先别动",
+    "template": "vertical_timeline",
+    "items": [
+      "刚发生心梗或刚完成介入手术",
+      "血管内膜尚未修复",
+      "须在医生指导下循序渐进"
+    ],
+    "atoms_text": "第二个 刚发生过心梗 或者你刚刚做完介入手术的人 这个血管内膜呀 它还没有修复好 你这时候啊 咱们要在医生的指导下 循序渐进 哎不能自己上来就跑",
+    "needs_animation": true,
+    "label": "介入术后血管内膜尚未修复的状态"
+  },
+  {
+    "global_index": 3523,
+    "seg_id": "S5-L4",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "这几种情况先别动",
+    "template": "warning_alert",
+    "items": [
+      "发烧或极度疲惫时炎症水平高",
+      "血管内膜更脆弱千万别逞强"
+    ],
+    "atoms_text": "第三个 正在发烧 或者身体特别疲惫的时候 我们体内这个炎症水平啊 它本身就高 血管内膜呀 它更脆弱 这时候啊 千万别逞强",
+    "needs_animation": true,
+    "label": "发烧时体内炎症水平升高导致血管内膜脆弱"
+  },
+  {
+    "global_index": 3524,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "给心脏病朋友的心里话",
+    "template": "hero_text",
+    "items": [
+      "生了病不代表你是废人"
+    ],
+    "atoms_text": "其实我最想跟心脏病的朋友说的是 不要因为生了病啊 就觉得自己是个废人了 哎我什么都不敢做了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3525,
+    "seg_id": "S6-L2",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "给心脏病朋友的心里话",
+    "template": "step_arrow",
+    "items": [
+      "越不敢动身体越差",
+      "越差越不敢动",
+      "陷入无法自拔的恶性循环"
+    ],
+    "atoms_text": "你越不敢动啊 身体越差 越差呀 越不敢动 这是一个恶性的循环",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3526,
+    "seg_id": "S6-L3",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "给心脏病朋友的心里话",
+    "template": "step_arrow",
+    "items": [
+      "安全范围内坚持运动",
+      "心脏一点一点变强",
+      "生活质量超出你的想象"
+    ],
+    "atoms_text": "那反过来呢 你在一个安全的范围里呢 坚持动起来 这个心脏呢 会一点一点的变强 你的生活质量呢 会比你想象的 要好很多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3527,
+    "seg_id": "S6-L4",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "给心脏病朋友的心里话",
+    "template": "hero_text",
+    "items": [
+      "运动是确定性收益最高的投资"
+    ],
+    "atoms_text": "运动呢 它本身就是 这个世界上 确定性收益最高的投资 也不需要花什么钱 对不对 对心脏病人来说 更是如此",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3528,
+    "seg_id": "S6-L5",
+    "bp_title": "心脏病人能运动吗？答案颠覆你的认知",
+    "scene_title": "给心脏病朋友的心里话",
+    "template": "split_column",
+    "items": [
+      "急功近利盲目大量运动",
+      "找到节奏慢慢来才是真正护心",
+      "完全不动消极躺平",
+      "安全范围内持续坚持运动"
+    ],
+    "atoms_text": "那急功近利啊 那是不行的啊 那完全不动啊 也是不行 那找到适合自己的节奏啊 咱们哎 慢慢来 这样才是 对心脏真正的好 大家懂了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3529,
+    "seg_id": "S1-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "颠覆认知开场",
+    "template": "hero_text",
+    "items": [
+      "运动其实会直接伤害血管"
+    ],
+    "atoms_text": "应该没有人 跟你说过 运动对血管 其实是一种直接的伤害吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3530,
+    "seg_id": "S1-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "颠覆认知开场",
+    "template": "myth_buster",
+    "items": [
+      "运动等于健康，动越多越好",
+      "过量运动为何会猝死",
+      "跑得越快越牛",
+      "怎么判断自己练过头了"
+    ],
+    "atoms_text": "很多人以为 运动等于健康 动的越多越好 跑的越快越牛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3531,
+    "seg_id": "S1-L3",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "颠覆认知开场",
+    "template": "hero_text",
+    "items": [
+      "过量运动为什么会猝死"
+    ],
+    "atoms_text": "但你有没有想过 过量运动 为什么会猝死 又怎么判断 自己有没有练过头呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3532,
+    "seg_id": "S1-L4",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "颠覆认知开场",
+    "template": "hero_text",
+    "items": [
+      "今天把这件事讲清楚"
+    ],
+    "atoms_text": "今天呢 我就跟你讲清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3533,
+    "seg_id": "S2-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "运动伤血管的机制",
+    "template": "split_column",
+    "items": [
+      "运动时心率加快",
+      "血压比平时明显升高",
+      "血液流速加快",
+      "血液冲击力增强"
+    ],
+    "atoms_text": "你回想一下 你运动的时候 血压是不是比平时高 心率是不是比平时快",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3534,
+    "seg_id": "S2-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "运动伤血管的机制",
+    "template": "step_arrow",
+    "items": [
+      "血液猛烈冲击血管",
+      "直接作用于血管内膜",
+      "血管内膜受到损伤"
+    ],
+    "atoms_text": "血液在血管里 跑得更猛 冲得更狠",
+    "needs_animation": true,
+    "label": "运动时血液在血管内高速冲击"
+  },
+  {
+    "global_index": 3535,
+    "seg_id": "S2-L3",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "运动伤血管的机制",
+    "template": "hero_text",
+    "items": [
+      "血管内膜损伤是冲击力直接造成的"
+    ],
+    "atoms_text": "这种冲击力 会直接作用在 血管内膜上",
+    "needs_animation": true,
+    "label": "血流冲击力作用于血管内膜造成损伤"
+  },
+  {
+    "global_index": 3536,
+    "seg_id": "S2-L4",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "运动伤血管的机制",
+    "template": "step_arrow",
+    "items": [
+      "血管内膜受损",
+      "斑块开始形成",
+      "心血管风险上升"
+    ],
+    "atoms_text": "而血管内膜的损伤 恰恰是 斑块形成的第一步",
+    "needs_animation": true,
+    "label": "血管内膜损伤启动斑块形成的第一步"
+  },
+  {
+    "global_index": 3537,
+    "seg_id": "S2-L5",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "运动伤血管的机制",
+    "template": "hero_text",
+    "items": [
+      "运动对血管是一种直接伤害"
+    ],
+    "atoms_text": "所以运动对血管 其实是一种直接的伤害",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3538,
+    "seg_id": "S3-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "为什么还要运动",
+    "template": "hero_text",
+    "items": [
+      "既然有伤害，为什么还鼓励运动"
+    ],
+    "atoms_text": "那为什么 我们还鼓励运动呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3539,
+    "seg_id": "S3-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "为什么还要运动",
+    "template": "number_center",
+    "items": [
+      "1小时"
+    ],
+    "atoms_text": "因为你又不是 职业运动员 你一天最多 动半个小时到一个小时",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3540,
+    "seg_id": "S3-L3",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "为什么还要运动",
+    "template": "warning_alert",
+    "items": [
+      "半小时运动确实造成轻微损伤"
+    ],
+    "atoms_text": "这半个小时 确实对血管 造成了一点损伤",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3541,
+    "seg_id": "S3-L4",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "为什么还要运动",
+    "template": "brick_stack",
+    "items": [
+      "代谢能力增强",
+      "微循环更加丰富",
+      "心脏收缩力提升",
+      "血压与心率长期下降",
+      "血管自我修复能力提升"
+    ],
+    "atoms_text": "但是与此同时 你的代谢能力变强了 微循环变丰富了 心脏变得更有劲",
+    "needs_animation": true,
+    "label": "运动增强代谢能力、丰富微循环、心脏泵血力增强"
+  },
+  {
+    "global_index": 3542,
+    "seg_id": "S3-L5",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "为什么还要运动",
+    "template": "hero_text",
+    "items": [
+      "长期适度运动，收益远大于伤害"
+    ],
+    "atoms_text": "长期下来 血压会降 心率会降 血管 自我修复能力 也会提升",
+    "needs_animation": true,
+    "label": "长期运动使血压心率下降、血管自我修复能力提升"
+  },
+  {
+    "global_index": 3543,
+    "seg_id": "S3-L6",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "为什么还要运动",
+    "template": "hero_text",
+    "items": [
+      "所以远远大于伤害"
+    ],
+    "atoms_text": "所以远远大于伤害",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3544,
+    "seg_id": "S4-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "过量运动的危险",
+    "template": "hero_text",
+    "items": [
+      "一旦过量，情况完全反转"
+    ],
+    "atoms_text": "但这个前提呢 是适度 一旦过量 情况就完全反过来了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3545,
+    "seg_id": "S4-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "过量运动的危险",
+    "template": "step_arrow",
+    "items": [
+      "损伤超过身体修复能力",
+      "老旧细胞率先扛不住",
+      "健康细胞也被压垮"
+    ],
+    "atoms_text": "你造成的损伤 超过了身体的修复能力 不光老旧的细胞扛不住 原本健康的细胞 也会被压垮",
+    "needs_animation": true,
+    "label": "过量运动损伤超出细胞修复能力导致健康细胞也被压垮"
+  },
+  {
+    "global_index": 3546,
+    "seg_id": "S4-L3",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "过量运动的危险",
+    "template": "warning_alert",
+    "items": [
+      "血管里可能藏着不稳定斑块",
+      "本人完全不知道它的存在"
+    ],
+    "atoms_text": "如果你的血管里 恰好有块 你自己都不知道的 不稳定斑块",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3547,
+    "seg_id": "S4-L4",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "过量运动的危险",
+    "template": "step_arrow",
+    "items": [
+      "剧烈运动血流猛烈冲击",
+      "不稳定斑块被冲破",
+      "血栓瞬间形成，急性心梗"
+    ],
+    "atoms_text": "剧烈运动时 血流猛烈的冲击 直接就可能把它冲破 血栓瞬间形成 那就是急性心梗",
+    "needs_animation": true,
+    "label": "剧烈运动血流冲破不稳定斑块→血栓瞬间形成→急性心梗"
+  },
+  {
+    "global_index": 3548,
+    "seg_id": "S5-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "研究数据说明",
+    "template": "number_center",
+    "items": [
+      "2-3小时"
+    ],
+    "atoms_text": "二零一五年 有一项研究发现 每周慢跑两三个小时 强度适中的人 死亡风险最低",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3549,
+    "seg_id": "S5-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "研究数据说明",
+    "template": "split_column",
+    "items": [
+      "强度适中慢跑者",
+      "死亡风险最低",
+      "高强度高频率运动者",
+      "死亡风险接近久坐不动"
+    ],
+    "atoms_text": "而那些 运动强度特别高 频率特别密集的人 死亡风险 跟久坐不动的人 几乎没有差别",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3550,
+    "seg_id": "S5-L3",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "研究数据说明",
+    "template": "hero_text",
+    "items": [
+      "运动与健康是U型曲线，适度有益过度有害"
+    ],
+    "atoms_text": "运动和健康之间 不是一条直线 而是一条U型曲线 适度有益 过度有害",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3551,
+    "seg_id": "S6-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "最危险的运动模式",
+    "template": "warning_alert",
+    "items": [
+      "平时久坐一整天不动",
+      "周末突然跑十公里"
+    ],
+    "atoms_text": "特别是那种爆发性运动 平时坐着一整天不动 周末突然去跑十公里",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3552,
+    "seg_id": "S6-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "最危险的运动模式",
+    "template": "step_arrow",
+    "items": [
+      "心脏长期处于低负荷",
+      "突然飙升至极高负荷",
+      "这是最容易猝死的模式"
+    ],
+    "atoms_text": "心脏呢 从低负荷 直接飙到高负荷 这是最容易猝死的",
+    "needs_animation": true,
+    "label": "心脏从低负荷骤然飙升到高负荷的过程"
+  },
+  {
+    "global_index": 3553,
+    "seg_id": "S7-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "三类不适合大量运动的情况",
+    "template": "hero_text",
+    "items": [
+      "这三种情况不适合大量运动"
+    ],
+    "atoms_text": "所以呢 只要你属于 以下这三种情况 是不适合大量运动的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3554,
+    "seg_id": "S7-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "三类不适合大量运动的情况",
+    "template": "warning_alert",
+    "items": [
+      "平时血压160-170，运动飙至200",
+      "这不是锻炼，是脑出血的风险"
+    ],
+    "atoms_text": "第一 血压没有控制好的时候 你平时血压就 一百六一百七的 一运动飙到两百 那不是锻炼 而是拿命在冒险 脑出血 真的是会死人的",
+    "needs_animation": true,
+    "label": "运动时血压从160飙升到200导致脑出血"
+  },
+  {
+    "global_index": 3555,
+    "seg_id": "S7-L3",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "三类不适合大量运动的情况",
+    "template": "warning_alert",
+    "items": [
+      "发烧生病时炎症水平本就偏高",
+      "此时血管内膜更容易受损"
+    ],
+    "atoms_text": "第二 发烧生病的时候 身体炎症水平本来就高 血管内膜更容易受损",
+    "needs_animation": true,
+    "label": "发烧时炎症水平高使血管内膜更易受损"
+  },
+  {
+    "global_index": 3556,
+    "seg_id": "S7-L4",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "三类不适合大量运动的情况",
+    "template": "warning_alert",
+    "items": [
+      "身体极度疲惫时硬撑跑步",
+      "这不是自律，是与心脏为敌"
+    ],
+    "atoms_text": "还有就是 特别疲惫的时候 你的身体已经在求你歇歇了 你偏要硬撑着去跑步 这不叫自律 而是跟自己的心脏过不去",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3557,
+    "seg_id": "S8-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "结语与呼吁",
+    "template": "hero_text",
+    "items": [
+      "量力而行，健康运动，爱护心脏与血管"
+    ],
+    "atoms_text": "我说明白了吗 希望大家 都能量力而行 健康的运动 保护爱护好 自己的心脏和血管 健健康康 远离意外",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3558,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "真实病例开场",
+    "template": "list_fade",
+    "items": [
+      "凌晨送来的35岁程序员",
+      "开完会倒在走廊的销售主管",
+      "胸口不适拖了三个月的财务总监"
+    ],
+    "atoms_text": "做心内科医生的 这十几年 见过 凌晨两点 被送进来的 三十五岁程序员 见过 刚开完项目总结会 就要倒在走廊里面的 销售主管 见过 胸口不舒服啊 拖了三个月 才来查的 财务总监",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3559,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏发出的5个求救信号，你忍了几个？",
+    "scene_title": "真实病例开场",
+    "template": "hero_text",
+    "items": [
+      "他们都说：忍一忍就过去了"
+    ],
+    "atoms_text": "他们来的时候 都会说 同一句话 我以为啊 忍一忍 就过去了",
+    "needs_animation": false,
+    "label": ""
+  }
+]

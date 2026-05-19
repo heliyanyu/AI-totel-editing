@@ -1,0 +1,546 @@
+[
+  {
+    "global_index": 2720,
+    "seg_id": "S6-L11",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "三大致命误区",
+    "template": "hero_text",
+    "items": [
+      "造影就是在抢救生命，不要犹豫"
+    ],
+    "atoms_text": "因为这本是 一个完全能救活的病 就是因为耽误了时间 没去做造影 失去了生命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2721,
+    "seg_id": "S7-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "hero_text",
+    "items": [
+      "黄金十二小时到底怎么算"
+    ],
+    "atoms_text": "最后啊 我跟大家说清楚 黄金十二小时 到底是怎么算的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2722,
+    "seg_id": "S7-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "list_fade",
+    "items": [
+      "持续胸痛胸闷大汗呼吸困难",
+      "后背疼、牙疼、胃疼也算症状起点"
+    ],
+    "atoms_text": "从你出现 持续的胸痛 胸闷 大汗 呼吸困难 开始 还有后背疼 牙疼 胃疼 这些症状",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2723,
+    "seg_id": "S7-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "number_center",
+    "items": [
+      "12小时"
+    ],
+    "atoms_text": "十二个小时以内 都是急诊造影的 有效时间",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2724,
+    "seg_id": "S7-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "hero_text",
+    "items": [
+      "越早越好，最好两小时内完成手术"
+    ],
+    "atoms_text": "越早越好 最好两个小时之内 完成手术",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2725,
+    "seg_id": "S7-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "branch_path",
+    "items": [
+      "超过十二小时怎么办",
+      "症状持续或休克心衰→医生评估继续造影",
+      "完全无症状→先稳定病情再考虑支架"
+    ],
+    "atoms_text": "时间越短 救活的概率越高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2726,
+    "seg_id": "S7-L6",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "myth_buster",
+    "items": [
+      "年纪大、有糖尿病高血压不能做造影",
+      "只要清醒有生命体征就有做造影的价值",
+      "基础病多的人风险更低",
+      "基础病多的人更要尽快打通血管"
+    ],
+    "atoms_text": "如果超过十二小时 一般来说 如果症状还在持续 或者出现休克心衰 医生会根据情况 继续做造影",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2727,
+    "seg_id": "S7-L7",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "hero_text",
+    "items": [
+      "基础病越多，越要尽快做造影"
+    ],
+    "atoms_text": "如果完全没有症状了 那就得先稳定病情 再考虑后续的 支架治疗 不然风险会更大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2728,
+    "seg_id": "S7-L8",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "warning_alert",
+    "items": [
+      "高龄高危患者不做造影死亡率更高"
+    ],
+    "atoms_text": "还有 年纪大 有糖尿病高血压的朋友 担心自己不能做造影",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2729,
+    "seg_id": "S7-L9",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "hero_text",
+    "items": [
+      "医生会根据情况给出最优方案"
+    ],
+    "atoms_text": "只要是人清醒呢 有生命体征 就有做造影的价值",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2730,
+    "seg_id": "S7-L10",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "黄金时间详解",
+    "template": "hero_text",
+    "items": [
+      "时间越短，救活概率越高"
+    ],
+    "atoms_text": "反而那些 年纪大 基础病多的人呀 更要尽快打通血管 不然死亡率会更高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2731,
+    "seg_id": "S8-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "绿色通道说明",
+    "template": "hero_text",
+    "items": [
+      "别担心急诊造影麻烦花钱多"
+    ],
+    "atoms_text": "大家也别担心 急诊造影麻烦 花钱多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2732,
+    "seg_id": "S8-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "绿色通道说明",
+    "template": "list_fade",
+    "items": [
+      "正规医院都有胸痛中心绿色通道",
+      "心梗患者直接进手术室不排队",
+      "无需复杂手续，无需先交钱"
+    ],
+    "atoms_text": "现在正规医院 都有胸痛中心 绿色通道",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2733,
+    "seg_id": "S8-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "绿色通道说明",
+    "template": "hero_text",
+    "items": [
+      "先救命后收费，国家规定的通道"
+    ],
+    "atoms_text": "心梗患者一来 不用排队 不用办复杂的手续 也不用先交钱 直接进手术室",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2734,
+    "seg_id": "S8-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "绿色通道说明",
+    "template": "hero_text",
+    "items": [
+      "绿色通道就是为了帮患者抢时间"
+    ],
+    "atoms_text": "咱们先救命后收费 救命要紧啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2735,
+    "seg_id": "S8-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "绿色通道说明",
+    "template": "list_fade",
+    "items": [
+      "这是国家规定的绿色通道",
+      "就是为了抢时间"
+    ],
+    "atoms_text": "这是国家规定的绿色通道 就是为了抢时间",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2736,
+    "seg_id": "S9-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "hero_text",
+    "items": [
+      "心梗典型症状，划重点记住"
+    ],
+    "atoms_text": "最后我再把 心梗的典型症状 跟大家划划重点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2737,
+    "seg_id": "S9-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "list_fade",
+    "items": [
+      "胸口压榨样疼痛超过15分钟不缓解",
+      "大汗淋漓脸色苍白伴恶心呕吐",
+      "疼痛放射到后背肩膀脖子或牙胃",
+      "头晕心慌有快要晕倒的感觉"
+    ],
+    "atoms_text": "第一个 胸口压榨样疼痛 像有大石头压着 喘不过气 持续超过十五分钟 不缓解的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2738,
+    "seg_id": "S9-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "warning_alert",
+    "items": [
+      "出现任何一条立刻拨打120，不犹豫"
+    ],
+    "atoms_text": "第二个呢 大汗淋漓 脸色苍白 还伴有恶心呕吐",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2739,
+    "seg_id": "S9-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "hero_text",
+    "items": [
+      "到了医院听医生的，配合造影治疗"
+    ],
+    "atoms_text": "第三个 疼痛放射到 后背 肩膀 脖子 甚至牙疼 或者胃疼",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2740,
+    "seg_id": "S9-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "hero_text",
+    "items": [
+      "时间就是心肌，急诊造影就是在救命"
+    ],
+    "atoms_text": "第四个 头晕心慌 有快要晕倒的感觉",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2741,
+    "seg_id": "S9-L6",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "hero_text",
+    "items": [
+      "症状一出现，争分夺秒去医院"
+    ],
+    "atoms_text": "只要出现其中一个 立刻打一二零 别犹豫",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2742,
+    "seg_id": "S9-L7",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "hero_text",
+    "items": [
+      "每一分钟都决定着心肌的存活"
+    ],
+    "atoms_text": "到了医院 听医生的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2743,
+    "seg_id": "S9-L8",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "心梗症状速记",
+    "template": "hero_text",
+    "items": [
+      "记住症状，关键时刻能救自己和家人"
+    ],
+    "atoms_text": "心梗面前 时间就是心肌 时间就是生命 急诊造影就是在救命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2744,
+    "seg_id": "S10-L1",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "传播知识，能帮一个人就值了"
+    ],
+    "atoms_text": "网上都在说 不要轻易去干预 别人的命运",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2745,
+    "seg_id": "S10-L2",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "少一个家庭遭遇不幸，这视频就值了"
+    ],
+    "atoms_text": "但今天这个视频 能帮一个人 记住这些知识点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2746,
+    "seg_id": "S10-L3",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "每句话都是临床经验和教训换来的"
+    ],
+    "atoms_text": "关键的时候 能少一个家庭 遭遇不幸 我就觉得 这个视频值了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2747,
+    "seg_id": "S10-L4",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "收藏转发，让更多人知道黄金十二小时"
+    ],
+    "atoms_text": "今天我讲的 每一句话 都是用 无数临床经验和教训 换来的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2748,
+    "seg_id": "S10-L5",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "多一人看到，就可能多救一条生命"
+    ],
+    "atoms_text": "请你一定 把这条视频 收藏 转发 扩散 让更多人知道 心梗黄金十二小时 知道急诊造影的重要性",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2749,
+    "seg_id": "S10-L6",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "多救一命，多一个完整的家庭"
+    ],
+    "atoms_text": "多一个人看到 就可能少一个悲剧 多救一条生命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2750,
+    "seg_id": "S10-L7",
+    "bp_title": "急性心梗黄金十二小时急诊造影科普",
+    "scene_title": "结尾呼吁",
+    "template": "hero_text",
+    "items": [
+      "谢谢大家"
+    ],
+    "atoms_text": "谢谢大家",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2751,
+    "seg_id": "S1-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "心脏不舒服？这条视频用得上"
+    ],
+    "atoms_text": "今天这条视频啊 我敢说 百分之九十的 心脏不舒服的朋友 或家里有中老年人的 全都用得上",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2752,
+    "seg_id": "S1-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "胸闷心慌胸口疼",
+      "医生让查心脏血管"
+    ],
+    "atoms_text": "经常有人在后台问我 胸闷心慌胸口疼 医生让我查心脏血管",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2753,
+    "seg_id": "S1-L3",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "开场点题",
+    "template": "myth_buster",
+    "items": [
+      "CTA和造影是同一种检查",
+      "两者用途和精准度不同",
+      "做了造影就必须放支架",
+      "造影仅在必要时才放支架"
+    ],
+    "atoms_text": "有的说 做心脏CTA 有的说 做心脏造影 这俩到底有啥区别呢 我该选哪一个呀 是不是做了造影 就必须得放支架呀",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2754,
+    "seg_id": "S1-L4",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "看完不花冤枉钱不多遭罪"
+    ],
+    "atoms_text": "今天我用 最通俗最简单的方式 把这两个检查讲明白 看完再也不会 在心脏检查上 花冤枉钱多遭罪",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2755,
+    "seg_id": "S2-L1",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "hero_text",
+    "items": [
+      "给心脏血管拍高清三维CT照片"
+    ],
+    "atoms_text": "先说冠脉CTA 它的全称是 冠状动脉CT血管成像 说白了 就是给你的心脏血管 拍一张高清三维CT照片",
+    "needs_animation": true,
+    "label": "冠状动脉CT血管成像的三维重建原理"
+  },
+  {
+    "global_index": 2756,
+    "seg_id": "S2-L2",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "step_arrow",
+    "items": [
+      "手上打留置针注入造影剂",
+      "躺入CT机器扫描几分钟",
+      "做完即可回家无需住院"
+    ],
+    "atoms_text": "你躺在CT机器里 手上打个留置针 注入造影剂 几分钟就做完 做完就能回家 并且不用住院 门诊就能做",
+    "needs_animation": true,
+    "label": "冠脉CTA检查流程：注入造影剂进行CT扫描"
+  },
+  {
+    "global_index": 2757,
+    "seg_id": "S2-L3",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "color_grid",
+    "items": [
+      "快速方便无创",
+      "费用约500-800元",
+      "风险极低几乎无不适",
+      "门诊即可完成"
+    ],
+    "atoms_text": "它的优点就是 快方便无创 价格也不贵 大概五百到八百块钱 风险特别低 几乎没有什么不舒服的地方",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2758,
+    "seg_id": "S2-L4",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "list_fade",
+    "items": [
+      "偶尔胸闷症状轻微",
+      "无三高无家族史",
+      "用于初步排查放心"
+    ],
+    "atoms_text": "适合只是偶尔胸闷 症状很轻 没有三高家族史的朋友 用来初步排查问题 查完没事了 自己也放心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2759,
+    "seg_id": "S2-L5",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "冠脉CTA详解",
+    "template": "warning_alert",
+    "items": [
+      "血管钙化或心率快图像失真",
+      "只能看不能治疗"
+    ],
+    "atoms_text": "但它毕竟是照片 容易有误差 比如说 血管有钙化 心率太快 图像就会不清楚",
+    "needs_animation": false,
+    "label": ""
+  }
+]

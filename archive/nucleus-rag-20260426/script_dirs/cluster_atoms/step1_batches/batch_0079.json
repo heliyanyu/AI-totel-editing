@@ -1,0 +1,599 @@
+[
+  {
+    "global_index": 3160,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查查什么",
+    "template": "list_fade",
+    "items": [
+      "血常规",
+      "血脂血糖",
+      "肝肾功能",
+      "花费约两三百元"
+    ],
+    "atoms_text": "第二件事呢 就是复查到底查什么 这个得分情况来说 如果你放了支架以后一直很稳定 之前也没有过急性心梗急性心衰这些大问题 那复查的时候啊 项目并不多 抽个血看看血常规血脂血糖肝肾功能 基本就够了 加一块也花不了多少钱 大概两三百块钱就能搞定",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3161,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查查什么",
+    "template": "number_center",
+    "items": [
+      "糖化血红蛋白"
+    ],
+    "atoms_text": "有糖尿病的朋友呢 再加一项糖化血红蛋白 这个指标 能看你最近两三个月的血糖控制的怎么样 比空腹血糖靠谱多了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3162,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查查什么",
+    "template": "list_fade",
+    "items": [
+      "心电图",
+      "心脏彩超",
+      "BNP（心衰指标）"
+    ],
+    "atoms_text": "但如果你之前得过急性心梗 或者心脏功能本来就差 那光查血还不够 还得加做心电图和心脏彩超 看看你的心脏恢复的怎么样 泵血能力够不够 有些朋友呢 还需要复查一下BNP 看看心脏累不累 看看有没有心衰的苗头 这些检查就是你的护身符",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3163,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查前后注意事项",
+    "template": "warning_alert",
+    "items": [
+      "复查当天必须空腹",
+      "确保血脂血糖结果准确"
+    ],
+    "atoms_text": "第三件事呢 就是复查之前和复查当天 有些细节你得提前知道 首先呢 复查当天记得一定要空腹去 因为血脂血糖肝肾功能这些指标 吃了东西再查就不太准了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3164,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查前后注意事项",
+    "template": "list_fade",
+    "items": [
+      "刷牙时牙龈出血",
+      "鼻子无故流血",
+      "皮肤出现不明淤青",
+      "大便颜色发黑发暗"
+    ],
+    "atoms_text": "其次呢 平时在家里你自己就在留心观察这几件事 到了复查的时候好跟医生详细说说 你肯定在吃阿司匹林氯吡格雷或者替格瑞洛这些抗血栓药对不对 它们的作用呢 是防止支架里面长血栓 但副作用呢 就是容易让咱们导致出血的情况 所以你平时要注意 刷牙的时候牙龈出不出血 鼻子会不会动不动就流血 胳膊腿上有没有莫名其妙冒出来的淤青 大便颜色有没有发黑发暗 这些都是出血的信号",
+    "needs_animation": true,
+    "label": "抗血小板药物防止支架内血栓形成及引发出血的机制"
+  },
+  {
+    "global_index": 3165,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查前后注意事项",
+    "template": "list_fade",
+    "items": [
+      "肌肉酸痛无力",
+      "肝功能异常信号",
+      "及时向医生反馈"
+    ],
+    "atoms_text": "再一个 吃他汀降脂药的朋友 要留意肌肉有没有酸疼没劲儿的情况 因为他汀可能会影响到肌肉和肝脏 这些情况不管有没有 到了复查的时候都要如实的跟医生讲 有些小信号早说出来 医生调一调药就解决了 如果憋着不说 小问题拖成大麻烦 那可就事儿大了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3166,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "是否需做造影",
+    "template": "split_column",
+    "items": [
+      "控制良好，无需造影",
+      "三高控制不佳",
+      "无胸闷胸痛症状",
+      "再次出现胸痛",
+      "定期复查指标稳定",
+      "血管病变复杂"
+    ],
+    "atoms_text": "第四件事儿呢 满一年了要不要复查做个造影呢 我先说明白了 没有哪条指南规定说放了支架满一年必须做造影 如果你这一年下来呀 好好吃药定期复查 血脂血糖血压控制的都不错 平时也没觉得胸闷胸疼 那根本用不着专门去做个造影 别花那个冤枉钱 也别受那个罪",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3167,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "是否需做造影",
+    "template": "branch_path",
+    "items": [
+      "出现例外情况",
+      "与主治医生商量",
+      "自行决定"
+    ],
+    "atoms_text": "但有几种情况是例外的 如果你本身三高控制的一直不太好 或者最近啊又开始出现了胸口不舒服了 又或者你当时做手术的时候啊 血管病变比较复杂 支架放的比较多 再比如说你接下来要做别的外科大手术 可能需要停抗血小板的药 这些情况 做个造影重新评估一下血管的状态 是有必要的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3168,
+    "seg_id": "S5-L3",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "是否需做造影",
+    "template": "hero_text",
+    "items": [
+      "听主治医生的，准没错"
+    ],
+    "atoms_text": "到底做不做得跟你的主治医师商量 他最了解你的血管情况 听他的呀准没错",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3169,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "总结叮嘱",
+    "template": "hero_text",
+    "items": [
+      "记住四件事，术后路走稳"
+    ],
+    "atoms_text": "这四件事儿记住了 放了支架以后的路啊 就能走的稳稳当当平平稳稳 我都说明白了吧 觉得有用啊可以点个关注 后面我接着给您讲更多术后康复的护心知识 咱们不见不散",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3170,
+    "seg_id": "S1-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "真实病例引入",
+    "template": "number_center",
+    "items": [
+      "低密度脂蛋白临界值"
+    ],
+    "atoms_text": "我给你说 一个门诊的真实情况 有个 四十岁出头的大哥 低密度脂蛋白 三点四 化验单上 参考值写的 小于三点四 没有箭头 他就觉得 自己没有问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3171,
+    "seg_id": "S1-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "真实病例引入",
+    "template": "warning_alert",
+    "items": [
+      "指标无箭头，颈动脉双侧已有斑块",
+      "数值\"达标\"背后潜伏多年风险"
+    ],
+    "atoms_text": "结果今年 颈动脉超声 一查 两侧都有斑块了 他特别不理解 说我这指标 不是正常了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3172,
+    "seg_id": "S2-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "参考值的真实适用范围",
+    "template": "list_fade",
+    "items": [
+      "不抽烟",
+      "无高血压",
+      "无糖尿病",
+      "体重正常",
+      "家族无心脏病史"
+    ],
+    "atoms_text": "但其实 化验单上写的 小于三点四 是给完全健康的人定的 没有高血压 没有糖尿病 不抽烟 不胖 家里人没有得过心脏病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3173,
+    "seg_id": "S2-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "参考值的真实适用范围",
+    "template": "warning_alert",
+    "items": [
+      "3.4以下只是短期大概率不出问题",
+      "\"短期\"二字至关重要，别忽视"
+    ],
+    "atoms_text": "这种情况下 三点四以下 短期 大概率不会出问题 但我说的是短期",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3174,
+    "seg_id": "S3-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "累积伤害的时间逻辑",
+    "template": "step_arrow",
+    "items": [
+      "低密度脂蛋白持续\"搬货\"入血管",
+      "仓库缓慢积累，越搬越满",
+      "仓库装满，斑块形成"
+    ],
+    "atoms_text": "为什么呢 因为低密度脂蛋白 对血管的伤害 是累积的 你把血管看成一个仓库 低密度就是 每天往仓库里面搬货 搬的快 仓库满的快 搬的慢 就满的慢 但只要一直在搬 总有装满的那一天 装满了 斑块就来了",
+    "needs_animation": true,
+    "label": "低密度脂蛋白在血管壁内逐年累积沉积最终形成斑块"
+  },
+  {
+    "global_index": 3175,
+    "seg_id": "S3-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "累积伤害的时间逻辑",
+    "template": "split_column",
+    "items": [
+      "长期偏高",
+      "长期较低",
+      "血管内沉积量远超正常",
+      "血管内沉积量极少"
+    ],
+    "atoms_text": "所以问题不在于 你今天的数值是多少 而是在于 你维持了多少年 同样二十年 一个人低密度三点八 一个人二点零 血管里攒下来的量 完全不是一回事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3176,
+    "seg_id": "S3-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "累积伤害的时间逻辑",
+    "template": "hero_text",
+    "items": [
+      "低密度脂蛋白无\"正常值\"，越低越好"
+    ],
+    "atoms_text": "所以低密度脂蛋白 没有所谓的正常值 对普通人来说 就是越低越好 差的那个零点几 放到十几年二十几年的尺度上 就是完全不同的结果",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3177,
+    "seg_id": "S4-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "高危人群的更严标准",
+    "template": "list_fade",
+    "items": [
+      "高血压患者",
+      "糖尿病患者",
+      "长期吸烟者",
+      "家族早发心梗史"
+    ],
+    "atoms_text": "那如果你有 高血压 糖尿病 抽烟 或者家里有五十几岁就心梗了的 这三点四的标准 对你根本不适用 你的低密度 可能要控制到二点六 甚至一点八以下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3178,
+    "seg_id": "S4-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "高危人群的更严标准",
+    "template": "step_arrow",
+    "items": [
+      "危险因素反复损伤血管内膜",
+      "血管\"仓库\"比常人更小",
+      "同等数值，更快堆满斑块"
+    ],
+    "atoms_text": "因为你的血管内膜 已经被这些因素 反复损伤了 相当于仓库比别人小 同样的货搬进去 你比别人更快装满",
+    "needs_animation": true,
+    "label": "高血压糖尿病等因素反复损伤血管内膜加速脂质沉积"
+  },
+  {
+    "global_index": 3179,
+    "seg_id": "S4-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "高危人群的更严标准",
+    "template": "split_column",
+    "items": [
+      "健康年轻人",
+      "高血压+吸烟者",
+      "暂时无需过度担心",
+      "已明确偏高，需立即干预"
+    ],
+    "atoms_text": "同样三点八 在健康年轻人身上 暂时不用太担心 但在一个 既有高血压又抽烟的人身上 就已经明确偏高了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3180,
+    "seg_id": "S5-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "分层干预方案",
+    "template": "branch_path",
+    "items": [
+      "无任何危险因素",
+      "生活方式干预，少肥肉油炸",
+      "暂不需要药物治疗"
+    ],
+    "atoms_text": "具体怎么办 什么危险因素都没有的 先不用吃药 但要管住嘴 迈开腿 少吃肥肉油炸的东西 尽量往下压一压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3181,
+    "seg_id": "S5-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "分层干预方案",
+    "template": "step_arrow",
+    "items": [
+      "存在高血压、糖尿病等危险因素",
+      "先以生活方式调整2~3个月",
+      "降不下来则考虑服用他汀"
+    ],
+    "atoms_text": "有高血压糖尿病这些危险因素的 先靠生活方式 调两三个月 降不下来 就要考虑吃他汀",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3182,
+    "seg_id": "S5-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "分层干预方案",
+    "template": "myth_buster",
+    "items": [
+      "没箭头就不需要吃药",
+      "等到有箭头，斑块已长数年",
+      "等指标高了再管，血管就来得及",
+      "斑块一旦形成，血管清不干净"
+    ],
+    "atoms_text": "我知道很多人 一听吃药就抗拒 觉得没箭头 凭什么要吃药 但说实话 等你高到有箭头了 斑块可能早就长了好几年了 那时候再管 血管里的东西 已经清不干净了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3183,
+    "seg_id": "S5-L4",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "分层干预方案",
+    "template": "hero_text",
+    "items": [
+      "别等\"破产\"才想起存钱，血管同理"
+    ],
+    "atoms_text": "这事儿跟攒钱一样 不能等破产了 才想起来存钱",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3184,
+    "seg_id": "S6-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "总结与行动建议",
+    "template": "category_table",
+    "items": [
+      "健康人群",
+      "生活干预为主，持续关注",
+      "高危人群",
+      "严格控值，必要时用药",
+      "已有斑块者",
+      "尽早就医，积极治疗",
+      "所有人",
+      "越早在意，越早受益"
+    ],
+    "atoms_text": "总结一下 低密度脂蛋白没有箭头 不等于没有问题 你到底要不要管 不是看箭头 是看你自己 有没有其他危险因素 以及你打算让你的血管 再撑多少年 越早在意 越早受益 懂了吧 欢迎点赞收藏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3185,
+    "seg_id": "S1-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "真实案例引入",
+    "template": "number_center",
+    "items": [
+      "低密度脂蛋白临界值"
+    ],
+    "atoms_text": "我给你说 一个门诊的真实情况 有个 四十岁出头的大哥 低密度脂蛋白 三点四 化验单上 参考值写的 小于三点四 没有箭头 他就觉得 自己没有问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3186,
+    "seg_id": "S1-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "真实案例引入",
+    "template": "warning_alert",
+    "items": [
+      "颈动脉两侧均发现斑块",
+      "指标\"正常\"为何血管出问题"
+    ],
+    "atoms_text": "结果今年 颈动脉超声一查 两侧都有斑块了 他特别不理解 说我这指标 不是正常了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3187,
+    "seg_id": "S2-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "参考值的隐藏前提",
+    "template": "brick_stack",
+    "items": [
+      "无高血压",
+      "无糖尿病",
+      "不抽烟不肥胖",
+      "家族无心脏病史"
+    ],
+    "atoms_text": "但其实 化验单上写的 小于三点四 是给完全健康的人定的 没有高血压 没有糖尿病 不抽烟 不胖 家里人没有得过心脏病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3188,
+    "seg_id": "S2-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "参考值的隐藏前提",
+    "template": "hero_text",
+    "items": [
+      "三点四以下，短期大概率没事"
+    ],
+    "atoms_text": "这种情况下 三点四以下 短期 大概率不会出问题 但我说的是短期",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3189,
+    "seg_id": "S2-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "参考值的隐藏前提",
+    "template": "step_arrow",
+    "items": [
+      "低密度脂蛋白持续存在",
+      "对血管持续产生损伤",
+      "伤害随时间不断累积"
+    ],
+    "atoms_text": "为什么呢 因为 低密度脂蛋白 对血管的伤害 是累积的",
+    "needs_animation": true,
+    "label": "低密度脂蛋白对血管壁的累积性损伤机制"
+  },
+  {
+    "global_index": 3190,
+    "seg_id": "S3-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "血管仓库模型",
+    "template": "step_arrow",
+    "items": [
+      "低密度每天往血管里搬货",
+      "搬得慢仓库也终将装满",
+      "装满那天斑块就形成了"
+    ],
+    "atoms_text": "你把血管 看成一个仓库 低密度 就是每天 往仓库里面搬货 搬的快 仓库满的快 搬的慢 就满的慢 但只要一直在搬 总有装满的那一天 装满了 斑块就来了",
+    "needs_animation": true,
+    "label": "低密度脂蛋白持续沉积进血管壁直至斑块形成的过程"
+  },
+  {
+    "global_index": 3191,
+    "seg_id": "S3-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "血管仓库模型",
+    "template": "hero_text",
+    "items": [
+      "问题不在今天数值，在于维持了多少年"
+    ],
+    "atoms_text": "所以问题 不在于你今天的数值是多少 而是在于 你维持了多少年",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3192,
+    "seg_id": "S3-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "血管仓库模型",
+    "template": "split_column",
+    "items": [
+      "低密度长期维持 3.8",
+      "低密度长期维持 2.0",
+      "血管斑块积累量显著更多",
+      "血管状态明显更健康"
+    ],
+    "atoms_text": "同样二十年 一个人低密度三点八 一个人二点零 血管里攒下来的量 完全不是一回事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3193,
+    "seg_id": "S3-L4",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "血管仓库模型",
+    "template": "hero_text",
+    "items": [
+      "低密度脂蛋白对普通人越低越好"
+    ],
+    "atoms_text": "所以 低密度脂蛋白 没有所谓的正常值 对普通人来说 就是越低越好 差的那个零点几 放到十几年二十几年的尺度上 就是完全不同的结果",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3194,
+    "seg_id": "S4-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "高危人群标准更严",
+    "template": "brick_stack",
+    "items": [
+      "高血压",
+      "糖尿病",
+      "长期吸烟",
+      "家族早发心梗史"
+    ],
+    "atoms_text": "那如果你 有高血压 糖尿病 抽烟 或者家里有 五十几岁就心梗了的 这三点四的标准 对你根本不适用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3195,
+    "seg_id": "S4-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "高危人群标准更严",
+    "template": "body_annotate",
+    "items": [
+      "血管内膜反复损伤",
+      "相当于仓库比别人更小",
+      "同样数值更快引发危险"
+    ],
+    "atoms_text": "你的低密度 可能要控制到 二点六 甚至一点八以下 因为 你的血管内膜 已经被这些因素 反复损伤了 相当于 仓库比别人小 同样的货搬进去 你比别人更快装满",
+    "needs_animation": true,
+    "label": "高危因素反复损伤血管内膜使脂质更快沉积"
+  },
+  {
+    "global_index": 3196,
+    "seg_id": "S4-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "高危人群标准更严",
+    "template": "split_column",
+    "items": [
+      "健康年轻人 3.8 暂时无需担忧",
+      "高血压且抽烟者 3.8 已明确偏高",
+      "低危人群参考值较宽松",
+      "高危人群控制目标更严格"
+    ],
+    "atoms_text": "同样三点八 在健康年轻人身上 暂时不用太担心 但在一个 既有高血压又抽烟的人身上 就已经明确偏高了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3197,
+    "seg_id": "S5-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "具体干预方案",
+    "template": "branch_path",
+    "items": [
+      "完全健康、无危险因素",
+      "生活方式干预，管住嘴迈开腿",
+      "暂不需要服药"
+    ],
+    "atoms_text": "具体怎么办 什么危险因素都没有的 先不用吃药 但要管住嘴 迈开腿 少吃肥肉油炸的东西 尽量往下压一压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3198,
+    "seg_id": "S5-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "具体干预方案",
+    "template": "step_arrow",
+    "items": [
+      "存在高血压糖尿病等危险因素",
+      "先调整生活方式两三个月",
+      "降不下来则考虑服用他汀"
+    ],
+    "atoms_text": "有高血压糖尿病 这些危险因素的 先靠生活方式 调两三个月 降不下来 就要考虑吃他汀",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3199,
+    "seg_id": "S5-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "具体干预方案",
+    "template": "myth_buster",
+    "items": [
+      "没箭头就不需要吃药",
+      "高危人群无需等出现箭头再干预",
+      "等到有箭头再管已经来得及",
+      "那时斑块已长多年，无法清除"
+    ],
+    "atoms_text": "我知道 很多人一听吃药 就抗拒 觉得没箭头 凭什么要吃药",
+    "needs_animation": false,
+    "label": ""
+  }
+]

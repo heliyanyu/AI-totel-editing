@@ -1,0 +1,588 @@
+[
+  {
+    "global_index": 3120,
+    "seg_id": "S7-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "晒太阳、走走路、早点睡——就这么简单"
+    ],
+    "atoms_text": "你看啊 真正让免疫系统 好好工作的事儿 没有一样 需要你花大价钱的 晒晒太阳 出去走走 早点睡觉 就这么朴实无华",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3121,
+    "seg_id": "S7-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "总结收尾",
+    "template": "split_column",
+    "items": [
+      "几千一盒的保健品",
+      "新鲜鱼虾水果更值得买"
+    ],
+    "atoms_text": "那些几千一盒的保健品的钱 省下来 给家人买点 新鲜的鱼虾水果 比啥都强",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3122,
+    "seg_id": "S7-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "转给家里长辈，别再被忽悠了"
+    ],
+    "atoms_text": "觉得今天这些话 替你省了冤枉钱 就转给家里长辈看看 别让他们 再被忽悠了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3123,
+    "seg_id": "S7-L4",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "更多不交智商税的健康知识持续更新"
+    ],
+    "atoms_text": "关注我 后边接着给您讲 更多不交智商税的 健康知识 咱们不见不散",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3124,
+    "seg_id": "S1-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "开场点题",
+    "template": "myth_buster",
+    "items": [
+      "早搏是心脏病吗",
+      "很多人误以为是大问题",
+      "瓣膜反流要手术吗",
+      "其实多数不需要处理"
+    ],
+    "atoms_text": "早搏 是不是 心脏病啊 瓣膜反流 要不要 手术呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3125,
+    "seg_id": "S1-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "这5个\"心脏病\"其实都是小问题"
+    ],
+    "atoms_text": "接下来 咱们 即将讨论的 这五个 你以为的 心脏病 其实啊 都是 小问题 不用 过度担心 也不需要 特殊处理",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3126,
+    "seg_id": "S2-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "早搏别慌",
+    "template": "hero_text",
+    "items": [
+      "第一问：早搏"
+    ],
+    "atoms_text": "第一个 早搏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3127,
+    "seg_id": "S2-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "早搏别慌",
+    "template": "number_center",
+    "items": [
+      "10万次"
+    ],
+    "atoms_text": "正常人的 心跳 一天 能有个 十万次左右 中间 偶尔 抢拍几下 太正常了",
+    "needs_animation": true,
+    "label": "正常心跳节律中偶发提前搏动（抢拍）"
+  },
+  {
+    "global_index": 3128,
+    "seg_id": "S2-L3",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "早搏别慌",
+    "template": "split_column",
+    "items": [
+      "几百次早搏",
+      "属于正常生理范围",
+      "一天上万次早搏",
+      "需要就医评估用药"
+    ],
+    "atoms_text": "二十四小时之内 几十次 几百次 早搏 都属于 正常的 生理范围 就像 咱走路 偶尔 踉跄一步 不代表 咱腿有毛病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3129,
+    "seg_id": "S2-L4",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "早搏别慌",
+    "template": "brick_stack",
+    "items": [
+      "睡眠不足",
+      "浓茶浓咖啡",
+      "近期压力过大"
+    ],
+    "atoms_text": "早搏 有可能是 没睡好 也可能是 喝了 浓茶 浓咖啡 或者 最近啊 压力大 把这些 诱因去掉 大部分人 就消停了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3130,
+    "seg_id": "S2-L5",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "早搏别慌",
+    "template": "branch_path",
+    "items": [
+      "去除诱因后观察",
+      "大多数自然消退",
+      "仍频发则就医"
+    ],
+    "atoms_text": "但是啊 如果你 把这些诱因 都去掉了 早搏 还是 一天 好几千次 甚至 上万次 那就 不能 当没事儿了 该找医生 看看 是不是 需要 用药控制",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3131,
+    "seg_id": "S3-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "瓣膜反流不用怕",
+    "template": "hero_text",
+    "items": [
+      "第二问：瓣膜轻度反流"
+    ],
+    "atoms_text": "第二个 瓣膜轻度反流",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3132,
+    "seg_id": "S3-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "瓣膜反流不用怕",
+    "template": "body_annotate",
+    "items": [
+      "二尖瓣：控制左心血流",
+      "三尖瓣：控制右心血流",
+      "轻度反流：极少量血液倒流"
+    ],
+    "atoms_text": "这个 也特别常见 彩超报告上 写着 二尖瓣轻度反流 或者 三尖瓣轻度反流",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3133,
+    "seg_id": "S3-L3",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "瓣膜反流不用怕",
+    "template": "split_column",
+    "items": [
+      "门用几十年会漏风",
+      "心脏跳几十亿次有缝隙",
+      "门漏风不叫坏",
+      "轻度反流很正常"
+    ],
+    "atoms_text": "说白了 就是 心脏的门 关的 不那么严实了 有一点点的血 倒流回去了",
+    "needs_animation": true,
+    "label": "心脏瓣膜关闭不严时少量血液倒流回心腔"
+  },
+  {
+    "global_index": 3134,
+    "seg_id": "S3-L4",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "瓣膜反流不用怕",
+    "template": "warning_alert",
+    "items": [
+      "轻度/微量反流无需处理"
+    ],
+    "atoms_text": "你想啊 你家那扇门 用了 三四十年 还可能 漏风呢 心脏这扇门啊 跳了 几十年 几十亿次 稍微有点缝隙 太正常了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3135,
+    "seg_id": "S3-L5",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "瓣膜反流不用怕",
+    "template": "step_arrow",
+    "items": [
+      "每年做心脏彩超",
+      "与上次结果对比",
+      "无变化正常生活即可"
+    ],
+    "atoms_text": "只要是 轻度的 微量的 绝大多数 根本不用处理",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3136,
+    "seg_id": "S3-L6",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "瓣膜反流不用怕",
+    "template": "list_fade",
+    "items": [
+      "你要是",
+      "实在",
+      "放心不下呀",
+      "就每年",
+      "做个"
+    ],
+    "atoms_text": "你要是 实在 放心不下呀 就每年 做个 心脏彩超 复查一下 跟上次 比一比 看有没有变化 就该吃吃 该喝喝 不用管",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3137,
+    "seg_id": "S4-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "窦性心律不齐",
+    "template": "hero_text",
+    "items": [
+      "第三问：窦性心律不齐"
+    ],
+    "atoms_text": "第三个呢 是 窦性心律不齐",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3138,
+    "seg_id": "S4-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "窦性心律不齐",
+    "template": "myth_buster",
+    "items": [
+      "心律不齐说明心脏有问题",
+      "窦性代表节律来源正常",
+      "心跳忽快忽慢是异常",
+      "随呼吸变化属生理现象"
+    ],
+    "atoms_text": "这五个字 可把 不少人 吓得不轻",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3139,
+    "seg_id": "S4-L3",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "窦性心律不齐",
+    "template": "list_fade",
+    "items": [
+      "多见于年轻人和儿童",
+      "与呼吸节律相关",
+      "无基础心脏病则无需干预"
+    ],
+    "atoms_text": "其实啊 窦性 两个字 就已经 告诉你了 你的心跳节奏 是正常的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3140,
+    "seg_id": "S4-L4",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "窦性心律不齐",
+    "template": "list_fade",
+    "items": [
+      "这个",
+      "在年轻人",
+      "和孩子",
+      "身上",
+      "特别多见"
+    ],
+    "atoms_text": "这个 在年轻人 和孩子 身上 特别多见 而且 跟呼吸节奏 也很有关系 吸气 心跳 会快一点 呼气 会慢一点 完全是 正常的 生理现象",
+    "needs_animation": true,
+    "label": "吸气时心跳加快、呼气时心跳减慢的呼吸性窦性心律不齐"
+  },
+  {
+    "global_index": 3141,
+    "seg_id": "S4-L5",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "窦性心律不齐",
+    "template": "list_fade",
+    "items": [
+      "只要你",
+      "没有",
+      "心脏的",
+      "基础病",
+      "平时"
+    ],
+    "atoms_text": "只要你 没有 心脏的 基础病 平时 也没有 什么 不舒服的感觉 那根本 就不叫事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3142,
+    "seg_id": "S5-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "hero_text",
+    "items": [
+      "第四问：舒张功能减低"
+    ],
+    "atoms_text": "第四个呢 舒张功能减低",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3143,
+    "seg_id": "S5-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "body_annotate",
+    "items": [
+      "收缩：将血液泵出",
+      "舒张：将血液吸回",
+      "舒张功能减低：吸力下降"
+    ],
+    "atoms_text": "你可能 在心脏彩超报告上 看到过 这几个字",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3144,
+    "seg_id": "S5-L3",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "split_column",
+    "items": [
+      "四五十岁以上常见",
+      "心脏自然老化表现",
+      "冠心病或心衰症状",
+      "才需要临床干预"
+    ],
+    "atoms_text": "心脏 就像 一个水泵 一收一放 收的时候 把血 泵出去 放的时候 把血 吸回来",
+    "needs_animation": true,
+    "label": "心脏收缩期泵血出去与舒张期将血液吸回来"
+  },
+  {
+    "global_index": 3145,
+    "seg_id": "S5-L4",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "warning_alert",
+    "items": [
+      "腿部水肿需警觉",
+      "爬两层楼即喘不上气"
+    ],
+    "atoms_text": "舒张功能减低呢 就是 这个泵 吸的那一下 没以前 有劲了",
+    "needs_animation": true,
+    "label": "心脏舒张期吸血充盈能力减弱"
+  },
+  {
+    "global_index": 3146,
+    "seg_id": "S5-L5",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "list_fade",
+    "items": [
+      "避免过度劳累和熬夜",
+      "积极控制血压水平"
+    ],
+    "atoms_text": "这个情况 在四五十岁以上的人啊 身上 非常普遍 这就是 心脏老了的 正常表现 不代表 你得了 心脏病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3147,
+    "seg_id": "S5-L6",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "list_fade",
+    "items": [
+      "只要你",
+      "没有",
+      "冠心病",
+      "心绞痛的",
+      "毛病"
+    ],
+    "atoms_text": "只要你 没有 冠心病 心绞痛的 毛病 平时 也没有出现 腿肿 爬两层楼 就喘得不行 这些 心衰的迹象 就不用 太当回事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3148,
+    "seg_id": "S5-L7",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "list_fade",
+    "items": [
+      "平时啊",
+      "别太累",
+      "别熬夜",
+      "把血压",
+      "控制好"
+    ],
+    "atoms_text": "平时啊 别太累 别熬夜 把血压 控制好 就行了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3149,
+    "seg_id": "S6-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "少量心包积液",
+    "template": "hero_text",
+    "items": [
+      "第五问：少量心包积液"
+    ],
+    "atoms_text": "第五个呢 少量心包积液",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3150,
+    "seg_id": "S6-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "少量心包积液",
+    "template": "body_annotate",
+    "items": [
+      "心脏外层包裹一层心包膜",
+      "膜与心脏间存在润滑液"
+    ],
+    "atoms_text": "咱们心脏 外边 裹了 一层膜 叫心包",
+    "needs_animation": true,
+    "label": "心脏外层心包膜包裹心脏的解剖结构"
+  },
+  {
+    "global_index": 3151,
+    "seg_id": "S6-L3",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "少量心包积液",
+    "template": "split_column",
+    "items": [
+      "关节液起润滑作用",
+      "心包液同样起润滑作用",
+      "关节液正常存在",
+      "心包液少量属正常"
+    ],
+    "atoms_text": "正常情况下呢 这层膜 跟心脏之间 本来就有 少量的液体 在里面 起到润滑的作用 就跟 关节液 一个道理",
+    "needs_animation": true,
+    "label": "心包腔内少量液体在心包与心脏之间起润滑作用"
+  },
+  {
+    "global_index": 3152,
+    "seg_id": "S6-L4",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "少量心包积液",
+    "template": "myth_buster",
+    "items": [
+      "心包积液就是得了病",
+      "少量积液多为润滑液偏多",
+      "需要立即就医处理",
+      "十有八九无需特殊处理"
+    ],
+    "atoms_text": "体检查出来 少量的 心包积液 十有八九啊 就是 这层润滑液 稍微多了 那么一丢丢 不是什么疾病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3153,
+    "seg_id": "S7-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "总结与呼吁",
+    "template": "list_fade",
+    "items": [
+      "早搏：偶发属正常",
+      "瓣膜轻度反流：无需处理",
+      "窦性心律不齐：生理现象",
+      "舒张功能减低：老化表现",
+      "少量心包积液：润滑所致"
+    ],
+    "atoms_text": "好了 这五个问题啊 都是 体检报告上 出现频率最高的 绝大多数 都不需要 特殊处理",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3154,
+    "seg_id": "S7-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "总结与呼吁",
+    "template": "hero_text",
+    "items": [
+      "绝大多数不需要特殊处理"
+    ],
+    "atoms_text": "我都 说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3155,
+    "seg_id": "S7-L3",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "总结与呼吁",
+    "template": "list_fade",
+    "items": [
+      "觉得有用点赞支持",
+      "转发给家人别瞎担心"
+    ],
+    "atoms_text": "觉得 今天这些话 帮你 解了心病 可以 点个赞 转给 家里人 别让他们 再拿着 体检报告单 自己 瞎琢磨了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3156,
+    "seg_id": "S7-L4",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "总结与呼吁",
+    "template": "hero_text",
+    "items": [
+      "关注我，看懂心脏知识"
+    ],
+    "atoms_text": "关注我 下回 接着给您讲 更多 看得懂的 心脏知识 咱们 不见不散",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3157,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "做完支架手术，并非万事大吉"
+    ],
+    "atoms_text": "做完心脏支架手术 可不是万事大吉了啊 如果你不想复发 不想支架内再狭窄 一定不能踩这四个坑 今天 我把术后复查最需要注意的四件事 一次性给你交代清楚 照着做 这个支架才算没白放",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3158,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查时间表",
+    "template": "vertical_timeline",
+    "items": [
+      "术后1个月：首次复查",
+      "术后3个月：调整药物",
+      "术后6个月：监测高峰期",
+      "术后12个月：年度评估"
+    ],
+    "atoms_text": "第一件事呢 就是复查时间 你一定得卡准了 一般来说呢 术后一个月 三个月 六个月 十二个月 都要来门诊复查一次 因为术后的头一年 是支架内再狭窄的高峰期 也是药物调整最频繁的阶段 医生在紧盯你的指标 等满了一年 各方面都稳稳当当了 往后每年回来查一次就够了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3159,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏支架术后复查，这四个坑千万别踩",
+    "scene_title": "复查时间表",
+    "template": "warning_alert",
+    "items": [
+      "胸痛胸闷复发，立即就医",
+      "出现新症状，别等复查日"
+    ],
+    "atoms_text": "但是啊 我再多嘱咐一句 这个时间表啊 是正常情况下的安排 如果你在两次复查之间 突然觉得胸口又闷了又疼了 或者出现了以前没有过的不舒服 千万别等下次复查的日子了 赶紧去医院看看 以免耽误病情",
+    "needs_animation": false,
+    "label": ""
+  }
+]

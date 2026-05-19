@@ -1,0 +1,154 @@
+[
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 55,
+    "end_sec": 88,
+    "summary_zh": "健康饮食的具体食物示例：蔬菜（胡萝卜、西兰花、番茄）、水果（苹果、橙子、草莓）、瘦肉蛋白（鱼、鸡肉、豆类）、乳制品（低脂酸奶和奶酪）、淀粉类（全麦面包和红薯）以及健康饮品（水和脱脂牛奶）",
+    "text_en": "Examples of foods in a healthy diet include vegetables such as carrots, broccoli and tomatoes, fruits such as apples, oranges and strawberries, lean proteins such as fish, chicken and beans, dairy foods such as low fat yogurt and cheese, starches such as whole wheat bread and sweet potatoes, and healthy drinks such as water and fat-free milk.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 88,
+    "end_sec": 115,
+    "summary_zh": "饮食中的具体限制措施：减少盐和糖摄入，钠摄入低于2000毫克以减少体内水分潴留，用橄榄油等健康油脂替代固体脂肪，限制液体摄入量，禁止饮酒",
+    "text_en": "Reduce the amount of salt and sugar you eat. Keep sodium levels below 2000mg to reduce the amount of water retained by your body. Substitute solid fats with heart healthy oils such as olive oil. Limit the amount of fluid you drink. Ask your healthcare provider how much fluid you should drink each day. And remember, a heart healthy diet doesn't include alcohol.",
+    "category_ids": [
+      75,
+      84
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 115,
+    "end_sec": 128,
+    "summary_zh": "运动建议：咨询医生制定适合的运动计划，每天30分钟低强度运动有助于增强心脏功能",
+    "text_en": "Also, check with your healthcare provider about an exercise plan that's right for you. 30 minutes of daily low impact exercise can help strengthen your heart.",
+    "category_ids": [
+      75,
+      40
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Medication.mp4",
+    "title": "Heart Failure Treatment  Medication",
+    "start_sec": 9,
+    "end_sec": 18,
+    "summary_zh": "利尿剂：通过增加肾脏产生的尿量来减轻体内水肿",
+    "text_en": "Diuretic medications reduce the swelling in your body by increasing the amount of urine produced by your kidneys.",
+    "category_ids": [
+      75,
+      43
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Medication.mp4",
+    "title": "Heart Failure Treatment  Medication",
+    "start_sec": 18,
+    "end_sec": 32,
+    "summary_zh": "ACE抑制剂：扩张血管，降低血压，减轻心脏泵血负担，防止心脏进一步损伤",
+    "text_en": "Ace inhibitors are medications that allow your blood vessels to expand. This helps decrease your blood pressure and prevents further damage to your heart by making it easier for your heart to pump blood.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Medication.mp4",
+    "title": "Heart Failure Treatment  Medication",
+    "start_sec": 32,
+    "end_sec": 49,
+    "summary_zh": "β受体阻滞剂：阻断应激激素对心脏的作用，虽会减慢心率，但主要用于保护心肌免受应激激素的长期损害",
+    "text_en": "Beta blockers are medications that block the effects of stress hormones on your heart. Although beta blockers slow down your heartbeat, they are mainly used to protect your heart muscle from the long-term damage caused by stress hormones.",
+    "category_ids": [
+      75,
+      21
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start_sec": 12,
+    "end_sec": 29,
+    "summary_zh": "晚期心力衰竭的两种常规外科手术：冠状动脉旁路移植术（搭桥手术）用于改善心肌血流，以及心脏瓣膜重建术用于改善心脏内部血流。",
+    "text_en": "Surgery for advanced heart failure include coronary artery bypass surgery to improve blood flow to your heart muscle. And heart valve reconstruction surgery to improve blood flow through your heart.",
+    "category_ids": [
+      55,
+      75,
+      127
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start_sec": 31,
+    "end_sec": 62,
+    "summary_zh": "当常规心衰治疗效果不佳、心脏仍然虚弱时，可植入心室辅助装置（VAD）。VAD是一种机械泵，连接心脏下腔室，辅助将血液泵送至全身及重要器官，模拟健康心脏的泵血功能。",
+    "text_en": "If the heart remains weak with standard heart failure treatments, advanced treatment options for severe heart failure include insertion of a pump for your heart. A ventricular assist device, or VAD, is a mechanical pump that's used to support heart function and blood flow in people who have weakened hearts. The device takes blood from a lower chamber of the heart and helps pump it to the body and vital organs just as a healthy heart would.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Procedures.mp4",
+    "title": "Heart Failure Treatment  Procedures",
+    "start_sec": 65,
+    "end_sec": 70,
+    "summary_zh": "另一种重度心力衰竭的高级治疗方案是心脏移植手术。",
+    "text_en": "Another advanced treatment for severe heart failure is a heart transplant.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Normal Anatomy and Function of the Heart.mp4",
+    "title": "Normal Anatomy and Function of the Heart",
+    "start_sec": 0,
+    "end_sec": 12.1,
+    "summary_zh": "心脏概述：心脏是一个肌肉器官，负责泵送含有氧气和营养物质的血液供全身使用",
+    "text_en": "Your heart is a muscular organ that pumps blood containing the oxygen and nutrients your body needs.",
+    "category_ids": [
+      46,
+      126
+    ]
+  },
+  {
+    "file": "Normal Anatomy and Function of the Heart.mp4",
+    "title": "Normal Anatomy and Function of the Heart",
+    "start_sec": 12.1,
+    "end_sec": 29.5,
+    "summary_zh": "心脏四腔结构介绍：心脏的泵血部分由右心房、右心室、左心房和左心室四个腔室组成",
+    "text_en": "The pumping sections of the heart are the right atrium, right ventricle, left atrium, and left ventricle.",
+    "category_ids": [
+      46
+    ]
+  },
+  {
+    "file": "Normal Anatomy and Function of the Heart.mp4",
+    "title": "Normal Anatomy and Function of the Heart",
+    "start_sec": 29.5,
+    "end_sec": 46.5,
+    "summary_zh": "右心循环（肺循环入路）：缺氧血液从全身经大静脉流入右心房，再进入右心室，右心室收缩将血液泵向肺部进行气体交换",
+    "text_en": "In your heart, oxygen poor blood flows from your body through large veins into your right atrium. Next, your blood moves into your right ventricle, which contracts, sending blood out of the heart to pick up oxygen from your lungs.",
+    "category_ids": [
+      46,
+      126
+    ]
+  },
+  {
+    "file": "Normal Anatomy and Function of the Heart.mp4",
+    "title": "Normal Anatomy and Function of the Heart",
+    "start_sec": 46.5,
+    "end_sec": 61.5,
+    "summary_zh": "左心循环（体循环出路）：富氧血液从肺部流入左心房，再进入左心室，左心室收缩将富氧血液泵出心脏供应全身",
+    "text_en": "Oxygen rich blood moves out of your lungs into your left atrium, then moves into your left ventricle. Finally, your left ventricle contracts, sending oxygen rich blood out of your heart to",
+    "category_ids": [
+      46,
+      126
+    ]
+  }
+]

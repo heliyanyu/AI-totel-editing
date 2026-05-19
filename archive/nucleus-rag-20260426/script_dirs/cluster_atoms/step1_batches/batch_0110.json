@@ -1,0 +1,333 @@
+[
+  {
+    "global_index": 4400,
+    "seg_id": "S2-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑一：空腹运动",
+    "template": "hero_text",
+    "items": [
+      "空腹运动最危险"
+    ],
+    "atoms_text": "第一个坑 空腹运动 最危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4401,
+    "seg_id": "S2-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑一：空腹运动",
+    "template": "myth_buster",
+    "items": [
+      "空腹锻炼效果更好",
+      "糖尿病人空腹运动风险极高"
+    ],
+    "atoms_text": "很多人觉得 空腹的时候锻炼呢 哎 效果比较好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4402,
+    "seg_id": "S2-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑一：空腹运动",
+    "template": "step_arrow",
+    "items": [
+      "降糖药或胰岛素持续压低血糖",
+      "空腹运动肌肉大量消耗血糖",
+      "两头夹击血糖直线跳水"
+    ],
+    "atoms_text": "但糖尿病人呢 真不行 你本身呢 就是在 哎 吃降糖药 打胰岛素 这个药物 一直在给你压 这个血糖",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4403,
+    "seg_id": "S2-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑一：空腹运动",
+    "template": "warning_alert",
+    "items": [
+      "低血糖比高血糖危险得多",
+      "轻则晕厥，重则危及生命"
+    ],
+    "atoms_text": "你在空着肚子去运动 这肌肉 有大量的消耗糖 你两头一夹击 哎 这血糖就直接容易跳水了",
+    "needs_animation": true,
+    "label": "降糖药物与肌肉消耗葡萄糖双重夹击导致血糖骤降"
+  },
+  {
+    "global_index": 4404,
+    "seg_id": "S2-L5",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑一：空腹运动",
+    "template": "split_column",
+    "items": [
+      "空腹时运动",
+      "餐后一两小时运动"
+    ],
+    "atoms_text": "这个低血糖啊 要比高血糖 危险的多 有的人轻的呢 哎 跑步运动 重的呀 直接运动要命的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4405,
+    "seg_id": "S2-L6",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑一：空腹运动",
+    "template": "hero_text",
+    "items": [
+      "餐后血糖正高，运动削峰又安全"
+    ],
+    "atoms_text": "所以啊 记住 这个运动呢 是要安排在 餐后啊 一两个小时的 这时候血糖正高 哎 运动刚好削峰 又安全又有效",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4406,
+    "seg_id": "S3-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "hero_text",
+    "items": [
+      "运动量越大越好是错的"
+    ],
+    "atoms_text": "第二坑 觉得运动啊 这个量越大越好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4407,
+    "seg_id": "S3-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "warning_alert",
+    "items": [
+      "每天五公里加一小时跳操，反而有害"
+    ],
+    "atoms_text": "那有的糖友一上来呀 哇 每天五公里啊 跳操一个小时 恨不得一个礼拜 就把这个血糖练正常了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4408,
+    "seg_id": "S3-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "brick_stack",
+    "items": [
+      "消耗越多血糖掉得越快",
+      "糖尿病人血管本就脆弱",
+      "高强度冲击血管受不了"
+    ],
+    "atoms_text": "但是过量的运动呢 有两个问题 一个是低血糖风险啊 消耗的越多 它掉的越快",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4409,
+    "seg_id": "S3-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "number_center",
+    "items": [
+      "5"
+    ],
+    "atoms_text": "第二个 糖尿病人 他血管啊 本来就脆 你忽然间高强度的冲击 这血管它肯定受不了",
+    "needs_animation": true,
+    "label": "糖尿病患者脆弱血管受高强度运动冲击易损伤"
+  },
+  {
+    "global_index": 4410,
+    "seg_id": "S3-L5",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "hero_text",
+    "items": [
+      "稍感费力但还能正常说话，刚刚好"
+    ],
+    "atoms_text": "那我们推荐的是 每周五天 对不对 每次呢 半个小时左右 就可以了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4411,
+    "seg_id": "S3-L6",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑二：运动量越大越好",
+    "template": "category_table",
+    "items": [
+      "过量运动",
+      "推荐强度",
+      "低血糖风险高、伤血管",
+      "每周五天、每次半小时"
+    ],
+    "atoms_text": "中等强度 什么是中等强度 就是 哎 稍微运动有点费力 但是呢 还能跟人说话 这个程度 刚刚好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4412,
+    "seg_id": "S4-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "hero_text",
+    "items": [
+      "只做有氧运动还不够"
+    ],
+    "atoms_text": "第三个坑 只做有氧运动 不做力量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4413,
+    "seg_id": "S4-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "myth_buster",
+    "items": [
+      "走路跑步就够了",
+      "有氧加力量训练效果才完整"
+    ],
+    "atoms_text": "大部分糖友来说 一运动呢 哎 就是走路跑步 这当然呢 是有用 但是只做有氧 还不够",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4414,
+    "seg_id": "S4-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "hero_text",
+    "items": [
+      "肌肉越多，血糖消耗越持续"
+    ],
+    "atoms_text": "为什么呢 这个我们的肌肉啊 才是消耗血糖的大户 你肌肉越多呀 平时不运动的时候 这个血糖呀 更容易被消耗",
+    "needs_animation": true,
+    "label": "骨骼肌在静息状态下持续摄取消耗血糖"
+  },
+  {
+    "global_index": 4415,
+    "seg_id": "S4-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "step_arrow",
+    "items": [
+      "加入力量训练",
+      "肌肉量增加",
+      "静息状态血糖也更易消耗"
+    ],
+    "atoms_text": "有氧运动啊 增肌不行 你得加上力量训练",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4416,
+    "seg_id": "S4-L5",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "list_fade",
+    "items": [
+      "深蹲",
+      "俯卧撑",
+      "弹力带训练"
+    ],
+    "atoms_text": "那在家的时候 哎 做做深蹲 俯卧撑 弹力带",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4417,
+    "seg_id": "S4-L6",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑三：只做有氧不练力量",
+    "template": "split_column",
+    "items": [
+      "有氧运动",
+      "力量训练"
+    ],
+    "atoms_text": "有氧加上力量 那就是 就像吃肉再配菜 是不是",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4418,
+    "seg_id": "S5-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "hero_text",
+    "items": [
+      "血糖极高时硬练很危险"
+    ],
+    "atoms_text": "第四个坑 血糖特别高的时候 硬练",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4419,
+    "seg_id": "S5-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "myth_buster",
+    "items": [
+      "血糖十六七了，赶紧运动降下来",
+      "血糖过高时运动反而更危险"
+    ],
+    "atoms_text": "有人呢 一看血糖 哇 十六七了 我的天 太高了 我赶紧运动运动 让它下来 听着合理啊 其实危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4420,
+    "seg_id": "S5-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "step_arrow",
+    "items": [
+      "血糖超过14，胰岛素严重不足",
+      "身体无法利用血糖，开始分解脂肪",
+      "酮体堆积，引发酮症酸中毒"
+    ],
+    "atoms_text": "那血糖就是超过十四的时候呢 说明你体内 这个胰岛素 已经严重的不够用了 身体没有办法正常的利用血糖 就会去分解脂肪",
+    "needs_animation": true,
+    "label": "胰岛素严重不足时身体从利用血糖转向分解脂肪"
+  },
+  {
+    "global_index": 4421,
+    "seg_id": "S5-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "warning_alert",
+    "items": [
+      "酮症酸中毒同样危及生命"
+    ],
+    "atoms_text": "那脂肪分解呢 就会产生酮体 那堆多了 就容易酮症酸中毒 也是要命的",
+    "needs_animation": true,
+    "label": "脂肪分解产生酮体堆积引发酮症酸中毒"
+  },
+  {
+    "global_index": 4422,
+    "seg_id": "S5-L5",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "坑四：血糖极高时硬练",
+    "template": "number_center",
+    "items": [
+      "14"
+    ],
+    "atoms_text": "所以啊 这个血糖特别高的时候 你要先用药物 让它降下来 不要靠运动硬压啊 一般来说 血糖超过十四 先别动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4423,
+    "seg_id": "S6-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "方法对了，每天半小时胜过猛练三天"
+    ],
+    "atoms_text": "运动这个事儿 咱不怕慢 就怕错 方法对了 每天半小时 坚持下去 比你一时冲动 猛练三天呢 都有效 记住了吗",
+    "needs_animation": false,
+    "label": ""
+  }
+]

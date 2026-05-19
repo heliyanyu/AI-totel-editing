@@ -1,0 +1,569 @@
+[
+  {
+    "global_index": 1400,
+    "seg_id": "S4-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "服用时间比较",
+    "template": "hero_text",
+    "items": [
+      "每天固定一个时间吃就行"
+    ],
+    "atoms_text": "但实际上 阿托伐他汀和瑞舒伐他汀 都是长效药 跟吃饭时间没关系",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1401,
+    "seg_id": "S4-L4",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "服用时间比较",
+    "template": "hero_text",
+    "items": [
+      "早晚饭前饭后均可服用"
+    ],
+    "atoms_text": "所以早上或者晚上 吃饭前饭后吃都可以 只要每天固定一个时间吃就行",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1402,
+    "seg_id": "S5-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肌肉疼痛风险比较",
+    "template": "hero_text",
+    "items": [
+      "第三点：肌肉疼痛风险"
+    ],
+    "atoms_text": "第三 肌肉疼痛风险比较",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1403,
+    "seg_id": "S5-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肌肉疼痛风险比较",
+    "template": "list_fade",
+    "items": [
+      "肌肉酸痛无力",
+      "肌酶升高风险"
+    ],
+    "atoms_text": "他们都能引起 肌肉酸痛无力 甚至肌酶升高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1404,
+    "seg_id": "S5-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肌肉疼痛风险比较",
+    "template": "split_column",
+    "items": [
+      "肌肉风险相对更低",
+      "肌肉风险略微偏高",
+      "对肌肉更友好",
+      "风险稍高需留意"
+    ],
+    "atoms_text": "相对来说 瑞舒伐他汀肌肉风险 略微高那么一点点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1405,
+    "seg_id": "S5-L4",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肌肉疼痛风险比较",
+    "template": "branch_path",
+    "items": [
+      "本身有肌肉问题或怕疼痛",
+      "选阿托伐他汀更友好",
+      "无肌肉问题可选瑞舒伐他汀"
+    ],
+    "atoms_text": "所以如果你本身就有肌肉的问题 或者特别怕肌肉疼痛 阿托伐他汀可能更友好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1406,
+    "seg_id": "S6-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肝肾功能影响比较",
+    "template": "hero_text",
+    "items": [
+      "第四点：肝肾功能怎么选"
+    ],
+    "atoms_text": "第四 肝肾功能不好时怎么选择 这是关键问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1407,
+    "seg_id": "S6-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肝肾功能影响比较",
+    "template": "split_column",
+    "items": [
+      "主要经肝脏代谢",
+      "肝肾双通道代谢",
+      "经胆汁排出",
+      "部分经肾脏排出"
+    ],
+    "atoms_text": "阿托伐他汀 主要经过肝脏代谢 经胆汁排出 肝脏不好的人得小心",
+    "needs_animation": true,
+    "label": "阿托伐他汀经肝脏代谢、经胆汁排出的过程"
+  },
+  {
+    "global_index": 1408,
+    "seg_id": "S6-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肝肾功能影响比较",
+    "template": "hero_text",
+    "items": [
+      "肝功能轻度异常选瑞舒伐他汀"
+    ],
+    "atoms_text": "瑞舒伐他汀是肝肾双通道 一部分经肝 一部分从肾脏排出去",
+    "needs_animation": true,
+    "label": "瑞舒伐他汀经肝肾双通道分别排出的过程"
+  },
+  {
+    "global_index": 1409,
+    "seg_id": "S6-L4",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肝肾功能影响比较",
+    "template": "hero_text",
+    "items": [
+      "肾功能不好选阿托伐他汀"
+    ],
+    "atoms_text": "所以肝功能轻度异常的人 瑞舒伐他汀相对更友好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1410,
+    "seg_id": "S6-L5",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肝肾功能影响比较",
+    "template": "split_column",
+    "items": [
+      "肾功能不好更安全",
+      "肝功能轻度异常更友好",
+      "首选阿托伐他汀",
+      "首选瑞舒伐他汀"
+    ],
+    "atoms_text": "反过来说 肾功能不好的人 选择阿托伐他汀更安全",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1411,
+    "seg_id": "S6-L6",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肝肾功能影响比较",
+    "template": "warning_alert",
+    "items": [
+      "严重肝功能异常两种药均禁用"
+    ],
+    "atoms_text": "但请一定记住 严重的肝功能异常 这两种药都不能用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1412,
+    "seg_id": "S7-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "药物食物相互作用比较",
+    "template": "hero_text",
+    "items": [
+      "第五点：药物与食物相互作用"
+    ],
+    "atoms_text": "第五 其他药物或者食物的影响比较",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1413,
+    "seg_id": "S7-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "药物食物相互作用比较",
+    "template": "list_fade",
+    "items": [
+      "红霉素克拉霉素同服风险",
+      "环孢素免疫制剂影响药效",
+      "西柚可改变毒副作用"
+    ],
+    "atoms_text": "阿托伐他汀 主要经过肝脏一种特殊的酶代谢 它跟红霉素 克拉霉素 环孢素 甚至西柚 一起吃容易出问题 药效和毒副作用都会改变",
+    "needs_animation": true,
+    "label": "阿托伐他汀经肝脏特殊酶代谢时与红霉素等药物及西柚发生相互作用"
+  },
+  {
+    "global_index": 1414,
+    "seg_id": "S7-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "药物食物相互作用比较",
+    "template": "split_column",
+    "items": [
+      "药物食物相互作用多",
+      "相互作用少更安全",
+      "需避开西柚等食物",
+      "极少经CYP3A4代谢"
+    ],
+    "atoms_text": "而瑞舒伐他汀 很少经过这个酶代谢 跟其他药食物相互作用少",
+    "needs_animation": true,
+    "label": "瑞舒伐他汀很少经过该酶代谢从而减少药物相互作用"
+  },
+  {
+    "global_index": 1415,
+    "seg_id": "S7-L4",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "药物食物相互作用比较",
+    "template": "branch_path",
+    "items": [
+      "同时服用多种药物",
+      "优先选择瑞舒伐他汀",
+      "阿托伐他汀需警惕相互作用"
+    ],
+    "atoms_text": "所以如果你同时在吃多种药 比如抗生素 抗真菌药 免疫制剂 优先选择瑞舒伐他汀会更安全",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1416,
+    "seg_id": "S8-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "综合选药建议",
+    "template": "hero_text",
+    "items": [
+      "给你一个实在的选药建议"
+    ],
+    "atoms_text": "最后给你一个实在的建议",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1417,
+    "seg_id": "S8-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "综合选药建议",
+    "template": "hero_text",
+    "items": [
+      "肾功能不好优选瑞舒伐他汀"
+    ],
+    "atoms_text": "肾功能不太好 想降血脂效果明显的 选瑞舒伐他汀",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1418,
+    "seg_id": "S8-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "综合选药建议",
+    "template": "hero_text",
+    "items": [
+      "肝功能不好优选阿托伐他汀"
+    ],
+    "atoms_text": "肝功能不太好 选择阿托伐他汀",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1419,
+    "seg_id": "S8-L4",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "综合选药建议",
+    "template": "hero_text",
+    "items": [
+      "吃很多药优先选瑞舒伐他汀"
+    ],
+    "atoms_text": "如果你在吃很多药 就优先选择瑞舒伐他汀",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1420,
+    "seg_id": "S8-L5",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "综合选药建议",
+    "template": "hero_text",
+    "items": [
+      "肝肾正常无不适就继续吃"
+    ],
+    "atoms_text": "如果一直在吃阿托伐他汀 肝肾功能都正常 也没什么不舒服 那就继续吃",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1421,
+    "seg_id": "S8-L6",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "综合选药建议",
+    "template": "hero_text",
+    "items": [
+      "您记住了吗？"
+    ],
+    "atoms_text": "您记住了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1422,
+    "seg_id": "S1-L1",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "夜间血压暗藏杀机",
+    "template": "warning_alert",
+    "items": [
+      "白天正常，夜间突发脑出血",
+      "血压飙升至190，无任何预感"
+    ],
+    "atoms_text": "我在病房 见过太多 让人惋惜的事儿 有的人 白天血压 控制的好好的 一百三十多 挺稳的 结果半夜 突然脑出血 一查血压 都飙到一百九了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1423,
+    "seg_id": "S1-L2",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "夜间血压暗藏杀机",
+    "template": "myth_buster",
+    "items": [
+      "白天量了血压很正常",
+      "夜间血压可能悄然飙升"
+    ],
+    "atoms_text": "家属就不理解了 说白天量这 明明正常啊 怎么晚上 就出事儿了呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1424,
+    "seg_id": "S1-L3",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "夜间血压暗藏杀机",
+    "template": "hero_text",
+    "items": [
+      "夜间血压升高比白天更危险"
+    ],
+    "atoms_text": "其实呀 很多人不知道 夜间血压升高 可比白天的血压升高 更危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1425,
+    "seg_id": "S1-L4",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "夜间血压暗藏杀机",
+    "template": "split_column",
+    "items": [
+      "白天不适能感知",
+      "夜间无感知，出事即大事",
+      "清醒时可自我察觉",
+      "熟睡中血压悄悄飙升"
+    ],
+    "atoms_text": "白天您醒着 哪不舒服 都能感觉到 但晚上睡着了 血压悄悄往上窜 您是一点感觉都不会有的 等出事儿了 往往就是大事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1426,
+    "seg_id": "S1-L5",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "夜间血压暗藏杀机",
+    "template": "hero_text",
+    "items": [
+      "睡前这段时间，关乎夜间血压安危"
+    ],
+    "atoms_text": "所以呀 血压高的人 睡前这段时间 该怎么过 特别关键",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1427,
+    "seg_id": "S2-L1",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前用药怎么吃",
+    "template": "hero_text",
+    "items": [
+      "降压药的服用时间要理清楚"
+    ],
+    "atoms_text": "第一件 降压药的事儿 要理清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1428,
+    "seg_id": "S2-L2",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前用药怎么吃",
+    "template": "split_column",
+    "items": [
+      "全部集中早上服用",
+      "根据血压类型分时服药",
+      "后半夜药效耗尽无保护",
+      "药效覆盖后半夜和凌晨"
+    ],
+    "atoms_text": "很多人吃降压药 就是早上一把吞了 一整天再也不管了 这对大多数人来说 确实没问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1429,
+    "seg_id": "S2-L3",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前用药怎么吃",
+    "template": "branch_path",
+    "items": [
+      "是否属于夜间血压不降反升型",
+      "符合：与医生商量调整服药时间",
+      "不符合：维持原方案，无需调整"
+    ],
+    "atoms_text": "但有一部分人 是不行的 就是那种 白天血压还好 早上起来一量 特别高的 还有就是 做过二十四小时动态血压监测 发现夜间血压 不降反升的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1430,
+    "seg_id": "S2-L4",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前用药怎么吃",
+    "template": "step_arrow",
+    "items": [
+      "做24小时动态血压监测",
+      "让医生查看数据",
+      "调整为睡前服药或换长效药"
+    ],
+    "atoms_text": "那这两种人的降压药 全堆在早上吃 到了后半夜 药效基本就过了 血压就没人管了 那可不就容易出事儿吗",
+    "needs_animation": true,
+    "label": "降压药药效在后半夜逐渐衰减导致血压失去控制"
+  },
+  {
+    "global_index": 1431,
+    "seg_id": "S2-L5",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前用药怎么吃",
+    "template": "warning_alert",
+    "items": [
+      "切勿自行加药，夜间血压可能过低",
+      "脑供血不足同样危险，务必遵医嘱"
+    ],
+    "atoms_text": "所以如果您 属于这两种情况之一 一定要跟医生商量 看看是不是该 把其中的一种药 挪到睡前吃 或者换成长效的 让药效能完全覆盖到 后半夜和凌晨",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1432,
+    "seg_id": "S2-L6",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前用药怎么吃",
+    "template": "list_fade",
+    "items": [
+      "但千万不要自己调",
+      "因为有些人",
+      "夜间血压本来就会自然下降",
+      "再加一顿药",
+      "反而降得太低"
+    ],
+    "atoms_text": "但千万不要自己调 因为有些人 夜间血压本来就会自然下降 再加一顿药 反而降得太低 脑供血不足 一样危险 让医生看了 您的动态血压数据 再来决定怎么用药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1433,
+    "seg_id": "S3-L1",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前别让神经亢奋",
+    "template": "hero_text",
+    "items": [
+      "睡前别让自己太兴奋"
+    ],
+    "atoms_text": "第二件 睡前别让自己太兴奋",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1434,
+    "seg_id": "S3-L2",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前别让神经亢奋",
+    "template": "list_fade",
+    "items": [
+      "刷手机停不下来",
+      "看气愤内容忍不住评论",
+      "反复回想白天工作烦恼"
+    ],
+    "atoms_text": "多少人躺在床上刷手机 一刷刷的停不下来 或者看到气人的新闻 还要点进去 跟人吵两句 多少人睡前 还在想着白天工作上的事儿 越想越烦 越睡不着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1435,
+    "seg_id": "S3-L3",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前别让神经亢奋",
+    "template": "step_arrow",
+    "items": [
+      "紧张、愤怒情绪触发",
+      "交感神经兴奋，心率加快",
+      "血管收缩，血压迅速上升"
+    ],
+    "atoms_text": "您一紧张一生气 交感神经就兴奋 心率加快 血管收缩 血压噌的就上去了",
+    "needs_animation": true,
+    "label": "交感神经兴奋引起心率加快、血管收缩、血压升高的过程"
+  },
+  {
+    "global_index": 1436,
+    "seg_id": "S3-L4",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前别让神经亢奋",
+    "template": "split_column",
+    "items": [
+      "睡前安静放松",
+      "睡前兴奋亢奋",
+      "交感神经平稳，血压自然下降",
+      "交感神经持续激活，整夜血压偏高"
+    ],
+    "atoms_text": "本来睡着之后 交感神经活性该降下来 血压也就跟着降下来 但您要是睡前 把自己搞得特别亢奋 交感神经压根就降不下来 那您就会一整夜 血压都偏高",
+    "needs_animation": true,
+    "label": "睡眠时交感神经活性应下降使血压降低，亢奋状态阻止该过程导致整夜血压偏高"
+  },
+  {
+    "global_index": 1437,
+    "seg_id": "S3-L5",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "睡前别让神经亢奋",
+    "template": "list_fade",
+    "items": [
+      "放下手机，远离刺激内容",
+      "听听舒缓音乐",
+      "翻翻轻松闲书"
+    ],
+    "atoms_text": "所以睡前半小时 把手机放下 别看让您上火的东西 听听音乐 翻两页闲书 都行 让自己安静下来 这不是养生鸡汤 是实实在在的血压管理",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1438,
+    "seg_id": "S4-L1",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "晚饭与饮水的讲究",
+    "template": "hero_text",
+    "items": [
+      "晚饭别太饱太咸，睡前别猛灌水"
+    ],
+    "atoms_text": "那第三件 晚饭别吃太饱太咸 睡前别大量喝水",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1439,
+    "seg_id": "S4-L2",
+    "bp_title": "夜间血压管理：睡前三件事救命指南",
+    "scene_title": "晚饭与饮水的讲究",
+    "template": "list_fade",
+    "items": [
+      "晚饭比午饭还丰盛",
+      "红烧肉火锅猛吃",
+      "吃完直接瘫倒等睡觉"
+    ],
+    "atoms_text": "很多人晚饭吃的比午饭还丰盛 红烧肉火锅 一顿猛造 吃完肚子撑的不行 往沙发上一瘫 就等着睡觉",
+    "needs_animation": false,
+    "label": ""
+  }
+]

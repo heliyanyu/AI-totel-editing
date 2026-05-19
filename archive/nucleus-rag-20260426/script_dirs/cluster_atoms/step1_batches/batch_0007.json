@@ -1,0 +1,557 @@
+[
+  {
+    "global_index": 280,
+    "seg_id": "S4-L5",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "number_center",
+    "items": [
+      "≈"
+    ],
+    "atoms_text": "那大量的临床研究 已经证实 对于稳定型冠心病 没有急性发作 吃药能够控制住症状的 放支架 和不放支架比起来 心梗的死亡的风险 是差不多的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 281,
+    "seg_id": "S4-L6",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "myth_buster",
+    "items": [
+      "放了支架能降低心梗概率",
+      "支架可改善症状但不降低心梗概率"
+    ],
+    "atoms_text": "支架能改善症状 但不能降低 你以后心梗的概率",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 282,
+    "seg_id": "S4-L7",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "split_column",
+    "items": [
+      "坚持服用控心脑血管药物",
+      "依赖支架一劳永逸",
+      "日常自我管理生活方式",
+      "忽视血脂血压等危险因素"
+    ],
+    "atoms_text": "真正降低这一风险 是什么呢 是你坚持吃那些药 加上日常自我管理",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 283,
+    "seg_id": "S5-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "\"早放早安心\"逻辑错在哪",
+    "template": "myth_buster",
+    "items": [
+      "现在不放以后还是得放",
+      "斑块进展取决于血脂血压管理"
+    ],
+    "atoms_text": "所以那位大哥老婆说的 哎 现在不放 以后还得放 这个逻辑就是不对的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 284,
+    "seg_id": "S5-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "\"早放早安心\"逻辑错在哪",
+    "template": "step_arrow",
+    "items": [
+      "控好血脂血压+改善生活方式",
+      "斑块十年不明显进展",
+      "斑块甚至可能缩小"
+    ],
+    "atoms_text": "斑块会不会继续长 取决于 血脂血压 控制的好不好 生活方式 改不改 管好了 斑块可能十年啊 都不会明显的进展 甚至可以缩小",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 285,
+    "seg_id": "S5-L3",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "\"早放早安心\"逻辑错在哪",
+    "template": "warning_alert",
+    "items": [
+      "其他部位照样长新斑块，放不过来"
+    ],
+    "atoms_text": "不管这些啊 光放支架 其他地方 照样长新的斑块 到时候 放得过来吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 286,
+    "seg_id": "S5-L4",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "\"早放早安心\"逻辑错在哪",
+    "template": "hero_text",
+    "items": [
+      "动脉粥样硬化是全身病，支架只解决一个点"
+    ],
+    "atoms_text": "动脉粥样硬化 是全身性的疾病 不是某一个点的问题 支架只能解决 一个点的问题 药物和生活方式 才能保护所有的血管",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 287,
+    "seg_id": "S6-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "hero_text",
+    "items": [
+      "不让血管继续堵，该怎么做？"
+    ],
+    "atoms_text": "那不想让血管继续堵下去 具体该怎么做呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 288,
+    "seg_id": "S6-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "step_arrow",
+    "items": [
+      "他汀：稳定斑块，防止破裂",
+      "阿司匹林：防血栓形成",
+      "降压药：减少血管壁冲击"
+    ],
+    "atoms_text": "药物这块啊 他汀是核心 它能够稳定住斑块 甚至让斑块缩小 相当于 给血管壁上的定时炸弹啊 加了一层保护壳",
+    "needs_animation": true,
+    "label": "他汀稳定斑块并促使斑块缩小"
+  },
+  {
+    "global_index": 289,
+    "seg_id": "S6-L3",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "warning_alert",
+    "items": [
+      "没症状就偷偷停药，风险极大"
+    ],
+    "atoms_text": "阿司匹林 是防血栓的 降压药啊 是减少对血管壁的冲击",
+    "needs_animation": true,
+    "label": "阿司匹林防止血栓形成与降压药减少血管壁冲击"
+  },
+  {
+    "global_index": 290,
+    "seg_id": "S6-L4",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "hero_text",
+    "items": [
+      "生活方式有四件事要注意"
+    ],
+    "atoms_text": "这三样 该吃就得吃 别觉得啊 没症状 就偷偷停掉了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 291,
+    "seg_id": "S6-L5",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "category_table",
+    "items": [
+      "低密度脂蛋白",
+      "已有斑块者控制到1.8以下",
+      "血压",
+      "控制在130mmHg以下"
+    ],
+    "atoms_text": "生活方式这块啊 有四件事要注意",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 292,
+    "seg_id": "S6-L6",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "list_fade",
+    "items": [
+      "烟草直接损伤血管内膜",
+      "使斑块变得不稳定",
+      "没有折中方案，必须戒"
+    ],
+    "atoms_text": "第一个就是 低密度脂蛋白 一定要盯住 它是斑块的原材料 已经有斑块的人啊 至少控制到一点八以下",
+    "needs_animation": true,
+    "label": "低密度脂蛋白作为原材料沉积形成斑块"
+  },
+  {
+    "global_index": 293,
+    "seg_id": "S6-L7",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "number_center",
+    "items": [
+      "3~5次/周"
+    ],
+    "atoms_text": "第二 血压控制在一百三十以下 血压越高 血管内膜越容易受损",
+    "needs_animation": true,
+    "label": "高血压冲击损伤血管内膜"
+  },
+  {
+    "global_index": 294,
+    "seg_id": "S6-L8",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "hero_text",
+    "items": [
+      "这些加在一起，对血管的保护比支架大得多"
+    ],
+    "atoms_text": "第三 戒烟 烟草直接损伤血管内膜 还让斑块变得不稳定 没有折中的方案",
+    "needs_animation": true,
+    "label": "烟草损伤血管内膜并使斑块变得不稳定"
+  },
+  {
+    "global_index": 295,
+    "seg_id": "S6-L9",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "list_fade",
+    "items": [
+      "不需要住院",
+      "不需要手术",
+      "有氧运动完全不花钱"
+    ],
+    "atoms_text": "第四 运动 每周三到五次 每次半个小时的有氧 能够改善血管的弹性 降低炎症的水平 是唯一 不花钱就能 全方位的保护血管的办法",
+    "needs_animation": true,
+    "label": "有氧运动改善血管弹性并降低炎症水平"
+  },
+  {
+    "global_index": 296,
+    "seg_id": "S6-L10",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "保护血管的具体方法",
+    "template": "hero_text",
+    "items": [
+      "药物+生活方式，才是全面保护血管的根本"
+    ],
+    "atoms_text": "这些是哪一件 都不需要住院 不需要手术 但加在一起 对血管的保护啊 比一个支架 大的多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 297,
+    "seg_id": "S7-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "该放时不犹豫",
+    "template": "split_column",
+    "items": [
+      "急性心肌梗死救命",
+      "无症状稳定型冠心病",
+      "必须立刻放，毫不犹豫",
+      "不必放，吃药管理即可"
+    ],
+    "atoms_text": "当然 该放支架的时候 绝对不要犹豫 急性心肌梗死 是为了救命的 严重症状的 是为了改善质量的 那我们这些话 是无需质疑的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 298,
+    "seg_id": "S7-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "该放时不犹豫",
+    "template": "hero_text",
+    "items": [
+      "没有症状，放支架不能一劳永逸"
+    ],
+    "atoms_text": "但像那位大哥 说啊 哎 这样没有症状 生活不受影响了 真不是 放一个支架 就能一劳永逸了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 299,
+    "seg_id": "S8-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "结尾回归案例",
+    "template": "hero_text",
+    "items": [
+      "吃药观察，复查稳定，家属终于想通"
+    ],
+    "atoms_text": "这个大哥 之前我就跟他说过 先吃药再观察 然后这次复查 一切稳定 他老婆终于想通了 说幸亏当时 没有冲动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 300,
+    "seg_id": "S8-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "结尾回归案例",
+    "template": "hero_text",
+    "items": [
+      "管住血管不靠支架靠自己"
+    ],
+    "atoms_text": "然后 管住血管这个事情 不靠支架 靠自己 药吃对了 生活方式管好了 你的血管啊 比你以为的 更能扛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 301,
+    "seg_id": "S1-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "他汀好药，但不是吃了就万事大吉"
+    ],
+    "atoms_text": "我之前 跟大家讲过 他汀啊 是个好药 该吃的人 一定要坚持吃",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 302,
+    "seg_id": "S1-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "开场点题",
+    "template": "warning_alert",
+    "items": [
+      "副作用找上门，血脂还是降不下来"
+    ],
+    "atoms_text": "但我在门诊里 发现一个问题 就是很多人 吃上他汀之后 就觉得万事大吉了 什么都不忌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 303,
+    "seg_id": "S1-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "开场点题",
+    "template": "split_column",
+    "items": [
+      "副作用找上门",
+      "吃药等于没吃"
+    ],
+    "atoms_text": "结果 要么副作用找上门 要么吃药等于没吃 血脂还是降不下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 304,
+    "seg_id": "S1-L4",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "信号要警惕，嘴巴要管住"
+    ],
+    "atoms_text": "所以啊 今天我要跟大家 好好聊一聊 吃他汀的人 身体出现哪种信号需要警惕 哪些东西需要管住嘴",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 305,
+    "seg_id": "S2-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "hero_text",
+    "items": [
+      "他汀最需关注：肌肉问题"
+    ],
+    "atoms_text": "先说身体的信号 他汀啊 最需要关注的副作用 就是肌肉的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 306,
+    "seg_id": "S2-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "body_annotate",
+    "items": [
+      "大腿肌肉酸痛无力",
+      "上臂大块肌肉不适",
+      "浑身没劲提不起精神"
+    ],
+    "atoms_text": "如果你吃他汀之后 觉得啊 哎 肌肉酸疼 浑身没劲 尤其是大腿和上臂 这些大块肌肉 那一定要留心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 307,
+    "seg_id": "S2-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "step_arrow",
+    "items": [
+      "他汀抑制胆固醇合成",
+      "影响肌肉细胞能量代谢",
+      "少数人肌肉出现抗议"
+    ],
+    "atoms_text": "为什么会这样呢 因为他汀啊 在降胆固醇的同时 可能会影响到 肌肉细胞的能量代谢 少数人的肌肉啊 就会抗议",
+    "needs_animation": true,
+    "label": "他汀影响肌肉细胞能量代谢导致肌肉损伤"
+  },
+  {
+    "global_index": 308,
+    "seg_id": "S2-L4",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "branch_path",
+    "items": [
+      "肌肉轻微酸痛",
+      "换类别或调剂量可解决",
+      "抽血查肌酶确认是否正常"
+    ],
+    "atoms_text": "大多数情况 这种酸痛啊 是轻微的 让医生帮你 换一种类别 或者调一下剂量 往往就能解决",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 309,
+    "seg_id": "S2-L5",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "number_center",
+    "items": [
+      "正常"
+    ],
+    "atoms_text": "不放心的话 可以抽血查一下 这个叫肌酶 如果肌酶正常 问题就不大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 310,
+    "seg_id": "S2-L6",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "warning_alert",
+    "items": [
+      "小便呈酱油色或深茶色",
+      "立刻停药，马上就医"
+    ],
+    "atoms_text": "但如果你痛的特别厉害 甚至发现 小便的颜色 变成酱油色 深茶色 那就必须马上停药去医院",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 311,
+    "seg_id": "S2-L7",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肌肉副作用信号",
+    "template": "hero_text",
+    "items": [
+      "横纹肌溶解概率低，但会要命"
+    ],
+    "atoms_text": "这可能是横纹肌溶解了 虽然概率很低很低 但一旦发生 是会要命的 千万别扛着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 312,
+    "seg_id": "S3-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肝脏信号判断",
+    "template": "hero_text",
+    "items": [
+      "肝脏信号，最容易被忽视"
+    ],
+    "atoms_text": "还有一个信号 是容易被忽视的 就是肝脏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 313,
+    "seg_id": "S3-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肝脏信号判断",
+    "template": "warning_alert",
+    "items": [
+      "转氨酶升高就自行停药，不可取"
+    ],
+    "atoms_text": "有的人吃他汀之后 复查转氨酶啊 发现升高了 就吓得赶紧 自己把药停了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 314,
+    "seg_id": "S3-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肝脏信号判断",
+    "template": "branch_path",
+    "items": [
+      "转氨酶升高",
+      "不超过三倍，继续吃定期复查",
+      "超过三倍，找医生评估调整方案"
+    ],
+    "atoms_text": "别急 如果只是稍微的高一点 不超过正常上限的三倍 一般说问题不大 可以继续吃 注意啊 定期复查就可以了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 315,
+    "seg_id": "S3-L4",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "肝脏信号判断",
+    "template": "number_center",
+    "items": [
+      "3倍"
+    ],
+    "atoms_text": "但如果超过了三倍 那确实需要 找医生好好的评估一下了 看看要不要调整方案",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 316,
+    "seg_id": "S4-L1",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之西柚",
+    "template": "list_fade",
+    "items": [
+      "吃他汀期间有几类食物需注意",
+      "第一类：西柚最关键"
+    ],
+    "atoms_text": "好 说完信号说饮食 吃他汀期间 有几类东西 一定要注意",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 317,
+    "seg_id": "S4-L2",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之西柚",
+    "template": "step_arrow",
+    "items": [
+      "西柚抑制CYP3A4酶",
+      "他汀在体内分解不掉",
+      "药物浓度堆积，肌肉损伤风险飙升"
+    ],
+    "atoms_text": "第一 西柚 这个啊是最关键 西柚里面有一种成分 它会抑制肝脏里面 一个叫做CYP3A4的酶",
+    "needs_animation": true,
+    "label": "西柚成分抑制肝脏CYP3A4酶"
+  },
+  {
+    "global_index": 318,
+    "seg_id": "S4-L3",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之西柚",
+    "template": "category_table",
+    "items": [
+      "阿托伐他汀",
+      "瑞舒伐他汀",
+      "辛伐他汀",
+      "匹伐他汀"
+    ],
+    "atoms_text": "这个酶啊 是专门负责分解 某些他汀的 你把它抑制住了 他汀在体内啊 就分解不掉了",
+    "needs_animation": true,
+    "label": "CYP3A4酶被抑制后无法分解他汀导致体内蓄积"
+  },
+  {
+    "global_index": 319,
+    "seg_id": "S4-L4",
+    "bp_title": "吃他汀要注意这些信号和禁忌",
+    "scene_title": "饮食禁忌之西柚",
+    "template": "warning_alert",
+    "items": [
+      "西柚及西柚汁，吃他汀期间一律避开"
+    ],
+    "atoms_text": "药物的浓度啊 都越堆越高 肌肉的损伤风险啊 就蹭蹭蹭往上走",
+    "needs_animation": true,
+    "label": "他汀药物浓度持续蓄积升高增加肌肉损伤风险"
+  }
+]

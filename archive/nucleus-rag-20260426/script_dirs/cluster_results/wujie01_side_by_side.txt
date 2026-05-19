@@ -1,0 +1,50 @@
+S2-L2 [心梗发病底层逻辑]
+  中文: 心脏是永不停歇的发动机 → 冠状动脉是专属供油管道
+  素材: The first branches off your aorta are the coronary arteries, which supply your heart muscle
+  文件: ANH12082_Heart Anatomy.mp4
+
+S2-L3 [心梗发病底层逻辑]
+  中文: 长期熬夜吸烟高脂饮食 → 管道内壁积累斑块变窄
+  素材: In this condition, a build-up of a fatty substance called plaque can narrow your coronary
+  文件: ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+
+S2-L4 [心梗发病底层逻辑]
+  中文: 情绪激动致斑块包膜破裂 → 血小板大量聚集形成血栓 → 血管被彻底堵死
+  素材: If this plaque ruptures, a blood clot can form and block the artery.
+  文件: ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+
+S2-L5 [心梗发病底层逻辑]
+  中文: 下游心肌细胞数十分钟内不可逆坏死
+  素材: The result is death of heart muscle cells in the affected area of the heart.
+  文件: AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+
+S3-L3 [错误一：乱动身体]
+  中文: 活动导致全身耗氧量剧增 → 心脏被迫加速跳动 → 心肌坏死面积迅速扩大
+  素材: When the blood supply is not able to keep up with the demand, the heart muscle cells don't
+  文件: AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+
+S3-L5 [错误一：乱动身体]
+  中文: 极易诱发致命心室颤动
+  素材: The most serious aridhmia is ventricular fibrillation, where many random impulses fire rapidly within
+  文件: ANH14135_Cardiac Arrhythmia.mp4
+
+S4-L3 [错误二：进食与乱用药]
+  中文: 胸痛就该立刻吃硝酸甘油 → 右室梗死时吃会导致血压崩盘 → 硝酸甘油是心绞痛的常备药 → 心梗类型不同用药需医生判断
+  素材: Cards such as nitroglycerin and morphine will relax your coronary arteries and relieve
+  文件: ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+
+S6-L2 [黄金步骤第一步：静]
+  中文: 立刻停止一切活动 → 就地平躺或半靠在床头 → 降低心脏耗氧保护心肌
+  素材: Stop if you feel chest pain or have shortness of breath.
+  文件: AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+
+S9-L1 [黄金步骤第四步：等]
+  中文: 保持情绪稳定安静等待 → 家人轻声安抚不要哭喊 → 肾上腺素飙升会收缩血管
+  素材: it stimulates the release of epinephrine, a hormone that raises your blood pressure.
+  文件: ANH12071_Health Effects of Smoking.mp4
+
+S9-L2 [黄金步骤第四步：等]
+  中文: 过度恐慌让血管进一步收缩
+  素材: or reduce the diameter to raise your blood pressure.
+  文件: ANH13100_High Blood Pressure (Hypertension).mp4
+

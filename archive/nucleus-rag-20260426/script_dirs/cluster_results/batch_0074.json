@@ -1,0 +1,513 @@
+[
+  {
+    "global_index": 2960,
+    "seg_id": "S1-L5",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "大脑需要蛋白质",
+    "template": "myth_buster",
+    "items": [
+      "补蛋白质很贵",
+      "优质蛋白其实很便宜"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2961,
+    "seg_id": "S1-L6",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "大脑需要蛋白质",
+    "template": "hero_text",
+    "items": [
+      "五种便宜又优质的高蛋白食物"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2962,
+    "seg_id": "S2-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第一宝：鸡蛋",
+    "template": "number_center",
+    "items": [
+      "几毛钱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2963,
+    "seg_id": "S2-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第一宝：鸡蛋",
+    "template": "myth_buster",
+    "items": [
+      "土鸡蛋富硒蛋才够营养",
+      "普通鸡蛋营养同样足够"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2964,
+    "seg_id": "S2-L3",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第一宝：鸡蛋",
+    "template": "list_fade",
+    "items": [
+      "首选水煮蛋",
+      "少油煎也可以",
+      "避免油炸方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2965,
+    "seg_id": "S3-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第二宝：豆腐豆干",
+    "template": "color_grid",
+    "items": [
+      "老豆腐蛋白含量更高",
+      "原味豆干是首选",
+      "植物蛋白便宜好买",
+      "避开加工调味豆干"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2966,
+    "seg_id": "S3-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第二宝：豆腐豆干",
+    "template": "list_fade",
+    "items": [
+      "清炒、炖汤、凉拌均可",
+      "少油炸，保留营养"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2967,
+    "seg_id": "S4-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第三宝：动物血",
+    "template": "color_grid",
+    "items": [
+      "鸭血、猪血价格实惠",
+      "富含蛋白质还能补铁",
+      "对贫血人群尤为友好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2968,
+    "seg_id": "S4-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第三宝：动物血",
+    "template": "list_fade",
+    "items": [
+      "鸭血粉丝汤，暖胃又营养",
+      "韭菜炒猪血，少油少盐"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2969,
+    "seg_id": "S5-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第四宝：去皮鸡肉",
+    "template": "list_fade",
+    "items": [
+      "鸡胸肉、鸡腿肉去皮食用",
+      "比其他肉类更划算"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2970,
+    "seg_id": "S5-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第四宝：去皮鸡肉",
+    "template": "number_center",
+    "items": [
+      "几块钱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2971,
+    "seg_id": "S5-L3",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第四宝：去皮鸡肉",
+    "template": "list_fade",
+    "items": [
+      "清蒸锁住营养",
+      "炖煮软烂易吸收",
+      "少油烤制也不错"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2972,
+    "seg_id": "S6-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第五宝：黄豆花生",
+    "template": "split_column",
+    "items": [
+      "黄豆：优质植物蛋白来源",
+      "可煮食也可打豆浆",
+      "花生：蛋白质也丰富",
+      "水煮最佳，避免油炸"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2973,
+    "seg_id": "S6-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第五宝：黄豆花生",
+    "template": "warning_alert",
+    "items": [
+      "花生油炸后脂肪大增，不推荐"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2974,
+    "seg_id": "S7-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "每天该吃多少蛋白质",
+    "template": "hero_text",
+    "items": [
+      "每天到底该吃多少蛋白质？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2975,
+    "seg_id": "S7-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "每天该吃多少蛋白质",
+    "template": "number_center",
+    "items": [
+      "0.8～1g"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2976,
+    "seg_id": "S7-L3",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "每天该吃多少蛋白质",
+    "template": "number_center",
+    "items": [
+      "1.0～1.2g"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2977,
+    "seg_id": "S7-L4",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "每天该吃多少蛋白质",
+    "template": "step_arrow",
+    "items": [
+      "体重70公斤",
+      "每天需约80克蛋白质"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2978,
+    "seg_id": "S7-L5",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "每天该吃多少蛋白质",
+    "template": "list_fade",
+    "items": [
+      "每天吃两个鸡蛋",
+      "搭配豆腐或瘦肉",
+      "再喝一杯无糖豆浆"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2979,
+    "seg_id": "S8-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "重点总结",
+    "template": "hero_text",
+    "items": [
+      "划重点，记住这四条"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2980,
+    "seg_id": "S8-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "重点总结",
+    "template": "list_fade",
+    "items": [
+      "补脑先补蛋白",
+      "长期不足加速认知下降"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2981,
+    "seg_id": "S8-L3",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "重点总结",
+    "template": "color_grid",
+    "items": [
+      "鸡蛋",
+      "豆腐豆干",
+      "动物血",
+      "去皮鸡肉 + 黄豆"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2982,
+    "seg_id": "S8-L4",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "重点总结",
+    "template": "number_center",
+    "items": [
+      "1～1.2g"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2983,
+    "seg_id": "S8-L5",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "重点总结",
+    "template": "myth_buster",
+    "items": [
+      "油炸腌制更香更下饭",
+      "蒸煮炖凉拌才是正确选择"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2984,
+    "seg_id": "S8-L6",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "重点总结",
+    "template": "hero_text",
+    "items": [
+      "认真对待每一口蛋白质，让大脑老得慢一点"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2985,
+    "seg_id": "S1-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "防癌八字诀，靠谱又管用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2986,
+    "seg_id": "S2-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烟——第一大风险",
+    "template": "color_grid",
+    "items": [
+      "一手烟直接吸入伤害最深",
+      "二手烟被动吸入同样致癌",
+      "三手烟残留衣物难以防范"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2987,
+    "seg_id": "S2-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烟——第一大风险",
+    "template": "hero_text",
+    "items": [
+      "公共场所受二手烟，勇敢维权是权利"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2988,
+    "seg_id": "S2-L3",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烟——第一大风险",
+    "template": "warning_alert",
+    "items": [
+      "爆炒时PM2.5浓度超过重度雾霾"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2989,
+    "seg_id": "S2-L4",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烟——第一大风险",
+    "template": "hero_text",
+    "items": [
+      "烹饪必开油烟机，长期吸入毁肺细胞"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2990,
+    "seg_id": "S3-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "霉——发霉食物致肝癌",
+    "template": "warning_alert",
+    "items": [
+      "发霉食物一律丢弃，心疼也要扔"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2991,
+    "seg_id": "S3-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "霉——发霉食物致肝癌",
+    "template": "myth_buster",
+    "items": [
+      "切掉霉斑部分就安全了",
+      "菌丝早已渗透果肉深处"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2992,
+    "seg_id": "S3-L3",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "霉——发霉食物致肝癌",
+    "template": "warning_alert",
+    "items": [
+      "吃一点霉变食物即增加肝癌风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2993,
+    "seg_id": "S3-L4",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "霉——发霉食物致肝癌",
+    "template": "hero_text",
+    "items": [
+      "扔了心疼一次，吃了后悔一辈子"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2994,
+    "seg_id": "S4-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "咸——控盐保心血管",
+    "template": "number_center",
+    "items": [
+      "5"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2995,
+    "seg_id": "S4-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "咸——控盐保心血管",
+    "template": "warning_alert",
+    "items": [
+      "酱油生抽含大量隐性盐",
+      "叠加摄入易超标增加心血管风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2996,
+    "seg_id": "S5-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烫——高温饮食伤食道",
+    "template": "warning_alert",
+    "items": [
+      "65°C以上食物再急也要等凉再吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2997,
+    "seg_id": "S5-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烫——高温饮食伤食道",
+    "template": "step_arrow",
+    "items": [
+      "65°C以上热饮属明确致癌物",
+      "反复烫伤口腔和食道黏膜",
+      "长期累积诱发食道癌"
+    ],
+    "needs_animation": true,
+    "label": "高温反复烫伤食道黏膜致癌过程"
+  },
+  {
+    "global_index": 2998,
+    "seg_id": "S5-L3",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烫——高温饮食伤食道",
+    "template": "hero_text",
+    "items": [
+      "凉一凉再吃，健康多一份保障"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2999,
+    "seg_id": "S6-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "熏——烧烤熏肉含强致癌物",
+    "template": "hero_text",
+    "items": [
+      "熏制食物再香，也要管住嘴"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

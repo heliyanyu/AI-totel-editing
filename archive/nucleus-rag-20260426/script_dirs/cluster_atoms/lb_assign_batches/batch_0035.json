@@ -1,0 +1,314 @@
+[
+  {
+    "file": "ANS00427_Aortic Valve Replacement (Abbreviated Version).mp4",
+    "title": "ANS00427 Aortic Valve Replacement (Abbreviated Version)",
+    "start_sec": 94.2,
+    "end_sec": 104.56,
+    "text_en": "Your surgeon will open the aorta to expose the aortic valve, make an incision around the edge of the damaged valve, and remove it.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANS00427_Aortic Valve Replacement (Abbreviated Version).mp4",
+    "title": "ANS00427 Aortic Valve Replacement (Abbreviated Version)",
+    "start_sec": 104.56,
+    "end_sec": 113.04,
+    "text_en": "Your surgeon will then carefully sew the replacement valve into place and close the aorta with stitches.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANS00427_Aortic Valve Replacement (Abbreviated Version).mp4",
+    "title": "ANS00427 Aortic Valve Replacement (Abbreviated Version)",
+    "start_sec": 113.04,
+    "end_sec": 120.96,
+    "text_en": "At this point, blood will again be allowed to flow into your heart to check the function of the new valve.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANS00427_Aortic Valve Replacement (Abbreviated Version).mp4",
+    "title": "ANS00427 Aortic Valve Replacement (Abbreviated Version)",
+    "start_sec": 120.96,
+    "end_sec": 126.12,
+    "text_en": "If needed, an electric shock will be given to restart the heart.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANS00427_Aortic Valve Replacement (Abbreviated Version).mp4",
+    "title": "ANS00427 Aortic Valve Replacement (Abbreviated Version)",
+    "start_sec": 126.12,
+    "end_sec": 131.76,
+    "text_en": "Once your heart is beating on its own, it will be detached from the heart lung machine.",
+    "category_ids": [
+      127,
+      126
+    ]
+  },
+  {
+    "file": "ANS00427_Aortic Valve Replacement (Abbreviated Version).mp4",
+    "title": "ANS00427 Aortic Valve Replacement (Abbreviated Version)",
+    "start_sec": 131.76,
+    "end_sec": 143.16,
+    "text_en": "Generally, temporary pacemaker wires will be placed on the surface of the heart to ensure the heart maintains a normal rhythm during recovery.",
+    "category_ids": [
+      20,
+      34
+    ]
+  },
+  {
+    "file": "ANS00427_Aortic Valve Replacement (Abbreviated Version).mp4",
+    "title": "ANS00427 Aortic Valve Replacement (Abbreviated Version)",
+    "start_sec": 143.16,
+    "end_sec": 162.2,
+    "text_en": "After surgery, you'll be taken to the intensive care unit, where your vital functions will be monitored. You will still have a breathing tube in your throat, which will prevent you from talking. Several tubes will be in place to drain blood and fluid from your incision, and your bladder catheter will still be draining your urine.",
+    "category_ids": [
+      127
+    ]
+  },
+  {
+    "file": "ANS00431_Carotid Arteries.mp4",
+    "title": "ANS00431 Carotid Arteries",
+    "start_sec": 0.0,
+    "end_sec": 9.24,
+    "text_en": "In your neck are two major blood vessels called the carotid arteries, which carry oxygen-rich blood from your heart to your brain.",
+    "category_ids": [
+      142,
+      46
+    ]
+  },
+  {
+    "file": "ANS00431_Carotid Arteries.mp4",
+    "title": "ANS00431 Carotid Arteries",
+    "start_sec": 9.24,
+    "end_sec": 12.38,
+    "text_en": "You can feel the pulse of the carotid artery in the side of your neck.",
+    "category_ids": [
+      142
+    ]
+  },
+  {
+    "file": "ANS00432_Carotid Artery Disease.mp4",
+    "title": "ANS00432 Carotid Artery Disease",
+    "start_sec": 0.0,
+    "end_sec": 14.22,
+    "text_en": "In your neck are two major blood vessels called the carotid arteries, which carry oxygen-rich blood from your heart to your brain. You can feel the pulse of the carotid artery in the side of your neck.",
+    "category_ids": [
+      142,
+      46
+    ]
+  },
+  {
+    "file": "ANS00432_Carotid Artery Disease.mp4",
+    "title": "ANS00432 Carotid Artery Disease",
+    "start_sec": 14.22,
+    "end_sec": 30.2,
+    "text_en": "Fatty deposits called atherosclerotic plaques can build up inside the carotid artery. These plaques can narrow the passageway of the artery and interfere with blood flow to the brain. This blockage or narrowing is called a stenosis.",
+    "category_ids": [
+      1,
+      108
+    ]
+  },
+  {
+    "file": "ANS00432_Carotid Artery Disease.mp4",
+    "title": "ANS00432 Carotid Artery Disease",
+    "start_sec": 30.2,
+    "end_sec": 38.56,
+    "text_en": "If blood flow to the brain is blocked temporarily, a transient ischemic attack, also known as a TIA, may occur.",
+    "category_ids": [
+      4
+    ]
+  },
+  {
+    "file": "ANS00432_Carotid Artery Disease.mp4",
+    "title": "ANS00432 Carotid Artery Disease",
+    "start_sec": 38.56,
+    "end_sec": 43.6,
+    "text_en": "When the blood flow is completely obstructed, as in a carotid artery blockage, a stroke",
+    "category_ids": [
+      4
+    ]
+  },
+  {
+    "file": "ANS00433_DVT (Abbreviated Version).mp4",
+    "title": "ANS00433 DVT (Abbreviated Version)",
+    "start_sec": 0.0,
+    "end_sec": 17.2,
+    "text_en": "If you are a mobile for an extended period of time because of surgery, pregnancy, illness, or travel, you may be at risk for deep vein thrombosis or DVT. A condition where a blood clot forms in a deep vein in the body, typically the leg.",
+    "category_ids": [
+      18,
+      31
+    ]
+  },
+  {
+    "file": "ANS00433_DVT (Abbreviated Version).mp4",
+    "title": "ANS00433 DVT (Abbreviated Version)",
+    "start_sec": 17.2,
+    "end_sec": 31.24,
+    "text_en": "Unlike arteries which rely on the heart to force blood through them, veins transport blood with the help of muscle contractions while you move and walk. Things also have valves that keep blood from flowing backward and pooling in your arms",
+    "category_ids": [
+      18
+    ]
+  },
+  {
+    "file": "ANS00433_DVT (Abbreviated Version).mp4",
+    "title": "ANS00433 DVT (Abbreviated Version)",
+    "start_sec": 32.92,
+    "end_sec": 57.6,
+    "text_en": "When you are a mobile for an extended period, your venous circulation slows down. As a result, clotting factors in the blood may cause the slow moving blood to clump together, forming a blood clot or thrombus. This condition is called deep vein thrombosis or DVT.",
+    "category_ids": [
+      18,
+      31
+    ]
+  },
+  {
+    "file": "ANS00433_DVT (Abbreviated Version).mp4",
+    "title": "ANS00433 DVT (Abbreviated Version)",
+    "start_sec": 57.6,
+    "end_sec": 70.08,
+    "text_en": "Common symptoms of DVT include swelling of the leg or a vein in the leg, pain or tenderness in the area, increased warmth in the skin, and red or discolored skin.",
+    "category_ids": [
+      18
+    ]
+  },
+  {
+    "file": "ANS00434_Pulmonary Embolism Caused by DVT.mp4",
+    "title": "ANS00434 Pulmonary Embolism Caused by DVT",
+    "start_sec": 0.0,
+    "end_sec": 25.72,
+    "text_en": "In some DVT cases, a blood clot may detach from a deep vein and join the bloodstream. The clot travels from the deep veins of the leg through the veins of the abdomen, into the heart, and finally lodges in the pulmonary artery or its branches, blocking blood flow to the lungs.",
+    "category_ids": [
+      18
+    ]
+  },
+  {
+    "file": "ANS00434_Pulmonary Embolism Caused by DVT.mp4",
+    "title": "ANS00434 Pulmonary Embolism Caused by DVT",
+    "start_sec": 25.72,
+    "end_sec": 42.64,
+    "text_en": "This condition, called pulmonary embolism, is very serious and may permanently damage a portion of the lung. If a clot is large or if there are many clots, pulmonary embolism may also cause death.",
+    "category_ids": [
+      18
+    ]
+  },
+  {
+    "file": "ANS00434_Pulmonary Embolism Caused by DVT.mp4",
+    "title": "ANS00434 Pulmonary Embolism Caused by DVT",
+    "start_sec": 42.64,
+    "end_sec": 62.72,
+    "text_en": "If you experience symptoms of PE, please tell your doctor or nurse immediately. These symptoms may include, shortness of breath, a sudden sharp pain in the chest, a feeling of lightheadedness or dizziness, rapid or irregular heartbeat, or coughing that produces",
+    "category_ids": [
+      18
+    ]
+  },
+  {
+    "file": "ANS11476_Atrial Fibrillation (Abbreviated Version).mp4",
+    "title": "ANS11476 Atrial Fibrillation (Abbreviated Version)",
+    "start_sec": 0.0,
+    "end_sec": 10.26,
+    "text_en": "Atrial fibrillation is a type of arrhythmia, which is an abnormality in the pace or force of your heartbeat.",
+    "category_ids": [
+      20,
+      120
+    ]
+  },
+  {
+    "file": "ANS11476_Atrial Fibrillation (Abbreviated Version).mp4",
+    "title": "ANS11476 Atrial Fibrillation (Abbreviated Version)",
+    "start_sec": 10.26,
+    "end_sec": 19.98,
+    "text_en": "If you have atrial fibrillation, the heart's upper chambers contract in a fast, twitchy fashion, resulting in an irregular, uncoordinated heartbeat.",
+    "category_ids": [
+      20,
+      120
+    ]
+  },
+  {
+    "file": "ANS11477_Four Heart Chambers.mp4",
+    "title": "ANS11477 Four Heart Chambers",
+    "start_sec": 0.0,
+    "end_sec": 12.0,
+    "text_en": "Your heart is a muscular organ made up of four chambers, the right and left atria, and the right and left ventricles.",
+    "category_ids": [
+      46
+    ]
+  },
+  {
+    "file": "ANS11477_Four Heart Chambers.mp4",
+    "title": "ANS11477 Four Heart Chambers",
+    "start_sec": 12.0,
+    "end_sec": 26.0,
+    "text_en": "During a normal heartbeat, the chambers of your heart contract and relax in a rhythmic pattern to deliver a consistent flow of blood throughout your body.",
+    "category_ids": [
+      46,
+      126
+    ]
+  },
+  {
+    "file": "ANS11477_Four Heart Chambers.mp4",
+    "title": "ANS11477 Four Heart Chambers",
+    "start_sec": 26.0,
+    "end_sec": 40.0,
+    "text_en": "The right atrium collects blood from the body, and the right ventricle pumps it to the lungs, which bring oxygen to and remove carbon dioxide from the blood.",
+    "category_ids": [
+      46,
+      126
+    ]
+  },
+  {
+    "file": "ANS11477_Four Heart Chambers.mp4",
+    "title": "ANS11477 Four Heart Chambers",
+    "start_sec": 40.0,
+    "end_sec": 55.0,
+    "text_en": "At the same time, the left atrium receives blood from the lungs, and the left ventricle pumps it out to supply your body's tissues with oxygen and nutrients.\n\n---\n\n**切分依据（4 blocks）：**\n\n| Block | 画面动作 | 内容 |\n|-------|---------|------|\n| 1 | 心脏结构展示 | 介绍心脏四腔结构（右/左心房、右/左心室） |\n| 2 | 心跳节律动画 | 心腔收缩-舒张的整体泵血机制 |\n| 3 | 右心血流路径 | 右心房收集体循环血→右心室泵向肺→气体交换 |\n| 4 | 左心血流路径 | 左心房接收肺血→左心室泵向全身→供氧供能 |\n\n> Block 3 与 4 虽然文本说 \"At the same time\"，但画面上右心通路和左心通路通常分步演示，故拆为两个 block。",
+    "category_ids": [
+      46,
+      126
+    ]
+  },
+  {
+    "file": "ANW10009_Echocardiogram.mp4",
+    "title": "ANW10009 Echocardiogram",
+    "start_sec": 0.0,
+    "end_sec": 16.0,
+    "text_en": "An echocardiogram is a common test using sound waves to map out the shape and size of your heart, thus allowing your doctor to see how well your heart pumps blood and look for abnormalities of the heart valves and chambers.",
+    "category_ids": [
+      52
+    ]
+  },
+  {
+    "file": "ANW10009_Echocardiogram.mp4",
+    "title": "ANW10009 Echocardiogram",
+    "start_sec": 20.0,
+    "end_sec": 33.0,
+    "text_en": "In a trans thoracic echocardiogram, your synographer will put a cool gel on your chest. Your synographer will move a transducer firmly through the gel, sending painless sound waves to your heart.",
+    "category_ids": [
+      52
+    ]
+  },
+  {
+    "file": "ANW10009_Echocardiogram.mp4",
+    "title": "ANW10009 Echocardiogram",
+    "start_sec": 34.0,
+    "end_sec": 45.0,
+    "text_en": "The sound waves bounce off your heart and echo back to the transducer. The sound waves are converted to moving images of your heart muscles, chambers, and valves on a video screen.",
+    "category_ids": [
+      52
+    ]
+  },
+  {
+    "file": "ANW10009_Echocardiogram.mp4",
+    "title": "ANW10009 Echocardiogram",
+    "start_sec": 46.0,
+    "end_sec": 59.0,
+    "text_en": "A Doppler echocardiogram records echoes from blood cells. The speed and direction of the blood flow indicate how well blood gets around inside your heart.",
+    "category_ids": [
+      52
+    ]
+  }
+]

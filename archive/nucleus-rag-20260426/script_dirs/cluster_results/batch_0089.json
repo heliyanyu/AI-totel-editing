@@ -1,0 +1,508 @@
+[
+  {
+    "global_index": 3560,
+    "seg_id": "S7-L3",
+    "bp_title": "冠脉CTA与造影怎么选？一次讲清楚",
+    "scene_title": "结尾行动召唤",
+    "template": "hero_text",
+    "items": [
+      "选对检查省钱安心早查早治"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3561,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "心脏造影危险吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3562,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "本视频帮你看清造影真相"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3563,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "用数据讲清造影风险",
+      "四招让造影更安全",
+      "看完不再瞎担心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3564,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "核心结论先行",
+    "template": "hero_text",
+    "items": [
+      "先给你最关键的结论"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3565,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "核心结论先行",
+    "template": "hero_text",
+    "items": [
+      "冠脉造影是成熟安全的微创检查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3566,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "核心结论先行",
+    "template": "number_center",
+    "items": [
+      "极低"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3567,
+    "seg_id": "S2-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "核心结论先行",
+    "template": "list_fade",
+    "items": [
+      "临床应用已有几十年",
+      "操作流程规范成熟"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3568,
+    "seg_id": "S2-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "核心结论先行",
+    "template": "hero_text",
+    "items": [
+      "正规三甲医院+有经验医生=高安全性"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3569,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "揭开造影真面目",
+    "template": "myth_buster",
+    "items": [
+      "造影是大手术",
+      "只是微创检查，伤口针眼大小"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3570,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "揭开造影真面目",
+    "template": "list_fade",
+    "items": [
+      "不用开刀",
+      "不用全麻",
+      "不用开胸",
+      "全程清醒可与医生交流"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3571,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "揭开造影真面目",
+    "template": "hero_text",
+    "items": [
+      "全程微创，伤口仅有针眼大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3572,
+    "seg_id": "S3-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "揭开造影真面目",
+    "template": "split_column",
+    "items": [
+      "血管顺直",
+      "几分钟完成",
+      "血管弯曲复杂",
+      "十几到二十分钟"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3573,
+    "seg_id": "S3-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "揭开造影真面目",
+    "template": "hero_text",
+    "items": [
+      "造影时间极短，没想象中漫长"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3574,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "逐项解析风险",
+    "template": "hero_text",
+    "items": [
+      "接下来逐项用数据讲清每个风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3575,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险一：过敏反应",
+    "template": "hero_text",
+    "items": [
+      "风险一：造影剂过敏反应"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3576,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险一：过敏反应",
+    "template": "myth_buster",
+    "items": [
+      "担心打造影剂会严重过敏",
+      "现代非离子型造影剂非常安全"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3577,
+    "seg_id": "S5-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险一：过敏反应",
+    "template": "number_center",
+    "items": [
+      "<0.1%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3578,
+    "seg_id": "S5-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险一：过敏反应",
+    "template": "list_fade",
+    "items": [
+      "医生提前预防轻微过敏反应",
+      "全程实时观察监测状态"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3579,
+    "seg_id": "S5-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险一：过敏反应",
+    "template": "hero_text",
+    "items": [
+      "一有问题马上处理，几乎不会有危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3580,
+    "seg_id": "S5-L6",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险一：过敏反应",
+    "template": "hero_text",
+    "items": [
+      "过敏风险极低，无需过度担忧"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3581,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "hero_text",
+    "items": [
+      "风险二：造影剂会伤肾吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3582,
+    "seg_id": "S6-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "myth_buster",
+    "items": [
+      "造影剂会损伤肾脏",
+      "肾功能正常者完全不用担心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3583,
+    "seg_id": "S6-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "step_arrow",
+    "items": [
+      "造影剂进入体内",
+      "24~48小时经尿液排出",
+      "术后多喝水加速排出",
+      "肾脏毫发无损"
+    ],
+    "needs_animation": true,
+    "label": "造影剂经肾脏代谢排出过程"
+  },
+  {
+    "global_index": 3584,
+    "seg_id": "S6-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "branch_path",
+    "items": [
+      "肾功能是否正常？",
+      "正常人群无需担心伤肾",
+      "严重肾衰／尿毒症需特别谨慎"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3585,
+    "seg_id": "S6-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "list_fade",
+    "items": [
+      "医生提前做水化保护",
+      "风险可降至最低"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3586,
+    "seg_id": "S6-L6",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "hero_text",
+    "items": [
+      "正常人做造影，肾脏一点事没有"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3587,
+    "seg_id": "S6-L7",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险二：造影剂伤肾",
+    "template": "hero_text",
+    "items": [
+      "多喝水多排尿，无需担心伤肾"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3588,
+    "seg_id": "S7-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险三：出血与血管损伤",
+    "template": "hero_text",
+    "items": [
+      "风险三：出血血肿血管损伤"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3589,
+    "seg_id": "S7-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险三：出血与血管损伤",
+    "template": "myth_buster",
+    "items": [
+      "担心扎破血管大出血",
+      "手腕穿刺创伤极小，压迫即可止血"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3590,
+    "seg_id": "S7-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险三：出血与血管损伤",
+    "template": "list_fade",
+    "items": [
+      "绝大多数选手腕桡动脉穿刺",
+      "术后压迫止血即可",
+      "严重出血血肿概率不到1%"
+    ],
+    "needs_animation": true,
+    "label": "经桡动脉穿刺操作过程"
+  },
+  {
+    "global_index": 3591,
+    "seg_id": "S7-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险三：出血与血管损伤",
+    "template": "hero_text",
+    "items": [
+      "轻微淤青几天自行消退，无影响"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3592,
+    "seg_id": "S7-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险三：出血与血管损伤",
+    "template": "number_center",
+    "items": [
+      "<1%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3593,
+    "seg_id": "S7-L6",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险三：出血与血管损伤",
+    "template": "hero_text",
+    "items": [
+      "手腕穿刺创伤极小，安全可靠"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3594,
+    "seg_id": "S8-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险四：心律失常",
+    "template": "hero_text",
+    "items": [
+      "风险四：心律失常与心肌损伤"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3595,
+    "seg_id": "S8-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险四：心律失常",
+    "template": "list_fade",
+    "items": [
+      "短暂心慌早搏属正常反应",
+      "医生随时监测处理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3596,
+    "seg_id": "S8-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险四：心律失常",
+    "template": "number_center",
+    "items": [
+      "<0.1%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3597,
+    "seg_id": "S9-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险五：辐射致癌",
+    "template": "hero_text",
+    "items": [
+      "风险五：辐射会致癌吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3598,
+    "seg_id": "S9-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险五：辐射致癌",
+    "template": "split_column",
+    "items": [
+      "冠脉造影辐射量",
+      "相当于1~3次胸部CT",
+      "长途飞行辐射量",
+      "与造影辐射量相当"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3599,
+    "seg_id": "S9-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险五：辐射致癌",
+    "template": "hero_text",
+    "items": [
+      "单次辐射量符合国际安全标准"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

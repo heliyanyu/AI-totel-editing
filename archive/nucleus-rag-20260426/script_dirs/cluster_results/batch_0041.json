@@ -1,0 +1,519 @@
+[
+  {
+    "global_index": 1640,
+    "seg_id": "S3-L5",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "粥馒头的真相",
+    "template": "myth_buster",
+    "items": [
+      "以为是油吃多了导致血脂高",
+      "其实是主食米饭馒头吃多了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1641,
+    "seg_id": "S3-L6",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "粥馒头的真相",
+    "template": "hero_text",
+    "items": [
+      "主食吃太多才是真正的问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1642,
+    "seg_id": "S4-L1",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "hero_text",
+    "items": [
+      "真正的清淡饮食，记住这三招"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1643,
+    "seg_id": "S4-L2",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "hero_text",
+    "items": [
+      "第一招：主食替换"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1644,
+    "seg_id": "S4-L3",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "split_column",
+    "items": [
+      "白粥白馒头精细碳水",
+      "一半换成糙米粗粮",
+      "升血糖快，饱腹感差",
+      "顶饱又稳血糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1645,
+    "seg_id": "S4-L4",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "hero_text",
+    "items": [
+      "第二招：蛋白质要跟上"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1646,
+    "seg_id": "S4-L5",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "color_grid",
+    "items": [
+      "鸡蛋",
+      "鱼类",
+      "瘦肉",
+      "豆制品"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1647,
+    "seg_id": "S4-L6",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "hero_text",
+    "items": [
+      "第三招：改变吃饭顺序"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1648,
+    "seg_id": "S4-L7",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "正确清淡吃法三招",
+    "template": "step_arrow",
+    "items": [
+      "先吃蔬菜",
+      "再吃蛋白质",
+      "最后吃主食",
+      "血糖波动明显减小"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1649,
+    "seg_id": "S5-L1",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "清淡饮食正确认知",
+    "template": "hero_text",
+    "items": [
+      "清淡不是吃粥咸菜委屈自己"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1650,
+    "seg_id": "S5-L2",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "清淡饮食正确认知",
+    "template": "list_fade",
+    "items": [
+      "炒菜正常放油",
+      "鱼虾瘦肉照常吃",
+      "鸡蛋一天一个没问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1651,
+    "seg_id": "S5-L3",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "清淡饮食正确认知",
+    "template": "warning_alert",
+    "items": [
+      "精细碳水才是真正要少吃的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1652,
+    "seg_id": "S5-L4",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "清淡饮食正确认知",
+    "template": "myth_buster",
+    "items": [
+      "清淡饮食就是吃素",
+      "清淡饮食不等于吃素",
+      "清淡饮食就是受罪",
+      "清淡饮食不等于受罪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1653,
+    "seg_id": "S6-L1",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "行动号召收尾",
+    "template": "hero_text",
+    "items": [
+      "转给家里天天喝粥吃咸菜的人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1654,
+    "seg_id": "S1-L1",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "头晕很常见但病因天差地别",
+    "template": "hero_text",
+    "items": [
+      "头晕几乎人人遇过，却很难受"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1655,
+    "seg_id": "S1-L2",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "头晕很常见但病因天差地别",
+    "template": "split_column",
+    "items": [
+      "同样头晕",
+      "病因却天差地别"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1656,
+    "seg_id": "S1-L3",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "头晕很常见但病因天差地别",
+    "template": "color_grid",
+    "items": [
+      "高血压",
+      "颈椎病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1657,
+    "seg_id": "S1-L4",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "头晕很常见但病因天差地别",
+    "template": "hero_text",
+    "items": [
+      "一分钟教你简单鉴别两种头晕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1658,
+    "seg_id": "S2-L1",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "用房子比喻理解病因",
+    "template": "hero_text",
+    "items": [
+      "把身体想象成一栋房子"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1659,
+    "seg_id": "S2-L2",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "用房子比喻理解病因",
+    "template": "body_annotate",
+    "items": [
+      "水管压力过大冲击脑壁",
+      "昏沉头重像戴了顶湿帽子"
+    ],
+    "needs_animation": true,
+    "label": "高血压导致脑血管壁压力升高的病理机制"
+  },
+  {
+    "global_index": 1660,
+    "seg_id": "S2-L3",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "用房子比喻理解病因",
+    "template": "body_annotate",
+    "items": [
+      "颈部神经血管被卡住",
+      "信号传不到大脑",
+      "转头时天旋地转加重"
+    ],
+    "needs_animation": true,
+    "label": "颈椎病变压迫椎动脉导致脑供血不足"
+  },
+  {
+    "global_index": 1661,
+    "seg_id": "S3-L1",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "两种头晕感觉对比",
+    "template": "hero_text",
+    "items": [
+      "两个关键点帮你区分头晕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1662,
+    "seg_id": "S3-L2",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "两种头晕感觉对比",
+    "template": "split_column",
+    "items": [
+      "血压越高越昏沉头胀",
+      "像没睡醒头重脚轻"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1663,
+    "seg_id": "S3-L3",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "两种头晕感觉对比",
+    "template": "split_column",
+    "items": [
+      "站不稳像坐船",
+      "转头仰头时突然发作"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1664,
+    "seg_id": "S4-L1",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "简单自测两步走",
+    "template": "step_arrow",
+    "items": [
+      "坐下休息五分钟",
+      "量血压收缩压超140",
+      "舒张压超90则多为血压性头晕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1665,
+    "seg_id": "S4-L2",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "简单自测两步走",
+    "template": "branch_path",
+    "items": [
+      "慢慢转头至最大限度停几秒",
+      "无加重→颈椎嫌疑低",
+      "头晕加重或恶心→颈椎嫌疑大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1666,
+    "seg_id": "S5-L1",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "警示：别扛别乱吃药",
+    "template": "warning_alert",
+    "items": [
+      "初步自测不能替代医生诊断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1667,
+    "seg_id": "S5-L2",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "警示：别扛别乱吃药",
+    "template": "myth_buster",
+    "items": [
+      "头晕反复发作硬扛就好了",
+      "头晕反复务必就医检查",
+      "听别人说好使就跟着吃药",
+      "到正规医院让医生开药治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1668,
+    "seg_id": "S6-L1",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "互动收尾",
+    "template": "hero_text",
+    "items": [
+      "你是哪种晕？评论区告诉我"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1669,
+    "seg_id": "S1-L1",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "糖尿病逆转的底层机制",
+    "template": "hero_text",
+    "items": [
+      "糖尿病到底能不能逆转？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1670,
+    "seg_id": "S1-L2",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "糖尿病逆转的底层机制",
+    "template": "body_annotate",
+    "items": [
+      "胰腺β细胞负责分泌胰岛素",
+      "β细胞就像工厂里的工人"
+    ],
+    "needs_animation": true,
+    "label": "胰腺β细胞分泌胰岛素的生理机制"
+  },
+  {
+    "global_index": 1671,
+    "seg_id": "S1-L3",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "糖尿病逆转的底层机制",
+    "template": "hero_text",
+    "items": [
+      "不是工人不够，是细胞不买账"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1672,
+    "seg_id": "S1-L4",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "糖尿病逆转的底层机制",
+    "template": "step_arrow",
+    "items": [
+      "细胞不响应，工人被迫加班",
+      "加班初期尚能压住血糖"
+    ],
+    "needs_animation": true,
+    "label": "胰岛素抵抗与β细胞代偿性分泌增加"
+  },
+  {
+    "global_index": 1673,
+    "seg_id": "S1-L5",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "糖尿病逆转的底层机制",
+    "template": "step_arrow",
+    "items": [
+      "长期加班，工人相继罢工",
+      "可用工人越来越少",
+      "胰岛素不足，血糖上升"
+    ],
+    "needs_animation": true,
+    "label": "β细胞功能衰竭导致胰岛素分泌不足"
+  },
+  {
+    "global_index": 1674,
+    "seg_id": "S1-L6",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "糖尿病逆转的底层机制",
+    "template": "hero_text",
+    "items": [
+      "还剩多少\"工人\"决定一切"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1675,
+    "seg_id": "S2-L1",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "逆转的窗口期",
+    "template": "hero_text",
+    "items": [
+      "刚确诊时大部分细胞还活着"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1676,
+    "seg_id": "S2-L2",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "逆转的窗口期",
+    "template": "step_arrow",
+    "items": [
+      "解决胰岛素抵抗",
+      "细胞重新响应胰岛素",
+      "血糖恢复正常"
+    ],
+    "needs_animation": true,
+    "label": "解除胰岛素抵抗后细胞恢复糖摄取功能"
+  },
+  {
+    "global_index": 1677,
+    "seg_id": "S2-L3",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "逆转的窗口期",
+    "template": "hero_text",
+    "items": [
+      "方法不复杂，就这几件事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1678,
+    "seg_id": "S3-L1",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "减重与逆转的关系",
+    "template": "hero_text",
+    "items": [
+      "第一步：减重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1679,
+    "seg_id": "S3-L2",
+    "bp_title": "糖尿病能逆转吗？医生说清楚",
+    "scene_title": "减重与逆转的关系",
+    "template": "step_arrow",
+    "items": [
+      "内脏脂肪堆积在肝脏和腹部",
+      "脂肪让细胞拒绝响应胰岛素",
+      "内脏脂肪是最大元凶"
+    ],
+    "needs_animation": true,
+    "label": "内脏脂肪堆积导致胰岛素抵抗的病理机制"
+  }
+]

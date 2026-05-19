@@ -1,0 +1,575 @@
+[
+  {
+    "global_index": 600,
+    "seg_id": "S1-L3",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两种人的故事",
+    "template": "branch_path",
+    "items": [
+      "面对胸痛，你怎么判断",
+      "警惕真正危险的信号，及时就医",
+      "误判信号，延误救治酿成大祸"
+    ],
+    "atoms_text": "前一种是虚惊一场 后一种是追悔莫及 今天就把这两件事 一起说清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 601,
+    "seg_id": "S2-L1",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "胸痛大概率不是心脏",
+    "template": "hero_text",
+    "items": [
+      "胸口疼直觉是心脏病，大概率是错的"
+    ],
+    "atoms_text": "先说第一个 胸痛大部分它不是心脏的事 你胸口疼了一下 就觉得是心脏病 这个直觉啊 其实大概率是错的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 602,
+    "seg_id": "S2-L2",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "胸痛大概率不是心脏",
+    "template": "color_grid",
+    "items": [
+      "心脏",
+      "血管",
+      "肋骨与肌肉",
+      "神经"
+    ],
+    "atoms_text": "因为你胸口那一片啊 心脏只是住户之一 血管在那 肋骨在那 肌肉在那 神经也在那 谁出问题 你都可能觉得是胸口疼",
+    "needs_animation": true,
+    "label": "胸腔内心脏、血管、肋骨、肌肉、神经的解剖位置关系"
+  },
+  {
+    "global_index": 603,
+    "seg_id": "S3-L1",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "三大常见非心脏胸痛",
+    "template": "step_arrow",
+    "items": [
+      "饭后躺下胃酸上反",
+      "食管烧灼感胸骨后闷痛",
+      "位置与心绞痛几乎一样"
+    ],
+    "atoms_text": "最常见的就是胃食管反流 胃酸往上反 烧到食管 胸骨后面烧灼感 甚至闷痛 位置跟心绞痛几乎一样 饭后或者躺下加重 这是胃的事",
+    "needs_animation": true,
+    "label": "胃酸向上反流烧灼食管引起胸骨后闷痛"
+  },
+  {
+    "global_index": 604,
+    "seg_id": "S3-L2",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "三大常见非心脏胸痛",
+    "template": "list_fade",
+    "items": [
+      "某一个点刺痛，很快消失",
+      "手按可复现，是神经的事"
+    ],
+    "atoms_text": "第二个就是肋间神经痛 某一个点刺了一下 哎很快就过去了 用手按能复现 这是神经的事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 605,
+    "seg_id": "S3-L3",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "三大常见非心脏胸痛",
+    "template": "list_fade",
+    "items": [
+      "长期紧张压力大",
+      "胸口闷堵说不清",
+      "所有检查结果正常"
+    ],
+    "atoms_text": "第三个就是焦虑 长期紧张压力大 胸口说不清的闷堵感 做什么检查都正常 这是情绪在身体上的投射",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 606,
+    "seg_id": "S3-L4",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "三大常见非心脏胸痛",
+    "template": "hero_text",
+    "items": [
+      "胸口疼先别慌，大概率不是心脏病"
+    ],
+    "atoms_text": "这三种啊 覆盖了门诊大部分胸痛的患者 你胸口疼了 先别慌 大概率不是你害怕那个东西",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 607,
+    "seg_id": "S4-L1",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "hero_text",
+    "items": [
+      "心脏真出问题，反而很多人不是胸口疼"
+    ],
+    "atoms_text": "但接下来这个反转 才是今天真正要救你命的 心脏真的出问题的时候 很多人反而不是胸口疼",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 608,
+    "seg_id": "S4-L2",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "split_column",
+    "items": [
+      "典型：胸骨后压榨性闷痛",
+      "不典型：疼的位置根本不在胸口",
+      "位置明确，容易识别",
+      "位置偏移，极易误判"
+    ],
+    "atoms_text": "心梗的典型的表现 确实是胸骨后压榨性的闷痛 但临床上 有相当一部分患者 表现是不典型的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 609,
+    "seg_id": "S4-L3",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "hero_text",
+    "items": [
+      "疼的位置根本不在胸口"
+    ],
+    "atoms_text": "什么是不典型呢 就是疼的位置根本不在胸口",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 610,
+    "seg_id": "S4-L4",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "color_grid",
+    "items": [
+      "突然牙疼下颌不适",
+      "左肩左臂疼以为肩周炎",
+      "上腹痛以为是胃病",
+      "突然憋气大汗不觉胸痛"
+    ],
+    "atoms_text": "有的人表现为牙疼 突然下颌不舒服 说不清是哪里不舒服 就去牙科 但去牙科发现也没有问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 611,
+    "seg_id": "S4-L5",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "list_fade",
+    "items": [
+      "老年人痛感反应迟钝",
+      "糖尿病患者感觉神经受损",
+      "女性心梗表现更不典型"
+    ],
+    "atoms_text": "有的人表现为左肩膀左胳膊疼了 以为是肩周炎",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 612,
+    "seg_id": "S4-L6",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "step_arrow",
+    "items": [
+      "长期糖尿病损伤感觉神经",
+      "痛觉迟钝只觉闷累不觉疼",
+      "心梗发作却浑然不知"
+    ],
+    "atoms_text": "有的呢 上腹部疼了 觉得是胃病 吃了胃药也没用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 613,
+    "seg_id": "S4-L7",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "myth_buster",
+    "items": [
+      "害怕的胸口疼",
+      "大概率不是心脏问题",
+      "没当回事的牙疼肩疼憋气",
+      "可能才是心梗在敲门"
+    ],
+    "atoms_text": "还有人啊 突然喘不上气来 一身大汗淋漓 胸口一点都不疼",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 614,
+    "seg_id": "S4-L8",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "warning_alert",
+    "items": [
+      "没当回事的那个，才是真正危险的"
+    ],
+    "atoms_text": "这种啊都是不典型的表现 在老年人啊 糖尿病的患者啊 女性身上更多见",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 615,
+    "seg_id": "S4-L9",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "list_fade",
+    "items": [
+      "牙疼下颌疼",
+      "左肩左臂疼",
+      "上腹疼吃胃药无效",
+      "突然大汗憋气"
+    ],
+    "atoms_text": "糖尿病时间久了 会损伤我们的感觉神经 痛觉变得迟钝了 心梗来了 他可能都觉得 哎只是有点闷 有点累 根本就不疼",
+    "needs_animation": true,
+    "label": "糖尿病长期高血糖损伤感觉神经导致痛觉迟钝"
+  },
+  {
+    "global_index": 616,
+    "seg_id": "S4-L10",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "心梗的隐藏面孔",
+    "template": "hero_text",
+    "items": [
+      "不典型表现，可能才是心梗在敲门"
+    ],
+    "atoms_text": "这才是真正危险的地方 你怕的那个胸痛啊 大概率不是心脏的病 但你没当回事那个 牙疼肩膀疼上腹疼憋气 可能才是啊 心梗在敲门",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 617,
+    "seg_id": "S5-L1",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两步分辨法",
+    "template": "hero_text",
+    "items": [
+      "给你两个思路，学会自己判断"
+    ],
+    "atoms_text": "那怎么分辨呢 给你两个思路",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 618,
+    "seg_id": "S5-L2",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两步分辨法",
+    "template": "category_table",
+    "items": [
+      "走路爬楼加重，休息能缓解",
+      "与活动相关，需高度警惕",
+      "持续数分钟以上不缓解",
+      "持续时间长，需警惕",
+      "能用手指出准确痛点",
+      "能定位一点，大概率不是心脏"
+    ],
+    "atoms_text": "如果你是胸口疼 看三个特征 跟活动有没有关系 走路爬楼梯加重的 休息可以缓解的 一定要警惕 持续多久 就是几分钟以上都不缓解的 要警惕 能不能用手指指出一个准确的痛点 能指出一个点的 大概率不是心脏的问题 心肌缺血的痛啊 是一片的闷胀疼闷痛感 你说不清具体在哪里",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 619,
+    "seg_id": "S5-L3",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两步分辨法",
+    "template": "list_fade",
+    "items": [
+      "同时出汗了吗",
+      "同时胸闷憋气了吗",
+      "同时恶心呕吐了吗",
+      "活动后有加重特点吗"
+    ],
+    "atoms_text": "如果是牙疼肩膀疼上腹疼这些啊 非胸口位置的不适 看一看有没有伴随症状 同时出汗了吗 同时觉得胸口闷或者憋气了吗 同时恶心呕吐想吐了吗 有活动后加重的特点吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 620,
+    "seg_id": "S5-L4",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两步分辨法",
+    "template": "brick_stack",
+    "items": [
+      "非胸口的疼痛不适",
+      "有任意一条伴随症状",
+      "本身有高血压糖尿病吸烟史",
+      "立刻去查心脏"
+    ],
+    "atoms_text": "如果有任何一个伴随的症状 而且你本身还有 高血压糖尿病抽烟这些危险因素 哪怕不是胸口疼 你也应该去查一下心脏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 621,
+    "seg_id": "S6-L1",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "高危人群与最终提醒",
+    "template": "warning_alert",
+    "items": [
+      "50岁以上女性和糖尿病患者不典型心梗概率远高于常人",
+      "不能因为不是典型胸口疼就排除心脏问题"
+    ],
+    "atoms_text": "尤其是两类人要特别注意 五十岁以上的女性 和糖尿病患者 你们心梗的时候啊 表现是不典型的概率 比普通人高的多 千万不要因为不是典型的胸口疼 就排除了心脏的可能性",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 622,
+    "seg_id": "S6-L2",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "高危人群与最终提醒",
+    "template": "hero_text",
+    "items": [
+      "你怕的大概率不是，你没怕的才要命"
+    ],
+    "atoms_text": "你怕了那个 大概率不是 但你没怕那个 才是要命的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 623,
+    "seg_id": "S6-L3",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "高危人群与最终提醒",
+    "template": "hero_text",
+    "items": [
+      "记住这两个反转，关键时刻帮你做对判断"
+    ],
+    "atoms_text": "记住今天这两个反转 关键时候能够帮你做对判断",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 624,
+    "seg_id": "S1-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "喝的比吃的更影响血压",
+    "template": "hero_text",
+    "items": [
+      "喝进去的东西可能比吃的更影响血压"
+    ],
+    "atoms_text": "你有没有想过 你每天喝进去的东西啊 可能比你吃进去啊 对血压影响更大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 625,
+    "seg_id": "S1-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "喝的比吃的更影响血压",
+    "template": "myth_buster",
+    "items": [
+      "吃东西会注意少油少盐",
+      "喝的东西却从没在意过"
+    ],
+    "atoms_text": "吃的东西 你多少会注意啊 少油啊 少盐 但喝的呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 626,
+    "seg_id": "S1-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "喝的比吃的更影响血压",
+    "template": "list_fade",
+    "items": [
+      "咖啡",
+      "茶",
+      "酒",
+      "奶茶饮料"
+    ],
+    "atoms_text": "那我们说了 茶 咖啡 酒 奶茶 饮料 天天喝着啊 从来没有觉得 跟血压有什么关系",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 627,
+    "seg_id": "S1-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "喝的比吃的更影响血压",
+    "template": "branch_path",
+    "items": [
+      "逐个过一遍",
+      "有的可以放心喝",
+      "有的最好不要碰"
+    ],
+    "atoms_text": "今天啊 咱们挨个过一遍 有的你可以放心喝 有的你得马上减 有的你最好不要碰",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 628,
+    "seg_id": "S2-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "咖啡与血压的关系",
+    "template": "hero_text",
+    "items": [
+      "咖啡与血压的关系比你想象的复杂"
+    ],
+    "atoms_text": "先说说咖啡 咖啡跟血压的关系 比你以为的要复杂",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 629,
+    "seg_id": "S2-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "咖啡与血压的关系",
+    "template": "number_center",
+    "items": [
+      "5~10"
+    ],
+    "atoms_text": "喝完一杯啊 血压确实会短暂的升高 五到十个毫米汞柱 持续大概两到三个小时",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 630,
+    "seg_id": "S2-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "咖啡与血压的关系",
+    "template": "vertical_timeline",
+    "items": [
+      "初期饮用：血压短暂升高",
+      "规律饮用：身体产生耐受",
+      "长期来看：心血管风险不高于不喝者"
+    ],
+    "atoms_text": "但长期规律的喝的人啊 身体会产生耐受 这种升高会慢慢的减弱",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 631,
+    "seg_id": "S2-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "咖啡与血压的关系",
+    "template": "number_center",
+    "items": [
+      "2~3杯"
+    ],
+    "atoms_text": "大量的研究发现啊 每天啊 两到三杯咖啡的人啊 他心血管事件 并不比不喝的人要高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 632,
+    "seg_id": "S2-L5",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "咖啡与血压的关系",
+    "template": "list_fade",
+    "items": [
+      "血压控制良好",
+      "保持每天两到三杯以内"
+    ],
+    "atoms_text": "所以啊 血压控制的好 又有喝咖啡的习惯 根本不用减",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 633,
+    "seg_id": "S2-L6",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "咖啡与血压的关系",
+    "template": "warning_alert",
+    "items": [
+      "每天超过三杯要警惕",
+      "血压未控制稳定者先别喝"
+    ],
+    "atoms_text": "但啊 别要超过三杯 血压还没控制稳的 先别喝",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 634,
+    "seg_id": "S3-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "hero_text",
+    "items": [
+      "茶对血压整体偏友好"
+    ],
+    "atoms_text": "再说一下茶 茶啊 对血压整体是偏友好的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 635,
+    "seg_id": "S3-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "list_fade",
+    "items": [
+      "茶多酚改善血管内皮功能",
+      "轻度辅助降低血压"
+    ],
+    "atoms_text": "绿茶红茶里面的茶多酚 有一定改善血管内皮的功能 和轻度的降血压作用",
+    "needs_animation": true,
+    "label": "茶多酚改善血管内皮功能并轻度降低血压"
+  },
+  {
+    "global_index": 636,
+    "seg_id": "S3-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "split_column",
+    "items": [
+      "长期规律饮茶者",
+      "不喝茶的人群",
+      "血压总体水平略低",
+      "血压水平相对较高"
+    ],
+    "atoms_text": "长期规律的饮茶的人群啊 血压的总体水平 比不喝茶的人啊 要略低一些",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 637,
+    "seg_id": "S3-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "number_center",
+    "items": [
+      "≈1杯咖啡"
+    ],
+    "atoms_text": "但问题就出在浓茶上了 浓茶里面咖啡因含量很高 一杯浓茶的咖啡因啊 可能比一杯咖啡的差不多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 638,
+    "seg_id": "S3-L5",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "warning_alert",
+    "items": [
+      "喝浓茶后血压短暂升高、心率加快"
+    ],
+    "atoms_text": "但喝完之后 血压会短暂的升高 心率也会加快",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 639,
+    "seg_id": "S3-L6",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "茶与血压的关系",
+    "template": "list_fade",
+    "items": [
+      "喝茶没问题，但别泡太浓",
+      "睡前不要喝茶"
+    ],
+    "atoms_text": "所以啊 高血压的人啊 喝茶没问题 但啊 别泡太浓 尤其是啊 不要在睡前喝",
+    "needs_animation": false,
+    "label": ""
+  }
+]

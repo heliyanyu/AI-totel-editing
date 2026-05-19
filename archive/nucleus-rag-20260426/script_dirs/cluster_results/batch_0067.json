@@ -1,0 +1,528 @@
+[
+  {
+    "global_index": 2680,
+    "seg_id": "S5-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "大脑与睡眠影响",
+    "template": "hero_text",
+    "items": [
+      "第四维度：大脑与睡眠影响"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2681,
+    "seg_id": "S5-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "大脑与睡眠影响",
+    "template": "warning_alert",
+    "items": [
+      "阿托伐他汀可致头痛失眠记忆下降"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2682,
+    "seg_id": "S5-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "大脑与睡眠影响",
+    "template": "split_column",
+    "items": [
+      "阿托伐他汀：脂溶性",
+      "瑞舒伐他汀：水溶性",
+      "可穿透血脑屏障影响神经",
+      "匹伐他汀：水溶性，神经影响小"
+    ],
+    "needs_animation": true,
+    "label": "脂溶性他汀穿透血脑屏障机制"
+  },
+  {
+    "global_index": 2683,
+    "seg_id": "S6-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "血糖影响对比",
+    "template": "hero_text",
+    "items": [
+      "第五维度：对血糖的影响"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2684,
+    "seg_id": "S6-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "血糖影响对比",
+    "template": "warning_alert",
+    "items": [
+      "糖尿病患者选他汀必须关注血糖风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2685,
+    "seg_id": "S6-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "血糖影响对比",
+    "template": "split_column",
+    "items": [
+      "阿托伐他汀有升血糖风险",
+      "匹伐他汀对血糖几乎无影响",
+      "瑞舒伐他汀可增加新发糖尿病风险",
+      "糖尿病患者匹伐更友好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2686,
+    "seg_id": "S6-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "血糖影响对比",
+    "template": "hero_text",
+    "items": [
+      "有糖尿病风险首选匹伐他汀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2687,
+    "seg_id": "S7-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "总结与就医建议",
+    "template": "hero_text",
+    "items": [
+      "五维对比听明白了吗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2688,
+    "seg_id": "S7-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "总结与就医建议",
+    "template": "warning_alert",
+    "items": [
+      "千万不要看完视频就自己换药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2689,
+    "seg_id": "S7-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "总结与就医建议",
+    "template": "list_fade",
+    "items": [
+      "血脂水平高低不同",
+      "肝肾功能因人而异",
+      "合并用药情况各异",
+      "最终用药由医生决定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2690,
+    "seg_id": "S7-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "总结与就医建议",
+    "template": "hero_text",
+    "items": [
+      "带着知识去复诊心里有底才从容"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2691,
+    "seg_id": "S7-L5",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "总结与就医建议",
+    "template": "list_fade",
+    "items": [
+      "转给身边在吃他汀的家人朋友",
+      "别再稀里糊涂吃药了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2692,
+    "seg_id": "S7-L6",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "总结与就医建议",
+    "template": "hero_text",
+    "items": [
+      "关注我持续获取用药知识"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2693,
+    "seg_id": "S1-L1",
+    "bp_title": "阿司匹林：救命法则与伤身陷阱",
+    "scene_title": "引言：神药的两极分化",
+    "template": "hero_text",
+    "items": [
+      "阿司匹林是百年神药，也是双刃剑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2694,
+    "seg_id": "S1-L2",
+    "bp_title": "阿司匹林：救命法则与伤身陷阱",
+    "scene_title": "引言：神药的两极分化",
+    "template": "list_fade",
+    "items": [
+      "要弄懂阿司匹林怎么吃",
+      "我们先得知道",
+      "它是怎么干活的",
+      "我们可以把全身的血管",
+      "想象成错综复杂的高速公路"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2695,
+    "seg_id": "S1-L3",
+    "bp_title": "阿司匹林：救命法则与伤身陷阱",
+    "scene_title": "引言：神药的两极分化",
+    "template": "list_fade",
+    "items": [
+      "但是这碗迷魂汤",
+      "并不是所有人都能随便喝的",
+      "这就是我们要讲的",
+      "第一个核心问题",
+      "谁该吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2696,
+    "seg_id": "S1-L4",
+    "bp_title": "阿司匹林：救命法则与伤身陷阱",
+    "scene_title": "引言：神药的两极分化",
+    "template": "list_fade",
+    "items": [
+      "那么什么是一级预防呢",
+      "就是你还没得过心梗脑梗",
+      "但有高血压高血脂糖尿病等危险因素",
+      "这时候到底吃不吃",
+      "需要非常谨慎"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2697,
+    "seg_id": "S2-L1",
+    "bp_title": "阿司匹林：救命法则与伤身陷阱",
+    "scene_title": "阿司匹林如何工作",
+    "template": "step_arrow",
+    "items": [
+      "血管是高速公路，血小板是维修工",
+      "斑块破裂，血小板疯狂聚集",
+      "形成血栓，堵塞心脑血管",
+      "阿司匹林抑制血小板聚集，防血栓"
+    ],
+    "needs_animation": true,
+    "label": "斑块破裂后血小板聚集形成血栓及阿司匹林抑制血小板聚集机制"
+  },
+  {
+    "global_index": 2698,
+    "seg_id": "S2-L2",
+    "bp_title": "阿司匹林：救命法则与伤身陷阱",
+    "scene_title": "阿司匹林如何工作",
+    "template": "list_fade",
+    "items": [
+      "真正关键的是",
+      "饭前吃还是饭后吃",
+      "这取决于你吃的是什么剂型",
+      "目前市面上最常用的",
+      "是阿司匹林肠溶片"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2699,
+    "seg_id": "S3-L1",
+    "bp_title": "阿司匹林：救命法则与伤身陷阱",
+    "scene_title": "谁该吃：二级预防",
+    "template": "warning_alert",
+    "items": [
+      "已确诊冠心病、心梗、脑梗",
+      "是保命基石，需长期遵医嘱服用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2700,
+    "seg_id": "S4-L1",
+    "bp_title": "阿司匹林：救命法则与伤身陷阱",
+    "scene_title": "谁该吃：一级预防",
+    "template": "split_column",
+    "items": [
+      "有高血压、高血脂等危险因素",
+      "未确诊心脑血管病，不能当保健品",
+      "需医生评估风险再决定",
+      "盲目服用，出血风险可能大于收益"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2701,
+    "seg_id": "S4-L2",
+    "bp_title": "阿司匹林：救命法则与伤身陷阱",
+    "scene_title": "谁该吃：一级预防",
+    "template": "list_fade",
+    "items": [
+      "阿司匹林不是万能神药",
+      "也不是穿肠毒药",
+      "管好它的适应症",
+      "选对服药的时间和剂量",
+      "密切关注身体的反馈"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2702,
+    "seg_id": "S1-L1",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "开场抛问题",
+    "template": "image_overlay",
+    "items": [
+      "体检报告翻到心电图那页",
+      "赫然写着：窦性心律不齐"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2703,
+    "seg_id": "S1-L2",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "开场抛问题",
+    "template": "warning_alert",
+    "items": [
+      "是不是得赶紧去医院？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2704,
+    "seg_id": "S1-L3",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "开场抛问题",
+    "template": "hero_text",
+    "items": [
+      "先别急，听我说清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2705,
+    "seg_id": "S2-L1",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "门诊高频困惑",
+    "template": "image_overlay",
+    "items": [
+      "体检季门诊挤满拿报告来问诊的人",
+      "手指点着这六个字一脸紧张"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2706,
+    "seg_id": "S2-L2",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "门诊高频困惑",
+    "template": "number_center",
+    "items": [
+      "几分钟"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2707,
+    "seg_id": "S2-L3",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "门诊高频困惑",
+    "template": "hero_text",
+    "items": [
+      "这六个字要拆开来看：先看「窦性」"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2708,
+    "seg_id": "S3-L1",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "body_annotate",
+    "items": [
+      "心脏内有天然指挥官",
+      "负责发号施令让心脏跳动"
+    ],
+    "needs_animation": true,
+    "label": "窦房结控制心脏节律的生理机制"
+  },
+  {
+    "global_index": 2709,
+    "seg_id": "S3-L2",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "hero_text",
+    "items": [
+      "报告写「窦性」= 指挥官在正常上班"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2710,
+    "seg_id": "S3-L3",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "hero_text",
+    "items": [
+      "窦性心律 = 心跳节奏正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2711,
+    "seg_id": "S4-L1",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "不齐到底怎么回事",
+    "template": "hero_text",
+    "items": [
+      "既然正常，为什么还写了「不齐」？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2712,
+    "seg_id": "S4-L2",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "不齐到底怎么回事",
+    "template": "myth_buster",
+    "items": [
+      "心跳像钟表，一秒一下均匀不变",
+      "心跳本就会随状态有快慢波动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2713,
+    "seg_id": "S4-L3",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "不齐到底怎么回事",
+    "template": "step_arrow",
+    "items": [
+      "深吸一口气憋住",
+      "心跳微微加快",
+      "慢慢呼出，心跳随之减慢"
+    ],
+    "needs_animation": true,
+    "label": "呼吸性窦性心律不齐的生理机制"
+  },
+  {
+    "global_index": 2714,
+    "seg_id": "S4-L4",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "不齐到底怎么回事",
+    "template": "hero_text",
+    "items": [
+      "这种变化反映到心电图就是「不齐」"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2715,
+    "seg_id": "S4-L5",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "不齐到底怎么回事",
+    "template": "split_column",
+    "items": [
+      "年轻人更容易出现",
+      "年龄越大反而越不明显"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2716,
+    "seg_id": "S4-L6",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "不齐到底怎么回事",
+    "template": "hero_text",
+    "items": [
+      "心脏越灵活，波动越大，是调节好的表现"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2717,
+    "seg_id": "S5-L1",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "结论：大多不需要处理",
+    "template": "hero_text",
+    "items": [
+      "窦性心律不齐 ≠ 心脏有病，无需处理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2718,
+    "seg_id": "S5-L2",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "结论：大多不需要处理",
+    "template": "hero_text",
+    "items": [
+      "真有问题，心电图绝不止这六个字"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2719,
+    "seg_id": "S5-L3",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "结论：大多不需要处理",
+    "template": "list_fade",
+    "items": [
+      "房颤会明确写出房颤",
+      "早搏会明确写出早搏",
+      "ST段变化会明确标注"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,519 @@
+[
+  {
+    "global_index": 1280,
+    "seg_id": "S1-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "体检报告里的无声预警",
+    "template": "hero_text",
+    "items": [
+      "五个关键指标，今天讲清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1281,
+    "seg_id": "S2-L1",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "低密度脂蛋白胆固醇",
+    "template": "hero_text",
+    "items": [
+      "第一指标：低密度脂蛋白胆固醇"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1282,
+    "seg_id": "S2-L2",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "低密度脂蛋白胆固醇",
+    "template": "step_arrow",
+    "items": [
+      "LDL数值越高",
+      "胆固醇越快钻入血管壁",
+      "斑块持续增大"
+    ],
+    "needs_animation": true,
+    "label": "LDL胆固醇钻入血管壁形成斑块过程"
+  },
+  {
+    "global_index": 1283,
+    "seg_id": "S2-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "低密度脂蛋白胆固醇",
+    "template": "myth_buster",
+    "items": [
+      "没箭头就觉得正常没问题",
+      "无箭头不代表达到你的安全值"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1284,
+    "seg_id": "S2-L4",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "低密度脂蛋白胆固醇",
+    "template": "hero_text",
+    "items": [
+      "3.4参考上限仅适用健康年轻人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1285,
+    "seg_id": "S2-L5",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "低密度脂蛋白胆固醇",
+    "template": "category_table",
+    "items": [
+      "普通健康人群",
+      "控制在3.4以下",
+      "高血压/糖尿病/吸烟者",
+      "控制在2.6甚至1.8以下"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1286,
+    "seg_id": "S2-L6",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "低密度脂蛋白胆固醇",
+    "template": "hero_text",
+    "items": [
+      "别盯箭头，要盯具体数字"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1287,
+    "seg_id": "S3-L1",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "空腹血糖",
+    "template": "hero_text",
+    "items": [
+      "第二指标：空腹血糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1288,
+    "seg_id": "S3-L2",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "空腹血糖",
+    "template": "myth_buster",
+    "items": [
+      "血糖6点几没到7，觉得没问题",
+      "6.1以上已是糖尿病前期"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1289,
+    "seg_id": "S3-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "空腹血糖",
+    "template": "warning_alert",
+    "items": [
+      "糖尿病前期血管已持续受损"
+    ],
+    "needs_animation": true,
+    "label": "高血糖损伤血管内皮过程"
+  },
+  {
+    "global_index": 1290,
+    "seg_id": "S3-L4",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "空腹血糖",
+    "template": "step_arrow",
+    "items": [
+      "空腹血糖超过6.0",
+      "加查糖化血红蛋白",
+      "反映过去三个月整体水平"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1291,
+    "seg_id": "S3-L5",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "空腹血糖",
+    "template": "number_center",
+    "items": [
+      "6.5"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1292,
+    "seg_id": "S4-L1",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "血压",
+    "template": "hero_text",
+    "items": [
+      "第三指标：血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1293,
+    "seg_id": "S4-L2",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "血压",
+    "template": "myth_buster",
+    "items": [
+      "报告写\"偏高\"，觉得可能紧张没当回事",
+      "高血压会持续冲击损伤血管内壁"
+    ],
+    "needs_animation": true,
+    "label": "高血压冲击损伤血管内膜过程"
+  },
+  {
+    "global_index": 1294,
+    "seg_id": "S4-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "血压",
+    "template": "step_arrow",
+    "items": [
+      "血压升高冲击血管内膜",
+      "内膜破损，胆固醇趁机钻入",
+      "斑块形成，破裂引发血栓",
+      "心梗或脑梗随之发生"
+    ],
+    "needs_animation": true,
+    "label": "高血压引发动脉粥样硬化及血栓形成全过程"
+  },
+  {
+    "global_index": 1295,
+    "seg_id": "S4-L4",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "血压",
+    "template": "step_arrow",
+    "items": [
+      "回家连测几天血压",
+      "确实偏高去心内科就诊",
+      "该用药时及时用药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1296,
+    "seg_id": "S4-L5",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "血压",
+    "template": "warning_alert",
+    "items": [
+      "别一次偏高就放任不管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1297,
+    "seg_id": "S5-L1",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "同型半胱氨酸",
+    "template": "hero_text",
+    "items": [
+      "第四指标：同型半胱氨酸Hcy"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1298,
+    "seg_id": "S5-L2",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "同型半胱氨酸",
+    "template": "myth_buster",
+    "items": [
+      "报告写Hcy，看不懂直接跳过",
+      "Hcy是脑梗风险的重要预警信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1299,
+    "seg_id": "S5-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "同型半胱氨酸",
+    "template": "warning_alert",
+    "items": [
+      "Hcy升高直接损伤血管内壁",
+      "超过15合并高血压脑梗风险大增"
+    ],
+    "needs_animation": true,
+    "label": "同型半胱氨酸损伤血管内壁过程"
+  },
+  {
+    "global_index": 1300,
+    "seg_id": "S5-L4",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "同型半胱氨酸",
+    "template": "split_column",
+    "items": [
+      "Hcy数值偏高",
+      "补充叶酸即可有效降低",
+      "可能引发脑梗风险",
+      "花费少，预防效果显著"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1301,
+    "seg_id": "S5-L5",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "同型半胱氨酸",
+    "template": "hero_text",
+    "items": [
+      "一片叶酸，可能帮你避开一次脑梗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1302,
+    "seg_id": "S6-L1",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "颈动脉超声",
+    "template": "hero_text",
+    "items": [
+      "第五指标：颈动脉超声"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1303,
+    "seg_id": "S6-L2",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "颈动脉超声",
+    "template": "hero_text",
+    "items": [
+      "重点看两项关键结果"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1304,
+    "seg_id": "S6-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "颈动脉超声",
+    "template": "number_center",
+    "items": [
+      "1.0"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1305,
+    "seg_id": "S6-L4",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "颈动脉超声",
+    "template": "warning_alert",
+    "items": [
+      "低回声或混合回声斑块属不稳定斑块",
+      "随时可能破裂形成致命血栓"
+    ],
+    "needs_animation": true,
+    "label": "不稳定斑块破裂形成血栓过程"
+  },
+  {
+    "global_index": 1306,
+    "seg_id": "S6-L5",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "颈动脉超声",
+    "template": "branch_path",
+    "items": [
+      "颈动脉超声发现斑块",
+      "及时找医生评估制定方案",
+      "自己扛着拖延处理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1307,
+    "seg_id": "S6-L6",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "颈动脉超声",
+    "template": "hero_text",
+    "items": [
+      "有斑块，一定要找医生评估"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1308,
+    "seg_id": "S7-L1",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "总结与行动呼吁",
+    "template": "hero_text",
+    "items": [
+      "心梗脑梗前几年，身体已在报告里写信"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1309,
+    "seg_id": "S7-L2",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "总结与行动呼吁",
+    "template": "list_fade",
+    "items": [
+      "低密度脂蛋白——看数字不看箭头",
+      "空腹血糖——6.1以上就要警觉",
+      "血压——连续测量才算数",
+      "同型半胱氨酸——高了补叶酸",
+      "颈动脉超声——斑块性质要评估"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1310,
+    "seg_id": "S7-L3",
+    "bp_title": "体检报告藏着心梗预警？五个指标要看懂",
+    "scene_title": "总结与行动呼吁",
+    "template": "hero_text",
+    "items": [
+      "看懂这五个指标，点赞收藏备用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1311,
+    "seg_id": "S1-L1",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "看懂化验单的误区",
+    "template": "myth_buster",
+    "items": [
+      "有箭头就心慌",
+      "箭头不代表全部风险",
+      "没箭头就万事大吉",
+      "盯错指标等于白操心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1312,
+    "seg_id": "S1-L2",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "看懂化验单的误区",
+    "template": "hero_text",
+    "items": [
+      "三个指标，重要性差得远"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1313,
+    "seg_id": "S1-L3",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "看懂化验单的误区",
+    "template": "list_fade",
+    "items": [
+      "低密度脂蛋白胆固醇",
+      "高密度脂蛋白胆固醇",
+      "甘油三酯"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1314,
+    "seg_id": "S2-L1",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "LDL如何损伤血管",
+    "template": "hero_text",
+    "items": [
+      "低密度脂蛋白，最重要，没有之一"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1315,
+    "seg_id": "S2-L2",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "LDL如何损伤血管",
+    "template": "step_arrow",
+    "items": [
+      "LDL钻入血管壁",
+      "被氧化后引来免疫细胞",
+      "免疫细胞吞噬后死亡堆积"
+    ],
+    "needs_animation": true,
+    "label": "LDL氧化引发免疫细胞吞噬形成泡沫细胞过程"
+  },
+  {
+    "global_index": 1316,
+    "seg_id": "S2-L3",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "LDL如何损伤血管",
+    "template": "step_arrow",
+    "items": [
+      "堆积形成粥样斑块",
+      "血管腔越来越窄",
+      "堵塞或斑块破裂引发心梗脑梗"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块增大致管腔狭窄及破裂过程"
+  },
+  {
+    "global_index": 1317,
+    "seg_id": "S2-L4",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "LDL如何损伤血管",
+    "template": "warning_alert",
+    "items": [
+      "平时毫无感觉，闷声干大事",
+      "有感觉时血管可能已堵大半"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1318,
+    "seg_id": "S2-L5",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "LDL如何损伤血管",
+    "template": "hero_text",
+    "items": [
+      "LDL是最危险的沉默杀手"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1319,
+    "seg_id": "S3-L1",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "LDL控制目标分级",
+    "template": "number_center",
+    "items": [
+      "3.4"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

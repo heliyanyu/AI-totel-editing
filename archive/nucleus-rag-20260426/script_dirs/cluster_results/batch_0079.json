@@ -1,0 +1,526 @@
+[
+  {
+    "global_index": 3160,
+    "seg_id": "S2-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "三个数值你能看懂吗",
+    "template": "hero_text",
+    "items": [
+      "一个一个来讲清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3161,
+    "seg_id": "S3-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压三级分类标准",
+    "template": "hero_text",
+    "items": [
+      "国家指南：血压分三类"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3162,
+    "seg_id": "S3-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压三级分类标准",
+    "template": "number_center",
+    "items": [
+      "＜120/80"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3163,
+    "seg_id": "S3-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压三级分类标准",
+    "template": "split_column",
+    "items": [
+      "高压 120～139",
+      "低压 80～89",
+      "属于正常高值",
+      "已向高血压靠近"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3164,
+    "seg_id": "S3-L4",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压三级分类标准",
+    "template": "warning_alert",
+    "items": [
+      "高压≥140 或低压≥90",
+      "任意一项达标即为高血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3165,
+    "seg_id": "S4-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "三个数值对号入座",
+    "template": "category_table",
+    "items": [
+      "110/70 → 理想血压",
+      "正常血压段，无需担心",
+      "132/84 → 正常高值",
+      "需关注，及时调整",
+      "158/96 → 高血压",
+      "须就医，正规管理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3166,
+    "seg_id": "S5-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "120/80究竟算哪类",
+    "template": "hero_text",
+    "items": [
+      "120/80，人人都说是标准血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3167,
+    "seg_id": "S5-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "120/80究竟算哪类",
+    "template": "number_center",
+    "items": [
+      "120/80"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3168,
+    "seg_id": "S5-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "120/80究竟算哪类",
+    "template": "myth_buster",
+    "items": [
+      "120/80是理想血压",
+      "已进入正常高值区间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3169,
+    "seg_id": "S5-L4",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "120/80究竟算哪类",
+    "template": "split_column",
+    "items": [
+      "理想血压",
+      "正常高值",
+      "高压＜120且低压＜80",
+      "未达高血压但有风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3170,
+    "seg_id": "S6-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "正常高值该怎么办",
+    "template": "warning_alert",
+    "items": [
+      "正常高值发展成高血压风险更高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3171,
+    "seg_id": "S6-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "正常高值该怎么办",
+    "template": "list_fade",
+    "items": [
+      "减少食盐摄入",
+      "控制体重",
+      "规律运动",
+      "避免熬夜"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3172,
+    "seg_id": "S6-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "正常高值该怎么办",
+    "template": "hero_text",
+    "items": [
+      "这些习惯能把血压往回拉"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3173,
+    "seg_id": "S7-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压是怎么产生的",
+    "template": "hero_text",
+    "items": [
+      "血流对血管壁的压力=血压"
+    ],
+    "needs_animation": true,
+    "label": "血流对血管壁产生血压的原理"
+  },
+  {
+    "global_index": 3174,
+    "seg_id": "S7-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压是怎么产生的",
+    "template": "step_arrow",
+    "items": [
+      "心脏收缩用力泵血",
+      "血管压力最大",
+      "即高压（收缩压）"
+    ],
+    "needs_animation": true,
+    "label": "心脏收缩期泵血与收缩压形成"
+  },
+  {
+    "global_index": 3175,
+    "seg_id": "S7-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压是怎么产生的",
+    "template": "step_arrow",
+    "items": [
+      "心脏放松舒张",
+      "大动脉弹性维持血流",
+      "即低压（舒张压）"
+    ],
+    "needs_animation": true,
+    "label": "心脏舒张期大动脉弹性回缩与舒张压形成"
+  },
+  {
+    "global_index": 3176,
+    "seg_id": "S7-L4",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压是怎么产生的",
+    "template": "hero_text",
+    "items": [
+      "所以血压读数总是两个数字"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3177,
+    "seg_id": "S8-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "一次偏高不等于高血压",
+    "template": "warning_alert",
+    "items": [
+      "一次测高≠确诊高血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3178,
+    "seg_id": "S8-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "一次偏高不等于高血压",
+    "template": "list_fade",
+    "items": [
+      "不同时间段多次测量",
+      "每次规范操作",
+      "均≥140/90才可诊断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3179,
+    "seg_id": "S8-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "一次偏高不等于高血压",
+    "template": "step_arrow",
+    "items": [
+      "偶尔一次偏高先别慌",
+      "按规范方式重新测量",
+      "多次结果再做判断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3180,
+    "seg_id": "S9-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "总结：重视正常高值",
+    "template": "list_fade",
+    "items": [
+      "＜120/80 理想血压",
+      "120～139/80～89 正常高值需重视",
+      "≥140/90 高血压须就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3181,
+    "seg_id": "S9-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "总结：重视正常高值",
+    "template": "hero_text",
+    "items": [
+      "越早干预，发展成高血压的可能越小"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3182,
+    "seg_id": "S9-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "总结：重视正常高值",
+    "template": "hero_text",
+    "items": [
+      "读懂血压，从今天开始"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3183,
+    "seg_id": "S1-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "门诊真实困惑",
+    "template": "hero_text",
+    "items": [
+      "血压138/85，算正常吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3184,
+    "seg_id": "S1-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "门诊真实困惑",
+    "template": "hero_text",
+    "items": [
+      "118/78，是不是偏低了？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3185,
+    "seg_id": "S1-L3",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "门诊真实困惑",
+    "template": "myth_buster",
+    "items": [
+      "138/85 觉得还好",
+      "其实已进入警戒区",
+      "118/78 担心偏低",
+      "其实是理想血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3186,
+    "seg_id": "S1-L4",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "门诊真实困惑",
+    "template": "hero_text",
+    "items": [
+      "血压标准，今天一次说清"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3187,
+    "seg_id": "S2-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字，你能判断吗",
+    "template": "color_grid",
+    "items": [
+      "110 / 70",
+      "132 / 84",
+      "158 / 96"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3188,
+    "seg_id": "S2-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字，你能判断吗",
+    "template": "hero_text",
+    "items": [
+      "哪个正常？哪个超标？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3189,
+    "seg_id": "S2-L3",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字，你能判断吗",
+    "template": "hero_text",
+    "items": [
+      "逐一拆解，看完就懂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3190,
+    "seg_id": "S3-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压三档分级标准",
+    "template": "hero_text",
+    "items": [
+      "国家指南：血压分三类"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3191,
+    "seg_id": "S3-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压三档分级标准",
+    "template": "number_center",
+    "items": [
+      "高压 < 120 且低压 < 80"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3192,
+    "seg_id": "S3-L3",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压三档分级标准",
+    "template": "number_center",
+    "items": [
+      "高压 120–139 或低压 80–89"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3193,
+    "seg_id": "S3-L4",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压三档分级标准",
+    "template": "warning_alert",
+    "items": [
+      "高压 ≥ 140 或低压 ≥ 90",
+      "任意一项达标即为高血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3194,
+    "seg_id": "S4-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字答案揭晓",
+    "template": "category_table",
+    "items": [
+      "110/70 → 理想血压",
+      "132/84 → 正常高值",
+      "158/96 → 高血压",
+      "三档标准各有界限"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3195,
+    "seg_id": "S4-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字答案揭晓",
+    "template": "hero_text",
+    "items": [
+      "120/80 真的是标准血压吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3196,
+    "seg_id": "S4-L3",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字答案揭晓",
+    "template": "myth_buster",
+    "items": [
+      "120/80 是\"标准\"血压",
+      "刚好落在正常高值边缘",
+      "没到高血压就没问题",
+      "不是理想血压，需要注意"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3197,
+    "seg_id": "S4-L4",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字答案揭晓",
+    "template": "split_column",
+    "items": [
+      "理想血压：高压 < 120",
+      "正常高值：高压 120–139",
+      "两者概念不同，不可混淆",
+      "不超标 ≠ 完全健康"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3198,
+    "seg_id": "S5-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "正常高值怎么办",
+    "template": "warning_alert",
+    "items": [
+      "正常高值者患高血压风险显著更高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3199,
+    "seg_id": "S5-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "正常高值怎么办",
+    "template": "list_fade",
+    "items": [
+      "减少食盐摄入",
+      "控制体重",
+      "规律运动",
+      "避免熬夜"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

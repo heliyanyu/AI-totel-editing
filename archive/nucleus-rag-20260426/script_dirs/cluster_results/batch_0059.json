@@ -1,0 +1,527 @@
+[
+  {
+    "global_index": 2360,
+    "seg_id": "S1-L3",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "打破\"瘦人没风险\"的误区",
+    "template": "hero_text",
+    "items": [
+      "瘦不等于血管健康，真相今天说清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2361,
+    "seg_id": "S2-L1",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "血脂从哪里来",
+    "template": "split_column",
+    "items": [
+      "饮食摄入的胆固醇",
+      "肝脏自身合成的胆固醇",
+      "来自食物",
+      "由肝脏产生"
+    ],
+    "needs_animation": true,
+    "label": "肝脏合成胆固醇与饮食摄入胆固醇的代谢途径"
+  },
+  {
+    "global_index": 2362,
+    "seg_id": "S2-L2",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "血脂从哪里来",
+    "template": "hero_text",
+    "items": [
+      "胖瘦和饮食的影响远小于你以为的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2363,
+    "seg_id": "S2-L3",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "血脂从哪里来",
+    "template": "brick_stack",
+    "items": [
+      "基因决定肝脏合成胆固醇的能力",
+      "身体清除胆固醇受体的效率",
+      "两项能力共同决定血脂水平"
+    ],
+    "needs_animation": true,
+    "label": "肝脏胆固醇合成与LDL受体清除机制"
+  },
+  {
+    "global_index": 2364,
+    "seg_id": "S2-L4",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "血脂从哪里来",
+    "template": "branch_path",
+    "items": [
+      "同样饮食，不同基因背景",
+      "大鱼大肉，血脂却正常",
+      "粗茶淡饭，血脂却偏高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2365,
+    "seg_id": "S2-L5",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "血脂从哪里来",
+    "template": "hero_text",
+    "items": [
+      "每个人的代谢本来就不同，检查没有错"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2366,
+    "seg_id": "S3-L1",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人发现更晚，风险更大",
+    "template": "split_column",
+    "items": [
+      "胖人有健康警觉，主动体检",
+      "瘦人觉得没问题，忽视血脂",
+      "医生也会提醒关注",
+      "血脂指标多年不查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2367,
+    "seg_id": "S3-L2",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人发现更晚，风险更大",
+    "template": "warning_alert",
+    "items": [
+      "偏高多年后斑块已在血管壁形成",
+      "发现时低密度脂蛋白已高了很多年"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白长期升高导致血管壁斑块形成"
+  },
+  {
+    "global_index": 2368,
+    "seg_id": "S3-L3",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人发现更晚，风险更大",
+    "template": "number_center",
+    "items": [
+      "有限"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2369,
+    "seg_id": "S3-L4",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人发现更晚，风险更大",
+    "template": "vertical_timeline",
+    "items": [
+      "二十几岁：血脂已悄然偏高",
+      "中年：长期累积从未干预",
+      "五十几岁：血管严重堵塞"
+    ],
+    "needs_animation": true,
+    "label": "血管动脉粥样硬化长期进展过程"
+  },
+  {
+    "global_index": 2370,
+    "seg_id": "S3-L5",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人发现更晚，风险更大",
+    "template": "hero_text",
+    "items": [
+      "血管只认胆固醇，不认你的体重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2371,
+    "seg_id": "S4-L1",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "隐性肥胖：外瘦内胖的陷阱",
+    "template": "body_annotate",
+    "items": [
+      "外表四肢纤细无赘肉",
+      "体重数字正常好看",
+      "内脏脂肪严重超标",
+      "肝脏腹腔包裹大量脂肪"
+    ],
+    "needs_animation": true,
+    "label": "内脏脂肪在腹腔和肝脏的分布解剖"
+  },
+  {
+    "global_index": 2372,
+    "seg_id": "S4-L2",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "隐性肥胖：外瘦内胖的陷阱",
+    "template": "list_fade",
+    "items": [
+      "甘油三酯偏高",
+      "血糖偏高",
+      "胰岛素抵抗",
+      "代谢已紊乱，外表看不出"
+    ],
+    "needs_animation": true,
+    "label": "胰岛素抵抗与代谢综合征机制"
+  },
+  {
+    "global_index": 2373,
+    "seg_id": "S4-L3",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "隐性肥胖：外瘦内胖的陷阱",
+    "template": "warning_alert",
+    "items": [
+      "自己和他人都放松了警惕，风险反而更大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2374,
+    "seg_id": "S5-L1",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人血脂高该怎么办",
+    "template": "hero_text",
+    "items": [
+      "处理原则和胖人完全一样，不能放任"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2375,
+    "seg_id": "S5-L2",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人血脂高该怎么办",
+    "template": "step_arrow",
+    "items": [
+      "每年必查一次血脂，有家族史更要查",
+      "坚持健康饮食与规律运动调节血脂",
+      "半年不达标，该吃他汀就吃药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2376,
+    "seg_id": "S5-L3",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人血脂高该怎么办",
+    "template": "list_fade",
+    "items": [
+      "家族中有年轻心梗脑梗史",
+      "父母血脂长期偏高",
+      "无论多瘦都需定期筛查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2377,
+    "seg_id": "S5-L4",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "瘦人血脂高该怎么办",
+    "template": "myth_buster",
+    "items": [
+      "我不胖，没必要吃他汀",
+      "血管只看低密度脂蛋白数值，不看体重",
+      "身材是借口，延误治疗损伤血管",
+      "数值不达标就应该规范用药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2378,
+    "seg_id": "S6-L1",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "最终结论与行动呼吁",
+    "template": "split_column",
+    "items": [
+      "有的胖子代谢正常",
+      "有的瘦子血管已严重堵塞",
+      "体重≠心脑血管风险高低",
+      "血脂才是血管健康的真实指标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2379,
+    "seg_id": "S6-L2",
+    "bp_title": "瘦人也会血脂高？真相远比你想的危险",
+    "scene_title": "最终结论与行动呼吁",
+    "template": "hero_text",
+    "items": [
+      "还没查过血脂？现在就去查一次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2380,
+    "seg_id": "S1-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "消斑块的误区",
+    "template": "warning_alert",
+    "items": [
+      "买保健品找偏方，钱花了斑块不动",
+      "乱找偏方前，先搞清斑块是什么"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2381,
+    "seg_id": "S1-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "消斑块的误区",
+    "template": "hero_text",
+    "items": [
+      "对斑块不了解，一开始就弄错了方向"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2382,
+    "seg_id": "S2-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块是怎么形成的",
+    "template": "step_arrow",
+    "items": [
+      "高血压高血脂抽烟长期损伤血管内壁",
+      "内壁受伤，胆固醇趁机钻入"
+    ],
+    "needs_animation": true,
+    "label": "血管内壁损伤与胆固醇沉积过程"
+  },
+  {
+    "global_index": 2383,
+    "seg_id": "S2-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块是怎么形成的",
+    "template": "step_arrow",
+    "items": [
+      "低密度脂蛋白钻入血管壁内",
+      "免疫细胞赶来清理却死在里面",
+      "残留物越堆越多形成粥样物质"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块形成的炎症反应过程"
+  },
+  {
+    "global_index": 2384,
+    "seg_id": "S2-L3",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块是怎么形成的",
+    "template": "hero_text",
+    "items": [
+      "粥样物质外包纤维帽，这就是斑块"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块结构（脂质核心与纤维帽）"
+  },
+  {
+    "global_index": 2385,
+    "seg_id": "S3-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块不能被\"擦掉\"",
+    "template": "body_annotate",
+    "items": [
+      "斑块长在血管壁内部，不是贴在表面",
+      "不像污渍，无法从外部清除"
+    ],
+    "needs_animation": true,
+    "label": "斑块在血管壁内的位置解剖"
+  },
+  {
+    "global_index": 2386,
+    "seg_id": "S3-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块不能被\"擦掉\"",
+    "template": "myth_buster",
+    "items": [
+      "喝保健品能通血管化斑块",
+      "没有任何物质能精准钻入血管壁溶解斑块"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2387,
+    "seg_id": "S4-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块能缩小吗",
+    "template": "number_center",
+    "items": [
+      "1.8"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2388,
+    "seg_id": "S4-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块能缩小吗",
+    "template": "step_arrow",
+    "items": [
+      "停止往血管壁塞入新胆固醇",
+      "身体自行缓慢向外搬运胆固醇",
+      "时间积累后斑块体积有所缩减"
+    ],
+    "needs_animation": true,
+    "label": "胆固醇逆转运与斑块缩小机制"
+  },
+  {
+    "global_index": 2389,
+    "seg_id": "S4-L3",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块能缩小吗",
+    "template": "warning_alert",
+    "items": [
+      "缩小幅度有限，报告上往往看不出明显差别"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2390,
+    "seg_id": "S4-L4",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "斑块能缩小吗",
+    "template": "hero_text",
+    "items": [
+      "别指望把斑块消掉，那个期望会让你失望"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2391,
+    "seg_id": "S5-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "真正的重点：稳定性",
+    "template": "hero_text",
+    "items": [
+      "斑块大不大不可怕，稳不稳才是关键"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2392,
+    "seg_id": "S5-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "真正的重点：稳定性",
+    "template": "split_column",
+    "items": [
+      "颈动脉斑块多年，堵了30%",
+      "各项指标控制好，安然无恙",
+      "斑块不大，纤维帽突然破裂",
+      "血栓堵死血管，急性心梗脑梗"
+    ],
+    "needs_animation": true,
+    "label": "稳定斑块与不稳定斑块破裂对比"
+  },
+  {
+    "global_index": 2393,
+    "seg_id": "S5-L3",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "真正的重点：稳定性",
+    "template": "step_arrow",
+    "items": [
+      "纤维帽破裂，内部粥样物暴露",
+      "血小板蜂拥而至聚集",
+      "血栓形成，血管骤然堵死"
+    ],
+    "needs_animation": true,
+    "label": "斑块破裂后血栓形成过程"
+  },
+  {
+    "global_index": 2394,
+    "seg_id": "S5-L4",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "真正的重点：稳定性",
+    "template": "hero_text",
+    "items": [
+      "不纠结能否消斑块，让它稳定不破才是正事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2395,
+    "seg_id": "S6-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "五件让斑块稳定的事",
+    "template": "hero_text",
+    "items": [
+      "五件事让斑块稳定不破"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2396,
+    "seg_id": "S6-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "五件让斑块稳定的事",
+    "template": "step_arrow",
+    "items": [
+      "坚持服用他汀类药物",
+      "低密度脂蛋白持续降低",
+      "纤维帽变厚变结实不易破"
+    ],
+    "needs_animation": true,
+    "label": "他汀类药物稳定斑块纤维帽的作用机制"
+  },
+  {
+    "global_index": 2397,
+    "seg_id": "S6-L3",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "五件让斑块稳定的事",
+    "template": "warning_alert",
+    "items": [
+      "血压大起大落会反复冲击斑块，纤维帽易撕裂"
+    ],
+    "needs_animation": true,
+    "label": "血压波动冲击斑块导致纤维帽撕裂"
+  },
+  {
+    "global_index": 2398,
+    "seg_id": "S6-L4",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "五件让斑块稳定的事",
+    "template": "list_fade",
+    "items": [
+      "烟直接损伤血管内皮",
+      "血液更易凝固，破裂后血栓来得快"
+    ],
+    "needs_animation": true,
+    "label": "吸烟损伤血管内皮与促凝血机制"
+  },
+  {
+    "global_index": 2399,
+    "seg_id": "S6-L5",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "五件让斑块稳定的事",
+    "template": "warning_alert",
+    "items": [
+      "突然发怒或过度用力，血压骤升冲击斑块"
+    ],
+    "needs_animation": true,
+    "label": "血压骤升冲击斑块导致纤维帽撕裂"
+  }
+]

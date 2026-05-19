@@ -1,0 +1,527 @@
+[
+  {
+    "global_index": 2720,
+    "seg_id": "S5-L4",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "结论：大多不需要处理",
+    "template": "hero_text",
+    "items": [
+      "心内科医生不会对真问题轻描淡写"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2721,
+    "seg_id": "S6-L1",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "这些情况才要去查",
+    "template": "hero_text",
+    "items": [
+      "但有一类情况，不能忽视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2722,
+    "seg_id": "S6-L2",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "这些情况才要去查",
+    "template": "warning_alert",
+    "items": [
+      "心慌、胸闷、突然心跳过快或过慢、晕倒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2723,
+    "seg_id": "S6-L3",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "这些情况才要去查",
+    "template": "step_arrow",
+    "items": [
+      "出现上述症状",
+      "来心内科就诊",
+      "佩戴动态心电图记录24小时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2724,
+    "seg_id": "S6-L4",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "这些情况才要去查",
+    "template": "hero_text",
+    "items": [
+      "无症状只是报告多这句话，大概率正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2725,
+    "seg_id": "S7-L1",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "结尾金句收场",
+    "template": "image_overlay",
+    "items": [
+      "看不懂的报告让很多人焦虑出了心慌",
+      "本来身体好好的，硬是吓出了症状"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2726,
+    "seg_id": "S7-L2",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "结尾金句收场",
+    "template": "hero_text",
+    "items": [
+      "体检是让你了解身体，不是让你吓自己"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2727,
+    "seg_id": "S7-L3",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "结尾金句收场",
+    "template": "hero_text",
+    "items": [
+      "不懂就问医生，别自己在家瞎琢磨"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2728,
+    "seg_id": "S7-L4",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "结尾金句收场",
+    "template": "hero_text",
+    "items": [
+      "下次看到这六个字，别慌！"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2729,
+    "seg_id": "S7-L5",
+    "bp_title": "体检报告写了「窦性心律不齐」到底严不严重？",
+    "scene_title": "结尾金句收场",
+    "template": "list_fade",
+    "items": [
+      "点赞收藏，帮朋友消除误解",
+      "转发给还在担心的家人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2730,
+    "seg_id": "S1-L1",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "6件事做好，心脏比同龄人年轻"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2731,
+    "seg_id": "S2-L1",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "少放盐 多用葱姜蒜",
+    "template": "hero_text",
+    "items": [
+      "做饭少放盐，多用葱姜蒜调味"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2732,
+    "seg_id": "S2-L2",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "少放盐 多用葱姜蒜",
+    "template": "myth_buster",
+    "items": [
+      "菜不咸就没有味道",
+      "味觉被麻痹了，可以重新训练"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2733,
+    "seg_id": "S2-L3",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "少放盐 多用葱姜蒜",
+    "template": "step_arrow",
+    "items": [
+      "盐中的钠摄入过多",
+      "血压持续升高",
+      "心脏加速老化"
+    ],
+    "needs_animation": true,
+    "label": "高钠摄入导致血压升高与心脏负荷增加"
+  },
+  {
+    "global_index": 2734,
+    "seg_id": "S2-L4",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "少放盐 多用葱姜蒜",
+    "template": "number_center",
+    "items": [
+      "大蒜素"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2735,
+    "seg_id": "S2-L5",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "少放盐 多用葱姜蒜",
+    "template": "list_fade",
+    "items": [
+      "促进血液循环",
+      "减少血小板聚集"
+    ],
+    "needs_animation": true,
+    "label": "大蒜素抑制血小板聚集与促进血液循环"
+  },
+  {
+    "global_index": 2736,
+    "seg_id": "S2-L6",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "少放盐 多用葱姜蒜",
+    "template": "color_grid",
+    "items": [
+      "葱花增香",
+      "姜丝提味",
+      "蒜末爆锅",
+      "盐量减半"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2737,
+    "seg_id": "S2-L7",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "少放盐 多用葱姜蒜",
+    "template": "hero_text",
+    "items": [
+      "香味足够，盐少一半，照样好吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2738,
+    "seg_id": "S3-L1",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "善用通勤时间快走",
+    "template": "hero_text",
+    "items": [
+      "别浪费通勤的走路时间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2739,
+    "seg_id": "S3-L2",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "善用通勤时间快走",
+    "template": "split_column",
+    "items": [
+      "微微出汗",
+      "能说话，唱不了歌",
+      "强度太低，效果不足",
+      "强度太高，心脏负担重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2740,
+    "seg_id": "S3-L3",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "善用通勤时间快走",
+    "template": "step_arrow",
+    "items": [
+      "快走达到目标强度",
+      "血管内皮释放一氧化氮",
+      "血管放松扩张"
+    ],
+    "needs_animation": true,
+    "label": "运动促进血管内皮释放一氧化氮与血管舒张"
+  },
+  {
+    "global_index": 2741,
+    "seg_id": "S3-L4",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "善用通勤时间快走",
+    "template": "list_fade",
+    "items": [
+      "每天30分钟，每周5次",
+      "静息心率逐渐降低",
+      "泵血效率提升，老得慢"
+    ],
+    "needs_animation": true,
+    "label": "心脏泵血效率提升与静息心率降低"
+  },
+  {
+    "global_index": 2742,
+    "seg_id": "S4-L1",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "好好睡觉护心脏",
+    "template": "hero_text",
+    "items": [
+      "好好睡觉，是心脏的维修时间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2743,
+    "seg_id": "S4-L2",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "好好睡觉护心脏",
+    "template": "list_fade",
+    "items": [
+      "深睡时心率放慢",
+      "血压下降",
+      "心肌细胞得以修复"
+    ],
+    "needs_animation": true,
+    "label": "睡眠期间心肌细胞修复过程"
+  },
+  {
+    "global_index": 2744,
+    "seg_id": "S4-L3",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "好好睡觉护心脏",
+    "template": "brick_stack",
+    "items": [
+      "长期睡不足6小时",
+      "交感神经持续兴奋，血压升高",
+      "炎症因子增多",
+      "血管老化明显加速"
+    ],
+    "needs_animation": true,
+    "label": "睡眠不足导致交感神经兴奋与血管炎症反应"
+  },
+  {
+    "global_index": 2745,
+    "seg_id": "S4-L4",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "好好睡觉护心脏",
+    "template": "list_fade",
+    "items": [
+      "11点前入睡",
+      "保证7~8小时睡眠",
+      "睡前不刷手机"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2746,
+    "seg_id": "S5-L1",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "管住脾气保护血管",
+    "template": "hero_text",
+    "items": [
+      "管住脾气，别让情绪伤心脏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2747,
+    "seg_id": "S5-L2",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "管住脾气保护血管",
+    "template": "step_arrow",
+    "items": [
+      "暴怒时肾上腺素大量释放",
+      "心率飙升，血管猛收缩",
+      "血压急升，内皮受损"
+    ],
+    "needs_animation": true,
+    "label": "肾上腺素释放导致血管收缩与内皮损伤"
+  },
+  {
+    "global_index": 2748,
+    "seg_id": "S5-L3",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "管住脾气保护血管",
+    "template": "warning_alert",
+    "items": [
+      "不稳定斑块破裂，形成血栓",
+      "直接诱发急性心梗"
+    ],
+    "needs_animation": true,
+    "label": "不稳定斑块破裂形成血栓诱发心梗"
+  },
+  {
+    "global_index": 2749,
+    "seg_id": "S5-L4",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "管住脾气保护血管",
+    "template": "step_arrow",
+    "items": [
+      "鼻吸气4秒",
+      "屏息4秒",
+      "嘴呼气6秒",
+      "激活副交感神经，心率血压下降"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2750,
+    "seg_id": "S5-L5",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "管住脾气保护血管",
+    "template": "list_fade",
+    "items": [
+      "每天冥想10分钟",
+      "听舒缓音乐放松"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2751,
+    "seg_id": "S6-L1",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "每年查一次血脂",
+    "template": "hero_text",
+    "items": [
+      "每年查一次血脂，别让坏胆固醇偷偷堵管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2752,
+    "seg_id": "S6-L2",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "每年查一次血脂",
+    "template": "split_column",
+    "items": [
+      "坏胆固醇高",
+      "完全没有症状感知",
+      "像灰尘日积月累",
+      "默默沉积在血管壁上"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白在血管壁沉积形成斑块"
+  },
+  {
+    "global_index": 2753,
+    "seg_id": "S6-L3",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "每年查一次血脂",
+    "template": "warning_alert",
+    "items": [
+      "胸闷走不动时，血管可能已堵七成"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2754,
+    "seg_id": "S6-L4",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "每年查一次血脂",
+    "template": "vertical_timeline",
+    "items": [
+      "40岁以上：每年查一次血脂",
+      "偏高：先调整饮食结构",
+      "控不住：遵医嘱规范用药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2755,
+    "seg_id": "S7-L1",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "戒烟什么时候都不晚",
+    "template": "hero_text",
+    "items": [
+      "戒烟，什么时候都不晚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2756,
+    "seg_id": "S7-L2",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "戒烟什么时候都不晚",
+    "template": "brick_stack",
+    "items": [
+      "尼古丁让血管持续痉挛",
+      "一氧化碳抢走血红蛋白携氧",
+      "内皮受损，胆固醇更易钻入血管壁"
+    ],
+    "needs_animation": true,
+    "label": "吸烟损伤血管内皮与胆固醇沉积"
+  },
+  {
+    "global_index": 2757,
+    "seg_id": "S7-L3",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "戒烟什么时候都不晚",
+    "template": "vertical_timeline",
+    "items": [
+      "戒烟1年：冠心病风险降一半",
+      "戒烟15年：接近从不吸烟水平"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2758,
+    "seg_id": "S7-L4",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "戒烟什么时候都不晚",
+    "template": "hero_text",
+    "items": [
+      "血管有修复能力，只要你给它机会"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2759,
+    "seg_id": "S8-L1",
+    "bp_title": "做好这6件事，心脏比同龄人年轻",
+    "scene_title": "结尾收场",
+    "template": "list_fade",
+    "items": [
+      "少盐多葱姜蒜",
+      "通勤快走养心",
+      "好好睡觉修复",
+      "管住脾气护血管",
+      "每年查血脂",
+      "戒烟从今天开始"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

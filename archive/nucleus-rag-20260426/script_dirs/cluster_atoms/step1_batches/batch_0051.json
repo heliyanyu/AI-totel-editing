@@ -1,0 +1,555 @@
+[
+  {
+    "global_index": 2040,
+    "seg_id": "S3-L7",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的四大诱因",
+    "template": "hero_text",
+    "items": [
+      "雌激素波动大，女性更易受诱因影响"
+    ],
+    "atoms_text": "而女性因为体内雌激素波动大 比男性更容易受到这些诱因影响 这个核心原因",
+    "needs_animation": true,
+    "label": "雌激素周期性波动使女性更易触发偏头痛"
+  },
+  {
+    "global_index": 2041,
+    "seg_id": "S4-L1",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "科学应对三步走",
+    "template": "hero_text",
+    "items": [
+      "三个实用建议，远离偏头痛困扰"
+    ],
+    "atoms_text": "所以这里给大家三个实用的科学应对建议 希望大家能够避开偏头痛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2042,
+    "seg_id": "S4-L2",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "科学应对三步走",
+    "template": "step_arrow",
+    "items": [
+      "记录发作前行为饮食和环境",
+      "识别自身明确诱因",
+      "主动回避，减少发作频率"
+    ],
+    "atoms_text": "第一呢 就是要识别诱因 记录自己每次偏头痛发作前的这个 行为 饮食和环境 避开明确的诱因 减少发作的频率",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2043,
+    "seg_id": "S4-L3",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "科学应对三步走",
+    "template": "list_fade",
+    "items": [
+      "立即卧床休息",
+      "躲进安静避光环境",
+      "必要时遵医嘱用药"
+    ],
+    "atoms_text": "第二呢 就是发作时及时休息 找安静避光的环境卧床 避免强光噪音刺激 必要的时候要遵医嘱用药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2044,
+    "seg_id": "S4-L4",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "科学应对三步走",
+    "template": "warning_alert",
+    "items": [
+      "每月发作超4次或疼痛剧烈须就医"
+    ],
+    "atoms_text": "第三呢 若每月发作超过四次 或者是疼痛剧烈影响正常生活 一定要及时就医 医生会根据情况制定预防方案 从根源上减少发作",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2045,
+    "seg_id": "S4-L5",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "科学应对三步走",
+    "template": "hero_text",
+    "items": [
+      "摸清偏头痛的脾气，才能真正与它和解"
+    ],
+    "atoms_text": "大家都理解了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2046,
+    "seg_id": "S1-L1",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "免疫力从何而来",
+    "template": "myth_buster",
+    "items": [
+      "提高免疫力要吃补品补维生素",
+      "免疫力不是补出来的"
+    ],
+    "atoms_text": "人说 提高免疫力 第一反应呢 就是 吃点补品 补点维生素",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2047,
+    "seg_id": "S1-L2",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "免疫力从何而来",
+    "template": "hero_text",
+    "items": [
+      "免疫力是身体各系统长期配合的结果"
+    ],
+    "atoms_text": "但其实 免疫力 不是补出来的 而是 身体各个系统 长期配合出来的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2048,
+    "seg_id": "S1-L3",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "免疫力从何而来",
+    "template": "number_center",
+    "items": [
+      "6"
+    ],
+    "atoms_text": "你把这六件事做好 比你吃多少补剂 都管用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2049,
+    "seg_id": "S2-L1",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第一件：养好胃肠道",
+    "template": "hero_text",
+    "items": [
+      "养好胃肠道"
+    ],
+    "atoms_text": "第一呢 就是养好胃肠道",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2050,
+    "seg_id": "S2-L2",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第一件：养好胃肠道",
+    "template": "number_center",
+    "items": [
+      "50%+"
+    ],
+    "atoms_text": "人体有一半以上的免疫细胞 都分布在肠道",
+    "needs_animation": true,
+    "label": "超半数免疫细胞分布在肠道黏膜"
+  },
+  {
+    "global_index": 2051,
+    "seg_id": "S2-L3",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第一件：养好胃肠道",
+    "template": "warning_alert",
+    "items": [
+      "便秘腹胀腹泻导致菌群紊乱",
+      "免疫系统持续内耗，补品也吸收不了"
+    ],
+    "atoms_text": "如果你 长期便秘 腹胀 腹泻 肠道菌群紊乱 免疫系统 每天都在内耗",
+    "needs_animation": true,
+    "label": "肠道菌群紊乱导致免疫系统持续内耗"
+  },
+  {
+    "global_index": 2052,
+    "seg_id": "S2-L4",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第一件：养好胃肠道",
+    "template": "hero_text",
+    "items": [
+      "吸收不了，补再多也没用"
+    ],
+    "atoms_text": "这种状态 你就算吃再多补品 吸收不了 也用不上",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2053,
+    "seg_id": "S2-L5",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第一件：养好胃肠道",
+    "template": "list_fade",
+    "items": [
+      "规律饮食，三餐定时",
+      "多吃蔬菜，补充膳食纤维",
+      "粗粮豆类，稳定肠道菌群"
+    ],
+    "atoms_text": "真正对免疫有帮助的 是规律饮食 吃够蔬菜 粗粮和豆类 让肠道环境稳定下来 免疫系统才有基础",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2054,
+    "seg_id": "S3-L1",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第二件：吃够蛋白质",
+    "template": "hero_text",
+    "items": [
+      "吃够蛋白质"
+    ],
+    "atoms_text": "第二呢 吃够蛋白质",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2055,
+    "seg_id": "S3-L2",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第二件：吃够蛋白质",
+    "template": "step_arrow",
+    "items": [
+      "免疫细胞是消耗品，更新速度快",
+      "蛋白质是免疫细胞的主要原料",
+      "蛋白不足，免疫细胞更新跟不上"
+    ],
+    "atoms_text": "免疫细胞 本质上是消耗品 更新速度很快 而它们的主要原料 就是蛋白质",
+    "needs_animation": true,
+    "label": "蛋白质作为原料供免疫细胞快速更新"
+  },
+  {
+    "global_index": 2056,
+    "seg_id": "S3-L3",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第二件：吃够蛋白质",
+    "template": "warning_alert",
+    "items": [
+      "中老年人吃清淡易长期蛋白不足",
+      "感冒拖久、小病反复不愈"
+    ],
+    "atoms_text": "很多中老年人 吃得清淡 但实际上 蛋白长期不足 免疫细胞更新跟不上 结果就是 一感冒就拖很久 小病反复",
+    "needs_animation": true,
+    "label": "蛋白质长期不足致免疫细胞更新跟不上"
+  },
+  {
+    "global_index": 2057,
+    "seg_id": "S3-L4",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第二件：吃够蛋白质",
+    "template": "color_grid",
+    "items": [
+      "鸡蛋",
+      "鱼类",
+      "豆制品",
+      "奶类"
+    ],
+    "atoms_text": "所以要 每天稳定摄入 鸡蛋 鱼 豆制品 奶类 这些优质蛋白 让免疫系统有材料可用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2058,
+    "seg_id": "S4-L1",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第三件：做够运动",
+    "template": "hero_text",
+    "items": [
+      "做够运动"
+    ],
+    "atoms_text": "第三呢 做够运动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2059,
+    "seg_id": "S4-L2",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第三件：做够运动",
+    "template": "split_column",
+    "items": [
+      "有氧运动",
+      "肌肉训练",
+      "促进血液循环，加快免疫细胞巡逻",
+      "提升身体对炎症和感染的调节力"
+    ],
+    "atoms_text": "我们推荐 有氧和无氧结合",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2060,
+    "seg_id": "S4-L3",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第三件：做够运动",
+    "template": "list_fade",
+    "items": [
+      "快走、骑车、游泳",
+      "每天坚持三十分钟"
+    ],
+    "atoms_text": "有氧运动呢 能够促进血液循环 让免疫细胞 在全身巡逻得更快",
+    "needs_animation": true,
+    "label": "有氧运动促进血液循环加速免疫细胞全身巡逻"
+  },
+  {
+    "global_index": 2061,
+    "seg_id": "S4-L4",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第三件：做够运动",
+    "template": "list_fade",
+    "items": [
+      "每周两到三次力量训练",
+      "深蹲、靠墙俯卧撑、弹力带"
+    ],
+    "atoms_text": "肌肉训练呢 能够提高身体 对炎症和感染的调节能力",
+    "needs_animation": true,
+    "label": "肌肉训练提升身体对炎症和感染的调节能力"
+  },
+  {
+    "global_index": 2062,
+    "seg_id": "S4-L5",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第三件：做够运动",
+    "template": "hero_text",
+    "items": [
+      "强度不用大，贵在长期坚持"
+    ],
+    "atoms_text": "建议每天进行 快走 骑车 游泳之类 有氧三十分钟 同时每周加 两到三次 简单力量训练",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2063,
+    "seg_id": "S4-L6",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第三件：做够运动",
+    "template": "step_arrow",
+    "items": [
+      "有氧运动每天三十分钟",
+      "每周两三次简单力量训练",
+      "长期坚持，免疫力持续提升"
+    ],
+    "atoms_text": "比如说 深蹲啊 靠墙俯卧撑啊 弹力带练习啊 强度不用大 但要长期坚持",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2064,
+    "seg_id": "S5-L1",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第四件：保证优质睡眠",
+    "template": "hero_text",
+    "items": [
+      "保证优质睡眠"
+    ],
+    "atoms_text": "第四呢 要有足够的优质睡眠",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2065,
+    "seg_id": "S5-L2",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第四件：保证优质睡眠",
+    "template": "split_column",
+    "items": [
+      "你在休息",
+      "免疫细胞也在修复更新",
+      "身体得到充分恢复",
+      "免疫系统完成全面维护"
+    ],
+    "atoms_text": "晚上睡觉 不只是你要休息 你身体里面的免疫细胞 也要进行修复和更新",
+    "needs_animation": true,
+    "label": "睡眠期间免疫细胞进行修复和更新"
+  },
+  {
+    "global_index": 2066,
+    "seg_id": "S5-L3",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第四件：保证优质睡眠",
+    "template": "warning_alert",
+    "items": [
+      "长期熬夜或睡眠碎片化",
+      "免疫细胞长期处于未修复状态"
+    ],
+    "atoms_text": "长期熬夜 睡眠碎片化 会让免疫细胞 一直处在 未完成修复的状态",
+    "needs_animation": true,
+    "label": "长期熬夜使免疫细胞持续处于未完成修复状态"
+  },
+  {
+    "global_index": 2067,
+    "seg_id": "S5-L4",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第四件：保证优质睡眠",
+    "template": "list_fade",
+    "items": [
+      "大病不多，但总是容易累",
+      "反复容易感冒"
+    ],
+    "atoms_text": "这类人 可能大病不多 但总是容易累 容易感冒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2068,
+    "seg_id": "S5-L5",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第四件：保证优质睡眠",
+    "template": "hero_text",
+    "items": [
+      "晚上十点前躺下，进入修复节律"
+    ],
+    "atoms_text": "所以一定 尽量在晚上十点前躺下 让身体进入 真正的修复节律",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2069,
+    "seg_id": "S6-L1",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第五件：稳定情绪压力",
+    "template": "hero_text",
+    "items": [
+      "把情绪和压力稳下来"
+    ],
+    "atoms_text": "第五呢 要把情绪和压力稳下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2070,
+    "seg_id": "S6-L2",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第五件：稳定情绪压力",
+    "template": "step_arrow",
+    "items": [
+      "长期压力大",
+      "皮质醇持续偏高",
+      "免疫细胞功能受到抑制"
+    ],
+    "atoms_text": "压力不是心理问题 它会直接影响到 激素水平",
+    "needs_animation": true,
+    "label": "心理压力直接影响体内激素水平变化"
+  },
+  {
+    "global_index": 2071,
+    "seg_id": "S6-L3",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第五件：稳定情绪压力",
+    "template": "warning_alert",
+    "items": [
+      "对病毒细菌的免疫反应变慢"
+    ],
+    "atoms_text": "长期压力大 皮质醇偏高 会抑制免疫细胞的正常功能 让身体对病毒啊 细菌的反应变慢",
+    "needs_animation": true,
+    "label": "皮质醇升高抑制免疫细胞功能致病原体反应变慢"
+  },
+  {
+    "global_index": 2072,
+    "seg_id": "S6-L4",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第五件：稳定情绪压力",
+    "template": "hero_text",
+    "items": [
+      "每天留真正放松时间，为免疫松绑"
+    ],
+    "atoms_text": "每天给自己留一点 真正的放松时间 帮你的免疫系统 松松绑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2073,
+    "seg_id": "S7-L1",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第六件：坚持长期行动",
+    "template": "hero_text",
+    "items": [
+      "做好长期打算，别临时抱佛脚"
+    ],
+    "atoms_text": "第六呢 做好长期打算 别指望临时抱佛脚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2074,
+    "seg_id": "S7-L2",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第六件：坚持长期行动",
+    "template": "myth_buster",
+    "items": [
+      "换季流感高发才想起提高免疫力",
+      "免疫力靠的是全年长期状态"
+    ],
+    "atoms_text": "免疫力看的是 长期状态 你到秋冬换季 流感高发 才想起来提高免疫力 那绝对是不够的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2075,
+    "seg_id": "S7-L3",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第六件：坚持长期行动",
+    "template": "brick_stack",
+    "items": [
+      "养好肠道，稳定菌群环境",
+      "每日吃够优质蛋白",
+      "有氧加力量，坚持运动",
+      "早睡，保证睡眠质量",
+      "控制情绪与压力"
+    ],
+    "atoms_text": "要想真正提高免疫力 养好身体 一定要长期坚持 我刚才说的 吃够蛋白 做够运动 睡足觉 控制好情绪",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2076,
+    "seg_id": "S7-L4",
+    "bp_title": "提高免疫力的六件事",
+    "scene_title": "第六件：坚持长期行动",
+    "template": "hero_text",
+    "items": [
+      "六件事做好，免疫力自然提升"
+    ],
+    "atoms_text": "好了 关于怎么提高免疫力 我讲明白了吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2077,
+    "seg_id": "S1-L1",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "心衰不是突然来的，是一点点积累的"
+    ],
+    "atoms_text": "天形成的 而是 一点点 积累出来的 我是 心内科 王大夫",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2078,
+    "seg_id": "S1-L2",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "收藏这个视频，关键时刻能救命"
+    ],
+    "atoms_text": "收藏 这个视频",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2079,
+    "seg_id": "S1-L3",
+    "bp_title": "心衰早期信号与护心三件事",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "从最早的信号说起"
+    ],
+    "atoms_text": "我们先从 最早的信号 说起",
+    "needs_animation": false,
+    "label": ""
+  }
+]

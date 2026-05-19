@@ -1,0 +1,513 @@
+[
+  {
+    "global_index": 1400,
+    "seg_id": "S4-L4",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "控糖行动指南",
+    "template": "list_fade",
+    "items": [
+      "血糖管住，糖化控制在7以下",
+      "血压血脂一起管不偏废",
+      "每年查眼底查尿查脚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1401,
+    "seg_id": "S4-L5",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "控糖行动指南",
+    "template": "myth_buster",
+    "items": [
+      "没有不舒服就不用管",
+      "不舒服时血管已坏到一定程度"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1402,
+    "seg_id": "S4-L6",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "控糖行动指南",
+    "template": "hero_text",
+    "items": [
+      "坏掉的血管，再也回不来了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1403,
+    "seg_id": "S1-L1",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "老人乱吃止疼药的隐患",
+    "template": "hero_text",
+    "items": [
+      "老人腿疼就吃止疼药？危险！"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1404,
+    "seg_id": "S1-L2",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "老人乱吃止疼药的隐患",
+    "template": "hero_text",
+    "items": [
+      "两分钟讲清用药与急救"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1405,
+    "seg_id": "S1-L3",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "老人乱吃止疼药的隐患",
+    "template": "hero_text",
+    "items": [
+      "转发给家里的老人看"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1406,
+    "seg_id": "S2-L1",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药治标不治本",
+    "template": "hero_text",
+    "items": [
+      "先说老年人怎么用药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1407,
+    "seg_id": "S2-L2",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药治标不治本",
+    "template": "body_annotate",
+    "items": [
+      "老年身体像老房子管线老化",
+      "不能随意敲打修补",
+      "乱用药只会积累更大隐患"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1408,
+    "seg_id": "S2-L3",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药治标不治本",
+    "template": "myth_buster",
+    "items": [
+      "一疼就吃止疼药",
+      "先查病因才是正解",
+      "盖住烟雾不等于灭了火",
+      "拖延只会酿成大祸"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1409,
+    "seg_id": "S3-L1",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药三条铁律",
+    "template": "hero_text",
+    "items": [
+      "记住这三条用药铁律"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1410,
+    "seg_id": "S3-L2",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药三条铁律",
+    "template": "split_column",
+    "items": [
+      "伤胃型",
+      "伤肾型",
+      "布洛芬/双氯芬酸钠",
+      "不伤胃但需护肾"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1411,
+    "seg_id": "S3-L3",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药三条铁律",
+    "template": "warning_alert",
+    "items": [
+      "布洛芬必须饭后吃",
+      "空腹服用易导致胃黏膜穿孔"
+    ],
+    "needs_animation": true,
+    "label": "NSAIDs药物损伤胃黏膜过程"
+  },
+  {
+    "global_index": 1412,
+    "seg_id": "S3-L4",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药三条铁律",
+    "template": "warning_alert",
+    "items": [
+      "不同来源的止疼药不能混吃",
+      "成分叠加等于超量伤肝肾"
+    ],
+    "needs_animation": true,
+    "label": "药物叠加超量损伤肝肾机制"
+  },
+  {
+    "global_index": 1413,
+    "seg_id": "S3-L5",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药三条铁律",
+    "template": "step_arrow",
+    "items": [
+      "关节疼先用外用止疼软膏",
+      "局部作用更安全副作用小",
+      "必要时口服需医生许可"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1414,
+    "seg_id": "S4-L1",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "关节保养三要素",
+    "template": "hero_text",
+    "items": [
+      "保养胜于大修"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1415,
+    "seg_id": "S4-L2",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "关节保养三要素",
+    "template": "hero_text",
+    "items": [
+      "关节像生锈门轴需要养护"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1416,
+    "seg_id": "S4-L3",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "关节保养三要素",
+    "template": "step_arrow",
+    "items": [
+      "关节最怕受寒冷刺激",
+      "戴护膝围脖隔绝寒气",
+      "保暖后关节僵硬明显改善"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1417,
+    "seg_id": "S4-L4",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "关节保养三要素",
+    "template": "list_fade",
+    "items": [
+      "散步低强度护关节",
+      "太极舒缓适合老年人",
+      "爬山提重物关节伤害大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1418,
+    "seg_id": "S4-L5",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "关节保养三要素",
+    "template": "brick_stack",
+    "items": [
+      "每天一杯奶补充钙质",
+      "晒太阳促进维生素D合成",
+      "骨密度足够自然减少疼痛"
+    ],
+    "needs_animation": true,
+    "label": "维生素D促进钙吸收与骨密度维持机制"
+  },
+  {
+    "global_index": 1419,
+    "seg_id": "S5-L1",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "两大急症家庭急救",
+    "template": "hero_text",
+    "items": [
+      "家有老人必须刻入脑子"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1420,
+    "seg_id": "S5-L2",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "两大急症家庭急救",
+    "template": "list_fade",
+    "items": [
+      "突然胸痛像石头压住",
+      "喘不上气满头大汗",
+      "这是心梗的典型信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1421,
+    "seg_id": "S5-L3",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "两大急症家庭急救",
+    "template": "step_arrow",
+    "items": [
+      "不要乱动不要自驾送医",
+      "立刻拨打120等救护车",
+      "让老人平躺安静等待"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1422,
+    "seg_id": "S5-L4",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "两大急症家庭急救",
+    "template": "list_fade",
+    "items": [
+      "突然嘴歪说话不清",
+      "一侧手臂腿无力",
+      "警惕脑血栓中风发作"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1423,
+    "seg_id": "S5-L5",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "两大急症家庭急救",
+    "template": "warning_alert",
+    "items": [
+      "千万不要喂水喂药易呛肺",
+      "将脸侧向一侧尽快送医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1424,
+    "seg_id": "S6-L1",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "总结与关注引导",
+    "template": "hero_text",
+    "items": [
+      "疼痛是身体的火警一刻耽误不起"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1425,
+    "seg_id": "S6-L2",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "总结与关注引导",
+    "template": "hero_text",
+    "items": [
+      "每天学一点让父母少受罪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1426,
+    "seg_id": "S1-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "开场破认知",
+    "template": "hero_text",
+    "items": [
+      "讲内科的张医生"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1427,
+    "seg_id": "S1-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "开场破认知",
+    "template": "hero_text",
+    "items": [
+      "低密度脂蛋白是坏胆固醇"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白(LDL)转运胆固醇机制"
+  },
+  {
+    "global_index": 1428,
+    "seg_id": "S1-L3",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "开场破认知",
+    "template": "myth_buster",
+    "items": [
+      "坏胆固醇降到零才安全",
+      "这个认知真的对吗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1429,
+    "seg_id": "S1-L4",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "开场破认知",
+    "template": "hero_text",
+    "items": [
+      "这个认知可能是错的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1430,
+    "seg_id": "S2-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "重磅研究颠覆认知",
+    "template": "number_center",
+    "items": [
+      "380万"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1431,
+    "seg_id": "S2-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "重磅研究颠覆认知",
+    "template": "hero_text",
+    "items": [
+      "坏胆固醇并非越低越好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1432,
+    "seg_id": "S2-L3",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "重磅研究颠覆认知",
+    "template": "split_column",
+    "items": [
+      "欧美标准：一味追求越低",
+      "中国人：有自己的安全区间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1433,
+    "seg_id": "S3-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "坏胆固醇比喻解析",
+    "template": "hero_text",
+    "items": [
+      "坏胆固醇像血管里的卸货车"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白(LDL)转运胆固醇机制"
+  },
+  {
+    "global_index": 1434,
+    "seg_id": "S3-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "坏胆固醇比喻解析",
+    "template": "split_column",
+    "items": [
+      "太少：货物运不进来",
+      "太多：拥堵破坏血管"
+    ],
+    "needs_animation": true,
+    "label": "LDL过量导致血管内皮损伤过程"
+  },
+  {
+    "global_index": 1435,
+    "seg_id": "S3-L3",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "坏胆固醇比喻解析",
+    "template": "warning_alert",
+    "items": [
+      "斑块堆积是心梗脑梗根源"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块形成过程"
+  },
+  {
+    "global_index": 1436,
+    "seg_id": "S4-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "数据警示现状",
+    "template": "number_center",
+    "items": [
+      "+94%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1437,
+    "seg_id": "S4-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "数据警示现状",
+    "template": "number_center",
+    "items": [
+      "+34.41%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1438,
+    "seg_id": "S4-L3",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "数据警示现状",
+    "template": "warning_alert",
+    "items": [
+      "大多数人血脂控制远未达标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1439,
+    "seg_id": "S5-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "中国人有自己的区间",
+    "template": "hero_text",
+    "items": [
+      "中国人有最佳安全区间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "global_index": 2160,
+    "seg_id": "S7-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "脂肪供能的代价",
+    "template": "step_arrow",
+    "items": [
+      "应激状态动员脂肪",
+      "产生脂肪酸和酮体",
+      "参与部分供能"
+    ],
+    "atoms_text": "在这种应激状态下 身体确实会动员脂肪分解 产生脂肪酸和少量酮体 参与供能",
+    "needs_animation": true,
+    "label": "应激状态下脂肪分解产生脂肪酸和酮体参与供能"
+  },
+  {
+    "global_index": 2161,
+    "seg_id": "S7-L3",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "脂肪供能的代价",
+    "template": "warning_alert",
+    "items": [
+      "同时分解蛋白质，拆肌肉造糖",
+      "维持血糖却损失肌肉量"
+    ],
+    "atoms_text": "但与此同时呢 身体往往还会分解蛋白质 也就是拆肌肉 拿氨基酸去造糖 以维持血糖稳定",
+    "needs_animation": true,
+    "label": "肌肉蛋白质分解为氨基酸通过糖异生维持血糖"
+  },
+  {
+    "global_index": 2162,
+    "seg_id": "S7-L4",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "脂肪供能的代价",
+    "template": "brick_stack",
+    "items": [
+      "体重下降但人更虚",
+      "肌肉流失基础代谢降低",
+      "长期硬饿适得其反"
+    ],
+    "atoms_text": "这也是为什么 长期靠硬饿的人 看着体重掉了 但人反而更虚 基础代谢还会下降",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2163,
+    "seg_id": "S8-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "正确减脂方式",
+    "template": "list_fade",
+    "items": [
+      "规律进食，不彻底节食",
+      "减少精制碳水摄入",
+      "增加蔬菜比例",
+      "保证充足蛋白质"
+    ],
+    "atoms_text": "所以真要想减肥 把脂肪干掉 还要规律进食 但你要减少精制碳水 增加蔬菜蛋白质比例 把饭吃对 而不是彻底节食",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2164,
+    "seg_id": "S8-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "正确减脂方式",
+    "template": "step_arrow",
+    "items": [
+      "饮食结构调整",
+      "胰岛素水平平稳下降",
+      "供能比例转向脂肪"
+    ],
+    "atoms_text": "让胰岛素水平 慢慢平稳的下降 身体才有条件 把供能比例往脂肪那边转",
+    "needs_animation": true,
+    "label": "胰岛素水平平稳下降后供能比例向脂肪氧化转换"
+  },
+  {
+    "global_index": 2165,
+    "seg_id": "S9-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "结尾收场",
+    "template": "hero_text",
+    "items": [
+      "这次讲明白了吗？"
+    ],
+    "atoms_text": "好了 这个问题 我讲明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2166,
+    "seg_id": "S1-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "大脑需要蛋白质",
+    "template": "hero_text",
+    "items": [
+      "吃够优质蛋白，预防老年痴呆"
+    ],
+    "atoms_text": "每天吃够优质蛋白 对于预防老年痴呆 特别重要",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2167,
+    "seg_id": "S1-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "大脑需要蛋白质",
+    "template": "list_fade",
+    "items": [
+      "大脑每天运转需要原料",
+      "蛋白质是大脑的核心燃料"
+    ],
+    "atoms_text": "很多人可能没有想过 我们的大脑每天工作 它是需要原料的 对吧 而且这个蛋白质的话 就是其中之一",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2168,
+    "seg_id": "S1-L3",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "大脑需要蛋白质",
+    "template": "warning_alert",
+    "items": [
+      "稀饭咸菜、面条凑合，蛋白质严重不足"
+    ],
+    "atoms_text": "可惜的是 很多的中老年朋友 喜欢吃清淡饮食 每天早上稀饭配咸菜 对吧 中午煮点面条 晚上随便对付一下 每天蛋白质吃的远远不够的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2169,
+    "seg_id": "S1-L4",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "大脑需要蛋白质",
+    "template": "warning_alert",
+    "items": [
+      "长期营养不良增加认知下降风险"
+    ],
+    "atoms_text": "长期营养不良 可能会增加认知下降的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2170,
+    "seg_id": "S1-L5",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "大脑需要蛋白质",
+    "template": "myth_buster",
+    "items": [
+      "补蛋白质很贵",
+      "优质蛋白其实很便宜"
+    ],
+    "atoms_text": "还有人呢 他觉得这个补充蛋白质很贵 对吧 其实不一定的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2171,
+    "seg_id": "S1-L6",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "大脑需要蛋白质",
+    "template": "hero_text",
+    "items": [
+      "五种便宜又优质的高蛋白食物"
+    ],
+    "atoms_text": "今天要给大家推荐 五种便宜又优质的高蛋白食物啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2172,
+    "seg_id": "S2-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第一宝：鸡蛋",
+    "template": "number_center",
+    "items": [
+      "几毛钱"
+    ],
+    "atoms_text": "第一类就是鸡蛋 鸡蛋可以说是 补充蛋白质最划算的选择 一个普通的鸡蛋也就几毛钱 对吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2173,
+    "seg_id": "S2-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第一宝：鸡蛋",
+    "template": "myth_buster",
+    "items": [
+      "土鸡蛋富硒蛋才够营养",
+      "普通鸡蛋营养同样足够"
+    ],
+    "atoms_text": "不用非得买什么土鸡蛋 富硒蛋 普通鸡蛋它的这个营养就足够了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2174,
+    "seg_id": "S2-L3",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第一宝：鸡蛋",
+    "template": "list_fade",
+    "items": [
+      "首选水煮蛋",
+      "少油煎也可以",
+      "避免油炸方式"
+    ],
+    "atoms_text": "做法上面呢 尽量不要油炸 水煮蛋或者少油煎一下就行了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2175,
+    "seg_id": "S3-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第二宝：豆腐豆干",
+    "template": "color_grid",
+    "items": [
+      "老豆腐蛋白含量更高",
+      "原味豆干是首选",
+      "植物蛋白便宜好买",
+      "避开加工调味豆干"
+    ],
+    "atoms_text": "第二类呢就是豆腐豆干 对吧 这类植物蛋白便宜又好 买的时候尽量选原味的豆干 豆腐可以选这个老豆腐 对吧 蛋白质含量更高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2176,
+    "seg_id": "S3-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第二宝：豆腐豆干",
+    "template": "list_fade",
+    "items": [
+      "清炒、炖汤、凉拌均可",
+      "少油炸，保留营养"
+    ],
+    "atoms_text": "那做法上面呢也简单 清炒炖汤凉拌都不错 记得少油炸啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2177,
+    "seg_id": "S4-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第三宝：动物血",
+    "template": "color_grid",
+    "items": [
+      "鸭血、猪血价格实惠",
+      "富含蛋白质还能补铁",
+      "对贫血人群尤为友好"
+    ],
+    "atoms_text": "第三类就是动物的血 比如说鸭血猪血这些东西啊 价格便宜还补铁 对于贫血也有帮助",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2178,
+    "seg_id": "S4-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第三宝：动物血",
+    "template": "list_fade",
+    "items": [
+      "鸭血粉丝汤，暖胃又营养",
+      "韭菜炒猪血，少油少盐"
+    ],
+    "atoms_text": "可以做这个鸭血粉丝汤啊 或者做这个韭菜炒猪血啊 少放点油盐 既好吃又营养",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2179,
+    "seg_id": "S5-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第四宝：去皮鸡肉",
+    "template": "list_fade",
+    "items": [
+      "鸡胸肉、鸡腿肉去皮食用",
+      "比其他肉类更划算"
+    ],
+    "atoms_text": "第四类就是去皮的鸡肉 比如这个鸡胸肉 或者是鸡腿肉 对吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2180,
+    "seg_id": "S5-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第四宝：去皮鸡肉",
+    "template": "number_center",
+    "items": [
+      "几块钱"
+    ],
+    "atoms_text": "虽然比鸡蛋和豆制品稍微贵一点 但是比起其他肉来说还是很划算的 花几块钱就能够做一顿了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2181,
+    "seg_id": "S5-L3",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第四宝：去皮鸡肉",
+    "template": "list_fade",
+    "items": [
+      "清蒸锁住营养",
+      "炖煮软烂易吸收",
+      "少油烤制也不错"
+    ],
+    "atoms_text": "清蒸啊炖煮啊 或者稍微烤一下 都很好的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2182,
+    "seg_id": "S6-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第五宝：黄豆花生",
+    "template": "split_column",
+    "items": [
+      "黄豆：优质植物蛋白来源",
+      "可煮食也可打豆浆",
+      "花生：蛋白质也丰富",
+      "水煮最佳，避免油炸"
+    ],
+    "atoms_text": "第五类就是黄豆 黄豆是很好的植物蛋白来源 可以煮着吃 也可以打成豆浆",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2183,
+    "seg_id": "S6-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "第五宝：黄豆花生",
+    "template": "warning_alert",
+    "items": [
+      "花生油炸后脂肪大增，不推荐"
+    ],
+    "atoms_text": "花生也不错 但是最好是水煮 不要油炸",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2184,
+    "seg_id": "S7-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "每天该吃多少蛋白质",
+    "template": "hero_text",
+    "items": [
+      "每天到底该吃多少蛋白质？"
+    ],
+    "atoms_text": "那么每天到底该吃多少蛋白质呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2185,
+    "seg_id": "S7-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "每天该吃多少蛋白质",
+    "template": "number_center",
+    "items": [
+      "0.8～1g"
+    ],
+    "atoms_text": "一般来说 成年人每公斤每天大概需要是零点八到一克",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2186,
+    "seg_id": "S7-L3",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "每天该吃多少蛋白质",
+    "template": "number_center",
+    "items": [
+      "1.0～1.2g"
+    ],
+    "atoms_text": "那你一个老年人的话 它可以吃到每公斤每天一点零到一点二克",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2187,
+    "seg_id": "S7-L4",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "每天该吃多少蛋白质",
+    "template": "step_arrow",
+    "items": [
+      "体重70公斤",
+      "每天需约80克蛋白质"
+    ],
+    "atoms_text": "就比如你一个七十公斤的一个人 对吧 一天大概需要八十克左右的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2188,
+    "seg_id": "S7-L5",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "每天该吃多少蛋白质",
+    "template": "list_fade",
+    "items": [
+      "每天吃两个鸡蛋",
+      "搭配豆腐或瘦肉",
+      "再喝一杯无糖豆浆"
+    ],
+    "atoms_text": "如果是换成吃的话 可以大概每天吃两个鸡蛋 然后再搭配一点豆腐啊瘦肉啊 或者喝一杯无糖的豆浆 这样的话蛋白质就比较容易够了啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2189,
+    "seg_id": "S8-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "重点总结",
+    "template": "hero_text",
+    "items": [
+      "划重点，记住这四条"
+    ],
+    "atoms_text": "最后再给大家划一遍重点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2190,
+    "seg_id": "S8-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "重点总结",
+    "template": "list_fade",
+    "items": [
+      "补脑先补蛋白",
+      "长期不足加速认知下降"
+    ],
+    "atoms_text": "第一个补脑先补蛋白 蛋白质是大脑维修的刚需 长期的不足啊 会增加认知下降的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2191,
+    "seg_id": "S8-L3",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "重点总结",
+    "template": "color_grid",
+    "items": [
+      "鸡蛋",
+      "豆腐豆干",
+      "动物血",
+      "去皮鸡肉 + 黄豆"
+    ],
+    "atoms_text": "第二个就是优选五宝 对吧 鸡蛋豆腐豆干 动物血 去皮鸡肉 黄豆 便宜又高效",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2192,
+    "seg_id": "S8-L4",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "重点总结",
+    "template": "number_center",
+    "items": [
+      "1～1.2g"
+    ],
+    "atoms_text": "第三个就是吃够分量 按照体重算 每公斤每天一到一点二克 均匀的分配到三餐",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2193,
+    "seg_id": "S8-L5",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "重点总结",
+    "template": "myth_buster",
+    "items": [
+      "油炸腌制更香更下饭",
+      "蒸煮炖凉拌才是正确选择"
+    ],
+    "atoms_text": "第四个避开误区啊 少油炸少腌制 尽量选择蒸煮炖凉拌 这一些清淡烹饪的方式",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2194,
+    "seg_id": "S8-L6",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "重点总结",
+    "template": "hero_text",
+    "items": [
+      "认真对待每一口蛋白质，让大脑老得慢一点"
+    ],
+    "atoms_text": "健康啊没有捷径 但是有方法 从今天开始 认真对待每一口蛋白质 让大脑啊 老得慢一点 再慢一点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2195,
+    "seg_id": "S1-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "防癌八字诀，靠谱又管用"
+    ],
+    "atoms_text": "防癌这个事儿 往上面讲的 太玄乎了 但是 其实 真正靠谱的 防癌方法 我用这八个字 就能够给你讲明白 大家点赞收藏 我们开讲啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2196,
+    "seg_id": "S2-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烟——第一大风险",
+    "template": "color_grid",
+    "items": [
+      "一手烟直接吸入伤害最深",
+      "二手烟被动吸入同样致癌",
+      "三手烟残留衣物难以防范"
+    ],
+    "atoms_text": "第一个就是烟 这个不用我多说了吧 一手烟躲不开 二手烟 三手烟 更是防不胜防",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2197,
+    "seg_id": "S2-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烟——第一大风险",
+    "template": "hero_text",
+    "items": [
+      "公共场所受二手烟，勇敢维权是权利"
+    ],
+    "atoms_text": "有人啊 在公共场所 吞云吐雾 咱们就勇敢的站出来 维护自己的健康权",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2198,
+    "seg_id": "S2-L3",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烟——第一大风险",
+    "template": "warning_alert",
+    "items": [
+      "爆炒时PM2.5浓度超过重度雾霾"
+    ],
+    "atoms_text": "还有 这个厨房里面的油烟 特别是你爆炒的时候 这个PM二点五浓度 比北京的雾霾天还猛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2199,
+    "seg_id": "S2-L4",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烟——第一大风险",
+    "template": "hero_text",
+    "items": [
+      "烹饪必开油烟机，长期吸入毁肺细胞"
+    ],
+    "atoms_text": "爸爸妈妈那一辈人 他怕费电 对吧 舍不得开油烟机 一定要劝阻他们啊 长期吸入油烟 肺细胞真的受不了",
+    "needs_animation": false,
+    "label": ""
+  }
+]

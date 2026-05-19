@@ -1,0 +1,554 @@
+[
+  {
+    "global_index": 3600,
+    "seg_id": "S2-L11",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "哪些人需要先暂停",
+    "template": "hero_text",
+    "items": [
+      "这不是体能问题，是心脏在说\"我快撑不住了\""
+    ],
+    "atoms_text": "这些不是体能问题 是心脏在用它能用的方式 来告诉你 它有点撑不住了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3601,
+    "seg_id": "S3-L1",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "怎么运动才更安心",
+    "template": "hero_text",
+    "items": [
+      "没有风险因素的人，该怎么科学运动？"
+    ],
+    "atoms_text": "那没有这种情况的人呢 怎么运动才更安心呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3602,
+    "seg_id": "S3-L2",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "怎么运动才更安心",
+    "template": "step_arrow",
+    "items": [
+      "运动前热身十分钟，给心脏缓冲时间",
+      "运动中能说话但说不了完整歌词",
+      "运动后慢走五到十分钟，平稳降心率",
+      "避免骤然停止或马上冲冷水澡喝冰水"
+    ],
+    "atoms_text": "首先啊 记得运动前热身十分钟 给心脏一个舒适的过渡 不要从静止直接冲进大强度",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3603,
+    "seg_id": "S3-L3",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "怎么运动才更安心",
+    "template": "hero_text",
+    "items": [
+      "能说话、说不了歌词，这个强度最安全"
+    ],
+    "atoms_text": "其次啊 运动中有个要简单的判断 能说话 但说不了整句歌词 这个强度啊 大致是安全的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3604,
+    "seg_id": "S3-L4",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "怎么运动才更安心",
+    "template": "warning_alert",
+    "items": [
+      "心率未稳、血管扩张时突然受冷是额外冲击"
+    ],
+    "atoms_text": "然后 运动后慢走五分钟到十分钟 让心率啊平稳降下来 不要骤然停止 也不要马上去冲冷水澡 喝冰水",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3605,
+    "seg_id": "S3-L5",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "怎么运动才更安心",
+    "template": "split_column",
+    "items": [
+      "/ 冲冷水澡",
+      "慢走五到十分钟降心率",
+      "血管扩张遇冷，额外冲击心脏",
+      "心率平稳回落，心脏安全过渡"
+    ],
+    "atoms_text": "这时候啊 心率还没有稳定 血管还是扩张的 如果突然受冷 是额外的冲击",
+    "needs_animation": true,
+    "label": "运动后心率未稳定时血管仍处于扩张状态，突然受冷对血管的冲击"
+  },
+  {
+    "global_index": 3606,
+    "seg_id": "S3-L6",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "怎么运动才更安心",
+    "template": "number_center",
+    "items": [
+      "150"
+    ],
+    "atoms_text": "每周一百五十分钟左右的 中等强度的有氧 是对心脏最友好的节奏 把这个量做扎实 就很好了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3607,
+    "seg_id": "S4-L1",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "写给每一个想动起来的人",
+    "template": "hero_text",
+    "items": [
+      "运动本身没有错，错的是不匹配的强度"
+    ],
+    "atoms_text": "最后 我想轻轻的说一句啊 运动这件事情本身没有错",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3608,
+    "seg_id": "S4-L2",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "写给每一个想动起来的人",
+    "template": "hero_text",
+    "items": [
+      "我现在的状态，配得上我想要的运动强度吗？"
+    ],
+    "atoms_text": "但在你迈出去之前 先停下来问问自己 我现在的状态 配得上我想要的那个运动强度吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3609,
+    "seg_id": "S4-L3",
+    "bp_title": "运动会引发心梗吗？心脏科医生的真实解答",
+    "scene_title": "写给每一个想动起来的人",
+    "template": "hero_text",
+    "items": [
+      "动起来之前，先认真看一眼自己的心脏"
+    ],
+    "atoms_text": "心脏不需要你跑多快 跑多远 它只需要你在啊 动起来之前 认真的看一眼",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3610,
+    "seg_id": "S1-L1",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差是什么",
+    "template": "hero_text",
+    "items": [
+      "血压里藏着一个被忽视的数值"
+    ],
+    "atoms_text": "血压里的脉压差 是咋回事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3611,
+    "seg_id": "S1-L2",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差是什么",
+    "template": "myth_buster",
+    "items": [
+      "只盯高压和低压",
+      "脉压差同样重要"
+    ],
+    "atoms_text": "平时量血压 你都盯着 高压和低压 但中间还有个数值 很重要 脉压差",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3612,
+    "seg_id": "S1-L3",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差是什么",
+    "template": "number_center",
+    "items": [
+      "40"
+    ],
+    "atoms_text": "简单说 脉压差就是 高压减去低压的差值 比如血压 一百二八十 脉压就是四十",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3613,
+    "seg_id": "S1-L4",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差是什么",
+    "template": "hero_text",
+    "items": [
+      "脉压差反映血管弹性波动幅度"
+    ],
+    "atoms_text": "它就像 血压的波动幅度 能反映 血管的弹性情况",
+    "needs_animation": true,
+    "label": "脉压差反映血管弹性——血压波动幅度与血管壁弹性的关系"
+  },
+  {
+    "global_index": 3614,
+    "seg_id": "S1-L5",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差是什么",
+    "template": "split_column",
+    "items": [
+      "健康中年人",
+      "mmHg",
+      "年龄越大血管弹性越差",
+      "脉压差往往偏大"
+    ],
+    "atoms_text": "一般来说 健康中年人的脉压差 在三十到五十之间 但年龄越大 血管弹性越差 脉压差往往会变大",
+    "needs_animation": true,
+    "label": "年龄增大导致血管弹性下降，脉压差随之变大的过程"
+  },
+  {
+    "global_index": 3615,
+    "seg_id": "S2-L1",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过大的风险",
+    "template": "list_fade",
+    "items": [
+      "脉压差偏大多见于老年人"
+    ],
+    "atoms_text": "脉压差太大 常常见于老年人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3616,
+    "seg_id": "S2-L2",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过大的风险",
+    "template": "step_arrow",
+    "items": [
+      "动脉硬化，血管缓冲能力下降",
+      "高压升高，低压反而偏低",
+      "脉压差明显增大"
+    ],
+    "atoms_text": "主要是因为 动脉硬化了 血管缓冲能力下降 导致高压很高 低压偏低",
+    "needs_animation": true,
+    "label": "动脉硬化后血管缓冲能力下降，导致高压升高低压偏低"
+  },
+  {
+    "global_index": 3617,
+    "seg_id": "S2-L3",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过大的风险",
+    "template": "warning_alert",
+    "items": [
+      "脉压差大比单纯高压低压风险更高",
+      "心脑血管事件风险显著上升"
+    ],
+    "atoms_text": "这种情况 会增加心脑血管的风险 甚至比 单纯高压低压 都高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3618,
+    "seg_id": "S2-L4",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过大的风险",
+    "template": "hero_text",
+    "items": [
+      "脉压差大，必须在医生指导下调整用药"
+    ],
+    "atoms_text": "还值得注意 如果脉压差明显增大 一定要在 医生指导下用药 不能自己 随便调药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3619,
+    "seg_id": "S3-L1",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过小的原因",
+    "template": "list_fade",
+    "items": [
+      "脉压差偏小多见于中青年"
+    ],
+    "atoms_text": "脉压差太小 常常见于中青年",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3620,
+    "seg_id": "S3-L2",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过小的原因",
+    "template": "brick_stack",
+    "items": [
+      "饮酒过量",
+      "压力过大、睡眠不足",
+      "浓茶咖啡摄入过多",
+      "缺乏规律运动",
+      "肥胖体重超标"
+    ],
+    "atoms_text": "往往是 低压升高导致的 可能与 肥胖 压力大 喝酒 喝浓茶 喝咖啡 睡眠不足 缺乏运动 有关",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3621,
+    "seg_id": "S3-L3",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过小的原因",
+    "template": "hero_text",
+    "items": [
+      "心率偏快者更容易出现低压升高"
+    ],
+    "atoms_text": "心率快的人 也容易 低压偏高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3622,
+    "seg_id": "S4-L1",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "如何改善脉压差",
+    "template": "hero_text",
+    "items": [
+      "发现脉压差异常，这三步要做到"
+    ],
+    "atoms_text": "怎么办",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3623,
+    "seg_id": "S4-L2",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "如何改善脉压差",
+    "template": "number_center",
+    "items": [
+      "第一步：减体重"
+    ],
+    "atoms_text": "一 减体重 特别有效 很多人 体重下来 低压就正常了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3624,
+    "seg_id": "S4-L3",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "如何改善脉压差",
+    "template": "list_fade",
+    "items": [
+      "减少饮酒，少喝浓茶和咖啡",
+      "保证充足睡眠",
+      "坚持规律有氧运动"
+    ],
+    "atoms_text": "二 改习惯 少喝酒 少喝浓茶咖啡 保证睡眠 规律运动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3625,
+    "seg_id": "S4-L4",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "如何改善脉压差",
+    "template": "branch_path",
+    "items": [
+      "生活调理后血压是否达标？",
+      "仍偏高，及时遵医嘱用药",
+      "已达标，继续保持健康生活方式"
+    ],
+    "atoms_text": "三 必要时吃药 如果生活调理后 血压还是高 该用药时就用药 别拖着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3626,
+    "seg_id": "S5-L1",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "总结",
+    "template": "hero_text",
+    "items": [
+      "脉压差是血管健康的一面镜子"
+    ],
+    "atoms_text": "总结一下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3627,
+    "seg_id": "S5-L2",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "总结",
+    "template": "list_fade",
+    "items": [
+      "脉压差太大或太小都要引起重视",
+      "健康生活方式是根本",
+      "症状明显时及时就医别拖延"
+    ],
+    "atoms_text": "脉压差是 血管健康的镜子 太大太小 都要留心 健康生活是关键 该看医生的时候 别犹豫",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3628,
+    "seg_id": "S1-L1",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是毒药还是宝？",
+    "template": "hero_text",
+    "items": [
+      "今天聊点刺激的——血脂"
+    ],
+    "atoms_text": "各位朋友啊 今天呢 咱们聊点刺激的 什么呢 血脂",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3629,
+    "seg_id": "S1-L2",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是毒药还是宝？",
+    "template": "list_fade",
+    "items": [
+      "他汀会不会伤肝？",
+      "他汀会不会损害肌肉？",
+      "我能不能不吃他汀？"
+    ],
+    "atoms_text": "经常在门诊 会有人 拿着化验单问 张先生你说 我血脂高 你给我开这个他汀 是不是伤肝呢 是不是会损害肌肉 我能不能不吃啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3630,
+    "seg_id": "S1-L3",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是毒药还是宝？",
+    "template": "myth_buster",
+    "items": [
+      "患者把他汀当毒药",
+      "医生把他汀当个宝"
+    ],
+    "atoms_text": "今天呢 我们就给他汀 正个名 你们呢 把它当毒药 我却把它当个宝",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3631,
+    "seg_id": "S2-L1",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是血管清洁工",
+    "template": "split_column",
+    "items": [
+      "血管就像一条小河",
+      "血脂就是河里的淤泥"
+    ],
+    "atoms_text": "咱们可以把血管啊 想象成一条小河一样啊 血脂呢 就是河里的淤泥",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3632,
+    "seg_id": "S2-L2",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是血管清洁工",
+    "template": "step_arrow",
+    "items": [
+      "日夜不停铲除淤泥",
+      "清除垃圾防止河床堵塞",
+      "预防心梗和脑梗发生"
+    ],
+    "atoms_text": "他汀是什么呢 他汀呢 是血管里最勤劳的清洁工 他的工作就是 日夜不停的 帮你铲除淤泥啊 清除垃圾 防止啊 河床堵塞 也就是 心梗和脑梗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3633,
+    "seg_id": "S2-L3",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是血管清洁工",
+    "template": "warning_alert",
+    "items": [
+      "工作太卖力，容易累出工伤"
+    ],
+    "atoms_text": "但是这个清洁工 他有一个特点 工作太卖力了 容易累出工伤",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3634,
+    "seg_id": "S2-L4",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "他汀是血管清洁工",
+    "template": "hero_text",
+    "items": [
+      "想让他安心干活，记住三条江湖规矩"
+    ],
+    "atoms_text": "所以啊 你想让他安心干活啊 你得记住 三条江湖规矩",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3635,
+    "seg_id": "S3-L1",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩一：戒酒护肝",
+    "template": "body_annotate",
+    "items": [
+      "他汀主要在肝脏干活",
+      "酗酒相当于往河里倒工业废水",
+      "双重负担导致转氨酶升高"
+    ],
+    "atoms_text": "第一个 你得让他休息啊 休养生息 这位清洁工 他主要在哪干活 在我们的肝脏",
+    "needs_animation": true,
+    "label": "他汀类药物在肝脏中代谢发挥作用的过程"
+  },
+  {
+    "global_index": 3636,
+    "seg_id": "S3-L2",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩一：戒酒护肝",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "atoms_text": "所以啊 服药期间 千万不能酗酒 酒啊 就像往河里 倒那个工业废水一样 清洁工 一边清除淤泥 一边又往河里倒污水 那脾气上来呀 这转氨酶就升高了",
+    "needs_animation": true,
+    "label": "酒精损害肝脏导致他汀代谢负担加重、转氨酶升高的机制"
+  },
+  {
+    "global_index": 3637,
+    "seg_id": "S3-L3",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩一：戒酒护肝",
+    "template": "warning_alert",
+    "items": [
+      "服药期间千万不能酗酒",
+      "让清洁工在好环境里放心干活"
+    ],
+    "atoms_text": "但是呢 只要不超过三倍上限 没有症状 一般呢 是不需要停用的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3638,
+    "seg_id": "S3-L4",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩一：戒酒护肝",
+    "template": "hero_text",
+    "items": [
+      "能不喝酒，就不要喝"
+    ],
+    "atoms_text": "所以能不喝酒啊 咱就不要喝 让咱们的工人呢 有一个好环境",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3639,
+    "seg_id": "S4-L1",
+    "bp_title": "他汀不是毒药，是护心宝——三条江湖规矩要记牢",
+    "scene_title": "规矩二：远离西柚",
+    "template": "hero_text",
+    "items": [
+      "西柚是他汀眼里的迷魂汤"
+    ],
+    "atoms_text": "第二个 别给他吃西柚 在他汀眼里啊 西柚是一个迷魂汤",
+    "needs_animation": false,
+    "label": ""
+  }
+]

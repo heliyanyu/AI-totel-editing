@@ -1,0 +1,530 @@
+[
+  {
+    "global_index": 1760,
+    "seg_id": "S1-L3",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "开场引入",
+    "template": "branch_path",
+    "items": [
+      "胸闷气短从何而来",
+      "心脏出问题了",
+      "肺部出毛病了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1761,
+    "seg_id": "S1-L4",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "一分钟教你区分心与肺"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1762,
+    "seg_id": "S2-L1",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "心肺功能比喻",
+    "template": "hero_text",
+    "items": [
+      "把身体想象成一栋房子"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1763,
+    "seg_id": "S2-L2",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "心肺功能比喻",
+    "template": "split_column",
+    "items": [
+      "心脏是水泵",
+      "肺是空气净化器",
+      "负责全身供血",
+      "负责气体交换换氧"
+    ],
+    "needs_animation": true,
+    "label": "心脏泵血与肺部气体交换机制"
+  },
+  {
+    "global_index": 1764,
+    "seg_id": "S2-L3",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "心肺功能比喻",
+    "template": "branch_path",
+    "items": [
+      "胸闷气短原因",
+      "水泵不给力",
+      "净化器堵塞"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1765,
+    "seg_id": "S2-L4",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "心肺功能比喻",
+    "template": "hero_text",
+    "items": [
+      "如何判断是心还是肺"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1766,
+    "seg_id": "S3-L1",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "发作时机判断",
+    "template": "hero_text",
+    "items": [
+      "第一招：看发作时机"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1767,
+    "seg_id": "S3-L2",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "发作时机判断",
+    "template": "split_column",
+    "items": [
+      "活动时气短加重",
+      "休息后明显缓解"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1768,
+    "seg_id": "S3-L3",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "发作时机判断",
+    "template": "list_fade",
+    "items": [
+      "走路干活气不够用",
+      "坐下休息后好转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1769,
+    "seg_id": "S3-L4",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "发作时机判断",
+    "template": "hero_text",
+    "items": [
+      "肺的问题休息也不一定缓解"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1770,
+    "seg_id": "S3-L5",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "发作时机判断",
+    "template": "list_fade",
+    "items": [
+      "夜里忽然憋醒",
+      "躺着不行坐起来能好转",
+      "哮喘慢阻肺更为典型"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1771,
+    "seg_id": "S4-L1",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "伴随症状判断",
+    "template": "hero_text",
+    "items": [
+      "第二招：看伴随症状"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1772,
+    "seg_id": "S4-L2",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "伴随症状判断",
+    "template": "list_fade",
+    "items": [
+      "心慌心悸",
+      "腿肿一摁一个坑",
+      "夜间尿量增多"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1773,
+    "seg_id": "S4-L3",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "伴随症状判断",
+    "template": "list_fade",
+    "items": [
+      "反复咳嗽有痰",
+      "喘息呼吸费力",
+      "喉咙里有拉风箱的声音"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1774,
+    "seg_id": "S5-L1",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "快速识别口诀",
+    "template": "split_column",
+    "items": [
+      "躺着憋闷坐起来好",
+      "多半是心脏问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1775,
+    "seg_id": "S5-L2",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "快速识别口诀",
+    "template": "split_column",
+    "items": [
+      "喉咙有哨音咳出痰舒服",
+      "多半是肺部问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1776,
+    "seg_id": "S6-L1",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "就医提醒与互动",
+    "template": "hero_text",
+    "items": [
+      "以上只是初步判断参考"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1777,
+    "seg_id": "S6-L2",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "就医提醒与互动",
+    "template": "warning_alert",
+    "items": [
+      "反复发作千万别硬扛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1778,
+    "seg_id": "S6-L3",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "就医提醒与互动",
+    "template": "list_fade",
+    "items": [
+      "查心脏彩超",
+      "做肺功能检测",
+      "请医生综合评判"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1779,
+    "seg_id": "S6-L4",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "就医提醒与互动",
+    "template": "branch_path",
+    "items": [
+      "你是哪种情况",
+      "活动后胸闷",
+      "夜里憋醒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1780,
+    "seg_id": "S6-L5",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "就医提醒与互动",
+    "template": "hero_text",
+    "items": [
+      "评论区告诉我你的情况"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1781,
+    "seg_id": "S1-L1",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "你真的了解奥美拉唑吗",
+    "template": "hero_text",
+    "items": [
+      "家里有奥美拉唑？今天必须听完"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1782,
+    "seg_id": "S1-L2",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "你真的了解奥美拉唑吗",
+    "template": "vertical_timeline",
+    "items": [
+      "烧心反酸不舒服",
+      "自行去药房买奥美拉唑",
+      "吃了半年、一年甚至更久",
+      "觉得好用，停不下来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1783,
+    "seg_id": "S1-L3",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "你真的了解奥美拉唑吗",
+    "template": "hero_text",
+    "items": [
+      "谁让你买的？我自己买的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1784,
+    "seg_id": "S1-L4",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "你真的了解奥美拉唑吗",
+    "template": "warning_alert",
+    "items": [
+      "以为胃好了，其实可能更差了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1785,
+    "seg_id": "S2-L1",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "胃酸被压住后发生了什么",
+    "template": "step_arrow",
+    "items": [
+      "按住胃里产酸的开关",
+      "胃酸分泌减少",
+      "烧心症状暂时消失"
+    ],
+    "needs_animation": true,
+    "label": "质子泵抑制剂抑制胃酸分泌机制"
+  },
+  {
+    "global_index": 1786,
+    "seg_id": "S2-L2",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "胃酸被压住后发生了什么",
+    "template": "split_column",
+    "items": [
+      "胃酸是坏东西要压制",
+      "胃酸是蛋白质消化必需品",
+      "没有胃酸更健康",
+      "缺乏胃酸蛋白质无法消化"
+    ],
+    "needs_animation": true,
+    "label": "胃酸参与蛋白质消化过程"
+  },
+  {
+    "global_index": 1787,
+    "seg_id": "S2-L3",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "胃酸被压住后发生了什么",
+    "template": "hero_text",
+    "items": [
+      "胃酸是你胃里的保安"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1788,
+    "seg_id": "S2-L4",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "胃酸被压住后发生了什么",
+    "template": "step_arrow",
+    "items": [
+      "胃酸被压制，保安下班",
+      "细菌在胃里安家落户",
+      "腹胀嗳气、吃东西堵",
+      "菌群紊乱被误认为胃动力差"
+    ],
+    "needs_animation": true,
+    "label": "胃酸缺乏导致胃内细菌过度繁殖"
+  },
+  {
+    "global_index": 1789,
+    "seg_id": "S3-L1",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "营养吸收的隐形损失",
+    "template": "brick_stack",
+    "items": [
+      "钙——骨骼健康基础",
+      "铁——血液携氧必需",
+      "维生素B12——神经代谢关键",
+      "镁——肌肉功能支撑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1790,
+    "seg_id": "S3-L2",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "营养吸收的隐形损失",
+    "template": "step_arrow",
+    "items": [
+      "长期吃奥美拉唑压胃酸",
+      "营养吸收通路被堵住",
+      "查出缺钙缺B12缺镁",
+      "怎么补都补不上来"
+    ],
+    "needs_animation": true,
+    "label": "胃酸缺乏导致营养物质吸收障碍"
+  },
+  {
+    "global_index": 1791,
+    "seg_id": "S3-L3",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "营养吸收的隐形损失",
+    "template": "warning_alert",
+    "items": [
+      "长期缺钙慢慢掏空骨头",
+      "骨折风险明显增加，治胃赔骨头"
+    ],
+    "needs_animation": true,
+    "label": "长期缺钙导致骨质疏松过程"
+  },
+  {
+    "global_index": 1792,
+    "seg_id": "S4-L1",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "停药为什么那么难",
+    "template": "hero_text",
+    "items": [
+      "想停还真停不下来——胃酸反弹"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1793,
+    "seg_id": "S4-L2",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "停药为什么那么难",
+    "template": "step_arrow",
+    "items": [
+      "长期抑酸，胃被压制",
+      "胃持续努力多产酸来对抗",
+      "停药后产酸能力猛烈反弹",
+      "烧心反酸比吃药前更严重"
+    ],
+    "needs_animation": true,
+    "label": "停用质子泵抑制剂后胃酸反弹分泌机制"
+  },
+  {
+    "global_index": 1794,
+    "seg_id": "S4-L3",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "停药为什么那么难",
+    "template": "branch_path",
+    "items": [
+      "停药后出现反弹难受",
+      "继续吃药，陷入依赖循环",
+      "找医生制定减量方案，逐步脱离"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1795,
+    "seg_id": "S4-L4",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "停药为什么那么难",
+    "template": "hero_text",
+    "items": [
+      "越吃越停不下来，药物依赖陷阱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1796,
+    "seg_id": "S5-L1",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "正确的解决路径",
+    "template": "hero_text",
+    "items": [
+      "别慌，有办法——关键两步走"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1797,
+    "seg_id": "S5-L2",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "正确的解决路径",
+    "template": "step_arrow",
+    "items": [
+      "找消化科医生评估用药情况",
+      "从每天一次减到隔天一次",
+      "逐步拉长间隔，让胃慢慢适应"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1798,
+    "seg_id": "S5-L3",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "正确的解决路径",
+    "template": "step_arrow",
+    "items": [
+      "吹碳13呼气试验检测幽门螺杆菌",
+      "检测前需停用奥美拉唑至少一周",
+      "发现感染，进行规范杀菌治疗"
+    ],
+    "needs_animation": true,
+    "label": "碳13呼气试验检测幽门螺杆菌过程"
+  },
+  {
+    "global_index": 1799,
+    "seg_id": "S5-L4",
+    "bp_title": "奥美拉唑别乱吃——长期服用的真实代价",
+    "scene_title": "正确的解决路径",
+    "template": "hero_text",
+    "items": [
+      "菌杀掉了，才不需要一直靠药压着"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

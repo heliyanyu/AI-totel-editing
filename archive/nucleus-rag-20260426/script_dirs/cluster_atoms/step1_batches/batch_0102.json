@@ -1,0 +1,547 @@
+[
+  {
+    "global_index": 4080,
+    "seg_id": "S3-L4",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "三大靶器官损伤",
+    "template": "list_fade",
+    "items": [
+      "手脚麻木感觉迟钝",
+      "脚扎钉子不知道疼",
+      "伤口感染才被发现"
+    ],
+    "atoms_text": "还会泡哪呢 泡你的神经 手脚麻木 感觉迟钝 那有的人呢 脚上扎了一个钉子 他都不知道疼 伤口感染了 才发现",
+    "needs_animation": true,
+    "label": "高血糖浸泡损伤周围神经导致感觉丧失"
+  },
+  {
+    "global_index": 4081,
+    "seg_id": "S3-L5",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "三大靶器官损伤",
+    "template": "brick_stack",
+    "items": [
+      "高血糖持续损伤血管",
+      "神经同步被糖泡坏",
+      "小伤口感染失控",
+      "最终导致截肢"
+    ],
+    "atoms_text": "那糖尿病足 主要是怎么来的 那就是 高血糖先把血管泡坏 哎 再把神经泡坏 脚上一个小伤口 最后变成了截肢",
+    "needs_animation": true,
+    "label": "高血糖依次泡坏血管和神经引发糖尿病足"
+  },
+  {
+    "global_index": 4082,
+    "seg_id": "S4-L1",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "控糖行动指南",
+    "template": "hero_text",
+    "items": [
+      "糖尿病是单行线，但你决定走多快"
+    ],
+    "atoms_text": "糖尿病呢 是一条单行线 目前呢 治不好 但是呢 你在这条路上 走多快 那是你自己 说了算",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4083,
+    "seg_id": "S4-L2",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "控糖行动指南",
+    "template": "number_center",
+    "items": [
+      "7%"
+    ],
+    "atoms_text": "记住三条 第一个 血糖要管住啊 糖化血红蛋白呢 今年控制在 七以下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4084,
+    "seg_id": "S4-L3",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "控糖行动指南",
+    "template": "number_center",
+    "items": [
+      "0.8"
+    ],
+    "atoms_text": "第二个 血压血脂 一起管 四十岁以上呢 这个低密度脂蛋白呢 就要小于 点八",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4085,
+    "seg_id": "S4-L4",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "控糖行动指南",
+    "template": "list_fade",
+    "items": [
+      "血糖管住，糖化控制在7以下",
+      "血压血脂一起管不偏废",
+      "每年查眼底查尿查脚"
+    ],
+    "atoms_text": "第三个 咱每年呢 咱们查查眼底 查查尿 再查查脚 别等有感觉了 再去啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4086,
+    "seg_id": "S4-L5",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "控糖行动指南",
+    "template": "myth_buster",
+    "items": [
+      "没有不舒服就不用管",
+      "不舒服时血管已坏到一定程度"
+    ],
+    "atoms_text": "很多人都说 我没有不舒服 哎 错了啊 等你不舒服的时候 这血管 已经坏到 一定程度了 而那些 坏掉的血管啊 是再也回不来了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4087,
+    "seg_id": "S4-L6",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "控糖行动指南",
+    "template": "hero_text",
+    "items": [
+      "坏掉的血管，再也回不来了"
+    ],
+    "atoms_text": "我说清楚了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4088,
+    "seg_id": "S1-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "开场引入",
+    "template": "split_column",
+    "items": [
+      "头疼发烧选布洛芬",
+      "头疼发烧选对乙酰氨基酚"
+    ],
+    "atoms_text": "头疼发烧 该吃啥呢 是选布洛芬 还是选择对乙酰氨基酚呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4089,
+    "seg_id": "S1-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "开场引入",
+    "template": "warning_alert",
+    "items": [
+      "吃错退烧药反而伤身体"
+    ],
+    "atoms_text": "很多人呢 吃错了 反而伤身体",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4090,
+    "seg_id": "S1-L3",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "张医生今天帮你讲明白"
+    ],
+    "atoms_text": "今天呢 张医生跟你讲明白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4091,
+    "seg_id": "S1-L4",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "记住一个最关键的点"
+    ],
+    "atoms_text": "记住 一个最关键的一点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4092,
+    "seg_id": "S2-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "两药角色比喻",
+    "template": "hero_text",
+    "items": [
+      "布洛芬：消防队，专门消炎灭火"
+    ],
+    "atoms_text": "这个布洛芬呢 它是消防队 专门用来灭火的 消炎的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4093,
+    "seg_id": "S2-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "两药角色比喻",
+    "template": "hero_text",
+    "items": [
+      "对乙酰氨基酚：保安队，止疼退烧"
+    ],
+    "atoms_text": "这个对乙酰氨基酚呢 它是保安队 哎 它只管站岗 它止疼 哎 退烧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4094,
+    "seg_id": "S3-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "三点区别预告",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "atoms_text": "具体区别呢 有这三点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4095,
+    "seg_id": "S4-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第一点：看火情选药",
+    "template": "hero_text",
+    "items": [
+      "第一点：看火情（有无炎症）"
+    ],
+    "atoms_text": "第一个 你看火情 啥意思 这个火的情况啊 选药呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4096,
+    "seg_id": "S4-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第一点：看火情选药",
+    "template": "branch_path",
+    "items": [
+      "关节疼、牙疼、肌肉拉伤有炎症",
+      "选布洛芬，深入消炎降温",
+      "不选对乙酰氨基酚，作用不够"
+    ],
+    "atoms_text": "如果说你 关节疼 牙疼 肌肉拉伤 这种明火 那咱们选的布洛芬 它能深入的进入这个火场 给你降温消炎",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4097,
+    "seg_id": "S4-L3",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第一点：看火情选药",
+    "template": "branch_path",
+    "items": [
+      "普通头疼感冒发烧无明显炎症",
+      "选对乙酰氨基酚，温和退烧止疼",
+      "不必动用布洛芬"
+    ],
+    "atoms_text": "如果是你 普通的头疼感冒发烧 这种 哎 烟雾报警 它没有炎症 那你就选这个 哎 对乙酰氨基酚 它更温和",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4098,
+    "seg_id": "S5-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第二点：看副作用战场",
+    "template": "hero_text",
+    "items": [
+      "第二点：看副作用战场"
+    ],
+    "atoms_text": "第二个 看战场",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4099,
+    "seg_id": "S5-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第二点：看副作用战场",
+    "template": "list_fade",
+    "items": [
+      "空腹时尽量不服用",
+      "六个月以下婴儿禁用"
+    ],
+    "atoms_text": "那选布洛芬呢 它就像一个猛将 当然 它容易伤胃 所以说 空腹的时候 尽量别吃 那六个月以下的宝宝 也不能吃",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4100,
+    "seg_id": "S5-L3",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第二点：看副作用战场",
+    "template": "list_fade",
+    "items": [
+      "对胃肠比较友好",
+      "饮酒者慎用，过量伤肝"
+    ],
+    "atoms_text": "这个对乙酰氨基酚呢 像一个文将 它对呀 胃肠比较友好 但是 过量呢 也会伤肝 所以说 喝酒的人呢 要当心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4101,
+    "seg_id": "S6-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第三点：看用药时间",
+    "template": "hero_text",
+    "items": [
+      "第三点：看用药时间间隔"
+    ],
+    "atoms_text": "第三个 看时间用药啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4102,
+    "seg_id": "S6-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第三点：看用药时间",
+    "template": "split_column",
+    "items": [
+      "布洛芬：每6~8小时一次",
+      "对乙酰氨基酚：每4~6小时一次"
+    ],
+    "atoms_text": "就布洛芬呢 是六到八小时一次 一天呢 最多是四次",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4103,
+    "seg_id": "S6-L3",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第三点：看用药时间",
+    "template": "number_center",
+    "items": [
+      "4"
+    ],
+    "atoms_text": "这个对乙酰氨基酚呢 是四到六小时 哎 一次 一天 最多也是四次",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4104,
+    "seg_id": "S6-L4",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "第三点：看用药时间",
+    "template": "warning_alert",
+    "items": [
+      "两药不可交替服用，24小时内只选一种"
+    ],
+    "atoms_text": "但是注意了 这两个药啊 你可不能让它交替吃啊 这可是不对的啊 二十四小时之内啊 它只能选的一种",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4105,
+    "seg_id": "S7-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "家庭备药指南",
+    "template": "hero_text",
+    "items": [
+      "家庭建议两种药都常备"
+    ],
+    "atoms_text": "咱们家庭常备啊 建议两种都备",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4106,
+    "seg_id": "S7-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "家庭备药指南",
+    "template": "list_fade",
+    "items": [
+      "孩子发烧首选对乙酰氨基酚",
+      "混悬剂剂型更安全"
+    ],
+    "atoms_text": "那孩子发烧的时候呢 首选这个对乙酰氨基酚 当然 咱们有混悬剂啊 更安全",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4107,
+    "seg_id": "S7-L3",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "家庭备药指南",
+    "template": "list_fade",
+    "items": [
+      "酒后头疼选布洛芬，不伤肝"
+    ],
+    "atoms_text": "大人的酒后 这个头疼啊 咱们选布洛芬 哎 不伤肝",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4108,
+    "seg_id": "S7-L4",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "家庭备药指南",
+    "template": "hero_text",
+    "items": [
+      "痛经首选布洛芬消炎止痛"
+    ],
+    "atoms_text": "痛经呢 当然也选布洛芬",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4109,
+    "seg_id": "S8-L1",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "结尾行动号召",
+    "template": "hero_text",
+    "items": [
+      "转发给家里管药的人"
+    ],
+    "atoms_text": "那转发给 你家里那个管药的人啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4110,
+    "seg_id": "S8-L2",
+    "bp_title": "布洛芬 vs 对乙酰氨基酚，你选对了吗？",
+    "scene_title": "结尾行动号召",
+    "template": "hero_text",
+    "items": [
+      "关注张医生，科学用药少走弯路"
+    ],
+    "atoms_text": "关注张医生 少走弯路 教你科学的用药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4111,
+    "seg_id": "S1-L1",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "胸闷气短困扰很多人"
+    ],
+    "atoms_text": "大家好 我是 讲内科的 张医生 胸闷气短呢 这个事儿 很多人呢 都遇到过",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4112,
+    "seg_id": "S1-L2",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "开场引入",
+    "template": "list_fade",
+    "items": [
+      "爬两层楼喘半天",
+      "夜里躺下憋得慌"
+    ],
+    "atoms_text": "哎 一爬两层楼 喘半天 就晚上啊 躺下也 憋得慌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4113,
+    "seg_id": "S1-L3",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "开场引入",
+    "template": "branch_path",
+    "items": [
+      "胸闷气短从何而来",
+      "心脏出问题了",
+      "肺部出毛病了"
+    ],
+    "atoms_text": "那到底是 心脏不行了 还是 肺出毛病了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4114,
+    "seg_id": "S1-L4",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "开场引入",
+    "template": "hero_text",
+    "items": [
+      "一分钟教你区分心与肺"
+    ],
+    "atoms_text": "今天呢 教你 一分钟区别",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4115,
+    "seg_id": "S2-L1",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "心肺功能比喻",
+    "template": "hero_text",
+    "items": [
+      "把身体想象成一栋房子"
+    ],
+    "atoms_text": "咱们把身体呢 想象成 一个房子",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4116,
+    "seg_id": "S2-L2",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "心肺功能比喻",
+    "template": "split_column",
+    "items": [
+      "心脏是水泵",
+      "肺是空气净化器",
+      "负责全身供血",
+      "负责气体交换换氧"
+    ],
+    "atoms_text": "那心脏呢 是水泵 负责是 供血的 肺呢 是空气净化器 负责是 换氧气的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4117,
+    "seg_id": "S2-L3",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "心肺功能比喻",
+    "template": "branch_path",
+    "items": [
+      "胸闷气短原因",
+      "水泵不给力",
+      "净化器堵塞"
+    ],
+    "atoms_text": "那胸闷气短 要么呢 是水泵不给力 要么呢 就是净化器堵了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4118,
+    "seg_id": "S2-L4",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "心肺功能比喻",
+    "template": "hero_text",
+    "items": [
+      "如何判断是心还是肺"
+    ],
+    "atoms_text": "那我们 怎么区分呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4119,
+    "seg_id": "S3-L1",
+    "bp_title": "一分钟区分心脏问题还是肺部问题",
+    "scene_title": "发作时机判断",
+    "template": "hero_text",
+    "items": [
+      "第一招：看发作时机"
+    ],
+    "atoms_text": "第一 看发作的时机",
+    "needs_animation": false,
+    "label": ""
+  }
+]

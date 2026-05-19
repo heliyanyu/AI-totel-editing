@@ -1,0 +1,552 @@
+[
+  {
+    "global_index": 1280,
+    "seg_id": "S6-L7",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "严重感染威胁",
+    "template": "list_fade",
+    "items": [
+      "一旦肾脏的微血管被破坏",
+      "肾功能就有可能急剧的下降"
+    ],
+    "atoms_text": "一旦肾脏的微血管被破坏 肾功能就有可能急剧的下降",
+    "needs_animation": true,
+    "label": "感染破坏肾脏微血管导致肾功能急剧下降"
+  },
+  {
+    "global_index": 1281,
+    "seg_id": "S6-L8",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "严重感染威胁",
+    "template": "list_fade",
+    "items": [
+      "急性肾损伤的黄金窗口",
+      "可能就在二十四到四十八小时"
+    ],
+    "atoms_text": "急性肾损伤的黄金窗口 可能就在二十四到四十八小时",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1282,
+    "seg_id": "S7-L1",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "总结与呼吁",
+    "template": "hero_text",
+    "items": [
+      "记住五凶手保肾"
+    ],
+    "atoms_text": "这五个凶手记住了 关键的时候 真的能保住你的肾脏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1283,
+    "seg_id": "S7-L2",
+    "bp_title": "急性肾损伤的五大凶手",
+    "scene_title": "总结与呼吁",
+    "template": "hero_text",
+    "items": [
+      "我都说明白了吗"
+    ],
+    "atoms_text": "我都说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1284,
+    "seg_id": "S1-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "肾衰竭从何而来",
+    "template": "hero_text",
+    "items": [
+      "好好的肾脏，怎么突然就坏了？"
+    ],
+    "atoms_text": "好好的 肾脏 怎么 突然就 肾衰竭了 为什么",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1285,
+    "seg_id": "S1-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "肾衰竭从何而来",
+    "template": "warning_alert",
+    "items": [
+      "三四十岁，昨天上班今天透析"
+    ],
+    "atoms_text": "三四十岁的人 昨天还 正常上班吃饭 今天就被告知 有可能需要透析",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1286,
+    "seg_id": "S1-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "肾衰竭从何而来",
+    "template": "hero_text",
+    "items": [
+      "五大凶手，逐一揭秘"
+    ],
+    "atoms_text": "今天 一个视频 揭秘 急性肾损伤的 五大凶手",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1287,
+    "seg_id": "S2-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "hero_text",
+    "items": [
+      "第一凶手：药物伤肾"
+    ],
+    "atoms_text": "第一 药物伤肾 这个原因 最让人惋惜",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1288,
+    "seg_id": "S2-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "branch_path",
+    "items": [
+      "偶尔吃止痛药",
+      "偶尔服用，风险可控",
+      "长期大剂量，肾血管持续收缩"
+    ],
+    "atoms_text": "像布洛芬这类止痛药 偶尔吃一两次 没有什么问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1289,
+    "seg_id": "S2-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "warning_alert",
+    "items": [
+      "肾功能差者使用造影剂，风险更高"
+    ],
+    "atoms_text": "但如果 长期大剂量的吃 它会让 肾脏的血管 持续的收缩 供血不足 急性肾损伤 可能说来就来",
+    "needs_animation": true,
+    "label": "止痛药导致肾脏血管持续收缩供血不足"
+  },
+  {
+    "global_index": 1290,
+    "seg_id": "S2-L4",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "hero_text",
+    "items": [
+      "吃药这件事，真的不能随便"
+    ],
+    "atoms_text": "还有造影剂 肾功能本来就不好的人 去用造影剂 伤到肾脏的风险 会比较高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1291,
+    "seg_id": "S2-L5",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "list_fade",
+    "items": [
+      "长期用药，选药时需多留心"
+    ],
+    "atoms_text": "所以 吃药这件事 真的不能随便",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1292,
+    "seg_id": "S2-L6",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "color_grid",
+    "items": [
+      "列净类降糖药，额外保护肾脏",
+      "降糖护肾，一举两得"
+    ],
+    "atoms_text": "如果你本身就有慢性病 需要长期吃药 选药的时候 也要多留心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1293,
+    "seg_id": "S2-L7",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "color_grid",
+    "items": [
+      "沙坦类降压药，降尿蛋白护肾",
+      "普利类降压药，护心又护肾"
+    ],
+    "atoms_text": "有糖尿病的朋友 可以跟医生商量 选择列净类的降糖药 降血糖的同时 对肾脏有额外的保护作用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1294,
+    "seg_id": "S2-L8",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "step_arrow",
+    "items": [
+      "高尿酸长期不管",
+      "尿酸结晶沉积肾脏",
+      "肾功能持续下降"
+    ],
+    "atoms_text": "有高血压的朋友 可以优选 沙坦类和普利类的降压药 因为它们本身就有 降尿蛋白 护心护肾",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1295,
+    "seg_id": "S2-L9",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第一凶手：药物伤肾",
+    "template": "hero_text",
+    "items": [
+      "选对药，才能护好肾"
+    ],
+    "atoms_text": "高尿酸的朋友 也别忍着不管 尿酸结晶 沉积在肾脏里 时间长 肾功能就有可能 会往下掉",
+    "needs_animation": true,
+    "label": "尿酸结晶沉积在肾脏导致肾功能下降"
+  },
+  {
+    "global_index": 1296,
+    "seg_id": "S3-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第二凶手：脱水低血压",
+    "template": "hero_text",
+    "items": [
+      "第二凶手：严重脱水与低血压"
+    ],
+    "atoms_text": "第二 严重脱水和低血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1297,
+    "seg_id": "S3-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第二凶手：脱水低血压",
+    "template": "hero_text",
+    "items": [
+      "肾脏是人体净水机，每天过滤海量血液"
+    ],
+    "atoms_text": "肾脏就像 一台净水机 每天过滤 大量的血液",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1298,
+    "seg_id": "S3-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第二凶手：脱水低血压",
+    "template": "brick_stack",
+    "items": [
+      "持续腹泻失水",
+      "高烧大量出汗",
+      "手术失血过多"
+    ],
+    "atoms_text": "如果出现 连续的腹泻 高烧 出汗 手术失血 血容量会快速下降",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1299,
+    "seg_id": "S3-L4",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第二凶手：脱水低血压",
+    "template": "step_arrow",
+    "items": [
+      "血容量急速下降",
+      "肾脏供血减少",
+      "肾小管细胞缺氧坏死"
+    ],
+    "atoms_text": "没有足够的血容量 肾脏的供血就会减少 肾小管的细胞 最先会缺氧坏死",
+    "needs_animation": true,
+    "label": "血容量不足致肾脏供血减少肾小管细胞缺氧坏死"
+  },
+  {
+    "global_index": 1300,
+    "seg_id": "S4-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第三凶手：尿路梗阻",
+    "template": "hero_text",
+    "items": [
+      "第三凶手：尿路梗阻"
+    ],
+    "atoms_text": "第三 尿路梗阻",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1301,
+    "seg_id": "S4-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第三凶手：尿路梗阻",
+    "template": "list_fade",
+    "items": [
+      "前列腺增生堵尿路",
+      "结石卡住输尿管",
+      "肿瘤压迫尿道"
+    ],
+    "atoms_text": "前列腺增生 结石卡住输尿管 肿瘤压迫 尿排不出去",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1302,
+    "seg_id": "S4-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第三凶手：尿路梗阻",
+    "template": "step_arrow",
+    "items": [
+      "尿液排不出去",
+      "压力层层向上传导",
+      "肾脏被活活憋坏"
+    ],
+    "atoms_text": "压力 一层一层的向上传 肾脏就会被 活活的憋坏",
+    "needs_animation": true,
+    "label": "尿路梗阻压力逆向传导憋坏肾脏"
+  },
+  {
+    "global_index": 1303,
+    "seg_id": "S4-L4",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第三凶手：尿路梗阻",
+    "template": "warning_alert",
+    "items": [
+      "拖久了，损伤往往不可逆"
+    ],
+    "atoms_text": "这种损伤 拖久了 往往不可逆",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1304,
+    "seg_id": "S4-L5",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第三凶手：尿路梗阻",
+    "template": "hero_text",
+    "items": [
+      "排尿不顺畅，千万别隐忍"
+    ],
+    "atoms_text": "尤其是中老年男性 排尿不顺畅的时候 千万别隐忍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1305,
+    "seg_id": "S5-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第四凶手：横纹肌溶解",
+    "template": "hero_text",
+    "items": [
+      "第四凶手：横纹肌溶解"
+    ],
+    "atoms_text": "第四 横纹肌溶解",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1306,
+    "seg_id": "S5-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第四凶手：横纹肌溶解",
+    "template": "step_arrow",
+    "items": [
+      "平时不练，突然猛运动",
+      "肌红蛋白大量释放入血",
+      "堵塞肾小管，急性损伤"
+    ],
+    "atoms_text": "平时不锻炼 然后突然猛运动 肌肉大量的损伤 肌红蛋白就会跑到 血液里面 堵塞到肾小管",
+    "needs_animation": true,
+    "label": "肌红蛋白释放入血堵塞肾小管"
+  },
+  {
+    "global_index": 1307,
+    "seg_id": "S5-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第四凶手：横纹肌溶解",
+    "template": "warning_alert",
+    "items": [
+      "运动后尿色变酱油色，立即就医"
+    ],
+    "atoms_text": "如果你 剧烈运动之后 发现尿液 变成酱油色 这就是 一个比较危险的信号 需要马上去医院 看一看",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1308,
+    "seg_id": "S6-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第五凶手：严重感染",
+    "template": "hero_text",
+    "items": [
+      "第五凶手：严重感染"
+    ],
+    "atoms_text": "第五 严重的感染 这种情况 老年人和糖尿病患者 尤其要注意",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1309,
+    "seg_id": "S6-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第五凶手：严重感染",
+    "template": "step_arrow",
+    "items": [
+      "肺炎或尿路感染失控",
+      "发展为全身性感染",
+      "免疫系统攻击自身器官"
+    ],
+    "atoms_text": "有的时候 一个肺炎 一个尿路感染 控制不住 就会变成 全身的感染",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1310,
+    "seg_id": "S6-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第五凶手：严重感染",
+    "template": "warning_alert",
+    "items": [
+      "肾脏微血管被破坏，肾功能急剧下降"
+    ],
+    "atoms_text": "你的免疫系统 就有可能彻底失控 连自己的器官 也会一起伤害",
+    "needs_animation": true,
+    "label": "脓毒症免疫系统失控攻击自身器官"
+  },
+  {
+    "global_index": 1311,
+    "seg_id": "S6-L4",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "第五凶手：严重感染",
+    "template": "list_fade",
+    "items": [
+      "老年人感染更易失控",
+      "糖尿病患者尤其需警惕"
+    ],
+    "atoms_text": "一旦肾脏的微血管被破坏 肾功能就有可能 急剧的下降",
+    "needs_animation": true,
+    "label": "感染破坏肾脏微血管导致肾功能急剧下降"
+  },
+  {
+    "global_index": 1312,
+    "seg_id": "S7-L1",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "总结与行动呼吁",
+    "template": "number_center",
+    "items": [
+      "24~48小时"
+    ],
+    "atoms_text": "急性肾损伤的黄金窗口 可能就在 二十四到四十八小时",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1313,
+    "seg_id": "S7-L2",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "总结与行动呼吁",
+    "template": "list_fade",
+    "items": [
+      "药物滥用",
+      "严重脱水",
+      "尿路梗阻",
+      "横纹肌溶解",
+      "严重感染"
+    ],
+    "atoms_text": "这五个凶手 记住了 关键的时候 真的能保住 你的肾脏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1314,
+    "seg_id": "S7-L3",
+    "bp_title": "急性肾损伤五大凶手揭秘",
+    "scene_title": "总结与行动呼吁",
+    "template": "hero_text",
+    "items": [
+      "记住五大凶手，关键时刻保住肾脏"
+    ],
+    "atoms_text": "我都说明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1315,
+    "seg_id": "S1-L1",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "最害人的谣言",
+    "template": "myth_buster",
+    "items": [
+      "肾病不能吃肉",
+      "流传最广的有害谣言"
+    ],
+    "atoms_text": "得了肾病 不能吃肉 这大概是 流传最广 也是最害人的 一条谣言了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1316,
+    "seg_id": "S1-L2",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "最害人的谣言",
+    "template": "warning_alert",
+    "items": [
+      "大鱼大肉加速肾功能下降"
+    ],
+    "atoms_text": "过度大鱼大肉 确实可以 加速肾功能的下降",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1317,
+    "seg_id": "S1-L3",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "最害人的谣言",
+    "template": "myth_buster",
+    "items": [
+      "过度吃肉伤肾",
+      "一口肉不碰同样危险"
+    ],
+    "atoms_text": "但如果你 走到另一个极端 一口肉都不碰 那种情况 只会更糟",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1318,
+    "seg_id": "S1-L4",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "最害人的谣言",
+    "template": "step_arrow",
+    "items": [
+      "拒绝一切蛋白质摄入",
+      "身体被迫分解自身肌肉",
+      "免疫力下降抵抗力崩溃"
+    ],
+    "atoms_text": "因为你的身体 没有外来的蛋白质补充 而运转又必须要有蛋白质 那就会开始 分解你自己的肌肉 来凑合",
+    "needs_animation": true,
+    "label": "蛋白质缺乏时身体分解自身肌肉补充蛋白"
+  },
+  {
+    "global_index": 1319,
+    "seg_id": "S1-L5",
+    "bp_title": "肾病患者到底能不能吃肉？",
+    "scene_title": "最害人的谣言",
+    "template": "warning_alert",
+    "items": [
+      "肌肉流失人体消瘦",
+      "普通感冒可能拖成肺炎"
+    ],
+    "atoms_text": "时间一长 肌肉越来越少 人越来越瘦 免疫力也会越来越低 一个普通的感冒 都有可能会拖成肺炎",
+    "needs_animation": false,
+    "label": ""
+  }
+]

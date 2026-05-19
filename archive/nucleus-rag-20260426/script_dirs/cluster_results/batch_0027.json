@@ -1,0 +1,512 @@
+[
+  {
+    "global_index": 1080,
+    "seg_id": "S2-L4",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过大的风险",
+    "template": "hero_text",
+    "items": [
+      "脉压差大，必须在医生指导下调整用药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1081,
+    "seg_id": "S3-L1",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过小的原因",
+    "template": "list_fade",
+    "items": [
+      "脉压差偏小多见于中青年"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1082,
+    "seg_id": "S3-L2",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过小的原因",
+    "template": "brick_stack",
+    "items": [
+      "饮酒过量",
+      "压力过大、睡眠不足",
+      "浓茶咖啡摄入过多",
+      "缺乏规律运动",
+      "肥胖体重超标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1083,
+    "seg_id": "S3-L3",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "脉压差过小的原因",
+    "template": "hero_text",
+    "items": [
+      "心率偏快者更容易出现低压升高"
+    ],
+    "needs_animation": true,
+    "label": "心率加快导致舒张压升高的生理机制"
+  },
+  {
+    "global_index": 1084,
+    "seg_id": "S4-L1",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "如何改善脉压差",
+    "template": "hero_text",
+    "items": [
+      "发现脉压差异常，这三步要做到"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1085,
+    "seg_id": "S4-L2",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "如何改善脉压差",
+    "template": "number_center",
+    "items": [
+      "第一步：减体重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1086,
+    "seg_id": "S4-L3",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "如何改善脉压差",
+    "template": "list_fade",
+    "items": [
+      "减少饮酒，少喝浓茶和咖啡",
+      "保证充足睡眠",
+      "坚持规律有氧运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1087,
+    "seg_id": "S4-L4",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "如何改善脉压差",
+    "template": "branch_path",
+    "items": [
+      "生活调理后血压是否达标？",
+      "仍偏高，及时遵医嘱用药",
+      "已达标，继续保持健康生活方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1088,
+    "seg_id": "S5-L1",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "总结",
+    "template": "hero_text",
+    "items": [
+      "脉压差是血管健康的一面镜子"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1089,
+    "seg_id": "S5-L2",
+    "bp_title": "血压脉压差，你真的看懂了吗？",
+    "scene_title": "总结",
+    "template": "list_fade",
+    "items": [
+      "脉压差太大或太小都要引起重视",
+      "健康生活方式是根本",
+      "症状明显时及时就医别拖延"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1090,
+    "seg_id": "S1-L1",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动也会伤心脏？",
+    "template": "hero_text",
+    "items": [
+      "每月跑72公里，心脏却出问题了？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1091,
+    "seg_id": "S1-L2",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动也会伤心脏？",
+    "template": "number_center",
+    "items": [
+      "41"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1092,
+    "seg_id": "S1-L3",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动也会伤心脏？",
+    "template": "warning_alert",
+    "items": [
+      "有心脏隐患者运动过量反埋雷"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1093,
+    "seg_id": "S2-L1",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动与心脏的关系",
+    "template": "hero_text",
+    "items": [
+      "有氧运动对心脏有保护作用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1094,
+    "seg_id": "S2-L2",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动与心脏的关系",
+    "template": "list_fade",
+    "items": [
+      "增强心肌收缩力",
+      "改善全身血液循环"
+    ],
+    "needs_animation": true,
+    "label": "有氧运动增强心肌收缩与血液循环的生理机制"
+  },
+  {
+    "global_index": 1095,
+    "seg_id": "S2-L3",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动与心脏的关系",
+    "template": "hero_text",
+    "items": [
+      "运动强度必须匹配自身身体状况"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1096,
+    "seg_id": "S2-L4",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "运动与心脏的关系",
+    "template": "warning_alert",
+    "items": [
+      "超出承受范围，温和运动也变危险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1097,
+    "seg_id": "S3-L1",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "step_arrow",
+    "items": [
+      "剧烈运动要求心脏超负荷泵血",
+      "心肌耗氧量急剧增加",
+      "心肌缺血产生微小损伤"
+    ],
+    "needs_animation": true,
+    "label": "剧烈运动导致心肌缺血损伤的病理过程"
+  },
+  {
+    "global_index": 1098,
+    "seg_id": "S3-L2",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "step_arrow",
+    "items": [
+      "剧烈运动刺激交感神经过度兴奋",
+      "引发室性早搏、房颤等心律失常"
+    ],
+    "needs_animation": true,
+    "label": "交感神经过度兴奋诱发心律失常的病理过程"
+  },
+  {
+    "global_index": 1099,
+    "seg_id": "S3-L3",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "warning_alert",
+    "items": [
+      "严重时诱发恶性心律失常猝死"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1100,
+    "seg_id": "S3-L4",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "list_fade",
+    "items": [
+      "肥厚型心肌病患者",
+      "冠状动脉狭窄患者"
+    ],
+    "needs_animation": true,
+    "label": "肥厚型心肌病与冠状动脉狭窄的解剖结构"
+  },
+  {
+    "global_index": 1101,
+    "seg_id": "S3-L5",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "hero_text",
+    "items": [
+      "剧烈运动是隐匿心脏病的致命诱因"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1102,
+    "seg_id": "S3-L6",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "step_arrow",
+    "items": [
+      "剧烈运动",
+      "心脏负荷骤增",
+      "瞬间诱发心梗或心绞痛"
+    ],
+    "needs_animation": true,
+    "label": "心脏负荷骤增诱发急性心肌梗死的病理过程"
+  },
+  {
+    "global_index": 1103,
+    "seg_id": "S3-L7",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "hero_text",
+    "items": [
+      "结构异常的心脏无法承受负荷骤增"
+    ],
+    "needs_animation": true,
+    "label": "心脏结构异常的解剖展示"
+  },
+  {
+    "global_index": 1104,
+    "seg_id": "S3-L8",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "brick_stack",
+    "items": [
+      "心脏本身结构或功能异常",
+      "剧烈运动导致负荷骤增",
+      "心梗或心绞痛急性发作"
+    ],
+    "needs_animation": true,
+    "label": "心脏结构异常导致急性心梗的病理过程"
+  },
+  {
+    "global_index": 1105,
+    "seg_id": "S3-L9",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "过度运动的三大伤害",
+    "template": "warning_alert",
+    "items": [
+      "心脏负荷骤增可瞬间致命"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1106,
+    "seg_id": "S4-L1",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "张雪峰案例复盘",
+    "template": "number_center",
+    "items": [
+      "2023"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1107,
+    "seg_id": "S4-L2",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "张雪峰案例复盘",
+    "template": "brick_stack",
+    "items": [
+      "长期承担高强度工作",
+      "频繁应对各种情绪波动",
+      "持续大量跑步运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1108,
+    "seg_id": "S4-L3",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "张雪峰案例复盘",
+    "template": "body_annotate",
+    "items": [
+      "跑步后嘴唇发紫",
+      "心脏供血供氧不足"
+    ],
+    "needs_animation": true,
+    "label": "心脏供血供氧不足的病理机制"
+  },
+  {
+    "global_index": 1109,
+    "seg_id": "S4-L4",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "张雪峰案例复盘",
+    "template": "hero_text",
+    "items": [
+      "积累的隐患成为压垮心脏的最后一根稻草"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1110,
+    "seg_id": "S5-L1",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "list_fade",
+    "items": [
+      "中老年人群",
+      "职场高压人群"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1111,
+    "seg_id": "S5-L2",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "split_column",
+    "items": [
+      "中等强度有氧运动",
+      "适度力量训练"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1112,
+    "seg_id": "S5-L3",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "list_fade",
+    "items": [
+      "快走",
+      "游泳",
+      "太极"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1113,
+    "seg_id": "S5-L4",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "number_center",
+    "items": [
+      "150"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1114,
+    "seg_id": "S5-L5",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "category_table",
+    "items": [
+      "目标心率公式",
+      "（220－年龄）×60%～70%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1115,
+    "seg_id": "S5-L6",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "list_fade",
+    "items": [
+      "哑铃",
+      "弹力带"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1116,
+    "seg_id": "S5-L7",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "number_center",
+    "items": [
+      "2～3"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1117,
+    "seg_id": "S5-L8",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "list_fade",
+    "items": [
+      "增强心肺功能",
+      "控制体重",
+      "避免心脏超负荷"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1118,
+    "seg_id": "S5-L9",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "科学护心运动方案",
+    "template": "hero_text",
+    "items": [
+      "改善情绪，缓解压力，身心双赢"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1119,
+    "seg_id": "S6-L1",
+    "bp_title": "运动过度会伤心？张雪峰亲历揭示护心真相",
+    "scene_title": "暖心收尾提醒",
+    "template": "hero_text",
+    "items": [
+      "最后一句暖心提醒送给你"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,515 @@
+[
+  {
+    "global_index": 2520,
+    "seg_id": "S6-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "为何不愿意捐",
+    "template": "list_fade",
+    "items": [
+      "签了捐献，医生还会全力救我吗？",
+      "器官会不会被有钱人买走？",
+      "制度透明度不够，百姓心里打鼓"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2521,
+    "seg_id": "S7-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官分配制度解析",
+    "template": "hero_text",
+    "items": [
+      "国家有专门的器官分配计算机系统"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2522,
+    "seg_id": "S7-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官分配制度解析",
+    "template": "list_fade",
+    "items": [
+      "只看病情紧急程度",
+      "只看器官配型结果",
+      "不看身份、财富、地位",
+      "系统自动分配，任何人无法干预"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2523,
+    "seg_id": "S7-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官分配制度解析",
+    "template": "split_column",
+    "items": [
+      "判定死亡的医生",
+      "执行移植的医生",
+      "两组完全独立",
+      "杜绝利益冲突"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2524,
+    "seg_id": "S7-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官分配制度解析",
+    "template": "hero_text",
+    "items": [
+      "现有制度已非常严密"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2525,
+    "seg_id": "S8-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "最难开口的那一刻",
+    "template": "hero_text",
+    "items": [
+      "手术失败后，医生该不该提捐献？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2526,
+    "seg_id": "S8-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "最难开口的那一刻",
+    "template": "warning_alert",
+    "items": [
+      "家属正经历天塌的痛苦",
+      "医生此时开口，极易被当作冷血"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2527,
+    "seg_id": "S8-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "最难开口的那一刻",
+    "template": "hero_text",
+    "items": [
+      "很多医生明知有机会，却不敢开口"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2528,
+    "seg_id": "S8-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "最难开口的那一刻",
+    "template": "hero_text",
+    "items": [
+      "这是人性最难的考验"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2529,
+    "seg_id": "S9-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "协助成全而非劝捐",
+    "template": "hero_text",
+    "items": [
+      "如果不是任务，而是帮助呢？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2530,
+    "seg_id": "S9-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "协助成全而非劝捐",
+    "template": "myth_buster",
+    "items": [
+      "直接问要不要捐器官",
+      "等情绪平复后轻声引导",
+      "给家属施加道德压力",
+      "提供选择，无论如何都尊重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2531,
+    "seg_id": "S9-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "协助成全而非劝捐",
+    "template": "hero_text",
+    "items": [
+      "他的生命可以用另一种方式延续"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2532,
+    "seg_id": "S9-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "协助成全而非劝捐",
+    "template": "hero_text",
+    "items": [
+      "不是绑架，而是给家属一个出口"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2533,
+    "seg_id": "S10-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "绝望里的那一点光",
+    "template": "hero_text",
+    "items": [
+      "最怕的是：人没了，什么都没留下"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2534,
+    "seg_id": "S10-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "绝望里的那一点光",
+    "template": "split_column",
+    "items": [
+      "心脏在另一个人胸膛里跳动",
+      "眼角膜带别人去看世界",
+      "对家属是安慰与寄托",
+      "逝者的爱以另一种形式延续"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2535,
+    "seg_id": "S10-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "绝望里的那一点光",
+    "template": "hero_text",
+    "items": [
+      "这不是残忍，这是绝望里的光"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2536,
+    "seg_id": "S11-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "生命最高级的延续",
+    "template": "hero_text",
+    "items": [
+      "捐献不是不敬，是生命最高级的延续"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2537,
+    "seg_id": "S11-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "生命最高级的延续",
+    "template": "number_center",
+    "items": [
+      "8人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2538,
+    "seg_id": "S12-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "做在前面才有用",
+    "template": "hero_text",
+    "items": [
+      "这件事，得做在最后一刻之前"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2539,
+    "seg_id": "S12-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "做在前面才有用",
+    "template": "warning_alert",
+    "items": [
+      "觉得不吉利不谈，事到临头就来不及"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2540,
+    "seg_id": "S12-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "做在前面才有用",
+    "template": "hero_text",
+    "items": [
+      "每个成年人，都值得认真想想这件事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2541,
+    "seg_id": "S12-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "做在前面才有用",
+    "template": "step_arrow",
+    "items": [
+      "生前未明确表示不愿意捐",
+      "由配偶、成年子女、父母共同决定",
+      "决定权落在家人肩上"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2542,
+    "seg_id": "S12-L5",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "做在前面才有用",
+    "template": "hero_text",
+    "items": [
+      "愿意捐就提前登记，别让家人去猜"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2543,
+    "seg_id": "S13-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "信任与文明的考题",
+    "template": "hero_text",
+    "items": [
+      "好的沟通：提供让爱延续的可能"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2544,
+    "seg_id": "S13-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "信任与文明的考题",
+    "template": "hero_text",
+    "items": [
+      "这考验的是社会的信任与文明程度"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2545,
+    "seg_id": "S13-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "信任与文明的考题",
+    "template": "hero_text",
+    "items": [
+      "每个人往前迈一小步，就能多一点希望"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2546,
+    "seg_id": "S14-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "小王的选择",
+    "template": "hero_text",
+    "items": [
+      "小王刚有了孩子，理念比较开明"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2547,
+    "seg_id": "S14-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "小王的选择",
+    "template": "hero_text",
+    "items": [
+      "让父亲的器官为他人带去新生"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2548,
+    "seg_id": "S14-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "小王的选择",
+    "template": "hero_text",
+    "items": [
+      "善良的人，值得被世界记住"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2549,
+    "seg_id": "S1-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "真实案例引入",
+    "template": "number_center",
+    "items": [
+      "低密度脂蛋白临界值"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2550,
+    "seg_id": "S1-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "真实案例引入",
+    "template": "warning_alert",
+    "items": [
+      "颈动脉两侧均发现斑块",
+      "指标\"正常\"为何血管出问题"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉粥样硬化斑块形成"
+  },
+  {
+    "global_index": 2551,
+    "seg_id": "S2-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "参考值的隐藏前提",
+    "template": "brick_stack",
+    "items": [
+      "无高血压",
+      "无糖尿病",
+      "不抽烟不肥胖",
+      "家族无心脏病史"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2552,
+    "seg_id": "S2-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "参考值的隐藏前提",
+    "template": "hero_text",
+    "items": [
+      "三点四以下，短期大概率没事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2553,
+    "seg_id": "S2-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "参考值的隐藏前提",
+    "template": "step_arrow",
+    "items": [
+      "低密度脂蛋白持续存在",
+      "对血管持续产生损伤",
+      "伤害随时间不断累积"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白对血管内膜的持续损伤过程"
+  },
+  {
+    "global_index": 2554,
+    "seg_id": "S3-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "血管仓库模型",
+    "template": "step_arrow",
+    "items": [
+      "低密度每天往血管里搬货",
+      "搬得慢仓库也终将装满",
+      "装满那天斑块就形成了"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白在血管壁沉积形成斑块过程"
+  },
+  {
+    "global_index": 2555,
+    "seg_id": "S3-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "血管仓库模型",
+    "template": "hero_text",
+    "items": [
+      "问题不在今天数值，在于维持了多少年"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2556,
+    "seg_id": "S3-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "血管仓库模型",
+    "template": "split_column",
+    "items": [
+      "低密度长期维持 3.8",
+      "低密度长期维持 2.0",
+      "血管斑块积累量显著更多",
+      "血管状态明显更健康"
+    ],
+    "needs_animation": true,
+    "label": "不同低密度脂蛋白水平下血管斑块累积对比"
+  },
+  {
+    "global_index": 2557,
+    "seg_id": "S3-L4",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "血管仓库模型",
+    "template": "hero_text",
+    "items": [
+      "低密度脂蛋白对普通人越低越好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2558,
+    "seg_id": "S4-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "高危人群标准更严",
+    "template": "brick_stack",
+    "items": [
+      "高血压",
+      "糖尿病",
+      "长期吸烟",
+      "家族早发心梗史"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2559,
+    "seg_id": "S4-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "高危人群标准更严",
+    "template": "body_annotate",
+    "items": [
+      "血管内膜反复损伤",
+      "相当于仓库比别人更小",
+      "同样数值更快引发危险"
+    ],
+    "needs_animation": true,
+    "label": "高危人群血管内膜反复损伤过程"
+  }
+]

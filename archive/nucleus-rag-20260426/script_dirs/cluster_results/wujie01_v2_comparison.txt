@@ -1,0 +1,105 @@
+========== S2-L3 [心梗发病底层逻辑] ==========
+【医生原话】随着年龄增长 长期熬夜 高脂饮食 或者抽烟 这些管道内壁上 就会慢慢长出 一些像水垢一样的斑块
+
+【素材】ANS00149_Atherosclerosis Bulleted Version.mp4
+  选中范围: [8.8-61.4s]
+  理由: 医生讲的是：年龄增长、熬夜、高脂饮食、抽烟等危险因素导致血管内壁慢慢长出斑块（像水垢）。素材[13]（动脉粥样硬化）在8.8-19.9s描述了脂肪沉积物（斑块）在动脉壁内积聚、阻塞血流的过程；25.8-38.4s列出了危险因素（高血压、高胆固醇、吸烟、糖尿病、肥胖、缺乏运动），与医生提到的风险因素高度吻合；38.4-61.4s进一步描述了动脉内壁损伤后胆固醇、脂肪等物质在损伤处逐渐积聚的过程，正好对应医生所说的"管道内壁慢慢长出水垢一样的斑块"。语义方向完全一致：风险因素→动脉壁损伤→斑块形成。
+  该范围内旁白:
+    [8.8-13.8s] This condition is a process in which deposits of fatty material, called plaque, build
+    [13.8-19.9s] up inside the walls of arteries, reducing or completely blocking blood flow.
+    [19.9-25.8s] In extreme cases, this disease can lead to a heart attack or a stroke.
+    [25.8-31.8s] These factors for atherosclerosis include high blood pressure, high cholesterol, tobacco
+    [31.8-38.4s] smoke, diabetes, obesity, and physical inactivity.
+    [38.4-44.0s] Although the exact causes of atherosclerosis are not clear, many scientists think it begins
+    [44.0-49.2s] with damage to the inner wall of an artery, called the endothelium.
+    [49.2-55.7s] Over time, substances traveling in the blood, such as cholesterol, fats, and cellular waste
+    [55.7-61.4s] products accumulate inside the damaged area of the arterial wall.
+
+========== S2-L4 [心梗发病底层逻辑] ==========
+【医生原话】平时这些斑块 只是让管道变窄 但在情绪激动 极度劳累 或气温骤降时 斑块表面的包膜 可能会突然破裂
+
+【素材】ANS00260_Atherosclerosis.mp4
+  选中范围: [125.7-156.8s]
+  理由: 素材[9]在125.7-156.8s展示了完整的动脉粥样硬化斑块演变过程：纤维帽(fibrous cap)覆盖斑块→管腔变窄减少血流→纤维帽侵蚀破裂(cap may erode and break open)→斑块释放入血流→血栓形成。这与医生所讲的"平时斑块让管道变窄→包膜突然破裂"在语义和医学机制上高度一致，尤其是"fibrous cap"精确对应"包膜"，"erode and break open"对应"突然破裂"。
+  该范围内旁白:
+    [125.7-132.3s] These cells contribute to the formation of a firm, fibrous cap covering the plaque.
+    [132.3-138.1s] Eventually, the passageway through the artery narrows, enough to reduce blood flow, and
+    [138.1-142.4s] the amount of oxygen received by the organs it supplies.
+    [142.4-149.2s] Over time, the cap may erode and break open, releasing plaque into the bloodstream.
+    [149.2-154.6s] The plaque can flow downstream and contribute to the formation of a blood clot, which can
+    [154.6-156.8s] stop blood flow.
+
+========== S2-L5 [心梗发病底层逻辑] ==========
+【医生原话】身体的免疫系统 为了修补破损 会立刻召唤大量血小板聚集 结果越聚越多 瞬间形成一个巨大的血栓 把整个血管 死死堵住 这就是心血管堵塞
+
+【素材】ANH16180_About Your Heart Attack.mp4
+  选中范围: [63.0-103.2s]
+  理由: 医生描述的是斑块破裂→血小板聚集形成血栓→血管完全堵塞=心梗的发病机制。素材[4] 63.0-103.2s完整覆盖了这一过程：斑块积聚(fatty substance called plaque)→斑块破裂后血栓形成(blood clot might form)→突然完全堵塞血管(sudden complete blockage stopping blood flow)→心肌缺氧死亡→心肌梗死(heart attack/myocardial infarction)。尤其"sudden complete blockage"与医生所说"瞬间形成巨大血栓死死堵住"高度吻合，语义方向完全一致。
+  该范围内旁白:
+    [63.0-68.2s] Your reduced blood flow may have been caused by a buildup of a fatty substance called plaque
+    [68.2-71.4s] in your coronary arteries.
+    [71.4-77.6s] If this plaque became disrupted, a blood clot might form and severely worsen the narrowing
+    [77.6-84.2s] or lead to a sudden complete blockage stopping blood flow down the artery.
+    [84.2-89.4s] A blockage in your coronary arteries prevented the oxygen and nutrients in your blood from
+    [89.4-93.9s] reaching the part of your heart supplied by the artery.
+    [93.9-98.9s] As a result, heart muscle in that area started to die.
+    [98.9-103.2s] Damage to part of your heart muscle is called a heart attack.
+
+========== S2-L6 [心梗发病底层逻辑] ==========
+【医生原话】血管堵 下游的心肌细胞 就像被掐住了脖子 没有氧气和养分 几十分钟内 就会开始不可逆的坏死
+
+【素材】ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+  选中范围: [128.7-148.8s]
+  理由: 医生讲"血管堵→没有氧气和养分→坏死"的因果链，素材[1] 128.7-148.8s完整对应：blockage prevents oxygen and nutrients from reaching heart muscle → heart muscle starts to die → death of heart muscle = heart attack，语义方向和因果逻辑完全一致。
+  该范围内旁白:
+    [128.7-134.4s] Regardless of the cause, a blockage in either coronary artery prevents the oxygen and nutrients
+    [134.4-140.0s] in your blood from reaching the part of your heart supplied by the artery.
+    [140.0-145.2s] As a result, heart muscle in that area starts to die.
+    [145.2-148.8s] Death of part of your heart muscle is called a heart attack.
+
+========== S3-L3 [错误一：乱动身体] ==========
+【医生原话】前面说了 心梗是 在给心脏供血的管道堵了 你在这个时候 走路 爬楼梯 做动作 全身的耗氧量 就会剧增
+
+【素材】AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+  选中范围: [18.6-36.7s]
+  理由: 医生讲的是心梗时冠状动脉堵塞（供血减少），此时乱动会增加全身耗氧量（需求增加），供需失衡导致心肌坏死。素材[7] 18.6-36.7s 正好解释了心梗时"blood flow greatly reduced"且"blood supply not able to keep up with the demand"导致心肌细胞死亡，与医生警告的供需失衡机制完全一致。
+  该范围内旁白:
+    [18.6-25.2s] A heart attack, also called a myocardial infarction, or MI, occurs when blood flow to an area of
+    [25.2-29.4s] your heart is greatly reduced.
+    [29.4-34.2s] When the blood supply is not able to keep up with the demand, the heart muscle cells don't
+    [34.2-36.7s] get enough blood to stay alive.
+
+========== S3-L5 [错误一：乱动身体] ==========
+【医生原话】这种无谓的体力消耗 会迅速扩大心肌坏死的面积 极易诱发 致命的心室颤动
+
+【素材】ANH14135_Cardiac Arrhythmia.mp4
+  选中范围: [179.6-199.3s]
+  理由: 医生原话警告"致命的心室颤动"，素材[0]在179.6-199.3s描述了室颤(ventricular fibrillation)是最严重的心律失常，多处随机电冲动导致心室颤抖而非正常搏动，属于医疗急症因心脏无法有效泵血——语义方向完全一致，都在强调室颤的致命性。素材[2]虽标题为室颤但无旁白，不可选。
+  该范围内旁白:
+    [179.6-186.4s] The most serious aridhmia is ventricular fibrillation, where many random impulses fire rapidly within
+    [186.4-188.8s] the ventricular walls.
+    [188.8-194.1s] In ventricular fibrillation, the ventricles are quivering instead of beating.
+    [194.1-199.3s] This is a medical emergency because the heart cannot effectively pump blood to the body
+
+========== S4-L5 [错误二：进食与乱用药] ==========
+【医生原话】如果患者此时 是因为右心室梗死 导致的低血压 再吃 具有扩张血管降压作用的 硝酸甘油 会让血压瞬间崩盘 直接休克
+
+【素材】无合适匹配
+
+========== S5-L3 [错误三：迷信偏方] ==========
+【医生原话】从医学角度讲 这完全是无稽之谈 用力拍打 不仅不能把血栓拍散 反而会因为剧烈疼痛 刺激交感神经 让血压进一步升高 心脏负担更重
+
+【素材】ANH13100_High Blood Pressure (Hypertension).mp4
+  选中范围: [231.0-250.4s]
+  理由: 医生讲的核心是：拍打不能散血栓，反而让血压升高、心脏负担加重。素材[0] 231.0-250.4s依次展示：斑块增大导致血流减少→血细胞粘附形成血栓(clots)→动脉损伤使血压进一步升高(raises your blood pressure even more)→心脏被迫更用力跳动(making your heart beat more forcefully)。语义方向一致：都是在描述"血栓+血压升高+心脏负担加重"这一负面病理链条，画面可以配合医生对偏方危害的警告。
+  该范围内旁白:
+    [231.0-237.0s] Blood cells can stick to the plaque and form solid clumps called clots, further reducing
+    [237.0-243.8s] or completely blocking your blood flow.
+    [243.8-248.4s] Damage to your arteries raises your blood pressure even more by making your heart beat
+    [248.4-250.4s] more forcefully.
+
+========== S9-L1 [黄金步骤第四步：等] ==========
+【医生原话】第四步是等 保持情绪稳定 安静等待救援 过度恐慌和焦虑 会让肾上腺素飙升 进一步收缩血管
+
+【素材】无合适匹配
+

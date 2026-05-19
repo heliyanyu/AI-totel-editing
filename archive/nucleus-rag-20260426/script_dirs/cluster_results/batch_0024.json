@@ -1,0 +1,533 @@
+[
+  {
+    "global_index": 960,
+    "seg_id": "S2-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "运动伤血管的机制",
+    "template": "split_column",
+    "items": [
+      "运动时心率加快",
+      "血压比平时明显升高",
+      "血液流速加快",
+      "血液冲击力增强"
+    ],
+    "needs_animation": true,
+    "label": "运动时心率血压升高与血流冲击力变化"
+  },
+  {
+    "global_index": 961,
+    "seg_id": "S2-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "运动伤血管的机制",
+    "template": "step_arrow",
+    "items": [
+      "血液猛烈冲击血管",
+      "直接作用于血管内膜",
+      "血管内膜受到损伤"
+    ],
+    "needs_animation": true,
+    "label": "血流冲击导致血管内膜损伤过程"
+  },
+  {
+    "global_index": 962,
+    "seg_id": "S2-L3",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "运动伤血管的机制",
+    "template": "hero_text",
+    "items": [
+      "血管内膜损伤是冲击力直接造成的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 963,
+    "seg_id": "S2-L4",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "运动伤血管的机制",
+    "template": "step_arrow",
+    "items": [
+      "血管内膜受损",
+      "斑块开始形成",
+      "心血管风险上升"
+    ],
+    "needs_animation": true,
+    "label": "血管内膜损伤后斑块形成过程"
+  },
+  {
+    "global_index": 964,
+    "seg_id": "S2-L5",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "运动伤血管的机制",
+    "template": "hero_text",
+    "items": [
+      "运动对血管是一种直接伤害"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 965,
+    "seg_id": "S3-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "为什么还要运动",
+    "template": "hero_text",
+    "items": [
+      "既然有伤害，为什么还鼓励运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 966,
+    "seg_id": "S3-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "为什么还要运动",
+    "template": "number_center",
+    "items": [
+      "1小时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 967,
+    "seg_id": "S3-L3",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "为什么还要运动",
+    "template": "warning_alert",
+    "items": [
+      "半小时运动确实造成轻微损伤"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 968,
+    "seg_id": "S3-L4",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "为什么还要运动",
+    "template": "brick_stack",
+    "items": [
+      "代谢能力增强",
+      "微循环更加丰富",
+      "心脏收缩力提升",
+      "血压与心率长期下降",
+      "血管自我修复能力提升"
+    ],
+    "needs_animation": true,
+    "label": "长期运动对心血管系统的适应性改善机制"
+  },
+  {
+    "global_index": 969,
+    "seg_id": "S3-L5",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "为什么还要运动",
+    "template": "hero_text",
+    "items": [
+      "长期适度运动，收益远大于伤害"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 970,
+    "seg_id": "S3-L6",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "为什么还要运动",
+    "template": "hero_text",
+    "items": [
+      "所以远远大于伤害"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 971,
+    "seg_id": "S4-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "过量运动的危险",
+    "template": "hero_text",
+    "items": [
+      "一旦过量，情况完全反转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 972,
+    "seg_id": "S4-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "过量运动的危险",
+    "template": "step_arrow",
+    "items": [
+      "损伤超过身体修复能力",
+      "老旧细胞率先扛不住",
+      "健康细胞也被压垮"
+    ],
+    "needs_animation": true,
+    "label": "过量运动导致血管细胞损伤累积过程"
+  },
+  {
+    "global_index": 973,
+    "seg_id": "S4-L3",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "过量运动的危险",
+    "template": "warning_alert",
+    "items": [
+      "血管里可能藏着不稳定斑块",
+      "本人完全不知道它的存在"
+    ],
+    "needs_animation": true,
+    "label": "血管内不稳定斑块结构"
+  },
+  {
+    "global_index": 974,
+    "seg_id": "S4-L4",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "过量运动的危险",
+    "template": "step_arrow",
+    "items": [
+      "剧烈运动血流猛烈冲击",
+      "不稳定斑块被冲破",
+      "血栓瞬间形成，急性心梗"
+    ],
+    "needs_animation": true,
+    "label": "不稳定斑块破裂与血栓形成导致急性心梗"
+  },
+  {
+    "global_index": 975,
+    "seg_id": "S5-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "研究数据说明",
+    "template": "number_center",
+    "items": [
+      "2-3小时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 976,
+    "seg_id": "S5-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "研究数据说明",
+    "template": "split_column",
+    "items": [
+      "强度适中慢跑者",
+      "死亡风险最低",
+      "高强度高频率运动者",
+      "死亡风险接近久坐不动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 977,
+    "seg_id": "S5-L3",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "研究数据说明",
+    "template": "hero_text",
+    "items": [
+      "运动与健康是U型曲线，适度有益过度有害"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 978,
+    "seg_id": "S6-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "最危险的运动模式",
+    "template": "warning_alert",
+    "items": [
+      "平时久坐一整天不动",
+      "周末突然跑十公里"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 979,
+    "seg_id": "S6-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "最危险的运动模式",
+    "template": "step_arrow",
+    "items": [
+      "心脏长期处于低负荷",
+      "突然飙升至极高负荷",
+      "这是最容易猝死的模式"
+    ],
+    "needs_animation": true,
+    "label": "心脏从低负荷骤升至极高负荷的危险机制"
+  },
+  {
+    "global_index": 980,
+    "seg_id": "S7-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "三类不适合大量运动的情况",
+    "template": "hero_text",
+    "items": [
+      "这三种情况不适合大量运动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 981,
+    "seg_id": "S7-L2",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "三类不适合大量运动的情况",
+    "template": "warning_alert",
+    "items": [
+      "平时血压160-170，运动飙至200",
+      "这不是锻炼，是脑出血的风险"
+    ],
+    "needs_animation": true,
+    "label": "高血压状态下运动导致脑出血风险机制"
+  },
+  {
+    "global_index": 982,
+    "seg_id": "S7-L3",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "三类不适合大量运动的情况",
+    "template": "warning_alert",
+    "items": [
+      "发烧生病时炎症水平本就偏高",
+      "此时血管内膜更容易受损"
+    ],
+    "needs_animation": true,
+    "label": "炎症状态下血管内膜损伤加重机制"
+  },
+  {
+    "global_index": 983,
+    "seg_id": "S7-L4",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "三类不适合大量运动的情况",
+    "template": "warning_alert",
+    "items": [
+      "身体极度疲惫时硬撑跑步",
+      "这不是自律，是与心脏为敌"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 984,
+    "seg_id": "S8-L1",
+    "bp_title": "运动伤血管？真相没人告诉你",
+    "scene_title": "结语与呼吁",
+    "template": "hero_text",
+    "items": [
+      "量力而行，健康运动，爱护心脏与血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 985,
+    "seg_id": "S1-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "你试过的那些方法",
+    "template": "list_fade",
+    "items": [
+      "睡前喝牛奶",
+      "每晚泡脚",
+      "吃褪黑素",
+      "薰衣草精油",
+      "几百块助眠枕头"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 986,
+    "seg_id": "S1-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "你试过的那些方法",
+    "template": "branch_path",
+    "items": [
+      "这些方法管用吗",
+      "管了两天又回去了",
+      "最终放弃，认命了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 987,
+    "seg_id": "S1-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "你试过的那些方法",
+    "template": "hero_text",
+    "items": [
+      "觉得自己天生睡不好——真的吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 988,
+    "seg_id": "S2-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "真实案例：甲亢引发失眠",
+    "template": "list_fade",
+    "items": [
+      "褪黑素吃了好几瓶",
+      "助眠喷雾",
+      "镇静毯",
+      "睡眠仪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 989,
+    "seg_id": "S2-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "真实案例：甲亢引发失眠",
+    "template": "number_center",
+    "items": [
+      "小几千元"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 990,
+    "seg_id": "S2-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "真实案例：甲亢引发失眠",
+    "template": "step_arrow",
+    "items": [
+      "抽血检查甲状腺功能",
+      "结果显示：甲亢",
+      "甲状腺拼命分泌激素，身体持续兴奋"
+    ],
+    "needs_animation": true,
+    "label": "甲亢时甲状腺激素过度分泌导致身体持续兴奋机制"
+  },
+  {
+    "global_index": 991,
+    "seg_id": "S2-L4",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "真实案例：甲亢引发失眠",
+    "template": "body_annotate",
+    "items": [
+      "心跳加速",
+      "手抖",
+      "怕热",
+      "大脑无法平静"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 992,
+    "seg_id": "S2-L5",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "真实案例：甲亢引发失眠",
+    "template": "myth_buster",
+    "items": [
+      "褪黑素能治好失眠",
+      "褪黑素只调生物钟，管不了甲状腺",
+      "多吃褪黑素就能入睡",
+      "根本原因不解决，吃多少都无效"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 993,
+    "seg_id": "S3-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "失眠的根本不是睡眠问题",
+    "template": "hero_text",
+    "items": [
+      "你的失眠，可能根本不是睡眠的问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 994,
+    "seg_id": "S3-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "失眠的根本不是睡眠问题",
+    "template": "list_fade",
+    "items": [
+      "默认你身体没毛病",
+      "只是睡不着，推一把就行",
+      "忽略了真正的病因"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 995,
+    "seg_id": "S3-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "失眠的根本不是睡眠问题",
+    "template": "step_arrow",
+    "items": [
+      "一直在尝试助眠方法",
+      "从未往前追问原因",
+      "我到底为什么睡不着？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 996,
+    "seg_id": "S4-L1",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因一：慢性焦虑",
+    "template": "hero_text",
+    "items": [
+      "除了甲亢，这几个原因你对照看看"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 997,
+    "seg_id": "S4-L2",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因一：慢性焦虑",
+    "template": "list_fade",
+    "items": [
+      "自己都不一定意识到",
+      "白天忙，顾不上想",
+      "躺下安静后脑子开始转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 998,
+    "seg_id": "S4-L3",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因一：慢性焦虑",
+    "template": "list_fade",
+    "items": [
+      "明天那件事怎么办",
+      "上个月那笔钱还没还",
+      "孩子成绩又下来了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 999,
+    "seg_id": "S4-L4",
+    "bp_title": "失眠治不好？你可能一直在治错地方",
+    "scene_title": "常见隐藏病因一：慢性焦虑",
+    "template": "warning_alert",
+    "items": [
+      "大脑不肯关机，不是真的不困",
+      "焦虑不处理，助眠方法全是隔靴搔痒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,571 @@
+[
+  {
+    "global_index": 40,
+    "seg_id": "S2-L3",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第一件事：把药吃好",
+    "template": "step_arrow",
+    "items": [
+      "阿司匹林、氯吡格雷",
+      "阻止血管内血栓再形成",
+      "防止脑梗再次发作"
+    ],
+    "atoms_text": "脑梗死后啊 医生开的每种药 都有道理 抗血栓药物 如阿司匹林呐氯吡格雷呀 是防止血管里的血栓再形成的",
+    "needs_animation": true,
+    "label": "抗血栓药物阻止血管内血栓再形成"
+  },
+  {
+    "global_index": 41,
+    "seg_id": "S2-L4",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第一件事：把药吃好",
+    "template": "step_arrow",
+    "items": [
+      "停用他汀类降脂药",
+      "胆固醇斑块失控易破裂",
+      "血栓形成，脑梗复发"
+    ],
+    "atoms_text": "他汀类的降脂药 是控制胆固醇斑块的 停了 斑块就容易破裂 一旦破了 血栓脑梗 就形成",
+    "needs_animation": true,
+    "label": "他汀停药后胆固醇斑块破裂引发血栓形成脑梗"
+  },
+  {
+    "global_index": 42,
+    "seg_id": "S3-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第二件事：控好血压",
+    "template": "hero_text",
+    "items": [
+      "高血压是脑梗复发的头号帮凶"
+    ],
+    "atoms_text": "第二 把血压控制平稳 高血压 是脑梗复发的头号帮凶",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 43,
+    "seg_id": "S3-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第二件事：控好血压",
+    "template": "myth_buster",
+    "items": [
+      "在吃药就不用量血压了",
+      "不量血压无法判断血压是否达标"
+    ],
+    "atoms_text": "很多人 吃着降压药 却不量血压 家里连个血压计都没有 问他血压多少了 他说不知道 反正在吃药 这就跟开车不看速度表一样 迟早要出事的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 44,
+    "seg_id": "S3-L3",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第二件事：控好血压",
+    "template": "split_column",
+    "items": [
+      "血压大起大落",
+      "稳定控制在130/80以下",
+      "一天120，一天160",
+      "大幅波动比持续高更伤血管"
+    ],
+    "atoms_text": "脑梗之后啊 血压一般要控制在 一百三十八十毫米汞柱以下 而且关键要稳 不能今天一百二 明天一百六 大起大落的 对血管的伤害 要比持续性升高还要大",
+    "needs_animation": true,
+    "label": "血压大幅波动对血管壁的冲击损伤"
+  },
+  {
+    "global_index": 45,
+    "seg_id": "S3-L4",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第二件事：控好血压",
+    "template": "list_fade",
+    "items": [
+      "买血压计放在家中",
+      "每天早晚各测量一次",
+      "记录数据带给医生复查"
+    ],
+    "atoms_text": "买个血压计 放在家里 每天早晚各测量一次 记下来 复诊的时候 带给你的医生看 这是你做到的 最简单最有用的事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 46,
+    "seg_id": "S4-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第三件事：管好血糖血脂",
+    "template": "brick_stack",
+    "items": [
+      "高血压",
+      "糖尿病",
+      "高脂血症",
+      "多因素叠加，血管受损加倍"
+    ],
+    "atoms_text": "第三 关注血糖和血脂 脑梗的人呐 往往不只是一个病因 很多人 同时拥有 糖尿病 高脂血症 这些危险因素 凑在一起 对血管的打击 就是叠加了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 47,
+    "seg_id": "S4-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第三件事：管好血糖血脂",
+    "template": "step_arrow",
+    "items": [
+      "血糖高，血管泡在糖水中",
+      "低密度脂蛋白高，斑块越长越大",
+      "血管又硬又脆，随时可能破裂"
+    ],
+    "atoms_text": "血糖高了 血管就像泡在糖水里 时间长了 又硬又脆 低密度脂蛋白高了 胆固醇就往血管壁里面钻 斑块就越长越大",
+    "needs_animation": true,
+    "label": "高血糖浸泡血管使其硬脆及低密度脂蛋白钻入血管壁形成斑块"
+  },
+  {
+    "global_index": 48,
+    "seg_id": "S4-L3",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第三件事：管好血糖血脂",
+    "template": "category_table",
+    "items": [
+      "低密度脂蛋白",
+      "控制在1.8mmol/L以下",
+      "糖化血红蛋白",
+      "控制在7%以下"
+    ],
+    "atoms_text": "脑梗后啊 低密度脂蛋白 一般要控制在 一点八毫摩尔以下 糖化血红蛋白呢 最好控制在 百分之七以下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 49,
+    "seg_id": "S4-L4",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第三件事：管好血糖血脂",
+    "template": "hero_text",
+    "items": [
+      "该吃他汀吃他汀，该打胰岛素打胰岛素"
+    ],
+    "atoms_text": "这些指标 是经过大量研究证明的 达标了 复发风险 就能明显降低 所以 该吃他汀就吃他汀 该打胰岛素就打胰岛素 别硬扛着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 50,
+    "seg_id": "S5-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第四件事：动起来",
+    "template": "myth_buster",
+    "items": [
+      "脑梗后应该卧床静养不能动",
+      "不动反而让血管更脆、更易复发"
+    ],
+    "atoms_text": "第四 动起来 很多脑梗后的病人呐 家里人不让动 生怕再出事 天天躺在家里养着 这其实就反了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 51,
+    "seg_id": "S5-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第四件事：动起来",
+    "template": "step_arrow",
+    "items": [
+      "长期不动",
+      "血液循环变差，肌肉萎缩",
+      "血管弹性下降，复发风险升高"
+    ],
+    "atoms_text": "越不动 血液循环越差 肌肉就越萎缩 血管就越没有弹性 反而更容易复发",
+    "needs_animation": true,
+    "label": "缺乏运动导致血液循环变差、肌肉萎缩、血管弹性下降"
+  },
+  {
+    "global_index": 52,
+    "seg_id": "S5-L3",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第四件事：动起来",
+    "template": "vertical_timeline",
+    "items": [
+      "起步期：散步10-20分钟",
+      "适应期：逐步加量",
+      "目标期：每次步行半小时",
+      "有障碍：坚持康复训练"
+    ],
+    "atoms_text": "当然不是让你去跑马拉松 而是在自己能力范围之内 循序渐进的活动 走路就是最好的开始 一开始走上十分二十分 慢慢加量 走上半个小时 就很好了 如果手脚还有功能障碍 就坚持做康复训练 不能偷懒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 53,
+    "seg_id": "S5-L4",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第四件事：动起来",
+    "template": "list_fade",
+    "items": [
+      "降低脑梗复发风险",
+      "改善情绪，缓解焦虑抑郁",
+      "改善睡眠质量"
+    ],
+    "atoms_text": "运动不仅能预防复发 还能改善情绪和睡眠 脑梗后 很多人就容易焦虑抑郁 运动呢 就是最好的天然的药物",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 54,
+    "seg_id": "S6-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第五件事：戒烟断酒",
+    "template": "warning_alert",
+    "items": [
+      "血管已发出警告，再抽烟喝酒是拿命在赌"
+    ],
+    "atoms_text": "第五 把烟戒了 把酒断了 我说的直白一点 你已经得过一次脑梗了 血管已经给你发出警告了 如果还在抽烟喝酒 那就是拿命在赌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 55,
+    "seg_id": "S6-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第五件事：戒烟断酒",
+    "template": "split_column",
+    "items": [
+      "烟中有害物质损伤血管内膜",
+      "酒精导致血压波动",
+      "加速斑块形成和破裂",
+      "与阿司匹林同用胃出血风险大增"
+    ],
+    "atoms_text": "烟里的有害物质 直接损伤血管内膜 加速斑块的形成和破裂 酒会让血压波动 还跟药物打架 比如阿司匹林加酒精 胃出血的风险 一下子就上来了",
+    "needs_animation": true,
+    "label": "烟草有害物质损伤血管内膜加速斑块形成与破裂"
+  },
+  {
+    "global_index": 56,
+    "seg_id": "S6-L3",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第五件事：戒烟断酒",
+    "template": "hero_text",
+    "items": [
+      "要那口烟酒，还是和家人好好过下半辈子"
+    ],
+    "atoms_text": "我知道 戒烟戒酒 对很多人来讲 比吃药还困难 但你想想 是要那一口烟一杯酒的快活呢 还是跟家人好好的 过好下半辈子呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 57,
+    "seg_id": "S7-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "总结：五件事要坚持",
+    "template": "list_fade",
+    "items": [
+      "把药吃好，不要自己停药",
+      "血压盯住，保持平稳",
+      "血糖血脂达标，别硬扛",
+      "在能力范围内动起来",
+      "把烟酒彻底戒掉"
+    ],
+    "atoms_text": "总结一下 预防脑梗复发 第一 把药吃好 别自己停药 第二 把血压盯住 控制平稳 第三 血糖血脂要达标 别硬扛着 第四 能力范围之内的 活动起来 第五 把烟酒戒掉",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 58,
+    "seg_id": "S7-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "总结：五件事要坚持",
+    "template": "hero_text",
+    "items": [
+      "脑梗给了你一次机会，千万别浪费它"
+    ],
+    "atoms_text": "这五件事 说起来简单 但真正能坚持做到的人 不是很多 脑梗给了您一次机会 千万别浪费它 懂了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 59,
+    "seg_id": "S1-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "警示开场",
+    "template": "warning_alert",
+    "items": [
+      "5种不寻常疼痛可能是重病信号",
+      "千万不要忍着拖着"
+    ],
+    "atoms_text": "老年朋友们 注意了 如果身上 出现这五种 不寻常的疼痛 千万不要 忍着拖着 他们可能 不是小毛病 而是一些 重大疾病 发出的警报",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 60,
+    "seg_id": "S2-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "hero_text",
+    "items": [
+      "走一段腿酸疼，歇一会又能走"
+    ],
+    "atoms_text": "第一种 走路走一段 腿就酸疼 歇一会儿 又能走了 再走一段 又疼",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 61,
+    "seg_id": "S2-L2",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "myth_buster",
+    "items": [
+      "老了没劲儿，正常现象",
+      "下肢动脉出问题，不是年老"
+    ],
+    "atoms_text": "这种走走停停的腿疼啊 很多人啊 以为是老了 没劲了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 62,
+    "seg_id": "S2-L3",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "step_arrow",
+    "items": [
+      "腿部血管长斑块堵塞",
+      "走路肌肉需血供不上来",
+      "酸疼发作，休息后缓解"
+    ],
+    "atoms_text": "其实啊 大概率是 下肢动脉 出问题了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 63,
+    "seg_id": "S2-L4",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "hero_text",
+    "items": [
+      "间歇性跛行"
+    ],
+    "atoms_text": "你腿上血管 跟心脏一样 也会长斑块 会堵 堵到一定程度 走路时啊 肌肉需要血 但供不上来 就酸疼 一歇着 就不疼了",
+    "needs_animation": true,
+    "label": "下肢动脉斑块堵塞致行走时肌肉缺血酸疼休息后缓解"
+  },
+  {
+    "global_index": 64,
+    "seg_id": "S2-L5",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "warning_alert",
+    "items": [
+      "腿血管堵，心脑血管往往也堵"
+    ],
+    "atoms_text": "这叫 间歇性跛行",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 65,
+    "seg_id": "S2-L6",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "list_fade",
+    "items": [
+      "心脏血管同步受累风险高",
+      "脑部血管状况不容乐观"
+    ],
+    "atoms_text": "这个信号很重要 因为腿上血管堵了 心脏和脑袋的血管 往往也好不到哪去",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 66,
+    "seg_id": "S2-L7",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "腿疼走走停停",
+    "template": "hero_text",
+    "items": [
+      "做下肢动脉超声排查"
+    ],
+    "atoms_text": "建议去做个 下肢动脉超声 排查一下原因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 67,
+    "seg_id": "S3-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "胃疼警惕心梗",
+    "template": "hero_text",
+    "items": [
+      "胸骨下方疼，一活动就发作"
+    ],
+    "atoms_text": "第二种 胃部 胸骨下面这里疼 一活动就疼",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 68,
+    "seg_id": "S3-L2",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "胃疼警惕心梗",
+    "template": "myth_buster",
+    "items": [
+      "上腹不适就是胃病消化不良",
+      "活动后胃疼可能是心梗信号"
+    ],
+    "atoms_text": "不要以为 这里不舒服 就等于 胃病消化不良",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 69,
+    "seg_id": "S3-L3",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "胃疼警惕心梗",
+    "template": "list_fade",
+    "items": [
+      "恶心呕吐",
+      "冒冷汗",
+      "劳累后发作"
+    ],
+    "atoms_text": "如果是 劳累后 活动后的胃疼 还伴随着 恶心呕吐 冒冷汗 这很可能是 心肌梗死 心绞痛的信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 70,
+    "seg_id": "S3-L4",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "胃疼警惕心梗",
+    "template": "step_arrow",
+    "items": [
+      "心梗发作",
+      "疼痛放射至上腹部",
+      "误以为是胃病延误就诊"
+    ],
+    "atoms_text": "因为心梗啊 不但可以在胸口 也可以放射到 我们的上腹部 让人误解 以为是胃疼",
+    "needs_animation": true,
+    "label": "心梗疼痛从心脏放射至上腹部的传导路径"
+  },
+  {
+    "global_index": 71,
+    "seg_id": "S3-L5",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "胃疼警惕心梗",
+    "template": "hero_text",
+    "items": [
+      "去医院查个心电图"
+    ],
+    "atoms_text": "最好去医院 查个心电图 比较放心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 72,
+    "seg_id": "S4-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "hero_text",
+    "items": [
+      "固定位置持续疼，夜间更重"
+    ],
+    "atoms_text": "第三种 某个固定位置 持续的疼 尤其是夜里 疼的更厉害 而且越来越重",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 73,
+    "seg_id": "S4-L2",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "warning_alert",
+    "items": [
+      "越来越重的固定骨痛一定要重视"
+    ],
+    "atoms_text": "这种疼啊 一定要重视",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 74,
+    "seg_id": "S4-L3",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "split_column",
+    "items": [
+      "活动多了疼，休息后缓解",
+      "夜间更疼，休息也不缓解",
+      "疼痛稳定不进展",
+      "一天比一天厉害"
+    ],
+    "atoms_text": "一般的骨关节疼啊 活动多了疼 休息后能缓解",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 75,
+    "seg_id": "S4-L4",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "color_grid",
+    "items": [
+      "肺癌病史",
+      "前列腺癌病史",
+      "乳腺癌病史"
+    ],
+    "atoms_text": "但如果某个地方 白天疼 晚上更疼 休息也不缓解 一天比一天厉害 就要警惕 肿瘤骨转移",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 76,
+    "seg_id": "S4-L5",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "warning_alert",
+    "items": [
+      "早发现还能干预，拖久了就被动"
+    ],
+    "atoms_text": "尤其是有 肺癌 前列腺癌 乳腺癌 病史 老人 骨头是这些肿瘤 最爱转移的地方",
+    "needs_animation": true,
+    "label": "肺癌前列腺癌乳腺癌经血行向骨骼转移"
+  },
+  {
+    "global_index": 77,
+    "seg_id": "S4-L6",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "hero_text",
+    "items": [
+      "持续加重固定骨痛赶紧去查"
+    ],
+    "atoms_text": "这种疼啊 拖不得 早发现 还有机会干预 拖久了 就会被动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 78,
+    "seg_id": "S4-L7",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "固定骨痛警惕转移",
+    "template": "list_fade",
+    "items": [
+      "骨扫描排查转移",
+      "结合原发癌病史综合评估"
+    ],
+    "atoms_text": "持续加重的 固定部位疼痛的 赶紧去查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 79,
+    "seg_id": "S5-L1",
+    "bp_title": "老年人这5种疼痛千万别忍",
+    "scene_title": "手脚麻疼糖尿病神经",
+    "template": "hero_text",
+    "items": [
+      "手脚麻刺痛，像戴手套袜子"
+    ],
+    "atoms_text": "第四种 手脚发麻刺痛 像戴着手套袜子一样 从脚尖手指尖开始",
+    "needs_animation": false,
+    "label": ""
+  }
+]

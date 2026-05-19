@@ -1,0 +1,518 @@
+[
+  {
+    "global_index": 3720,
+    "seg_id": "S7-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "病理性尿频五：结石与肿瘤",
+    "template": "list_fade",
+    "items": [
+      "早期出现无痛性肉眼血尿",
+      "后期伴尿频尿痛",
+      "长期吸烟者风险更高",
+      "接触化工物质者风险更高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3721,
+    "seg_id": "S8-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "hero_text",
+    "items": [
+      "出现红色警报，不要拖，立刻就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3722,
+    "seg_id": "S8-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "list_fade",
+    "items": [
+      "尿频伴发烧寒战腰痛"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3723,
+    "seg_id": "S8-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "warning_alert",
+    "items": [
+      "肉眼可见小便有血，无论多少"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3724,
+    "seg_id": "S8-L4",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "warning_alert",
+    "items": [
+      "排尿疼痛剧烈甚至不敢排尿"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3725,
+    "seg_id": "S8-L5",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "list_fade",
+    "items": [
+      "尿线变细，排尿费力",
+      "中老年男性尤其警惕前列腺问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3726,
+    "seg_id": "S8-L6",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "warning_alert",
+    "items": [
+      "尿频持续超1~2周仍未改善"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3727,
+    "seg_id": "S8-L7",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "六大红色警报信号",
+    "template": "list_fade",
+    "items": [
+      "全身乏力，没有胃口",
+      "下肢水肿，可能肾功能异常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3728,
+    "seg_id": "S9-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "改善尿频的实用建议",
+    "template": "hero_text",
+    "items": [
+      "坚持这些习惯，尿频可以改善"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3729,
+    "seg_id": "S9-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "改善尿频的实用建议",
+    "template": "list_fade",
+    "items": [
+      "每天饮水1000~2000ml，少量多次",
+      "高温出汗多时适当增加饮水",
+      "睡前两小时少喝水，减少夜尿"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3730,
+    "seg_id": "S9-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "改善尿频的实用建议",
+    "template": "list_fade",
+    "items": [
+      "睡前少喝咖啡浓茶酒精",
+      "少吃辛辣刺激食物",
+      "控制盐的摄入"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3731,
+    "seg_id": "S9-L4",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "改善尿频的实用建议",
+    "template": "step_arrow",
+    "items": [
+      "收缩肛门及会阴肌，保持3~5秒",
+      "放松3~5秒，每组10~15次，每天3组",
+      "坚持4~6周，排尿控制明显改善"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3732,
+    "seg_id": "S9-L5",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "改善尿频的实用建议",
+    "template": "list_fade",
+    "items": [
+      "避免久坐",
+      "勤换内裤，穿透气裤子",
+      "保持好心态，缓解压力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3733,
+    "seg_id": "S10-L1",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "尿频是警报，别忽视",
+    "template": "myth_buster",
+    "items": [
+      "尿频只是多喝水，不用管",
+      "尿频是身体警报，需找到根源",
+      "随便吃药调理就能好",
+      "规范治疗，早发现早改善"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3734,
+    "seg_id": "S10-L2",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "尿频是警报，别忽视",
+    "template": "hero_text",
+    "items": [
+      "早发现早治疗，大多数尿频可以改善"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3735,
+    "seg_id": "S10-L3",
+    "bp_title": "尿频不是小事——一条视频说清楚所有原因",
+    "scene_title": "尿频是警报，别忽视",
+    "template": "hero_text",
+    "items": [
+      "你有类似情况吗？评论区说说看"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3736,
+    "seg_id": "S1-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "沉默的肾脏危机",
+    "template": "number_center",
+    "items": [
+      "1.2亿"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3737,
+    "seg_id": "S1-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "沉默的肾脏危机",
+    "template": "warning_alert",
+    "items": [
+      "初诊时肾功能已剩二三成"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3738,
+    "seg_id": "S1-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "沉默的肾脏危机",
+    "template": "hero_text",
+    "items": [
+      "没有人是突然肾衰的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3739,
+    "seg_id": "S1-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "沉默的肾脏危机",
+    "template": "number_center",
+    "items": [
+      "5"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3740,
+    "seg_id": "S1-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "沉默的肾脏危机",
+    "template": "hero_text",
+    "items": [
+      "每一步你都有机会踩刹车"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3741,
+    "seg_id": "S2-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "vertical_timeline",
+    "items": [
+      "肾脏有损伤，滤过功能仍正常",
+      "尿中出现微量蛋白或结构异常",
+      "肾小球滤过率仍在90以上"
+    ],
+    "needs_animation": true,
+    "label": "肾小球滤过功能与早期肾损伤病理过程"
+  },
+  {
+    "global_index": 3742,
+    "seg_id": "S2-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "warning_alert",
+    "items": [
+      "毫无不适感觉",
+      "血肌酐检查完全正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3743,
+    "seg_id": "S2-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "hero_text",
+    "items": [
+      "这是逆转肾损伤的黄金窗口"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3744,
+    "seg_id": "S2-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "list_fade",
+    "items": [
+      "控制血压达标",
+      "血糖管理到位",
+      "用上护肾药物"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3745,
+    "seg_id": "S2-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "hero_text",
+    "items": [
+      "积极干预可稳住甚至逆转损伤"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3746,
+    "seg_id": "S2-L6",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "split_column",
+    "items": [
+      "放任不管",
+      "积极干预",
+      "肾功能持续滑落",
+      "损伤有望逆转"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3747,
+    "seg_id": "S2-L7",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第一阶段：黄金窗口",
+    "template": "hero_text",
+    "items": [
+      "此刻行动，代价最小"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3748,
+    "seg_id": "S3-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第二阶段：轻度下降",
+    "template": "number_center",
+    "items": [
+      "60–89"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3749,
+    "seg_id": "S3-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第二阶段：轻度下降",
+    "template": "warning_alert",
+    "items": [
+      "仍无明显症状",
+      "血肌酐可能仍在正常范围"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3750,
+    "seg_id": "S3-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第二阶段：轻度下降",
+    "template": "myth_buster",
+    "items": [
+      "血肌酐正常说明肾没问题",
+      "eGFR已悄悄低于正常水平",
+      "没感觉就不用管",
+      "此时干预仍能阻断进展"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3751,
+    "seg_id": "S3-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第二阶段：轻度下降",
+    "template": "list_fade",
+    "items": [
+      "严格控制三高",
+      "饮食管住嘴",
+      "用对保护肾脏的药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3752,
+    "seg_id": "S3-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第二阶段：轻度下降",
+    "template": "number_center",
+    "items": [
+      "10–20年"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3753,
+    "seg_id": "S3-L6",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第二阶段：轻度下降",
+    "template": "hero_text",
+    "items": [
+      "早干预，争取十年不进展"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3754,
+    "seg_id": "S4-L1",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "number_center",
+    "items": [
+      "30–59"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3755,
+    "seg_id": "S4-L2",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "hero_text",
+    "items": [
+      "这是走向透析的分水岭"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3756,
+    "seg_id": "S4-L3",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "list_fade",
+    "items": [
+      "夜尿次数增多",
+      "持续疲乏无力",
+      "食欲明显下降",
+      "脚踝出现浮肿"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3757,
+    "seg_id": "S4-L4",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "myth_buster",
+    "items": [
+      "这些是年纪大的正常反应",
+      "血肌酐此时往往已经升高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3758,
+    "seg_id": "S4-L5",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "list_fade",
+    "items": [
+      "普利类或沙坦类降压护肾",
+      "利尿药物延缓进展",
+      "适度控制蛋白质摄入"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3759,
+    "seg_id": "S4-L6",
+    "bp_title": "肾病五阶段：你现在走到哪一步了？",
+    "scene_title": "第三阶段：关键分水岭",
+    "template": "number_center",
+    "items": [
+      "数年"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,556 @@
+[
+  {
+    "global_index": 2320,
+    "seg_id": "S5-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测量姿势要正确",
+    "template": "hero_text",
+    "items": [
+      "早晚测量都要坐着测"
+    ],
+    "atoms_text": "还有一点 很多人就忽略了 不管是早晨测 还是晚上测 呃都要坐着测 取坐位的血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2321,
+    "seg_id": "S5-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测量姿势要正确",
+    "template": "split_column",
+    "items": [
+      "坐位测量，数值准确",
+      "躺着测量，数值有偏差"
+    ],
+    "atoms_text": "不是躺着的时候 这个姿势不对呀 血压测出来 也会有偏差",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2322,
+    "seg_id": "S5-L3",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测量姿势要正确",
+    "template": "warning_alert",
+    "items": [
+      "姿势不对，医生也无法准确判断"
+    ],
+    "atoms_text": "拿着这个数值 去跟你医生说 医生也判断不准",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2323,
+    "seg_id": "S6-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测后记录血压数据",
+    "template": "list_fade",
+    "items": [
+      "测完后记录血压值",
+      "同步记录当次心率"
+    ],
+    "atoms_text": "那测完之后呢 一定要做记录 把这个血压的值 和心率 都写下来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2324,
+    "seg_id": "S6-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测后记录血压数据",
+    "template": "hero_text",
+    "items": [
+      "这份记录在复诊时非常有用"
+    ],
+    "atoms_text": "这份记录啊 在复诊的时候 非常有用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2325,
+    "seg_id": "S6-L3",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测后记录血压数据",
+    "template": "split_column",
+    "items": [
+      "书面记录，医生一眼看出趋势",
+      "口头描述，信息模糊难以判断"
+    ],
+    "atoms_text": "那医生能 从你这个上 一眼就看出来 这一段血压的 一个变化趋势",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2326,
+    "seg_id": "S6-L4",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测后记录血压数据",
+    "template": "myth_buster",
+    "items": [
+      "血压计有记忆功能，不用另外记",
+      "建议另外手动记录，养成习惯"
+    ],
+    "atoms_text": "比你口头描述 今天血压好 还是不好 或者是有点高 那这个有价值多了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2327,
+    "seg_id": "S6-L5",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "测后记录血压数据",
+    "template": "hero_text",
+    "items": [
+      "另记一份，是好习惯的开始"
+    ],
+    "atoms_text": "那现在很多血压计 它有本身有个 记忆功能 但我还是建议你 就是另外记一份 养成一个习惯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2328,
+    "seg_id": "S7-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "特殊情况可加测",
+    "template": "branch_path",
+    "items": [
+      "白天出现头晕、头痛等不适",
+      "随时加测一次，完全没问题",
+      "日常无不适，早晚各一次即可"
+    ],
+    "atoms_text": "如果说白天 出现头晕了 头痛了 这些不舒服的 一个状态 随时加测一次 这个是完全没有问题的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2329,
+    "seg_id": "S7-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "特殊情况可加测",
+    "template": "hero_text",
+    "items": [
+      "规律监测只需早晚各一次"
+    ],
+    "atoms_text": "但是作为日常的 一个规律监测 早晚测一次就够了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2330,
+    "seg_id": "S8-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "血压管理核心原则",
+    "template": "hero_text",
+    "items": [
+      "方法对、节奏稳，胜过焦虑反复测"
+    ],
+    "atoms_text": "血压管理是件 长期的事儿 方法对了 节奏稳了 比每天焦虑的 反复测量 有效多了 懂了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2331,
+    "seg_id": "S1-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "门诊真实困惑",
+    "template": "hero_text",
+    "items": [
+      "138/85，我血压正常吗？"
+    ],
+    "atoms_text": "我在门诊 经常遇到这样的情况 有人拿着血压计 测出来的 一百三八十五 说 大夫你看看 我这个血压 是不是正常的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2332,
+    "seg_id": "S1-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "门诊真实困惑",
+    "template": "hero_text",
+    "items": [
+      "118/78，是不是偏低要补？"
+    ],
+    "atoms_text": "也有些人 测出来 一百一十八七十八 说 我这个血压 是不是有点低了 是不是要补一补",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2333,
+    "seg_id": "S1-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "门诊真实困惑",
+    "template": "warning_alert",
+    "items": [
+      "两种判断都不准确"
+    ],
+    "atoms_text": "其实这两个人 对于血压的判断 都不太对",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2334,
+    "seg_id": "S1-L4",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "门诊真实困惑",
+    "template": "hero_text",
+    "items": [
+      "今天把血压标准讲清楚"
+    ],
+    "atoms_text": "今天我就 把这件事儿 跟大家讲出来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2335,
+    "seg_id": "S2-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "三个数值你能看懂吗",
+    "template": "color_grid",
+    "items": [
+      "110/70",
+      "132/84",
+      "158/96"
+    ],
+    "atoms_text": "那首先 我给大家看 三个数值 第一个是 一百一七十 第二个是 一百三十二八十四 第三个是 一百五十八九十六",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2336,
+    "seg_id": "S2-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "三个数值你能看懂吗",
+    "template": "hero_text",
+    "items": [
+      "哪个正常？哪个超标？"
+    ],
+    "atoms_text": "那你能判断 哪个是理想的血压 哪个是快到边缘了 哪个是高血压吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2337,
+    "seg_id": "S2-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "三个数值你能看懂吗",
+    "template": "hero_text",
+    "items": [
+      "一个一个来讲清楚"
+    ],
+    "atoms_text": "别急 我一个一个跟大家讲",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2338,
+    "seg_id": "S3-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压三级分类标准",
+    "template": "hero_text",
+    "items": [
+      "国家指南：血压分三类"
+    ],
+    "atoms_text": "按照我们国家目前的 高血压指南 高血压分为三类",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2339,
+    "seg_id": "S3-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压三级分类标准",
+    "template": "number_center",
+    "items": [
+      "＜120/80"
+    ],
+    "atoms_text": "第一类叫 正常血压 高压低于一百二 低压低于八十 两个都在 在这个范围内 才叫真正的正常",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2340,
+    "seg_id": "S3-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压三级分类标准",
+    "template": "split_column",
+    "items": [
+      "高压 120～139",
+      "低压 80～89",
+      "属于正常高值",
+      "已向高血压靠近"
+    ],
+    "atoms_text": "第二个叫 正常高值 高压在 一百二到一百三十九之间 或者是 低压在 八十到八十九之间 落到这个区间的 一个血压 那这个叫正常也行 但其实 它已经往高血压的方向走了 需要引起注意了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2341,
+    "seg_id": "S3-L4",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压三级分类标准",
+    "template": "warning_alert",
+    "items": [
+      "高压≥140 或低压≥90",
+      "任意一项达标即为高血压"
+    ],
+    "atoms_text": "第三类就叫 高血压了 高压大于等于一百四 或者是 低压大于等于九十 只要有一个数字 达到这个数了 那这个就叫高血压了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2342,
+    "seg_id": "S4-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "三个数值对号入座",
+    "template": "category_table",
+    "items": [
+      "110/70 → 理想血压",
+      "正常血压段，无需担心",
+      "132/84 → 正常高值",
+      "需关注，及时调整",
+      "158/96 → 高血压",
+      "须就医，正规管理"
+    ],
+    "atoms_text": "所以回头看一看 这三个数 一百一七十 是不是理想血压 一百三十二八十四 是不是叫正常高值 一百五十八九十六 那这个就是高血压了 这个是不是没有疑问",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2343,
+    "seg_id": "S5-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "120/80究竟算哪类",
+    "template": "hero_text",
+    "items": [
+      "120/80，人人都说是标准血压"
+    ],
+    "atoms_text": "那你可能要问了 一百二八十 这个大家口口相传的 一个标准血压 到底分哪一类",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2344,
+    "seg_id": "S5-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "120/80究竟算哪类",
+    "template": "number_center",
+    "items": [
+      "120/80"
+    ],
+    "atoms_text": "说实话 一百二八十 它就卡在 正常高值这个边缘线上了 那高压刚好一百二 低压刚好八十",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2345,
+    "seg_id": "S5-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "120/80究竟算哪类",
+    "template": "myth_buster",
+    "items": [
+      "120/80是理想血压",
+      "已进入正常高值区间"
+    ],
+    "atoms_text": "那按照指南 它已经不在 正常血压那一档的了 而是进入了 一个正常高值的 一个状态 它不是理想血压了 只是还没有到高血压而已",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2346,
+    "seg_id": "S5-L4",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "120/80究竟算哪类",
+    "template": "split_column",
+    "items": [
+      "理想血压",
+      "正常高值",
+      "高压＜120且低压＜80",
+      "未达高血压但有风险"
+    ],
+    "atoms_text": "那这个两个概念 是不一样的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2347,
+    "seg_id": "S6-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "正常高值该怎么办",
+    "template": "warning_alert",
+    "items": [
+      "正常高值发展成高血压风险更高"
+    ],
+    "atoms_text": "那正常高值 我们就要认真对待了 因为这部分人 将来发展为高血压的风险 它比理想血压的人 高的多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2348,
+    "seg_id": "S6-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "正常高值该怎么办",
+    "template": "list_fade",
+    "items": [
+      "减少食盐摄入",
+      "控制体重",
+      "规律运动",
+      "避免熬夜"
+    ],
+    "atoms_text": "不是说你现在就要吃药 但是生活方式 必须要注意起来 少食盐 控制体重 规律运动 别熬夜",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2349,
+    "seg_id": "S6-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "正常高值该怎么办",
+    "template": "hero_text",
+    "items": [
+      "这些习惯能把血压往回拉"
+    ],
+    "atoms_text": "这些不是废话 是真正能把你 正常高值往回拉的 一个东西",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2350,
+    "seg_id": "S7-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压是怎么产生的",
+    "template": "hero_text",
+    "items": [
+      "血流对血管壁的压力=血压"
+    ],
+    "atoms_text": "然后顺便说一说 这个血压究竟是什么 我们血管里 有流动的血液 这血液在流动的过程中 对血管壁产生的 一个压力 就是血压",
+    "needs_animation": true,
+    "label": "血液在血管中流动对血管壁产生压力形成血压"
+  },
+  {
+    "global_index": 2351,
+    "seg_id": "S7-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压是怎么产生的",
+    "template": "step_arrow",
+    "items": [
+      "心脏收缩用力泵血",
+      "血管压力最大",
+      "即高压（收缩压）"
+    ],
+    "atoms_text": "那心脏收缩的时候 用力把血泵出去 那这个时候 压力最大 这个就是高压 也叫收缩压",
+    "needs_animation": true,
+    "label": "心脏收缩时将血液泵出产生最大压力即收缩压"
+  },
+  {
+    "global_index": 2352,
+    "seg_id": "S7-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压是怎么产生的",
+    "template": "step_arrow",
+    "items": [
+      "心脏放松舒张",
+      "大动脉弹性维持血流",
+      "即低压（舒张压）"
+    ],
+    "atoms_text": "那心脏放松的时候 大动脉靠自身弹性 继续维持血流 这个时候 压力是最低的 也叫舒张压",
+    "needs_animation": true,
+    "label": "心脏舒张时大动脉靠弹性维持血流产生最低压力即舒张压"
+  },
+  {
+    "global_index": 2353,
+    "seg_id": "S7-L4",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "血压是怎么产生的",
+    "template": "hero_text",
+    "items": [
+      "所以血压读数总是两个数字"
+    ],
+    "atoms_text": "那这个时候 为什么我们测的血压 会出来两个数值",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2354,
+    "seg_id": "S8-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "一次偏高不等于高血压",
+    "template": "warning_alert",
+    "items": [
+      "一次测高≠确诊高血压"
+    ],
+    "atoms_text": "还有一点要强调 一次测出来的高 并不等于高血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2355,
+    "seg_id": "S8-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "一次偏高不等于高血压",
+    "template": "list_fade",
+    "items": [
+      "不同时间段多次测量",
+      "每次规范操作",
+      "均≥140/90才可诊断"
+    ],
+    "atoms_text": "高血压的诊断 就是要在 不同的时间段 规范的测量的前提下 多次测量 都是在一百四九十以上 才能下这个结论",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2356,
+    "seg_id": "S8-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "一次偏高不等于高血压",
+    "template": "step_arrow",
+    "items": [
+      "偶尔一次偏高先别慌",
+      "按规范方式重新测量",
+      "多次结果再做判断"
+    ],
+    "atoms_text": "偶尔测一次偏高 先不要慌 按照规范的方式 重新测量几次再说 知道了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2357,
+    "seg_id": "S9-L1",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "总结：重视正常高值",
+    "template": "list_fade",
+    "items": [
+      "＜120/80 理想血压",
+      "120～139/80～89 正常高值需重视",
+      "≥140/90 高血压须就医"
+    ],
+    "atoms_text": "那给家里人测完血压 就能判断 这个血压究竟是在哪个区间了 不是超过一百四这个 才叫有问题 正常高值 同样需要重视",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2358,
+    "seg_id": "S9-L2",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "总结：重视正常高值",
+    "template": "hero_text",
+    "items": [
+      "越早干预，发展成高血压的可能越小"
+    ],
+    "atoms_text": "越早干预 那发展成真正高血压的可能性 就越小了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2359,
+    "seg_id": "S9-L3",
+    "bp_title": "血压正常值你真的看懂了吗",
+    "scene_title": "总结：重视正常高值",
+    "template": "hero_text",
+    "items": [
+      "读懂血压，从今天开始"
+    ],
+    "atoms_text": "懂了吗 好 谢谢大家",
+    "needs_animation": false,
+    "label": ""
+  }
+]

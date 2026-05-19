@@ -1,0 +1,554 @@
+[
+  {
+    "global_index": 4040,
+    "seg_id": "S9-L4",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "step_arrow",
+    "items": [
+      "遵医嘱选药",
+      "对症治焦虑抑郁"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4041,
+    "seg_id": "S9-L5",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "经颅磁刺激",
+      "针灸治疗"
+    ],
+    "needs_animation": true,
+    "label": "经颅磁刺激与针灸治疗过程"
+  },
+  {
+    "global_index": 4042,
+    "seg_id": "S9-L6",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "建立",
+      "床",
+      "与",
+      "睡眠的",
+      "关联"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4043,
+    "seg_id": "S9-L7",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "不困",
+      "不上床"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4044,
+    "seg_id": "S9-L8",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "二",
+      "科学用药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4045,
+    "seg_id": "S9-L9",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "安眠药",
+      "分为",
+      "很多种"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4046,
+    "seg_id": "S9-L10",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "有的",
+      "管",
+      "入睡"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4047,
+    "seg_id": "S9-L11",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "有的",
+      "管",
+      "维持睡眠"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4048,
+    "seg_id": "S9-L12",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "有的",
+      "适合",
+      "短期用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4049,
+    "seg_id": "S9-L13",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "有的",
+      "适合",
+      "长期用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4050,
+    "seg_id": "S9-L14",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "自己",
+      "乱买",
+      "乱吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4051,
+    "seg_id": "S9-L15",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "要么",
+      "没用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4052,
+    "seg_id": "S9-L16",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "要么",
+      "依赖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4053,
+    "seg_id": "S9-L17",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "还会",
+      "影响",
+      "记忆力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4054,
+    "seg_id": "S9-L18",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "务必",
+      "在",
+      "医生的",
+      "指导下"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4055,
+    "seg_id": "S9-L19",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "根据",
+      "失眠的",
+      "类型"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4056,
+    "seg_id": "S9-L20",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "选择",
+      "合适的",
+      "药物"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4057,
+    "seg_id": "S9-L21",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "切勿",
+      "自行服用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4058,
+    "seg_id": "S9-L22",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "避免",
+      "依赖",
+      "或者",
+      "损伤到",
+      "记忆功能"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4059,
+    "seg_id": "S9-L23",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "如果",
+      "合并",
+      "焦虑",
+      "抑郁"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4060,
+    "seg_id": "S9-L24",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "要",
+      "对症治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4061,
+    "seg_id": "S9-L25",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "三呢",
+      "辅助",
+      "物理治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4062,
+    "seg_id": "S9-L26",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "hero_text",
+    "items": [
+      "经颅磁刺激"
+    ],
+    "needs_animation": true,
+    "label": "经颅磁刺激治疗过程"
+  },
+  {
+    "global_index": 4063,
+    "seg_id": "S9-L27",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "hero_text",
+    "items": [
+      "针灸等"
+    ],
+    "needs_animation": true,
+    "label": "针灸治疗过程"
+  },
+  {
+    "global_index": 4064,
+    "seg_id": "S9-L28",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "对",
+      "失眠",
+      "是",
+      "有效的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4065,
+    "seg_id": "S10-L1",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "warning_alert",
+    "items": [
+      "睡中大喊大叫",
+      "拳打脚踢动作"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4066,
+    "seg_id": "S10-L2",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "行动迟缓僵硬",
+      "手部颤抖",
+      "记忆力减退"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4067,
+    "seg_id": "S10-L3",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "branch_path",
+    "items": [
+      "勿只当失眠",
+      "帕金森前兆",
+      "阿尔茨海默病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4068,
+    "seg_id": "S10-L4",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "hero_text",
+    "items": [
+      "尽早神经科筛查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4069,
+    "seg_id": "S10-L5",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "同时",
+      "伴有",
+      "行动迟缓"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4070,
+    "seg_id": "S10-L6",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "或者是",
+      "身体僵硬啊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4071,
+    "seg_id": "S10-L7",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "hero_text",
+    "items": [
+      "手抖啊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4072,
+    "seg_id": "S10-L8",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "hero_text",
+    "items": [
+      "情绪异常的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4073,
+    "seg_id": "S10-L9",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "或者是说",
+      "睡眠障碍",
+      "伴有",
+      "记忆力减退的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4074,
+    "seg_id": "S10-L10",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "切勿",
+      "只当做",
+      "失眠",
+      "来",
+      "处理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4075,
+    "seg_id": "S10-L11",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "早期啊",
+      "常常是",
+      "以",
+      "睡眠障碍",
+      "为"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4076,
+    "seg_id": "S10-L12",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "有可能",
+      "就是",
+      "帕金森病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4077,
+    "seg_id": "S10-L13",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "或者是",
+      "阿尔茨海默病等",
+      "神经系统变性疾病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4078,
+    "seg_id": "S10-L14",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "需",
+      "尽早的",
+      "到",
+      "神经内科",
+      "去"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4079,
+    "seg_id": "S1-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "头晕你真的了解吗",
+    "template": "hero_text",
+    "items": [
+      "天旋地转、眼前发黑、昏昏沉沉"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

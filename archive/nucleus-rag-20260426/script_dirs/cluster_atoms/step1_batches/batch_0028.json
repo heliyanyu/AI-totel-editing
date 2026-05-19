@@ -1,0 +1,580 @@
+[
+  {
+    "global_index": 1120,
+    "seg_id": "S9-L27",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "hero_text",
+    "items": [
+      "针灸等"
+    ],
+    "atoms_text": "针灸等",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1121,
+    "seg_id": "S9-L28",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "科学解决建议",
+    "template": "list_fade",
+    "items": [
+      "对",
+      "失眠",
+      "是",
+      "有效的"
+    ],
+    "atoms_text": "对 失眠 是 有效的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1122,
+    "seg_id": "S10-L1",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "warning_alert",
+    "items": [
+      "睡中大喊大叫",
+      "拳打脚踢动作"
+    ],
+    "atoms_text": "特别提醒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1123,
+    "seg_id": "S10-L2",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "行动迟缓僵硬",
+      "手部颤抖",
+      "记忆力减退"
+    ],
+    "atoms_text": "若 长期 睡眠障碍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1124,
+    "seg_id": "S10-L3",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "branch_path",
+    "items": [
+      "勿只当失眠",
+      "帕金森前兆",
+      "阿尔茨海默病"
+    ],
+    "atoms_text": "尤其是 睡眠中 大喊大叫",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1125,
+    "seg_id": "S10-L4",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "hero_text",
+    "items": [
+      "尽早神经科筛查"
+    ],
+    "atoms_text": "拳打脚踢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1126,
+    "seg_id": "S10-L5",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "同时",
+      "伴有",
+      "行动迟缓"
+    ],
+    "atoms_text": "同时 伴有 行动迟缓",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1127,
+    "seg_id": "S10-L6",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "或者是",
+      "身体僵硬啊"
+    ],
+    "atoms_text": "或者是 身体僵硬啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1128,
+    "seg_id": "S10-L7",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "hero_text",
+    "items": [
+      "手抖啊"
+    ],
+    "atoms_text": "手抖啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1129,
+    "seg_id": "S10-L8",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "hero_text",
+    "items": [
+      "情绪异常的"
+    ],
+    "atoms_text": "情绪异常的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1130,
+    "seg_id": "S10-L9",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "或者是说",
+      "睡眠障碍",
+      "伴有",
+      "记忆力减退的"
+    ],
+    "atoms_text": "或者是说 睡眠障碍 伴有 记忆力减退的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1131,
+    "seg_id": "S10-L10",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "切勿",
+      "只当做",
+      "失眠",
+      "来",
+      "处理"
+    ],
+    "atoms_text": "切勿 只当做 失眠 来 处理",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1132,
+    "seg_id": "S10-L11",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "早期啊",
+      "常常是",
+      "以",
+      "睡眠障碍",
+      "为"
+    ],
+    "atoms_text": "早期啊 常常是 以 睡眠障碍 为 信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1133,
+    "seg_id": "S10-L12",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "有可能",
+      "就是",
+      "帕金森病"
+    ],
+    "atoms_text": "有可能 就是 帕金森病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1134,
+    "seg_id": "S10-L13",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "或者是",
+      "阿尔茨海默病等",
+      "神经系统变性疾病"
+    ],
+    "atoms_text": "或者是 阿尔茨海默病等 神经系统变性疾病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1135,
+    "seg_id": "S10-L14",
+    "bp_title": "睡不好别乱吃药，医生详解4种睡眠障碍",
+    "scene_title": "特别警示",
+    "template": "list_fade",
+    "items": [
+      "需",
+      "尽早的",
+      "到",
+      "神经内科",
+      "去"
+    ],
+    "atoms_text": "需 尽早的 到 神经内科 去 筛查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1136,
+    "seg_id": "S1-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "头晕你真的了解吗",
+    "template": "hero_text",
+    "items": [
+      "天旋地转、眼前发黑、昏昏沉沉"
+    ],
+    "atoms_text": "您有没有过 突然的就 天旋地转了 或者是 蹲下去一站起来 眼前就一黑 再或者 整天昏昏沉沉的 脑子像灌了铅似的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1137,
+    "seg_id": "S1-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "头晕你真的了解吗",
+    "template": "myth_buster",
+    "items": [
+      "一头晕就猛吃丹参片维生素",
+      "乱补没用，病因才是关键"
+    ],
+    "atoms_text": "很多人一头晕呢 就认定 我是不是脑供血不足了 维生素丹参片 乱吃一堆 结果一点用都没有",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1138,
+    "seg_id": "S1-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "头晕你真的了解吗",
+    "template": "hero_text",
+    "items": [
+      "看完自己能初步判断头晕原因"
+    ],
+    "atoms_text": "今天呢 我把 临床上比较常见的 头晕的原因 说一说 简单好懂 看完了 自己也能初步判断 关键时刻 还能救命",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1139,
+    "seg_id": "S2-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第一排查：脑血管病",
+    "template": "hero_text",
+    "items": [
+      "脑血管问题必须第一时间排除"
+    ],
+    "atoms_text": "第一种 脑血管病的问题 必须第一时间排除",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1140,
+    "seg_id": "S2-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第一排查：脑血管病",
+    "template": "warning_alert",
+    "items": [
+      "一侧手脚无力或说话含糊",
+      "单眼看不清或视物双影"
+    ],
+    "atoms_text": "头晕的时候 如果突然伴有 一侧的手脚无力 或者说话含糊不清 或者单眼看不清东西 或者是看东西双影 别犹豫 马上拨打幺二零",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1141,
+    "seg_id": "S2-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第一排查：脑血管病",
+    "template": "step_arrow",
+    "items": [
+      "出现上述症状",
+      "立刻拨打120",
+      "耽误一秒脑细胞多损伤一批"
+    ],
+    "atoms_text": "很有可能就是 脑血管病的前兆 耽误一秒 脑细胞就多损伤一批",
+    "needs_animation": true,
+    "label": "脑血管病发作时脑细胞因缺血而损伤的过程"
+  },
+  {
+    "global_index": 1142,
+    "seg_id": "S2-L4",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第一排查：脑血管病",
+    "template": "branch_path",
+    "items": [
+      "头晕是否伴随神经症状",
+      "有伴随症状→立即就医",
+      "单纯头晕→不必过度惊慌"
+    ],
+    "atoms_text": "但如果只是 单纯的头晕 没有那些伴随的症状 基本上也不用 自己瞎着急",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1143,
+    "seg_id": "S3-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第二原因：耳石症",
+    "template": "hero_text",
+    "items": [
+      "头晕最常见原因其实在耳朵"
+    ],
+    "atoms_text": "第二种 耳朵的问题 才是头晕最常见的原因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1144,
+    "seg_id": "S3-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第二原因：耳石症",
+    "template": "step_arrow",
+    "items": [
+      "内耳耳石脱落",
+      "翻身低头起床时触发",
+      "天旋地转感突然袭来"
+    ],
+    "atoms_text": "内耳里有 管平衡的小结晶 叫耳石 一旦脱落了 翻身低头起床躺下的时候 就会引发天旋地转",
+    "needs_animation": true,
+    "label": "内耳耳石从椭圆囊脱落进入半规管引发眩晕"
+  },
+  {
+    "global_index": 1145,
+    "seg_id": "S3-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第二原因：耳石症",
+    "template": "number_center",
+    "items": [
+      "60"
+    ],
+    "atoms_text": "通常持续 数秒或者数十秒 就能缓解 绝大多数不超过一分钟",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1146,
+    "seg_id": "S3-L4",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第二原因：耳石症",
+    "template": "list_fade",
+    "items": [
+      "去神经内科或耳鼻喉科就诊",
+      "做耳石复位治疗",
+      "绝大多数不需要吃药"
+    ],
+    "atoms_text": "这绝大多数都是耳石症 去神经内科或耳鼻喉科 做做复位 很快就能 好转或者是痊愈 绝大多数是不用吃药的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1147,
+    "seg_id": "S4-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第三原因：血压异常",
+    "template": "hero_text",
+    "items": [
+      "血压过高或过低都会让人晕"
+    ],
+    "atoms_text": "第三种 血压高与低 也会让人晕乎乎的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1148,
+    "seg_id": "S4-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第三原因：血压异常",
+    "template": "split_column",
+    "items": [
+      "血压飙升超180mmHg",
+      "高压低于90mmHg",
+      "血压过高引发头晕",
+      "血压过低同样致晕"
+    ],
+    "atoms_text": "血压一下子飙到一百八以上 或者高压低到九十毫米汞柱以下 都会引发头晕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1149,
+    "seg_id": "S4-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第三原因：血压异常",
+    "template": "branch_path",
+    "items": [
+      "蹲起后眼前发黑",
+      "慢慢起身即可缓解",
+      "频繁发作需查贫血脱水或药物"
+    ],
+    "atoms_text": "而蹲久了站起来眼前发黑 多数时候是体位性低血压 偶尔出现 慢起身就行",
+    "needs_animation": true,
+    "label": "体位变化时血压下降导致脑部供血不足"
+  },
+  {
+    "global_index": 1150,
+    "seg_id": "S4-L4",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第三原因：血压异常",
+    "template": "list_fade",
+    "items": [
+      "是否存在贫血",
+      "是否有脱水情况",
+      "降压药是否服用过量"
+    ],
+    "atoms_text": "频繁发作甚至晕倒 就要查查 有没有贫血脱水呀 或者是降压药物是否过量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1151,
+    "seg_id": "S5-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第四原因：前庭性偏头痛",
+    "template": "hero_text",
+    "items": [
+      "偏头痛不一定头疼，也可以只晕"
+    ],
+    "atoms_text": "第四种 前庭性偏头痛 不头疼也会晕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1152,
+    "seg_id": "S5-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第四原因：前庭性偏头痛",
+    "template": "list_fade",
+    "items": [
+      "天旋地转感强烈",
+      "怕光怕吵恶心想吐",
+      "可伴头痛也可只晕不痛"
+    ],
+    "atoms_text": "别以为偏头痛 一定是偏侧头疼 有一种 又晕又痛 或者是只晕不痛 发作起来 也可以是天旋地转的 害怕光怕吵 恶心想吐",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1153,
+    "seg_id": "S5-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第四原因：前庭性偏头痛",
+    "template": "color_grid",
+    "items": [
+      "熬夜后容易发作",
+      "女性经期更易犯"
+    ],
+    "atoms_text": "女性的经期熬夜以后 更容易犯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1154,
+    "seg_id": "S5-L4",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第四原因：前庭性偏头痛",
+    "template": "myth_buster",
+    "items": [
+      "吃普通止晕药就能控制",
+      "根源在偏头痛，要治到根上"
+    ],
+    "atoms_text": "这就是神经敏感导致的 不是血管堵塞了 吃普通的止晕药 也没有用 根源是在偏头痛上 要治到根上才行",
+    "needs_animation": true,
+    "label": "前庭性偏头痛中神经敏感而非血管堵塞的发病机制"
+  },
+  {
+    "global_index": 1155,
+    "seg_id": "S6-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第五原因：贫血",
+    "template": "hero_text",
+    "items": [
+      "贫血导致大脑缺氧，头晕乏力"
+    ],
+    "atoms_text": "第五种 贫血 女性尤其要警惕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1156,
+    "seg_id": "S6-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第五原因：贫血",
+    "template": "brick_stack",
+    "items": [
+      "月经量过大失血",
+      "过度节食营养不足",
+      "缺铁性贫血血液携氧下降",
+      "大脑缺氧引发头晕面色苍白"
+    ],
+    "atoms_text": "月经量过大 过度的节食减肥 容易缺铁性贫血 血液携氧能力下降 大脑缺氧 就会头晕乏力 面色苍白",
+    "needs_animation": true,
+    "label": "缺铁性贫血时血液携氧能力下降导致大脑缺氧"
+  },
+  {
+    "global_index": 1157,
+    "seg_id": "S6-L3",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第五原因：贫血",
+    "template": "step_arrow",
+    "items": [
+      "查血常规一目了然",
+      "及时补铁纠正贫血",
+      "头晕自然消失"
+    ],
+    "atoms_text": "查一个血常规 就一目了然 及时的补铁 头晕自然会消失",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1158,
+    "seg_id": "S7-L1",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第六原因：焦虑失眠",
+    "template": "hero_text",
+    "items": [
+      "全身检查正常却长期晕，可能是脑子太累"
+    ],
+    "atoms_text": "第六种 焦虑失眠 最容易被忽视的头晕原因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1159,
+    "seg_id": "S7-L2",
+    "bp_title": "头晕别乱猜——7种原因一次说清",
+    "scene_title": "第六原因：焦虑失眠",
+    "template": "step_arrow",
+    "items": [
+      "压力大睡不好",
+      "植物神经紊乱",
+      "大脑平衡信号出错"
+    ],
+    "atoms_text": "不少人全身检查都正常了 却长期晕乎乎的 其实就是 压力大睡不好 植物神经紊乱 大脑平衡信号出错",
+    "needs_animation": true,
+    "label": "植物神经紊乱导致大脑平衡信号出错"
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "global_index": 2400,
+    "seg_id": "S6-L6",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "五件让斑块稳定的事",
+    "template": "hero_text",
+    "items": [
+      "坚持适量运动，是保护血管最好的投资"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2401,
+    "seg_id": "S7-L1",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "正确面对斑块",
+    "template": "split_column",
+    "items": [
+      "斑块小，不管不顾",
+      "危险反而更大",
+      "斑块大，指标控制好",
+      "长期安全稳定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2402,
+    "seg_id": "S7-L2",
+    "bp_title": "斑块能消掉吗？真正的重点在这里",
+    "scene_title": "正确面对斑块",
+    "template": "list_fade",
+    "items": [
+      "发现斑块不要慌，冷静应对",
+      "该吃的药按时吃",
+      "该运动坚持运动",
+      "该复查定期复查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2403,
+    "seg_id": "S1-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "开场警示",
+    "template": "hero_text",
+    "items": [
+      "感冒拉肚子后尿变红了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2404,
+    "seg_id": "S1-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "开场警示",
+    "template": "warning_alert",
+    "items": [
+      "不是上火，是肾脏发出预警"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2405,
+    "seg_id": "S1-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "开场警示",
+    "template": "hero_text",
+    "items": [
+      "务必警惕感染后肾炎"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2406,
+    "seg_id": "S1-L4",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "开场警示",
+    "template": "warning_alert",
+    "items": [
+      "耽误治疗可能伤肾引发心衰"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2407,
+    "seg_id": "S1-L5",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "开场警示",
+    "template": "hero_text",
+    "items": [
+      "本期讲透肾炎成因检查与预防"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2408,
+    "seg_id": "S2-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "肾炎发病机制",
+    "template": "myth_buster",
+    "items": [
+      "细菌病毒直接跑进了肾脏",
+      "是免疫系统过度激活伤了肾"
+    ],
+    "needs_animation": true,
+    "label": "感染后免疫复合物攻击肾小球机制"
+  },
+  {
+    "global_index": 2409,
+    "seg_id": "S2-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "肾炎发病机制",
+    "template": "step_arrow",
+    "items": [
+      "感染触发免疫系统过度激活",
+      "免疫复合物攻击自身肾小球",
+      "肾小球滤网发炎受损"
+    ],
+    "needs_animation": true,
+    "label": "感染后免疫复合物攻击肾小球机制"
+  },
+  {
+    "global_index": 2410,
+    "seg_id": "S2-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "肾炎发病机制",
+    "template": "split_column",
+    "items": [
+      "链球菌感染后肾炎",
+      "IgA肾病",
+      "嗓子发炎后10-14天发病",
+      "感染后反复发作加重"
+    ],
+    "needs_animation": true,
+    "label": "链球菌感染后肾炎与IgA肾病发病机制对比"
+  },
+  {
+    "global_index": 2411,
+    "seg_id": "S2-L4",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "肾炎发病机制",
+    "template": "hero_text",
+    "items": [
+      "发现早干预及时可大减损伤风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2412,
+    "seg_id": "S2-L5",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "肾炎发病机制",
+    "template": "list_fade",
+    "items": [
+      "另外一种叫IgA肾病",
+      "我们平常接触",
+      "相当一部分",
+      "都是这两种情况"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2413,
+    "seg_id": "S2-L6",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "肾炎发病机制",
+    "template": "list_fade",
+    "items": [
+      "但是这类疾病",
+      "只要发现的早",
+      "干预的及时",
+      "就能大大的减少",
+      "肾脏损伤的风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2414,
+    "seg_id": "S3-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "四大典型症状",
+    "template": "hero_text",
+    "items": [
+      "记住四个症状在家初步判断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2415,
+    "seg_id": "S3-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "四大典型症状",
+    "template": "color_grid",
+    "items": [
+      "血尿，尿色淡红或浓茶色",
+      "尿泡沫细腻久散不开",
+      "晨起眼皮脸部下肢水肿",
+      "血压突然升高头痛头晕"
+    ],
+    "needs_animation": true,
+    "label": "肾小球滤过屏障受损导致血尿蛋白尿的病理过程"
+  },
+  {
+    "global_index": 2416,
+    "seg_id": "S3-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "四大典型症状",
+    "template": "step_arrow",
+    "items": [
+      "近期有感冒嗓子疼或腹泻史",
+      "出现上述任一症状",
+      "立刻前往肾内科就诊"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2417,
+    "seg_id": "S3-L4",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "四大典型症状",
+    "template": "list_fade",
+    "items": [
+      "第三个",
+      "水肿",
+      "早上起来眼皮肿脸肿",
+      "到了下午",
+      "有可能小腿也开始肿"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2418,
+    "seg_id": "S3-L5",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "四大典型症状",
+    "template": "list_fade",
+    "items": [
+      "第四个",
+      "血压突然的升高了",
+      "平时好好的",
+      "怎么就开始头痛头晕了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2419,
+    "seg_id": "S3-L6",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "四大典型症状",
+    "template": "list_fade",
+    "items": [
+      "而且如果你最近",
+      "感冒过",
+      "嗓子疼过",
+      "或者拉过肚子",
+      "然后出现了上面这些表现"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2420,
+    "seg_id": "S4-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "检查诊断流程",
+    "template": "vertical_timeline",
+    "items": [
+      "尿常规查红细胞和蛋白",
+      "血生化查肾功能和电解质",
+      "免疫学查补体C3和免疫球蛋白",
+      "肾脏超声排除结石肿瘤"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2421,
+    "seg_id": "S4-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "检查诊断流程",
+    "template": "step_arrow",
+    "items": [
+      "排查原发性肾炎",
+      "鉴别狼疮等继发性肾炎",
+      "防止误诊误治"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2422,
+    "seg_id": "S4-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "检查诊断流程",
+    "template": "hero_text",
+    "items": [
+      "检查不明确需做肾活检确认分型"
+    ],
+    "needs_animation": true,
+    "label": "肾穿刺活检操作过程"
+  },
+  {
+    "global_index": 2423,
+    "seg_id": "S4-L4",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "检查诊断流程",
+    "template": "list_fade",
+    "items": [
+      "肾脏超声也不能少",
+      "能排除结石",
+      "肿瘤这些其他的问题",
+      "避免误判"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2424,
+    "seg_id": "S4-L5",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "检查诊断流程",
+    "template": "list_fade",
+    "items": [
+      "还要区分一些其他的原发性肾炎",
+      "还有系统性红斑狼疮引起的继发性肾炎",
+      "防止误诊误治"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2425,
+    "seg_id": "S4-L6",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "检查诊断流程",
+    "template": "list_fade",
+    "items": [
+      "要是通过这些检查",
+      "还是没办法明确",
+      "那就需要做肾活检",
+      "这是诊断肾脏疾病的一个金标准",
+      "能够准确的判断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2426,
+    "seg_id": "S5-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "急性期治疗要点",
+    "template": "list_fade",
+    "items": [
+      "控制感染消除炎症",
+      "血压高及时降压",
+      "水肿明显给予利尿"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2427,
+    "seg_id": "S5-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "急性期治疗要点",
+    "template": "warning_alert",
+    "items": [
+      "必须充分休息，熬夜加班会让病情反复"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2428,
+    "seg_id": "S5-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "急性期治疗要点",
+    "template": "hero_text",
+    "items": [
+      "少数严重者由医生判断短期用激素"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2429,
+    "seg_id": "S6-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "两种肾炎预后对比",
+    "template": "split_column",
+    "items": [
+      "90%以上患者可完全恢复",
+      "慢性进展不会自愈",
+      "儿童多见具有自限性",
+      "每次感染都可能加重一次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2430,
+    "seg_id": "S6-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "两种肾炎预后对比",
+    "template": "number_center",
+    "items": [
+      "20%-40%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2431,
+    "seg_id": "S6-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "两种肾炎预后对比",
+    "template": "warning_alert",
+    "items": [
+      "反复血尿蛋白尿必须做肾穿刺活检明确分型"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2432,
+    "seg_id": "S6-L4",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "两种肾炎预后对比",
+    "template": "list_fade",
+    "items": [
+      "如果管理的不到位",
+      "百分之二十到百分之四十",
+      "IgA肾病患者",
+      "最终可能会发展成",
+      "终末期肾病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2433,
+    "seg_id": "S6-L5",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "两种肾炎预后对比",
+    "template": "list_fade",
+    "items": [
+      "而且IgA肾病",
+      "光凭症状是判断不了的",
+      "所以如果反复出现",
+      "血尿蛋白尿",
+      "最好是做一个肾穿刺活检"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2434,
+    "seg_id": "S7-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "IgA肾病长期管理",
+    "template": "list_fade",
+    "items": [
+      "血压严格控制在130/80以下",
+      "定期复查尿常规和肾功能"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2435,
+    "seg_id": "S7-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "IgA肾病长期管理",
+    "template": "warning_alert",
+    "items": [
+      "禁止乱用中药保健品和抗生素伤肾"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2436,
+    "seg_id": "S7-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "IgA肾病长期管理",
+    "template": "step_arrow",
+    "items": [
+      "注意保暖预防感冒腹泻",
+      "减少感染触发",
+      "保护肾脏避免病情加重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2437,
+    "seg_id": "S8-L1",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "总结呼吁",
+    "template": "hero_text",
+    "items": [
+      "感染后血尿绝非小事，必须及时就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2438,
+    "seg_id": "S8-L2",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "总结呼吁",
+    "template": "hero_text",
+    "items": [
+      "重视每一个异常信号从预防感染开始"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2439,
+    "seg_id": "S8-L3",
+    "bp_title": "感冒后尿变红？小心感染后肾炎",
+    "scene_title": "总结呼吁",
+    "template": "hero_text",
+    "items": [
+      "点赞收藏转发，守护家人的肾脏健康"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,523 @@
+[
+  {
+    "global_index": 3080,
+    "seg_id": "S4-L4",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相三：血脂看的是长期水平",
+    "template": "myth_buster",
+    "items": [
+      "这次体检正常就没事了",
+      "前几年偏高斑块已在悄悄形成"
+    ],
+    "needs_animation": true,
+    "label": "动脉斑块隐匿形成过程"
+  },
+  {
+    "global_index": 3081,
+    "seg_id": "S4-L5",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相三：血脂看的是长期水平",
+    "template": "warning_alert",
+    "items": [
+      "不干预斑块将持续进展"
+    ],
+    "needs_animation": true,
+    "label": "动脉斑块持续进展过程"
+  },
+  {
+    "global_index": 3082,
+    "seg_id": "S4-L6",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相三：血脂看的是长期水平",
+    "template": "hero_text",
+    "items": [
+      "血脂管理要长期稳定达标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3083,
+    "seg_id": "S5-L1",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相四：饮食运动是基础",
+    "template": "hero_text",
+    "items": [
+      "控脂别盲目吃药，生活方式才是根本"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3084,
+    "seg_id": "S5-L2",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相四：饮食运动是基础",
+    "template": "list_fade",
+    "items": [
+      "轻度血脂异常优先调整生活方式",
+      "饮食与运动不可忽视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3085,
+    "seg_id": "S5-L3",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相四：饮食运动是基础",
+    "template": "color_grid",
+    "items": [
+      "每日盐摄入 < 5g",
+      "减少饱和及反式脂肪",
+      "每周运动≥150分钟",
+      "控制体重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3086,
+    "seg_id": "S5-L4",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相四：饮食运动是基础",
+    "template": "branch_path",
+    "items": [
+      "根据个人心血管风险等级判断",
+      "高风险：尽早启动药物治疗",
+      "低风险：生活方式干预为主"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3087,
+    "seg_id": "S5-L5",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相四：饮食运动是基础",
+    "template": "warning_alert",
+    "items": [
+      "是否用药务必遵医嘱，切勿自行决定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3088,
+    "seg_id": "S5-L6",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相四：饮食运动是基础",
+    "template": "list_fade",
+    "items": [
+      "生活方式是基础",
+      "药物治疗是辅助手段"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3089,
+    "seg_id": "S6-L1",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相五：查血脂还不够",
+    "template": "hero_text",
+    "items": [
+      "仅查血脂四项还不够"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3090,
+    "seg_id": "S6-L2",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相五：查血脂还不够",
+    "template": "list_fade",
+    "items": [
+      "脂蛋白(a)由遗传决定，查一次终身有效",
+      "数值偏高直接增加血栓与斑块风险"
+    ],
+    "needs_animation": true,
+    "label": "脂蛋白(a)促进血栓与斑块形成机制"
+  },
+  {
+    "global_index": 3091,
+    "seg_id": "S6-L3",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相五：查血脂还不够",
+    "template": "warning_alert",
+    "items": [
+      "脂蛋白(a)高者须更严格控制LDL"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3092,
+    "seg_id": "S6-L4",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相五：查血脂还不够",
+    "template": "list_fade",
+    "items": [
+      "颈动脉超声是观察血管状态的窗口",
+      "颈部有斑块，心脑血管大概率也受累"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉超声检查过程"
+  },
+  {
+    "global_index": 3093,
+    "seg_id": "S6-L5",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相五：查血脂还不够",
+    "template": "color_grid",
+    "items": [
+      "费用低廉无创伤",
+      "建议每年检查一次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3094,
+    "seg_id": "S6-L6",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "真相五：查血脂还不够",
+    "template": "step_arrow",
+    "items": [
+      "血脂检测 + 颈动脉超声",
+      "结合分析更全面",
+      "更准确了解血管健康状况"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3095,
+    "seg_id": "S7-L1",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "总结与行动提醒",
+    "template": "warning_alert",
+    "items": [
+      "血脂正常只是基础，不是终点"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3096,
+    "seg_id": "S7-L2",
+    "bp_title": "血脂管理的五个真相",
+    "scene_title": "总结与行动提醒",
+    "template": "list_fade",
+    "items": [
+      "日常保持清淡饮食",
+      "坚持规律运动",
+      "高风险者遵医嘱控脂",
+      "定期复查守住血管健康"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3097,
+    "seg_id": "S1-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "伤肝的不只有酒",
+    "template": "hero_text",
+    "items": [
+      "伤肝的不只有酒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3098,
+    "seg_id": "S1-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "伤肝的不只有酒",
+    "template": "color_grid",
+    "items": [
+      "奶茶",
+      "可乐",
+      "果汁",
+      "瓶装甜饮料"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3099,
+    "seg_id": "S1-L3",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "伤肝的不只有酒",
+    "template": "list_fade",
+    "items": [
+      "瓶装汽水主要甜成分：白砂糖",
+      "网红奶茶主要甜成分：果葡糖浆"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3100,
+    "seg_id": "S1-L4",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "伤肝的不只有酒",
+    "template": "warning_alert",
+    "items": [
+      "果糖 = 伤肝头号隐形刺客"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3101,
+    "seg_id": "S2-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "果糖为何专挑肝脏下手",
+    "template": "split_column",
+    "items": [
+      "葡萄糖",
+      "全身各器官均可代谢",
+      "果糖",
+      "几乎只在肝脏代谢"
+    ],
+    "needs_animation": true,
+    "label": "果糖与葡萄糖代谢途径对比"
+  },
+  {
+    "global_index": 3102,
+    "seg_id": "S2-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "果糖为何专挑肝脏下手",
+    "template": "number_center",
+    "items": [
+      "一天糖分超标好几倍"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3103,
+    "seg_id": "S2-L3",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "果糖为何专挑肝脏下手",
+    "template": "step_arrow",
+    "items": [
+      "果糖大量涌入肝脏",
+      "肝脏处理不完",
+      "多余果糖转化为脂肪"
+    ],
+    "needs_animation": true,
+    "label": "肝脏果糖代谢转化为脂肪过程"
+  },
+  {
+    "global_index": 3104,
+    "seg_id": "S2-L4",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "果糖为何专挑肝脏下手",
+    "template": "hero_text",
+    "items": [
+      "脂肪就此堆进肝脏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3105,
+    "seg_id": "S2-L5",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "果糖为何专挑肝脏下手",
+    "template": "warning_alert",
+    "items": [
+      "这就是脂肪肝的起点"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3106,
+    "seg_id": "S3-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "脂肪肝会一步步走向癌变",
+    "template": "myth_buster",
+    "items": [
+      "脂肪肝不痛不痒没关系",
+      "沉默背后危机正在积累"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3107,
+    "seg_id": "S3-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "脂肪肝会一步步走向癌变",
+    "template": "vertical_timeline",
+    "items": [
+      "单纯脂肪肝",
+      "脂肪性肝炎",
+      "肝纤维化",
+      "肝硬化",
+      "肝癌"
+    ],
+    "needs_animation": true,
+    "label": "脂肪肝到肝癌的病理进展过程"
+  },
+  {
+    "global_index": 3108,
+    "seg_id": "S3-L3",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "脂肪肝会一步步走向癌变",
+    "template": "brick_stack",
+    "items": [
+      "多余糖转化为全身脂肪",
+      "血脂飙升",
+      "血糖失控"
+    ],
+    "needs_animation": true,
+    "label": "果糖代谢紊乱引发血脂血糖异常机制"
+  },
+  {
+    "global_index": 3109,
+    "seg_id": "S3-L4",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "脂肪肝会一步步走向癌变",
+    "template": "list_fade",
+    "items": [
+      "高血压",
+      "糖尿病",
+      "冠心病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3110,
+    "seg_id": "S3-L5",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "脂肪肝会一步步走向癌变",
+    "template": "hero_text",
+    "items": [
+      "一杯甜饮，全身买单"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3111,
+    "seg_id": "S4-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "无糖饮料也不是护身符",
+    "template": "myth_buster",
+    "items": [
+      "无糖奶茶完全无害",
+      "这是常见误区"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3112,
+    "seg_id": "S4-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "无糖饮料也不是护身符",
+    "template": "brick_stack",
+    "items": [
+      "奶盖含隐藏糖",
+      "糖浆小料含隐藏糖",
+      "总含糖量常超标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3113,
+    "seg_id": "S4-L3",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "无糖饮料也不是护身符",
+    "template": "warning_alert",
+    "items": [
+      "长期摄入代糖会扰乱代谢"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3114,
+    "seg_id": "S4-L4",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "无糖饮料也不是护身符",
+    "template": "number_center",
+    "items": [
+      "一杯橙汁≈三个橙子的糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3115,
+    "seg_id": "S5-L1",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "偶尔解馋 vs 天天当水喝",
+    "template": "hero_text",
+    "items": [
+      "不是让你一口都不喝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3116,
+    "seg_id": "S5-L2",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "偶尔解馋 vs 天天当水喝",
+    "template": "split_column",
+    "items": [
+      "偶尔嘴馋喝一口",
+      "完全没有问题",
+      "天天喝当水喝",
+      "肝脏持续受损"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3117,
+    "seg_id": "S5-L3",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "偶尔解馋 vs 天天当水喝",
+    "template": "hero_text",
+    "items": [
+      "最佳饮品永远是白开水"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3118,
+    "seg_id": "S5-L4",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "偶尔解馋 vs 天天当水喝",
+    "template": "list_fade",
+    "items": [
+      "泡茶",
+      "泡柠檬水"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3119,
+    "seg_id": "S5-L5",
+    "bp_title": "甜饮料是肝脏的隐形杀手",
+    "scene_title": "偶尔解馋 vs 天天当水喝",
+    "template": "hero_text",
+    "items": [
+      "想喝有味儿的，选天然泡饮"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

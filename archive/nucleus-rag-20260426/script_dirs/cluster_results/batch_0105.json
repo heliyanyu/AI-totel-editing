@@ -1,0 +1,514 @@
+[
+  {
+    "global_index": 4200,
+    "seg_id": "S5-L4",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肌肉疼痛风险比较",
+    "template": "branch_path",
+    "items": [
+      "本身有肌肉问题或怕疼痛",
+      "选阿托伐他汀更友好",
+      "无肌肉问题可选瑞舒伐他汀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4201,
+    "seg_id": "S6-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肝肾功能影响比较",
+    "template": "hero_text",
+    "items": [
+      "第四点：肝肾功能怎么选"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4202,
+    "seg_id": "S6-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肝肾功能影响比较",
+    "template": "split_column",
+    "items": [
+      "主要经肝脏代谢",
+      "肝肾双通道代谢",
+      "经胆汁排出",
+      "部分经肾脏排出"
+    ],
+    "needs_animation": true,
+    "label": "他汀类药物肝肾代谢通路对比"
+  },
+  {
+    "global_index": 4203,
+    "seg_id": "S6-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肝肾功能影响比较",
+    "template": "hero_text",
+    "items": [
+      "肝功能轻度异常选瑞舒伐他汀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4204,
+    "seg_id": "S6-L4",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肝肾功能影响比较",
+    "template": "hero_text",
+    "items": [
+      "肾功能不好选阿托伐他汀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4205,
+    "seg_id": "S6-L5",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肝肾功能影响比较",
+    "template": "split_column",
+    "items": [
+      "肾功能不好更安全",
+      "肝功能轻度异常更友好",
+      "首选阿托伐他汀",
+      "首选瑞舒伐他汀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4206,
+    "seg_id": "S6-L6",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "肝肾功能影响比较",
+    "template": "warning_alert",
+    "items": [
+      "严重肝功能异常两种药均禁用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4207,
+    "seg_id": "S7-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "药物食物相互作用比较",
+    "template": "hero_text",
+    "items": [
+      "第五点：药物与食物相互作用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4208,
+    "seg_id": "S7-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "药物食物相互作用比较",
+    "template": "list_fade",
+    "items": [
+      "红霉素克拉霉素同服风险",
+      "环孢素免疫制剂影响药效",
+      "西柚可改变毒副作用"
+    ],
+    "needs_animation": true,
+    "label": "他汀类药物CYP酶相互作用机制"
+  },
+  {
+    "global_index": 4209,
+    "seg_id": "S7-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "药物食物相互作用比较",
+    "template": "split_column",
+    "items": [
+      "药物食物相互作用多",
+      "相互作用少更安全",
+      "需避开西柚等食物",
+      "极少经CYP3A4代谢"
+    ],
+    "needs_animation": true,
+    "label": "他汀类药物CYP3A4代谢通路对比"
+  },
+  {
+    "global_index": 4210,
+    "seg_id": "S7-L4",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "药物食物相互作用比较",
+    "template": "branch_path",
+    "items": [
+      "同时服用多种药物",
+      "优先选择瑞舒伐他汀",
+      "阿托伐他汀需警惕相互作用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4211,
+    "seg_id": "S8-L1",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "综合选药建议",
+    "template": "hero_text",
+    "items": [
+      "给你一个实在的选药建议"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4212,
+    "seg_id": "S8-L2",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "综合选药建议",
+    "template": "hero_text",
+    "items": [
+      "肾功能不好优选瑞舒伐他汀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4213,
+    "seg_id": "S8-L3",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "综合选药建议",
+    "template": "hero_text",
+    "items": [
+      "肝功能不好优选阿托伐他汀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4214,
+    "seg_id": "S8-L4",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "综合选药建议",
+    "template": "hero_text",
+    "items": [
+      "吃很多药优先选瑞舒伐他汀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4215,
+    "seg_id": "S8-L5",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "综合选药建议",
+    "template": "hero_text",
+    "items": [
+      "肝肾正常无不适就继续吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4216,
+    "seg_id": "S8-L6",
+    "bp_title": "瑞舒伐他汀 vs 阿托伐他汀怎么选",
+    "scene_title": "综合选药建议",
+    "template": "hero_text",
+    "items": [
+      "您记住了吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4217,
+    "seg_id": "S1-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "引出核心问题",
+    "template": "hero_text",
+    "items": [
+      "斑块会脱落吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4218,
+    "seg_id": "S1-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "引出核心问题",
+    "template": "list_fade",
+    "items": [
+      "哪种斑块危险",
+      "哪种斑块稳定",
+      "有没有办法缩小它"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4219,
+    "seg_id": "S1-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "引出核心问题",
+    "template": "hero_text",
+    "items": [
+      "点赞收藏不迷路"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4220,
+    "seg_id": "S2-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "斑块从哪来",
+    "template": "hero_text",
+    "items": [
+      "颈动脉斑块中老年人很常见"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4221,
+    "seg_id": "S2-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "斑块从哪来",
+    "template": "step_arrow",
+    "items": [
+      "年龄增长血管内壁磨损",
+      "就像用久的水管出现损伤",
+      "坏胆固醇沉积形成斑块"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉斑块形成过程"
+  },
+  {
+    "global_index": 4222,
+    "seg_id": "S2-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "斑块从哪来",
+    "template": "brick_stack",
+    "items": [
+      "高血压冲击血管内壁",
+      "高血脂输送坏胆固醇",
+      "高血糖加速血管损伤"
+    ],
+    "needs_animation": true,
+    "label": "三高因素损伤血管内壁机制"
+  },
+  {
+    "global_index": 4223,
+    "seg_id": "S2-L4",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "斑块从哪来",
+    "template": "number_center",
+    "items": [
+      "40%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4224,
+    "seg_id": "S2-L5",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "斑块从哪来",
+    "template": "hero_text",
+    "items": [
+      "大部分属于自然老化现象"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4225,
+    "seg_id": "S2-L6",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "斑块从哪来",
+    "template": "hero_text",
+    "items": [
+      "斑块很常见，关键看稳不稳定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4226,
+    "seg_id": "S3-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "如何判断危险程度",
+    "template": "hero_text",
+    "items": [
+      "颈动脉超声报告会明确提示"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4227,
+    "seg_id": "S3-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "如何判断危险程度",
+    "template": "split_column",
+    "items": [
+      "超声显示强回声",
+      "质地硬不易破裂风险低"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉稳定斑块超声结构特征"
+  },
+  {
+    "global_index": 4228,
+    "seg_id": "S3-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "如何判断危险程度",
+    "template": "warning_alert",
+    "items": [
+      "低回声或混合回声软烂不均",
+      "表面不平整，医学上称易损斑块"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉易损斑块超声结构特征"
+  },
+  {
+    "global_index": 4229,
+    "seg_id": "S3-L4",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "如何判断危险程度",
+    "template": "step_arrow",
+    "items": [
+      "血压升高情绪激动",
+      "血流冲击斑块破裂",
+      "形成血栓导致脑梗"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉斑块破裂致脑梗病理过程"
+  },
+  {
+    "global_index": 4230,
+    "seg_id": "S3-L5",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "如何判断危险程度",
+    "template": "number_center",
+    "items": [
+      "50%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4231,
+    "seg_id": "S4-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "稳定斑块有方法",
+    "template": "hero_text",
+    "items": [
+      "做好了斑块有望缩小"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4232,
+    "seg_id": "S5-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "第一步：规范用药",
+    "template": "hero_text",
+    "items": [
+      "规范用药是稳定斑块的核心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4233,
+    "seg_id": "S5-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "第一步：规范用药",
+    "template": "list_fade",
+    "items": [
+      "高血压患者",
+      "高血脂患者",
+      "糖尿病患者"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4234,
+    "seg_id": "S5-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "第一步：规范用药",
+    "template": "step_arrow",
+    "items": [
+      "降低血液中坏胆固醇",
+      "软斑块慢慢变硬变稳定",
+      "部分小斑块逐渐缩小"
+    ],
+    "needs_animation": true,
+    "label": "他汀类药物稳定并缩小斑块机制"
+  },
+  {
+    "global_index": 4235,
+    "seg_id": "S5-L4",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "第一步：规范用药",
+    "template": "warning_alert",
+    "items": [
+      "切勿自行随意停药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4236,
+    "seg_id": "S6-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "第二步：科学饮食",
+    "template": "hero_text",
+    "items": [
+      "科学饮食控血脂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4237,
+    "seg_id": "S6-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "第二步：科学饮食",
+    "template": "split_column",
+    "items": [
+      "肥肉油炸食品动物内脏",
+      "蔬菜水果全谷物深海鱼",
+      "高油高胆固醇应减少",
+      "有益心血管应多吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4238,
+    "seg_id": "S6-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "第二步：科学饮食",
+    "template": "hero_text",
+    "items": [
+      "把血脂控制在合理范围"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4239,
+    "seg_id": "S7-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "第三步：坚持运动",
+    "template": "number_center",
+    "items": [
+      "150分钟"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

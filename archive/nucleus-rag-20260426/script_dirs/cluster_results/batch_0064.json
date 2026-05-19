@@ -1,0 +1,541 @@
+[
+  {
+    "global_index": 2560,
+    "seg_id": "S4-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "高危人群标准更严",
+    "template": "split_column",
+    "items": [
+      "健康年轻人 3.8 暂时无需担忧",
+      "高血压且抽烟者 3.8 已明确偏高",
+      "低危人群参考值较宽松",
+      "高危人群控制目标更严格"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2561,
+    "seg_id": "S5-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "具体干预方案",
+    "template": "branch_path",
+    "items": [
+      "完全健康、无危险因素",
+      "生活方式干预，管住嘴迈开腿",
+      "暂不需要服药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2562,
+    "seg_id": "S5-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "具体干预方案",
+    "template": "step_arrow",
+    "items": [
+      "存在高血压糖尿病等危险因素",
+      "先调整生活方式两三个月",
+      "降不下来则考虑服用他汀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2563,
+    "seg_id": "S5-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "具体干预方案",
+    "template": "myth_buster",
+    "items": [
+      "没箭头就不需要吃药",
+      "高危人群无需等出现箭头再干预",
+      "等到有箭头再管已经来得及",
+      "那时斑块已长多年，无法清除"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2564,
+    "seg_id": "S5-L4",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "具体干预方案",
+    "template": "warning_alert",
+    "items": [
+      "等高到有箭头，斑块可能已长数年",
+      "血管里的斑块已无法被清除干净"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块形成的不可逆性"
+  },
+  {
+    "global_index": 2565,
+    "seg_id": "S5-L5",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "具体干预方案",
+    "template": "hero_text",
+    "items": [
+      "不能等破产了才想起来存钱"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2566,
+    "seg_id": "S6-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "总结收尾",
+    "template": "list_fade",
+    "items": [
+      "没箭头不等于没有问题",
+      "是否干预取决于你的危险因素",
+      "血管能撑多久取决于你多早在意",
+      "越早关注低密度越早受益"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2567,
+    "seg_id": "S1-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "真实病例引入",
+    "template": "number_center",
+    "items": [
+      "低密度脂蛋白临界值"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2568,
+    "seg_id": "S1-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "真实病例引入",
+    "template": "warning_alert",
+    "items": [
+      "指标无箭头，颈动脉双侧已有斑块",
+      "数值\"达标\"背后潜伏多年风险"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉粥样硬化斑块形成"
+  },
+  {
+    "global_index": 2569,
+    "seg_id": "S2-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "参考值的真实适用范围",
+    "template": "list_fade",
+    "items": [
+      "不抽烟",
+      "无高血压",
+      "无糖尿病",
+      "体重正常",
+      "家族无心脏病史"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2570,
+    "seg_id": "S2-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "参考值的真实适用范围",
+    "template": "warning_alert",
+    "items": [
+      "3.4以下只是短期大概率不出问题",
+      "\"短期\"二字至关重要，别忽视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2571,
+    "seg_id": "S3-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "累积伤害的时间逻辑",
+    "template": "step_arrow",
+    "items": [
+      "低密度脂蛋白持续\"搬货\"入血管",
+      "仓库缓慢积累，越搬越满",
+      "仓库装满，斑块形成"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白在血管壁沉积形成斑块过程"
+  },
+  {
+    "global_index": 2572,
+    "seg_id": "S3-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "累积伤害的时间逻辑",
+    "template": "split_column",
+    "items": [
+      "长期偏高",
+      "长期较低",
+      "血管内沉积量远超正常",
+      "血管内沉积量极少"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白在血管壁沉积形成斑块过程"
+  },
+  {
+    "global_index": 2573,
+    "seg_id": "S3-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "累积伤害的时间逻辑",
+    "template": "hero_text",
+    "items": [
+      "低密度脂蛋白无\"正常值\"，越低越好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2574,
+    "seg_id": "S4-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "高危人群的更严标准",
+    "template": "list_fade",
+    "items": [
+      "高血压患者",
+      "糖尿病患者",
+      "长期吸烟者",
+      "家族早发心梗史"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2575,
+    "seg_id": "S4-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "高危人群的更严标准",
+    "template": "step_arrow",
+    "items": [
+      "危险因素反复损伤血管内膜",
+      "血管\"仓库\"比常人更小",
+      "同等数值，更快堆满斑块"
+    ],
+    "needs_animation": true,
+    "label": "危险因素损伤血管内膜加速斑块形成"
+  },
+  {
+    "global_index": 2576,
+    "seg_id": "S4-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "高危人群的更严标准",
+    "template": "split_column",
+    "items": [
+      "健康年轻人",
+      "高血压+吸烟者",
+      "暂时无需过度担心",
+      "已明确偏高，需立即干预"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2577,
+    "seg_id": "S5-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "分层干预方案",
+    "template": "branch_path",
+    "items": [
+      "无任何危险因素",
+      "生活方式干预，少肥肉油炸",
+      "暂不需要药物治疗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2578,
+    "seg_id": "S5-L2",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "分层干预方案",
+    "template": "step_arrow",
+    "items": [
+      "存在高血压、糖尿病等危险因素",
+      "先以生活方式调整2~3个月",
+      "降不下来则考虑服用他汀"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2579,
+    "seg_id": "S5-L3",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "分层干预方案",
+    "template": "myth_buster",
+    "items": [
+      "没箭头就不需要吃药",
+      "等到有箭头，斑块已长数年",
+      "等指标高了再管，血管就来得及",
+      "斑块一旦形成，血管清不干净"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块形成的不可逆性"
+  },
+  {
+    "global_index": 2580,
+    "seg_id": "S5-L4",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "分层干预方案",
+    "template": "hero_text",
+    "items": [
+      "别等\"破产\"才想起存钱，血管同理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2581,
+    "seg_id": "S6-L1",
+    "bp_title": "低密度脂蛋白没箭头≠没问题",
+    "scene_title": "总结与行动建议",
+    "template": "category_table",
+    "items": [
+      "健康人群",
+      "生活干预为主，持续关注",
+      "高危人群",
+      "严格控值，必要时用药",
+      "已有斑块者",
+      "尽早就医，积极治疗",
+      "所有人",
+      "越早在意，越早受益"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2582,
+    "seg_id": "S1-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "开场点题",
+    "template": "split_column",
+    "items": [
+      "几十块的药嫌贵",
+      "上万保健品眼不眨"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2583,
+    "seg_id": "S1-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "开场点题",
+    "template": "warning_alert",
+    "items": [
+      "吃错保健品真的会出事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2584,
+    "seg_id": "S1-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "掀三大免疫保健品的底牌"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2585,
+    "seg_id": "S1-L4",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "听完你再决定这钱花不花"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2586,
+    "seg_id": "S2-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "鱼油的真相",
+    "template": "hero_text",
+    "items": [
+      "鱼油被奉为护心神药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2587,
+    "seg_id": "S2-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "鱼油的真相",
+    "template": "hero_text",
+    "items": [
+      "鱼油天生有两个大问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2588,
+    "seg_id": "S2-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "鱼油的真相",
+    "template": "number_center",
+    "items": [
+      "10%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2589,
+    "seg_id": "S2-L4",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "鱼油的真相",
+    "template": "warning_alert",
+    "items": [
+      "心脏不好补鱼油，房颤反而更频繁"
+    ],
+    "needs_animation": true,
+    "label": "鱼油诱发心房颤动机制"
+  },
+  {
+    "global_index": 2590,
+    "seg_id": "S2-L5",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "鱼油的真相",
+    "template": "brick_stack",
+    "items": [
+      "阿司匹林 / 氯吡格雷",
+      "利伐沙班等抗凝药",
+      "再加鱼油叠吃",
+      "胃出血脑出血风险上升"
+    ],
+    "needs_animation": true,
+    "label": "抗凝药物与鱼油叠加增加出血风险机制"
+  },
+  {
+    "global_index": 2591,
+    "seg_id": "S2-L6",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "鱼油的真相",
+    "template": "branch_path",
+    "items": [
+      "你平时规律吃鱼吗？",
+      "规律吃鱼→完全没必要买鱼油",
+      "几乎不吃鱼→偶尔补一补还行"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2592,
+    "seg_id": "S3-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "牛初乳的真相",
+    "template": "hero_text",
+    "items": [
+      "牛初乳含抗体，宣称增强抵抗力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2593,
+    "seg_id": "S3-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "牛初乳的真相",
+    "template": "myth_buster",
+    "items": [
+      "牛初乳含抗体，人吃了也有效",
+      "牛初乳针对牛的病毒，对人效果有限"
+    ],
+    "needs_animation": true,
+    "label": "抗体的物种特异性与人体免疫识别"
+  },
+  {
+    "global_index": 2594,
+    "seg_id": "S3-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "牛初乳的真相",
+    "template": "split_column",
+    "items": [
+      "昂贵牛初乳效果存疑",
+      "一杯纯牛奶更实惠划算"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2595,
+    "seg_id": "S4-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "灵芝孢子粉的真相",
+    "template": "hero_text",
+    "items": [
+      "灵芝孢子粉：智商税排名靠前"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2596,
+    "seg_id": "S4-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "灵芝孢子粉的真相",
+    "template": "step_arrow",
+    "items": [
+      "外壳几丁质与虾壳成分相同",
+      "人体肠胃无法消化这层壳",
+      "吃进去什么样出来什么样"
+    ],
+    "needs_animation": true,
+    "label": "几丁质外壳在人体消化道中不被消化过程"
+  },
+  {
+    "global_index": 2597,
+    "seg_id": "S4-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "灵芝孢子粉的真相",
+    "template": "myth_buster",
+    "items": [
+      "破壁技术能释放活性成分",
+      "破壁后活性成分同步氧化变质"
+    ],
+    "needs_animation": true,
+    "label": "孢子破壁后活性成分氧化降解过程"
+  },
+  {
+    "global_index": 2598,
+    "seg_id": "S4-L4",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "灵芝孢子粉的真相",
+    "template": "split_column",
+    "items": [
+      "几百元一盒灵芝孢子粉",
+      "早餐两个鸡蛋营养更扎实"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2599,
+    "seg_id": "S5-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "免疫力的真相",
+    "template": "hero_text",
+    "items": [
+      "你真的需要提高免疫力吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

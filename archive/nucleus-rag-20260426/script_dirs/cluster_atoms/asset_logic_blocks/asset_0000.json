@@ -1,0 +1,9 @@
+[
+  {
+    "file": "ANC00093_Blood Clot Formation Around Plaque.mp4",
+    "title": "ANC00093 Blood Clot Formation Around Plaque",
+    "start": 0.0,
+    "end": 8.0,
+    "text_en": "Formation of a blood clot which can impede blood flow through the artery, leading to a heart attack or a stroke.\n\n---\n\n整段只描述一个医学动作：**血栓形成及其后果**（阻断血流→心梗/中风），属于同一因果链的单一画面展示，因此归为 1 个 logic block。"
+  }
+]

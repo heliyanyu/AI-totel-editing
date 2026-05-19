@@ -1,0 +1,522 @@
+[
+  {
+    "global_index": 2920,
+    "seg_id": "S6-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "清醒感的真相",
+    "template": "step_arrow",
+    "items": [
+      "肾上腺素飙升",
+      "大脑供血增加",
+      "感觉突然清醒"
+    ],
+    "needs_animation": true,
+    "label": "应激状态下肾上腺素对大脑供血的调节机制"
+  },
+  {
+    "global_index": 2921,
+    "seg_id": "S6-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "清醒感的真相",
+    "template": "split_column",
+    "items": [
+      "感觉轻松清醒",
+      "实为压力激素应激",
+      "以为身体减负",
+      "实际进入应激撑场"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2922,
+    "seg_id": "S7-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "脂肪供能的代价",
+    "template": "hero_text",
+    "items": [
+      "脂肪确实参与供能，但并不理想"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2923,
+    "seg_id": "S7-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "脂肪供能的代价",
+    "template": "step_arrow",
+    "items": [
+      "应激状态动员脂肪",
+      "产生脂肪酸和酮体",
+      "参与部分供能"
+    ],
+    "needs_animation": true,
+    "label": "应激状态下脂肪动员与酮体生成过程"
+  },
+  {
+    "global_index": 2924,
+    "seg_id": "S7-L3",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "脂肪供能的代价",
+    "template": "warning_alert",
+    "items": [
+      "同时分解蛋白质，拆肌肉造糖",
+      "维持血糖却损失肌肉量"
+    ],
+    "needs_animation": true,
+    "label": "糖异生过程：蛋白质分解转化为葡萄糖"
+  },
+  {
+    "global_index": 2925,
+    "seg_id": "S7-L4",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "脂肪供能的代价",
+    "template": "brick_stack",
+    "items": [
+      "体重下降但人更虚",
+      "肌肉流失基础代谢降低",
+      "长期硬饿适得其反"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2926,
+    "seg_id": "S8-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "正确减脂方式",
+    "template": "list_fade",
+    "items": [
+      "规律进食，不彻底节食",
+      "减少精制碳水摄入",
+      "增加蔬菜比例",
+      "保证充足蛋白质"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2927,
+    "seg_id": "S8-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "正确减脂方式",
+    "template": "step_arrow",
+    "items": [
+      "饮食结构调整",
+      "胰岛素水平平稳下降",
+      "供能比例转向脂肪"
+    ],
+    "needs_animation": true,
+    "label": "胰岛素水平下降与供能底物切换机制"
+  },
+  {
+    "global_index": 2928,
+    "seg_id": "S9-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "结尾收场",
+    "template": "hero_text",
+    "items": [
+      "这次讲明白了吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2929,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "开场点题",
+    "template": "number_center",
+    "items": [
+      "1/4"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2930,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "这个小洞需要手术吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2931,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "什么是卵圆孔未闭",
+      "它是心脏病吗",
+      "什么时候需要警惕",
+      "发现后该怎么办"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2932,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么是卵圆孔未闭",
+    "template": "hero_text",
+    "items": [
+      "什么是卵圆孔未闭？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2933,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么是卵圆孔未闭",
+    "template": "body_annotate",
+    "items": [
+      "胎儿无法用肺呼吸",
+      "左右心房之间有卵圆孔",
+      "血液通过此孔直接流通"
+    ],
+    "needs_animation": true,
+    "label": "胎儿心脏卵圆孔血液分流通路"
+  },
+  {
+    "global_index": 2934,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么是卵圆孔未闭",
+    "template": "step_arrow",
+    "items": [
+      "出生后第一声啼哭",
+      "肺开始工作",
+      "卵圆孔自然关闭"
+    ],
+    "needs_animation": true,
+    "label": "出生后卵圆孔自然关闭过程"
+  },
+  {
+    "global_index": 2935,
+    "seg_id": "S2-L4",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么是卵圆孔未闭",
+    "template": "hero_text",
+    "items": [
+      "门没关严，留下缝隙，即卵圆孔未闭"
+    ],
+    "needs_animation": true,
+    "label": "卵圆孔未闭的解剖结构示意"
+  },
+  {
+    "global_index": 2936,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "它是心脏病吗",
+    "template": "hero_text",
+    "items": [
+      "卵圆孔未闭是心脏病吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2937,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "它是心脏病吗",
+    "template": "number_center",
+    "items": [
+      "25%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2938,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "它是心脏病吗",
+    "template": "list_fade",
+    "items": [
+      "一辈子可能毫不知情",
+      "生活运动完全不受影响"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2939,
+    "seg_id": "S3-L4",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "它是心脏病吗",
+    "template": "myth_buster",
+    "items": [
+      "这是传统意义上的心脏病",
+      "这只是解剖结构上的小差异"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2940,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "hero_text",
+    "items": [
+      "什么情况下需要警惕？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2941,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "split_column",
+    "items": [
+      "左心压力较高",
+      "门缝被压住不漏血"
+    ],
+    "needs_animation": true,
+    "label": "心房压力差维持卵圆孔关闭的机制"
+  },
+  {
+    "global_index": 2942,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "color_grid",
+    "items": [
+      "剧烈咳嗽",
+      "用力排便",
+      "突然憋气",
+      "右心压力瞬间飙升"
+    ],
+    "needs_animation": true,
+    "label": "瓦尔萨瓦动作导致右心压力骤升机制"
+  },
+  {
+    "global_index": 2943,
+    "seg_id": "S4-L4",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "step_arrow",
+    "items": [
+      "右心静脉血含微小血栓",
+      "绕过肺部过滤直入左心",
+      "冲入动脉直奔大脑"
+    ],
+    "needs_animation": true,
+    "label": "反常栓塞：血栓经卵圆孔进入动脉系统"
+  },
+  {
+    "global_index": 2944,
+    "seg_id": "S4-L5",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "hero_text",
+    "items": [
+      "可能带来两个健康问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2945,
+    "seg_id": "S4-L6",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "warning_alert",
+    "items": [
+      "隐源性脑卒中",
+      "不明原因中风的重要原因之一"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2946,
+    "seg_id": "S4-L7",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "什么时候需要警惕",
+    "template": "warning_alert",
+    "items": [
+      "有害物质绕过肺直接刺激大脑",
+      "可能诱发或加重先兆性偏头痛"
+    ],
+    "needs_animation": true,
+    "label": "有害物质经卵圆孔绕过肺过滤入脑的通路"
+  },
+  {
+    "global_index": 2947,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "发现后该怎么办",
+    "template": "hero_text",
+    "items": [
+      "发现卵圆孔未闭后怎么办？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2948,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "发现后该怎么办",
+    "template": "hero_text",
+    "items": [
+      "按三种情况对号入座"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2949,
+    "seg_id": "S5-L3",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "发现后该怎么办",
+    "template": "category_table",
+    "items": [
+      "无症状人群（绝大多数）",
+      "无需治疗，正常生活"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2950,
+    "seg_id": "S5-L4",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "发现后该怎么办",
+    "template": "branch_path",
+    "items": [
+      "头痛严重且药物效果差",
+      "可咨询封堵，部分人明显缓解",
+      "症状轻微则继续观察"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2951,
+    "seg_id": "S5-L5",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "发现后该怎么办",
+    "template": "warning_alert",
+    "items": [
+      "已发生不明原因中风",
+      "积极干预，建议封堵术"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2952,
+    "seg_id": "S5-L6",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "发现后该怎么办",
+    "template": "step_arrow",
+    "items": [
+      "穿刺腿部血管",
+      "送入小伞封堵门缝",
+      "微创，恢复快"
+    ],
+    "needs_animation": true,
+    "label": "经导管卵圆孔封堵术过程"
+  },
+  {
+    "global_index": 2953,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "心脏里安静的小过客"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2954,
+    "seg_id": "S6-L2",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "总结收尾",
+    "template": "split_column",
+    "items": [
+      "大多数人：不打扰生活",
+      "极少数人：关注并处理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2955,
+    "seg_id": "S6-L3",
+    "bp_title": "心脏里的小洞：卵圆孔未闭，你需要手术吗？",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "别自己吓自己，交给医生科学决策"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2956,
+    "seg_id": "S1-L1",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "大脑需要蛋白质",
+    "template": "hero_text",
+    "items": [
+      "吃够优质蛋白，预防老年痴呆"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2957,
+    "seg_id": "S1-L2",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "大脑需要蛋白质",
+    "template": "list_fade",
+    "items": [
+      "大脑每天运转需要原料",
+      "蛋白质是大脑的核心燃料"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2958,
+    "seg_id": "S1-L3",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "大脑需要蛋白质",
+    "template": "warning_alert",
+    "items": [
+      "稀饭咸菜、面条凑合，蛋白质严重不足"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2959,
+    "seg_id": "S1-L4",
+    "bp_title": "五种便宜高蛋白食物，预防老年痴呆从吃开始",
+    "scene_title": "大脑需要蛋白质",
+    "template": "warning_alert",
+    "items": [
+      "长期营养不良增加认知下降风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

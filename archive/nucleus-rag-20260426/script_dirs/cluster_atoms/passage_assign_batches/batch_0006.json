@@ -1,0 +1,298 @@
+[
+  {
+    "file": "ANH11047_Atrial Fibrillation.mp4",
+    "title": "ANH11047 Atrial Fibrillation",
+    "start_sec": 209.2,
+    "end_sec": 258.5,
+    "summary_zh": "房颤的药物治疗：医生可使用抗心律失常药物控制心房电信号恢复正常节律；若心率仍过快，可使用β受体阻滞剂减慢心率；此外医生还可能推荐电复律、消融术或起搏器植入等手术。",
+    "text_en": "Your doctor may treat your atrial fibrillation, with anti-arhythmic medications. Your atrial fibrillation control the electrical signals sent to your atria, which help your heart beat in a regular rhythm. After treatment, your heart may still beat too quickly. In this case, your doctor may give you beta-blocker medications, to slow your heart rate down to In addition, your doctor may recommend procedures that restore your heart's normal rhythm and rate, such as cardioversion, ablation, or pacemaker placement.",
+    "category_ids": [
+      20,
+      120
+    ]
+  },
+  {
+    "file": "ANH11047_Atrial Fibrillation.mp4",
+    "title": "ANH11047 Atrial Fibrillation",
+    "start_sec": 258.5,
+    "end_sec": 286.3,
+    "summary_zh": "房颤的手术治疗详解：电复律通过电击恢复正常心律；消融术使用射频能量摧毁产生异常电信号的心脏组织；起搏器植入是在心脏附近皮下植入小型装置以调节心律。",
+    "text_en": "In electrical cardioversion, your doctor will give your heart a shock, to start a normal heart rhythm. During ablation, your surgeon will use radio wave energy to destroy the heart tissue generating the abnormal electrical signals. In pacemaker placement, your surgeon will implant a small device under the skin near your heart to regulate your heart's rhythm.",
+    "category_ids": [
+      20,
+      120
+    ]
+  },
+  {
+    "file": "ANH11056_Folic Acid.mp4",
+    "title": "ANH11056 Folic Acid",
+    "start_sec": 10.9,
+    "end_sec": 28.1,
+    "summary_zh": "叶酸与食物中天然叶酸的区别：叶酸（folic acid）是人工合成形式，添加于维生素和强化食品中；folate是食物中天然存在的B族维生素形式",
+    "text_en": "Folic acid and folate are two forms of the same B vitamin. Folate is the form that occurs naturally in foods, while folic acid is the man-made form added to multivitamins and fortified foods.",
+    "category_ids": [
+      66
+    ]
+  },
+  {
+    "file": "ANH11056_Folic Acid.mp4",
+    "title": "ANH11056 Folic Acid",
+    "start_sec": 28.1,
+    "end_sec": 69.2,
+    "summary_zh": "叶酸的生理功能与孕期重要性：身体需要叶酸来生成新细胞（脑细胞、血细胞、DNA/RNA）；孕期需求增加，叶酸帮助胎儿大脑和脊髓正常发育，显著降低神经管缺陷风险",
+    "text_en": "Your body needs folic acid to help make new cells, including brain cells, blood cells, and DNA and RNA, the genetic material inside your cells. During pregnancy, you need even more folic acid because your baby's body needs it too. Folic acid helps your baby's brain and spinal cord develop normally. Taking folic acid can significantly reduce the risk of neural tube defects in your developing baby, called an embryo at this stage.",
+    "category_ids": [
+      66
+    ]
+  },
+  {
+    "file": "ANH11056_Folic Acid.mp4",
+    "title": "ANH11056 Folic Acid",
+    "start_sec": 69.2,
+    "end_sec": 91.9,
+    "summary_zh": "神经管的正常发育过程：神经管从椭圆形胚胎组织开始，在受孕约28天后折叠成管状；正常闭合后发育为大脑和脊髓；若因缺乏叶酸未能正常闭合，则可能导致神经管缺陷",
+    "text_en": "The neural tube begins as a tiny oval-shaped piece of embryonic tissue, which folds into a tube about 28 days after conception. When this tube closes properly, it continues to develop into your baby's brain and spinal If the neural tube does not close due to the lack of folic acid in your diet, your baby",
+    "category_ids": []
+  },
+  {
+    "file": "ANH11056_Folic Acid.mp4",
+    "title": "ANH11056 Folic Acid",
+    "start_sec": 91.9,
+    "end_sec": 126.4,
+    "summary_zh": "脊柱裂（spina bifida）：神经管底部未能闭合，导致脊柱无法完全包裹保护下段脊髓，脊髓突出；患儿常需手术，可出现腿部瘫痪、发育迟缓和神经系统问题等永久性残疾",
+    "text_en": "may have a neural tube defect, such as spina bifida or anencephaly. In spina bifida, the neural tube fails to close at the bottom. As a result, the parts of the spine that enclose and protect the lower spinal cord do not completely form, allowing the cord to protrude. Children with this defect often require surgery and have permanent disabilities, including leg paralysis, developmental delays, and nervous system problems.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH11056_Folic Acid.mp4",
+    "title": "ANH11056 Folic Acid",
+    "start_sec": 126.4,
+    "end_sec": 145.4,
+    "summary_zh": "无脑畸形（anencephaly）：神经管顶部未能闭合，导致大脑和颅骨大部分无法完整发育；患此缺陷的胎儿无法存活，通常在出生前或出生后不久死亡",
+    "text_en": "In the condition called anencephaly, the neural tube fails to close at the top, preventing large parts of the brain and skull from developing completely. These with this defect are unable to live and usually die before birth or soon after.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH11056_Folic Acid.mp4",
+    "title": "ANH11056 Folic Acid",
+    "start_sec": 145.4,
+    "end_sec": 163.7,
+    "summary_zh": "叶酸可能预防的其他出生缺陷：唇腭裂（cleft lip and palate）以及房间隔缺损（atrial septal defect，即心脏左右上腔室之间的孔洞在发育中未能闭合）",
+    "text_en": "Folic acid may also protect against other birth defects, such as cleft lip and palate, and atrial septal defect, which is when a hole between the right and left upper chambers of the heart, fails to close during development.",
+    "category_ids": [
+      66
+    ]
+  },
+  {
+    "file": "ANH11056_Folic Acid.mp4",
+    "title": "ANH11056 Folic Acid",
+    "start_sec": 163.7,
+    "end_sec": 197.9,
+    "summary_zh": "叶酸补充建议：由于神经管在孕早期即发育（常在女性知晓怀孕之前），专家建议所有育龄女性每日服用含400微克叶酸的多种维生素；孕期增至每日600微克；需额外补充因为天然食物叶酸吸收率低于人工叶酸",
+    "text_en": "As the neural tube develops so early in pregnancy, often before a woman knows she's pregnant, experts recommend all women who are able to become pregnant take a daily multivitamin containing 400 micrograms of folic acid every day. During pregnancy, the need increases to 600 micrograms of folic acid each day. Experts recommend you take this multivitamin in addition to the food folate in your diet, as your body does not absorb folate found naturally in food, as easily as the man made folic acid.",
+    "category_ids": [
+      66
+    ]
+  },
+  {
+    "file": "ANH12061_Aortic Aneurysm and Dissection.mp4",
+    "title": "ANH12061 Aortic Aneurysm and Dissection",
+    "start_sec": 0,
+    "end_sec": 16.9,
+    "summary_zh": "主动脉概述：主动脉是人体最大的动脉，心脏通过主动脉将富含氧气的血液输送到全身器官和组织",
+    "text_en": "The aorta is the largest artery in your body. Your heart pumps fresh, oxygen-rich blood through your aorta to deliver oxygen and nutrients to all your organs and tissues.",
+    "category_ids": [
+      46
+    ]
+  },
+  {
+    "file": "ANH12061_Aortic Aneurysm and Dissection.mp4",
+    "title": "ANH12061 Aortic Aneurysm and Dissection",
+    "start_sec": 16.9,
+    "end_sec": 49,
+    "summary_zh": "主动脉的解剖结构：分为胸主动脉和腹主动脉两部分；胸主动脉包括主动脉根部、升主动脉、主动脉弓和降主动脉；主动脉壁由内膜、中膜和外膜三层组成",
+    "text_en": "Your aorta is divided into two main sections, the thoracic aorta and the abdominal aorta. The thoracic aorta has four parts, the aortic root, ascending aorta, aortic arch, and descending aorta. The wall of your aorta is composed of three layers that give it strength, the intima or inner layer, the media or middle layer, and the adventisha or outer layer.",
+    "category_ids": [
+      45,
+      46
+    ]
+  },
+  {
+    "file": "ANH12061_Aortic Aneurysm and Dissection.mp4",
+    "title": "ANH12061 Aortic Aneurysm and Dissection",
+    "start_sec": 50,
+    "end_sec": 73,
+    "summary_zh": "动脉瘤的形成机制：弹性中膜层防止血压撑破管壁，但退行性病变可导致中膜层退化、管壁减弱，血流冲击弱化区域使其像气球一样向外膨出",
+    "text_en": "The elastic muscular media prevents your blood pressure from rupturing the wall. Over time, degenerative disease may cause the media layer to break down, weakening the wall of your aorta. Blood pumping against the weakened area may cause it to bulge outward like a balloon.",
+    "category_ids": [
+      123,
+      147
+    ]
+  },
+  {
+    "file": "ANH12061_Aortic Aneurysm and Dissection.mp4",
+    "title": "ANH12061 Aortic Aneurysm and Dissection",
+    "start_sec": 74,
+    "end_sec": 93,
+    "summary_zh": "胸主动脉瘤的定义与好发部位：胸腔内的主动脉膨出称为胸主动脉瘤，可发生在主动脉根部、升主动脉或降主动脉",
+    "text_en": "When this condition occurs in your chest, it is called a thoracic aortic aneurysm. These aneurysms may occur in one of several places, including the aortic root, the ascending aorta, or the descending aorta.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12061_Aortic Aneurysm and Dissection.mp4",
+    "title": "ANH12061 Aortic Aneurysm and Dissection",
+    "start_sec": 94,
+    "end_sec": 142,
+    "summary_zh": "胸主动脉瘤的症状：多数无症状；增大后可出现气短、胸背腹痛、吞咽困难、声嘶；若破裂或夹层则出现胸部撕裂感、肩胛间剧痛、头晕、行走和言语困难等危及生命的症状",
+    "text_en": "Most thoracic aneurysms have no symptoms, however, when they reach larger sizes, various symptoms may appear, depending on the severity and location of the aneurysm. Symptoms of stable thoracic aneurysms may include shortness of breath, chest, back, or abdominal pain, difficulty swallowing, and horse-ness. If the aneurysm ruptures or dissects, more dramatic symptoms will appear, including a ripping sensation in the chest, severe pain in the back between the shoulder blades, dizziness, and difficulty walking and speaking. If you have these symptoms, you should seek immediate medical attention, as this condition is life-threatening.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12061_Aortic Aneurysm and Dissection.mp4",
+    "title": "ANH12061 Aortic Aneurysm and Dissection",
+    "start_sec": 143,
+    "end_sec": 195,
+    "summary_zh": "主动脉夹层的形成过程：血流冲击弱化管壁导致内膜撕裂，血液进入内膜与中膜之间形成假腔，隔膜（septum）将真腔与假腔分开；血液可能穿破外膜导致致命出血，或通过另一内膜裂口重新进入真腔；假腔内可形成血栓",
+    "text_en": "Blood pumping against weakened aortic walls can lead to another life-threatening condition, called aortic dissection, which may or may not occur within an aneurysm. Most commonly, aortic dissection begins with damage to the intima layer. Blood moves through the break in the intima, separating it from the media, causing bleeding inside the wall of your aorta. As a result, a flap called a septum forms between the true aortic channel and the false channel. From here, the blood may break through the outer layer of the aortic wall, causing an immediate life-threatening condition, or it may re-enter the aorta through another tear in the intima. Over time, a blood clot may form in the false channel.",
+    "category_ids": [
+      7
+    ]
+  },
+  {
+    "file": "ANH12061_Aortic Aneurysm and Dissection.mp4",
+    "title": "ANH12061 Aortic Aneurysm and Dissection",
+    "start_sec": 196,
+    "end_sec": 218,
+    "summary_zh": "主动脉夹层的Stanford分型：根据位置和症状持续时间分类——累及升主动脉为A型夹层，其余为B型夹层",
+    "text_en": "An aortic dissection may be classified, according to its location and duration of symptoms. In the Stanford system, if you have an aortic dissection in your ascending aorta, it is called a type A dissection. All other dissections are called type B.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12061_Aortic Aneurysm and Dissection.mp4",
+    "title": "ANH12061 Aortic Aneurysm and Dissection",
+    "start_sec": 219,
+    "end_sec": 245,
+    "summary_zh": "主动脉夹层的症状与就医建议：最常见症状为突发剧烈刺痛或刀割样胸痛；A型多感胸痛，B型多感背痛；出现症状应立即就医，此病可危及生命",
+    "text_en": "The most common symptom of the aortic dissection is sharp or stabbing chest pain, usually sudden and severe. If you have a type A dissection, you're most likely to feel pain in your chest. If you have a type B dissection, you're more likely to feel pain in your back than your chest. If you have these symptoms, you should seek immediate medical attention, as this condition can be life-threatening.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12066_Healthcare-Associated Infections.mp4",
+    "title": "ANH12066 Healthcare-Associated Infections",
+    "start_sec": 0,
+    "end_sec": 34.1,
+    "summary_zh": "医疗相关感染（HAI）的定义与常见致病菌：包括耐甲氧西林金黄色葡萄球菌（MRSA）、肠球菌和艰难梭菌（C. diff）",
+    "text_en": "Health Care Associated Infections or HAIs are infections you may get in a health care facility while you are receiving treatment for a different condition. Bacteria such as methamillicillin-resistant staphlococcus aureus, also known as merse, interococcus species, and claustridium difficile or C-diff are frequently the cause of health care associated infections.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12066_Healthcare-Associated Infections.mp4",
+    "title": "ANH12066 Healthcare-Associated Infections",
+    "start_sec": 34.1,
+    "end_sec": 59.3,
+    "summary_zh": "HAI的严重性及主要传播途径：手卫生不当导致细菌在患者之间或同一患者不同部位之间传播",
+    "text_en": "These infections are a major cause of death around the world. One of the most common ways these bacteria get passed from person to person is through lack of proper hand hygiene. When people don't clean their hands, they can transfer microbes from one patient to another, or from one part of the body to another on the same patient.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12066_Healthcare-Associated Infections.mp4",
+    "title": "ANH12066 Healthcare-Associated Infections",
+    "start_sec": 59.3,
+    "end_sec": 74,
+    "summary_zh": "四种常见HAI之一——手术切口感染：细菌侵入手术切口并在组织中扩散导致感染",
+    "text_en": "There are four common types of health care associated infections. A surgical wound infection can result when bacteria get into your incision and spread through your tissues, leading to infection.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12066_Healthcare-Associated Infections.mp4",
+    "title": "ANH12066 Healthcare-Associated Infections",
+    "start_sec": 74,
+    "end_sec": 91.4,
+    "summary_zh": "四种常见HAI之二——导尿管相关尿路感染：细菌通过导尿管进入泌尿系统并在膀胱中繁殖",
+    "text_en": "A urinary tract infection can occur when you have a catheter in your bladder, which is a tube used to drain your urine. Bacteria can enter your urinary system on the catheter, enabling the bacteria to travel into your bladder where they can grow.",
+    "category_ids": [
+      22
+    ]
+  },
+  {
+    "file": "ANH12066_Healthcare-Associated Infections.mp4",
+    "title": "ANH12066 Healthcare-Associated Infections",
+    "start_sec": 91.4,
+    "end_sec": 112.4,
+    "summary_zh": "四种常见HAI之三——中心静脉导管相关血流感染：细菌从穿刺部位皮肤或直接进入血液导致感染",
+    "text_en": "A bloodstream infection can occur when you have a central line in your vein, which is a slender tube used to deliver fluids or medications into a large vein near your heart. Bacteria can enter the skin around the insertion site, or directly into your bloodstream, where they can cause infection.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12066_Healthcare-Associated Infections.mp4",
+    "title": "ANH12066 Healthcare-Associated Infections",
+    "start_sec": 112.4,
+    "end_sec": 130.9,
+    "summary_zh": "四种常见HAI之四——呼吸机相关肺炎：细菌在置入呼吸机时进入咽喉，被吸入肺部引发肺炎",
+    "text_en": "Numonia can result when you are on a ventilator or breathing machine. Bacteria can enter your throat while you are being placed on the ventilator. Then you may inhale the bacteria into your lungs, leading to infection that can cause pneumonia.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12066_Healthcare-Associated Infections.mp4",
+    "title": "ANH12066 Healthcare-Associated Infections",
+    "start_sec": 130.9,
+    "end_sec": 164,
+    "summary_zh": "手卫生是预防HAI最重要的措施：用肥皂流水洗手40-60秒，或用含酒精手消毒剂揉搓20-30秒",
+    "text_en": "Hand hygiene, a simple, low-cost and effective procedure, is the single most important method of preventing health care associated infections. All people in health care facilities, including patients, visitors and medical personnel, can help prevent these infections by cleaning their hands frequently. Hand hygiene can be performed with soap and running water for 40 to 60 seconds, or by thoroughly rubbing on an alcohol-based hand sanitizer for 20 to 30 seconds.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12068_CT Scan.mp4",
+    "title": "ANH12068 CT Scan",
+    "start_sec": 0,
+    "end_sec": 18.1,
+    "summary_zh": "CT扫描（也称CAT扫描或计算机轴向断层扫描）的定义：一种无痛的诊断检查，利用X射线和计算机生成骨骼及组织的横截面图像。",
+    "text_en": "A CT scan, also known as a CAT scan or computerized axial tomography, is a painless diagnostic test that uses X-rays and computers to create cross-sectional images of bones and tissues inside",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12068_CT Scan.mp4",
+    "title": "ANH12068 CT Scan",
+    "start_sec": 20,
+    "end_sec": 47.2,
+    "summary_zh": "CT扫描的临床适应症：医生可能建议进行CT扫描以检查血栓、骨折、癌性肿瘤、感染、内伤出血以及心血管疾病的征兆。",
+    "text_en": "Your doctor may recommend a CT scan to examine your body for any of the following. Ant clots, broken bones, cancerous tumors, infections, internal injuries and bleeding, and signs of heart and vascular disease.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12068_CT Scan.mp4",
+    "title": "ANH12068 CT Scan",
+    "start_sec": 47.2,
+    "end_sec": 59.8,
+    "summary_zh": "CT扫描的临床用途：帮助医生确定手术、活检或放射治疗的正确位置，评估癌症或心脏病的治疗效果，以及术后复查。",
+    "text_en": "A CT scan helps your doctor select the correct location for surgery, biopsy, or radiation therapy, check the treatment of cancer or heart disease, and check your condition after",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12068_CT Scan.mp4",
+    "title": "ANH12068 CT Scan",
+    "start_sec": 62.1,
+    "end_sec": 103.9,
+    "summary_zh": "CT扫描的工作原理：患者躺在可移动的检查台上通过隧道，环形机架（Gantry）围绕身体旋转，内置X射线管发射射线束，探测器测量人体吸收的辐射量，从多角度采集数据后由计算机生成骨骼和软组织的横截面图像。",
+    "text_en": "A CT scanner is a large square or round X-ray machine with a tunnel through the center. During your CT scan, you will lie on a table that slowly passes through the tunnel. As you move through the tunnel, a giant ring called a gantry will rotate around your body. The gantry contains a tube that will release X-ray beams and detectors that will measure the amount of radiation absorbed by your body. The X-ray beams will capture many views of your body from different angles as the gantry The detectors will send data to a computer that will create cross-sectional images of the bones and soft tissues inside your body.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12068_CT Scan.mp4",
+    "title": "ANH12068 CT Scan",
+    "start_sec": 103.9,
+    "end_sec": 114.9,
+    "summary_zh": "CT扫描的诊断价值：帮助医生观察病变在体内的位置，辅助制定治疗方案或评估治疗进展。",
+    "text_en": "The scan allows your doctor to see the location of a condition inside your body, which will help them decide how to treat it or to see how well your treatment is progressing.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH12068_CT Scan.mp4",
+    "title": "ANH12068 CT Scan",
+    "start_sec": 114.9,
+    "end_sec": 151.1,
+    "summary_zh": "造影剂的使用：检查前可能通过口服饮品、注射或钡灌肠给予造影剂。口服造影剂可高亮食管和胃，注射造影剂可高亮血管、胆囊、肝脏或泌尿道，钡灌肠可高亮大肠。",
+    "text_en": "In some cases, you may receive contrast dye before your procedure in a drink, an injection, or a barium anema to make it easier for your doctor to see certain areas of your body. If you received a drink with contrast dye, your esophagus or stomach will be highlighted. If you received an injection, your blood vessels, gallbladder, liver, or urinary tract will be highlighted. If you received a barium anema, your large intestine will be highlighted.",
+    "category_ids": []
+  }
+]

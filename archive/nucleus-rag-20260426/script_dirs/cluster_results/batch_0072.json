@@ -1,0 +1,517 @@
+[
+  {
+    "global_index": 2880,
+    "seg_id": "S1-L4",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "血管最不喜欢的三件事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2881,
+    "seg_id": "S2-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢代谢紊乱",
+    "template": "number_center",
+    "items": [
+      "1"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2882,
+    "seg_id": "S2-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢代谢紊乱",
+    "template": "step_arrow",
+    "items": [
+      "血脂血糖反复偏高",
+      "低密度脂蛋白钻入血管壁",
+      "内皮反复受到脂质刺激"
+    ],
+    "needs_animation": true,
+    "label": "低密度脂蛋白侵入血管内皮过程"
+  },
+  {
+    "global_index": 2883,
+    "seg_id": "S2-L3",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢代谢紊乱",
+    "template": "warning_alert",
+    "items": [
+      "血管内皮出现微小损伤"
+    ],
+    "needs_animation": true,
+    "label": "血管内皮损伤过程"
+  },
+  {
+    "global_index": 2884,
+    "seg_id": "S2-L4",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢代谢紊乱",
+    "template": "step_arrow",
+    "items": [
+      "身体启动炎症修补",
+      "修补过度积累",
+      "斑块慢慢形成"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块形成过程"
+  },
+  {
+    "global_index": 2885,
+    "seg_id": "S3-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢久坐",
+    "template": "number_center",
+    "items": [
+      "2"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2886,
+    "seg_id": "S3-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢久坐",
+    "template": "step_arrow",
+    "items": [
+      "久坐活动少",
+      "代谢变差血脂偏高",
+      "血管弹性调节下降"
+    ],
+    "needs_animation": true,
+    "label": "久坐致血管弹性下降过程"
+  },
+  {
+    "global_index": 2887,
+    "seg_id": "S3-L3",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢久坐",
+    "template": "warning_alert",
+    "items": [
+      "动脉硬化容易找上门"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2888,
+    "seg_id": "S3-L4",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢久坐",
+    "template": "hero_text",
+    "items": [
+      "长此以往，血管提前老化"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2889,
+    "seg_id": "S4-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢反复刺激",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2890,
+    "seg_id": "S4-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢反复刺激",
+    "template": "color_grid",
+    "items": [
+      "抽烟",
+      "熬夜",
+      "情绪波动大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2891,
+    "seg_id": "S4-L3",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢反复刺激",
+    "template": "step_arrow",
+    "items": [
+      "交感神经持续兴奋",
+      "血管反复收缩舒张",
+      "内皮逐渐变粗糙"
+    ],
+    "needs_animation": true,
+    "label": "交感神经兴奋致血管反复收缩与内皮损伤"
+  },
+  {
+    "global_index": 2892,
+    "seg_id": "S4-L4",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "不喜欢反复刺激",
+    "template": "warning_alert",
+    "items": [
+      "表面粗糙，脂质更易粘附",
+      "斑块形成只是时间问题"
+    ],
+    "needs_animation": true,
+    "label": "脂质在粗糙内皮上粘附沉积过程"
+  },
+  {
+    "global_index": 2893,
+    "seg_id": "S5-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "转折过渡",
+    "template": "hero_text",
+    "items": [
+      "给它好的环境，血管有自我修复力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2894,
+    "seg_id": "S5-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "转折过渡",
+    "template": "hero_text",
+    "items": [
+      "血管喜欢的三件事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2895,
+    "seg_id": "S6-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢稳定内环境",
+    "template": "number_center",
+    "items": [
+      "1"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2896,
+    "seg_id": "S6-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢稳定内环境",
+    "template": "color_grid",
+    "items": [
+      "血糖平稳",
+      "血脂平稳",
+      "血压平稳"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2897,
+    "seg_id": "S6-L3",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢稳定内环境",
+    "template": "step_arrow",
+    "items": [
+      "内皮减少反复受伤",
+      "胆固醇进入血管壁减少",
+      "炎症反应慢慢降下来"
+    ],
+    "needs_animation": true,
+    "label": "血管内皮修复与炎症消退过程"
+  },
+  {
+    "global_index": 2898,
+    "seg_id": "S6-L4",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢稳定内环境",
+    "template": "hero_text",
+    "items": [
+      "长期管理，而不是只盯一次化验单"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2899,
+    "seg_id": "S7-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢规律运动",
+    "template": "number_center",
+    "items": [
+      "2"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2900,
+    "seg_id": "S7-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢规律运动",
+    "template": "step_arrow",
+    "items": [
+      "心率适度增加血流更稳",
+      "内皮释放一氧化氮",
+      "血管舒张弹性恢复"
+    ],
+    "needs_animation": true,
+    "label": "一氧化氮介导的血管舒张机制"
+  },
+  {
+    "global_index": 2901,
+    "seg_id": "S7-L3",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢规律运动",
+    "template": "hero_text",
+    "items": [
+      "内皮功能改善，坏胆固醇不易入侵"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2902,
+    "seg_id": "S7-L4",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢规律运动",
+    "template": "color_grid",
+    "items": [
+      "快走",
+      "骑车",
+      "打太极"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2903,
+    "seg_id": "S7-L5",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢规律运动",
+    "template": "hero_text",
+    "items": [
+      "心率略高于静息，胜过完全不动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2904,
+    "seg_id": "S8-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢足够蛋白质",
+    "template": "number_center",
+    "items": [
+      "3"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2905,
+    "seg_id": "S8-L2",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢足够蛋白质",
+    "template": "warning_alert",
+    "items": [
+      "蛋白质不足，修复跟不上",
+      "血管变脆，稳定性下降"
+    ],
+    "needs_animation": true,
+    "label": "蛋白质不足致血管壁脆性增加"
+  },
+  {
+    "global_index": 2906,
+    "seg_id": "S8-L3",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "喜欢足够蛋白质",
+    "template": "color_grid",
+    "items": [
+      "鱼类",
+      "鸡蛋",
+      "奶制品",
+      "豆制品"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2907,
+    "seg_id": "S9-L1",
+    "bp_title": "血管最喜欢和最不喜欢的事",
+    "scene_title": "结尾收场",
+    "template": "hero_text",
+    "items": [
+      "好好对血管，它会回报你的健康"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2908,
+    "seg_id": "S1-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "开场共鸣",
+    "template": "hero_text",
+    "items": [
+      "饿到心慌，躺一会儿反而清醒了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2909,
+    "seg_id": "S1-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "开场共鸣",
+    "template": "hero_text",
+    "items": [
+      "这是身体在烧脂肪了吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2910,
+    "seg_id": "S2-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "澄清误区",
+    "template": "myth_buster",
+    "items": [
+      "饿过劲儿有精神",
+      "并非进入健康脂肪供能"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2911,
+    "seg_id": "S2-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "澄清误区",
+    "template": "hero_text",
+    "items": [
+      "这是身体应激，不是代谢变好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2912,
+    "seg_id": "S3-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "供能基础知识",
+    "template": "color_grid",
+    "items": [
+      "碳水化合物",
+      "脂肪",
+      "蛋白质",
+      "三者比例与顺序各不同"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2913,
+    "seg_id": "S3-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "供能基础知识",
+    "template": "hero_text",
+    "items": [
+      "正常进食时优先用葡萄糖供能"
+    ],
+    "needs_animation": true,
+    "label": "葡萄糖优先供能代谢过程"
+  },
+  {
+    "global_index": 2914,
+    "seg_id": "S3-L3",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "供能基础知识",
+    "template": "hero_text",
+    "items": [
+      "挨饿后，供能会分阶段切换"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2915,
+    "seg_id": "S4-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "饥饿第一阶段",
+    "template": "step_arrow",
+    "items": [
+      "刚开始挨饿",
+      "肝脏释放肝糖原",
+      "尽力维持血糖稳定"
+    ],
+    "needs_animation": true,
+    "label": "肝糖原分解释放维持血糖过程"
+  },
+  {
+    "global_index": 2916,
+    "seg_id": "S4-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "饥饿第一阶段",
+    "template": "warning_alert",
+    "items": [
+      "血糖下降，心慌饥饿",
+      "注意力下降，难集中"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2917,
+    "seg_id": "S5-L1",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "激素应激登场",
+    "template": "step_arrow",
+    "items": [
+      "肝糖原耗尽",
+      "身体启动升糖机制",
+      "胰岛素骤降"
+    ],
+    "needs_animation": true,
+    "label": "糖原耗尽后升糖激素调节机制"
+  },
+  {
+    "global_index": 2918,
+    "seg_id": "S5-L2",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "激素应激登场",
+    "template": "color_grid",
+    "items": [
+      "胰高血糖素升高",
+      "肾上腺素升高",
+      "皮质醇升高",
+      "保障大脑能量供应"
+    ],
+    "needs_animation": true,
+    "label": "应激激素协同升糖保障大脑供能"
+  },
+  {
+    "global_index": 2919,
+    "seg_id": "S5-L3",
+    "bp_title": "饿过劲儿反而精神？真相是身体在应激",
+    "scene_title": "激素应激登场",
+    "template": "hero_text",
+    "items": [
+      "唯一目标：保住大脑的能量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

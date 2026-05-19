@@ -1,0 +1,573 @@
+[
+  {
+    "global_index": 1680,
+    "seg_id": "S4-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误二：进食与乱用药",
+    "template": "hero_text",
+    "items": [
+      "心梗发作时喝水吃药暗藏危机"
+    ],
+    "atoms_text": "第二大错 喝口热水 吃点东西 或者囫囵吞咽急救药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1681,
+    "seg_id": "S4-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误二：进食与乱用药",
+    "template": "step_arrow",
+    "items": [
+      "家人端来热水患者饮用",
+      "随时可能意识丧失骤停",
+      "食物误入气管引发窒息"
+    ],
+    "atoms_text": "很多人一难受 家人就赶紧端来一杯温水 但在急性心梗发作时 患者随时可能出现 意识丧失 或心脏骤停",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1682,
+    "seg_id": "S4-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误二：进食与乱用药",
+    "template": "myth_buster",
+    "items": [
+      "胸痛就该立刻吃硝酸甘油",
+      "右室梗死时吃会导致血压崩盘",
+      "硝酸甘油是心绞痛的常备药",
+      "心梗类型不同用药需医生判断"
+    ],
+    "atoms_text": "如果在喝水或吃东西的瞬间 发生意外 食物喝水 极其容易误入气管 导致窒息 连抢救的机会 都会被剥夺",
+    "needs_animation": true,
+    "label": "心梗时进食或饮水误入气管导致窒息"
+  },
+  {
+    "global_index": 1683,
+    "seg_id": "S4-L4",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误二：进食与乱用药",
+    "template": "warning_alert",
+    "items": [
+      "血压瞬间崩盘直接休克"
+    ],
+    "atoms_text": "另外 很多人一胸痛 就赶紧吃硝酸甘油 但硝酸甘油不是万能的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1684,
+    "seg_id": "S4-L5",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误二：进食与乱用药",
+    "template": "list_fade",
+    "items": [
+      "如果患者此时",
+      "是因为右心室梗死",
+      "导致的低血压",
+      "再吃",
+      "具有扩张血管降压作用的"
+    ],
+    "atoms_text": "如果患者此时 是因为右心室梗死 导致的低血压 再吃 具有扩张血管降压作用的 硝酸甘油 会让血压瞬间崩盘 直接休克",
+    "needs_animation": true,
+    "label": "右心室梗死低血压时硝酸甘油扩张血管致血压崩溃"
+  },
+  {
+    "global_index": 1685,
+    "seg_id": "S5-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误三：迷信偏方",
+    "template": "hero_text",
+    "items": [
+      "网传急救偏方害人不浅"
+    ],
+    "atoms_text": "第三大错 迷信网传的 拍打手肘急救法 或用力咳嗽急救法",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1686,
+    "seg_id": "S5-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误三：迷信偏方",
+    "template": "list_fade",
+    "items": [
+      "拍打手肘内侧急救法",
+      "拼命用力咳嗽急救法"
+    ],
+    "atoms_text": "不知道从什么时候起 网上开始流传 突发心梗时 要使劲拍打手肘内侧 或者拼命用力咳嗽",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1687,
+    "seg_id": "S5-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误三：迷信偏方",
+    "template": "myth_buster",
+    "items": [
+      "拍打手肘可以拍散血栓",
+      "拍打刺激交感神经升高血压",
+      "用力咳嗽能自救心梗",
+      "咳嗽增加胸腔压力加剧缺血"
+    ],
+    "atoms_text": "从医学角度讲 这完全是无稽之谈 用力拍打 不仅不能把血栓拍散 反而会因为剧烈疼痛 刺激交感神经 让血压进一步升高 心脏负担更重",
+    "needs_animation": true,
+    "label": "用力拍打刺激交感神经致血压升高加重心脏负担"
+  },
+  {
+    "global_index": 1688,
+    "seg_id": "S5-L4",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误三：迷信偏方",
+    "template": "warning_alert",
+    "items": [
+      "错用偏方不是救命而是催命"
+    ],
+    "atoms_text": "而咳嗽心肺复苏 只在极少数 心导管手术室内的 特定心律失常下 由医生指导进行 才有效",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1689,
+    "seg_id": "S5-L5",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "错误三：迷信偏方",
+    "template": "hero_text",
+    "items": [
+      "真正救命的只有四个字"
+    ],
+    "atoms_text": "普通人在家中心梗发作时 用力咳嗽 只会增加胸腔压力 加剧心脏缺血 不仅救不了命 反而是在催命",
+    "needs_animation": true,
+    "label": "用力咳嗽增加胸腔压力加剧心脏缺血"
+  },
+  {
+    "global_index": 1690,
+    "seg_id": "S6-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第一步：静",
+    "template": "hero_text",
+    "items": [
+      "正确急救口诀：静·叫·开·等"
+    ],
+    "atoms_text": "那么 真正能救命的步骤 到底是什么 记住这四个字 静叫开等",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1691,
+    "seg_id": "S6-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第一步：静",
+    "template": "step_arrow",
+    "items": [
+      "立刻停止一切活动",
+      "就地平躺或半靠在床头",
+      "降低心脏耗氧保护心肌"
+    ],
+    "atoms_text": "第一步是静 立刻停止一切活动 不管是站着 走着 还是在干活 就地找个安全的地方 平躺下 或者半靠在沙发上 床头上",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1692,
+    "seg_id": "S6-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第一步：静",
+    "template": "warning_alert",
+    "items": [
+      "哪怕上厕所也绝对不能走动"
+    ],
+    "atoms_text": "千万不要让患者自己走动 哪怕是去上个厕所 也不行 绝对的静止 是降低心脏耗氧量 保护残存心肌 最有效的手段",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1693,
+    "seg_id": "S7-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第二步：叫",
+    "template": "step_arrow",
+    "items": [
+      "立刻拨打120急救电话",
+      "告知调度员位置与症状",
+      "急救车上即是移动急诊室"
+    ],
+    "atoms_text": "第二步是叫 立刻拨打120急救电话 不要打给远在天边的亲戚 也不要自己开车去医院",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1694,
+    "seg_id": "S7-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第二步：叫",
+    "template": "split_column",
+    "items": [
+      "自己开车或打车去医院",
+      "拨打120等待专业急救"
+    ],
+    "atoms_text": "在电话里 清晰的告诉调度员 你的具体位置 目前的症状",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1695,
+    "seg_id": "S7-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第二步：叫",
+    "template": "hero_text",
+    "items": [
+      "上了急救车等于进了半个急诊室"
+    ],
+    "atoms_text": "专业的急救车上 有除颤仪 心电图机 和专业的急救药物 上了急救车 其实就相当于 进了半个急诊室",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1696,
+    "seg_id": "S8-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第三步：开",
+    "template": "step_arrow",
+    "items": [
+      "独居者拨打120后开大门",
+      "方便急救人员第一时间进入"
+    ],
+    "atoms_text": "第三步是开 如果你是一个人独居 在拨打完120后 趁着自己还有意识 把大门打开 方便急救人员 第一时间冲进来施救",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1697,
+    "seg_id": "S8-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第三步：开",
+    "template": "warning_alert",
+    "items": [
+      "破门每耽误一分钟消耗一分心肌希望"
+    ],
+    "atoms_text": "如果门锁着 急救人员破门而入 耽误的每一分钟 都是在消耗心肌残存的希望",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1698,
+    "seg_id": "S9-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第四步：等",
+    "template": "list_fade",
+    "items": [
+      "保持情绪稳定安静等待",
+      "家人轻声安抚不要哭喊",
+      "肾上腺素飙升会收缩血管"
+    ],
+    "atoms_text": "第四步是等 保持情绪稳定 安静等待救援 过度恐慌和焦虑 会让肾上腺素飙升 进一步收缩血管",
+    "needs_animation": true,
+    "label": "恐慌焦虑致肾上腺素飙升进一步收缩血管"
+  },
+  {
+    "global_index": 1699,
+    "seg_id": "S9-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第四步：等",
+    "template": "warning_alert",
+    "items": [
+      "过度恐慌让血管进一步收缩"
+    ],
+    "atoms_text": "家人在旁边 要尽量安抚患者情绪 不要大声哭喊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1700,
+    "seg_id": "S9-L3",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "黄金步骤第四步：等",
+    "template": "branch_path",
+    "items": [
+      "观察患者是否失去意识无呼吸",
+      "立刻开始胸外按压",
+      "继续安抚等待120到来"
+    ],
+    "atoms_text": "如果患者突然失去意识 呼之不应 没有呼吸 家属才需要 立刻开始进行胸外按压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1701,
+    "seg_id": "S10-L1",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "科学自救赢得生机",
+    "template": "hero_text",
+    "items": [
+      "不乱动不信偏方第一时间叫救援"
+    ],
+    "atoms_text": "心血管的健康 容不得半点侥幸 面对突发危机 不盲目乱动 不轻信偏方 第一时间呼叫专业救援 才是对自己和家人生命 最大的负责",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1702,
+    "seg_id": "S10-L2",
+    "bp_title": "突发心梗急救避坑指南",
+    "scene_title": "科学自救赢得生机",
+    "template": "hero_text",
+    "items": [
+      "科学自救才能赢得与死神的赛跑"
+    ],
+    "atoms_text": "科学自救 才能在这场与死神的赛跑中 赢得先机",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1703,
+    "seg_id": "S1-L1",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "开篇：为何要比较",
+    "template": "hero_text",
+    "items": [
+      "血管狭窄一定要放支架吗"
+    ],
+    "atoms_text": "心脏血管狭窄了 一定要做心脏支架吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1704,
+    "seg_id": "S1-L2",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "开篇：为何要比较",
+    "template": "image_overlay",
+    "items": [
+      "搭桥手术同样值得考虑",
+      "并非只有支架这一条路"
+    ],
+    "atoms_text": "我前期视频曾讲过 有些病人呀 不一定非要做支架的 搭桥呀 也是比较好的选择",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1705,
+    "seg_id": "S1-L3",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "开篇：为何要比较",
+    "template": "split_column",
+    "items": [
+      "支架：微创手术",
+      "搭桥：开胸外科手术",
+      "选择人数不断增多",
+      "接受开胸者逐渐减少"
+    ],
+    "atoms_text": "搭桥术 人啊可能都知道 搭桥 我得开胸 是外科手术 支架呢 微创手术就可以 所以 选择支架的越来越多了 去外科搭桥开胸的呢 却越来越少了 总感觉 搭桥太受罪了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1706,
+    "seg_id": "S1-L4",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "开篇：为何要比较",
+    "template": "hero_text",
+    "items": [
+      "有利有弊，适合你的才最优"
+    ],
+    "atoms_text": "其实啊 心脏支架和搭桥呢 是治疗冠心病的 两种不同的方法 他们呢 有利有弊 我不能因为 我是做支架手术的 那就光说 做支架的好 说搭桥不好 我呢 更乐意告诉我的患者 你更适合做哪一种 而不是 一味的让病人多做支架",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1707,
+    "seg_id": "S1-L5",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "开篇：为何要比较",
+    "template": "list_fade",
+    "items": [
+      "弥漫性血管病变",
+      "三支血管病变",
+      "左主干病变",
+      "严重钙化病变"
+    ],
+    "atoms_text": "像有些弥漫性病变呀 三支病变呀 主干病变 或者钙化病变等等 这些呢 做支架的效果 有的时候却不一定好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1708,
+    "seg_id": "S1-L6",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "开篇：为何要比较",
+    "template": "hero_text",
+    "items": [
+      "今天为你解析两者核心区别"
+    ],
+    "atoms_text": "那他们俩 到底有什么区别呢 今天呢 就给大家科普一下 希望能够帮助 有需要的朋友",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1709,
+    "seg_id": "S2-L1",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "两种手术原理",
+    "template": "hero_text",
+    "items": [
+      "支架与搭桥的原理各是什么"
+    ],
+    "atoms_text": "首先呢 我们先说一下 什么是支架植入术 什么是冠脉搭桥手术",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1710,
+    "seg_id": "S2-L2",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "两种手术原理",
+    "template": "step_arrow",
+    "items": [
+      "穿刺手腕或大腿动脉",
+      "导管建立血管内通道",
+      "支架送达狭窄部位",
+      "扩张支架恢复血流"
+    ],
+    "atoms_text": "心脏支架呢 是属于微创手术 它是通过穿刺 手腕或者大腿根部的 这个动脉血管 然后 从穿刺的这个地方呢 到心脏的血管开口 通过导管呢 在血管内建立一个通道 通过导管呢 将支架送到 心脏血管的狭窄处 最后呢 支架扩张撑开血管 恢复血流 这就相当于 在狭窄处撑开了一条通道",
+    "needs_animation": true,
+    "label": "经手腕动脉穿刺送导管将支架送至狭窄处扩张撑开血管"
+  },
+  {
+    "global_index": 1711,
+    "seg_id": "S2-L3",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "两种手术原理",
+    "template": "step_arrow",
+    "items": [
+      "取乳内动脉或大隐静脉",
+      "绕过堵塞心脏血管段",
+      "近端连接主动脉",
+      "远端接狭窄血管末段",
+      "血液经桥血管供远端"
+    ],
+    "atoms_text": "心脏搭桥术呢 是属于开胸的外科手术 简单来说 就是心脏血管狭窄或者闭塞了 我从别的地方 另取一段血管 像乳内动脉和大隐静脉 然后呢 绕开这个心脏血管堵塞这个地方呢 给它搭一个桥 原来堵塞的地方呢 我们不去动它 这个桥呀 一端连着主动脉 另一端呢 连在心脏血管狭窄或者闭塞的远端 这样就相当于 架桥通过了一个堵塞的路段 让血液从桥上过去 给远端供血",
+    "needs_animation": true,
+    "label": "取乳内动脉或大隐静脉绕过堵塞段连接主动脉与远端恢复供血"
+  },
+  {
+    "global_index": 1712,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "hero_text",
+    "items": [
+      "六大维度深度对比两种手术"
+    ],
+    "atoms_text": "其次呢 我们再说一下 支架和搭桥之间的区别 到底有哪些",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1713,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "穿刺点仅留微小创口",
+      "局部麻醉即可完成",
+      "手术时间短",
+      "身体整体创伤小"
+    ],
+    "atoms_text": "第一 心脏支架呀 仅在穿刺部位 留下微小的创口 它是局部麻醉就可以了 手术时间比较短 对身体整体的创伤比较小",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1714,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "color_grid",
+    "items": [
+      "需开胸手术",
+      "须全身麻醉",
+      "手术耗时较长",
+      "身体创伤偏大"
+    ],
+    "atoms_text": "心脏搭桥手术呢 是开胸的手术 需要全身麻醉 手术的时间呢也比较长 对身体的创伤偏大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1715,
+    "seg_id": "S3-L4",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "vertical_timeline",
+    "items": [
+      "术后1~2天即可下床活动",
+      "术后数天顺利出院"
+    ],
+    "atoms_text": "第二 心脏支架术后呢 恢复比较快 一般术后一到两天啊 就可以下床活动了 术后几天 可能就可以出院",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1716,
+    "seg_id": "S3-L5",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "住院约1~2周",
+      "完全恢复需3~6个月",
+      "期间避免重体力劳动"
+    ],
+    "atoms_text": "心脏搭桥术呢 需要住院一到两周 完全恢复呢 需要三到六个月的时间 这个期间呀 需要避免剧烈的运动 和重体力劳动",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1717,
+    "seg_id": "S3-L6",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "单支或少数血管局限狭窄",
+      "急性心肌梗死紧急开通",
+      "无法耐受开胸手术者"
+    ],
+    "atoms_text": "第三 心脏支架呀 多适用于 那种单支或者少数血管局限性的狭窄 急性心肌梗死紧急开通血管 或者是 身体状况差无法耐受开胸手术的患者",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1718,
+    "seg_id": "S3-L7",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "hero_text",
+    "items": [
+      "能少放就少放，做支架的减法"
+    ],
+    "atoms_text": "我们经常说 现在做支架要做减法 支架能少放就少放 当然了 极其个别患者呢 也需要放多个支架 像急性心肌梗死的时候 病变段太长了 或者是 支架植入术出现了夹层或者血肿了 或者是 患者就是不听劝 我要坚持放支架了 等等一些情况",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1719,
+    "seg_id": "S3-L8",
+    "bp_title": "心脏支架 vs 搭桥：哪种更适合你",
+    "scene_title": "六大维度全面对比",
+    "template": "list_fade",
+    "items": [
+      "多支血管病变",
+      "左主干病变",
+      "弥漫性心脏病变",
+      "支架手术失败后"
+    ],
+    "atoms_text": "心脏搭桥呢 多适用于 一些多支的血管病变 左主干病变 心脏弥漫性的病变 或者支架手术失败的患者朋友 当然了 也有时合并心功能不全 室壁瘤等复杂情况呢 也有可能需要做搭桥手术",
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,538 @@
+[
+  {
+    "global_index": 3240,
+    "seg_id": "S3-L4",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "number_center",
+    "items": [
+      "30%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3241,
+    "seg_id": "S3-L5",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "split_column",
+    "items": [
+      "常见误解：吃太多蛋黄",
+      "真实原因：肝脏合成过旺",
+      "饮食影响被高估",
+      "代谢问题是根本"
+    ],
+    "needs_animation": true,
+    "label": "肝脏胆固醇合成机制"
+  },
+  {
+    "global_index": 3242,
+    "seg_id": "S3-L6",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "hero_text",
+    "items": [
+      "膳食指南已取消胆固醇摄入上限"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3243,
+    "seg_id": "S3-L7",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "破解蛋黄恐惧",
+    "template": "split_column",
+    "items": [
+      "扔蛋黄护心效果微乎其微",
+      "扔蛋黄营养损失实打实"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3244,
+    "seg_id": "S4-L1",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "蛋黄的营养价值",
+    "template": "color_grid",
+    "items": [
+      "优质蛋白",
+      "卵磷脂",
+      "多种维生素",
+      "矿物质"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3245,
+    "seg_id": "S4-L2",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "蛋黄的营养价值",
+    "template": "list_fade",
+    "items": [
+      "保护视力",
+      "提升免疫力",
+      "改善记忆力",
+      "参与胆固醇代谢调脂"
+    ],
+    "needs_animation": true,
+    "label": "卵磷脂参与胆固醇代谢调脂过程"
+  },
+  {
+    "global_index": 3246,
+    "seg_id": "S4-L3",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "蛋黄的营养价值",
+    "template": "hero_text",
+    "items": [
+      "蛋黄不是添乱的，是帮助你的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3247,
+    "seg_id": "S5-L1",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "吃多少才合适",
+    "template": "hero_text",
+    "items": [
+      "到底怎么吃？吃多少合适？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3248,
+    "seg_id": "S5-L2",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "吃多少才合适",
+    "template": "number_center",
+    "items": [
+      "1个"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3249,
+    "seg_id": "S5-L3",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "吃多少才合适",
+    "template": "hero_text",
+    "items": [
+      "血脂稳定：每天一个全蛋足够"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3250,
+    "seg_id": "S5-L4",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "吃多少才合适",
+    "template": "step_arrow",
+    "items": [
+      "血脂偏高",
+      "减蛋黄增蛋清",
+      "每周3-4蛋清 + 1-2全蛋",
+      "蛋白质达标不超胆固醇"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3251,
+    "seg_id": "S6-L1",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "最佳烹饪方式",
+    "template": "category_table",
+    "items": [
+      "水煮蛋（嫩熟）",
+      "消化吸收率最高，首选",
+      "水煮蛋（过老）",
+      "蛋白质过凝固，不易消化"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3252,
+    "seg_id": "S6-L2",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "最佳烹饪方式",
+    "template": "hero_text",
+    "items": [
+      "鸡蛋羹细腻易消化，消化弱者首选"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3253,
+    "seg_id": "S6-L3",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "最佳烹饪方式",
+    "template": "warning_alert",
+    "items": [
+      "煎炒蛋偶尔吃无妨",
+      "高火久烤变硬影响营养消化"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3254,
+    "seg_id": "S6-L4",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "最佳烹饪方式",
+    "template": "vertical_timeline",
+    "items": [
+      "首选：嫩水煮蛋 / 鸡蛋羹",
+      "偶尔：煎蛋、炒蛋",
+      "避免：过老过硬做法"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3255,
+    "seg_id": "S7-L1",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "特殊情况提示",
+    "template": "warning_alert",
+    "items": [
+      "血脂严重异常或肝肾功能不全者",
+      "须在医生指导下个体化调整摄入量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3256,
+    "seg_id": "S7-L2",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "特殊情况提示",
+    "template": "list_fade",
+    "items": [
+      "定期检测血脂",
+      "根据结果随时调整饮食",
+      "饮食均衡才是根本"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3257,
+    "seg_id": "S8-L1",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "冠心病可以吃鸡蛋，蛋黄也不必扔"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3258,
+    "seg_id": "S8-L2",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "总结收尾",
+    "template": "branch_path",
+    "items": [
+      "血脂是否稳定？",
+      "稳定：每天一个全蛋",
+      "偏高：减蛋黄，增蛋清"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3259,
+    "seg_id": "S8-L3",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "总结收尾",
+    "template": "split_column",
+    "items": [
+      "首选水煮蛋 / 蒸蛋",
+      "避免生吃鸡蛋"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3260,
+    "seg_id": "S8-L4",
+    "bp_title": "冠心病患者能吃鸡蛋吗？蛋黄到底要不要扔？",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "现在你明白了吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3261,
+    "seg_id": "S1-L1",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "开场引题",
+    "template": "list_fade",
+    "items": [
+      "能不能喝酒",
+      "能不能吃辣",
+      "能不能泡温泉",
+      "降压药怎么自己调",
+      "感冒药能随便吃吗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3262,
+    "seg_id": "S1-L2",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "开场引题",
+    "template": "hero_text",
+    "items": [
+      "评论区反复被问到的问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3263,
+    "seg_id": "S1-L3",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "开场引题",
+    "template": "hero_text",
+    "items": [
+      "七个问题今天一次讲清"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3264,
+    "seg_id": "S2-L1",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能喝酒吗",
+    "template": "hero_text",
+    "items": [
+      "高血压不能喝酒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3265,
+    "seg_id": "S2-L2",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能喝酒吗",
+    "template": "myth_buster",
+    "items": [
+      "少喝点红酒软化血管没事",
+      "红酒软化血管早已被推翻",
+      "喝点总比不喝强",
+      "安全饮酒量只有零"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3266,
+    "seg_id": "S2-L3",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能喝酒吗",
+    "template": "step_arrow",
+    "items": [
+      "酒精进入身体",
+      "血管扩张血压下降",
+      "数小时后血管反弹收缩",
+      "血压飙升超过之前"
+    ],
+    "needs_animation": true,
+    "label": "酒精导致血管先扩张后反弹收缩的血压波动过程"
+  },
+  {
+    "global_index": 3267,
+    "seg_id": "S2-L4",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能喝酒吗",
+    "template": "warning_alert",
+    "items": [
+      "血压骤升骤降对血管伤害更大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3268,
+    "seg_id": "S2-L5",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能喝酒吗",
+    "template": "number_center",
+    "items": [
+      "0"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3269,
+    "seg_id": "S2-L6",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能喝酒吗",
+    "template": "list_fade",
+    "items": [
+      "这种先降后飙啊",
+      "对血管的伤害",
+      "可能比一直高着还大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3270,
+    "seg_id": "S2-L7",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能喝酒吗",
+    "template": "list_fade",
+    "items": [
+      "所以啊",
+      "最安全的饮酒量",
+      "就是零"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3271,
+    "seg_id": "S3-L1",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能泡温泉吗",
+    "template": "hero_text",
+    "items": [
+      "能泡，但有条件"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3272,
+    "seg_id": "S3-L2",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能泡温泉吗",
+    "template": "step_arrow",
+    "items": [
+      "热水使血管扩张",
+      "泡着时血压下降感觉舒适",
+      "突然站起血管来不及收缩",
+      "血压骤降容易晕倒"
+    ],
+    "needs_animation": true,
+    "label": "热水致血管扩张后体位性低血压发生过程"
+  },
+  {
+    "global_index": 3273,
+    "seg_id": "S3-L3",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能泡温泉吗",
+    "template": "list_fade",
+    "items": [
+      "水温不超过40度",
+      "时间不超过10分钟",
+      "起身要扶边慢慢站"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3274,
+    "seg_id": "S3-L4",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能泡温泉吗",
+    "template": "warning_alert",
+    "items": [
+      "血压超过160先别泡",
+      "等血压稳定后再考虑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3275,
+    "seg_id": "S3-L5",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能泡温泉吗",
+    "template": "list_fade",
+    "items": [
+      "所以啊",
+      "高血压人啊",
+      "泡温泉啊",
+      "要记住三个不要"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3276,
+    "seg_id": "S3-L6",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能泡温泉吗",
+    "template": "list_fade",
+    "items": [
+      "水温不要超过四十度",
+      "时间不要超过十分钟",
+      "起来的时候不要猛站",
+      "扶着边慢慢起"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3277,
+    "seg_id": "S3-L7",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能泡温泉吗",
+    "template": "list_fade",
+    "items": [
+      "如果最近血压超过一百六",
+      "你就先别泡了",
+      "等稳定了再说"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3278,
+    "seg_id": "S4-L1",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能吃辣吗",
+    "template": "hero_text",
+    "items": [
+      "高血压可以吃辣"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3279,
+    "seg_id": "S4-L2",
+    "bp_title": "高血压7大疑问一次讲清",
+    "scene_title": "高血压能吃辣吗",
+    "template": "split_column",
+    "items": [
+      "辣椒素本身不升血压",
+      "盐和油才是升压元凶",
+      "长期吃辣地区高血压反而偏低",
+      "辣菜常常又咸又油才是问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

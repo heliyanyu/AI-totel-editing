@@ -1,0 +1,527 @@
+[
+  {
+    "global_index": 1200,
+    "seg_id": "S7-L3",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "真实因果链",
+    "template": "warning_alert",
+    "items": [
+      "先有高血压失控，后有血管堵塞",
+      "搞反顺序，通血管永远白费功夫"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1201,
+    "seg_id": "S8-L1",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "总结三句大白话",
+    "template": "hero_text",
+    "items": [
+      "三句大白话，一秒记住核心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1202,
+    "seg_id": "S8-L2",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "总结三句大白话",
+    "template": "list_fade",
+    "items": [
+      "血压高≠血管堵，别盲目通血管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1203,
+    "seg_id": "S8-L3",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "总结三句大白话",
+    "template": "list_fade",
+    "items": [
+      "高血压没控好，才会把血管搞堵"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1204,
+    "seg_id": "S8-L4",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "总结三句大白话",
+    "template": "brick_stack",
+    "items": [
+      "遵医嘱规范使用降压药",
+      "严格控制每日盐分摄入",
+      "规律作息，减少熬夜压力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1205,
+    "seg_id": "S8-L5",
+    "bp_title": "高血压≠血管堵了，别再乱通血管",
+    "scene_title": "总结三句大白话",
+    "template": "hero_text",
+    "items": [
+      "找对因果，稳稳护住血管与健康"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1206,
+    "seg_id": "S1-L1",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "门诊常见误解",
+    "template": "warning_alert",
+    "items": [
+      "看到\"动脉硬化\"以为血管要堵了",
+      "害怕自己快心梗了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1207,
+    "seg_id": "S1-L2",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "门诊常见误解",
+    "template": "myth_buster",
+    "items": [
+      "动脉硬化＝动脉粥样硬化",
+      "两者只差两字，但不是一回事",
+      "动脉硬化是总称",
+      "粥样硬化是其中最危险的类型"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1208,
+    "seg_id": "S2-L1",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "动脉硬化是血管衰老",
+    "template": "step_arrow",
+    "items": [
+      "血液每天冲刷血管数万次",
+      "年复一年持续受压",
+      "管壁逐渐失去弹性变僵硬"
+    ],
+    "needs_animation": true,
+    "label": "动脉血管壁在血流冲刷下老化硬化过程"
+  },
+  {
+    "global_index": 1209,
+    "seg_id": "S2-L2",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "动脉硬化是血管衰老",
+    "template": "hero_text",
+    "items": [
+      "橡皮管用了三十年，弹性自然不如新的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1210,
+    "seg_id": "S2-L3",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "动脉硬化是血管衰老",
+    "template": "number_center",
+    "items": [
+      "100%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1211,
+    "seg_id": "S2-L4",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "动脉硬化是血管衰老",
+    "template": "split_column",
+    "items": [
+      "血管里长了东西",
+      "血管年纪大了，正常衰老",
+      "即将发生心梗",
+      "跟脸上长皱纹一个道理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1212,
+    "seg_id": "S3-L1",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "粥样硬化如何形成",
+    "template": "hero_text",
+    "items": [
+      "粥样硬化的关键不是硬，是长了斑块"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1213,
+    "seg_id": "S3-L2",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "粥样硬化如何形成",
+    "template": "step_arrow",
+    "items": [
+      "血管内壁受损出现缺口",
+      "低密度脂蛋白钻入被氧化",
+      "免疫细胞来吞噬后死在原地",
+      "堆积成黄软物质，形如小米粥"
+    ],
+    "needs_animation": true,
+    "label": "动脉粥样硬化斑块形成过程"
+  },
+  {
+    "global_index": 1214,
+    "seg_id": "S3-L3",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "粥样硬化如何形成",
+    "template": "step_arrow",
+    "items": [
+      "斑块越长越大，血管越来越窄",
+      "纤维帽突然破裂，血栓瞬间形成",
+      "血管堵死，心梗或脑梗发生"
+    ],
+    "needs_animation": true,
+    "label": "粥样斑块破裂引发血栓堵塞过程"
+  },
+  {
+    "global_index": 1215,
+    "seg_id": "S4-L1",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "两者本质区别与关联",
+    "template": "split_column",
+    "items": [
+      "管壁变硬变僵，岁月痕迹",
+      "管壁里长了危险斑块，是疾病",
+      "血管老了，正常衰老",
+      "血管病了，需要干预"
+    ],
+    "needs_animation": true,
+    "label": "动脉硬化与动脉粥样硬化的血管壁结构对比"
+  },
+  {
+    "global_index": 1216,
+    "seg_id": "S4-L2",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "两者本质区别与关联",
+    "template": "step_arrow",
+    "items": [
+      "血管越硬，血流冲击力越大",
+      "内壁越容易受损",
+      "低密度脂蛋白越容易入侵",
+      "斑块越容易形成"
+    ],
+    "needs_animation": true,
+    "label": "血管硬化加速粥样斑块形成的病理机制"
+  },
+  {
+    "global_index": 1217,
+    "seg_id": "S4-L3",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "两者本质区别与关联",
+    "template": "brick_stack",
+    "items": [
+      "血压升高加速内壁损伤",
+      "血糖升高破坏血管环境",
+      "血脂升高提供斑块原料",
+      "老化血管经不起再往里塞东西"
+    ],
+    "needs_animation": true,
+    "label": "高血压高血糖高血脂协同损伤血管壁的病理过程"
+  },
+  {
+    "global_index": 1218,
+    "seg_id": "S5-L1",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "总结与行动建议",
+    "template": "branch_path",
+    "items": [
+      "体检报告怎么写的？",
+      "写\"动脉硬化\"→大概率正常衰老，别慌",
+      "写\"粥样硬化\"或发现斑块→认真对待，控脂控压吃药别拖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1219,
+    "seg_id": "S5-L2",
+    "bp_title": "动脉硬化≠动脉粥样硬化，差两个字差别巨大",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "一个是皱纹，一个是肿瘤，能一样吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1220,
+    "seg_id": "S1-L1",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "体检报告引发的紧张",
+    "template": "hero_text",
+    "items": [
+      "窦性心律不齐，你看懂了吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1221,
+    "seg_id": "S1-L2",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "体检报告引发的紧张",
+    "template": "warning_alert",
+    "items": [
+      "拿到报告就想冲去医院"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1222,
+    "seg_id": "S1-L3",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "体检报告引发的紧张",
+    "template": "list_fade",
+    "items": [
+      "每年体检季都有人拿着报告来问",
+      "手指着六个字一脸紧张",
+      "大夫，这个严不严重？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1223,
+    "seg_id": "S1-L4",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "体检报告引发的紧张",
+    "template": "hero_text",
+    "items": [
+      "今天我一次给你说清楚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1224,
+    "seg_id": "S2-L1",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "step_arrow",
+    "items": [
+      "先看前两个字：窦性",
+      "拆开来理解才不会误判",
+      "字面恐慌来自没拆开看"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1225,
+    "seg_id": "S2-L2",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "body_annotate",
+    "items": [
+      "心脏内有天然指挥官",
+      "负责发号施令让心脏跳动"
+    ],
+    "needs_animation": true,
+    "label": "窦房结位置及心脏电信号传导机制"
+  },
+  {
+    "global_index": 1226,
+    "seg_id": "S2-L3",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "hero_text",
+    "items": [
+      "写了\"窦性\"= 指挥官正常上班"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1227,
+    "seg_id": "S2-L4",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "窦性是什么意思",
+    "template": "hero_text",
+    "items": [
+      "窦性心律 = 心跳节奏正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1228,
+    "seg_id": "S3-L1",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "不齐的真相",
+    "template": "hero_text",
+    "items": [
+      "既然正常，为何又写\"不齐\"？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1229,
+    "seg_id": "S3-L2",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "不齐的真相",
+    "template": "myth_buster",
+    "items": [
+      "心跳像钟表，一秒一下完全均匀",
+      "心跳本就有自然的快慢波动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1230,
+    "seg_id": "S3-L3",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "不齐的真相",
+    "template": "step_arrow",
+    "items": [
+      "深吸一口气憋住",
+      "心跳微微加快",
+      "缓慢呼出，心跳随之变慢"
+    ],
+    "needs_animation": true,
+    "label": "呼吸性窦性心律不齐的生理机制"
+  },
+  {
+    "global_index": 1231,
+    "seg_id": "S3-L4",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "不齐的真相",
+    "template": "step_arrow",
+    "items": [
+      "呼吸引起心跳快慢变化",
+      "机器检测到节律不均匀",
+      "心电图标注\"心律不齐\""
+    ],
+    "needs_animation": true,
+    "label": "呼吸性窦性心律不齐的心电图表现"
+  },
+  {
+    "global_index": 1232,
+    "seg_id": "S3-L5",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "不齐的真相",
+    "template": "list_fade",
+    "items": [
+      "年轻人反而更明显",
+      "越明显说明心脏调节能力越好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1233,
+    "seg_id": "S3-L6",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "不齐的真相",
+    "template": "hero_text",
+    "items": [
+      "心脏越灵活，波动越大，不是病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1234,
+    "seg_id": "S4-L1",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "报告的正确解读",
+    "template": "hero_text",
+    "items": [
+      "窦性心律不齐 = 小波动，无需处理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1235,
+    "seg_id": "S4-L2",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "报告的正确解读",
+    "template": "step_arrow",
+    "items": [
+      "心脏真有问题",
+      "心电图绝不止六个字",
+      "医生一定会写明具体诊断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1236,
+    "seg_id": "S4-L3",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "报告的正确解读",
+    "template": "list_fade",
+    "items": [
+      "房颤会明确写出房颤",
+      "早搏会明确写出早搏",
+      "ST段变化会明确标注"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1237,
+    "seg_id": "S4-L4",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "报告的正确解读",
+    "template": "hero_text",
+    "items": [
+      "真有问题，不会只留这六个字"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1238,
+    "seg_id": "S5-L1",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "什么情况该真的去查",
+    "template": "hero_text",
+    "items": [
+      "但这些症状，千万别忽视"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1239,
+    "seg_id": "S5-L2",
+    "bp_title": "窦性心律不齐到底严不严重？",
+    "scene_title": "什么情况该真的去查",
+    "template": "list_fade",
+    "items": [
+      "经常心慌或胸闷",
+      "突然跳得特别快特别乱",
+      "有过晕倒的经历"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

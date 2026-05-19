@@ -1,0 +1,561 @@
+[
+  {
+    "global_index": 560,
+    "seg_id": "S9-L3",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "总结对号入座",
+    "template": "number_center",
+    "items": [
+      "前3步"
+    ],
+    "atoms_text": "大部分人啊 其实走到前三步就够了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 561,
+    "seg_id": "S9-L4",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "总结对号入座",
+    "template": "warning_alert",
+    "items": [
+      "不花冤枉钱",
+      "不漏该查的"
+    ],
+    "atoms_text": "不要花冤枉钱 也不要漏了该查的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 562,
+    "seg_id": "S9-L5",
+    "bp_title": "心脏检查怎么选？一次搞清楚",
+    "scene_title": "总结对号入座",
+    "template": "hero_text",
+    "items": [
+      "对号入座，不清楚就问医生"
+    ],
+    "atoms_text": "按你的症状对号入座 不清楚了 问你的医生",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 563,
+    "seg_id": "S1-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "患者的灵魂三问",
+    "template": "hero_text",
+    "items": [
+      "血脂降了，他汀还要吃吗？"
+    ],
+    "atoms_text": "他汀能不能停 血脂降下来了 是不是就不用吃了 我都吃了三年了 能不能停一停",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 564,
+    "seg_id": "S1-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "患者的灵魂三问",
+    "template": "hero_text",
+    "items": [
+      "这是门诊最常被问到的问题"
+    ],
+    "atoms_text": "每天都有患者 问这些问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 565,
+    "seg_id": "S1-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "患者的灵魂三问",
+    "template": "branch_path",
+    "items": [
+      "关键：你血管里有没有斑块",
+      "某些人确实可以停药",
+      "某些人停药可能出事"
+    ],
+    "atoms_text": "那我跟你说 这个问题的答案 取决于你是谁 你的血管里面 有没有斑块",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 566,
+    "seg_id": "S1-L4",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "患者的灵魂三问",
+    "template": "split_column",
+    "items": [
+      "无斑块者：或可停药",
+      "有斑块者：停药有风险"
+    ],
+    "atoms_text": "有些人啊 确实可以停 有些人啊 停了可能要出事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 567,
+    "seg_id": "S1-L5",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "患者的灵魂三问",
+    "template": "hero_text",
+    "items": [
+      "先搞清楚：他汀在帮你干什么"
+    ],
+    "atoms_text": "但在回答 要不要吃一辈子之前 你先得搞清楚一件事 他汀到底在帮你干什么",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 568,
+    "seg_id": "S2-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "他汀的真正作用",
+    "template": "hero_text",
+    "items": [
+      "很多人以为他汀只是降血脂"
+    ],
+    "atoms_text": "很多人以为啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 569,
+    "seg_id": "S2-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "他汀的真正作用",
+    "template": "myth_buster",
+    "items": [
+      "他汀只是降低血脂数值",
+      "他汀更重要的是稳定斑块"
+    ],
+    "atoms_text": "这个理解只对了一半",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 570,
+    "seg_id": "S2-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "他汀的真正作用",
+    "template": "split_column",
+    "items": [
+      "降低低密度脂蛋白",
+      "稳定血管内斑块"
+    ],
+    "atoms_text": "他汀确实可以 降低低密度脂蛋白 但它更重要的作用 是稳定斑块",
+    "needs_animation": true,
+    "label": "他汀降低低密度脂蛋白并稳定血管斑块"
+  },
+  {
+    "global_index": 571,
+    "seg_id": "S3-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "斑块破裂的危机",
+    "template": "body_annotate",
+    "items": [
+      "血管壁上存在软斑块",
+      "表面薄、内部充满脂质",
+      "外力触发随时可能破裂"
+    ],
+    "atoms_text": "你血管壁上的斑块 它不是铁板一块的 有的表面啊很薄 里面全是脂质 像一个薄皮大馅的包子 随时可能会破裂",
+    "needs_animation": true,
+    "label": "不稳定斑块的结构：薄纤维帽包裹大量脂质核心"
+  },
+  {
+    "global_index": 572,
+    "seg_id": "S3-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "斑块破裂的危机",
+    "template": "step_arrow",
+    "items": [
+      "斑块表面破裂",
+      "局部血栓形成",
+      "血管完全堵死",
+      "急性心肌梗死发作"
+    ],
+    "atoms_text": "一破裂 血栓就形成了 血管就被完全堵死了 这就是心梗",
+    "needs_animation": true,
+    "label": "斑块破裂后血栓形成并堵塞血管导致心梗"
+  },
+  {
+    "global_index": 573,
+    "seg_id": "S3-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "斑块破裂的危机",
+    "template": "step_arrow",
+    "items": [
+      "他汀让脂质核心缩小",
+      "纤维帽增厚变结实",
+      "斑块从不稳定变为稳定"
+    ],
+    "atoms_text": "他汀干的事情啊 就是让这个斑块变得结实 让脂质核心呢缩小 纤维帽变厚 从薄皮大馅 变成厚皮小馅",
+    "needs_animation": true,
+    "label": "他汀使斑块脂质核心缩小、纤维帽增厚变稳定"
+  },
+  {
+    "global_index": 574,
+    "seg_id": "S3-L4",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "斑块破裂的危机",
+    "template": "list_fade",
+    "items": [
+      "减少血管壁炎症反应",
+      "让斑块安分不闹事"
+    ],
+    "atoms_text": "同时啊 还能减少血管壁的炎症 让斑块啊 安分的待着 不让它闹事",
+    "needs_animation": true,
+    "label": "他汀减少血管壁炎症使斑块保持稳定"
+  },
+  {
+    "global_index": 575,
+    "seg_id": "S3-L5",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "斑块破裂的危机",
+    "template": "hero_text",
+    "items": [
+      "他汀是在给定时炸弹拆引信"
+    ],
+    "atoms_text": "那所以啊 他汀它不只是在降低一个数值 它是在帮你 给血管里面的定时炸弹 拆引信",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 576,
+    "seg_id": "S4-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "停药后的反扑",
+    "template": "step_arrow",
+    "items": [
+      "低密度脂蛋白重新升高",
+      "斑块再次变得不稳定",
+      "血管炎症水平重新升高"
+    ],
+    "atoms_text": "那停了他汀会怎么样呢 低密度啊 重新又升回去了 斑块又变得不稳定了 炎症水平重新又升高了",
+    "needs_animation": true,
+    "label": "停药后低密度脂蛋白回升、斑块重新不稳定、炎症升高"
+  },
+  {
+    "global_index": 577,
+    "seg_id": "S4-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "停药后的反扑",
+    "template": "hero_text",
+    "items": [
+      "好不容易拆掉的引信又被装回去了"
+    ],
+    "atoms_text": "好不容易拆掉的引信啊 又被装回去了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 578,
+    "seg_id": "S4-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "停药后的反扑",
+    "template": "warning_alert",
+    "items": [
+      "停药半年至一年后突然发病",
+      "不是巧合，是斑块反扑"
+    ],
+    "atoms_text": "很多人停药 半年一年之后 突然出事 不是巧合 是斑块啊反扑了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 579,
+    "seg_id": "S5-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人必须长期吃",
+    "template": "list_fade",
+    "items": [
+      "已确诊冠心病患者",
+      "放过支架的患者",
+      "做过搭桥手术的患者"
+    ],
+    "atoms_text": "所以对已经确诊冠心病的人 放过支架的人 做过搭桥的人 他汀啊 基本上是要终身服用的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 580,
+    "seg_id": "S5-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人必须长期吃",
+    "template": "hero_text",
+    "items": [
+      "不是医生要你吃，是血管里已有斑块"
+    ],
+    "atoms_text": "不是因为医生 想让你一直吃药 是因为啊 你的血管里面 已经有了斑块",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 581,
+    "seg_id": "S5-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人必须长期吃",
+    "template": "warning_alert",
+    "items": [
+      "斑块不会消失，只能被控制"
+    ],
+    "atoms_text": "这些斑块不会消失 它只能被控制 你停药 它就不老实了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 582,
+    "seg_id": "S6-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "终身服药≠一成不变",
+    "template": "hero_text",
+    "items": [
+      "终身服药不等于剂量永远不变"
+    ],
+    "atoms_text": "但终身服药 不等于一成不变的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 583,
+    "seg_id": "S6-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "终身服药≠一成不变",
+    "template": "myth_buster",
+    "items": [
+      "终身服药就是永远一片不能动",
+      "血脂稳定后医生可评估减量"
+    ],
+    "atoms_text": "不能动了 不是的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 584,
+    "seg_id": "S6-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "终身服药≠一成不变",
+    "template": "step_arrow",
+    "items": [
+      "低密度脂蛋白持续达标",
+      "医生评估可从全量减至半量",
+      "最小剂量维持血脂达标"
+    ],
+    "atoms_text": "他汀的剂量 是可以调整的 低密度脂蛋白胆固醇 降低到达标数值 而且稳定了一段时间了 医生可能会考虑啊减量 从每天一片 减成半片 或者从高强度啊 换成中等强度",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 585,
+    "seg_id": "S6-L4",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "终身服药≠一成不变",
+    "template": "warning_alert",
+    "items": [
+      "必须定期复查，由医生决定调整",
+      "不能自己觉得够了就停药"
+    ],
+    "atoms_text": "在保证血脂达标的前提下 用最小剂量的维持",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 586,
+    "seg_id": "S6-L5",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "终身服药≠一成不变",
+    "template": "list_fade",
+    "items": [
+      "定期复查血脂",
+      "让你的医生啊",
+      "根据你的血脂的指标",
+      "来调整",
+      "而不是啊"
+    ],
+    "atoms_text": "定期复查血脂 让你的医生啊 根据你的血脂的指标 来调整 而不是啊 你自己觉得够了 就停",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 587,
+    "seg_id": "S7-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "hero_text",
+    "items": [
+      "什么情况下有可能不用终身吃？"
+    ],
+    "atoms_text": "那什么情况下 有可能啊 不用终身吃呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 588,
+    "seg_id": "S7-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "list_fade",
+    "items": [
+      "无冠心病、仅体检发现血脂偏高",
+      "是否需要长期吃要看具体情况"
+    ],
+    "atoms_text": "你要是没有冠心病 就是体检查出来 血脂偏高 医生让你吃他汀 这要看具体情况",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 589,
+    "seg_id": "S7-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "list_fade",
+    "items": [
+      "无高血压、无糖尿病",
+      "认真减肥、运动、调整饮食",
+      "复查血脂已恢复正常"
+    ],
+    "atoms_text": "如果你本身啊 没有高血压 也没有糖尿病 低密度啊 一直高了一丢丢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 590,
+    "seg_id": "S7-L4",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "step_arrow",
+    "items": [
+      "生活方式改善后血脂达标",
+      "与医生商量评估",
+      "逐步减量甚至停药"
+    ],
+    "atoms_text": "那这时候啊 你认真减了肥 运动也跟上了 饮食也调整了 复查的时候啊 血脂确实降为正常数值了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 591,
+    "seg_id": "S7-L5",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "list_fade",
+    "items": [
+      "合并高血压",
+      "合并高血糖",
+      "同时有吸烟习惯"
+    ],
+    "atoms_text": "那跟医生商量一下 是有可能会慢慢减量 甚至停掉的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 592,
+    "seg_id": "S7-L6",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "warning_alert",
+    "items": [
+      "多重危险因素叠加，血管风险已很高"
+    ],
+    "atoms_text": "但如果你虽然还没有确诊是冠心病 但身上已经背着好几个危险因素了 又有高血压 又有高血糖 还抽烟",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 593,
+    "seg_id": "S7-L7",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人有可能停药",
+    "template": "hero_text",
+    "items": [
+      "这种情况医生大概率建议长期服药"
+    ],
+    "atoms_text": "那你的血管风险 其实已经很高了 这种情况下 医生大概率还是建议你长期吃",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 594,
+    "seg_id": "S8-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "最终结论与嘱托",
+    "template": "branch_path",
+    "items": [
+      "关键：你是否已有冠心病",
+      "无冠心病低风险：有机会停药",
+      "已有冠心病：大概率终身服用"
+    ],
+    "atoms_text": "所以这个问题的答案 不是一刀切的 必须吃一辈子 但对大多数已经有冠心病的人来说 大概率是的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 595,
+    "seg_id": "S8-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "最终结论与嘱托",
+    "template": "hero_text",
+    "items": [
+      "正是因为这颗药，你才能踏实活一辈子"
+    ],
+    "atoms_text": "你怕吃一辈子的药 但换个角度想 正是因为有了这个药 你才能踏踏实实的活一辈子",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 596,
+    "seg_id": "S8-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "最终结论与嘱托",
+    "template": "hero_text",
+    "items": [
+      "他汀是你和血管之间的长期协议"
+    ],
+    "atoms_text": "它不是负担 是跟你血管之间 一份长期的协议",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 597,
+    "seg_id": "S8-L4",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "最终结论与嘱托",
+    "template": "warning_alert",
+    "items": [
+      "药可以调整，但别自己单方面停药"
+    ],
+    "atoms_text": "药可以调 可以换 但别自己单方面撕毁这个协议了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 598,
+    "seg_id": "S1-L1",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两种人的故事",
+    "template": "myth_buster",
+    "items": [
+      "胸口一疼就冲急诊查无问题不信",
+      "心梗真发作，却以为是其他痛硬扛",
+      "过度焦虑虚惊一场",
+      "延误就医追悔莫及"
+    ],
+    "atoms_text": "这两种人啊 看看你是属于哪一种 一种是 胸口一疼 就往急诊科冲 查了心电图 查了心肌标志物 什么都正常 跟他说没事 他也不信 觉得一定是没查出来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 599,
+    "seg_id": "S1-L2",
+    "bp_title": "胸口疼不一定是心脏病，不疼才可能是心梗",
+    "scene_title": "两种人的故事",
+    "template": "hero_text",
+    "items": [
+      "今天把这两件事一起说清楚"
+    ],
+    "atoms_text": "另一种啊 是心梗已经在发生了 但是因为他不是典型的胸口疼 而是牙疼或者肩膀疼 硬扛了好几个小时才来 来的时候啊 心肌已经死一大片了",
+    "needs_animation": true,
+    "label": "非典型症状延误就医导致大面积心肌坏死"
+  }
+]

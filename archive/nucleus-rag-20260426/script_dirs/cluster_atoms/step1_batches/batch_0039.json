@@ -1,0 +1,563 @@
+[
+  {
+    "global_index": 1560,
+    "seg_id": "S3-L1",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "术后正常反应",
+    "template": "hero_text",
+    "items": [
+      "更常见的情况其实没那么危险"
+    ],
+    "atoms_text": "再说说更常见的情况",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1561,
+    "seg_id": "S3-L2",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "术后正常反应",
+    "template": "step_arrow",
+    "items": [
+      "导管从手腕或腹股沟送入心脏",
+      "球囊扩张压扁斑块、支架撑开",
+      "血管壁受损，进入愈合过程"
+    ],
+    "atoms_text": "医生在做手术的时候 导管是从你的手腕 或者是大腿根部的血管 一路送到心脏里面去的 球囊扩张的时候 把斑块压扁 支架撑开 这个过程对于血管壁是有损伤的",
+    "needs_animation": true,
+    "label": "导管从手腕血管送至心脏，球囊扩张压扁斑块、支架撑开血管壁造成损伤"
+  },
+  {
+    "global_index": 1562,
+    "seg_id": "S3-L3",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "术后正常反应",
+    "template": "step_arrow",
+    "items": [
+      "局部炎症反应启动",
+      "胸口隐隐闷、说不清楚的不适",
+      "持续数天至一两周后逐渐消退"
+    ],
+    "atoms_text": "血管壁受了伤 它需要时间去愈合 愈合的过程中 局部会有一些炎症反应",
+    "needs_animation": true,
+    "label": "血管壁受损后愈合过程中的局部炎症反应"
+  },
+  {
+    "global_index": 1563,
+    "seg_id": "S3-L4",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "术后正常反应",
+    "template": "myth_buster",
+    "items": [
+      "以为和之前心绞痛一样危险",
+      "术后短期隐痛多属血管愈合反应",
+      "休息不缓解、压榨感",
+      "隐隐闷、随时间自行减轻"
+    ],
+    "atoms_text": "所以术后头几天 甚至一两周 胸口有点隐隐的不舒服 跟之前心绞痛是不一样的 就是那种说不清楚的闷 这个往往是正常的 不用太紧张",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1564,
+    "seg_id": "S4-L1",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "焦虑性胸痛",
+    "template": "hero_text",
+    "items": [
+      "术后焦虑比术前更严重"
+    ],
+    "atoms_text": "还有一种特别常见的 就是焦虑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1565,
+    "seg_id": "S4-L2",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "焦虑性胸痛",
+    "template": "hero_text",
+    "items": [
+      "很多支架患者做完反而更焦虑了"
+    ],
+    "atoms_text": "我发现很多做完支架的人 反而比做之前更焦虑了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1566,
+    "seg_id": "S4-L3",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "焦虑性胸痛",
+    "template": "split_column",
+    "items": [
+      "越躺着没事做越难受",
+      "出去散步聊天很快忘了",
+      "注意力集中于胸口时加重",
+      "分散注意力后症状消失"
+    ],
+    "atoms_text": "这种胸痛有个特点 就是你越没事干 越躺着的时候 越想越难受 反而出去散步了 跟人聊天了 干点别的事儿 很快就忘了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1567,
+    "seg_id": "S4-L4",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "焦虑性胸痛",
+    "template": "hero_text",
+    "items": [
+      "放宽心，别天天盯着胸口"
+    ],
+    "atoms_text": "如果你的痛是这种 我劝你啊 放宽心 别天天盯着胸口看 该干嘛干嘛去",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1568,
+    "seg_id": "S5-L1",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "支架真正出问题",
+    "template": "hero_text",
+    "items": [
+      "支架真的出问题：支架内再狭窄"
+    ],
+    "atoms_text": "那有没有一种情况 是支架真的出了问题呢 有的 叫支架内再狭窄",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1569,
+    "seg_id": "S5-L2",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "支架真正出问题",
+    "template": "step_arrow",
+    "items": [
+      "支架放入后内膜慢慢向内生长",
+      "内膜增生逐渐覆盖支架腔隙",
+      "血管再度变窄，症状重现"
+    ],
+    "atoms_text": "就是支架放进去之后 血管壁的内膜 会慢慢的往里长 就好像你往水管里放了个支撑架 但是水管壁上慢慢长了水垢 把这个架子又给糊上了",
+    "needs_animation": true,
+    "label": "支架植入后血管内膜逐渐向内增生覆盖支架导致再狭窄"
+  },
+  {
+    "global_index": 1570,
+    "seg_id": "S5-L3",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "支架真正出问题",
+    "template": "vertical_timeline",
+    "items": [
+      "刚术后：一般不会发生再狭窄",
+      "半年至一年后：活动后胸闷再现",
+      "上楼喘、动一动就闷、休息可缓解"
+    ],
+    "atoms_text": "这种情况一般不会发生在刚做完的时候 往往是半年到一年以后 你又开始出现跟之前类似的症状 一活动就闷 一上楼就喘 休息几分钟又好了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1571,
+    "seg_id": "S5-L4",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "支架真正出问题",
+    "template": "list_fade",
+    "items": [
+      "冠脉CTA，无创评估支架状态",
+      "冠脉造影，直接观察支架内情况",
+      "术后半年以上出现症状应及时复查"
+    ],
+    "atoms_text": "如果你术后半年以上 出现这种情况 那确实需要回医院复查一下 做个冠脉CTA 或者是直接做造影 看看支架里面的情况",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1572,
+    "seg_id": "S6-L1",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "总结叮嘱",
+    "template": "warning_alert",
+    "items": [
+      "他汀、抗血小板药，擅自停药有危险",
+      "不疼不代表可以停药"
+    ],
+    "atoms_text": "还有一点 我一定要念叨一句 不管你胸口疼不疼 支架术后的药 千万不能自己停 他汀 抗血小板药 这些都是保命的东西",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1573,
+    "seg_id": "S6-L2",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "总结叮嘱",
+    "template": "brick_stack",
+    "items": [
+      "支架只撑开了最窄处",
+      "其余血管斑块依然存在",
+      "需长期用药控制血压血脂血糖",
+      "必须同步改变生活方式"
+    ],
+    "atoms_text": "不是支架放完了就万事大吉了 支架只是把那个最窄的地方给撑开了 你其他地方血管 该有斑块还有斑块 不好好吃药 不控制血压血脂血糖 不改变生活方式 早晚还会出问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1574,
+    "seg_id": "S6-L3",
+    "bp_title": "放了支架还胸疼？医生帮你逐一排查",
+    "scene_title": "总结叮嘱",
+    "template": "hero_text",
+    "items": [
+      "支架是新起点，管好全身才是真保命"
+    ],
+    "atoms_text": "说了这么多 我说明白了吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1575,
+    "seg_id": "S1-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "血压忽高忽低？可能根本没量对"
+    ],
+    "atoms_text": "你真的会量血压吗 我们这里呀 总有人跟我说 血压忽高忽低 控制不好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1576,
+    "seg_id": "S1-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "开场点题",
+    "template": "list_fade",
+    "items": [
+      "左手右手换着量",
+      "跑完楼梯就量",
+      "时间随意不固定"
+    ],
+    "atoms_text": "我一问 今天左手量量 明天右手量量 有时候刚跑完楼梯就量 量出来的数据能准吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1577,
+    "seg_id": "S1-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "最容易犯的几个错误，一次说清"
+    ],
+    "atoms_text": "今天 把最容易犯的几个错误 一次性说清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1578,
+    "seg_id": "S2-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "左手还是右手",
+    "template": "hero_text",
+    "items": [
+      "左手还是右手，你选对了吗"
+    ],
+    "atoms_text": "第一 左手还是右手",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1579,
+    "seg_id": "S2-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "左手还是右手",
+    "template": "step_arrow",
+    "items": [
+      "两只手各量一次",
+      "以数值高的那只为准",
+      "此后固定同一只手量"
+    ],
+    "atoms_text": "第一次两只手都量 以高的那只为准 以后固定",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1580,
+    "seg_id": "S2-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "左手还是右手",
+    "template": "split_column",
+    "items": [
+      "差值5~10 mmHg",
+      "属于正常生理现象"
+    ],
+    "atoms_text": "两只手大多数人 右手会比左手高 五到十个毫米汞柱 这是正常的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1581,
+    "seg_id": "S2-L4",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "左手还是右手",
+    "template": "warning_alert",
+    "items": [
+      "两手相差超过20 mmHg",
+      "警惕血管狭窄，需就医检查"
+    ],
+    "atoms_text": "但如果两只手相差超过了二十 那可能是一侧的血管有狭窄 需要去查一下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1582,
+    "seg_id": "S2-L5",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "左手还是右手",
+    "template": "hero_text",
+    "items": [
+      "固定高值那只手，数据才有可比性"
+    ],
+    "atoms_text": "搞清楚哪边高 以后盯着那只手量 数据才有可比性",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1583,
+    "seg_id": "S3-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "hero_text",
+    "items": [
+      "早上量还是晚上量？时机很关键"
+    ],
+    "atoms_text": "第二 早上量还是晚上量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1584,
+    "seg_id": "S3-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "branch_path",
+    "items": [
+      "只能选一个时间段量",
+      "优先选早上，覆盖高峰时段",
+      "只量晚上，可能漏掉早晨峰值"
+    ],
+    "atoms_text": "最好早晚各一次 但如果只能选一次的话 一定选早上",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1585,
+    "seg_id": "S3-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "warning_alert",
+    "items": [
+      "6~10点血压高峰，心梗脑梗高发时段"
+    ],
+    "atoms_text": "因为大多数人 早上六点到十点 会有一个高峰 很多心梗脑梗 就发生在这个时段",
+    "needs_animation": true,
+    "label": "清晨六到十点血压昼夜节律高峰期与心梗脑梗高发时段"
+  },
+  {
+    "global_index": 1586,
+    "seg_id": "S3-L4",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "myth_buster",
+    "items": [
+      "晚上量130，感觉血压正常",
+      "早晨可能已飙升至160，全然不知"
+    ],
+    "atoms_text": "你要是只在晚上量 量出来血压一百三十 觉得挺好 但早上可能已经飙到一百六了 那你就不知道",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1587,
+    "seg_id": "S3-L5",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "hero_text",
+    "items": [
+      "降压药要覆盖住早晨这个高峰"
+    ],
+    "atoms_text": "尤其吃降压药的人 你得知道 这个药能不能覆盖住 早上这个高峰",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1588,
+    "seg_id": "S3-L6",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "step_arrow",
+    "items": [
+      "起床后先上厕所",
+      "安静坐满五分钟",
+      "再进行血压测量"
+    ],
+    "atoms_text": "但注意 起床后要先上厕所 安静坐五分钟再量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1589,
+    "seg_id": "S3-L7",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "早上还是晚上量",
+    "template": "myth_buster",
+    "items": [
+      "一睁眼立刻绑袖带就量",
+      "忙活半天再量才想起"
+    ],
+    "atoms_text": "不要一睁眼就绑血压计 也不要忙活半天再量 那都不是你的基础血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1590,
+    "seg_id": "S4-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "正确的测量姿势",
+    "template": "hero_text",
+    "items": [
+      "窝在沙发翘二郎腿量？数据全是假的"
+    ],
+    "atoms_text": "第三 量的时候怎么做 这个错的最多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1591,
+    "seg_id": "S4-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "正确的测量姿势",
+    "template": "warning_alert",
+    "items": [
+      "翘腿＋袖带套衣服外，结果不可信"
+    ],
+    "atoms_text": "很多人窝在沙发上 翘个二郎腿 袖带绑在衣服外面就量了 全是假数据",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1592,
+    "seg_id": "S4-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "正确的测量姿势",
+    "template": "list_fade",
+    "items": [
+      "椅子坐直，后背靠实",
+      "双脚平放地面，不交叉",
+      "袖带贴皮肤绑上臂",
+      "松紧以能插入一根手指为准"
+    ],
+    "atoms_text": "正确的是 椅子坐直 后背靠实 双脚平放地上",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1593,
+    "seg_id": "S4-L4",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "正确的测量姿势",
+    "template": "body_annotate",
+    "items": [
+      "下缘在肘窝上两指宽处",
+      "袖带高度与心脏齐平",
+      "胳膊平放桌上固定"
+    ],
+    "atoms_text": "袖带裸绑在上臂上 或者只隔一层衣服 下缘在肘窝上两指宽 松紧能塞进一根手指",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1594,
+    "seg_id": "S4-L5",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "正确的测量姿势",
+    "template": "split_column",
+    "items": [
+      "手臂悬空或垂在身侧",
+      "平放桌上与心脏同高"
+    ],
+    "atoms_text": "胳膊放在桌上 袖带跟心脏齐平",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1595,
+    "seg_id": "S4-L6",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "正确的测量姿势",
+    "template": "list_fade",
+    "items": [
+      "胳膊悬着或者垂在身侧",
+      "量出来都会偏高"
+    ],
+    "atoms_text": "胳膊悬着或者垂在身侧 量出来都会偏高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1596,
+    "seg_id": "S5-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "量几次才算够",
+    "template": "hero_text",
+    "items": [
+      "量一次够吗？远远不够"
+    ],
+    "atoms_text": "第四 测量一次够吗 不够的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1597,
+    "seg_id": "S5-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "量几次才算够",
+    "template": "step_arrow",
+    "items": [
+      "第一遍：先量，结果偏高不算",
+      "间隔一分钟再量第二遍",
+      "取后两次平均值为最终结果"
+    ],
+    "atoms_text": "每次量两到三遍 每次中间间隔一分钟 取后两次的平均值",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1598,
+    "seg_id": "S5-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "量几次才算够",
+    "template": "hero_text",
+    "items": [
+      "刚绑袖带有紧张感，首次值偏高属正常"
+    ],
+    "atoms_text": "第一次往往偏高 因为刚绑上袖带 多少有点紧张 量到第二第三次才稳定",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1599,
+    "seg_id": "S6-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "在家量与医院量的差异",
+    "template": "hero_text",
+    "items": [
+      "在家和医院量不一样，这很正常"
+    ],
+    "atoms_text": "最后提醒一句 在家量和在医院量不一样 是正常的",
+    "needs_animation": false,
+    "label": ""
+  }
+]

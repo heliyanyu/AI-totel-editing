@@ -1,0 +1,539 @@
+[
+  {
+    "global_index": 4200,
+    "seg_id": "S4-L1",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "split_column",
+    "items": [
+      "休息8小时后身体维持运转的能力",
+      "反映胰岛素基础分泌功能"
+    ],
+    "atoms_text": "空腹血糖代表什么呢 你没吃东西的时候 休息八个小时以后 你的身体啊 维持正常运转的一个能力",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4201,
+    "seg_id": "S4-L2",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "number_center",
+    "items": [
+      "3.9–6.1"
+    ],
+    "atoms_text": "那正常的是在三点九到六点一之间",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4202,
+    "seg_id": "S4-L3",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "warning_alert",
+    "items": [
+      "空腹血糖高，胰岛素基础班出问题"
+    ],
+    "atoms_text": "如果说你空腹血糖高了 说明啊 胰岛素的这个基础班 已经出问题了",
+    "needs_animation": true,
+    "label": "胰岛素基础分泌不足导致空腹血糖升高"
+  },
+  {
+    "global_index": 4203,
+    "seg_id": "S4-L4",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "split_column",
+    "items": [
+      "进餐后大量糖涌入血液",
+      "胰岛素需加班将糖送入细胞"
+    ],
+    "atoms_text": "那餐后血糖代表什么呢 你的身体呢 就是处理突发事件的一个能力",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4204,
+    "seg_id": "S4-L5",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "step_arrow",
+    "items": [
+      "进食后大量糖涌入血液",
+      "胰岛素反应慢或效率差",
+      "糖堆积在血液中，血糖飙升"
+    ],
+    "atoms_text": "那你一顿饭吃下去 这大量的糖啊 它会源源不断地涌入血液",
+    "needs_animation": true,
+    "label": "进食后大量葡萄糖从肠道吸收涌入血液"
+  },
+  {
+    "global_index": 4205,
+    "seg_id": "S4-L6",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "number_center",
+    "items": [
+      "7.8"
+    ],
+    "atoms_text": "这胰岛素啊得赶紧 哎我要加班加点 把这些糖送进细胞里",
+    "needs_animation": true,
+    "label": "胰岛素将血液中的葡萄糖转运进细胞"
+  },
+  {
+    "global_index": 4206,
+    "seg_id": "S4-L7",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "hero_text",
+    "items": [
+      "很多人只看空腹，忽视餐后"
+    ],
+    "atoms_text": "那你说如果它反应慢了呀 或者说它干活不给力 这个糖啊就堆在血里边 这餐后血糖就就就飙升上去了 是不是",
+    "needs_animation": true,
+    "label": "胰岛素反应迟缓致葡萄糖堆积在血液中餐后血糖飙升"
+  },
+  {
+    "global_index": 4207,
+    "seg_id": "S4-L8",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "warning_alert",
+    "items": [
+      "空腹正常，餐后却一塌糊涂"
+    ],
+    "atoms_text": "那正常的是应该低于七点八的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4208,
+    "seg_id": "S4-L9",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "hero_text",
+    "items": [
+      "中国人碳水摄入多，风险更高"
+    ],
+    "atoms_text": "那最关键的是啊 很多人就像刚才那个阿姨一样 就看空腹血糖 他觉得空腹血糖没事哈嗯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4209,
+    "seg_id": "S4-L10",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "list_fade",
+    "items": [
+      "最会隐藏的糖尿病早期信号",
+      "与高碳水饮食习惯密切相关",
+      "空腹正常不能排除此类风险"
+    ],
+    "atoms_text": "但是啊 餐后血糖一塌糊涂",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4210,
+    "seg_id": "S4-L11",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "hero_text",
+    "items": [
+      "餐后高血糖是最隐蔽的早期信号"
+    ],
+    "atoms_text": "特别像咱们中国人 碳水吃的比较多啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4211,
+    "seg_id": "S4-L12",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "空腹与餐后的医学解读",
+    "template": "hero_text",
+    "items": [
+      "看懂两个血糖，才能真正了解自己"
+    ],
+    "atoms_text": "那这个就叫餐后高血糖 也是最会隐藏的 一个糖尿病的早期信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4212,
+    "seg_id": "S5-L1",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "张医生三条铁律",
+    "template": "hero_text",
+    "items": [
+      "张医生给你三条铁律"
+    ],
+    "atoms_text": "所以张医生给大家三条铁律",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4213,
+    "seg_id": "S5-L2",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "张医生三条铁律",
+    "template": "vertical_timeline",
+    "items": [
+      "铁律一：体检别只查空腹血糖",
+      "40岁以上或有家族史须查餐后",
+      "或直接查糖化血红蛋白（3个月均值）"
+    ],
+    "atoms_text": "第一个 体检时候咱们别就查空腹 你四十岁往上的 或者家族史的 你一定得加一个餐后两小时血糖 或者咱们直接查个糖化血红蛋白 它是能反映就是说 你过去三个月的平均血糖水平",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4214,
+    "seg_id": "S5-L3",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "张医生三条铁律",
+    "template": "vertical_timeline",
+    "items": [
+      "铁律二：空腹超过6.1就要查餐后",
+      "此时胰岛已有些疲惫",
+      "餐后可能早已超标却无症状"
+    ],
+    "atoms_text": "第二个 如果说你的空腹已经在六点一以上了 哪怕只是临界值 也建议查个餐后 因为这时候你的胰岛啊 一定有点累了啊 餐后可能早就高了 他也不会说有什么症状啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4215,
+    "seg_id": "S5-L4",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "张医生三条铁律",
+    "template": "step_arrow",
+    "items": [
+      "饭后不要立刻躺下",
+      "饭后散步约15分钟",
+      "肌肉帮助消耗血糖，减轻胰岛负担"
+    ],
+    "atoms_text": "第三个 你别吃完饭马上就躺那儿 咱们要啊溜达散步十五分钟左右 能让这个肌肉啊 帮你吃掉一部分血糖 相当于帮胰岛素分担点工作",
+    "needs_animation": true,
+    "label": "运动时肌肉摄取血糖分担胰岛素工作"
+  },
+  {
+    "global_index": 4216,
+    "seg_id": "S6-L1",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "总结与行动号召",
+    "template": "myth_buster",
+    "items": [
+      "空腹正常，以为万事大吉",
+      "餐后血糖才是真正的照妖镜"
+    ],
+    "atoms_text": "最后张医生想要说的是呢 血糖这个事儿啊 你别只看表面功夫啊 空腹正常不代表万事大吉 餐后呢才是真正的照妖镜",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4217,
+    "seg_id": "S6-L2",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "总结与行动号召",
+    "template": "hero_text",
+    "items": [
+      "转发给家人，提醒下次体检多查一项"
+    ],
+    "atoms_text": "把这条视频呢 转发给咱们亲戚朋友啊 告诉爸妈和家人们 下次体检记得呀 多查一项",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4218,
+    "seg_id": "S6-L3",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "总结与行动号召",
+    "template": "hero_text",
+    "items": [
+      "你测过餐后血糖吗？评论区告诉我"
+    ],
+    "atoms_text": "你最近测过你的餐后血糖了吗 评论区告诉我 或者把你的数值也告诉我",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4219,
+    "seg_id": "S6-L4",
+    "bp_title": "空腹血糖正常≠没有糖尿病，餐后血糖才是真相",
+    "scene_title": "总结与行动号召",
+    "template": "hero_text",
+    "items": [
+      "关注我，把身体这点事聊明白"
+    ],
+    "atoms_text": "哎关注我 咱们把身体啊这点事儿聊明白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4220,
+    "seg_id": "S1-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "开场破认知",
+    "template": "hero_text",
+    "items": [
+      "讲内科的张医生"
+    ],
+    "atoms_text": "大家好 我是 讲内科的 张医生",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4221,
+    "seg_id": "S1-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "开场破认知",
+    "template": "hero_text",
+    "items": [
+      "低密度脂蛋白是坏胆固醇"
+    ],
+    "atoms_text": "这个 说到血脂 这个 低密度脂蛋白呀 是咱们这个 坏胆固醇",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4222,
+    "seg_id": "S1-L3",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "开场破认知",
+    "template": "myth_buster",
+    "items": [
+      "坏胆固醇降到零才安全",
+      "这个认知真的对吗"
+    ],
+    "atoms_text": "都会觉得 哎 我们把这个 坏胆固醇 降的越低越好 那最好 给它降到零 才安全",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4223,
+    "seg_id": "S1-L4",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "开场破认知",
+    "template": "hero_text",
+    "items": [
+      "这个认知可能是错的"
+    ],
+    "atoms_text": "但今天呢 我要告诉你 这个认知啊 可能是错了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4224,
+    "seg_id": "S2-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "重磅研究颠覆认知",
+    "template": "number_center",
+    "items": [
+      "380万"
+    ],
+    "atoms_text": "最近呢 中国医学科学院阜外医院团队 发表了 一项 覆盖三百八十万国人的 重磅研究",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4225,
+    "seg_id": "S2-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "重磅研究颠覆认知",
+    "template": "hero_text",
+    "items": [
+      "坏胆固醇并非越低越好"
+    ],
+    "atoms_text": "结果呀 颠覆了传统 坏胆固醇呢 真的不是 越低越好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4226,
+    "seg_id": "S2-L3",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "重磅研究颠覆认知",
+    "template": "split_column",
+    "items": [
+      "欧美标准：一味追求越低",
+      "中国人：有自己的安全区间"
+    ],
+    "atoms_text": "咱们中国人 那标准 跟西方人呢 不一样啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4227,
+    "seg_id": "S3-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "坏胆固醇比喻解析",
+    "template": "hero_text",
+    "items": [
+      "坏胆固醇像血管里的卸货车"
+    ],
+    "atoms_text": "咱们可以把 这个坏胆固醇呢 想象成 血管里的卸货车",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4228,
+    "seg_id": "S3-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "坏胆固醇比喻解析",
+    "template": "split_column",
+    "items": [
+      "太少：货物运不进来",
+      "太多：拥堵破坏血管"
+    ],
+    "atoms_text": "货车太少 这个货物啊 运不进来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4229,
+    "seg_id": "S3-L3",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "坏胆固醇比喻解析",
+    "template": "warning_alert",
+    "items": [
+      "斑块堆积是心梗脑梗根源"
+    ],
+    "atoms_text": "货车多了 就会拥堵 破坏血管 形成斑块 这就是 心梗和脑梗的根源",
+    "needs_animation": true,
+    "label": "LDL过多沉积破坏血管壁形成动脉粥样硬化斑块"
+  },
+  {
+    "global_index": 4230,
+    "seg_id": "S4-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "数据警示现状",
+    "template": "number_center",
+    "items": [
+      "+94%"
+    ],
+    "atoms_text": "研究发现呢 近十年 我们国家 因为这个 坏胆固醇升高 导致的死亡 增加了 百分之九十四",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4231,
+    "seg_id": "S4-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "数据警示现状",
+    "template": "number_center",
+    "items": [
+      "+34.41%"
+    ],
+    "atoms_text": "那死亡率啊 也上升了 百分之三十四点四一",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4232,
+    "seg_id": "S4-L3",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "数据警示现状",
+    "template": "warning_alert",
+    "items": [
+      "大多数人血脂控制远未达标"
+    ],
+    "atoms_text": "这说明 很多人 这个血脂控制 远远不达标",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4233,
+    "seg_id": "S5-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "中国人有自己的区间",
+    "template": "hero_text",
+    "items": [
+      "中国人有最佳安全区间"
+    ],
+    "atoms_text": "但重点来了 这项研究 证实了 中国人呢 他有自己 最佳的安全区间",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4234,
+    "seg_id": "S5-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "中国人有自己的区间",
+    "template": "myth_buster",
+    "items": [
+      "盲目追求越低越好",
+      "因人而异找到适合区间"
+    ],
+    "atoms_text": "并不是像 哎 欧美那样的 一味的追求 越低越好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4235,
+    "seg_id": "S6-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "三类人群目标值",
+    "template": "hero_text",
+    "items": [
+      "记住这三类人群的目标值"
+    ],
+    "atoms_text": "具体呢 降到多少 最合适 记住啊 这三类人群的目标值",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4236,
+    "seg_id": "S6-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "三类人群目标值",
+    "template": "number_center",
+    "items": [
+      "<3.4"
+    ],
+    "atoms_text": "第一类 健康人群啊 就是 没有基础病的 他的理想值呢 是小于 三点四毫摩每升",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4237,
+    "seg_id": "S6-L3",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "三类人群目标值",
+    "template": "number_center",
+    "items": [
+      "<2.6"
+    ],
+    "atoms_text": "第二类啊 比如说 有高血压 有糖尿病 这样的高危人群 那目标呢 是小于 二点六毫摩每升",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4238,
+    "seg_id": "S6-L4",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "三类人群目标值",
+    "template": "number_center",
+    "items": [
+      "<1.8"
+    ],
+    "atoms_text": "第三个 已经确诊 心梗脑梗的患者 必须啊 降到 一点八毫摩每升以下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4239,
+    "seg_id": "S6-L5",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "三类人群目标值",
+    "template": "number_center",
+    "items": [
+      "<1.4"
+    ],
+    "atoms_text": "那极高危患者 甚至呢 就是比如说 做过很多次支架的啊 那一定要 小于 一点四毫摩每升",
+    "needs_animation": false,
+    "label": ""
+  }
+]

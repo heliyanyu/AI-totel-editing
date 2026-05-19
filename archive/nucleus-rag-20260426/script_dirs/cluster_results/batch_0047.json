@@ -1,0 +1,527 @@
+[
+  {
+    "global_index": 1880,
+    "seg_id": "S1-L2",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "评论区最多人问的问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1881,
+    "seg_id": "S1-L3",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "七个问题今天一次讲清"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1882,
+    "seg_id": "S2-L1",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能喝酒吗",
+    "template": "hero_text",
+    "items": [
+      "高血压不能喝酒"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1883,
+    "seg_id": "S2-L2",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能喝酒吗",
+    "template": "myth_buster",
+    "items": [
+      "少喝一点没关系",
+      "没有安全饮酒量",
+      "红酒能软化血管",
+      "该说法早已被推翻"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1884,
+    "seg_id": "S2-L3",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能喝酒吗",
+    "template": "step_arrow",
+    "items": [
+      "酒精进入身体",
+      "血管扩张血压下降",
+      "数小时后血管反弹收缩",
+      "血压反冲比之前更高"
+    ],
+    "needs_animation": true,
+    "label": "酒精导致血管先扩张后反弹收缩的过程"
+  },
+  {
+    "global_index": 1885,
+    "seg_id": "S2-L4",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能喝酒吗",
+    "template": "warning_alert",
+    "items": [
+      "先降后飙对血管伤害更大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1886,
+    "seg_id": "S2-L5",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能喝酒吗",
+    "template": "number_center",
+    "items": [
+      "0"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1887,
+    "seg_id": "S2-L6",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能喝酒吗",
+    "template": "hero_text",
+    "items": [
+      "最安全的量就是零"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1888,
+    "seg_id": "S2-L7",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能喝酒吗",
+    "template": "hero_text",
+    "items": [
+      "滴酒不沾才是真保护"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1889,
+    "seg_id": "S3-L1",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能泡温泉吗",
+    "template": "hero_text",
+    "items": [
+      "可以泡，但要讲方法"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1890,
+    "seg_id": "S3-L2",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能泡温泉吗",
+    "template": "step_arrow",
+    "items": [
+      "热水让血管扩张",
+      "泡着时血压先降感觉舒服",
+      "猛然站起血管来不及收缩",
+      "血压骤降容易晕倒"
+    ],
+    "needs_animation": true,
+    "label": "热水致血管扩张及体位性低血压过程"
+  },
+  {
+    "global_index": 1891,
+    "seg_id": "S3-L3",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能泡温泉吗",
+    "template": "list_fade",
+    "items": [
+      "水温不超过40℃",
+      "每次不超过10分钟",
+      "起身时扶边慢慢站"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1892,
+    "seg_id": "S3-L4",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能泡温泉吗",
+    "template": "warning_alert",
+    "items": [
+      "血压超160先不要泡",
+      "等血压稳定后再说"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1893,
+    "seg_id": "S3-L5",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能泡温泉吗",
+    "template": "branch_path",
+    "items": [
+      "血压是否低于160",
+      "遵守三原则可以泡",
+      "先控压稳定再考虑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1894,
+    "seg_id": "S3-L6",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能泡温泉吗",
+    "template": "hero_text",
+    "items": [
+      "稳住血压才能安心泡"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1895,
+    "seg_id": "S4-L1",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能吃辣吗",
+    "template": "hero_text",
+    "items": [
+      "辣椒本身不升血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1896,
+    "seg_id": "S4-L2",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能吃辣吗",
+    "template": "number_center",
+    "items": [
+      "更低"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1897,
+    "seg_id": "S4-L3",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能吃辣吗",
+    "template": "myth_buster",
+    "items": [
+      "吃辣导致血压升高",
+      "升压的是盐和油不是辣",
+      "辣菜随便吃没问题",
+      "辣菜往往又咸又油要注意"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1898,
+    "seg_id": "S4-L4",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能吃辣吗",
+    "template": "list_fade",
+    "items": [
+      "做菜少放盐",
+      "做菜少放油",
+      "辣椒本身可以放"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1899,
+    "seg_id": "S4-L5",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能吃辣吗",
+    "template": "hero_text",
+    "items": [
+      "控盐控油才是关键"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1900,
+    "seg_id": "S5-L1",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能喝咖啡吗",
+    "template": "hero_text",
+    "items": [
+      "高血压能喝咖啡吗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1901,
+    "seg_id": "S5-L2",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能喝咖啡吗",
+    "template": "branch_path",
+    "items": [
+      "平时有喝咖啡习惯吗",
+      "每天一两杯没问题",
+      "突然开始喝不太适合"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1902,
+    "seg_id": "S5-L3",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能喝咖啡吗",
+    "template": "split_column",
+    "items": [
+      "黑咖啡 / 美式 / 拿铁",
+      "速溶咖啡",
+      "糖脂少更适合高血压",
+      "糖和脂肪多不建议喝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1903,
+    "seg_id": "S5-L4",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能喝咖啡吗",
+    "template": "hero_text",
+    "items": [
+      "喝就选黑咖啡或美式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1904,
+    "seg_id": "S6-L1",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能做力量训练吗",
+    "template": "hero_text",
+    "items": [
+      "建议做！中等强度更好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1905,
+    "seg_id": "S6-L2",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能做力量训练吗",
+    "template": "myth_buster",
+    "items": [
+      "高血压不能使劲怕爆血管",
+      "中等强度训练长期反而降压",
+      "只要不憋气随便练",
+      "憋气会让血压瞬间冲高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1906,
+    "seg_id": "S6-L3",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能做力量训练吗",
+    "template": "warning_alert",
+    "items": [
+      "憋气时胸腔压力飙升最危险"
+    ],
+    "needs_animation": true,
+    "label": "憋气致胸腔压力升高及血压飙升机制"
+  },
+  {
+    "global_index": 1907,
+    "seg_id": "S6-L4",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能做力量训练吗",
+    "template": "step_arrow",
+    "items": [
+      "用力发力时呼气",
+      "放松还原时吸气",
+      "保持呼吸全程不憋气"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1908,
+    "seg_id": "S6-L5",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "高血压能做力量训练吗",
+    "template": "hero_text",
+    "items": [
+      "呼吸对了力量训练很安全"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1909,
+    "seg_id": "S7-L1",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "感冒药能随便吃吗",
+    "template": "warning_alert",
+    "items": [
+      "感冒药要特别注意"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1910,
+    "seg_id": "S7-L2",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "感冒药能随便吃吗",
+    "template": "list_fade",
+    "items": [
+      "部分感冒药含伪麻黄碱",
+      "常见于\"缓解鼻塞\"类药物",
+      "该成分会收缩血管升血压"
+    ],
+    "needs_animation": true,
+    "label": "伪麻黄碱收缩血管升高血压的药理机制"
+  },
+  {
+    "global_index": 1911,
+    "seg_id": "S7-L3",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "感冒药能随便吃吗",
+    "template": "step_arrow",
+    "items": [
+      "高血压患者感冒了",
+      "告知药师有高血压",
+      "避开含伪麻黄碱成分",
+      "或直接找医生开药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1912,
+    "seg_id": "S7-L4",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "感冒药能随便吃吗",
+    "template": "split_column",
+    "items": [
+      "找药师说明病情选药",
+      "直接找医生开处方",
+      "简单方便适合轻症",
+      "更安全适合复杂情况"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1913,
+    "seg_id": "S7-L5",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "感冒药能随便吃吗",
+    "template": "hero_text",
+    "items": [
+      "高血压感冒买药先看成分"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1914,
+    "seg_id": "S8-L1",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "换季需要调降压药吗",
+    "template": "hero_text",
+    "items": [
+      "血压随季节变化要调药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1915,
+    "seg_id": "S8-L2",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "换季需要调降压药吗",
+    "template": "split_column",
+    "items": [
+      "冬天血管收缩血压升高",
+      "夏天血管扩张血压降低",
+      "可能需要加量",
+      "可能需要减量"
+    ],
+    "needs_animation": true,
+    "label": "季节温度变化对血管舒缩及血压的影响"
+  },
+  {
+    "global_index": 1916,
+    "seg_id": "S8-L3",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "换季需要调降压药吗",
+    "template": "myth_buster",
+    "items": [
+      "冬天压不下来是药不管用",
+      "天冷了血压自然升需要加量",
+      "夏天老头晕是身体出问题",
+      "天热了药量偏大该减了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1917,
+    "seg_id": "S8-L4",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "换季需要调降压药吗",
+    "template": "warning_alert",
+    "items": [
+      "加减药量必须由医生决定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1918,
+    "seg_id": "S8-L5",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "换季需要调降压药吗",
+    "template": "step_arrow",
+    "items": [
+      "换季时多测几次血压",
+      "记录血压变化数据",
+      "拿记录去找医生调方案"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1919,
+    "seg_id": "S8-L6",
+    "bp_title": "高血压七大疑问一次讲清楚",
+    "scene_title": "换季需要调降压药吗",
+    "template": "hero_text",
+    "items": [
+      "量好血压交给医生判断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

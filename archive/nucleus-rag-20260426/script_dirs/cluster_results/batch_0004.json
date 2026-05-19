@@ -1,0 +1,519 @@
+[
+  {
+    "global_index": 160,
+    "seg_id": "S4-L8",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "酒精对血压的影响",
+    "template": "hero_text",
+    "items": [
+      "戒酒，是高血压患者最划算的改变之一"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 161,
+    "seg_id": "S5-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "hero_text",
+    "items": [
+      "含糖饮料对血压的影响被严重低估"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 162,
+    "seg_id": "S5-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "step_arrow",
+    "items": [
+      "摄入果糖",
+      "激活交感神经，促进钠重吸收",
+      "血压升高"
+    ],
+    "needs_animation": true,
+    "label": "果糖激活交感神经促进钠重吸收升高血压的机制"
+  },
+  {
+    "global_index": 163,
+    "seg_id": "S5-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "number_center",
+    "items": [
+      "10%~20%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 164,
+    "seg_id": "S5-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "brick_stack",
+    "items": [
+      "糖分直接升高血压",
+      "脂肪导致体重增加",
+      "咖啡因短暂升高血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 165,
+    "seg_id": "S5-L5",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "warning_alert",
+    "items": [
+      "三个方向同时推高血压"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 166,
+    "seg_id": "S5-L6",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "warning_alert",
+    "items": [
+      "天天喝奶茶可乐，光吃降压药也压不住"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 167,
+    "seg_id": "S5-L7",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "含糖饮料与奶茶的危害",
+    "template": "split_column",
+    "items": [
+      "含糖饮料",
+      "白开水",
+      "升高血压风险",
+      "管用程度超出想象"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 168,
+    "seg_id": "S6-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "牛奶与酸奶的降压作用",
+    "template": "hero_text",
+    "items": [
+      "牛奶是明确对血压友好的饮品"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 169,
+    "seg_id": "S6-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "牛奶与酸奶的降压作用",
+    "template": "list_fade",
+    "items": [
+      "钙质有轻度降压作用",
+      "特定肽类物质辅助降压"
+    ],
+    "needs_animation": true,
+    "label": "钙质与生物活性肽的降压机制"
+  },
+  {
+    "global_index": 170,
+    "seg_id": "S6-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "牛奶与酸奶的降压作用",
+    "template": "list_fade",
+    "items": [
+      "多项大型研究证实",
+      "每天适量喝奶，高血压发病率更低"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 171,
+    "seg_id": "S6-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "牛奶与酸奶的降压作用",
+    "template": "list_fade",
+    "items": [
+      "发酵产生生物活性肽",
+      "对血管有保护作用"
+    ],
+    "needs_animation": true,
+    "label": "发酵产生生物活性肽保护血管的机制"
+  },
+  {
+    "global_index": 172,
+    "seg_id": "S6-L5",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "牛奶与酸奶的降压作用",
+    "template": "myth_buster",
+    "items": [
+      "加了大量糖的风味酸奶也有益",
+      "选无糖酸奶，加糖抵消所有好处"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 173,
+    "seg_id": "S6-L6",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "牛奶与酸奶的降压作用",
+    "template": "step_arrow",
+    "items": [
+      "风味酸奶含大量添加糖",
+      "糖的危害抵消奶的好处",
+      "保护作用归零"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 174,
+    "seg_id": "S7-L1",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "总结与行动建议",
+    "template": "color_grid",
+    "items": [
+      "淡茶可以喝",
+      "咖啡每天两到三杯",
+      "牛奶无糖酸奶鼓励喝",
+      "含糖饮料奶茶别碰"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 175,
+    "seg_id": "S7-L2",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "总结与行动建议",
+    "template": "warning_alert",
+    "items": [
+      "酒能戒就戒，别留情面"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 176,
+    "seg_id": "S7-L3",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "每天喝进去的，对血压影响比你以为的大得多"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 177,
+    "seg_id": "S7-L4",
+    "bp_title": "每天喝的这些饮料，正在悄悄影响你的血压",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "别一边吃降压药，一边喝着反方向的东西"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 178,
+    "seg_id": "S1-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架误区引入",
+    "template": "body_annotate",
+    "items": [
+      "右冠状动脉狭窄70%",
+      "冠脉造影复查患者"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉狭窄解剖结构"
+  },
+  {
+    "global_index": 179,
+    "seg_id": "S1-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架误区引入",
+    "template": "hero_text",
+    "items": [
+      "不放支架会不会心梗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 180,
+    "seg_id": "S1-L3",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架误区引入",
+    "template": "hero_text",
+    "items": [
+      "目前先吃药观察"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 181,
+    "seg_id": "S1-L4",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架误区引入",
+    "template": "myth_buster",
+    "items": [
+      "现在不放以后堵更深",
+      "斑块进展与放支架无关",
+      "早放支架早安心",
+      "支架无法阻止新斑块"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 182,
+    "seg_id": "S1-L5",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架误区引入",
+    "template": "hero_text",
+    "items": [
+      "血管通了就安全了？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 183,
+    "seg_id": "S1-L6",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架误区引入",
+    "template": "hero_text",
+    "items": [
+      "70%狭窄很多情况下不需要放支架"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 184,
+    "seg_id": "S2-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架的真正作用",
+    "template": "hero_text",
+    "items": [
+      "支架到底是干什么的？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 185,
+    "seg_id": "S2-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架的真正作用",
+    "template": "split_column",
+    "items": [
+      "撑开严重堵塞部位",
+      "保健品、让血管健康",
+      "恢复局部血流通畅",
+      "预防以后继续堵塞"
+    ],
+    "needs_animation": true,
+    "label": "冠脉支架撑开狭窄血管恢复血流过程"
+  },
+  {
+    "global_index": 186,
+    "seg_id": "S2-L3",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "支架的真正作用",
+    "template": "hero_text",
+    "items": [
+      "支架治现在的堵，不防以后的堵"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 187,
+    "seg_id": "S3-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "需要放支架的情形",
+    "template": "hero_text",
+    "items": [
+      "什么情况下才需要放支架？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 188,
+    "seg_id": "S3-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "需要放支架的情形",
+    "template": "warning_alert",
+    "items": [
+      "急性心梗：血管突然堵死须立刻打开"
+    ],
+    "needs_animation": true,
+    "label": "急性心梗血管突然堵塞的病理过程"
+  },
+  {
+    "global_index": 189,
+    "seg_id": "S3-L3",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "需要放支架的情形",
+    "template": "list_fade",
+    "items": [
+      "走路爬坡出现胸闷胸痛",
+      "吃药仍控制不住症状",
+      "放支架可显著改善生活质量"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 190,
+    "seg_id": "S4-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "hero_text",
+    "items": [
+      "70%狭窄：有意义不等于必须放"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 191,
+    "seg_id": "S4-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "hero_text",
+    "items": [
+      "关键看两件事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 192,
+    "seg_id": "S4-L3",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "branch_path",
+    "items": [
+      "日常走路爬坡有无不适？",
+      "无症状：心脏供血目前够用",
+      "有症状：需进一步评估干预"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 193,
+    "seg_id": "S4-L4",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "split_column",
+    "items": [
+      "> 0.8，血流仍能通过",
+      "≤ 0.8，存在明显缺血",
+      "不需要放支架",
+      "需要考虑放支架"
+    ],
+    "needs_animation": true,
+    "label": "FFR血流储备分数评估冠脉狭窄血流的原理"
+  },
+  {
+    "global_index": 194,
+    "seg_id": "S4-L5",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "number_center",
+    "items": [
+      "≈"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 195,
+    "seg_id": "S4-L6",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "myth_buster",
+    "items": [
+      "放了支架能降低心梗概率",
+      "支架可改善症状但不降低心梗概率"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 196,
+    "seg_id": "S4-L7",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "70%狭窄如何判断",
+    "template": "split_column",
+    "items": [
+      "坚持服用控心脑血管药物",
+      "依赖支架一劳永逸",
+      "日常自我管理生活方式",
+      "忽视血脂血压等危险因素"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 197,
+    "seg_id": "S5-L1",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "\"早放早安心\"逻辑错在哪",
+    "template": "myth_buster",
+    "items": [
+      "现在不放以后还是得放",
+      "斑块进展取决于血脂血压管理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 198,
+    "seg_id": "S5-L2",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "\"早放早安心\"逻辑错在哪",
+    "template": "step_arrow",
+    "items": [
+      "控好血脂血压+改善生活方式",
+      "斑块十年不明显进展",
+      "斑块甚至可能缩小"
+    ],
+    "needs_animation": true,
+    "label": "动脉斑块在药物控制下稳定或缩小的过程"
+  },
+  {
+    "global_index": 199,
+    "seg_id": "S5-L3",
+    "bp_title": "血管堵70%不用放支架？医生说清楚",
+    "scene_title": "\"早放早安心\"逻辑错在哪",
+    "template": "warning_alert",
+    "items": [
+      "其他部位照样长新斑块，放不过来"
+    ],
+    "needs_animation": true,
+    "label": "动脉多部位新斑块形成的病理过程"
+  }
+]

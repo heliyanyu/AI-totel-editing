@@ -1,0 +1,320 @@
+[
+  {
+    "global_index": 4400,
+    "seg_id": "S2-L8",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔才是产臭大本营",
+    "template": "color_grid",
+    "items": [
+      "蛀牙洞",
+      "长歪的智齿",
+      "刷牙无法解决的死角"
+    ],
+    "needs_animation": true,
+    "label": "口腔产臭结构（龋齿洞、阻生智齿、牙缝死角）"
+  },
+  {
+    "global_index": 4401,
+    "seg_id": "S3-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔之外的口臭来源",
+    "template": "number_center",
+    "items": [
+      "10%–20%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4402,
+    "seg_id": "S3-L2",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔之外的口臭来源",
+    "template": "list_fade",
+    "items": [
+      "鼻窦炎/鼻炎引发鼻涕倒流",
+      "鼻腔分泌物分解产生臭味"
+    ],
+    "needs_animation": true,
+    "label": "鼻涕倒流及鼻腔分泌物分解产臭过程"
+  },
+  {
+    "global_index": 4403,
+    "seg_id": "S3-L3",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔之外的口臭来源",
+    "template": "warning_alert",
+    "items": [
+      "扁桃体隐窝形成黄白色结石",
+      "结石捏碎后气味极为难闻"
+    ],
+    "needs_animation": true,
+    "label": "扁桃体隐窝结石形成过程"
+  },
+  {
+    "global_index": 4404,
+    "seg_id": "S3-L4",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口腔之外的口臭来源",
+    "template": "list_fade",
+    "items": [
+      "胃食管反流",
+      "幽门螺杆菌感染",
+      "此类口臭靠刷牙无效"
+    ],
+    "needs_animation": true,
+    "label": "胃食管反流与幽门螺杆菌感染致口臭机制"
+  },
+  {
+    "global_index": 4405,
+    "seg_id": "S4-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "hero_text",
+    "items": [
+      "解决口臭，从两个关键点入手"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4406,
+    "seg_id": "S4-L2",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "hero_text",
+    "items": [
+      "第一：把基础口腔护理做到位"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4407,
+    "seg_id": "S4-L3",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "step_arrow",
+    "items": [
+      "牙刷毛斜45度贴紧牙龈",
+      "轻轻震颤清洁牙缝",
+      "每次刷牙不少于两分钟",
+      "早晚各刷一次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4408,
+    "seg_id": "S4-L4",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "step_arrow",
+    "items": [
+      "刷完牙后清洁舌苔",
+      "从舌根向舌尖轻刷3-5下",
+      "能解决大半口臭问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4409,
+    "seg_id": "S4-L5",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "list_fade",
+    "items": [
+      "每天至少用一次牙线",
+      "清洁牙刷触及不到的牙缝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4410,
+    "seg_id": "S4-L6",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "list_fade",
+    "items": [
+      "唾液是口腔天然清洁剂",
+      "口干时细菌会大量繁殖",
+      "多喝水保持口腔湿润"
+    ],
+    "needs_animation": true,
+    "label": "唾液抑菌与口干时细菌繁殖机制"
+  },
+  {
+    "global_index": 4411,
+    "seg_id": "S4-L7",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "color_grid",
+    "items": [
+      "少抽烟",
+      "少喝酒",
+      "少吃大蒜韭菜重口食物"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4412,
+    "seg_id": "S4-L8",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "基础口腔护理全攻略",
+    "template": "warning_alert",
+    "items": [
+      "长期抗菌漱口水破坏口腔菌群",
+      "反而导致口臭越来越重"
+    ],
+    "needs_animation": true,
+    "label": "抗菌漱口水破坏口腔菌群平衡机制"
+  },
+  {
+    "global_index": 4413,
+    "seg_id": "S5-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "护理无效时的就医路径",
+    "template": "warning_alert",
+    "items": [
+      "坚持护理2-4周仍有口臭须就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4414,
+    "seg_id": "S5-L2",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "护理无效时的就医路径",
+    "template": "step_arrow",
+    "items": [
+      "第一站：挂口腔科",
+      "查牙周病/龋齿/智齿",
+      "该洗牙洗牙，该补牙补牙"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4415,
+    "seg_id": "S5-L3",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "护理无效时的就医路径",
+    "template": "list_fade",
+    "items": [
+      "口腔无异常→挂耳鼻喉科",
+      "排查鼻窦炎和扁桃体结石"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4416,
+    "seg_id": "S5-L4",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "护理无效时的就医路径",
+    "template": "list_fade",
+    "items": [
+      "耳鼻喉无异常→消化科",
+      "排查胃食管反流",
+      "排查幽门螺杆菌感染"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4417,
+    "seg_id": "S6-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口臭可能是全身疾病预警",
+    "template": "hero_text",
+    "items": [
+      "口臭可能是全身疾病的预警信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4418,
+    "seg_id": "S6-L2",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口臭可能是全身疾病预警",
+    "template": "split_column",
+    "items": [
+      "糖尿病酮症酸中毒",
+      "呼气带烂苹果气味"
+    ],
+    "needs_animation": true,
+    "label": "糖尿病酮症酸中毒代谢产酮过程"
+  },
+  {
+    "global_index": 4419,
+    "seg_id": "S6-L3",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口臭可能是全身疾病预警",
+    "template": "split_column",
+    "items": [
+      "肾功能不全",
+      "呼气带氨味"
+    ],
+    "needs_animation": true,
+    "label": "肾功能不全氨代谢异常致口臭机制"
+  },
+  {
+    "global_index": 4420,
+    "seg_id": "S6-L4",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口臭可能是全身疾病预警",
+    "template": "list_fade",
+    "items": [
+      "慢性心衰引起肺部瘀血",
+      "胃肠道同样发生瘀血",
+      "口臭发生率明显高于常人"
+    ],
+    "needs_animation": true,
+    "label": "慢性心衰引起肺部及胃肠道瘀血过程"
+  },
+  {
+    "global_index": 4421,
+    "seg_id": "S6-L5",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口臭可能是全身疾病预警",
+    "template": "step_arrow",
+    "items": [
+      "口渴、多饮、多尿",
+      "体重不明原因下降",
+      "立即检查血糖水平"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4422,
+    "seg_id": "S6-L6",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "口臭可能是全身疾病预警",
+    "template": "step_arrow",
+    "items": [
+      "胸闷气短",
+      "下肢水肿或心慌",
+      "及时到心内科检查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4423,
+    "seg_id": "S7-L1",
+    "bp_title": "口臭从哪来？来源与解法全解析",
+    "scene_title": "结尾互动",
+    "template": "hero_text",
+    "items": [
+      "觉得有用就点赞收藏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

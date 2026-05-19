@@ -1,0 +1,508 @@
+[
+  {
+    "global_index": 3600,
+    "seg_id": "S9-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险五：辐射致癌",
+    "template": "myth_buster",
+    "items": [
+      "做一次造影会导致癌症",
+      "单次辐射远在安全范围内"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3601,
+    "seg_id": "S9-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险五：辐射致癌",
+    "template": "hero_text",
+    "items": [
+      "天天做造影的医生才是最好的证明"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3602,
+    "seg_id": "S10-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "最核心数据：危及生命概率",
+    "template": "number_center",
+    "items": [
+      "<0.2%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3603,
+    "seg_id": "S10-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "最核心数据：危及生命概率",
+    "template": "hero_text",
+    "items": [
+      "一千人中不到两人出现危及生命情况"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3604,
+    "seg_id": "S10-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "最核心数据：危及生命概率",
+    "template": "list_fade",
+    "items": [
+      "主要见于急性心梗病情极重者",
+      "全身基础状况极差的患者"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3605,
+    "seg_id": "S10-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "最核心数据：危及生命概率",
+    "template": "hero_text",
+    "items": [
+      "普通排查性造影安全性远超你的想象"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3606,
+    "seg_id": "S11-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "hero_text",
+    "items": [
+      "我知道，数据说再多你还是害怕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3607,
+    "seg_id": "S11-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "hero_text",
+    "items": [
+      "对心脏操作，人天生有恐惧感"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3608,
+    "seg_id": "S11-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "split_column",
+    "items": [
+      "坐车有车祸风险",
+      "不能因此不出门"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3609,
+    "seg_id": "S11-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "branch_path",
+    "items": [
+      "是否接受造影检查？",
+      "极低风险，明确诊断早治疗",
+      "耽误病情，风险远大于检查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3610,
+    "seg_id": "S11-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "warning_alert",
+    "items": [
+      "拖延造影可能拖成急性心梗",
+      "血管严重狭窄却因恐惧错失诊断"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3611,
+    "seg_id": "S11-L6",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "hero_text",
+    "items": [
+      "因害怕造影拖成心梗，才是最可惜的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3612,
+    "seg_id": "S11-L7",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "风险权衡：不做才是大风险",
+    "template": "hero_text",
+    "items": [
+      "医生建议你做，是因为获益远大于风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3613,
+    "seg_id": "S12-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "hero_text",
+    "items": [
+      "四招让你的造影更安全"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3614,
+    "seg_id": "S12-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "step_arrow",
+    "items": [
+      "选正规医院和专业心内科医生",
+      "如实告知病史过敏史肾功能",
+      "术后多喝水多排尿按医嘱止血休息",
+      "放松心态，紧张会增加操作难度"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3615,
+    "seg_id": "S12-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "hero_text",
+    "items": [
+      "做完出来都说：原来这么简单！"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3616,
+    "seg_id": "S12-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "myth_buster",
+    "items": [
+      "术前吓得浑身发抖",
+      "做完发现根本不可怕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3617,
+    "seg_id": "S12-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "hero_text",
+    "items": [
+      "不了解才恐惧，了解后自然不害怕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3618,
+    "seg_id": "S12-L6",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "hero_text",
+    "items": [
+      "早了解早做，早就安心了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3619,
+    "seg_id": "S12-L7",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "hero_text",
+    "items": [
+      "了解清楚，造影真没那么可怕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3620,
+    "seg_id": "S12-L8",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "四招让造影更安全",
+    "template": "hero_text",
+    "items": [
+      "别让恐惧耽误了你的心脏健康"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3621,
+    "seg_id": "S13-L1",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "最后三句最关键的话"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3622,
+    "seg_id": "S13-L2",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "list_fade",
+    "items": [
+      "严重并发症不到0.2%，非常安全",
+      "肾功能正常者不用担心伤肾和辐射",
+      "不做造影耽误病情的风险更大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3623,
+    "seg_id": "S13-L3",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "相信医生，相信现代医学技术"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3624,
+    "seg_id": "S13-L4",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "step_arrow",
+    "items": [
+      "早检查",
+      "早明确诊断",
+      "早治疗早安心"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3625,
+    "seg_id": "S13-L5",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "别让不必要的恐惧留下终身遗憾"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3626,
+    "seg_id": "S13-L6",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "心脏健康无小事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3627,
+    "seg_id": "S13-L7",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "转发给你关心的人，远离恐慌"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3628,
+    "seg_id": "S13-L8",
+    "bp_title": "心脏造影到底危不危险？数据告诉你真相",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "了解真相，才能真正保护自己的心脏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3629,
+    "seg_id": "S1-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选透析为何这么纠结",
+    "template": "hero_text",
+    "items": [
+      "血透还是腹透，到底选哪个？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3630,
+    "seg_id": "S1-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选透析为何这么纠结",
+    "template": "list_fade",
+    "items": [
+      "家属到处打听，众说纷纭",
+      "一家人为此吵得比选房还纠结"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3631,
+    "seg_id": "S1-L3",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选透析为何这么纠结",
+    "template": "myth_buster",
+    "items": [
+      "血透比腹透更好",
+      "两者生存率相当，没有更好只有更适合",
+      "腹透比血透更好",
+      "要根据个人情况选择最适合的方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3632,
+    "seg_id": "S1-L4",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "选透析为何这么纠结",
+    "template": "hero_text",
+    "items": [
+      "先搞清楚这两种透析是怎么回事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3633,
+    "seg_id": "S2-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "血透原理解析",
+    "template": "step_arrow",
+    "items": [
+      "血液从体内引出",
+      "通过透析器过滤毒素和多余水分",
+      "净化后的血液输回体内"
+    ],
+    "needs_animation": true,
+    "label": "血液透析工作原理（血液引出-透析器过滤-回输）"
+  },
+  {
+    "global_index": 3634,
+    "seg_id": "S2-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "血透原理解析",
+    "template": "list_fade",
+    "items": [
+      "每周去医院三次，每次四小时",
+      "手臂需做动静脉瘘方便扎针"
+    ],
+    "needs_animation": true,
+    "label": "动静脉瘘手术建立血管通路"
+  },
+  {
+    "global_index": 3635,
+    "seg_id": "S3-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "腹透原理解析",
+    "template": "step_arrow",
+    "items": [
+      "利用腹膜作为天然过滤器",
+      "透析液灌入腹腔，毒素渗入液体",
+      "每天换液三到五次，在家即可完成"
+    ],
+    "needs_animation": true,
+    "label": "腹膜透析工作原理（腹膜过滤-透析液交换）"
+  },
+  {
+    "global_index": 3636,
+    "seg_id": "S4-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "两者核心差异",
+    "template": "hero_text",
+    "items": [
+      "差异不在效果，而在生活方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3637,
+    "seg_id": "S5-L1",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "血透的利与弊",
+    "template": "list_fade",
+    "items": [
+      "护士操作，患者省心躺着即可",
+      "四小时高效清除毒素和水分"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3638,
+    "seg_id": "S5-L2",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "血透的利与弊",
+    "template": "list_fade",
+    "items": [
+      "每周三次雷打不动，上班族折腾",
+      "每次扎针，疼痛感真实存在"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3639,
+    "seg_id": "S5-L3",
+    "bp_title": "血透 vs 腹透，到底选哪个？",
+    "scene_title": "血透的利与弊",
+    "template": "warning_alert",
+    "items": [
+      "快速清除水分，血压波动大",
+      "心血管差者易低血压、头晕、抽筋"
+    ],
+    "needs_animation": true,
+    "label": "血液透析中快速脱水导致血压波动机制"
+  }
+]

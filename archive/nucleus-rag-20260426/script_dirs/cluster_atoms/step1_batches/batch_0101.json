@@ -1,0 +1,559 @@
+[
+  {
+    "global_index": 4040,
+    "seg_id": "S5-L3",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "清淡饮食正确认知",
+    "template": "warning_alert",
+    "items": [
+      "精细碳水才是真正要少吃的"
+    ],
+    "atoms_text": "真正要防吃的 精细的碳水 你给吃多了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4041,
+    "seg_id": "S5-L4",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "清淡饮食正确认知",
+    "template": "myth_buster",
+    "items": [
+      "清淡饮食就是吃素",
+      "清淡饮食不等于吃素",
+      "清淡饮食就是受罪",
+      "清淡饮食不等于受罪"
+    ],
+    "atoms_text": "清淡呢 它不等于吃素 也不等于受罪",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4042,
+    "seg_id": "S6-L1",
+    "bp_title": "清淡饮食≠吃粥吃咸菜，血糖血脂高的人必看",
+    "scene_title": "行动号召收尾",
+    "template": "hero_text",
+    "items": [
+      "转给家里天天喝粥吃咸菜的人"
+    ],
+    "atoms_text": "转发给家里那个 你天天吃粥吃咸菜的人 咱们俩给换一换 改善改善伙食啦",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4043,
+    "seg_id": "S1-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸高的隐秘危机",
+    "template": "hero_text",
+    "items": [
+      "尿酸高，正悄悄成为第四高"
+    ],
+    "atoms_text": "大家好 我是 讲那个张医生 现在出门诊的时候 发现 不止三高 哎 这尿酸高的人 也特别的多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4044,
+    "seg_id": "S1-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸高的隐秘危机",
+    "template": "myth_buster",
+    "items": [
+      "关节不疼，说明尿酸没问题",
+      "不疼不代表身体没在受损"
+    ],
+    "atoms_text": "但是他说 哎我关节不疼 哎呀 你可能会骗咱们",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4045,
+    "seg_id": "S1-L3",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸高的隐秘危机",
+    "template": "number_center",
+    "items": [
+      "1.8亿"
+    ],
+    "atoms_text": "中国呀 有一亿八千万人 尿酸高 但是真正疼过的人呢 不到两千万",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4046,
+    "seg_id": "S1-L4",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸高的隐秘危机",
+    "template": "split_column",
+    "items": [
+      "1.8亿人尿酸超标",
+      "不到2000万人曾经痛风发作",
+      "超过1.6亿人从未感到疼痛",
+      "不疼≠没有伤害，风险持续积累"
+    ],
+    "atoms_text": "那剩下的那一亿多人 他不疼 他就没事吗 错了啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4047,
+    "seg_id": "S2-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "玻璃渣在体内的旅程",
+    "template": "hero_text",
+    "items": [
+      "尿酸结晶就像玻璃渣，悄悄划伤你"
+    ],
+    "atoms_text": "你的身体呢 可能正在被 玻璃渣子 慢慢的划伤",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4048,
+    "seg_id": "S2-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "玻璃渣在体内的旅程",
+    "template": "step_arrow",
+    "items": [
+      "尿酸升高，血液中析出细小结晶",
+      "结晶如玻璃渣，游走于血液中",
+      "沉积在关节，引发剧烈痛风"
+    ],
+    "atoms_text": "尿酸高了 血液里边 会析出 一种特别细的结晶 你就把它想象成 特别特别细的 小玻璃渣子",
+    "needs_animation": true,
+    "label": "血液中尿酸过高析出细小尿酸盐结晶"
+  },
+  {
+    "global_index": 4049,
+    "seg_id": "S2-L3",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "玻璃渣在体内的旅程",
+    "template": "warning_alert",
+    "items": [
+      "结晶不只伤关节，还会钻入肾脏"
+    ],
+    "atoms_text": "这个玻璃渣啊 会跑到关节里边 那就是痛风啊 那疼的想撞墙",
+    "needs_animation": true,
+    "label": "尿酸盐结晶沉积在关节中引发痛风"
+  },
+  {
+    "global_index": 4050,
+    "seg_id": "S2-L4",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "玻璃渣在体内的旅程",
+    "template": "branch_path",
+    "items": [
+      "尿酸结晶随血液流动",
+      "沉积关节→痛风发作，疼痛剧烈",
+      "钻入肾脏→悄无声息，损伤累积"
+    ],
+    "atoms_text": "但是啊 它不光往关节里边跑 它会啊 悄悄的往肾脏里边钻",
+    "needs_animation": true,
+    "label": "尿酸盐结晶从关节向肾脏内钻入"
+  },
+  {
+    "global_index": 4051,
+    "seg_id": "S3-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "肾脏被玻璃渣慢慢堵坏",
+    "template": "body_annotate",
+    "items": [
+      "肾脏是身体的筛子",
+      "内含无数细小肾小管",
+      "负责过滤血液中的废物"
+    ],
+    "atoms_text": "肾是什么呀 那是身体的筛子 那里面呢 有无数根细细的肾小管",
+    "needs_animation": true,
+    "label": "肾脏内部肾小管的滤过结构"
+  },
+  {
+    "global_index": 4052,
+    "seg_id": "S3-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "肾脏被玻璃渣慢慢堵坏",
+    "template": "step_arrow",
+    "items": [
+      "玻璃渣持续进入肾脏筛网",
+      "三年五年不断积累划伤",
+      "筛网划破堵死，滤过功能下降"
+    ],
+    "atoms_text": "你往筛子里边撒玻璃渣 一天两天没事 那三年五年呢 这筛网划破了 堵死了 这个滤过功能啊 就下降了",
+    "needs_animation": true,
+    "label": "尿酸盐结晶长年堵塞划破肾小管导致滤过功能下降"
+  },
+  {
+    "global_index": 4053,
+    "seg_id": "S3-L3",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "肾脏被玻璃渣慢慢堵坏",
+    "template": "warning_alert",
+    "items": [
+      "全程不疼不痒，发现时肾已损伤多年",
+      "泡沫尿、脸肿，才发现为时已晚"
+    ],
+    "atoms_text": "哎 这个过程 不疼不痒 等你发现的时候 尿里泡沫多了啊 脸肿了 肾已经扛了不少年了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4054,
+    "seg_id": "S4-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸结晶破坏血管",
+    "template": "hero_text",
+    "items": [
+      "玻璃渣还会跑进血管，划伤管壁"
+    ],
+    "atoms_text": "更狠的是啊 这个渣啊 它会往血管里边跑",
+    "needs_animation": true,
+    "label": "尿酸盐结晶进入血管内部"
+  },
+  {
+    "global_index": 4055,
+    "seg_id": "S4-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸结晶破坏血管",
+    "template": "step_arrow",
+    "items": [
+      "结晶划伤血管内壁",
+      "油脂趁机附着在破损处",
+      "动脉硬化加速，心血管风险升高"
+    ],
+    "atoms_text": "就像你在路上 撒了很多的碎玻璃 这车轮啊 天天在上面跑 这路面能不坑洼吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4056,
+    "seg_id": "S4-L3",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸结晶破坏血管",
+    "template": "split_column",
+    "items": [
+      "碎玻璃撒在路上，车轮天天碾压",
+      "结晶划伤血管，油脂层层堆积",
+      "路面坑洼，无法正常通行",
+      "血管硬化，心梗脑梗风险倍增"
+    ],
+    "atoms_text": "血管壁划伤了 这个油脂啊 咵就往上面糊 这动脉硬化 层层的加快",
+    "needs_animation": true,
+    "label": "尿酸结晶划伤血管壁后脂质沉积加速动脉硬化"
+  },
+  {
+    "global_index": 4057,
+    "seg_id": "S5-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "三条尿酸红线要记住",
+    "template": "hero_text",
+    "items": [
+      "记住三条红线，主动管控尿酸"
+    ],
+    "atoms_text": "那咋办呢 记住这三条红线",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4058,
+    "seg_id": "S5-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "三条尿酸红线要记住",
+    "template": "category_table",
+    "items": [
+      "超过420：管住嘴，饮食干预",
+      "超过480+合并基础病：就医评估",
+      "超过540：无论是否疼痛需用药",
+      "数值越高，危害越深，干预越紧迫"
+    ],
+    "atoms_text": "第一个啊 如果说尿酸超过四百二的时候呢 咱们得管住嘴了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4059,
+    "seg_id": "S5-L3",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "三条尿酸红线要记住",
+    "template": "number_center",
+    "items": [
+      "540"
+    ],
+    "atoms_text": "第二个 如果说超过四百八的时候 哎还有高血压糖尿病 咱们就得找医生评估了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4060,
+    "seg_id": "S5-L4",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "三条尿酸红线要记住",
+    "template": "step_arrow",
+    "items": [
+      "尿酸升高，结晶开始生成",
+      "玻璃渣逐渐扎满关节与肾脏",
+      "拖延不管，器官损伤难以逆转"
+    ],
+    "atoms_text": "第三个 要是超过五百四的时候 你不管疼不疼 你就得用药了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4061,
+    "seg_id": "S5-L5",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "三条尿酸红线要记住",
+    "template": "warning_alert",
+    "items": [
+      "数值超标那天，伤害就已开始"
+    ],
+    "atoms_text": "哎 那玻璃渣已经扎差不多了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4062,
+    "seg_id": "S6-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "生活上做对三件事",
+    "template": "hero_text",
+    "items": [
+      "生活做对三件事，防控尿酸赢一半"
+    ],
+    "atoms_text": "生活上呢 三件事请做对 你都已经赢了一大半",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4063,
+    "seg_id": "S6-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "生活上做对三件事",
+    "template": "list_fade",
+    "items": [
+      "啤酒是尿酸加速器，首要戒掉",
+      "酒精加速嘌呤代谢，尿酸飙升"
+    ],
+    "atoms_text": "第一个 少喝酒 特别是啤酒 它是尿酸的加速器",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4064,
+    "seg_id": "S6-L3",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "生活上做对三件事",
+    "template": "myth_buster",
+    "items": [
+      "肉可以吃，但浓汤嘌呤更高",
+      "火锅汤、骨头汤要少喝甚至不喝"
+    ],
+    "atoms_text": "第二个 肉可以吃啊 但汤呢要少喝 一碗浓汤的嘌呤呢 要比肉还高 什么火锅汤啊 骨头汤 你别再当成宝贝了啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4065,
+    "seg_id": "S6-L4",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "生活上做对三件事",
+    "template": "number_center",
+    "items": [
+      "2000"
+    ],
+    "atoms_text": "第三个 每天呢要喝够 两千毫升的水 四瓶矿泉水量啊 给肾脏呢 冲冲筛子",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4066,
+    "seg_id": "S7-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "行动呼吁与结尾",
+    "template": "hero_text",
+    "items": [
+      "尿酸高不可怕，年年高年年不管才可怕"
+    ],
+    "atoms_text": "这尿酸高啊 它不是绝症 我担心的是 年年高 年年不管的人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4067,
+    "seg_id": "S7-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "行动呼吁与结尾",
+    "template": "hero_text",
+    "items": [
+      "今年体检，认真看一眼那个数字"
+    ],
+    "atoms_text": "哎 今年体检呢 你再看一眼那个数字 别等疼了之后呢 你再后悔",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4068,
+    "seg_id": "S1-L1",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血糖不疼不痒的误区",
+    "template": "hero_text",
+    "items": [
+      "家庭科张医生"
+    ],
+    "atoms_text": "大家好 我是 家庭科的 张医生",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4069,
+    "seg_id": "S1-L2",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血糖不疼不痒的误区",
+    "template": "myth_buster",
+    "items": [
+      "血糖高一点不疼不痒没关系",
+      "糖正把你血管从大到小泡坏"
+    ],
+    "atoms_text": "这个血糖啊 高一点 这不疼也不痒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4070,
+    "seg_id": "S1-L3",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血糖不疼不痒的误区",
+    "template": "hero_text",
+    "items": [
+      "不难受干嘛非得吃药"
+    ],
+    "atoms_text": "很多人问 那我干嘛 非得吃药呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4071,
+    "seg_id": "S1-L4",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血糖不疼不痒的误区",
+    "template": "number_center",
+    "items": [
+      "1000"
+    ],
+    "atoms_text": "这句话 我在门诊 听了 没有一千遍 有八百遍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4072,
+    "seg_id": "S1-L5",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血糖不疼不痒的误区",
+    "template": "warning_alert",
+    "items": [
+      "每次听到这话都替患者捏一把汗"
+    ],
+    "atoms_text": "那每次 听到这样 我都替他 捏了一把汗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4073,
+    "seg_id": "S1-L6",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血糖不疼不痒的误区",
+    "template": "hero_text",
+    "items": [
+      "最可怕的不是数字，是血管被糖泡坏"
+    ],
+    "atoms_text": "因为这个糖尿病啊 最可怕 从来呀 它不是 血糖仪上 那个数字 而是 你血液里头 多余的糖 它呀 正在把你的血管 从大到小 一点一点的 泡坏",
+    "needs_animation": true,
+    "label": "血液中多余的糖分从大血管到小血管逐步浸泡损伤血管壁"
+  },
+  {
+    "global_index": 4074,
+    "seg_id": "S2-L1",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血管损伤机制",
+    "template": "split_column",
+    "items": [
+      "血管壁光滑如滑滑梯",
+      "高血糖让内膜越来越粗糙"
+    ],
+    "atoms_text": "你可以这么理解 你的血管壁 它本来是 光滑的 这个血液 流过去啊 跟 哎 滑滑梯一样",
+    "needs_animation": true,
+    "label": "正常光滑血管壁内血液顺畅流动"
+  },
+  {
+    "global_index": 4075,
+    "seg_id": "S2-L2",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血管损伤机制",
+    "template": "step_arrow",
+    "items": [
+      "内膜粗糙化",
+      "胆固醇脂肪附着堆积",
+      "血管变窄变硬形成斑块"
+    ],
+    "atoms_text": "但这个血糖 长期偏高以后啊 这个血管内膜 就被泡的 越来越粗糙了 一粗糙啊 这胆固醇啊 脂肪 就容易往上挂 慢慢的 哎 就形成了斑块 这血管啊 就会变得 又窄又硬",
+    "needs_animation": true,
+    "label": "高血糖长期浸泡使血管内膜粗糙后胆固醇脂肪挂壁形成斑块致血管变窄变硬"
+  },
+  {
+    "global_index": 4076,
+    "seg_id": "S2-L3",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "血管损伤机制",
+    "template": "warning_alert",
+    "items": [
+      "糖尿病人心梗脑梗风险高出数倍",
+      "血管不是天生差，是被糖硬泡坏的"
+    ],
+    "atoms_text": "这就是为什么 糖尿病人呢 心梗脑梗 要比普通人 高出好几倍 那不是 天生血管差 是硬生生的 被糖泡坏的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4077,
+    "seg_id": "S3-L1",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "三大靶器官损伤",
+    "template": "hero_text",
+    "items": [
+      "最先下手的是你感觉不到的地方"
+    ],
+    "atoms_text": "而且这个是 最阴险的地方 在哪 它最先下手的 是你根本 感觉不到的地方",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4078,
+    "seg_id": "S3-L2",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "三大靶器官损伤",
+    "template": "step_arrow",
+    "items": [
+      "看东西模糊揉揉就好",
+      "视网膜已悄悄渗血",
+      "真正看不清时已晚"
+    ],
+    "atoms_text": "它先泡你的哪 眼底 刚开始的时候 哎 就是看东西 有点模糊 哎 你揉揉眼睛 就好了 哎 你不当回事儿 但其实啊 视网膜 已经在渗血了 等你啊 真的看不清楚的时候 已经晚了",
+    "needs_animation": true,
+    "label": "高血糖浸泡眼底视网膜微血管导致渗血"
+  },
+  {
+    "global_index": 4079,
+    "seg_id": "S3-L3",
+    "bp_title": "血糖高不疼不痒？血管正在被悄悄泡坏",
+    "scene_title": "三大靶器官损伤",
+    "template": "step_arrow",
+    "items": [
+      "微血管过滤网被泡坏",
+      "蛋白质漏入尿液起泡沫",
+      "最终走向长期透析"
+    ],
+    "atoms_text": "然后它再泡你的 肾脏 那里边 全是微小血管的 过滤网 泡坏了以后啊 本来应该 留在血管里的 蛋白质啊 就漏到 尿里边去了 刚开始呢 可能尿里边呢 那有点泡沫 哎 等到你真的 撑不住了 完 最后透析了",
+    "needs_animation": true,
+    "label": "高血糖泡坏肾脏微血管过滤网导致蛋白质漏入尿中"
+  }
+]

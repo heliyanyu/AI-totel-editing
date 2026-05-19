@@ -1,0 +1,553 @@
+[
+  {
+    "global_index": 4240,
+    "seg_id": "S7-L1",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "总结与互动",
+    "template": "hero_text",
+    "items": [
+      "因人而异，恰到好处才是目标"
+    ],
+    "atoms_text": "所以啊 记住 这个坏胆固醇呢 它并不是 越低越好 而是 因人而异 恰到好处",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4241,
+    "seg_id": "S7-L2",
+    "bp_title": "坏胆固醇不是越低越好——中国人的安全区间",
+    "scene_title": "总结与互动",
+    "template": "hero_text",
+    "items": [
+      "评论区告诉我你的情况"
+    ],
+    "atoms_text": "你的血脂目标 是多少呢 评论区告诉我 你的情况 我来帮你分析",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4242,
+    "seg_id": "S1-L1",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "化验单可能是假正常",
+    "template": "hero_text",
+    "items": [
+      "你的化验单可能骗了你三十年"
+    ],
+    "atoms_text": "今天这条视频啊 可能会让 很多人的化验单 一夜之间变成废纸",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4243,
+    "seg_id": "S1-L2",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "化验单可能是假正常",
+    "template": "number_center",
+    "items": [
+      "1.8"
+    ],
+    "atoms_text": "那你刚拿到这个体检报告 看到这个 C反应蛋白 一点八毫克每升 哎 你参考范围里写着 二点零 我心里乐 正常没毛病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4244,
+    "seg_id": "S1-L3",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "化验单可能是假正常",
+    "template": "hero_text",
+    "items": [
+      "你可能已经被骗了三十年"
+    ],
+    "atoms_text": "我告诉你啊 你可能已经被骗了 三十年",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4245,
+    "seg_id": "S1-L4",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "化验单可能是假正常",
+    "template": "warning_alert",
+    "items": [
+      "JACC亚洲版最新研究颠覆旧标准",
+      "中国人炎症标准不能套用西方"
+    ],
+    "atoms_text": "就在上周啊 JACC亚洲版 扔下了一颗重磅炸弹 中国人的炎症标准呢 根本呢 它不能用西方的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4246,
+    "seg_id": "S2-L1",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "CRP是什么",
+    "template": "hero_text",
+    "items": [
+      "CRP是血管里的烟雾报警器"
+    ],
+    "atoms_text": "咱们先说这个C反应蛋白 简单来说啊 它就是 血管的这个烟雾报警器",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4247,
+    "seg_id": "S2-L2",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "CRP是什么",
+    "template": "step_arrow",
+    "items": [
+      "血管内出现炎症或不稳定斑块",
+      "CRP浓度随即升高报警",
+      "提示心血管风险升高"
+    ],
+    "atoms_text": "血管里边一旦有炎症 哎 或者是不稳定斑块的时候 这个报警器它就会响",
+    "needs_animation": true,
+    "label": "血管内炎症和不稳定斑块触发CRP升高"
+  },
+  {
+    "global_index": 4248,
+    "seg_id": "S2-L3",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "CRP是什么",
+    "template": "split_column",
+    "items": [
+      "西方标准超过2.0才算异常",
+      "中国人超过1.0火星已在滋滋冒"
+    ],
+    "atoms_text": "西方人定这个标准是多少 二点零 它算 算着火",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4249,
+    "seg_id": "S2-L4",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "CRP是什么",
+    "template": "number_center",
+    "items": [
+      "1.0"
+    ],
+    "atoms_text": "但今天这篇研究告诉你 中国人的这报警器 它灵敏度比较敏感 你超过一的时候 这个火星子就 滋滋滋往外冒了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4250,
+    "seg_id": "S2-L5",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "CRP是什么",
+    "template": "category_table",
+    "items": [
+      "研究样本中日韩两万余名冠心病患者",
+      "东亚人CRP中位数仅1.2 mg/L远低于西方"
+    ],
+    "atoms_text": "研究者也分析了 中日韩两万多个冠心病患者 发现 咱们东亚人群的这个CRP 就是C反应蛋白的中位数 它只有 一点二毫克每升 比西方人呢 低的多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4251,
+    "seg_id": "S3-L1",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "烟雾报警器的比喻",
+    "template": "hero_text",
+    "items": [
+      "拿美国报警器检测中国厨房"
+    ],
+    "atoms_text": "那这意味着什么呢 意味着 那你去拿西方的标准 来衡量咱们中国",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4252,
+    "seg_id": "S3-L2",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "烟雾报警器的比喻",
+    "template": "split_column",
+    "items": [
+      "西方饮食油烟重需高阈值才响",
+      "中国清蒸炖煮稍有烟就该响"
+    ],
+    "atoms_text": "那比如就像 你拿个美国的烟雾报警器 来检测咱们中国这个厨房 那人家炒菜油烟大 那咱们呢 清蒸炖煮 你稍微有点烟 那就该响了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4253,
+    "seg_id": "S3-L3",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "烟雾报警器的比喻",
+    "template": "warning_alert",
+    "items": [
+      "等到厨房烧没了才报警已来不及"
+    ],
+    "atoms_text": "那你在等到厨房烧没了 你才报警 天哪 那 那不完蛋了吗 嗯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4254,
+    "seg_id": "S4-L1",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "数字揭示真实风险",
+    "template": "number_center",
+    "items": [
+      "+150%"
+    ],
+    "atoms_text": "第二个啊 如果说你的C反应蛋白 超过了一点零 心血管事件总体的风险呢 增加是多少呢 百分之一百五呀",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4255,
+    "seg_id": "S4-L2",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "数字揭示真实风险",
+    "template": "step_arrow",
+    "items": [
+      "CRP超过1.0风险增加150%",
+      "超1.0者大量已提前出事",
+      "能活到超2.0的人反而更少"
+    ],
+    "atoms_text": "那如果说你超过二点零呢 这个风险增幅呢 反而只有 哎 一百二 不是更安全 而是因为 超过一点零的人呢 很多啊 已经出事儿了 他活不到超过二点零",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4256,
+    "seg_id": "S4-L3",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "数字揭示真实风险",
+    "template": "number_center",
+    "items": [
+      "+273%"
+    ],
+    "atoms_text": "那最狠的是 死亡风险 但CRP超过一点零 心梗相关的死亡风险呢 直接飙升到 二百七十三",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4257,
+    "seg_id": "S4-L4",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "数字揭示真实风险",
+    "template": "hero_text",
+    "items": [
+      "冒烟了还说没到2.0不用跑"
+    ],
+    "atoms_text": "这就好比哎 房子都已经冒烟了 你还说 没到二点零 你不用跑啊 你慢点 结果呀 火烧眉毛 跑都来不及了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4258,
+    "seg_id": "S5-L1",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "给中国人敲黑板",
+    "template": "warning_alert",
+    "items": [
+      "2.0参考范围是给欧美人设计的",
+      "中国人不能用这把尺子量自己"
+    ],
+    "atoms_text": "所以啊 今天这篇研究啊 是在给每一个中国人敲黑板 你别再只盯着 那个二点零的参考范围 傻傻的笑了 那是给欧美人看的啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4259,
+    "seg_id": "S5-L2",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "给中国人敲黑板",
+    "template": "hero_text",
+    "items": [
+      "东亚人CRP超1.0立即拉响一级警报"
+    ],
+    "atoms_text": "咱们东亚人CRP 如果说你超过一点零 那就该拉响一级警报",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4260,
+    "seg_id": "S6-L1",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "行动指南与关注",
+    "template": "list_fade",
+    "items": [
+      "体检别只看箭头要看具体数字",
+      "数字超过1.0立即找医生",
+      "遵医嘱调药控盐稳定斑块"
+    ],
+    "atoms_text": "把这条视频呢 转发给家人们 告诉咱们的家人 下次体检的时候 别只看那个箭头 要看数字 超过一点零 咱们赶紧 哎 找医生 调药 控盐 稳定斑块",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4261,
+    "seg_id": "S6-L2",
+    "bp_title": "中国人CRP标准被低估三十年",
+    "scene_title": "行动指南与关注",
+    "template": "hero_text",
+    "items": [
+      "读懂化验单背后真相少走弯路"
+    ],
+    "atoms_text": "关注加那个的张先生 带你读懂 这个化验单背后的真相 咱们呢 少走弯路 多活几年 嗯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4262,
+    "seg_id": "S1-L1",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "老人乱吃止疼药的隐患",
+    "template": "hero_text",
+    "items": [
+      "老人腿疼就吃止疼药？危险！"
+    ],
+    "atoms_text": "家里的老人 是不是有这样的啊 腿疼 关节疼 腰疼 哎没事 我吃点止疼药 祛痛片 我就不疼了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4263,
+    "seg_id": "S1-L2",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "老人乱吃止疼药的隐患",
+    "template": "hero_text",
+    "items": [
+      "两分钟讲清用药与急救"
+    ],
+    "atoms_text": "今天呢 张医生 用两分钟时间 把这个用药 还有这些生活急救知识 给大家讲明白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4264,
+    "seg_id": "S1-L3",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "老人乱吃止疼药的隐患",
+    "template": "hero_text",
+    "items": [
+      "转发给家里的老人看"
+    ],
+    "atoms_text": "全是干货啊 大家要转发给你的家属朋友们",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4265,
+    "seg_id": "S2-L1",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药治标不治本",
+    "template": "hero_text",
+    "items": [
+      "先说老年人怎么用药"
+    ],
+    "atoms_text": "首先这个药啊 咱们先说这用药啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4266,
+    "seg_id": "S2-L2",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药治标不治本",
+    "template": "body_annotate",
+    "items": [
+      "老年身体像老房子管线老化",
+      "不能随意敲打修补",
+      "乱用药只会积累更大隐患"
+    ],
+    "atoms_text": "老年人的身体呢 就像一个老房子一样 这管线老化了 它不能随随便便的敲敲打打",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4267,
+    "seg_id": "S2-L3",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药治标不治本",
+    "template": "myth_buster",
+    "items": [
+      "一疼就吃止疼药",
+      "先查病因才是正解",
+      "盖住烟雾不等于灭了火",
+      "拖延只会酿成大祸"
+    ],
+    "atoms_text": "那很多叔叔阿姨 一疼哎 就吃止疼药 就像房子里冒烟了 你不查电路 哎你拿着扇子 扇扇扇扇扇 你迟早就出大事了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4268,
+    "seg_id": "S3-L1",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药三条铁律",
+    "template": "hero_text",
+    "items": [
+      "记住这三条用药铁律"
+    ],
+    "atoms_text": "用药啊 记住三条铁律",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4269,
+    "seg_id": "S3-L2",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药三条铁律",
+    "template": "split_column",
+    "items": [
+      "伤胃型",
+      "伤肾型",
+      "布洛芬/双氯芬酸钠",
+      "不伤胃但需护肾"
+    ],
+    "atoms_text": "第一个 止疼药呢 分为两种 一种呢是伤胃 一种它不伤胃 但是呢可能伤肾",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4270,
+    "seg_id": "S3-L3",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药三条铁律",
+    "template": "warning_alert",
+    "items": [
+      "布洛芬必须饭后吃",
+      "空腹服用易导致胃黏膜穿孔"
+    ],
+    "atoms_text": "像啊 布洛芬呢 双氯芬酸钠 得饭后吃 不然呢 这个胃黏膜 容易穿孔漏水",
+    "needs_animation": true,
+    "label": "布洛芬等NSAIDs空腹服用损伤胃黏膜导致穿孔"
+  },
+  {
+    "global_index": 4271,
+    "seg_id": "S3-L4",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药三条铁律",
+    "template": "warning_alert",
+    "items": [
+      "不同来源的止疼药不能混吃",
+      "成分叠加等于超量伤肝肾"
+    ],
+    "atoms_text": "第二个 你别混着吃啊 我今儿吃儿子买的哦 明天吃邻居给送的 这药名成分不一样 那那就是不一样 那就是相当于超量服用 这个肝和肾呢 它扛不住啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4272,
+    "seg_id": "S3-L5",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "止疼药三条铁律",
+    "template": "step_arrow",
+    "items": [
+      "关节疼先用外用止疼软膏",
+      "局部作用更安全副作用小",
+      "必要时口服需医生许可"
+    ],
+    "atoms_text": "第三个 外用药啊是保安 口服药啊是特警 关节疼的时候 咱们可以抹点那个双氯芬酸那种软膏啊 局部作用更安全 实在不行 咱们才口服 但是必须医生点头才能用哦",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4273,
+    "seg_id": "S4-L1",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "关节保养三要素",
+    "template": "hero_text",
+    "items": [
+      "保养胜于大修"
+    ],
+    "atoms_text": "第二部分 生活方式 这身体啊 就像机器 保养胜于大修",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4274,
+    "seg_id": "S4-L2",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "关节保养三要素",
+    "template": "hero_text",
+    "items": [
+      "关节像生锈门轴需要养护"
+    ],
+    "atoms_text": "老年人的关节 哎就像门轴似的 用了几十年 生锈了 缺油了 怎么办",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4275,
+    "seg_id": "S4-L3",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "关节保养三要素",
+    "template": "step_arrow",
+    "items": [
+      "关节最怕受寒冷刺激",
+      "戴护膝围脖隔绝寒气",
+      "保暖后关节僵硬明显改善"
+    ],
+    "atoms_text": "一个是保暖 哎关节怕冷 那冷天的时候 咱们戴护膝 戴围脖 是不是 你就像个门轴 裹层棉布 它就不生硬了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4276,
+    "seg_id": "S4-L4",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "关节保养三要素",
+    "template": "list_fade",
+    "items": [
+      "散步低强度护关节",
+      "太极舒缓适合老年人",
+      "爬山提重物关节伤害大"
+    ],
+    "atoms_text": "第二个 活动呗 别总一天躺着也不动 那什么方式 散步 嗯太极 都是可以的啊 像那种爬山呢 提重物 拎大锤 那不行",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4277,
+    "seg_id": "S4-L5",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "关节保养三要素",
+    "template": "brick_stack",
+    "items": [
+      "每天一杯奶补充钙质",
+      "晒太阳促进维生素D合成",
+      "骨密度足够自然减少疼痛"
+    ],
+    "atoms_text": "第三个 营养 这骨头硬不硬 得看钙够不够 每天一杯奶 咱们晒晒太阳 补点维生素D 那些骨头啊 就像钢筋浇了水泥一样 结实了 自然呀 也就不怎么疼了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4278,
+    "seg_id": "S5-L1",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "两大急症家庭急救",
+    "template": "hero_text",
+    "items": [
+      "家有老人必须刻入脑子"
+    ],
+    "atoms_text": "最后这条最重要 家里有老人的 必须要刻在脑子里",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4279,
+    "seg_id": "S5-L2",
+    "bp_title": "老人疼痛用药与急救常识",
+    "scene_title": "两大急症家庭急救",
+    "template": "list_fade",
+    "items": [
+      "突然胸痛像石头压住",
+      "喘不上气满头大汗",
+      "这是心梗的典型信号"
+    ],
+    "atoms_text": "如果老人呢 突然胸痛哇 像石头压着 喘不上气儿 满头的大汗 那可能是心梗了",
+    "needs_animation": false,
+    "label": ""
+  }
+]

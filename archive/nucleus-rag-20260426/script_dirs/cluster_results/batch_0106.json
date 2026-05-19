@@ -1,0 +1,533 @@
+[
+  {
+    "global_index": 4240,
+    "seg_id": "S7-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "第三步：坚持运动",
+    "template": "list_fade",
+    "items": [
+      "快走慢跑游泳均可",
+      "促进血液循环",
+      "减少血管垃圾堆积"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4241,
+    "seg_id": "S8-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "第四步：戒掉坏习惯",
+    "template": "color_grid",
+    "items": [
+      "戒烟",
+      "限酒",
+      "不熬夜",
+      "控情绪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4242,
+    "seg_id": "S8-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "第四步：戒掉坏习惯",
+    "template": "hero_text",
+    "items": [
+      "减轻血管负担刻不容缓"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4243,
+    "seg_id": "S9-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "总结与行动建议",
+    "template": "myth_buster",
+    "items": [
+      "斑块很可怕不用管",
+      "不可怕但不能置之不理",
+      "发现斑块不知如何应对",
+      "判断类型配合医生科学应对"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4244,
+    "seg_id": "S9-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？能缩小吗？",
+    "scene_title": "总结与行动建议",
+    "template": "hero_text",
+    "items": [
+      "科学应对守护脑血管健康"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4245,
+    "seg_id": "S1-L1",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "核心疑问与点题",
+    "template": "hero_text",
+    "items": [
+      "斑块会脱落吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4246,
+    "seg_id": "S2-L1",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "斑块成因与现状",
+    "template": "list_fade",
+    "items": [
+      "中老年非常常见",
+      "关键看类型稳定"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4247,
+    "seg_id": "S2-L2",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "斑块成因与现状",
+    "template": "step_arrow",
+    "items": [
+      "年龄增长血管磨损",
+      "内壁出现微小损伤"
+    ],
+    "needs_animation": true,
+    "label": "血管内壁老化损伤过程"
+  },
+  {
+    "global_index": 4248,
+    "seg_id": "S2-L3",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "斑块成因与现状",
+    "template": "brick_stack",
+    "items": [
+      "高血压高血脂",
+      "高血糖坏胆固醇",
+      "沉积形成斑块"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉斑块形成过程"
+  },
+  {
+    "global_index": 4249,
+    "seg_id": "S2-L4",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "斑块成因与现状",
+    "template": "number_center",
+    "items": [
+      "40%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4250,
+    "seg_id": "S2-L5",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "斑块成因与现状",
+    "template": "hero_text",
+    "items": [
+      "多为自然老化"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4251,
+    "seg_id": "S2-L6",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "斑块成因与现状",
+    "template": "warning_alert",
+    "items": [
+      "报告勿盲目紧张",
+      "重点看稳定性"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4252,
+    "seg_id": "S3-L1",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "超声识别与风险",
+    "template": "list_fade",
+    "items": [
+      "超声明确提示",
+      "关注回声类型"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4253,
+    "seg_id": "S3-L2",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "超声识别与风险",
+    "template": "split_column",
+    "items": [
+      "强回声如石头",
+      "不易破风险低"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉稳定斑块（强回声）结构特征"
+  },
+  {
+    "global_index": 4254,
+    "seg_id": "S3-L3",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "超声识别与风险",
+    "template": "split_column",
+    "items": [
+      "低回声如软粥",
+      "表面不平易损"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉不稳定斑块（低回声）结构特征"
+  },
+  {
+    "global_index": 4255,
+    "seg_id": "S3-L4",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "超声识别与风险",
+    "template": "step_arrow",
+    "items": [
+      "血压高情绪激动",
+      "血流冲击破裂",
+      "形成血栓脑梗"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉斑块破裂引发脑梗过程"
+  },
+  {
+    "global_index": 4256,
+    "seg_id": "S3-L5",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "超声识别与风险",
+    "template": "warning_alert",
+    "items": [
+      "狭窄超百分之五十",
+      "需格外重视"
+    ],
+    "needs_animation": true,
+    "label": "颈动脉狭窄程度示意"
+  },
+  {
+    "global_index": 4257,
+    "seg_id": "S4-L1",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "干预与治疗策略",
+    "template": "hero_text",
+    "items": [
+      "规范治疗可缩小"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4258,
+    "seg_id": "S4-L2",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "干预与治疗策略",
+    "template": "step_arrow",
+    "items": [
+      "他汀类药物主力",
+      "降低坏胆固醇",
+      "软斑变硬稳定"
+    ],
+    "needs_animation": true,
+    "label": "他汀类药物稳定斑块机制"
+  },
+  {
+    "global_index": 4259,
+    "seg_id": "S4-L3",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "干预与治疗策略",
+    "template": "warning_alert",
+    "items": [
+      "严格遵医嘱服药",
+      "切勿自行停药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4260,
+    "seg_id": "S4-L4",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "干预与治疗策略",
+    "template": "color_grid",
+    "items": [
+      "少吃肥肉内脏",
+      "多吃蔬菜全谷",
+      "适量深海鱼油",
+      "控制血脂范围"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4261,
+    "seg_id": "S4-L5",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "干预与治疗策略",
+    "template": "number_center",
+    "items": [
+      "150"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4262,
+    "seg_id": "S4-L6",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "干预与治疗策略",
+    "template": "list_fade",
+    "items": [
+      "快走促进循环",
+      "游泳减少垃圾"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4263,
+    "seg_id": "S4-L7",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "干预与治疗策略",
+    "template": "hero_text",
+    "items": [
+      "戒烟限酒不熬夜"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4264,
+    "seg_id": "S4-L8",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "干预与治疗策略",
+    "template": "list_fade",
+    "items": [
+      "控制情绪波动",
+      "减轻血管负担"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4265,
+    "seg_id": "S4-L9",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "干预与治疗策略",
+    "template": "hero_text",
+    "items": [
+      "坚持就是胜利"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4266,
+    "seg_id": "S4-L10",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "干预与治疗策略",
+    "template": "list_fade",
+    "items": [
+      "每周坚持",
+      "一百五十分钟",
+      "中等强度运动",
+      "比如快走",
+      "慢跑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4267,
+    "seg_id": "S4-L11",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "干预与治疗策略",
+    "template": "list_fade",
+    "items": [
+      "第四",
+      "就是戒掉坏习惯"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4268,
+    "seg_id": "S4-L12",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "干预与治疗策略",
+    "template": "list_fade",
+    "items": [
+      "尤其是",
+      "戒烟限酒",
+      "平时也不要熬夜",
+      "控制好情绪",
+      "减轻血管的负担"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4269,
+    "seg_id": "S4-L13",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "干预与治疗策略",
+    "template": "list_fade",
+    "items": [
+      "老生常谈啊",
+      "这些内容",
+      "说了很多"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4270,
+    "seg_id": "S5-L1",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "总结与健康寄语",
+    "template": "hero_text",
+    "items": [
+      "不可怕但需管"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4271,
+    "seg_id": "S5-L2",
+    "bp_title": "颈动脉斑块：危险还是稳定？",
+    "scene_title": "总结与健康寄语",
+    "template": "step_arrow",
+    "items": [
+      "判断斑块类型",
+      "配合医生治疗",
+      "调整生活方式"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4272,
+    "seg_id": "S1-L1",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "脖子响到底要不要慌",
+    "template": "list_fade",
+    "items": [
+      "颈椎病？",
+      "骨质增生？",
+      "椎间盘突出？",
+      "最终瘫痪？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4273,
+    "seg_id": "S1-L2",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "脖子响到底要不要慌",
+    "template": "hero_text",
+    "items": [
+      "三种情况，一次讲清"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4274,
+    "seg_id": "S2-L1",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第一种：响了没事",
+    "template": "hero_text",
+    "items": [
+      "不疼不麻，大概率没问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4275,
+    "seg_id": "S2-L2",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第一种：响了没事",
+    "template": "step_arrow",
+    "items": [
+      "关节囊内液体受压",
+      "溶解气体快速析出成泡",
+      "气泡塌陷发出声响",
+      "与掰手指原理相同"
+    ],
+    "needs_animation": true,
+    "label": "关节囊内气泡形成与塌陷机制"
+  },
+  {
+    "global_index": 4276,
+    "seg_id": "S2-L3",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第一种：响了没事",
+    "template": "color_grid",
+    "items": [
+      "响后感觉脖子松开",
+      "无需去医院检查",
+      "无需服药处理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4277,
+    "seg_id": "S2-L4",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第一种：响了没事",
+    "template": "list_fade",
+    "items": [
+      "改掉长期低头的习惯",
+      "每40-50分钟活动颈部"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4278,
+    "seg_id": "S3-L1",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第二种：肌肉在发出预警",
+    "template": "list_fade",
+    "items": [
+      "响后颈部发僵发酸",
+      "轻微疼痛但无麻木",
+      "活动几下可缓解"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4279,
+    "seg_id": "S3-L2",
+    "bp_title": "脖子响是颈椎病吗？三种情况一次讲清",
+    "scene_title": "第二种：肌肉在发出预警",
+    "template": "hero_text",
+    "items": [
+      "肌肉和筋膜出了问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

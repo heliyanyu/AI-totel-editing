@@ -1,0 +1,170 @@
+========== S2-L2 ==========
+【我们的文案】心脏是永不停歇的发动机 → 冠状动脉是专属供油管道
+
+【匹配的素材】ANH12082_Heart Anatomy.mp4
+  视频标题: ANH12082 Heart Anatomy
+  视频时长: 253.3s
+  sub_scenes: ['心脏工作机制']
+
+  素材旁白上下文 (第35段/42段):
+       [188.8-191.9s] pulmonary veins into your left atrium.
+       [191.9-197.4s] The blood then moves into your left ventricle, which contracts and sends blood out of your
+       [197.4-206.4s] heart through the aorta to feed your cells and tissues.
+   >>> [206.4-212.4s] The first branches off your aorta are the coronary arteries, which supply your heart muscle
+       [212.4-215.4s] with oxygen and nutrients.
+       [215.4-222.6s] At the top of your aorta, arteries branch off to carry blood to your head and arms.
+       [222.6-227.1s] Arteries branching from the middle and lower parts of your aorta, supply blood to the
+
+========== S2-L3 ==========
+【我们的文案】长期熬夜吸烟高脂饮食 → 管道内壁积累斑块变窄
+
+【匹配的素材】ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+  视频标题: ANH13113 Acute Coronary Syndrome and Heart Attack
+  视频时长: 309.6s
+  sub_scenes: ['心肌缺血过程', '冠状动脉供血']
+
+  素材旁白上下文 (第16段/54段):
+       [56.5-62.3s] If you have acute coronary syndrome, blood flow through your coronary arteries is severely
+       [62.3-66.4s] reduced or completely blocked.
+       [66.4-72.2s] One possible cause of reduced blood flow is atherosclerosis.
+   >>> [72.2-78.3s] In this condition, a build-up of a fatty substance called plaque can narrow your coronary
+       [78.3-80.0s] arteries.
+       [80.0-85.5s] If this plaque ruptures, a blood clot can form and block the artery.
+       [85.5-91.6s] A blood clot is the most common cause of coronary artery blockage.
+
+========== S2-L4 ==========
+【我们的文案】情绪激动致斑块包膜破裂 → 血小板大量聚集形成血栓 → 血管被彻底堵死
+
+【匹配的素材】ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+  视频标题: ANH13113 Acute Coronary Syndrome and Heart Attack
+  视频时长: 309.6s
+  sub_scenes: ['心肌缺血过程', '冠状动脉供血']
+
+  素材旁白上下文 (第18段/54段):
+       [66.4-72.2s] One possible cause of reduced blood flow is atherosclerosis.
+       [72.2-78.3s] In this condition, a build-up of a fatty substance called plaque can narrow your coronary
+       [78.3-80.0s] arteries.
+   >>> [80.0-85.5s] If this plaque ruptures, a blood clot can form and block the artery.
+       [85.5-91.6s] A blood clot is the most common cause of coronary artery blockage.
+       [91.6-100.2s] Other less common causes of reduced blood flow include coronary artery spasm or dissection.
+       [100.2-107.5s] In a coronary artery spasm, triggers such as drugs, smoking, cold weather, and extreme
+
+========== S2-L5 ==========
+【我们的文案】下游心肌细胞数十分钟内不可逆坏死
+
+【匹配的素材】AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+  视频标题: AND14017 After a Heart Attack  Managing Your Recovery
+  视频时长: 427.6s
+  sub_scenes: ['心肌缺血过程']
+
+  素材旁白上下文 (第9段/83段):
+       [25.2-29.4s] your heart is greatly reduced.
+       [29.4-34.2s] When the blood supply is not able to keep up with the demand, the heart muscle cells don't
+       [34.2-36.7s] get enough blood to stay alive.
+   >>> [36.7-44.6s] The result is death of heart muscle cells in the affected area of the heart.
+       [44.6-54.0s] The goals after a heart attack are to keep your heart healthy and avoid another heart attack.
+       [54.0-57.7s] Recovery takes time and the amount is different for each patient.
+       [57.7-64.9s] It depends upon how much of your heart muscle is damaged and your individual rate of recovery.
+
+========== S3-L3 ==========
+【我们的文案】活动导致全身耗氧量剧增 → 心脏被迫加速跳动 → 心肌坏死面积迅速扩大
+
+【匹配的素材】AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+  视频标题: AND14017 After a Heart Attack  Managing Your Recovery
+  视频时长: 427.6s
+  sub_scenes: ['心肌缺血过程']
+
+  素材旁白上下文 (第7段/83段):
+       [16.4-18.6s] you return home.
+       [18.6-25.2s] A heart attack, also called a myocardial infarction, or MI, occurs when blood flow to an area of
+       [25.2-29.4s] your heart is greatly reduced.
+   >>> [29.4-34.2s] When the blood supply is not able to keep up with the demand, the heart muscle cells don't
+       [34.2-36.7s] get enough blood to stay alive.
+       [36.7-44.6s] The result is death of heart muscle cells in the affected area of the heart.
+       [44.6-54.0s] The goals after a heart attack are to keep your heart healthy and avoid another heart attack.
+
+========== S3-L5 ==========
+【我们的文案】极易诱发致命心室颤动
+
+【匹配的素材】ANH14135_Cardiac Arrhythmia.mp4
+  视频标题: ANH14135 Cardiac Arrhythmia
+  视频时长: 278.5s
+  sub_scenes: ['心脏电传导系统']
+
+  素材旁白上下文 (第28段/42段):
+       [163.6-170.0s] Tachycardia may also happen in the ventricles with rapid and regular contractions.
+       [170.0-175.3s] The body may not receive enough blood because the ventricles contract before completely
+       [175.3-179.6s] filling with blood.
+   >>> [179.6-186.4s] The most serious aridhmia is ventricular fibrillation, where many random impulses fire rapidly within
+       [186.4-188.8s] the ventricular walls.
+       [188.8-194.1s] In ventricular fibrillation, the ventricles are quivering instead of beating.
+       [194.1-199.3s] This is a medical emergency because the heart cannot effectively pump blood to the body
+
+========== S4-L3 ==========
+【我们的文案】胸痛就该立刻吃硝酸甘油 → 右室梗死时吃会导致血压崩盘 → 硝酸甘油是心绞痛的常备药 → 心梗类型不同用药需医生判断
+
+【匹配的素材】ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+  视频标题: ANH13113 Acute Coronary Syndrome and Heart Attack
+  视频时长: 309.6s
+  sub_scenes: ['心肌缺血过程', '冠状动脉供血']
+
+  素材旁白上下文 (第43段/54段):
+       [217.8-224.9s] You may take aspirin or other prescription blood thinner drugs to prevent blood clots.
+       [224.9-231.3s] Thrombolytics, also known as clot buster drugs, may be used to break up any existing blood
+       [231.3-236.1s] clots.
+   >>> [236.1-241.9s] Cards such as nitroglycerin and morphine will relax your coronary arteries and relieve
+       [241.9-248.3s] the pain of angina.
+       [248.3-253.9s] You may also receive drugs called beta blockers that slow down your heart and reduce its need
+       [253.9-258.9s] for oxygen.
+
+========== S6-L2 ==========
+【我们的文案】立刻停止一切活动 → 就地平躺或半靠在床头 → 降低心脏耗氧保护心肌
+
+【匹配的素材】AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+  视频标题: AND14017 After a Heart Attack  Managing Your Recovery
+  视频时长: 427.6s
+  sub_scenes: ['心肌缺血过程']
+
+  素材旁白上下文 (第57段/83段):
+       [275.2-281.7s] Other good exercise options with your doctor's approval are walking, swimming, and bicycling.
+       [281.7-285.3s] As you exercise, keep these precautions in mind.
+       [285.3-286.9s] Rest as needed.
+   >>> [286.9-290.8s] Stop if you feel chest pain or have shortness of breath.
+       [290.8-296.7s] And don't exercise when temperatures are very hot or very cold.
+       [296.7-302.5s] Stress can affect your blood pressure and your ability to maintain a healthy lifestyle.
+       [302.5-307.7s] Identifying the causes of your stress and learning to eliminate or manage them can help
+
+========== S9-L1 ==========
+【我们的文案】保持情绪稳定安静等待 → 家人轻声安抚不要哭喊 → 肾上腺素飙升会收缩血管
+
+【匹配的素材】ANH12071_Health Effects of Smoking.mp4
+  视频标题: ANH12071 Health Effects of Smoking
+  视频时长: 529.5s
+  sub_scenes: ['心脏工作机制']
+
+  素材旁白上下文 (第19段/80段):
+       [105.0-112.4s] If you smoke your risk of major health problems increases dramatically, including heart disease,
+       [112.4-130.0s] heart attack, stroke, lung cancer, and death from chronic obstructive pulmonary disease.
+       [130.0-137.7s] Smoking causes cardiovascular disease. When nicotine flows through your adrenal glands,
+   >>> [137.7-145.6s] it stimulates the release of epinephrine, a hormone that raises your blood pressure.
+       [145.6-151.8s] In addition, nicotine and carbon monoxide can damage the lining of the inner walls in
+       [151.8-159.5s] your arteries. Fatty deposits, called plaque, can build up at these injury sites and become
+       [159.5-166.5s] large enough to narrow the arteries and severely reduce blood flow, resulting in a condition
+
+========== S9-L2 ==========
+【我们的文案】过度恐慌让血管进一步收缩
+
+【匹配的素材】ANH13100_High Blood Pressure (Hypertension).mp4
+  视频标题: ANH13100 High Blood Pressure (Hypertension)
+  视频时长: 398.8s
+  sub_scenes: ['血压升高全过程']
+
+  素材旁白上下文 (第21段/67段):
+       [86.2-94.9s] Healthy arteries expand with each heartbeat to help reduce blood pressure on the wall.
+       [94.9-99.2s] Another resistance factor is the diameter of your arteries.
+       [99.2-105.5s] Your body is able to increase the diameter of your arteries to lower your blood pressure
+   >>> [105.5-111.4s] or reduce the diameter to raise your blood pressure.
+       [111.4-116.4s] A third resistance factor is blood viscosity or thickness.
+       [116.4-122.8s] In your blood, more particles, such as proteins and fat, increase viscosity.
+       [122.8-127.9s] If your blood is thicker, your blood pressure goes up as your heart works harder to push
+

@@ -1,0 +1,569 @@
+[
+  {
+    "global_index": 2200,
+    "seg_id": "S3-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "霉——发霉食物致肝癌",
+    "template": "warning_alert",
+    "items": [
+      "发霉食物一律丢弃，心疼也要扔"
+    ],
+    "atoms_text": "第二个呢就是霉 发霉的食物 你再心疼的话 也要扔掉啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2201,
+    "seg_id": "S3-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "霉——发霉食物致肝癌",
+    "template": "myth_buster",
+    "items": [
+      "切掉霉斑部分就安全了",
+      "菌丝早已渗透果肉深处"
+    ],
+    "atoms_text": "千万不要以为 切掉这个霉变的部分 就没事了 这个菌丝啊 早就已经钻到果肉深处了",
+    "needs_animation": true,
+    "label": "霉菌菌丝从霉变部位深入渗透果肉内部"
+  },
+  {
+    "global_index": 2202,
+    "seg_id": "S3-L3",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "霉——发霉食物致肝癌",
+    "template": "warning_alert",
+    "items": [
+      "吃一点霉变食物即增加肝癌风险"
+    ],
+    "atoms_text": "你吃进去一点 都可能会增加 这个肝癌的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2203,
+    "seg_id": "S3-L4",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "霉——发霉食物致肝癌",
+    "template": "hero_text",
+    "items": [
+      "扔了心疼一次，吃了后悔一辈子"
+    ],
+    "atoms_text": "记住 扔了心疼一次 吃了后悔一辈子",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2204,
+    "seg_id": "S4-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "咸——控盐保心血管",
+    "template": "number_center",
+    "items": [
+      "5"
+    ],
+    "atoms_text": "第三个就是咸 盐啊 成人每天的这个五克盐就够了 大约半瓶盖的这个量啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2205,
+    "seg_id": "S4-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "咸——控盐保心血管",
+    "template": "warning_alert",
+    "items": [
+      "酱油生抽含大量隐性盐",
+      "叠加摄入易超标增加心血管风险"
+    ],
+    "atoms_text": "不要忘了 酱油啊 生抽啊 里面都藏着盐的 那你加起来 很容易超标的话 增加心血管病的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2206,
+    "seg_id": "S5-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烫——高温饮食伤食道",
+    "template": "warning_alert",
+    "items": [
+      "65°C以上食物再急也要等凉再吃"
+    ],
+    "atoms_text": "第四个就是烫 六十五度以上的食物 再急也要等一等 喜欢喝热茶吃烫饭的朋友 要注意了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2207,
+    "seg_id": "S5-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烫——高温饮食伤食道",
+    "template": "step_arrow",
+    "items": [
+      "65°C以上热饮属明确致癌物",
+      "反复烫伤口腔和食道黏膜",
+      "长期累积诱发食道癌"
+    ],
+    "atoms_text": "六十五度以上的热饮啊 它是明确的致癌物 它会烫伤你 这个口腔和食道的黏膜 反复烫伤的话 容易诱发食道癌",
+    "needs_animation": true,
+    "label": "65°C以上热饮反复烫伤口腔和食道黏膜诱发癌变"
+  },
+  {
+    "global_index": 2208,
+    "seg_id": "S5-L3",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "烫——高温饮食伤食道",
+    "template": "hero_text",
+    "items": [
+      "凉一凉再吃，健康多一份保障"
+    ],
+    "atoms_text": "凉一凉再吃 健康多一份保障",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2209,
+    "seg_id": "S6-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "熏——烧烤熏肉含强致癌物",
+    "template": "hero_text",
+    "items": [
+      "熏制食物再香，也要管住嘴"
+    ],
+    "atoms_text": "第五个就是熏 这个熏制食物啊 再香也要管住 对吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2210,
+    "seg_id": "S6-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "熏——烧烤熏肉含强致癌物",
+    "template": "brick_stack",
+    "items": [
+      "含苯并芘等强致癌化合物",
+      "通常含盐量极高",
+      "长期食用胃肠持续受损",
+      "患癌风险直线飙升"
+    ],
+    "atoms_text": "烧烤熏肉里面 它含有这个苯并芘 这类强致癌物啊 而且通常的话很咸 长期吃的话 胃肠遭罪 患癌的风险是直线飙升的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2211,
+    "seg_id": "S7-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "腌——亚硝酸盐是致癌帮凶",
+    "template": "hero_text",
+    "items": [
+      "自家腌咸菜再馋也要忍住"
+    ],
+    "atoms_text": "第六个就是腌 对吧 你自己家里面腌的咸菜 再馋也要忍住啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2212,
+    "seg_id": "S7-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "腌——亚硝酸盐是致癌帮凶",
+    "template": "warning_alert",
+    "items": [
+      "腌制食物含亚硝酸盐是致癌帮凶",
+      "家庭自制咸菜亚硝酸盐严重超标"
+    ],
+    "atoms_text": "腌制食物中 这个亚硝酸盐 它是致癌的帮凶 特别是家庭自己做的这个咸菜 亚硝酸盐含量 可能是严重超标的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2213,
+    "seg_id": "S7-L3",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "腌——亚硝酸盐是致癌帮凶",
+    "template": "branch_path",
+    "items": [
+      "实在馋了怎么办",
+      "选正规厂家产品偶尔解馋",
+      "自制咸菜亚硝酸盐超标不可贪嘴"
+    ],
+    "atoms_text": "那你如果实在馋了 买正规厂家的这个 解解馋就好了 千万不要贪嘴啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2214,
+    "seg_id": "S8-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "油——高脂饮食伤肠道",
+    "template": "hero_text",
+    "items": [
+      "油炸食品和肥肉，贪多肠道受不了"
+    ],
+    "atoms_text": "第七个就是油 油炸的肥肉 不要贪多啊 肠道这个菌群啊 它是真的扛不住 这些高脂肪高热量的食物的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2215,
+    "seg_id": "S8-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "油——高脂饮食伤肠道",
+    "template": "step_arrow",
+    "items": [
+      "高脂高热量食物冲击肠道菌群",
+      "菌群失衡破坏肠道屏障",
+      "肠癌风险随之升高"
+    ],
+    "atoms_text": "你吃太多了的话 会搞乱这个菌群平衡 破坏你肠道的屏障 肠癌就容易找上门",
+    "needs_animation": true,
+    "label": "高脂饮食搅乱肠道菌群平衡并破坏肠道屏障"
+  },
+  {
+    "global_index": 2216,
+    "seg_id": "S8-L3",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "油——高脂饮食伤肠道",
+    "template": "hero_text",
+    "items": [
+      "能不吃就不吃，清淡饮食身体更好"
+    ],
+    "atoms_text": "能够不吃就不吃 换一点清淡的 身体更舒服",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2217,
+    "seg_id": "S9-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "酒——过量饮酒肝癌风险翻倍",
+    "template": "warning_alert",
+    "items": [
+      "过量饮酒肝癌风险成倍飙升"
+    ],
+    "atoms_text": "第八个就是酒 对吧 过量饮酒 肝癌的风险是成倍的飙升的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2218,
+    "seg_id": "S9-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "酒——过量饮酒肝癌风险翻倍",
+    "template": "step_arrow",
+    "items": [
+      "酒精持续损伤肝细胞",
+      "逐步发展为酒精性肝病",
+      "肝病一步步演变为肝癌"
+    ],
+    "atoms_text": "喝酒伤肝的道理 大家都懂 酒精性肝病 一步一步的 可能发展成肝癌啊",
+    "needs_animation": true,
+    "label": "酒精性肝病逐步发展为肝癌的病理进程"
+  },
+  {
+    "global_index": 2219,
+    "seg_id": "S9-L3",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "酒——过量饮酒肝癌风险翻倍",
+    "template": "split_column",
+    "items": [
+      "过量饮酒",
+      "以茶代酒",
+      "伤肝增加肝癌风险",
+      "养肝护体更健康"
+    ],
+    "atoms_text": "能不能 能不喝就不喝 用茶水代替 养肝又健康",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2220,
+    "seg_id": "S10-L1",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "总结收尾",
+    "template": "color_grid",
+    "items": [
+      "烟·霉·咸·烫",
+      "熏·腌·油·酒"
+    ],
+    "atoms_text": "烟霉限烫熏腌油酒 这八个字 牢牢的记在心里面啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2221,
+    "seg_id": "S10-L2",
+    "bp_title": "防癌八字诀：远离这八类风险",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "健康生活方式，就是最好的防癌处方"
+    ],
+    "atoms_text": "健康的生活方式 本身就是 最好的这个防癌的处方 懂了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2222,
+    "seg_id": "S1-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "头晕≠脑供血不足，原因有6种"
+    ],
+    "atoms_text": "头晕是脑供血不足吗 头晕都有什么原因 今天啊 我们一次性说清楚啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2223,
+    "seg_id": "S2-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "耳石症：最常见头晕",
+    "template": "number_center",
+    "items": [
+      "01 耳石症"
+    ],
+    "atoms_text": "第一个就是耳石症 这个是临床上面 最常见的头晕的原因",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2224,
+    "seg_id": "S2-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "耳石症：最常见头晕",
+    "template": "body_annotate",
+    "items": [
+      "内耳耳石负责平衡感知",
+      "耳石脱落后位置随头部移动",
+      "起床/躺下/转头时触发眩晕"
+    ],
+    "atoms_text": "我们这个内耳 它有负责平衡的 一个耳石 一旦脱落位移的话 头部位置改变 比如说起床啊 躺下啊 转头啊 对吧",
+    "needs_animation": true,
+    "label": "内耳耳石从平衡结构中脱落位移"
+  },
+  {
+    "global_index": 2225,
+    "seg_id": "S2-L3",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "耳石症：最常见头晕",
+    "template": "list_fade",
+    "items": [
+      "眩晕短暂，持续几秒到十几秒",
+      "体位改变时突然发作",
+      "无耳鸣、无听力下降"
+    ],
+    "atoms_text": "这个时候耳石它就会 刺激平衡感受器 引发一个短暂剧烈的眩晕 持续几秒到十几秒",
+    "needs_animation": true,
+    "label": "脱落耳石刺激平衡感受器引发眩晕"
+  },
+  {
+    "global_index": 2226,
+    "seg_id": "S2-L4",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "耳石症：最常见头晕",
+    "template": "myth_buster",
+    "items": [
+      "会有耳鸣听力下降",
+      "无耳鸣，无听力变化",
+      "会有肢体麻木",
+      "无肢体麻木症状"
+    ],
+    "atoms_text": "没有耳鸣听力下降 也没有肢体的麻木 对吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2227,
+    "seg_id": "S2-L5",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "耳石症：最常见头晕",
+    "template": "step_arrow",
+    "items": [
+      "挂耳鼻喉科或神经内科",
+      "医生进行手法复位",
+      "症状快速缓解"
+    ],
+    "atoms_text": "恢复也很简单 你挂一个耳鼻喉科 或者神经内科的号 对吧 让医生通过手法复位 就可以快速的缓解",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2228,
+    "seg_id": "S3-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "血压异常引发头晕",
+    "template": "number_center",
+    "items": [
+      "02 血压问题"
+    ],
+    "atoms_text": "第二个就是血压的问题 对吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2229,
+    "seg_id": "S3-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "血压异常引发头晕",
+    "template": "split_column",
+    "items": [
+      "血压骤升",
+      "头晕、头胀感明显",
+      "血压过低（<90/60）",
+      "头晕、乏力、眼前发黑"
+    ],
+    "atoms_text": "血压骤升的时候 脑血管压力增加 对吧 它会出现这个头晕头胀",
+    "needs_animation": true,
+    "label": "血压骤升时脑血管压力增加"
+  },
+  {
+    "global_index": 2230,
+    "seg_id": "S3-L3",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "血压异常引发头晕",
+    "template": "warning_alert",
+    "items": [
+      "体位突然改变时头晕更明显",
+      "脑灌注不足可致眼前发黑"
+    ],
+    "atoms_text": "血压太低呢 就比如说你低于九十六十毫米汞柱的时候 脑部灌注不足 也会引发这个头晕乏力眼睛发黑 尤其是体位突然改变的时候 对吧 更加明显",
+    "needs_animation": true,
+    "label": "低血压时脑部灌注不足导致缺血"
+  },
+  {
+    "global_index": 2231,
+    "seg_id": "S3-L4",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "血压异常引发头晕",
+    "template": "warning_alert",
+    "items": [
+      "高血压患者严禁擅自停药减药"
+    ],
+    "atoms_text": "所以高血压的病人啊 严禁擅自停药或者减药 一定要遵医嘱啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2232,
+    "seg_id": "S4-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "颈椎病变压迫供血",
+    "template": "number_center",
+    "items": [
+      "03 颈椎问题"
+    ],
+    "atoms_text": "第三个就是颈椎 长期低头 颈椎退变 会引发一个颈源性的头晕 对吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2233,
+    "seg_id": "S4-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "颈椎病变压迫供血",
+    "template": "step_arrow",
+    "items": [
+      "颈椎长期退变",
+      "压迫椎动脉",
+      "脑部供血受影响",
+      "转头低头时头晕发作"
+    ],
+    "atoms_text": "颈椎病变压迫这个椎动脉 导致脑部供血受影响 多在你转头或者低头的时候发作 对吧",
+    "needs_animation": true,
+    "label": "颈椎病变压迫椎动脉导致脑部供血受阻"
+  },
+  {
+    "global_index": 2234,
+    "seg_id": "S4-L3",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "颈椎病变压迫供血",
+    "template": "list_fade",
+    "items": [
+      "颈部僵硬不适",
+      "肩背部酸痛",
+      "部分患者手臂发麻"
+    ],
+    "atoms_text": "它会伴有一个颈部的僵硬 肩背部的酸痛 部分患者还会出现手臂发麻",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2235,
+    "seg_id": "S4-L4",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "颈椎病变压迫供血",
+    "template": "split_column",
+    "items": [
+      "改善低头姿势",
+      "减少颈椎压力",
+      "正规理疗康复",
+      "缓解颈椎症状"
+    ],
+    "atoms_text": "平时要注意改善姿势啊 或者你考虑正规的理疗缓解",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2236,
+    "seg_id": "S5-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "贫血导致头晕",
+    "template": "color_grid",
+    "items": [
+      "面色苍白",
+      "心慌气短",
+      "指甲发白",
+      "头晕乏力"
+    ],
+    "atoms_text": "第四个就是贫血 贫血引起的头晕啊 它通常会有伴随这个面色苍白 对吧 心慌气短 指甲发白",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2237,
+    "seg_id": "S5-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "贫血导致头晕",
+    "template": "branch_path",
+    "items": [
+      "血常规检查确认贫血类型",
+      "缺铁性贫血→补铁治疗",
+      "巨幼细胞性贫血→补充叶酸/B12"
+    ],
+    "atoms_text": "最常见的原因就是缺铁性贫血 和这个巨幼细胞性贫血 查一个血常规 对吧 对症治疗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2238,
+    "seg_id": "S6-L1",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "焦虑失眠也会头晕",
+    "template": "hero_text",
+    "items": [
+      "睡眠与情绪，被忽视的头晕根源"
+    ],
+    "atoms_text": "第五个呢就是焦虑和睡眠 你不要小看你这个睡眠",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2239,
+    "seg_id": "S6-L2",
+    "bp_title": "头晕的6大原因一次说清楚",
+    "scene_title": "焦虑失眠也会头晕",
+    "template": "step_arrow",
+    "items": [
+      "长期熬夜失眠焦虑紧张",
+      "植物神经功能紊乱",
+      "头晕头沉、脑子不清醒",
+      "心慌胸闷、情绪低落"
+    ],
+    "atoms_text": "长期熬夜失眠 焦虑紧张 会导致植物神经功能紊乱 引发头晕头沉 头脑不清醒 还伴随有心慌胸闷 出汗 情绪低落",
+    "needs_animation": true,
+    "label": "长期焦虑失眠导致植物神经功能紊乱"
+  }
+]

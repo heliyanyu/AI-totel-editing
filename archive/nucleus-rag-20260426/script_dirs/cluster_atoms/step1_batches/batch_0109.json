@@ -1,0 +1,565 @@
+[
+  {
+    "global_index": 4360,
+    "seg_id": "S2-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "形象类比",
+    "template": "hero_text",
+    "items": [
+      "他汀 = 强力去油剂"
+    ],
+    "atoms_text": "那他汀呢 就是 强力去油剂",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4361,
+    "seg_id": "S2-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "形象类比",
+    "template": "split_column",
+    "items": [
+      "传统款清洁剂",
+      "升级款猛力清洁剂",
+      "经验老道，应用广泛",
+      "劲更猛，用量更少"
+    ],
+    "atoms_text": "那阿托伐他汀呢 就像 传统款的清洁剂 经验老道哎 应用广泛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4362,
+    "seg_id": "S2-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "形象类比",
+    "template": "split_column",
+    "items": [
+      "传统配方",
+      "新一代强效",
+      "适用场景广",
+      "低剂量高效能"
+    ],
+    "atoms_text": "那瑞舒伐他汀呢 像升级款 劲儿更猛 用量更少",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4363,
+    "seg_id": "S3-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别一：降脂强度",
+    "template": "hero_text",
+    "items": [
+      "区别一：降脂强度"
+    ],
+    "atoms_text": "第一个区别啊 就是 降脂的强度",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4364,
+    "seg_id": "S3-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别一：降脂强度",
+    "template": "split_column",
+    "items": [
+      "降脂效果较弱",
+      "降脂效果更强",
+      "同等剂量下",
+      "强度更胜一筹"
+    ],
+    "atoms_text": "那同样剂量下呀 这个瑞舒伐他汀的 降脂效果 要比阿托伐他汀更强",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4365,
+    "seg_id": "S3-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别一：降脂强度",
+    "template": "number_center",
+    "items": [
+      "10mg"
+    ],
+    "atoms_text": "咱们打个比方啊 十毫克瑞舒伐他汀啊 降低坏胆固醇的幅度呢 相当于 二十到四十毫克的 阿托伐他汀",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4366,
+    "seg_id": "S3-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别一：降脂强度",
+    "template": "branch_path",
+    "items": [
+      "需要大幅度降血脂？",
+      "优先考虑瑞舒伐他汀",
+      "阿托伐他汀同样有效"
+    ],
+    "atoms_text": "如果呢 你需要 大幅度的降血脂 这个瑞舒伐他汀呢 可能更合适",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4367,
+    "seg_id": "S4-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别二：代谢途径",
+    "template": "hero_text",
+    "items": [
+      "区别二：代谢途径"
+    ],
+    "atoms_text": "第二个区别 代谢的途径",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4368,
+    "seg_id": "S4-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别二：代谢途径",
+    "template": "step_arrow",
+    "items": [
+      "阿托伐他汀进入体内",
+      "经肝脏 CYP3A4 酶代谢",
+      "多种药物共走此通路"
+    ],
+    "atoms_text": "那阿托伐他汀呢 它主要是 经过肝脏 一个叫 CYP3A4的酶 代谢 那很多的药啊 都是走这条路",
+    "needs_animation": true,
+    "label": "阿托伐他汀经肝脏CYP3A4酶代谢的途径"
+  },
+  {
+    "global_index": 4369,
+    "seg_id": "S4-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别二：代谢途径",
+    "template": "warning_alert",
+    "items": [
+      "合用降压药/抗真菌药/抗生素易\"堵车\"",
+      "增加肌肉疼痛和肝损伤风险"
+    ],
+    "atoms_text": "如果同时吃了 某些降压药 抗真菌药 抗生素啊 就容易堵车 增加那个 肌肉疼痛 肝损伤的风险",
+    "needs_animation": true,
+    "label": "多种药物竞争CYP3A4酶通道导致代谢拥堵和不良反应"
+  },
+  {
+    "global_index": 4370,
+    "seg_id": "S4-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别二：代谢途径",
+    "template": "myth_buster",
+    "items": [
+      "CYP3A4 通路",
+      "瑞舒伐他汀不走此通路",
+      "与多种药物存在相互作用",
+      "与其他药物相互作用更少"
+    ],
+    "atoms_text": "但瑞舒伐他汀呢 它呀 不走这条路 跟其他药物的 相互作用啊 更少 安全性呢 相对更高",
+    "needs_animation": true,
+    "label": "瑞舒伐他汀绕过CYP3A4酶的独立代谢途径"
+  },
+  {
+    "global_index": 4371,
+    "seg_id": "S5-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别三：排泄方式",
+    "template": "hero_text",
+    "items": [
+      "区别三：排泄方式"
+    ],
+    "atoms_text": "第三个区别 排泄方式",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4372,
+    "seg_id": "S5-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别三：排泄方式",
+    "template": "split_column",
+    "items": [
+      "主要经肝脏代谢排泄",
+      "部分经肾脏代谢排泄",
+      "阿托伐他汀",
+      "瑞舒伐他汀"
+    ],
+    "atoms_text": "那阿托伐他汀呢 主要是 经肝脏代谢 瑞舒伐他汀呢 是部分 经肾脏代谢",
+    "needs_animation": true,
+    "label": "阿托伐他汀经肝脏排泄与瑞舒伐他汀部分经肾脏排泄的对比"
+  },
+  {
+    "global_index": 4373,
+    "seg_id": "S5-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "区别三：排泄方式",
+    "template": "branch_path",
+    "items": [
+      "患者有严重肾病？",
+      "阿托伐他汀更具优势",
+      "瑞舒伐他汀需谨慎使用"
+    ],
+    "atoms_text": "这也意味着 如果患者 有严重的肾病啊 这个瑞舒伐他汀 要谨慎使用 而阿托伐他汀呢 在这方面 是更具有优势的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4374,
+    "seg_id": "S6-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "如何选药",
+    "template": "hero_text",
+    "items": [
+      "到底该怎么选？"
+    ],
+    "atoms_text": "那到底应该怎么选呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4375,
+    "seg_id": "S6-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "如何选药",
+    "template": "color_grid",
+    "items": [
+      "年轻人需强效降脂",
+      "正在服用多种药物",
+      "目标降幅较大",
+      "对药物相互作用敏感"
+    ],
+    "atoms_text": "如果说 你是年轻人 需要强效降脂 同时呢 有吃了很多的药 这个瑞舒伐他汀呢 可能更适合",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4376,
+    "seg_id": "S6-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "如何选药",
+    "template": "color_grid",
+    "items": [
+      "老年人",
+      "肾功能不太好",
+      "用药经验丰富场景",
+      "追求更稳妥方案"
+    ],
+    "atoms_text": "如果说 你是老年人呢 肾功能不太好 阿托伐他汀呢 可能更稳当一点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4377,
+    "seg_id": "S6-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "如何选药",
+    "template": "warning_alert",
+    "items": [
+      "具体选哪种，必须听医生的"
+    ],
+    "atoms_text": "当然呢 具体选哪一个 咱们呢 一定要听医生的 别自己随便乱吃药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4378,
+    "seg_id": "S7-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀，一分钟讲清楚",
+    "scene_title": "互动收尾",
+    "template": "hero_text",
+    "items": [
+      "你吃的是哪种他汀？评论区告诉我"
+    ],
+    "atoms_text": "你吃的是 哪一种他汀呢 评论区告诉我",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4379,
+    "seg_id": "S1-L1",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "开场引题",
+    "template": "hero_text",
+    "items": [
+      "心内科张医生为你解答"
+    ],
+    "atoms_text": "大家好 我是 咱那科的张医生",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4380,
+    "seg_id": "S1-L2",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "开场引题",
+    "template": "list_fade",
+    "items": [
+      "氨氯地平",
+      "左氨氯地平"
+    ],
+    "atoms_text": "很多高血压朋友啊 都吃过 氨氯地平 后来发现呢 还有一个药 叫左氨氯地平",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4381,
+    "seg_id": "S1-L3",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "开场引题",
+    "template": "hero_text",
+    "items": [
+      "只差一个字，区别在哪里"
+    ],
+    "atoms_text": "那这两个名字呀 咱们只差一个字 到底有什么区别呢 这也是 很多患者朋友 问我的一个问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4382,
+    "seg_id": "S1-L4",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "开场引题",
+    "template": "hero_text",
+    "items": [
+      "今天讲清楚这个问题"
+    ],
+    "atoms_text": "今天呢 就跟大家讲清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4383,
+    "seg_id": "S2-L1",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "双胞胎兄弟原理",
+    "template": "split_column",
+    "items": [
+      "左旋体（弟弟）",
+      "右旋体（哥哥）",
+      "占氨氯地平的一半",
+      "占氨氯地平的一半"
+    ],
+    "atoms_text": "咱们呢 把氨氯地平 想象成 一对双胞胎兄弟啊 左旋体和右旋体 各占一半",
+    "needs_animation": true,
+    "label": "氨氯地平由左旋体和右旋体各占一半的分子组成"
+  },
+  {
+    "global_index": 4384,
+    "seg_id": "S2-L2",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "双胞胎兄弟原理",
+    "template": "hero_text",
+    "items": [
+      "兄弟俩共住氨氯地平这个\"房子\""
+    ],
+    "atoms_text": "那这对兄弟啊 一起住在 一个叫氨氯地平的 一个房子里面",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4385,
+    "seg_id": "S2-L3",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "双胞胎兄弟原理",
+    "template": "number_center",
+    "items": [
+      "1000倍"
+    ],
+    "atoms_text": "但研究发现啊 这个弟弟啊 左旋体啊 他真是干活能手 降压效果 是哥哥右旋体的 一千倍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4386,
+    "seg_id": "S2-L4",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "双胞胎兄弟原理",
+    "template": "warning_alert",
+    "items": [
+      "头痛头晕、脚踝水肿、脸发红",
+      "副作用几乎全来自右旋体"
+    ],
+    "atoms_text": "哥哥呀 几乎不干活 还爱惹麻烦 头痛头晕 脚踝水肿 脸发红 都是他的副作用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4387,
+    "seg_id": "S2-L5",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "双胞胎兄弟原理",
+    "template": "hero_text",
+    "items": [
+      "去掉右旋体，只留左旋体，诞生左氨氯地平"
+    ],
+    "atoms_text": "那于是啊 科学家想 既然呢 这哥哥不干活还添乱 不如啊 让他出去吧 这就诞生了 左氨氯地平 只留下了 能干的弟弟",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4388,
+    "seg_id": "S3-L1",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "两者核心区别",
+    "template": "split_column",
+    "items": [
+      "氨氯地平",
+      "左氨氯地平",
+      "+ 右旋体共同作用",
+      "仅左旋体单独发挥作用"
+    ],
+    "atoms_text": "所以啊 两者的区别啊 很简单 氨氯地平啊 是兄弟俩一起上 左氨氯地平呢 是弟弟单干",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4389,
+    "seg_id": "S3-L2",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "两者核心区别",
+    "template": "myth_buster",
+    "items": [
+      "5mg 常规剂量",
+      "2.5mg 降压效果相当",
+      "水肿、脸红副作用发生率较高",
+      "水肿、脸红概率明显降低"
+    ],
+    "atoms_text": "效果上呢 是二点五毫克的左氨氯地平的降压能力啊 相当于 五毫克的氨氯地平 剂量减半啊 这个副作用啊 也更少 水肿脸红的概率 也明显降低",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4390,
+    "seg_id": "S4-L1",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "如何选择用药",
+    "template": "hero_text",
+    "items": [
+      "你吃哪个？关键看身体反应"
+    ],
+    "atoms_text": "那怎么选呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4391,
+    "seg_id": "S4-L2",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "如何选择用药",
+    "template": "branch_path",
+    "items": [
+      "正在服用氨氯地平",
+      "血压稳定无不适，继续服用",
+      "脚踝水肿/脸红/心慌，考虑换药"
+    ],
+    "atoms_text": "如果说 你吃氨氯地平 血压控制的很好 没有啥不舒服 那咱们继续吃 没有问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4392,
+    "seg_id": "S4-L3",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "如何选择用药",
+    "template": "hero_text",
+    "items": [
+      "与医生商量，换左氨氯地平可减轻水肿"
+    ],
+    "atoms_text": "但如果呢 你吃完之后啊 脚踝水肿 脸红 还有心慌啊 耐受不了 那咱们就可以 跟医生商量一下 换成左氨氯地平 那很多人呢 水肿啊 就会明显减轻",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4393,
+    "seg_id": "S5-L1",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "总结与结尾",
+    "template": "list_fade",
+    "items": [
+      "右旋体对血管内皮有保护作用",
+      "有助于延缓动脉硬化进展"
+    ],
+    "atoms_text": "当然呢 也提醒一句 这个右旋体啊 虽然它不降压 但是研究结果也显示 它对血管的内皮 动脉硬化呀 有其他的好处",
+    "needs_animation": true,
+    "label": "右旋体对血管内皮和动脉硬化的保护作用"
+  },
+  {
+    "global_index": 4394,
+    "seg_id": "S5-L2",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "总结与结尾",
+    "template": "hero_text",
+    "items": [
+      "没有绝对好坏，适合你的才最好"
+    ],
+    "atoms_text": "所以啊 没有绝对的好坏之分 适合你的 才是最好的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4395,
+    "seg_id": "S5-L3",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "总结与结尾",
+    "template": "hero_text",
+    "items": [
+      "你吃过哪一种？评论区告诉我"
+    ],
+    "atoms_text": "你吃过哪一种 评论区告诉我",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4396,
+    "seg_id": "S1-L1",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "运动对糖尿病人当然好"
+    ],
+    "atoms_text": "大家好 我是 咱们科的 张医生 运动呢 对于糖尿病人 到底好不好 当然好 没争议",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4397,
+    "seg_id": "S1-L2",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "开场点题",
+    "template": "warning_alert",
+    "items": [
+      "很多糖友一开始就容易踩坑"
+    ],
+    "atoms_text": "但是 我发现呢 很多糖友 一开始运动的时候 他就特别容易踩坑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4398,
+    "seg_id": "S1-L3",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "开场点题",
+    "template": "split_column",
+    "items": [
+      "白练",
+      "危险"
+    ],
+    "atoms_text": "那有的坑呢 是踩了 真是白练啊 那有的坑 踩的是危险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4399,
+    "seg_id": "S1-L4",
+    "bp_title": "糖尿病运动四大坑，踩错一个真要命",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "今天讲清楚最常见四个坑"
+    ],
+    "atoms_text": "今天呢 把最常见的四个坑 给你讲清楚",
+    "needs_animation": false,
+    "label": ""
+  }
+]

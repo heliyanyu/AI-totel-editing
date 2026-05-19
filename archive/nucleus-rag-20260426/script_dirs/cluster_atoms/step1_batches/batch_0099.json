@@ -1,0 +1,566 @@
+[
+  {
+    "global_index": 3960,
+    "seg_id": "S1-L3",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "头晕很常见但病因天差地别",
+    "template": "color_grid",
+    "items": [
+      "高血压",
+      "颈椎病"
+    ],
+    "atoms_text": "那最常见的两个嫌疑犯 一个是高血压 另外一个呢 哎 就是我们的颈椎病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3961,
+    "seg_id": "S1-L4",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "头晕很常见但病因天差地别",
+    "template": "hero_text",
+    "items": [
+      "一分钟教你简单鉴别两种头晕"
+    ],
+    "atoms_text": "今天呢 一分钟 教你简单鉴别",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3962,
+    "seg_id": "S2-L1",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "用房子比喻理解病因",
+    "template": "hero_text",
+    "items": [
+      "把身体想象成一栋房子"
+    ],
+    "atoms_text": "咱们呢 可以把身体 想象成一栋房子",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3963,
+    "seg_id": "S2-L2",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "用房子比喻理解病因",
+    "template": "body_annotate",
+    "items": [
+      "水管压力过大冲击脑壁",
+      "昏沉头重像戴了顶湿帽子"
+    ],
+    "atoms_text": "那高血压的问题呢 就出在水管里 这个压力太大 水流冲击墙壁 这个脑袋就会感觉 昏昏沉沉 头重脚轻 那就像戴了顶湿帽子",
+    "needs_animation": true,
+    "label": "血压升高时血流冲击脑部血管壁导致头昏沉"
+  },
+  {
+    "global_index": 3964,
+    "seg_id": "S2-L3",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "用房子比喻理解病因",
+    "template": "body_annotate",
+    "items": [
+      "颈部神经血管被卡住",
+      "信号传不到大脑",
+      "转头时天旋地转加重"
+    ],
+    "atoms_text": "那颈椎病的问题呢 是出在电线上面啊 这脖子里边啊 哎 这有很多神经血管 被卡住 这个信号啊 传不到大脑里边 头晕时候啊 常常伴有的 这个脖子僵硬 特别有的人 晕的时候 哎你这么转头的时候 加重 像天旋地转",
+    "needs_animation": true,
+    "label": "颈椎病变压迫神经血管致信号无法传至大脑"
+  },
+  {
+    "global_index": 3965,
+    "seg_id": "S3-L1",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "两种头晕感觉对比",
+    "template": "hero_text",
+    "items": [
+      "两个关键点帮你区分头晕"
+    ],
+    "atoms_text": "怎么区分 两个关键点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3966,
+    "seg_id": "S3-L2",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "两种头晕感觉对比",
+    "template": "split_column",
+    "items": [
+      "血压越高越昏沉头胀",
+      "像没睡醒头重脚轻"
+    ],
+    "atoms_text": "第一个 看头晕的感觉 那高血压的头晕呢 多半是 昏昏沉沉头胀 像没睡醒似的 这血压越高啊 越明显 当然呢 有的人血压二百 他也没有症状",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3967,
+    "seg_id": "S3-L3",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "两种头晕感觉对比",
+    "template": "split_column",
+    "items": [
+      "站不稳像坐船",
+      "转头仰头时突然发作"
+    ],
+    "atoms_text": "颈椎病的晕呢 往往是 哎 头晕转站不稳 哎 像坐船似的 特别是转头的时候 或者是 哎这样仰头的时候 突然发作",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3968,
+    "seg_id": "S4-L1",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "简单自测两步走",
+    "template": "step_arrow",
+    "items": [
+      "坐下休息五分钟",
+      "量血压收缩压超140",
+      "舒张压超90则多为血压性头晕"
+    ],
+    "atoms_text": "第二个 做一个简单自测 你先坐下来 休息五分钟 量个血压 如果呀 收缩压超过一百四啊 嗯 舒张压超过九十 那个头晕呢 你多半呢 是血压引起的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3969,
+    "seg_id": "S4-L2",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "简单自测两步走",
+    "template": "branch_path",
+    "items": [
+      "慢慢转头至最大限度停几秒",
+      "无加重→颈椎嫌疑低",
+      "头晕加重或恶心→颈椎嫌疑大"
+    ],
+    "atoms_text": "但如果你血压正常 咱们再试这个动作 慢慢的 把头转向一侧 哎 看最大限度的时候 停几秒 如果头晕加重啊 甚至出现了 恶心想吐啊 那这个颈椎病嫌疑 就很大了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3970,
+    "seg_id": "S5-L1",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "警示：别扛别乱吃药",
+    "template": "warning_alert",
+    "items": [
+      "初步自测不能替代医生诊断"
+    ],
+    "atoms_text": "当然呢 这也只是初步判断 真正的诊断呢 还是要靠我们医生 结合检查",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3971,
+    "seg_id": "S5-L2",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "警示：别扛别乱吃药",
+    "template": "myth_buster",
+    "items": [
+      "头晕反复发作硬扛就好了",
+      "头晕反复务必就医检查",
+      "听别人说好使就跟着吃药",
+      "到正规医院让医生开药治疗"
+    ],
+    "atoms_text": "如果头晕呢 反复发作 千万别自己扛 也别自己瞎吃药啊 听别人说 我吃这个药好使 那你也吃 咱们呢 要到正规的医院去就诊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3972,
+    "seg_id": "S6-L1",
+    "bp_title": "头晕是高血压还是颈椎病？一分钟学会自测",
+    "scene_title": "互动收尾",
+    "template": "hero_text",
+    "items": [
+      "你是哪种晕？评论区告诉我"
+    ],
+    "atoms_text": "你是否天旋地转呢 你是什么样的晕 评论区可以告诉我哦",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3973,
+    "seg_id": "S1-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "hero_text",
+    "items": [
+      "门诊真实案例引发的控糖反思"
+    ],
+    "atoms_text": "大家好 我是 讲内科的 张医生 跟大家分享 一个门诊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3974,
+    "seg_id": "S1-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "number_center",
+    "items": [
+      "56"
+    ],
+    "atoms_text": "一个阿姨 五十六岁 糖尿病 三年多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3975,
+    "seg_id": "S1-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "list_fade",
+    "items": [
+      "米饭只吃小半碗",
+      "甜食一口不碰",
+      "水果也严格控制"
+    ],
+    "atoms_text": "她其实 特别自律 她米饭呢 只吃小半碗 甜食 一口不碰 水果也控着",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3976,
+    "seg_id": "S1-L4",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "number_center",
+    "items": [
+      "7.8%"
+    ],
+    "atoms_text": "结果一查 糖化血红蛋白 七点八",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3977,
+    "seg_id": "S1-L5",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "hero_text",
+    "items": [
+      "我都这样了，还能怎么办"
+    ],
+    "atoms_text": "她当时 眼圈就红了 她说 我都这样了 我还能怎么办呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3978,
+    "seg_id": "S1-L6",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "warning_alert",
+    "items": [
+      "你测过餐后两小时血糖吗"
+    ],
+    "atoms_text": "我问她 我说 你测没测过 餐后两小时血糖",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3979,
+    "seg_id": "S1-L7",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "myth_buster",
+    "items": [
+      "只测空腹，五六点多觉得没问题",
+      "空腹达标不等于血糖控制达标"
+    ],
+    "atoms_text": "她说 她没有 她就测空腹 哎 五点多六点多 她觉得 我一直都挺好的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3980,
+    "seg_id": "S2-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "空腹vs餐后的认知误区",
+    "template": "warning_alert",
+    "items": [
+      "只盯空腹血糖，忽视餐后波动",
+      "空腹正常≠整体控制良好"
+    ],
+    "atoms_text": "那问题啊 就在这儿啊 很多人控糖啊 他就盯着那空腹 你量一下 觉得不高 就没事儿了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3981,
+    "seg_id": "S2-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "空腹vs餐后的认知误区",
+    "template": "split_column",
+    "items": [
+      "空腹血糖",
+      "餐后血糖",
+      "仅反映一个时间点",
+      "影响糖化更大的主因"
+    ],
+    "atoms_text": "但 糖化血红蛋白 是反映 过去两到三个月的 一个平均水平 空腹 只是一小部分 这个餐后 才是主要的",
+    "needs_animation": true,
+    "label": "糖化血红蛋白反映两到三个月平均血糖水平的原理"
+  },
+  {
+    "global_index": 3982,
+    "seg_id": "S2-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "空腹vs餐后的认知误区",
+    "template": "step_arrow",
+    "items": [
+      "三餐后血糖反复飙升",
+      "持续三个月平均叠加",
+      "糖化血红蛋白必然偏高"
+    ],
+    "atoms_text": "你空腹 再好看呢 这个三餐后 这血糖 天天往上窜 糖化 就一定会高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3983,
+    "seg_id": "S3-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "一周监测揭露真相",
+    "template": "vertical_timeline",
+    "items": [
+      "第一步：回家连续测一周餐后血糖",
+      "结果：空腹确实不高",
+      "发现：早餐后经常超过11"
+    ],
+    "atoms_text": "然后呢 我就让那个阿姨 回去测了 一周的餐后血糖",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3984,
+    "seg_id": "S3-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "一周监测揭露真相",
+    "template": "number_center",
+    "items": [
+      "11+"
+    ],
+    "atoms_text": "结果你们想想 她空腹 真的不高 但是 早餐后啊 经常就达到 十一以上 哎 这三餐以后 下来 都是餐后很高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3985,
+    "seg_id": "S3-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "一周监测揭露真相",
+    "template": "hero_text",
+    "items": [
+      "餐后天天高，糖化怎么可能不高"
+    ],
+    "atoms_text": "那三个月下来 你糖化 能不高吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3986,
+    "seg_id": "S4-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "白粥的升糖陷阱",
+    "template": "warning_alert",
+    "items": [
+      "白粥配咸菜，煮越烂升糖越猛"
+    ],
+    "atoms_text": "一碗早餐 哎 粥配咸菜 标配 真的是 煮的越烂 哎 升的越猛",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3987,
+    "seg_id": "S4-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "白粥的升糖陷阱",
+    "template": "myth_buster",
+    "items": [
+      "不吃甜食已经很努力了",
+      "一碗白粥把努力全部追回来"
+    ],
+    "atoms_text": "你不吃甜食 省下来 那那点努力啊 一碗白粥啊 全给你追回来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3988,
+    "seg_id": "S4-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "白粥的升糖陷阱",
+    "template": "split_column",
+    "items": [
+      "白粥",
+      "鸡蛋",
+      "升糖快，饱腹感差",
+      "升糖慢，饱腹感强"
+    ],
+    "atoms_text": "那咱换成啥呢 鸡蛋 牛奶 坚果 升糖慢 饱腹感还强",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3989,
+    "seg_id": "S5-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "餐后血糖的几个隐形坑",
+    "template": "hero_text",
+    "items": [
+      "除了白粥，这几个坑也要注意"
+    ],
+    "atoms_text": "除了粥啊 还有几个坑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3990,
+    "seg_id": "S5-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "餐后血糖的几个隐形坑",
+    "template": "branch_path",
+    "items": [
+      "水果什么时候吃",
+      "两餐之间吃低升糖水果",
+      "饭后马上吃等于火上浇油"
+    ],
+    "atoms_text": "饭后啊 马上吃水果 等于 火上浇油 水果要放在 两餐之间吃 当然 苹果草莓柚子啊 这种 升糖慢的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3991,
+    "seg_id": "S5-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "餐后血糖的几个隐形坑",
+    "template": "split_column",
+    "items": [
+      "10分钟吃完一碗面",
+      "细嚼慢咽慢慢吃",
+      "餐后血糖飙升明显更高",
+      "餐后血糖上升更平稳"
+    ],
+    "atoms_text": "吃饭太快的 十分钟 啪啪 哎 一碗面 都吃进去了 餐后血糖 肯定比慢慢吃 要高一大截",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3992,
+    "seg_id": "S5-L4",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "餐后血糖的几个隐形坑",
+    "template": "list_fade",
+    "items": [
+      "红烧肉含大量糖",
+      "糖醋排骨高糖陷阱",
+      "鱼香肉丝暗藏加糖"
+    ],
+    "atoms_text": "嗯 还有一种隐形糖 就是 红烧肉啊 糖醋排骨啊 鱼香肉丝 你以为 你没碰甜呢 其实啊 那个菜里边 它都放糖了 真的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3993,
+    "seg_id": "S6-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "三个月后的复查结果",
+    "template": "split_column",
+    "items": [
+      "7.8%",
+      "6.9%",
+      "干预前糖化值",
+      "三个月后糖化值"
+    ],
+    "atoms_text": "那你三个月查下来 你这糖化啊 那从七点八 降到六点九 是不是",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3994,
+    "seg_id": "S6-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "三个月后的复查结果",
+    "template": "hero_text",
+    "items": [
+      "方向一变，结果自然不同"
+    ],
+    "atoms_text": "她说 哎 那我啥也没做 那你把 这个饮食规律 给它改变一下 是不是 就好很多了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3995,
+    "seg_id": "S6-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "三个月后的复查结果",
+    "template": "hero_text",
+    "items": [
+      "改变饮食规律，糖化就能好很多"
+    ],
+    "atoms_text": "嗯 方向一变 这个结果 自然就下来了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3996,
+    "seg_id": "S7-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "自查行动指南",
+    "template": "step_arrow",
+    "items": [
+      "买血糖仪，饭后两小时扎一下",
+      "连续测几天，找出哪顿最高",
+      "精准定位问题，告别瞎控糖"
+    ],
+    "atoms_text": "但是如果说 你也是 空腹还行 糖化高 别着急怀疑自己 再买个血糖仪 饭后两小时 扎一下 连续测几天 你看看 你到底 哪顿饭 让你飙升 那你不测 永远都在瞎控",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3997,
+    "seg_id": "S7-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "自查行动指南",
+    "template": "list_fade",
+    "items": [
+      "戒掉白粥换低升糖早餐",
+      "水果挪到两餐之间吃",
+      "吃饭速度放慢",
+      "警惕菜肴里的隐形糖"
+    ],
+    "atoms_text": "然后 把白粥戒了 水果挪一挪 吃饭再慢一点 注意啊 菜里边的隐形糖",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3998,
+    "seg_id": "S7-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "自查行动指南",
+    "template": "number_center",
+    "items": [
+      "2-3"
+    ],
+    "atoms_text": "给咱们自己 两到三个月的时间 你下次复查 大概率 你就能看到变化",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3999,
+    "seg_id": "S7-L4",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "自查行动指南",
+    "template": "myth_buster",
+    "items": [
+      "一直跟空腹血糖较劲",
+      "真正的问题在餐后血糖"
+    ],
+    "atoms_text": "你只是说 你以前 一直就是 在这个 跟这个空腹血糖较劲 真正的问题呢 是在餐后",
+    "needs_animation": false,
+    "label": ""
+  }
+]

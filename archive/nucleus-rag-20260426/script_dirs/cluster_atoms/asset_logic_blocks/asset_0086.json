@@ -1,0 +1,23 @@
+[
+  {
+    "file": "ANS00425_The Heart.mp4",
+    "title": "ANS00425 The Heart",
+    "start": 0.0,
+    "end": 8.96,
+    "text_en": "The heart is a muscular organ that pumps blood through the body. It consists of four chambers."
+  },
+  {
+    "file": "ANS00425_The Heart.mp4",
+    "title": "ANS00425 The Heart",
+    "start": 8.96,
+    "end": 17.08,
+    "text_en": "The upper chambers are the right and left atria. The lower chambers are the right and left ventricles."
+  },
+  {
+    "file": "ANS00425_The Heart.mp4",
+    "title": "ANS00425 The Heart",
+    "start": 17.08,
+    "end": 33.32,
+    "text_en": "The right and left atria connect to their respective ventricles, the right ventricle connects to the pulmonary artery, and the left ventricle to the aorta. Those are located at these connections to ensure that blood moves in only one direction.\n\n---\n\n**切分依据：**\n\n| Block | 画面动作 | 句数 |\n|-------|---------|------|\n| 1 | 心脏整体外观展示（器官概述 + 四腔总览） | 2句 |\n| 2 | 分别标注/高亮四个腔室（上方心房、下方心室） | 2句 |\n| 3 | 展示腔室间连接通路及瓣膜位置（房→室→动脉，单向血流） | 2句 |"
+  }
+]

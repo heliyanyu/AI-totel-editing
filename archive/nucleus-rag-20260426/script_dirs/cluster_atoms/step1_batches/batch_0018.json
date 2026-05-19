@@ -1,0 +1,563 @@
+[
+  {
+    "global_index": 720,
+    "seg_id": "S1-L4",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "list_fade",
+    "items": [
+      "CK-MB：主要存在于心肌"
+    ],
+    "atoms_text": "老二是 CK-MB 绝大部分存在于心肌 也就是咱们说的 心肌酶",
+    "needs_animation": true,
+    "label": "CK-MB同工酶主要存在于心肌细胞中的分布"
+  },
+  {
+    "global_index": 721,
+    "seg_id": "S1-L5",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "list_fade",
+    "items": [
+      "CK-BB：存在于大脑和肺，含量极低"
+    ],
+    "atoms_text": "第三叫 CK-BB 主要存在于 大脑肺等组织 平时血液中含量 非常低",
+    "needs_animation": true,
+    "label": "CK-BB同工酶在大脑和肺组织中的分布"
+  },
+  {
+    "global_index": 722,
+    "seg_id": "S1-L6",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "hero_text",
+    "items": [
+      "化验单总肌酸激酶 = 三兄弟之和"
+    ],
+    "atoms_text": "化验单上的 总肌酸激酶 是三兄弟的总和",
+    "needs_animation": true,
+    "label": "总肌酸激酶由CK-MM、CK-MB、CK-BB三种同工酶组成"
+  },
+  {
+    "global_index": 723,
+    "seg_id": "S1-L7",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "肌酸激酶是什么",
+    "template": "hero_text",
+    "items": [
+      "总值升高，未必是心脏出了问题"
+    ],
+    "atoms_text": "所以它升高 未必是 心脏出问题了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 724,
+    "seg_id": "S2-L1",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "骨骼肌受损才是主因",
+    "template": "brick_stack",
+    "items": [
+      "健身撸铁或爬山过量",
+      "发高烧或腹泻",
+      "饮酒过量",
+      "长期服用他汀类药物",
+      "摔伤跌倒"
+    ],
+    "atoms_text": "比如你 前一天 刚去健身房撸了铁 爬了一天的山 甚至摔了一跤 发了高烧 拉了肚子 喝了大酒 或者是 长期吃他汀类药物",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 725,
+    "seg_id": "S2-L2",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "骨骼肌受损才是主因",
+    "template": "step_arrow",
+    "items": [
+      "骨骼肌受到轻微损伤",
+      "CK-MM 大量释放入血",
+      "总肌酸激酶随之升高"
+    ],
+    "atoms_text": "骨骼肌 受到了轻微损伤 老大 就会大量释放到血液 自然总肌酸激酶 就会高了",
+    "needs_animation": true,
+    "label": "骨骼肌受损后CK-MM大量释放入血导致总CK升高"
+  },
+  {
+    "global_index": 726,
+    "seg_id": "S3-L1",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "CK-MB异常反常情况",
+    "template": "warning_alert",
+    "items": [
+      "CK-MB 数值超过总肌酸激酶，属反常结果"
+    ],
+    "atoms_text": "还有一种情况 是CK-MB 特别高 甚至超过了 总肌酸激酶",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 727,
+    "seg_id": "S3-L2",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "CK-MB异常反常情况",
+    "template": "brick_stack",
+    "items": [
+      "脑损伤导致 CK-BB 大量释放",
+      "肺栓塞或部分肿瘤影响",
+      "血液中出现肌酸激酶自身抗体干扰"
+    ],
+    "atoms_text": "这种多半是 检测受到了干扰 或者当存在 脑损伤 肺栓塞 部分肿瘤 时候 CK-BB 大量释放入血",
+    "needs_animation": true,
+    "label": "脑损伤或肺栓塞时CK-BB大量释放入血"
+  },
+  {
+    "global_index": 728,
+    "seg_id": "S3-L3",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "CK-MB异常反常情况",
+    "template": "list_fade",
+    "items": [
+      "异常结构肌酸激酶干扰检测结果"
+    ],
+    "atoms_text": "或者血液中 出现异常的结构 肌酸激酶自身抗体干扰",
+    "needs_animation": true,
+    "label": "血液中肌酸激酶自身抗体干扰检测的异常结构"
+  },
+  {
+    "global_index": 729,
+    "seg_id": "S3-L4",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "CK-MB异常反常情况",
+    "template": "list_fade",
+    "items": [
+      "自身抗体干扰可导致结果失真"
+    ],
+    "atoms_text": "或者呢 血液中出现 异常结构的 肌酸激酶自身抗体的干扰 均有可能导致 该反常的结果",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 730,
+    "seg_id": "S3-L5",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "CK-MB异常反常情况",
+    "template": "hero_text",
+    "items": [
+      "此类反常结果多与心肌损伤无关"
+    ],
+    "atoms_text": "此类情况 多数与心肌损伤 没有什么关系",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 731,
+    "seg_id": "S4-L1",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "更精准的心梗诊断方式",
+    "template": "step_arrow",
+    "items": [
+      "CK-MB Mass 法直接测蛋白质量",
+      "或改测肌钙蛋白",
+      "获得更准确的心肌损伤信息"
+    ],
+    "atoms_text": "出现这种情况 我们一般会 再做检测 用CK-MBMass法 直接检测 CK-MB 实际蛋白质量 或者是 测肌钙蛋白",
+    "needs_animation": true,
+    "label": "CK-MBMass法直接检测CK-MB蛋白质量的原理"
+  },
+  {
+    "global_index": 732,
+    "seg_id": "S4-L2",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "更精准的心梗诊断方式",
+    "template": "split_column",
+    "items": [
+      "曾用于判断心肌损伤",
+      "肌钙蛋白对心肌损伤更敏感特异",
+      "敏感性相对较低",
+      "现为诊断心梗首选指标"
+    ],
+    "atoms_text": "这是我们 现在检测心梗 更看重的指标 因为它对 心肌损伤 更敏感 也更有针对性",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 733,
+    "seg_id": "S4-L3",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "更精准的心梗诊断方式",
+    "template": "branch_path",
+    "items": [
+      "+ 胸痛/心电图异常",
+      "医生高度怀疑急性心梗",
+      "单项升高无症状，暂不诊断心梗"
+    ],
+    "atoms_text": "只有当 肌钙蛋白 出现动态升高 另外还合并 胸痛 胸闷 心电图缺血改变 这些表现 医生才会 高度怀疑 急性心梗",
+    "needs_animation": true,
+    "label": "肌钙蛋白动态升高结合心电图缺血改变诊断急性心梗"
+  },
+  {
+    "global_index": 734,
+    "seg_id": "S5-L1",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "最后给大家总结一下"
+    ],
+    "atoms_text": "最后呢 给大家总结一下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 735,
+    "seg_id": "S5-L2",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "总结收尾",
+    "template": "list_fade",
+    "items": [
+      "肌酸激酶参与能量供应",
+      "骨骼肌、心肌、脑组织中均存在",
+      "细胞受损后释放入血"
+    ],
+    "atoms_text": "肌酸激酶 不是专门查心梗的 它本质是 身体的肌肉细胞 受损后释放出来 一种酶 它参与能量供应 在骨骼肌 心肌 脑组织里 都存在",
+    "needs_animation": true,
+    "label": "肌酸激酶作为肌肉细胞受损后释放的酶参与能量供应"
+  },
+  {
+    "global_index": 736,
+    "seg_id": "S5-L3",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "总结收尾",
+    "template": "brick_stack",
+    "items": [
+      "运动过量导致骨骼肌损伤",
+      "发烧、肌炎等疾病影响",
+      "药物引起的肌肉损伤"
+    ],
+    "atoms_text": "但血液里查到的 总肌酸激酶升高 最常见 还是骨骼肌来源 运动过量 摔伤 发烧 肌炎 药物肌损伤 都可能让它升高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 737,
+    "seg_id": "S5-L4",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "总结收尾",
+    "template": "split_column",
+    "items": [
+      "曾是心梗判断主要指标",
+      "肌钙蛋白已取代成为首选",
+      "特异性不如肌钙蛋白",
+      "对心肌坏死更敏感更特异"
+    ],
+    "atoms_text": "过去 CK-MB 常用来判断心肌损伤 但现在 诊断急性心梗 更看重肌钙蛋白 因为它对 心肌坏死 更敏感 也更特异性",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 738,
+    "seg_id": "S5-L5",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "总结收尾",
+    "template": "myth_buster",
+    "items": [
+      "肌酸激酶高就是心梗",
+      "它更像肌肉损伤的提示指标",
+      "总值升高一定要去心内科",
+      "需结合症状和肌钙蛋白综合判断"
+    ],
+    "atoms_text": "也就是说啊 肌酸激酶高 不能直接等于心梗 更像是 一个提示 肌肉有没有受伤的指标",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 739,
+    "seg_id": "S5-L6",
+    "bp_title": "肌酸激酶升高就是心梗？一次讲清楚",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "指标要结合临床，不能孤立看数字"
+    ],
+    "atoms_text": "好了 我讲明白了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 740,
+    "seg_id": "S1-L1",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "病例开场：脑梗后的意外发现",
+    "template": "hero_text",
+    "items": [
+      "一侧肢体无力，确诊急性脑梗"
+    ],
+    "atoms_text": "前段时间 我接诊了 一个患者 一开始 因为 一侧胳膊腿儿 突然没劲儿 在当地县医院 确诊 急性脑梗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 741,
+    "seg_id": "S1-L2",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "病例开场：脑梗后的意外发现",
+    "template": "hero_text",
+    "items": [
+      "脑血管堵塞不重，无需放支架"
+    ],
+    "atoms_text": "好在 查下来 脑血管堵的 不算太严重 不用放支架",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 742,
+    "seg_id": "S1-L3",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "病例开场：脑梗后的意外发现",
+    "template": "number_center",
+    "items": [
+      "7-8倍"
+    ],
+    "atoms_text": "本来 一家人 刚松了口气 结果 一查 血肌酸激酶 也就是CK 直接 比正常值 高了七八倍 其中 CKMB的指标 高了一点点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 743,
+    "seg_id": "S1-L4",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "病例开场：脑梗后的意外发现",
+    "template": "warning_alert",
+    "items": [
+      "CK-MB偏高被误读为心梗信号",
+      "一家人连夜转院，情绪如坐过山车"
+    ],
+    "atoms_text": "当地医生 一看就慌了 这不就是 心梗的 标志性指标吗 赶紧 家属一说 一家人 刚放下心 又提到了嗓子眼 心情 跟坐过山车似的 连夜 转到了我们医院来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 744,
+    "seg_id": "S2-L1",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "拆解CK指标：三兄弟各司其职",
+    "template": "hero_text",
+    "items": [
+      "冠脉中度狭窄，未达心梗程度"
+    ],
+    "atoms_text": "来了之后 我们先给病人 做了冠脉CT 结果出来 就是中度狭窄 根本到不了 心梗地步 完全不用慌",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 745,
+    "seg_id": "S2-L2",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "拆解CK指标：三兄弟各司其职",
+    "template": "color_grid",
+    "items": [
+      "CK-MB：主要来自心肌",
+      "CK-MM：主要来自骨骼肌",
+      "CK-BB：主要来自脑组织"
+    ],
+    "atoms_text": "这里呢 给大家讲一下 肌酸激酶 这个指标 它包含 三个同工酶 一个是CKMB 主要存在于心肌 一个是CKMM 主要存在于骨骼肌 还有一个是CKBB 主要存在于 脑组织 平滑肌",
+    "needs_animation": true,
+    "label": "CK-MB存在于心肌、CK-MM存在于骨骼肌、CK-BB存在于脑组织的三种同工酶分布"
+  },
+  {
+    "global_index": 746,
+    "seg_id": "S2-L3",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "拆解CK指标：三兄弟各司其职",
+    "template": "hero_text",
+    "items": [
+      "总CK升高原因多，不能简单等同心梗"
+    ],
+    "atoms_text": "所以 总CK 包括这三个兄弟 高了的原因很多 不能单纯 等同于心梗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 747,
+    "seg_id": "S2-L4",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "拆解CK指标：三兄弟各司其职",
+    "template": "myth_buster",
+    "items": [
+      "CK升高就是心梗",
+      "肌钙蛋白正常可排除心梗"
+    ],
+    "atoms_text": "我们给病人 做了 心肌精准检测 也就是肌钙蛋白 结果是正常的 彻底排除了心梗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 748,
+    "seg_id": "S2-L5",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "拆解CK指标：三兄弟各司其职",
+    "template": "step_arrow",
+    "items": [
+      "脑细胞损伤破坏脑组织",
+      "CK-BB释放入血液循环",
+      "总CK指标随之升高"
+    ],
+    "atoms_text": "这时候 我们认为 CK高 是不是 因为脑梗引起的 因为 脑组织破坏 脑细胞损伤 里面的CKBB 会跑到血液里 自然就 把总指标 抬高了",
+    "needs_animation": true,
+    "label": "脑梗导致脑细胞损伤后CK-BB释放入血抬高总CK"
+  },
+  {
+    "global_index": 749,
+    "seg_id": "S2-L6",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "拆解CK指标：三兄弟各司其职",
+    "template": "hero_text",
+    "items": [
+      "住院数日后CK指标自行下降"
+    ],
+    "atoms_text": "后来 他住了几天院 这个指标 也慢慢自己 降下来了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 750,
+    "seg_id": "S3-L1",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "他汀副作用？事情没那么简单",
+    "template": "list_fade",
+    "items": [
+      "开具他汀类药物",
+      "稳定斑块，控制血脂",
+      "预防脑梗再次发作"
+    ],
+    "atoms_text": "本以为 这事儿就翻篇了 我们给病人 开了他汀 让他回去吃着 稳定斑块 控制血脂 预防脑梗的再发",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 751,
+    "seg_id": "S3-L2",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "他汀副作用？事情没那么简单",
+    "template": "warning_alert",
+    "items": [
+      "双侧大腿酸痛无力",
+      "复查CK再度升高"
+    ],
+    "atoms_text": "结果 没过多久啊 病人又回来了 说自己 两个大腿 又酸又疼 还没劲儿 一查 CK又高上去了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 752,
+    "seg_id": "S3-L3",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "他汀副作用？事情没那么简单",
+    "template": "hero_text",
+    "items": [
+      "他汀极小概率可引起肌肉损伤"
+    ],
+    "atoms_text": "咱们很多 吃他汀的朋友 都知道啊 他汀 确实有 极小的概率 会导致肌肉损伤 导致这个指标升高",
+    "needs_animation": true,
+    "label": "他汀药物导致骨骼肌损伤引起CK升高的机制"
+  },
+  {
+    "global_index": 753,
+    "seg_id": "S3-L4",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "他汀副作用？事情没那么简单",
+    "template": "hero_text",
+    "items": [
+      "怀疑他汀副作用，立即停药"
+    ],
+    "atoms_text": "当时 我们第一反应 也觉得 是不是他汀的副作用 赶紧 让他把药停了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 754,
+    "seg_id": "S3-L5",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "他汀副作用？事情没那么简单",
+    "template": "warning_alert",
+    "items": [
+      "停药近两周，CK依然没有下降"
+    ],
+    "atoms_text": "结果 万万没想到 药停了快两周 再复查 指标还是高 一点没降 这就不对劲了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 755,
+    "seg_id": "S4-L1",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "被忽视的细节，揭开真正病因",
+    "template": "vertical_timeline",
+    "items": [
+      "脑梗之前：双手持续脱皮开裂",
+      "脑梗住院：CK异常升高",
+      "出院后：肌肉酸痛持续不缓解"
+    ],
+    "atoms_text": "这时候 我们才注意到 一个 被忽略的很久的 细节 病人说 早在脑梗之前 他两只手 就一直脱皮开裂 抹了很多 护手霜药膏 都没用 一直没当回事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 756,
+    "seg_id": "S4-L2",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "被忽视的细节，揭开真正病因",
+    "template": "brick_stack",
+    "items": [
+      "肌酸激酶持续升高",
+      "肌肉酸痛且无力",
+      "不明原因皮肤脱皮开裂",
+      "风湿免疫科确诊：皮肌炎"
+    ],
+    "atoms_text": "结合 肌酸激酶持续升高 肌肉酸痛 及不明原因的 皮肤病 我们高度怀疑 自身免疫性疾病 赶紧 让他去了 风湿免疫科 最后一查 确诊皮肌炎",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 757,
+    "seg_id": "S4-L3",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "被忽视的细节，揭开真正病因",
+    "template": "step_arrow",
+    "items": [
+      "免疫系统异常，攻击自身组织",
+      "引发血管炎症反应",
+      "脑梗可能由此诱发"
+    ],
+    "atoms_text": "说白了 就是个 自身免疫性的疾病 因免疫系统异常 攻击自身 肌肉及皮肤 引起的症状 甚至 之前的脑梗 都可能 和这个病引起的 血管炎症 脱不了干系",
+    "needs_animation": true,
+    "label": "免疫系统异常攻击自身肌肉和皮肤及引发血管炎症"
+  },
+  {
+    "global_index": 758,
+    "seg_id": "S5-L1",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "医生总结：读懂身体的预警信号",
+    "template": "hero_text",
+    "items": [
+      "身体指标从来不是孤立存在的"
+    ],
+    "atoms_text": "今天讲这个呢 也是想 和大家说啊 我们身体的指标 从来不是孤立的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 759,
+    "seg_id": "S5-L2",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "医生总结：读懂身体的预警信号",
+    "template": "hero_text",
+    "items": [
+      "每个异常值都是预警信号，而非确诊标签"
+    ],
+    "atoms_text": "每一个异常指标 都是 身体发出的 预警信号 而非 单一疾病的 确诊标签",
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "global_index": 1320,
+    "seg_id": "S3-L2",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "LDL控制目标分级",
+    "template": "branch_path",
+    "items": [
+      "合并糖尿病高血压冠心病",
+      "目标降至1.8 mmol/L甚至更低",
+      "未达标则血管风险大幅升高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1321,
+    "seg_id": "S3-L3",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "LDL控制目标分级",
+    "template": "hero_text",
+    "items": [
+      "高危血管已脆弱，经不起折腾"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1322,
+    "seg_id": "S4-L1",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "HDL的作用与局限",
+    "template": "split_column",
+    "items": [
+      "LDL往血管壁里堆",
+      "HDL把胆固醇搬走",
+      "高了是危险信号",
+      "高了是好事，不用担心"
+    ],
+    "needs_animation": true,
+    "label": "LDL沉积血管壁与HDL逆转运胆固醇机制"
+  },
+  {
+    "global_index": 1323,
+    "seg_id": "S4-L2",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "HDL的作用与局限",
+    "template": "warning_alert",
+    "items": [
+      "HDL偏低，保护力下降"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1324,
+    "seg_id": "S4-L3",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "HDL的作用与局限",
+    "template": "list_fade",
+    "items": [
+      "坚持运动",
+      "戒烟",
+      "控制体重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1325,
+    "seg_id": "S4-L4",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "HDL的作用与局限",
+    "template": "hero_text",
+    "items": [
+      "HDL别太纠结，主攻控制LDL"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1326,
+    "seg_id": "S4-L5",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "HDL的作用与局限",
+    "template": "split_column",
+    "items": [
+      "提升HDL幅度有限",
+      "降低LDL性价比更高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1327,
+    "seg_id": "S5-L1",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "甘油三酯的特点与风险",
+    "template": "hero_text",
+    "items": [
+      "甘油三酯与饮食关系最密切"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1328,
+    "seg_id": "S5-L2",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "甘油三酯的特点与风险",
+    "template": "step_arrow",
+    "items": [
+      "昨晚吃火锅",
+      "次日抽血飙升",
+      "波动比胆固醇更快更大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1329,
+    "seg_id": "S5-L3",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "甘油三酯的特点与风险",
+    "template": "split_column",
+    "items": [
+      "少吃油腻少喝酒",
+      "高脂饮食加速升高",
+      "甘油三酯下降快",
+      "胆固醇难以快速控制"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1330,
+    "seg_id": "S5-L4",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "甘油三酯的特点与风险",
+    "template": "warning_alert",
+    "items": [
+      "超过5.6 mmol/L，急性胰腺炎风险剧增"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1331,
+    "seg_id": "S5-L5",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "甘油三酯的特点与风险",
+    "template": "list_fade",
+    "items": [
+      "高甘油三酯与心血管病相关",
+      "作用机制比LDL更复杂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1332,
+    "seg_id": "S6-L1",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "总结与行动指南",
+    "template": "category_table",
+    "items": [
+      "LDL：控制在目标值以下",
+      "LDL：决定血管命运的关键",
+      "HDL：升高是好事",
+      "HDL：高了别慌",
+      "甘油三酯：管住嘴可控",
+      "甘油三酯：>5.6需警惕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1333,
+    "seg_id": "S6-L2",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "总结与行动指南",
+    "template": "hero_text",
+    "items": [
+      "重点只有一个：把LDL降下来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1334,
+    "seg_id": "S6-L3",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "总结与行动指南",
+    "template": "hero_text",
+    "items": [
+      "血脂不是让你焦虑的，是让你行动的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1335,
+    "seg_id": "S6-L4",
+    "bp_title": "血脂化验单，这三个指标哪个最重要？",
+    "scene_title": "总结与行动指南",
+    "template": "list_fade",
+    "items": [
+      "点赞",
+      "收藏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1336,
+    "seg_id": "S1-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸高的隐秘危机",
+    "template": "hero_text",
+    "items": [
+      "尿酸高，正悄悄成为第四高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1337,
+    "seg_id": "S1-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸高的隐秘危机",
+    "template": "myth_buster",
+    "items": [
+      "关节不疼，说明尿酸没问题",
+      "不疼不代表身体没在受损"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1338,
+    "seg_id": "S1-L3",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸高的隐秘危机",
+    "template": "number_center",
+    "items": [
+      "1.8亿"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1339,
+    "seg_id": "S1-L4",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸高的隐秘危机",
+    "template": "split_column",
+    "items": [
+      "1.8亿人尿酸超标",
+      "不到2000万人曾经痛风发作",
+      "超过1.6亿人从未感到疼痛",
+      "不疼≠没有伤害，风险持续积累"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1340,
+    "seg_id": "S2-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "玻璃渣在体内的旅程",
+    "template": "hero_text",
+    "items": [
+      "尿酸结晶就像玻璃渣，悄悄划伤你"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1341,
+    "seg_id": "S2-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "玻璃渣在体内的旅程",
+    "template": "step_arrow",
+    "items": [
+      "尿酸升高，血液中析出细小结晶",
+      "结晶如玻璃渣，游走于血液中",
+      "沉积在关节，引发剧烈痛风"
+    ],
+    "needs_animation": true,
+    "label": "尿酸结晶形成与关节沉积过程"
+  },
+  {
+    "global_index": 1342,
+    "seg_id": "S2-L3",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "玻璃渣在体内的旅程",
+    "template": "warning_alert",
+    "items": [
+      "结晶不只伤关节，还会钻入肾脏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1343,
+    "seg_id": "S2-L4",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "玻璃渣在体内的旅程",
+    "template": "branch_path",
+    "items": [
+      "尿酸结晶随血液流动",
+      "沉积关节→痛风发作，疼痛剧烈",
+      "钻入肾脏→悄无声息，损伤累积"
+    ],
+    "needs_animation": true,
+    "label": "尿酸结晶在体内的沉积路径（关节与肾脏）"
+  },
+  {
+    "global_index": 1344,
+    "seg_id": "S3-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "肾脏被玻璃渣慢慢堵坏",
+    "template": "body_annotate",
+    "items": [
+      "肾脏是身体的筛子",
+      "内含无数细小肾小管",
+      "负责过滤血液中的废物"
+    ],
+    "needs_animation": true,
+    "label": "肾脏滤过结构（肾小管）解剖"
+  },
+  {
+    "global_index": 1345,
+    "seg_id": "S3-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "肾脏被玻璃渣慢慢堵坏",
+    "template": "step_arrow",
+    "items": [
+      "玻璃渣持续进入肾脏筛网",
+      "三年五年不断积累划伤",
+      "筛网划破堵死，滤过功能下降"
+    ],
+    "needs_animation": true,
+    "label": "尿酸结晶损伤肾小管过程"
+  },
+  {
+    "global_index": 1346,
+    "seg_id": "S3-L3",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "肾脏被玻璃渣慢慢堵坏",
+    "template": "warning_alert",
+    "items": [
+      "全程不疼不痒，发现时肾已损伤多年",
+      "泡沫尿、脸肿，才发现为时已晚"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1347,
+    "seg_id": "S4-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸结晶破坏血管",
+    "template": "hero_text",
+    "items": [
+      "玻璃渣还会跑进血管，划伤管壁"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1348,
+    "seg_id": "S4-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸结晶破坏血管",
+    "template": "step_arrow",
+    "items": [
+      "结晶划伤血管内壁",
+      "油脂趁机附着在破损处",
+      "动脉硬化加速，心血管风险升高"
+    ],
+    "needs_animation": true,
+    "label": "尿酸结晶损伤血管内壁与动脉粥样硬化过程"
+  },
+  {
+    "global_index": 1349,
+    "seg_id": "S4-L3",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "尿酸结晶破坏血管",
+    "template": "split_column",
+    "items": [
+      "碎玻璃撒在路上，车轮天天碾压",
+      "结晶划伤血管，油脂层层堆积",
+      "路面坑洼，无法正常通行",
+      "血管硬化，心梗脑梗风险倍增"
+    ],
+    "needs_animation": true,
+    "label": "尿酸结晶致动脉粥样硬化过程"
+  },
+  {
+    "global_index": 1350,
+    "seg_id": "S5-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "三条尿酸红线要记住",
+    "template": "hero_text",
+    "items": [
+      "记住三条红线，主动管控尿酸"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1351,
+    "seg_id": "S5-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "三条尿酸红线要记住",
+    "template": "category_table",
+    "items": [
+      "超过420：管住嘴，饮食干预",
+      "超过480+合并基础病：就医评估",
+      "超过540：无论是否疼痛需用药",
+      "数值越高，危害越深，干预越紧迫"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1352,
+    "seg_id": "S5-L3",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "三条尿酸红线要记住",
+    "template": "number_center",
+    "items": [
+      "540"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1353,
+    "seg_id": "S5-L4",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "三条尿酸红线要记住",
+    "template": "step_arrow",
+    "items": [
+      "尿酸升高，结晶开始生成",
+      "玻璃渣逐渐扎满关节与肾脏",
+      "拖延不管，器官损伤难以逆转"
+    ],
+    "needs_animation": true,
+    "label": "尿酸结晶累积致器官损伤过程"
+  },
+  {
+    "global_index": 1354,
+    "seg_id": "S5-L5",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "三条尿酸红线要记住",
+    "template": "warning_alert",
+    "items": [
+      "数值超标那天，伤害就已开始"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1355,
+    "seg_id": "S6-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "生活上做对三件事",
+    "template": "hero_text",
+    "items": [
+      "生活做对三件事，防控尿酸赢一半"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1356,
+    "seg_id": "S6-L2",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "生活上做对三件事",
+    "template": "list_fade",
+    "items": [
+      "啤酒是尿酸加速器，首要戒掉",
+      "酒精加速嘌呤代谢，尿酸飙升"
+    ],
+    "needs_animation": true,
+    "label": "酒精加速嘌呤代谢生成尿酸机制"
+  },
+  {
+    "global_index": 1357,
+    "seg_id": "S6-L3",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "生活上做对三件事",
+    "template": "myth_buster",
+    "items": [
+      "肉可以吃，但浓汤嘌呤更高",
+      "火锅汤、骨头汤要少喝甚至不喝"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1358,
+    "seg_id": "S6-L4",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "生活上做对三件事",
+    "template": "number_center",
+    "items": [
+      "2000"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1359,
+    "seg_id": "S7-L1",
+    "bp_title": "尿酸高不疼就没事？你的肾脏已经在\"中招\"了",
+    "scene_title": "行动呼吁与结尾",
+    "template": "hero_text",
+    "items": [
+      "尿酸高不可怕，年年高年年不管才可怕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,561 @@
+[
+  {
+    "global_index": 1600,
+    "seg_id": "S6-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "在家量与医院量的差异",
+    "template": "hero_text",
+    "items": [
+      "一进医院就紧张，这叫白大衣高血压"
+    ],
+    "atoms_text": "很多人一到医院就紧张 这叫白大衣高血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1601,
+    "seg_id": "S6-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "在家量与医院量的差异",
+    "template": "split_column",
+    "items": [
+      "医院：紧张导致血压偏高",
+      "在家：放松状态反映真实血压"
+    ],
+    "atoms_text": "你在家里放松状态下量的数据 反而更能反映你的真实血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1602,
+    "seg_id": "S7-L1",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "总结回顾",
+    "template": "list_fade",
+    "items": [
+      "两手都量一次",
+      "固定高值那只手"
+    ],
+    "atoms_text": "总结一下啊 量哪只手 是两边都量过 固定高的那一只去测量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1603,
+    "seg_id": "S7-L2",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "总结回顾",
+    "template": "list_fade",
+    "items": [
+      "早上起床后",
+      "排完尿再坐5分钟"
+    ],
+    "atoms_text": "什么时候量 早上起床 排完尿 静坐五分钟 测量",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1604,
+    "seg_id": "S7-L3",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "总结回顾",
+    "template": "list_fade",
+    "items": [
+      "坐直脚平贴皮肤绑袖带",
+      "胳膊与心脏齐平",
+      "量两到三遍取平均值"
+    ],
+    "atoms_text": "怎么量呢 坐直 脚放平 袖带贴皮肤 胳膊跟心脏齐平 量两三遍 取平均值",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1605,
+    "seg_id": "S7-L4",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "总结回顾",
+    "template": "hero_text",
+    "items": [
+      "做到这些，你的血压数据才是真实有效的"
+    ],
+    "atoms_text": "做到了 你的数据才是真的 做不到 天天量也是白量了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1606,
+    "seg_id": "S7-L5",
+    "bp_title": "你真的会量血压吗？最容易犯的错误全在这里",
+    "scene_title": "总结回顾",
+    "template": "hero_text",
+    "items": [
+      "点赞收藏，随时复习正确量压方法"
+    ],
+    "atoms_text": "懂了吗 点赞收藏起来 下次还可以再看看哦",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1607,
+    "seg_id": "S1-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "脑梗并非突然发生",
+    "template": "hero_text",
+    "items": [
+      "脑梗是一场蓄谋已久的暗杀"
+    ],
+    "atoms_text": "脑梗的发生 从来不是 凭空出现的意外 而是 一场蓄谋已久的暗杀",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1608,
+    "seg_id": "S1-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "脑梗并非突然发生",
+    "template": "myth_buster",
+    "items": [
+      "脑梗是瞬间发作的",
+      "发病前早有预警信号"
+    ],
+    "atoms_text": "很多人以为 脑梗是瞬间发作的 前一秒人还好好的 下一秒就突然偏瘫 说不出话了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1609,
+    "seg_id": "S1-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "脑梗并非突然发生",
+    "template": "vertical_timeline",
+    "items": [
+      "警报已悄然拉响",
+      "身体持续发出信号"
+    ],
+    "atoms_text": "但实际上 在脑血管彻底堵死之前的 大约一个月内 你的身体 早就已经拉响了警报",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1610,
+    "seg_id": "S1-L4",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "脑梗并非突然发生",
+    "template": "warning_alert",
+    "items": [
+      "多数人把信号当成\"太累了\"",
+      "错过最佳干预窗口期"
+    ],
+    "atoms_text": "遗憾的是 绝大多数人 都把这些求救信号 当成了 普通的太累了 或者没休息好 生生错过了 最佳的干预窗口期",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1611,
+    "seg_id": "S2-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "血管堵塞原理",
+    "template": "step_arrow",
+    "items": [
+      "大脑血管如同老旧水管",
+      "血脂胆固醇堆积管腔变窄",
+      "水流异常：断流或流量骤减"
+    ],
+    "atoms_text": "为了让你听懂 我们打个比方 我们大脑里的血管 就像是 家里用了几十年的自来水管",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1612,
+    "seg_id": "S2-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "血管堵塞原理",
+    "template": "hero_text",
+    "items": [
+      "脑梗前预警 = 大脑\"断水\"信号"
+    ],
+    "atoms_text": "水管内部 因为长年累月的水垢 也就是 我们血液里的 血脂胆固醇堆积 管腔变得越来越窄",
+    "needs_animation": true,
+    "label": "血脂胆固醇在血管内壁长年堆积导致管腔逐渐狭窄"
+  },
+  {
+    "global_index": 1613,
+    "seg_id": "S2-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "血管堵塞原理",
+    "template": "brick_stack",
+    "items": [
+      "长期血脂异常沉积",
+      "管腔逐渐狭窄",
+      "供血不足引发异常"
+    ],
+    "atoms_text": "当水管快要被彻底堵死 但还没有完全堵死的时候 水流一定会先出现明显的异常 比如水流突然变小 或者是水龙头偶尔噗嗤噗嗤断水几秒钟",
+    "needs_animation": true,
+    "label": "血管严重狭窄但未完全堵死时血流出现间断异常"
+  },
+  {
+    "global_index": 1614,
+    "seg_id": "S2-L4",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "血管堵塞原理",
+    "template": "hero_text",
+    "items": [
+      "快堵未堵时最危险"
+    ],
+    "atoms_text": "脑梗发作前的预警 就是大脑 因为供血不足 在给你发出 偶尔断水的信号",
+    "needs_animation": true,
+    "label": "脑血管供血不足导致大脑间歇性缺血"
+  },
+  {
+    "global_index": 1615,
+    "seg_id": "S3-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "四大信号预告",
+    "template": "hero_text",
+    "items": [
+      "转发给家人，这四个信号要牢记"
+    ],
+    "atoms_text": "下面这四个 最容易被忽视的求救信号 建议你先点赞收藏起来 不仅自己要知道 更要转发给家里的长辈",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1616,
+    "seg_id": "S4-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号一：一过性黑蒙",
+    "template": "hero_text",
+    "items": [
+      "突然眼前一黑，几秒后恢复正常"
+    ],
+    "atoms_text": "第一个求救信号 一过性黑蒙 也就是 眼睛突然看不见了 但几秒钟后又恢复了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1617,
+    "seg_id": "S4-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号一：一过性黑蒙",
+    "template": "vertical_timeline",
+    "items": [
+      "突然眼前一黑如停电",
+      "视力完全恢复"
+    ],
+    "atoms_text": "很多患者在发病前 都经历过这样的情况 正走在路上 或者是正看着电视 突然眼前一黑 什么都看不见了 就像是房间里突然停电了一样 但是过了几秒钟 或者是一两分钟 视力又完全恢复了正常",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1618,
+    "seg_id": "S4-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号一：一过性黑蒙",
+    "template": "myth_buster",
+    "items": [
+      "以为是站猛了或低血糖",
+      "实为颈内动脉缺血所致"
+    ],
+    "atoms_text": "很多人觉得 这是站猛了 或者是低血糖了 其实根本不是",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1619,
+    "seg_id": "S4-L4",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号一：一过性黑蒙",
+    "template": "step_arrow",
+    "items": [
+      "颈动脉狭窄或微血栓脱落",
+      "眼动脉瞬间缺血",
+      "短暂失明发作"
+    ],
+    "atoms_text": "这是因为 我们眼底的动脉 也就是颈内动脉的第一条分支 缺血了 当颈动脉出现狭窄 或者是有微小的血栓脱落时 最先遭殃的就是眼动脉 眼部瞬间缺血 就会导致短暂的失明",
+    "needs_animation": true,
+    "label": "颈动脉狭窄或微小血栓脱落阻断眼动脉供血导致短暂失明"
+  },
+  {
+    "global_index": 1620,
+    "seg_id": "S4-L5",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号一：一过性黑蒙",
+    "template": "warning_alert",
+    "items": [
+      "出现黑蒙说明脑血管已极度危险"
+    ],
+    "atoms_text": "这就好比 家里线路接触不良 灯泡突然闪烁了一下",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1621,
+    "seg_id": "S4-L6",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号一：一过性黑蒙",
+    "template": "hero_text",
+    "items": [
+      "线路接触不良，灯泡随时会灭"
+    ],
+    "atoms_text": "如果你出现了这种症状 说明你的颈动脉 或者是脑血管 已经处于极度危险的边缘 千万不要抱有侥幸的心理",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1622,
+    "seg_id": "S5-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号二：频繁打哈欠",
+    "template": "hero_text",
+    "items": [
+      "睡够了还总打哈欠，高度警惕"
+    ],
+    "atoms_text": "第二个求救信号 频繁打哈欠 哪怕睡够了 也觉得极度的困倦",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1623,
+    "seg_id": "S5-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号二：频繁打哈欠",
+    "template": "split_column",
+    "items": [
+      "熬夜劳累后打哈欠",
+      "睡足后仍频繁不受控打哈欠",
+      "属于正常生理反应",
+      "可能是脑缺血信号"
+    ],
+    "atoms_text": "打哈欠 是我们身体缺氧时 一种本能的自救反应 当你熬夜或者很累的时候 打哈欠那是正常的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1624,
+    "seg_id": "S5-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号二：频繁打哈欠",
+    "template": "step_arrow",
+    "items": [
+      "脑血管狭窄供血不足",
+      "呼吸中枢慢性缺氧",
+      "强迫身体频繁深呼吸打哈欠"
+    ],
+    "atoms_text": "但如果最近一段时间 你明明睡眠时间很充足 也没有做什么重体力劳动 却总是不受控制的 频繁打哈欠 甚至坐着看电视都能睡着 这就要高度警惕了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1625,
+    "seg_id": "S5-L4",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号二：频繁打哈欠",
+    "template": "number_center",
+    "items": [
+      "80%"
+    ],
+    "atoms_text": "当脑血管狭窄到一定程度 大脑的呼吸中枢 就会处于长期的慢性缺血缺氧状态 为了获取更多的氧气 大脑就会强迫你的身体 通过打哈欠来进行深呼吸",
+    "needs_animation": true,
+    "label": "脑血管狭窄致呼吸中枢慢性缺血缺氧触发打哈欠深呼吸代偿"
+  },
+  {
+    "global_index": 1626,
+    "seg_id": "S5-L5",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号二：频繁打哈欠",
+    "template": "warning_alert",
+    "items": [
+      "大脑在喊：我快憋死了，赶紧供血"
+    ],
+    "atoms_text": "临床数据显示 大约有百分之八十的脑梗患者 在发病前五到十天 会出现这种无法克制的 频繁打哈欠现象",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1627,
+    "seg_id": "S5-L6",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号二：频繁打哈欠",
+    "template": "hero_text",
+    "items": [
+      "无故频繁打哈欠是大脑缺氧的呐喊"
+    ],
+    "atoms_text": "这是大脑在拼命的向你大喊 我快憋死了 赶紧给我供血",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1628,
+    "seg_id": "S6-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号三：单侧手脚发麻",
+    "template": "hero_text",
+    "items": [
+      "单侧发麻或拿东西突然掉落"
+    ],
+    "atoms_text": "第三个求救信号 单侧手脚发麻 或者是拿东西突然掉落",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1629,
+    "seg_id": "S6-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号三：单侧手脚发麻",
+    "template": "list_fade",
+    "items": [
+      "拿筷子时手指突然使不上劲",
+      "拿钥匙时东西直接掉落",
+      "一侧胳膊腿突然麻木过电感"
+    ],
+    "atoms_text": "你有没有过这样的经历 手里正拿着筷子吃饭 或者是拿着钥匙开门 手指突然使不上劲儿 东西直接就掉到了地上 或者是一侧的胳膊腿 突然感觉麻木 就像是压久了过电一样的感觉",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1630,
+    "seg_id": "S6-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号三：单侧手脚发麻",
+    "template": "split_column",
+    "items": [
+      "颈椎病引起的麻木",
+      "脑缺血引起的麻木",
+      "慢性长期持续存在",
+      "突发突止持续短暂"
+    ],
+    "atoms_text": "很多人会把这个当成是颈椎病 或者是腰椎间盘突出 但请注意区分 颈椎病引起的麻木 通常是慢性的长期的 而脑缺血引起的麻木 往往是突发突止的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1631,
+    "seg_id": "S6-L4",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号三：单侧手脚发麻",
+    "template": "step_arrow",
+    "items": [
+      "供血血管短暂拥堵",
+      "顶叶丘脑指挥中心断信号",
+      "手脚出现瞬间断电卡顿"
+    ],
+    "atoms_text": "我们大脑的顶叶和丘脑 是管理全身感觉和运动的指挥中心 当负责给这些区域供血的血管 出现了短暂的拥堵时 指挥中心的信号 就传不到手脚上 就会出现瞬间的断电和卡顿",
+    "needs_animation": true,
+    "label": "顶叶丘脑供血血管短暂拥堵致感觉运动信号无法传达至手脚"
+  },
+  {
+    "global_index": 1632,
+    "seg_id": "S6-L5",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号三：单侧手脚发麻",
+    "template": "warning_alert",
+    "items": [
+      "频繁单侧麻木是小中风典型表现",
+      "距离真正脑梗可能只有一步之遥"
+    ],
+    "atoms_text": "如果你发现这种单侧的麻木无力 频繁发作 哪怕每次只有几分钟 这也是短暂性脑缺血发作 俗称小中风的典型表现 距离真正的脑梗 可能只有一步之遥",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1633,
+    "seg_id": "S7-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号四：突然大舌头",
+    "template": "hero_text",
+    "items": [
+      "舌根发紧，突然说话不清楚"
+    ],
+    "atoms_text": "第四个求救信号 舌根发紧发硬 突然大舌头 说话不清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1634,
+    "seg_id": "S7-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号四：突然大舌头",
+    "template": "step_arrow",
+    "items": [
+      "大脑额叶布洛卡区供血不足",
+      "控制舌头肌肉的脑神经受损",
+      "舌根发硬发音含混结巴"
+    ],
+    "atoms_text": "大脑额叶 有一个专门负责语言表达的区域 叫做布洛卡区 当大脑供血不足 影响到了这个区域 或者是影响到控制舌头肌肉的脑神经时 最直接的表现 就是舌根发紧发硬",
+    "needs_animation": true,
+    "label": "脑供血不足影响布洛卡区和舌肌脑神经导致语言功能障碍"
+  },
+  {
+    "global_index": 1635,
+    "seg_id": "S7-L3",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号四：突然大舌头",
+    "template": "list_fade",
+    "items": [
+      "脑子清楚但嘴巴不听使唤",
+      "平时流利说话突然开始结巴",
+      "嘴角不自觉流口水"
+    ],
+    "atoms_text": "你脑子里明明知道想说什么 但嘴巴就是不听使唤 发音含混不清 或者平时说话很流利的人 突然开始结巴 甚至连一句完整的话都说不出来 还有些患者 会伴随嘴角不自觉的流口水",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1636,
+    "seg_id": "S7-L4",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号四：突然大舌头",
+    "template": "myth_buster",
+    "items": [
+      "以为是上火了",
+      "实为脑部运动神经受损信号"
+    ],
+    "atoms_text": "很多人觉得这是上火了 实际上这是脑部运动神经受损的明确信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1637,
+    "seg_id": "S8-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号本质解析",
+    "template": "step_arrow",
+    "items": [
+      "微小血栓堵塞血管",
+      "身体溶栓机制数分钟内溶解",
+      "症状消失，误以为好了"
+    ],
+    "atoms_text": "身体的这些信号 本质上是由于 微小的血栓堵塞了血管 但身体自身的溶栓机制 就在几分钟内 把血栓溶解了 所以症状才会消失",
+    "needs_animation": true,
+    "label": "微小血栓短暂堵塞脑血管后被自身溶栓机制溶解"
+  },
+  {
+    "global_index": 1638,
+    "seg_id": "S8-L2",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "信号本质解析",
+    "template": "warning_alert",
+    "items": [
+      "症状消失不是痊愈，是危险预演",
+      "无法溶解的大血栓随时会到来"
+    ],
+    "atoms_text": "但这绝对不是病好了 而是预演 真正的无法溶解的大血栓 随时会到来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1639,
+    "seg_id": "S9-L1",
+    "bp_title": "脑梗前一个月，身体发出的4个求救信号",
+    "scene_title": "出现信号如何应对",
+    "template": "branch_path",
+    "items": [
+      "出现上述任何一个症状",
+      "立刻去神经内科就诊检查",
+      "继续观望等待拖延就医"
+    ],
+    "atoms_text": "面对这些信号 我们该怎么办 如果你或者家人 出现了上述任何一个症状 不要犹豫 立刻去医院的神经内科 做一个颈动脉彩超 和头颅核磁共振",
+    "needs_animation": false,
+    "label": ""
+  }
+]

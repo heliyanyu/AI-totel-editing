@@ -1,0 +1,521 @@
+[
+  {
+    "global_index": 1560,
+    "seg_id": "S6-L2",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "总结与呼吁",
+    "template": "myth_buster",
+    "items": [
+      "闷头吃药不查原因",
+      "先搞清楚到底哪里在漏水",
+      "以为高血压只能控制",
+      "找到病根有机会彻底治愈"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1561,
+    "seg_id": "S6-L3",
+    "bp_title": "高血压能根治？这类\"冒牌货\"找对病根才是关键",
+    "scene_title": "总结与呼吁",
+    "template": "hero_text",
+    "items": [
+      "转发给家人，也许能帮他少走弯路"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1562,
+    "seg_id": "S1-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "hero_text",
+    "items": [
+      "门诊真实案例引发的控糖反思"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1563,
+    "seg_id": "S1-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "number_center",
+    "items": [
+      "56"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1564,
+    "seg_id": "S1-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "list_fade",
+    "items": [
+      "米饭只吃小半碗",
+      "甜食一口不碰",
+      "水果也严格控制"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1565,
+    "seg_id": "S1-L4",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "number_center",
+    "items": [
+      "7.8%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1566,
+    "seg_id": "S1-L5",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "hero_text",
+    "items": [
+      "我都这样了，还能怎么办"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1567,
+    "seg_id": "S1-L6",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "warning_alert",
+    "items": [
+      "你测过餐后两小时血糖吗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1568,
+    "seg_id": "S1-L7",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "患者真实案例引入",
+    "template": "myth_buster",
+    "items": [
+      "只测空腹，五六点多觉得没问题",
+      "空腹达标不等于血糖控制达标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1569,
+    "seg_id": "S2-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "空腹vs餐后的认知误区",
+    "template": "warning_alert",
+    "items": [
+      "只盯空腹血糖，忽视餐后波动",
+      "空腹正常≠整体控制良好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1570,
+    "seg_id": "S2-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "空腹vs餐后的认知误区",
+    "template": "split_column",
+    "items": [
+      "空腹血糖",
+      "餐后血糖",
+      "仅反映一个时间点",
+      "影响糖化更大的主因"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1571,
+    "seg_id": "S2-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "空腹vs餐后的认知误区",
+    "template": "step_arrow",
+    "items": [
+      "三餐后血糖反复飙升",
+      "持续三个月平均叠加",
+      "糖化血红蛋白必然偏高"
+    ],
+    "needs_animation": true,
+    "label": "餐后血糖波动与糖化血红蛋白形成机制"
+  },
+  {
+    "global_index": 1572,
+    "seg_id": "S3-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "一周监测揭露真相",
+    "template": "vertical_timeline",
+    "items": [
+      "第一步：回家连续测一周餐后血糖",
+      "结果：空腹确实不高",
+      "发现：早餐后经常超过11"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1573,
+    "seg_id": "S3-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "一周监测揭露真相",
+    "template": "number_center",
+    "items": [
+      "11+"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1574,
+    "seg_id": "S3-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "一周监测揭露真相",
+    "template": "hero_text",
+    "items": [
+      "餐后天天高，糖化怎么可能不高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1575,
+    "seg_id": "S4-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "白粥的升糖陷阱",
+    "template": "warning_alert",
+    "items": [
+      "白粥配咸菜，煮越烂升糖越猛"
+    ],
+    "needs_animation": true,
+    "label": "高GI食物快速消化吸收致血糖飙升过程"
+  },
+  {
+    "global_index": 1576,
+    "seg_id": "S4-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "白粥的升糖陷阱",
+    "template": "myth_buster",
+    "items": [
+      "不吃甜食已经很努力了",
+      "一碗白粥把努力全部追回来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1577,
+    "seg_id": "S4-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "白粥的升糖陷阱",
+    "template": "split_column",
+    "items": [
+      "白粥",
+      "鸡蛋",
+      "升糖快，饱腹感差",
+      "升糖慢，饱腹感强"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1578,
+    "seg_id": "S5-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "餐后血糖的几个隐形坑",
+    "template": "hero_text",
+    "items": [
+      "除了白粥，这几个坑也要注意"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1579,
+    "seg_id": "S5-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "餐后血糖的几个隐形坑",
+    "template": "branch_path",
+    "items": [
+      "水果什么时候吃",
+      "两餐之间吃低升糖水果",
+      "饭后马上吃等于火上浇油"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1580,
+    "seg_id": "S5-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "餐后血糖的几个隐形坑",
+    "template": "split_column",
+    "items": [
+      "10分钟吃完一碗面",
+      "细嚼慢咽慢慢吃",
+      "餐后血糖飙升明显更高",
+      "餐后血糖上升更平稳"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1581,
+    "seg_id": "S5-L4",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "餐后血糖的几个隐形坑",
+    "template": "list_fade",
+    "items": [
+      "红烧肉含大量糖",
+      "糖醋排骨高糖陷阱",
+      "鱼香肉丝暗藏加糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1582,
+    "seg_id": "S6-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "三个月后的复查结果",
+    "template": "split_column",
+    "items": [
+      "7.8%",
+      "6.9%",
+      "干预前糖化值",
+      "三个月后糖化值"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1583,
+    "seg_id": "S6-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "三个月后的复查结果",
+    "template": "hero_text",
+    "items": [
+      "方向一变，结果自然不同"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1584,
+    "seg_id": "S6-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "三个月后的复查结果",
+    "template": "hero_text",
+    "items": [
+      "改变饮食规律，糖化就能好很多"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1585,
+    "seg_id": "S7-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "自查行动指南",
+    "template": "step_arrow",
+    "items": [
+      "买血糖仪，饭后两小时扎一下",
+      "连续测几天，找出哪顿最高",
+      "精准定位问题，告别瞎控糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1586,
+    "seg_id": "S7-L2",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "自查行动指南",
+    "template": "list_fade",
+    "items": [
+      "戒掉白粥换低升糖早餐",
+      "水果挪到两餐之间吃",
+      "吃饭速度放慢",
+      "警惕菜肴里的隐形糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1587,
+    "seg_id": "S7-L3",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "自查行动指南",
+    "template": "number_center",
+    "items": [
+      "2-3"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1588,
+    "seg_id": "S7-L4",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "自查行动指南",
+    "template": "myth_buster",
+    "items": [
+      "一直跟空腹血糖较劲",
+      "真正的问题在餐后血糖"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1589,
+    "seg_id": "S8-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "中国人饮食结构的特殊性",
+    "template": "warning_alert",
+    "items": [
+      "每天两大碗米饭，餐后不高才怪"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1590,
+    "seg_id": "S9-L1",
+    "bp_title": "控糖盯错方向？餐后血糖才是真正的\"幕后黑手\"",
+    "scene_title": "行动号召收尾",
+    "template": "hero_text",
+    "items": [
+      "你的主食是不是还在喝白粥吃大米饭"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1591,
+    "seg_id": "S1-L1",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "开场引题",
+    "template": "hero_text",
+    "items": [
+      "心内科张医生为你解答"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1592,
+    "seg_id": "S1-L2",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "开场引题",
+    "template": "list_fade",
+    "items": [
+      "氨氯地平",
+      "左氨氯地平"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1593,
+    "seg_id": "S1-L3",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "开场引题",
+    "template": "hero_text",
+    "items": [
+      "只差一个字，区别在哪里"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1594,
+    "seg_id": "S1-L4",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "开场引题",
+    "template": "hero_text",
+    "items": [
+      "今天讲清楚这个问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1595,
+    "seg_id": "S2-L1",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "双胞胎兄弟原理",
+    "template": "split_column",
+    "items": [
+      "左旋体（弟弟）",
+      "右旋体（哥哥）",
+      "占氨氯地平的一半",
+      "占氨氯地平的一半"
+    ],
+    "needs_animation": true,
+    "label": "氨氯地平左旋体与右旋体手性异构体分子结构"
+  },
+  {
+    "global_index": 1596,
+    "seg_id": "S2-L2",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "双胞胎兄弟原理",
+    "template": "hero_text",
+    "items": [
+      "兄弟俩共住氨氯地平这个\"房子\""
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1597,
+    "seg_id": "S2-L3",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "双胞胎兄弟原理",
+    "template": "number_center",
+    "items": [
+      "1000倍"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1598,
+    "seg_id": "S2-L4",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "双胞胎兄弟原理",
+    "template": "warning_alert",
+    "items": [
+      "头痛头晕、脚踝水肿、脸发红",
+      "副作用几乎全来自右旋体"
+    ],
+    "needs_animation": true,
+    "label": "氨氯地平右旋体致副作用的药理机制"
+  },
+  {
+    "global_index": 1599,
+    "seg_id": "S2-L5",
+    "bp_title": "氨氯地平 vs 左氨氯地平，一字之差差在哪？",
+    "scene_title": "双胞胎兄弟原理",
+    "template": "hero_text",
+    "items": [
+      "去掉右旋体，只留左旋体，诞生左氨氯地平"
+    ],
+    "needs_animation": true,
+    "label": "左氨氯地平手性分离提纯原理"
+  }
+]

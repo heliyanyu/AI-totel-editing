@@ -38,6 +38,11 @@ scripts/*.json
 local_artifacts/
 scripts/asset_index/*
 !scripts/asset_index/
+!scripts/asset_index/README.md
+!scripts/asset_index/INDEX_MANIFEST.md
+!scripts/asset_index/visual_segments_cbj58_5000_plus_zh_chronic.jsonl
+!scripts/asset_index/visual_segment_embeddings_cbj58_5000_plus_zh_chronic.npy
+!scripts/asset_index/visual_segment_embeddings_cbj58_5000_plus_zh_chronic.keys.json
 scripts/logs/
 scripts/matches/
 scripts/blueprint_w_test/

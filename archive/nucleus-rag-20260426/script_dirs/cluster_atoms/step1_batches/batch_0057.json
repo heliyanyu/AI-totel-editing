@@ -1,0 +1,559 @@
+[
+  {
+    "global_index": 2280,
+    "seg_id": "S1-L3",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "门诊真实困惑",
+    "template": "myth_buster",
+    "items": [
+      "138/85 觉得还好",
+      "其实已进入警戒区",
+      "118/78 担心偏低",
+      "其实是理想血压"
+    ],
+    "atoms_text": "其实 这两个人 对于血压的判断 都不太对",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2281,
+    "seg_id": "S1-L4",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "门诊真实困惑",
+    "template": "hero_text",
+    "items": [
+      "血压标准，今天一次说清"
+    ],
+    "atoms_text": "今天 我就把这件事儿 跟大家讲出来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2282,
+    "seg_id": "S2-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字，你能判断吗",
+    "template": "color_grid",
+    "items": [
+      "110 / 70",
+      "132 / 84",
+      "158 / 96"
+    ],
+    "atoms_text": "那首先 我给大家看 三个数值 第一个是 一百一七十 第二个是 一百三十二八十四 第三个是 一百五十八九十六",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2283,
+    "seg_id": "S2-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字，你能判断吗",
+    "template": "hero_text",
+    "items": [
+      "哪个正常？哪个超标？"
+    ],
+    "atoms_text": "那你能判断 哪个是理想的血压 哪个是快到边缘了 哪个是高血压吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2284,
+    "seg_id": "S2-L3",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字，你能判断吗",
+    "template": "hero_text",
+    "items": [
+      "逐一拆解，看完就懂"
+    ],
+    "atoms_text": "别急 我一个一个跟大家讲",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2285,
+    "seg_id": "S3-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压三档分级标准",
+    "template": "hero_text",
+    "items": [
+      "国家指南：血压分三类"
+    ],
+    "atoms_text": "按照我们国家目前的 高血压指南 血压分为三类",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2286,
+    "seg_id": "S3-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压三档分级标准",
+    "template": "number_center",
+    "items": [
+      "高压 < 120 且低压 < 80"
+    ],
+    "atoms_text": "第一类叫 正常血压 高压低于一百二 低压低于八十 两个都在 在这个范围内 才叫真正的正常",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2287,
+    "seg_id": "S3-L3",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压三档分级标准",
+    "template": "number_center",
+    "items": [
+      "高压 120–139 或低压 80–89"
+    ],
+    "atoms_text": "第二个叫 正常高值 高压在 一百二到一百三十九之间 或者是 低压在 八十到八十九之间 落到这个区间的 一个血压 那这个叫正常也行 但它已经 往高血压的方向走了 需要引起注意了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2288,
+    "seg_id": "S3-L4",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压三档分级标准",
+    "template": "warning_alert",
+    "items": [
+      "高压 ≥ 140 或低压 ≥ 90",
+      "任意一项达标即为高血压"
+    ],
+    "atoms_text": "第三类就叫 高血压了 高压大于等于一百四 或者是 低压大于等于九十 只要有一个数字 达到这个数了 那这个就叫高血压了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2289,
+    "seg_id": "S4-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字答案揭晓",
+    "template": "category_table",
+    "items": [
+      "110/70 → 理想血压",
+      "132/84 → 正常高值",
+      "158/96 → 高血压",
+      "三档标准各有界限"
+    ],
+    "atoms_text": "所以回头看一看 这三个数 一百一七十 是不是理想血压 一百三十二八十四 是不是叫正常高值 一百五十八九十六 那这个就是高血压了 这个是不是没有疑问",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2290,
+    "seg_id": "S4-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字答案揭晓",
+    "template": "hero_text",
+    "items": [
+      "120/80 真的是标准血压吗？"
+    ],
+    "atoms_text": "那你可能要问了 一百二八十 这个大家口口相传的 一个标准血压 到底分哪一类",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2291,
+    "seg_id": "S4-L3",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字答案揭晓",
+    "template": "myth_buster",
+    "items": [
+      "120/80 是\"标准\"血压",
+      "刚好落在正常高值边缘",
+      "没到高血压就没问题",
+      "不是理想血压，需要注意"
+    ],
+    "atoms_text": "说实话 一百二八十 它就卡在 正常高值这个边缘线上了 那高压刚好一百二 低压刚好八十 那按照指南 它已经不在 正常血压那一档的了 而是进入了 一个正常高值的 一个状态 它不是理想血压了 只是还没有到高血压而已",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2292,
+    "seg_id": "S4-L4",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "三组数字答案揭晓",
+    "template": "split_column",
+    "items": [
+      "理想血压：高压 < 120",
+      "正常高值：高压 120–139",
+      "两者概念不同，不可混淆",
+      "不超标 ≠ 完全健康"
+    ],
+    "atoms_text": "那这个两个概念 是不一样的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2293,
+    "seg_id": "S5-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "正常高值怎么办",
+    "template": "warning_alert",
+    "items": [
+      "正常高值者患高血压风险显著更高"
+    ],
+    "atoms_text": "那正常高值 我们就要认真对待了 因为这部分人 将来发展为高血压的风险 它比理想血压的人 高的多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2294,
+    "seg_id": "S5-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "正常高值怎么办",
+    "template": "list_fade",
+    "items": [
+      "减少食盐摄入",
+      "控制体重",
+      "规律运动",
+      "避免熬夜"
+    ],
+    "atoms_text": "不是说 你现在就要吃药 但是 生活方式 必须要注意起来 少食盐 控制体重 规律运动 别熬夜 这些不是废话 是真正能把你 正常高值往回拉的 一个东西",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2295,
+    "seg_id": "S6-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压是什么",
+    "template": "hero_text",
+    "items": [
+      "血液流动时对血管壁的压力"
+    ],
+    "atoms_text": "然后顺便说一说 这个血压究竟是什么 我们血管里 有流动的血液 这血液在流动的过程中 对血管壁产生的 一个压力 就是血压",
+    "needs_animation": true,
+    "label": "血液在血管中流动对血管壁产生压力形成血压"
+  },
+  {
+    "global_index": 2296,
+    "seg_id": "S6-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压是什么",
+    "template": "body_annotate",
+    "items": [
+      "心脏收缩：泵血用力",
+      "此时压力最大 = 高压（收缩压）"
+    ],
+    "atoms_text": "那心脏收缩的时候 用力把血泵出去 那这个时候 压力最大 这个就是高压 也叫收缩压",
+    "needs_animation": true,
+    "label": "心脏收缩时将血液泵出产生最大压力即收缩压"
+  },
+  {
+    "global_index": 2297,
+    "seg_id": "S6-L3",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压是什么",
+    "template": "body_annotate",
+    "items": [
+      "心脏舒张：大动脉弹性维持",
+      "此时压力最低 = 低压（舒张压）"
+    ],
+    "atoms_text": "那心脏放松的时候 大动脉靠自身弹性 继续维持血流 这个时候 压力是最低的 也叫舒张压",
+    "needs_animation": true,
+    "label": "心脏舒张时大动脉靠自身弹性维持血流产生舒张压"
+  },
+  {
+    "global_index": 2298,
+    "seg_id": "S6-L4",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "血压是什么",
+    "template": "split_column",
+    "items": [
+      "高压：收缩压，心脏泵血瞬间",
+      "低压：舒张压，心脏舒张瞬间",
+      "两个状态产生两个压力数值",
+      "合起来就是血压的完整读数"
+    ],
+    "atoms_text": "那这个时候 为什么我们测的血压 会出来两个数值",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2299,
+    "seg_id": "S7-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "一次偏高不等于高血压",
+    "template": "step_arrow",
+    "items": [
+      "不同时间段，规范测量",
+      "多次结果均 ≥ 140/90",
+      "才能诊断为高血压"
+    ],
+    "atoms_text": "还有一点要强调 一次测出来的高 并不等于高血压 高血压的诊断 就是要在 不同的时间段 规范的测量的前提下 多次测量 都是在一百四九十以上 才能下这个结论",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2300,
+    "seg_id": "S7-L2",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "一次偏高不等于高血压",
+    "template": "branch_path",
+    "items": [
+      "偶尔一次测值偏高",
+      "规范重测多次仍正常→无需担心",
+      "多次规范测量仍超标→就医诊断"
+    ],
+    "atoms_text": "偶尔测一次偏高 先不要慌 按照规范的方式 重新测量几次再说 知道了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2301,
+    "seg_id": "S8-L1",
+    "bp_title": "血压正常值究竟是多少？医生告诉你真相",
+    "scene_title": "总结：学会读懂血压",
+    "template": "list_fade",
+    "items": [
+      "血压分三档：正常、高值、高血压",
+      "正常高值同样需要重视",
+      "越早干预，越难进展为高血压"
+    ],
+    "atoms_text": "那给家里人测完血压 就能判断 这个血压究竟是在哪个区间了 不是超过一百四 这个才叫有问题 正常高值 同样需要重视 越早干预 那发展成真正高血压的可能性就越小了 懂了吗 好 谢谢大家",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2302,
+    "seg_id": "S1-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "hero_text",
+    "items": [
+      "一天究竟要测几次血压？"
+    ],
+    "atoms_text": "一天究竟 测几次血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2303,
+    "seg_id": "S1-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "hero_text",
+    "items": [
+      "门诊最常被问到的问题"
+    ],
+    "atoms_text": "这个问题 在门诊 被问的次数太多了 今天 一次性跟大家说清楚来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2304,
+    "seg_id": "S1-L3",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "number_center",
+    "items": [
+      "2"
+    ],
+    "atoms_text": "答案是 一天两次 早上一次 晚上一次",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2305,
+    "seg_id": "S1-L4",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "hero_text",
+    "items": [
+      "没有不适症状，每天两次足够"
+    ],
+    "atoms_text": "如果说 平时没有什么不舒服的话 这两次就足够了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2306,
+    "seg_id": "S1-L5",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "myth_buster",
+    "items": [
+      "早中晚频繁测量更准确",
+      "测太多反而加重焦虑"
+    ],
+    "atoms_text": "不需要 早中晚都测量 这样反而会使自己 搞得很焦虑",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2307,
+    "seg_id": "S1-L6",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "warning_alert",
+    "items": [
+      "反复盯数字，高了担心低了也担心",
+      "焦虑情绪本身就会导致血压不稳"
+    ],
+    "atoms_text": "每天盯着数字 反复测 那你这个 量高了你也担心 量低了你也担心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2308,
+    "seg_id": "S1-L7",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "每天测几次血压",
+    "template": "hero_text",
+    "items": [
+      "焦虑本身就是血压不稳的推手"
+    ],
+    "atoms_text": "这种焦虑本身 就会让你 血压不稳 完全没有必要",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2309,
+    "seg_id": "S2-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晨起测量的错误做法",
+    "template": "hero_text",
+    "items": [
+      "很多人第一步就做错了"
+    ],
+    "atoms_text": "但是这两次 怎么测量呢 很多人 第一步就做错了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2310,
+    "seg_id": "S2-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晨起测量的错误做法",
+    "template": "list_fade",
+    "items": [
+      "血压计放床头",
+      "睁眼伸手就测量"
+    ],
+    "atoms_text": "早晨起来 有些老病人 跟我说呀 就把血压计 放在床头 睁开眼睛 伸手就去拿 就测了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2311,
+    "seg_id": "S2-L3",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晨起测量的错误做法",
+    "template": "myth_buster",
+    "items": [
+      "睁眼立刻测是最准的晨起血压",
+      "此时身体未完全清醒，数值不准"
+    ],
+    "atoms_text": "觉得 这次才是最准的 一个晨起血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2312,
+    "seg_id": "S2-L4",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晨起测量的错误做法",
+    "template": "warning_alert",
+    "items": [
+      "刚醒来立即测血压，做法不正确"
+    ],
+    "atoms_text": "其实这个做法 是不对的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2313,
+    "seg_id": "S2-L5",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晨起测量的错误做法",
+    "template": "list_fade",
+    "items": [
+      "刚醒时身体仍在睡眠模式",
+      "切换过程中血压状态不稳定"
+    ],
+    "atoms_text": "你刚醒来的时候呢 身体还没有完全 从睡眠状态切换过来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2314,
+    "seg_id": "S2-L6",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晨起测量的错误做法",
+    "template": "hero_text",
+    "items": [
+      "此时数值无法准确反映晨起血压"
+    ],
+    "atoms_text": "这个时候测量的数值 并不能准确的反映 你早晨的 一个血压水平",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2315,
+    "seg_id": "S3-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "早晨正确测量流程",
+    "template": "step_arrow",
+    "items": [
+      "起床后洗漱、上卫生间",
+      "坐下安静休息五分钟",
+      "吃早饭、吃药之前测量"
+    ],
+    "atoms_text": "正确测的顺序是啥呢 早上醒来之后 去洗漱 上完卫生间 然后坐下来 安静的休息五分钟 在吃早饭之前 吃药之前 那这个时候再测",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2316,
+    "seg_id": "S3-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "早晨正确测量流程",
+    "template": "hero_text",
+    "items": [
+      "这才是真正有参考价值的晨起血压"
+    ],
+    "atoms_text": "这个时候测出来的血压 才是真正的 参考价值的 一个晨起血压",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2317,
+    "seg_id": "S4-L1",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晚上正确测量时机",
+    "template": "warning_alert",
+    "items": [
+      "洗澡使血管扩张，测值偏低不准确"
+    ],
+    "atoms_text": "那晚上这次呢 因为这个洗澡 会使我们这个 血管扩张 这个测出来的 一个血压值 会偏低 它不准确",
+    "needs_animation": true,
+    "label": "洗澡热水导致血管扩张使测量血压值偏低"
+  },
+  {
+    "global_index": 2318,
+    "seg_id": "S4-L2",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晚上正确测量时机",
+    "template": "step_arrow",
+    "items": [
+      "吃完晚饭安静休息片刻",
+      "临睡前、洗澡之前测量"
+    ],
+    "atoms_text": "那吃完饭 安静一会儿 在临睡前 呃洗澡之前 这个时间点测量 是最合适的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2319,
+    "seg_id": "S4-L3",
+    "bp_title": "一天测几次血压才科学？医生一次说清楚",
+    "scene_title": "晚上正确测量时机",
+    "template": "hero_text",
+    "items": [
+      "反映一天结束时的夜间血压状态"
+    ],
+    "atoms_text": "那这样 反映你 一天结束的时候 这种夜间血压的 一个状态",
+    "needs_animation": false,
+    "label": ""
+  }
+]

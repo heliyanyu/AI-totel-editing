@@ -1,0 +1,513 @@
+[
+  {
+    "global_index": 520,
+    "seg_id": "S5-L1",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "怎么走出来？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 521,
+    "seg_id": "S5-L2",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "把复查结果当回事，相信它"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 522,
+    "seg_id": "S5-L3",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "myth_buster",
+    "items": [
+      "做完检查，过两天又开始怀疑",
+      "结果是好的，就应该相信这个结果"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 523,
+    "seg_id": "S5-L4",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "医生说没问题，你的心脏现在最安全"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 524,
+    "seg_id": "S5-L5",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "支架术后，医生鼓励你动起来"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 525,
+    "seg_id": "S5-L6",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "step_arrow",
+    "items": [
+      "主治医生评估可以运动",
+      "从走路开始，每天半小时",
+      "慢慢加量，循序渐进"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 526,
+    "seg_id": "S5-L7",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "list_fade",
+    "items": [
+      "直接降低交感神经兴奋",
+      "改善焦虑状态"
+    ],
+    "needs_animation": true,
+    "label": "运动降低交感神经兴奋的生理机制"
+  },
+  {
+    "global_index": 527,
+    "seg_id": "S5-L8",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "走了半小时没事，心脏扛得住"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 528,
+    "seg_id": "S5-L9",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "这比任何人说\"没事\"都有说服力"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 529,
+    "seg_id": "S5-L10",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "跟医生聊聊你的焦虑，不丢人"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 530,
+    "seg_id": "S5-L11",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "number_center",
+    "items": [
+      "30~40%"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 531,
+    "seg_id": "S5-L12",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "myth_buster",
+    "items": [
+      "出现焦虑说明心理素质差",
+      "经历生死关口后的正常反应"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 532,
+    "seg_id": "S5-L13",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "branch_path",
+    "items": [
+      "焦虑影响到正常生活了吗",
+      "医生可以给予帮助",
+      "自己调整，逐步恢复"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 533,
+    "seg_id": "S5-L14",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "短期抗焦虑用药效果好，不需长期吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 534,
+    "seg_id": "S5-L15",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "hero_text",
+    "items": [
+      "别再反复刷手机查症状了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 535,
+    "seg_id": "S5-L16",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "warning_alert",
+    "items": [
+      "每搜一次，就看到一堆最坏结果",
+      "焦虑翻倍，越查越怕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 536,
+    "seg_id": "S5-L17",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "走出困境的四步方法",
+    "template": "split_column",
+    "items": [
+      "反复刷手机查症状",
+      "出门散步、和朋友聊天",
+      "焦虑加重",
+      "心情改善"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 537,
+    "seg_id": "S6-L1",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "过的是心理那一关",
+    "template": "list_fade",
+    "items": [
+      "支架在好好工作",
+      "血管是通的",
+      "检查结果是正常的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 538,
+    "seg_id": "S6-L2",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "过的是心理那一关",
+    "template": "hero_text",
+    "items": [
+      "要过的不是支架那关，是心理那关"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 539,
+    "seg_id": "S6-L3",
+    "bp_title": "支架术后总是胸闷？问题可能不在心脏",
+    "scene_title": "过的是心理那一关",
+    "template": "hero_text",
+    "items": [
+      "这一关过了，日子能过得比以前更好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 540,
+    "seg_id": "S1-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "患者的灵魂三问",
+    "template": "hero_text",
+    "items": [
+      "血脂降了，他汀还要吃吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 541,
+    "seg_id": "S1-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "患者的灵魂三问",
+    "template": "hero_text",
+    "items": [
+      "这是门诊最常被问到的问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 542,
+    "seg_id": "S1-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "患者的灵魂三问",
+    "template": "branch_path",
+    "items": [
+      "关键：你血管里有没有斑块",
+      "某些人确实可以停药",
+      "某些人停药可能出事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 543,
+    "seg_id": "S1-L4",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "患者的灵魂三问",
+    "template": "split_column",
+    "items": [
+      "无斑块者：或可停药",
+      "有斑块者：停药有风险"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 544,
+    "seg_id": "S1-L5",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "患者的灵魂三问",
+    "template": "hero_text",
+    "items": [
+      "先搞清楚：他汀在帮你干什么"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 545,
+    "seg_id": "S2-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "他汀的真正作用",
+    "template": "hero_text",
+    "items": [
+      "很多人以为他汀只是降血脂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 546,
+    "seg_id": "S2-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "他汀的真正作用",
+    "template": "myth_buster",
+    "items": [
+      "他汀只是降低血脂数值",
+      "他汀更重要的是稳定斑块"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 547,
+    "seg_id": "S2-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "他汀的真正作用",
+    "template": "split_column",
+    "items": [
+      "降低低密度脂蛋白",
+      "稳定血管内斑块"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 548,
+    "seg_id": "S3-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "斑块破裂的危机",
+    "template": "body_annotate",
+    "items": [
+      "血管壁上存在软斑块",
+      "表面薄、内部充满脂质",
+      "外力触发随时可能破裂"
+    ],
+    "needs_animation": true,
+    "label": "血管壁软斑块结构（薄纤维帽与脂质核心）"
+  },
+  {
+    "global_index": 549,
+    "seg_id": "S3-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "斑块破裂的危机",
+    "template": "step_arrow",
+    "items": [
+      "斑块表面破裂",
+      "局部血栓形成",
+      "血管完全堵死",
+      "急性心肌梗死发作"
+    ],
+    "needs_animation": true,
+    "label": "斑块破裂引发血栓导致急性心肌梗死过程"
+  },
+  {
+    "global_index": 550,
+    "seg_id": "S3-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "斑块破裂的危机",
+    "template": "step_arrow",
+    "items": [
+      "他汀让脂质核心缩小",
+      "纤维帽增厚变结实",
+      "斑块从不稳定变为稳定"
+    ],
+    "needs_animation": true,
+    "label": "他汀稳定斑块的药物作用机制（缩小脂质核心、增厚纤维帽）"
+  },
+  {
+    "global_index": 551,
+    "seg_id": "S3-L4",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "斑块破裂的危机",
+    "template": "list_fade",
+    "items": [
+      "减少血管壁炎症反应",
+      "让斑块安分不闹事"
+    ],
+    "needs_animation": true,
+    "label": "他汀减少血管壁炎症反应的药物作用机制"
+  },
+  {
+    "global_index": 552,
+    "seg_id": "S3-L5",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "斑块破裂的危机",
+    "template": "hero_text",
+    "items": [
+      "他汀是在给定时炸弹拆引信"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 553,
+    "seg_id": "S4-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "停药后的反扑",
+    "template": "step_arrow",
+    "items": [
+      "低密度脂蛋白重新升高",
+      "斑块再次变得不稳定",
+      "血管炎症水平重新升高"
+    ],
+    "needs_animation": true,
+    "label": "停用他汀后斑块重新不稳定化的病理过程"
+  },
+  {
+    "global_index": 554,
+    "seg_id": "S4-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "停药后的反扑",
+    "template": "hero_text",
+    "items": [
+      "好不容易拆掉的引信又被装回去了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 555,
+    "seg_id": "S4-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "停药后的反扑",
+    "template": "warning_alert",
+    "items": [
+      "停药半年至一年后突然发病",
+      "不是巧合，是斑块反扑"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 556,
+    "seg_id": "S5-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人必须长期吃",
+    "template": "list_fade",
+    "items": [
+      "已确诊冠心病患者",
+      "放过支架的患者",
+      "做过搭桥手术的患者"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 557,
+    "seg_id": "S5-L2",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人必须长期吃",
+    "template": "hero_text",
+    "items": [
+      "不是医生要你吃，是血管里已有斑块"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 558,
+    "seg_id": "S5-L3",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "哪些人必须长期吃",
+    "template": "warning_alert",
+    "items": [
+      "斑块不会消失，只能被控制"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 559,
+    "seg_id": "S6-L1",
+    "bp_title": "他汀到底要吃多久？医生说清楚了",
+    "scene_title": "终身服药≠一成不变",
+    "template": "hero_text",
+    "items": [
+      "终身服药不等于剂量永远不变"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

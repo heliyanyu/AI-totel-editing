@@ -1,0 +1,568 @@
+[
+  {
+    "global_index": 3720,
+    "seg_id": "S2-L5",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "split_column",
+    "items": [
+      "睡足八小时",
+      "只睡五六小时",
+      "十二点前躺下",
+      "拖到凌晨一两点"
+    ],
+    "atoms_text": "更麻烦的是呢 睡眠是 血管内皮自我修复的 黄金时间 你不给它这个时间 损伤就一点一点累积 累积到某一天 就可能出大事",
+    "needs_animation": true,
+    "label": "睡眠期间血管内皮细胞自我修复过程及损伤累积"
+  },
+  {
+    "global_index": 3721,
+    "seg_id": "S2-L6",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "step_arrow",
+    "items": [
+      "吸气五秒",
+      "停顿一秒",
+      "呼气五秒",
+      "循环反复"
+    ],
+    "atoms_text": "咱能睡八个小时 就别睡六个小时了 能十二点前躺下 千万别拖到一两点",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3722,
+    "seg_id": "S2-L7",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "hero_text",
+    "items": [
+      "十分钟呼吸训练，安然入睡"
+    ],
+    "atoms_text": "睡不着的朋友 我教你个小妙招 睡前做做呼吸训练 咱们呼气 吸气五秒 停一秒 再呼气五秒 停一秒 循环着来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3723,
+    "seg_id": "S2-L8",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "睡好觉护心脏",
+    "template": "warning_alert",
+    "items": [
+      "不给血管修复时间，损伤天天累积"
+    ],
+    "atoms_text": "我自己每次做不到十分钟 就能睡着 亲测有效的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3724,
+    "seg_id": "S3-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "hero_text",
+    "items": [
+      "第二件事：运动规律，别搞突击"
+    ],
+    "atoms_text": "第二件事呢 就是运动一定要规律 千万别搞突击 这是我一直想提醒大家的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3725,
+    "seg_id": "S3-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "split_column",
+    "items": [
+      "平时久坐不动",
+      "每天保持活动量",
+      "周末猛跑五公里",
+      "每周三到五次规律运动"
+    ],
+    "atoms_text": "平时一坐坐一整天 周末或下班呢 突然去跑个五公里 打上两三个小时的篮球",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3726,
+    "seg_id": "S3-L3",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "warning_alert",
+    "items": [
+      "心率骤升，隐匿斑块最易破裂出事"
+    ],
+    "atoms_text": "朋友们 这种报复性的运动啊 对心脏反而是一种冲击 你的心脏平时低负荷运转 突然心率飙到一百七八 如果血管里已经有什么隐匿的问题 比如说有一块 你根本不知道的斑块 这时候就最容易出事儿",
+    "needs_animation": true,
+    "label": "突然高心率下隐匿斑块受冲击导致心血管事件"
+  },
+  {
+    "global_index": 3727,
+    "seg_id": "S3-L4",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "category_table",
+    "items": [
+      "能和旁边人聊两句",
+      "中等强度刚刚好",
+      "喘到唱不了歌",
+      "强度已经达标"
+    ],
+    "atoms_text": "正确的做法呢 是每周三到五次 每次三十分钟 中等强度运动 就是你还能跟旁边的人聊两句 在运动的时候已经喘得唱不了歌了 这个强度就对了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3728,
+    "seg_id": "S3-L5",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "list_fade",
+    "items": [
+      "快走",
+      "慢跑",
+      "游泳"
+    ],
+    "atoms_text": "快走 慢跑 游泳都可以 关键是要规律 循序渐进",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3729,
+    "seg_id": "S3-L6",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "warning_alert",
+    "items": [
+      "运动后别猛灌冰水，喝温水即可"
+    ],
+    "atoms_text": "另外呢 特别提醒一点 运动完别猛灌冰水 这个刺激对心血管来说是很大的 温水就可以了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3730,
+    "seg_id": "S3-L7",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "规律运动不突击",
+    "template": "list_fade",
+    "items": [
+      "极度疲劳时不要硬撑运动",
+      "生病时暂停运动",
+      "情绪很差时先休息"
+    ],
+    "atoms_text": "还有啊 疲劳的时候 生病的时候 情绪很差的时候 咱就别硬撑着去运动了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3731,
+    "seg_id": "S4-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "有针对性体检",
+    "template": "hero_text",
+    "items": [
+      "第三件事：每年做一次心脏体检"
+    ],
+    "atoms_text": "第三件事儿呢 每年做一次 有针对性的心脏体检",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3732,
+    "seg_id": "S4-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "有针对性体检",
+    "template": "myth_buster",
+    "items": [
+      "公司体检有心电图就够了",
+      "心电图查不出隐匿冠心病和心肌病",
+      "体检项目越基础越省事",
+      "有危险因素必须做针对性检查"
+    ],
+    "atoms_text": "很多公司的常规体检呢 太基础了 只有一个心电图 很多隐匿的冠心病 心肌病 根本查不出来",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3733,
+    "seg_id": "S4-L3",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "有针对性体检",
+    "template": "list_fade",
+    "items": [
+      "直系亲属50岁前得过心脏病",
+      "血压血脂血糖有异常",
+      "长期高压工作加抽烟"
+    ],
+    "atoms_text": "如果你家里有直系亲属 五十岁之前得过心脏病的 或者自己啊 血压血脂血糖有异常的 或者长期高压工作加上抽烟 一定要加做心脏彩超",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3734,
+    "seg_id": "S4-L4",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "有针对性体检",
+    "template": "vertical_timeline",
+    "items": [
+      "30岁以下：心电图+心脏彩超",
+      "30岁以上有危险因素：加颈动脉超声",
+      "高危人群：咨询医生考虑冠脉CT"
+    ],
+    "atoms_text": "三十岁以下 做个心电图加心脏彩超 两三百块钱 就能排除一些心脏结构的问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3735,
+    "seg_id": "S4-L5",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "有针对性体检",
+    "template": "number_center",
+    "items": [
+      "几百元"
+    ],
+    "atoms_text": "三十岁以上有危险因素的呀 再加个颈动脉超声 看看有没有斑块 高危人群 可以咨询医生 要不要做个冠脉CT",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3736,
+    "seg_id": "S4-L6",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "有针对性体检",
+    "template": "hero_text",
+    "items": [
+      "花几百块排个雷，远胜买保健品"
+    ],
+    "atoms_text": "花几百块钱给自己排个雷 比咱买什么保健品 都要强百倍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3737,
+    "seg_id": "S5-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "读懂身体求救信号",
+    "template": "hero_text",
+    "items": [
+      "第四件事：听懂身体的求救信号"
+    ],
+    "atoms_text": "第四件事儿呢 就是学会听懂 身体给你的求救信号",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3738,
+    "seg_id": "S5-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "读懂身体求救信号",
+    "template": "number_center",
+    "items": [
+      "1周"
+    ],
+    "atoms_text": "猝死虽然叫猝死 但是研究发现 很多的猝死者 在事发前一周甚至更早 身体其实已经给过信号了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3739,
+    "seg_id": "S5-L3",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "读懂身体求救信号",
+    "template": "list_fade",
+    "items": [
+      "活动后反复胸闷、上楼就喘",
+      "心慌、心跳快或漏拍",
+      "没干啥却累到骨子里",
+      "不明原因冷汗、恶心"
+    ],
+    "atoms_text": "反复出现的 活动后的胸闷 走快一点 上楼就喘不上来气儿 以前没有过的心慌 觉得心跳特别快 或者漏了一拍 没怎么干活 却累到骨子里 休息也缓不过来 还有不明原因的冷汗 恶心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3740,
+    "seg_id": "S5-L4",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "读懂身体求救信号",
+    "template": "warning_alert",
+    "items": [
+      "与运动情绪相关、停下来就缓解，是心脏供血不足的典型信号"
+    ],
+    "atoms_text": "特别是这些症状 跟运动情绪明显相关的 一停下来就缓解的 这是非常典型的 心脏供血不够的信号 千万别硬扛",
+    "needs_animation": true,
+    "label": "运动时心脏供血不足导致心肌缺血的过程"
+  },
+  {
+    "global_index": 3741,
+    "seg_id": "S6-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "管好情绪护心脏",
+    "template": "hero_text",
+    "items": [
+      "第五件事：管好情绪"
+    ],
+    "atoms_text": "第五呢 就是管好咱们的情绪",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3742,
+    "seg_id": "S6-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "管好情绪护心脏",
+    "template": "step_arrow",
+    "items": [
+      "极度愤怒或悲伤兴奋",
+      "交感神经剧烈兴奋",
+      "血压骤升、血管痉挛",
+      "成为血管斑块破裂导火索"
+    ],
+    "atoms_text": "咱们极度愤怒 极度悲伤 或者极度兴奋的时候啊 交感神经会剧烈兴奋 血压会骤升 血管会痉挛",
+    "needs_animation": true,
+    "label": "极端情绪下交感神经兴奋引起血压骤升和血管痉挛"
+  },
+  {
+    "global_index": 3743,
+    "seg_id": "S6-L3",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "管好情绪护心脏",
+    "template": "branch_path",
+    "items": [
+      "情绪积压怎么办？",
+      "找健康方式发泄，给心脏减负",
+      "什么都憋心里，血管持续受损"
+    ],
+    "atoms_text": "如果你的血管里本身就有点问题 这种突然的刺激 就可能成为导火索",
+    "needs_animation": true,
+    "label": "血管内已有病变在突然刺激下被诱发破裂"
+  },
+  {
+    "global_index": 3744,
+    "seg_id": "S6-L4",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "管好情绪护心脏",
+    "template": "split_column",
+    "items": [
+      "适时放松、宽容自己",
+      "长期压抑、情绪积压",
+      "比吃药更管用",
+      "慢慢伤心伤血管"
+    ],
+    "atoms_text": "所以该放松的时候就要放松 该发泄的时候 找个健康的方式发泄 别什么都憋在心里",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3745,
+    "seg_id": "S6-L5",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "管好情绪护心脏",
+    "template": "hero_text",
+    "items": [
+      "你对心脏好，它就陪你走得远"
+    ],
+    "atoms_text": "有时候对自己宽容一点 比吃什么药都管用",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3746,
+    "seg_id": "S6-L6",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "管好情绪护心脏",
+    "template": "hero_text",
+    "items": [
+      "对自己宽容一点，比吃药都管用"
+    ],
+    "atoms_text": "心脏这个器官 你对他好 他就陪你走得远",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3747,
+    "seg_id": "S7-L1",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "健康才能实现一切",
+    "template": "list_fade",
+    "items": [
+      "事业梦想需要好身体",
+      "家庭幸福需要好身体",
+      "健康才能实现一切"
+    ],
+    "atoms_text": "今天我希望 用这条视频 帮咱们上班的 经常熬夜的 好好规划一下自己的健康 事业 梦想 家庭 哪一样不得有个好身体 才能去实现呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3748,
+    "seg_id": "S7-L2",
+    "bp_title": "心脏保养五件事，陪你活到九十九",
+    "scene_title": "健康才能实现一切",
+    "template": "hero_text",
+    "items": [
+      "关注我，下期更多护心干货不见不散"
+    ],
+    "atoms_text": "关注我 下个视频啊 再给大家讲 更多护心的干货 咱们不见不散",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3749,
+    "seg_id": "S1-L1",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "心源性猝死是什么",
+    "template": "hero_text",
+    "items": [
+      "张雪峰老师心源性猝死，令人痛心"
+    ],
+    "atoms_text": "昨天的事儿啊 说实在的 心里边挺不好受的 那张雪峰老师 心源性猝死 没有抢救过来 那个是 我们东北人的骄傲 他真的 太厉害的人",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3750,
+    "seg_id": "S1-L2",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "心源性猝死是什么",
+    "template": "hero_text",
+    "items": [
+      "心源性猝死，到底是怎么回事？"
+    ],
+    "atoms_text": "那很多人 不太理解了 心源性猝死是什么 简单的讲啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3751,
+    "seg_id": "S1-L3",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "心源性猝死是什么",
+    "template": "step_arrow",
+    "items": [
+      "心脏靠电信号系统正常跳动",
+      "电信号紊乱，引发室颤",
+      "心脏只抖不泵，血液停止输送"
+    ],
+    "atoms_text": "你的心脏 能够正常的跳动 靠的是 自带的一套电信号系统",
+    "needs_animation": true,
+    "label": "心脏自带电信号系统控制正常心跳节律"
+  },
+  {
+    "global_index": 3752,
+    "seg_id": "S1-L4",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "心源性猝死是什么",
+    "template": "step_arrow",
+    "items": [
+      "大脑数秒内失去供血",
+      "意识迅速丧失",
+      "几分钟内未除颤即可致命"
+    ],
+    "atoms_text": "但是如果说 你这个电信号 突然间乱了 我们最常见的 就是室颤 那心脏 不是说在跳了 而是在哆嗦 根本这个血 泵不出去",
+    "needs_animation": true,
+    "label": "室颤时心脏电信号紊乱导致心肌颤动无法泵血"
+  },
+  {
+    "global_index": 3753,
+    "seg_id": "S1-L5",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "心源性猝死是什么",
+    "template": "number_center",
+    "items": [
+      "80%"
+    ],
+    "atoms_text": "大脑几秒钟 就没有供血 它就会失去意识 你几分钟 得不到除颤 人往往就是没有了",
+    "needs_animation": true,
+    "label": "心脏停止泵血后大脑数秒内失去供血和意识"
+  },
+  {
+    "global_index": 3754,
+    "seg_id": "S1-L6",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "心源性猝死是什么",
+    "template": "warning_alert",
+    "items": [
+      "猝死多发于家中，抢救率极低"
+    ],
+    "atoms_text": "那大多数 百分之八十的心源性猝死 发生在家里边 存活率不到百分之五",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3755,
+    "seg_id": "S2-L1",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "斑块如何引发猝死",
+    "template": "number_center",
+    "items": [
+      "80%"
+    ],
+    "atoms_text": "那电信号为什么会乱呢 研究显示 百分之八十的心源性猝死 它都是冠心病引起的 就是冠状动脉 被斑块堵了",
+    "needs_animation": true,
+    "label": "冠状动脉被斑块堵塞引发电信号紊乱"
+  },
+  {
+    "global_index": 3756,
+    "seg_id": "S2-L2",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "斑块如何引发猝死",
+    "template": "brick_stack",
+    "items": [
+      "高油高盐饮食",
+      "久坐不动",
+      "长期熬夜"
+    ],
+    "atoms_text": "高油高盐的饮食 久坐不动 长期熬夜 都是一点一点 把斑块在养大",
+    "needs_animation": true,
+    "label": "不良生活习惯导致冠脉斑块逐渐增大"
+  },
+  {
+    "global_index": 3757,
+    "seg_id": "S2-L3",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "斑块如何引发猝死",
+    "template": "branch_path",
+    "items": [
+      "需要诱因来点火",
+      "斑块破裂，引发心梗",
+      "无诱因，斑块暂时稳定"
+    ],
+    "atoms_text": "光有斑块 它不一定马上会出事儿 还需要一个诱因 来点火",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3758,
+    "seg_id": "S2-L4",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "斑块如何引发猝死",
+    "template": "hero_text",
+    "items": [
+      "心脏最怕的七个诱因"
+    ],
+    "atoms_text": "那今天呢 我就把 心脏最怕的七个诱因 跟大家讲清楚",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3759,
+    "seg_id": "S3-L1",
+    "bp_title": "心源性猝死的七大诱因",
+    "scene_title": "诱因一：暴饮暴食与饮酒",
+    "template": "step_arrow",
+    "items": [
+      "油脂入血管形成斑块",
+      "斑块破裂产生血栓",
+      "血栓堵塞，引发心梗"
+    ],
+    "atoms_text": "第一个就是 暴饮暴食 那油脂进了血管 它就会形成斑块 斑块一破 它就是血栓 血栓一堵 它就是心梗",
+    "needs_animation": true,
+    "label": "油脂沉积形成斑块→斑块破裂形成血栓→血栓堵塞引发心梗"
+  }
+]

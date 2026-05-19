@@ -1,0 +1,523 @@
+[
+  {
+    "global_index": 2080,
+    "seg_id": "S3-L4",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "TI-RADS分级解读",
+    "template": "hero_text",
+    "items": [
+      "95%以上的可能是良性的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2081,
+    "seg_id": "S3-L5",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "TI-RADS分级解读",
+    "template": "split_column",
+    "items": [
+      "恶性可能",
+      "良性可能",
+      "不超过5%",
+      "95%以上"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2082,
+    "seg_id": "S4-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "甲状腺癌的真相",
+    "template": "hero_text",
+    "items": [
+      "万一我就是那5%呢？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2083,
+    "seg_id": "S4-L2",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "甲状腺癌的真相",
+    "template": "list_fade",
+    "items": [
+      "甲状腺癌最常见是乳头状癌",
+      "它生长极其缓慢，被称为\"懒癌\"",
+      "多年不转移，不扩散"
+    ],
+    "needs_animation": true,
+    "label": "甲状腺乳头状癌生长特性"
+  },
+  {
+    "global_index": 2084,
+    "seg_id": "S4-L3",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "甲状腺癌的真相",
+    "template": "hero_text",
+    "items": [
+      "很多患者带着它活了一辈子"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2085,
+    "seg_id": "S4-L4",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "甲状腺癌的真相",
+    "template": "hero_text",
+    "items": [
+      "不是让你不管，是让你不必今晚睡不着"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2086,
+    "seg_id": "S4-L5",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "甲状腺癌的真相",
+    "template": "split_column",
+    "items": [
+      "过度恐慌，彻夜难眠",
+      "理性看待，定期观察",
+      "焦虑没有意义",
+      "科学应对才是关键"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2087,
+    "seg_id": "S5-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "真正需要手术的情况",
+    "template": "hero_text",
+    "items": [
+      "什么情况才真的需要动刀？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2088,
+    "seg_id": "S5-L2",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "真正需要手术的情况",
+    "template": "step_arrow",
+    "items": [
+      "TI-RADS四级以上",
+      "建议做细针穿刺取细胞",
+      "穿刺确认恶性后建议手术"
+    ],
+    "needs_animation": true,
+    "label": "甲状腺细针穿刺活检过程"
+  },
+  {
+    "global_index": 2089,
+    "seg_id": "S5-L3",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "真正需要手术的情况",
+    "template": "warning_alert",
+    "items": [
+      "半年内结节增大一倍需认真对待"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2090,
+    "seg_id": "S5-L4",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "真正需要手术的情况",
+    "template": "color_grid",
+    "items": [
+      "边界不清楚",
+      "形态不规则",
+      "细小钙化",
+      "纵向生长大于横向"
+    ],
+    "needs_animation": true,
+    "label": "甲状腺结节超声恶性特征形态"
+  },
+  {
+    "global_index": 2091,
+    "seg_id": "S5-L5",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "真正需要手术的情况",
+    "template": "branch_path",
+    "items": [
+      "同时出现多个高风险特征",
+      "医生建议进一步检查",
+      "单独一两个可暂时观察"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2092,
+    "seg_id": "S6-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "三级结节复查方案",
+    "template": "hero_text",
+    "items": [
+      "三级且无高风险特征，定期复查就够了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2093,
+    "seg_id": "S6-L2",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "三级结节复查方案",
+    "template": "vertical_timeline",
+    "items": [
+      "发现结节后6个月：首次复查B超",
+      "无变化后：每年复查一次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2094,
+    "seg_id": "S6-L3",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "三级结节复查方案",
+    "template": "myth_buster",
+    "items": [
+      "天天自己摸脖子",
+      "定期B超复查即可",
+      "每两个月往医院跑一趟",
+      "每年一次复查就足够"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2095,
+    "seg_id": "S7-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "必须立即就医的信号",
+    "template": "warning_alert",
+    "items": [
+      "脖子突然肿起来、吞咽有堵塞感、声音突然变哑——不管几级，立即就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2096,
+    "seg_id": "S8-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "焦虑的代价",
+    "template": "hero_text",
+    "items": [
+      "查出东西来，怕是正常的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2097,
+    "seg_id": "S8-L2",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "焦虑的代价",
+    "template": "warning_alert",
+    "items": [
+      "因焦虑切掉良性结节，可能终身需要服药替代"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2098,
+    "seg_id": "S9-L1",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "正确行动指南",
+    "template": "step_arrow",
+    "items": [
+      "拿着报告找甲状腺专科医生",
+      "请医生制定复查方案",
+      "该吃吃该睡睡，半年后复查"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2099,
+    "seg_id": "S9-L2",
+    "bp_title": "甲状腺结节 TI-RADS 三级，到底要不要切？",
+    "scene_title": "正确行动指南",
+    "template": "hero_text",
+    "items": [
+      "管好情绪，比急着手术更重要"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2100,
+    "seg_id": "S1-L1",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "心梗认知误区科普",
+    "template": "myth_buster",
+    "items": [
+      "只有胸口疼才是心梗发作",
+      "心梗疼痛可放射到其他部位"
+    ],
+    "needs_animation": true,
+    "label": "心梗疼痛放射机制"
+  },
+  {
+    "global_index": 2101,
+    "seg_id": "S1-L2",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "心梗认知误区科普",
+    "template": "body_annotate",
+    "items": [
+      "胸骨后闷压样疼痛",
+      "左肩背部放射痛",
+      "下颌部位放射痛",
+      "上腹部放射痛",
+      "糖友可能无明显胸痛"
+    ],
+    "needs_animation": true,
+    "label": "心梗疼痛放射区域解剖示意"
+  },
+  {
+    "global_index": 2102,
+    "seg_id": "S2-L1",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "后背痛心梗鉴别方法",
+    "template": "hero_text",
+    "items": [
+      "三招鉴别后背痛是否为心梗"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2103,
+    "seg_id": "S2-L2",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "后背痛心梗鉴别方法",
+    "template": "split_column",
+    "items": [
+      "活动时发作休息后缓解",
+      "扭动按压时疼痛加重"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2104,
+    "seg_id": "S2-L3",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "后背痛心梗鉴别方法",
+    "template": "split_column",
+    "items": [
+      "持续数分钟至十余分钟",
+      "疼痛持续1天及以上",
+      "突发剧痛伴冷汗不缓解",
+      "痛感轻微可正常活动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2105,
+    "seg_id": "S2-L4",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "后背痛心梗鉴别方法",
+    "template": "list_fade",
+    "items": [
+      "三高（高血压/高血糖/高血脂）",
+      "长期吸烟、熬夜、压力大",
+      "腹型肥胖",
+      "冠心病家族遗传史"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2106,
+    "seg_id": "S3-L1",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "临床案例警示",
+    "template": "warning_alert",
+    "items": [
+      "后背痛久拖可致血管严重堵塞",
+      "异常疼痛尽早就医可规避风险"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉渐进性堵塞过程"
+  },
+  {
+    "global_index": 2107,
+    "seg_id": "S4-L1",
+    "bp_title": "后背疼会不会是心梗信号？",
+    "scene_title": "核心要点总结",
+    "template": "hero_text",
+    "items": [
+      "高危后背痛切勿硬扛及时就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2108,
+    "seg_id": "S1-L1",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "开场点题：异常喘的风险提示",
+    "template": "hero_text",
+    "items": [
+      "走路喘可能是心脏的求救信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2109,
+    "seg_id": "S2-L1",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "hero_text",
+    "items": [
+      "第一看活动耐量的变化"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2110,
+    "seg_id": "S2-L2",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "hero_text",
+    "items": [
+      "长期体力一般的喘属正常情况"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2111,
+    "seg_id": "S2-L3",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "warning_alert",
+    "items": [
+      "活动耐量骤降是心脏异常信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2112,
+    "seg_id": "S2-L4",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "hero_text",
+    "items": [
+      "第二看喘的伴随症状"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2113,
+    "seg_id": "S2-L5",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "hero_text",
+    "items": [
+      "单纯喘无不适多为体力不足"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2114,
+    "seg_id": "S2-L6",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "warning_alert",
+    "items": [
+      "喘伴胸闷压迫感需提高警惕"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2115,
+    "seg_id": "S2-L7",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "warning_alert",
+    "items": [
+      "夜间平躺喘是心衰典型表现"
+    ],
+    "needs_animation": true,
+    "label": "心力衰竭导致肺淤血机制"
+  },
+  {
+    "global_index": 2116,
+    "seg_id": "S2-L8",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "hero_text",
+    "items": [
+      "第三看自身高危因素"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2117,
+    "seg_id": "S2-L9",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "list_fade",
+    "items": [
+      "高血压",
+      "糖尿病",
+      "高血脂",
+      "长期吸烟",
+      "肥胖",
+      "长期压力大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2118,
+    "seg_id": "S2-L10",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "三步区分正常喘与危险喘",
+    "template": "list_fade",
+    "items": [
+      "做心脏彩超",
+      "做心电图",
+      "抽血查心衰指标"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2119,
+    "seg_id": "S3-L1",
+    "bp_title": "走路喘别只当衰老！心脏求救信号要认清",
+    "scene_title": "走路喘的其他常见病因",
+    "template": "hero_text",
+    "items": [
+      "走路喘不全是心脏问题导致"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

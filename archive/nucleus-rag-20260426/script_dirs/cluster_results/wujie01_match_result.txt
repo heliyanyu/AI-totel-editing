@@ -1,0 +1,119 @@
+蓝图: 突发心梗急救避坑指南
+总 blocks: 41
+需要动画: 10，全部匹配成功: 10
+
+S2-L2 [心梗发病底层逻辑]
+  内容: 心脏是永不停歇的发动机 → 冠状动脉是专属供油管道
+  类别: 冠状动脉解剖与侧支循环
+  候选1: ANH12082_Heart Anatomy.mp4
+         [206.4-212.4s] The first branches off your aorta are the coronary arteries, which supply your heart muscle
+         理由: 冠状动脉从主动脉分支供血心肌
+  候选2: ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+         [43.4-48.9s] Connected to your aorta are small arteries called coronary arteries.
+         理由: 冠状动脉连接主动脉的解剖描述
+  候选3: ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+         [48.9-54.0s] Blood flows from your aorta through the coronary arteries to supply your heart muscle with
+         理由: 冠状动脉为心肌供氧供血
+
+S2-L3 [心梗发病底层逻辑]
+  内容: 长期熬夜吸烟高脂饮食 → 管道内壁积累斑块变窄
+  类别: 动脉粥样硬化斑块形成
+  候选1: ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+         [72.2-78.3s] In this condition, a build-up of a fatty substance called plaque can narrow your coronary
+         理由: 心梗语境+冠脉斑块变窄，完美对应
+  候选2: ANH12071_Health Effects of Smoking.mp4
+         [151.8-159.5s] your arteries. Fatty deposits, called plaque, can build up at these injury sites and become
+         理由: 吸烟致斑块堆积，匹配生活习惯因素
+  候选3: ANS00149_Atherosclerosis Bulleted Version.mp4
+         [8.8-13.8s] This condition is a process in which deposits of fatty material, called plaque, build
+         理由: 动脉粥样硬化斑块形成经典描述
+
+S2-L4 [心梗发病底层逻辑]
+  内容: 情绪激动致斑块包膜破裂 → 血小板大量聚集形成血栓 → 血管被彻底堵死
+  类别: 斑块破裂与血栓形成
+  候选1: ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+         [80.0-85.5s] If this plaque ruptures, a blood clot can form and block the artery.
+         理由: 斑块破裂→血栓→堵塞冠脉，心梗专题
+  候选2: ANH16180_About Your Heart Attack.mp4
+         [71.4-77.6s] If this plaque became disrupted, a blood clot might form and severely worsen the narrowing
+         理由: 斑块破裂→血栓加重狭窄，心梗专题
+  候选3: ANH16180_About Your Heart Attack.mp4
+         [77.6-84.2s] or lead to a sudden complete blockage stopping blood flow down the artery.
+         理由: 突然完全堵塞、血流中断
+
+S2-L5 [心梗发病底层逻辑]
+  内容: 下游心肌细胞数十分钟内不可逆坏死
+  类别: 急性心肌梗死
+  候选1: AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+         [36.7-44.6s] The result is death of heart muscle cells in the affected area of the heart.
+         理由: 心肌细胞死亡，直接对应不可逆坏死
+  候选2: ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+         [140.0-145.2s] As a result, heart muscle in that area starts to die.
+         理由: 缺血导致心肌开始死亡
+  候选3: ANH16180_About Your Heart Attack.mp4
+         [93.9-98.9s] As a result, heart muscle in that area started to die.
+         理由: 血供中断致心肌坏死
+
+S3-L3 [错误一：乱动身体]
+  内容: 活动导致全身耗氧量剧增 → 心脏被迫加速跳动 → 心肌坏死面积迅速扩大
+  类别: 急性心肌梗死
+  候选1: AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+         [29.4-34.2s] When the blood supply is not able to keep up with the demand, the heart muscle cells don't
+         理由: 供血不足以满足需求致心肌缺血
+  候选2: AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+         [36.7-44.6s] The result is death of heart muscle cells in the affected area of the heart.
+         理由: 心肌细胞死亡对应坏死扩大
+  候选3: AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+         [243.2-251.2s] Avoid heavy lifting and gradually increasing your physical activity.
+         理由: 避免剧烈活动对应乱动身体
+
+S3-L5 [错误一：乱动身体]
+  内容: 极易诱发致命心室颤动
+  类别: 心源性猝死机制
+  候选1: ANH14135_Cardiac Arrhythmia.mp4
+         [179.6-186.4s] The most serious aridhmia is ventricular fibrillation, where many random impulses fire rapidly withi
+         理由: 室颤机制：随机电冲动快速放电
+  候选2: ANH14135_Cardiac Arrhythmia.mp4
+         [188.8-194.1s] In ventricular fibrillation, the ventricles are quivering instead of beating.
+         理由: 室颤表现：心室颤抖而非跳动
+  候选3: ANH14135_Cardiac Arrhythmia.mp4
+         [194.1-199.3s] This is a medical emergency because the heart cannot effectively pump blood to the body
+         理由: 致命后果：无法有效泵血
+
+S4-L3 [错误二：进食与乱用药]
+  内容: 胸痛就该立刻吃硝酸甘油 → 右室梗死时吃会导致血压崩盘 → 硝酸甘油是心绞痛的常备药 → 心梗类型不同用药需医生判断
+  类别: 硝酸甘油与急救用药
+  候选1: ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+         [236.1-241.9s] Cards such as nitroglycerin and morphine will relax your coronary arteries and relieve
+         理由: 直接提及硝酸甘油，扩张冠脉作用
+  候选2: ANH13113_Acute Coronary Syndrome and Heart Attack.mp4
+         [241.9-248.3s] the pain of angina.
+         理由: 提及缓解心绞痛，对应常备药说明
+
+S6-L2 [黄金步骤第一步：静]
+  内容: 立刻停止一切活动 → 就地平躺或半靠在床头 → 降低心脏耗氧保护心肌
+  类别: 冠状动脉狭窄与心肌缺血
+  候选1: AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+         [286.9-290.8s] Stop if you feel chest pain or have shortness of breath.
+         理由: "Stop"直接对应停止活动的指令
+  候选2: AND14017_After a Heart Attack_ Managing Your Recovery.mp4
+         [29.4-34.2s] When the blood supply is not able to keep up with the demand, the heart muscle cells don't
+         理由: 供血跟不上需求，呼应降低耗氧
+
+S9-L1 [黄金步骤第四步：等]
+  内容: 保持情绪稳定安静等待 → 家人轻声安抚不要哭喊 → 肾上腺素飙升会收缩血管
+  类别: 肾上腺素与应激升压
+  候选1: ANH12071_Health Effects of Smoking.mp4
+         [137.7-145.6s] it stimulates the release of epinephrine, a hormone that raises your blood pressure.
+         理由: 肾上腺素释放升高血压，直接对应
+
+S9-L2 [黄金步骤第四步：等]
+  内容: 过度恐慌让血管进一步收缩
+  类别: 交感神经兴奋与血管收缩
+  候选1: ANH13100_High Blood Pressure (Hypertension).mp4
+         [105.5-111.4s] or reduce the diameter to raise your blood pressure.
+         理由: 血管缩小致血压升高，直接对应
+  候选2: ANH16171_Understanding Basic Blood Pressure Control.mp4
+         [105.0-111.0s] Or it can reduce the width to raise your blood pressure.
+         理由: 同义片段，血管收缩升压
+

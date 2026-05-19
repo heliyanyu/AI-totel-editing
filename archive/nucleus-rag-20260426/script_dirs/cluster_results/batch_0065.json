@@ -1,0 +1,542 @@
+[
+  {
+    "global_index": 2600,
+    "seg_id": "S5-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "免疫力的真相",
+    "template": "myth_buster",
+    "items": [
+      "免疫力越高越好",
+      "免疫力讲究平衡而非越高越好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2601,
+    "seg_id": "S5-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "免疫力的真相",
+    "template": "split_column",
+    "items": [
+      "太低：容易感冒生病",
+      "太高：攻击自身正常组织"
+    ],
+    "needs_animation": true,
+    "label": "免疫系统平衡与自身免疫攻击机制"
+  },
+  {
+    "global_index": 2602,
+    "seg_id": "S5-L4",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "免疫力的真相",
+    "template": "list_fade",
+    "items": [
+      "类风湿性关节炎",
+      "红斑狼疮",
+      "桥本甲状腺炎"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2603,
+    "seg_id": "S5-L5",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "免疫力的真相",
+    "template": "hero_text",
+    "items": [
+      "目标是平衡，而不是拼命拉高"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2604,
+    "seg_id": "S6-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "三件真正有用的事",
+    "template": "hero_text",
+    "items": [
+      "不花大钱，三件小事就够了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2605,
+    "seg_id": "S6-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "三件真正有用的事",
+    "template": "step_arrow",
+    "items": [
+      "每天户外晒太阳十分钟",
+      "冬天日照不足时",
+      "可适当口服维生素D补剂"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2606,
+    "seg_id": "S6-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "三件真正有用的事",
+    "template": "number_center",
+    "items": [
+      "150分钟"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2607,
+    "seg_id": "S6-L4",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "三件真正有用的事",
+    "template": "warning_alert",
+    "items": [
+      "天天熬夜，免疫系统连修复机会都没有"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2608,
+    "seg_id": "S7-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "晒太阳、走走路、早点睡——就这么简单"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2609,
+    "seg_id": "S7-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "总结收尾",
+    "template": "split_column",
+    "items": [
+      "几千一盒的保健品",
+      "新鲜鱼虾水果更值得买"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2610,
+    "seg_id": "S7-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "转给家里长辈，别再被忽悠了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2611,
+    "seg_id": "S7-L4",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "总结收尾",
+    "template": "hero_text",
+    "items": [
+      "更多不交智商税的健康知识持续更新"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2612,
+    "seg_id": "S1-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "开场点题",
+    "template": "myth_buster",
+    "items": [
+      "早搏是心脏病吗",
+      "很多人误以为是大问题",
+      "瓣膜反流要手术吗",
+      "其实多数不需要处理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2613,
+    "seg_id": "S1-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "这5个\"心脏病\"其实都是小问题"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2614,
+    "seg_id": "S2-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "早搏别慌",
+    "template": "hero_text",
+    "items": [
+      "第一问：早搏"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2615,
+    "seg_id": "S2-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "早搏别慌",
+    "template": "number_center",
+    "items": [
+      "10万次"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2616,
+    "seg_id": "S2-L3",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "早搏别慌",
+    "template": "split_column",
+    "items": [
+      "几百次早搏",
+      "属于正常生理范围",
+      "一天上万次早搏",
+      "需要就医评估用药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2617,
+    "seg_id": "S2-L4",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "早搏别慌",
+    "template": "brick_stack",
+    "items": [
+      "睡眠不足",
+      "浓茶浓咖啡",
+      "近期压力过大"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2618,
+    "seg_id": "S2-L5",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "早搏别慌",
+    "template": "branch_path",
+    "items": [
+      "去除诱因后观察",
+      "大多数自然消退",
+      "仍频发则就医"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2619,
+    "seg_id": "S3-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "瓣膜反流不用怕",
+    "template": "hero_text",
+    "items": [
+      "第二问：瓣膜轻度反流"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2620,
+    "seg_id": "S3-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "瓣膜反流不用怕",
+    "template": "body_annotate",
+    "items": [
+      "二尖瓣：控制左心血流",
+      "三尖瓣：控制右心血流",
+      "轻度反流：极少量血液倒流"
+    ],
+    "needs_animation": true,
+    "label": "心脏瓣膜结构与轻度反流过程"
+  },
+  {
+    "global_index": 2621,
+    "seg_id": "S3-L3",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "瓣膜反流不用怕",
+    "template": "split_column",
+    "items": [
+      "门用几十年会漏风",
+      "心脏跳几十亿次有缝隙",
+      "门漏风不叫坏",
+      "轻度反流很正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2622,
+    "seg_id": "S3-L4",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "瓣膜反流不用怕",
+    "template": "warning_alert",
+    "items": [
+      "轻度/微量反流无需处理"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2623,
+    "seg_id": "S3-L5",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "瓣膜反流不用怕",
+    "template": "step_arrow",
+    "items": [
+      "每年做心脏彩超",
+      "与上次结果对比",
+      "无变化正常生活即可"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2624,
+    "seg_id": "S3-L6",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "瓣膜反流不用怕",
+    "template": "list_fade",
+    "items": [
+      "你要是",
+      "实在",
+      "放心不下呀",
+      "就每年",
+      "做个"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2625,
+    "seg_id": "S4-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "窦性心律不齐",
+    "template": "hero_text",
+    "items": [
+      "第三问：窦性心律不齐"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2626,
+    "seg_id": "S4-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "窦性心律不齐",
+    "template": "myth_buster",
+    "items": [
+      "心律不齐说明心脏有问题",
+      "窦性代表节律来源正常",
+      "心跳忽快忽慢是异常",
+      "随呼吸变化属生理现象"
+    ],
+    "needs_animation": true,
+    "label": "窦房结节律与呼吸性心律不齐机制"
+  },
+  {
+    "global_index": 2627,
+    "seg_id": "S4-L3",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "窦性心律不齐",
+    "template": "list_fade",
+    "items": [
+      "多见于年轻人和儿童",
+      "与呼吸节律相关",
+      "无基础心脏病则无需干预"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2628,
+    "seg_id": "S4-L4",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "窦性心律不齐",
+    "template": "list_fade",
+    "items": [
+      "这个",
+      "在年轻人",
+      "和孩子",
+      "身上",
+      "特别多见"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2629,
+    "seg_id": "S4-L5",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "窦性心律不齐",
+    "template": "list_fade",
+    "items": [
+      "只要你",
+      "没有",
+      "心脏的",
+      "基础病",
+      "平时"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2630,
+    "seg_id": "S5-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "hero_text",
+    "items": [
+      "第四问：舒张功能减低"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2631,
+    "seg_id": "S5-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "body_annotate",
+    "items": [
+      "收缩：将血液泵出",
+      "舒张：将血液吸回",
+      "舒张功能减低：吸力下降"
+    ],
+    "needs_animation": true,
+    "label": "心脏收缩泵血与舒张回血机制"
+  },
+  {
+    "global_index": 2632,
+    "seg_id": "S5-L3",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "split_column",
+    "items": [
+      "四五十岁以上常见",
+      "心脏自然老化表现",
+      "冠心病或心衰症状",
+      "才需要临床干预"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2633,
+    "seg_id": "S5-L4",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "warning_alert",
+    "items": [
+      "腿部水肿需警觉",
+      "爬两层楼即喘不上气"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2634,
+    "seg_id": "S5-L5",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "list_fade",
+    "items": [
+      "避免过度劳累和熬夜",
+      "积极控制血压水平"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2635,
+    "seg_id": "S5-L6",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "list_fade",
+    "items": [
+      "只要你",
+      "没有",
+      "冠心病",
+      "心绞痛的",
+      "毛病"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2636,
+    "seg_id": "S5-L7",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "舒张功能减低",
+    "template": "list_fade",
+    "items": [
+      "平时啊",
+      "别太累",
+      "别熬夜",
+      "把血压",
+      "控制好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2637,
+    "seg_id": "S6-L1",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "少量心包积液",
+    "template": "hero_text",
+    "items": [
+      "第五问：少量心包积液"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2638,
+    "seg_id": "S6-L2",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "少量心包积液",
+    "template": "body_annotate",
+    "items": [
+      "心脏外层包裹一层心包膜",
+      "膜与心脏间存在润滑液"
+    ],
+    "needs_animation": true,
+    "label": "心包膜解剖结构与心包液分布"
+  },
+  {
+    "global_index": 2639,
+    "seg_id": "S6-L3",
+    "bp_title": "体检报告上这5个\"心脏病\"其实都是小问题",
+    "scene_title": "少量心包积液",
+    "template": "split_column",
+    "items": [
+      "关节液起润滑作用",
+      "心包液同样起润滑作用",
+      "关节液正常存在",
+      "心包液少量属正常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

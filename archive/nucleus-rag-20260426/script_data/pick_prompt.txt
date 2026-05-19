@@ -1,0 +1,31 @@
+医生口播原文（中文，6秒）：
+但桥血管也有可能随着时间的变化发生动脉硬化甚至堵塞尤其是静脉桥啊很容易堵塞
+
+以下是候选的医学动画素材片段（英文旁白）。请选出最匹配医生原文的1-3个片段，让动画内容尽量贴合医生正在讲的内容。
+
+候选素材：
+1. [ANH00023_Non-cardiac Percutaneous Transluminal Ang] 18-40s (22s): Fatty deposits called atherosclerotic plaques can build up inside your arteries, narrowing the passageway and interfering with blood flow. This arteri
+2. [ANH12071_Health Effects of Smoking.mp4] 195-207s (11s): Smoking increases your risk for peripheral vascular disease, in which atherosclerotic plaques block the large arteries in your arms and legs.
+3. [ANH13100_High Blood Pressure (Hypertension).mp4] 213-231s (18s): Small tears in your artery wall may attract certain substances in your blood, such as cholesterol, fat and calcium to form a buildup called a plaque. 
+4. [ANH15145_LDL and HDL Cholesterol.mp4] 75-86s (11s): Over time, plaque can narrow the artery and reduce blood flow. LDL carries cholesterol into the plaque. This is why LDL is called the bad cholesterol.
+5. [ANH16172_Complications of High Blood Pressure (Hyp] 36-57s (21s): In another example, damage to an artery wall may attract certain substances in your blood, such as cholesterol, fat and calcium. They may form a build
+6. [ANH18208_Diabetes and Your Risk of Heart Disease.m] 65-79s (14s): Coronary heart disease is a build-up of a cholesterol-filled substance called plaque inside the blood vessels of your heart. The build-up of plaque in
+7. [ANS00149_Atherosclerosis Bulleted Version.mp4] 0-20s (20s): Atherosclerosis is a life-threatening disease that may have begun to develop during childhood. This condition is a process in which deposits of fatty 
+8. [ANS00149_Atherosclerosis Bulleted Version.mp4] 20-26s (6s): In extreme cases, this disease can lead to a heart attack or a stroke.
+9. [ANS00149_Atherosclerosis Bulleted Version.mp4] 26-38s (13s): These factors for atherosclerosis include high blood pressure, high cholesterol, tobacco smoke, diabetes, obesity, and physical inactivity.
+10. [ANS00149_Atherosclerosis Bulleted Version.mp4] 38-49s (11s): Although the exact causes of atherosclerosis are not clear, many scientists think it begins with damage to the inner wall of an artery, called the end
+11. [ANS00149_Atherosclerosis Bulleted Version.mp4] 49-79s (30s): Over time, substances traveling in the blood, such as cholesterol, fats, and cellular waste products accumulate inside the damaged area of the arteria
+12. [ANS00149_Atherosclerosis Bulleted Version.mp4] 79-92s (13s): In response, monocytes from the bloodstream travel to the damage site. Demulation from oxidized cholesterol converts the monocytes into macrophages.
+13. [ANS00149_Atherosclerosis Bulleted Version.mp4] 92-105s (13s): The macrophages eat and digest the cholesterol molecules. As a result of this process, the macrophages change into foam cells, which accumulate to for
+14. [ANS00149_Atherosclerosis Bulleted Version.mp4] 105-153s (48s): As the plaque increases in size, the arterial wall thickens and hardens. At the same time, smooth muscle cells within the arterial wall begin to multi
+15. [ANS00260_Atherosclerosis.mp4] 0-21s (21s): Atherosclerosis is a life-threatening disease that may have begun to develop during childhood. This condition is a process in which deposits of fatty 
+16. [ANS00260_Atherosclerosis.mp4] 21-42s (21s): Although the exact causes of atherosclerosis are not clear, many scientists think it begins with damage to the inner wall of an artery, called the end
+17. [ANS00260_Atherosclerosis.mp4] 42-59s (17s): Chemical reactions occurring within the build up of material cause cholesterol molecules to oxidize. This initiates an inflammatory response in which 
+18. [ANS00260_Atherosclerosis.mp4] 59-73s (13s): In response, monocytes from the bloodstream travel to the damaged site. Stimulation from oxidized cholesterol converts the monocytes into macrophages.
+19. [ANS00260_Atherosclerosis.mp4] 73-85s (13s): The macrophages eat and digest the cholesterol molecules. As a result of this process, the macrophages change into foam cells, which accumulate to for
+20. [ANS00260_Atherosclerosis.mp4] 85-132s (47s): As the plaque increases in size, the arterial wall thickens and hardens. At the same time, smooth muscle cells within the arterial wall begin to multi
+21. [ANS00260_Atherosclerosis.mp4] 132-142s (10s): Eventually, the passageway through the artery narrows, enough to reduce blood flow, and the amount of oxygen received by the organs it supplies.
+22. [ANS00423_Arterial Stenosis.mp4] 0-13s (13s): Fatty deposits called atherosclerotic plaques can build up inside your arteries, narrowing the passageway and interfering with blood flow. This arteri
+23. [ANS00432_Carotid Artery Disease.mp4] 14-30s (16s): Fatty deposits called atherosclerotic plaques can build up inside the carotid artery. These plaques can narrow the passageway of the artery and interf
+
+只输出选中的编号（用逗号分隔），不要解释。

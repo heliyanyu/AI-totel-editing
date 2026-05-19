@@ -1,0 +1,511 @@
+[
+  {
+    "global_index": 2760,
+    "seg_id": "S1-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "肾脏为何不报警",
+    "template": "hero_text",
+    "items": [
+      "为何一查肾就是中晚期？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2761,
+    "seg_id": "S1-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "肾脏为何不报警",
+    "template": "hero_text",
+    "items": [
+      "肾脏本身就太能忍"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2762,
+    "seg_id": "S1-L3",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "肾脏为何不报警",
+    "template": "hero_text",
+    "items": [
+      "肾脏几乎没有痛觉神经"
+    ],
+    "needs_animation": true,
+    "label": "肾脏神经分布解剖结构"
+  },
+  {
+    "global_index": 2763,
+    "seg_id": "S1-L4",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "肾脏为何不报警",
+    "template": "warning_alert",
+    "items": [
+      "肾小球硬化坏死时毫无痛感"
+    ],
+    "needs_animation": true,
+    "label": "肾小球硬化坏死过程"
+  },
+  {
+    "global_index": 2764,
+    "seg_id": "S1-L5",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "肾脏为何不报警",
+    "template": "list_fade",
+    "items": [
+      "囊肿或肿瘤撑大牵拉包膜",
+      "结石掉入输尿管造成梗阻"
+    ],
+    "needs_animation": true,
+    "label": "肾结石梗阻输尿管与囊肿牵拉包膜过程"
+  },
+  {
+    "global_index": 2765,
+    "seg_id": "S1-L6",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "肾脏为何不报警",
+    "template": "myth_buster",
+    "items": [
+      "疼痛 = 肾功能在报警",
+      "疼痛 = 结构被拉扯堵住"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2766,
+    "seg_id": "S2-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "沉默的慢性肾病",
+    "template": "list_fade",
+    "items": [
+      "慢性肾炎",
+      "糖尿病肾病",
+      "高血压肾损害"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2767,
+    "seg_id": "S2-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "沉默的慢性肾病",
+    "template": "hero_text",
+    "items": [
+      "肾脏不会主动提醒你"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2768,
+    "seg_id": "S2-L3",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "沉默的慢性肾病",
+    "template": "number_center",
+    "items": [
+      "200万"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2769,
+    "seg_id": "S2-L4",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "沉默的慢性肾病",
+    "template": "hero_text",
+    "items": [
+      "坏掉一半仍能勉强排毒"
+    ],
+    "needs_animation": true,
+    "label": "肾单位代偿与肾脏滤过功能"
+  },
+  {
+    "global_index": 2770,
+    "seg_id": "S2-L5",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "沉默的慢性肾病",
+    "template": "myth_buster",
+    "items": [
+      "有症状才说明肾有问题",
+      "无症状时化验单可能已异常"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2771,
+    "seg_id": "S2-L6",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "沉默的慢性肾病",
+    "template": "warning_alert",
+    "items": [
+      "乏力水肿夜尿增多食欲下降",
+      "这些信号出现往往已不是早期"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2772,
+    "seg_id": "S3-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第一步：戒含糖饮料",
+    "template": "hero_text",
+    "items": [
+      "保护肾脏，必做这五件事"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2773,
+    "seg_id": "S3-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第一步：戒含糖饮料",
+    "template": "hero_text",
+    "items": [
+      "第一：别喝含糖饮料"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2774,
+    "seg_id": "S3-L3",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第一步：戒含糖饮料",
+    "template": "step_arrow",
+    "items": [
+      "迅速升高血糖与胰岛素水平",
+      "加重胰岛素抵抗",
+      "促进炎症反应损伤肾脏"
+    ],
+    "needs_animation": true,
+    "label": "高糖引发胰岛素抵抗与肾脏炎症损伤过程"
+  },
+  {
+    "global_index": 2775,
+    "seg_id": "S4-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第二步：限盐",
+    "template": "hero_text",
+    "items": [
+      "第二：盐一定要少吃"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2776,
+    "seg_id": "S4-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第二步：限盐",
+    "template": "step_arrow",
+    "items": [
+      "钠离子潴留体内",
+      "血容量增加血压升高"
+    ],
+    "needs_animation": true,
+    "label": "钠潴留导致血压升高机制"
+  },
+  {
+    "global_index": 2777,
+    "seg_id": "S4-L3",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第二步：限盐",
+    "template": "warning_alert",
+    "items": [
+      "高压长期冲击肾小球滤网受损"
+    ],
+    "needs_animation": true,
+    "label": "高血压冲击肾小球滤过膜受损过程"
+  },
+  {
+    "global_index": 2778,
+    "seg_id": "S5-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第三步：慎用药物",
+    "template": "hero_text",
+    "items": [
+      "第三：不要乱吃来路不明的药"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2779,
+    "seg_id": "S5-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第三步：慎用药物",
+    "template": "color_grid",
+    "items": [
+      "马兜铃酸",
+      "重金属"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2780,
+    "seg_id": "S5-L3",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第三步：慎用药物",
+    "template": "body_annotate",
+    "items": [
+      "直接损伤肾小管细胞",
+      "影响肾脏排毒功能"
+    ],
+    "needs_animation": true,
+    "label": "肾毒性物质损伤肾小管细胞过程"
+  },
+  {
+    "global_index": 2781,
+    "seg_id": "S5-L4",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第三步：慎用药物",
+    "template": "warning_alert",
+    "items": [
+      "损伤慢性积累且不可逆",
+      "发现时肾功能已明显下降"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2782,
+    "seg_id": "S6-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第四步：规律睡眠",
+    "template": "hero_text",
+    "items": [
+      "第四：别长期熬夜"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2783,
+    "seg_id": "S6-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第四步：规律睡眠",
+    "template": "brick_stack",
+    "items": [
+      "激活交感神经与炎症通路",
+      "血压血糖更难控制",
+      "肾脏修复能力明显下降"
+    ],
+    "needs_animation": true,
+    "label": "交感神经激活与炎症通路损伤肾脏机制"
+  },
+  {
+    "global_index": 2784,
+    "seg_id": "S7-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第五步：管好基础病",
+    "template": "hero_text",
+    "items": [
+      "第五：把高血压糖尿病管好"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2785,
+    "seg_id": "S7-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第五步：管好基础病",
+    "template": "warning_alert",
+    "items": [
+      "高血压糖尿病是慢性肾衰主要源头"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2786,
+    "seg_id": "S7-L3",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "护肾第五步：管好基础病",
+    "template": "hero_text",
+    "items": [
+      "血压血糖稳住，肾小球才安全"
+    ],
+    "needs_animation": true,
+    "label": "血压血糖对肾小球滤过功能的影响"
+  },
+  {
+    "global_index": 2787,
+    "seg_id": "S8-L1",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "结语：提前重视长期管理",
+    "template": "hero_text",
+    "items": [
+      "肾脏问题在沉默中一点点积累"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2788,
+    "seg_id": "S8-L2",
+    "bp_title": "肾脏为什么总到晚期才发现？五件事保护好你的肾",
+    "scene_title": "结语：提前重视长期管理",
+    "template": "hero_text",
+    "items": [
+      "提前重视，别等最后的信号"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2789,
+    "seg_id": "S1-L1",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的玻璃心",
+    "template": "color_grid",
+    "items": [
+      "睡多睡少都不行",
+      "闻到怪味就发作",
+      "头吹风不行",
+      "洗头不吹干也不行"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2790,
+    "seg_id": "S1-L2",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的玻璃心",
+    "template": "hero_text",
+    "items": [
+      "偏头痛像玻璃心，稍不注意就发作"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2791,
+    "seg_id": "S1-L3",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的玻璃心",
+    "template": "hero_text",
+    "items": [
+      "今天帮你摸清偏头痛的脾气"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2792,
+    "seg_id": "S2-L1",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛 vs 普通头痛",
+    "template": "hero_text",
+    "items": [
+      "如何区别偏头痛和普通头痛？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2793,
+    "seg_id": "S2-L2",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛 vs 普通头痛",
+    "template": "list_fade",
+    "items": [
+      "慢性神经血管性疾病",
+      "单侧头部发作性跳痛胀痛"
+    ],
+    "needs_animation": true,
+    "label": "偏头痛神经血管发病机制"
+  },
+  {
+    "global_index": 2794,
+    "seg_id": "S2-L3",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛 vs 普通头痛",
+    "template": "color_grid",
+    "items": [
+      "坐立不安、剧烈疼痛",
+      "恶心呕吐",
+      "畏光",
+      "听不得噪音"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2795,
+    "seg_id": "S2-L4",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛 vs 普通头痛",
+    "template": "warning_alert",
+    "items": [
+      "眼前闪光、暗点为先兆信号",
+      "单侧肢体麻木：先兆偏头痛"
+    ],
+    "needs_animation": true,
+    "label": "偏头痛先兆的神经信号传导过程"
+  },
+  {
+    "global_index": 2796,
+    "seg_id": "S2-L5",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛 vs 普通头痛",
+    "template": "split_column",
+    "items": [
+      "双侧脑袋胀痛",
+      "单侧跳痛、胀痛",
+      "无明显恶心畏光",
+      "伴恶心呕吐畏光",
+      "程度轻微，忍忍可过",
+      "严重影响日常活动"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2797,
+    "seg_id": "S3-L1",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的四大诱因",
+    "template": "hero_text",
+    "items": [
+      "为什么会得偏头痛？女性为何更易中招？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2798,
+    "seg_id": "S3-L2",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的四大诱因",
+    "template": "number_center",
+    "items": [
+      "4"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2799,
+    "seg_id": "S3-L3",
+    "bp_title": "偏头痛：摸清它的脾气才能不踩雷",
+    "scene_title": "偏头痛的四大诱因",
+    "template": "brick_stack",
+    "items": [
+      "遗传因素：家族聚集性明显",
+      "父母有偏头痛",
+      "子女患病风险增加2~3倍"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 0.0,
+    "end": 11.44,
+    "text_en": "A surgeon will insert a pacemaker into your body if your heart's conduction system,",
+    "category_ids": [
+      13,
+      14
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 11.44,
+    "end": 16.52,
+    "text_en": "the electrical system that makes your heart beat, is not working properly.",
+    "category_ids": [
+      13,
+      14
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 16.52,
+    "end": 21.84,
+    "text_en": "The heart is a muscular organ with four chambers.",
+    "category_ids": [
+      44
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 21.84,
+    "end": 27.14,
+    "text_en": "Blood collects in the heart's two upper chambers or atria before filling the two lower",
+    "category_ids": [
+      44
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 27.14,
+    "end": 29.9,
+    "text_en": "chambers or ventricles.",
+    "category_ids": [
+      44
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 29.9,
+    "end": 35.32,
+    "text_en": "In the ventricles contract, blood in the right ventricle is pumped to the lungs and blood",
+    "category_ids": [
+      44,
+      45
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 35.32,
+    "end": 38.6,
+    "text_en": "in the left ventricle is pumped to the rest of the body.",
+    "category_ids": [
+      44,
+      45
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 38.6,
+    "end": 44.8,
+    "text_en": "The heart has a natural pacemaker called the Sinoatrial node or SA node.",
+    "category_ids": [
+      13
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 44.8,
+    "end": 50.64,
+    "text_en": "The pacemaker controls the heart rate by precisely determining when the muscles of the atria",
+    "category_ids": [
+      13
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 50.64,
+    "end": 52.76,
+    "text_en": "and ventricles contract.",
+    "category_ids": [
+      13
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 52.76,
+    "end": 58.94,
+    "text_en": "The electrical signal produced by the SA node reaches the ventricles through a narrow pathway",
+    "category_ids": [
+      13
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 58.94,
+    "end": 63.88,
+    "text_en": "that includes the so-called AV node and bundle branches.",
+    "category_ids": [
+      13
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 63.88,
+    "end": 70.96,
+    "text_en": "Taken together, these pathways are referred to as the conduction system of the heart.",
+    "category_ids": [
+      13
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 70.96,
+    "end": 76.68,
+    "text_en": "Problems with the conduction system can result if the SA node malfunctions, causing the",
+    "category_ids": [
+      14,
+      13
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 76.68,
+    "end": 81.76,
+    "text_en": "heart to beat too fast, too slow or irregularly.",
+    "category_ids": [
+      14
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 81.76,
+    "end": 87.24,
+    "text_en": "Alternatively, a blockage in the bundle branches can develop, causing the heart to beat more",
+    "category_ids": [
+      14
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 87.24,
+    "end": 90.24,
+    "text_en": "slowly or irregularly.",
+    "category_ids": [
+      14
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 90.24,
+    "end": 96.48,
+    "text_en": "These problems can be due to heart disease, medications, or cardiac surgery.",
+    "category_ids": [
+      14
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 96.48,
+    "end": 99.84,
+    "text_en": "Before the procedure, your blood and urine will be tested.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 99.84,
+    "end": 106.82,
+    "text_en": "You will also have x-rays taken of your chest, and an electrocardiogram or EKG will record",
+    "category_ids": [
+      41
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 106.82,
+    "end": 109.72,
+    "text_en": "the electrical activity in your heart.",
+    "category_ids": [
+      41
+    ]
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 109.72,
+    "end": 114.96,
+    "text_en": "A local anesthetic will be injected into your skin to numb the area where the pacemaker",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 114.96,
+    "end": 116.96,
+    "text_en": "will be inserted.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 116.96,
+    "end": 121.12,
+    "text_en": "The surgeon will make a small incision beneath your collarbone.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 121.12,
+    "end": 126.08,
+    "text_en": "The pacemaker's leads will be inserted into the subclavian vein, and then threaded",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 126.08,
+    "end": 130.12,
+    "text_en": "toward your heart until they reach the right atrium.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 130.12,
+    "end": 136.36,
+    "text_en": "Your surgeon will view x-ray images on a video screen to position the leads correctly.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 136.36,
+    "end": 141.08,
+    "text_en": "Once the leads have been tested, they will be connected to the pulse generator.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 141.08,
+    "end": 146.16,
+    "text_en": "The pulse generator will then be placed in a small pouch that your surgeon will create",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 146.16,
+    "end": 149.48,
+    "text_en": "under the skin beneath your collarbone.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 149.48,
+    "end": 153.08,
+    "text_en": "Your surgeon will then sew the incision back together.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 153.08,
+    "end": 157.72,
+    "text_en": "While you're in the hospital, your doctor will monitor your heart rate and blood pressure",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 157.72,
+    "end": 161.24,
+    "text_en": "to be certain the pacemaker is working properly.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 161.24,
+    "end": 167.4,
+    "text_en": "Before you leave, he or she will make final adjustments to the pacemaker settings.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 167.4,
+    "end": 173.2,
+    "text_en": "After your procedure, over the counter pain medications such as acetaminophen or ibuprofen",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 173.2,
+    "end": 176.4,
+    "text_en": "should be sufficient to relieve any pain.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 176.4,
+    "end": 179.72,
+    "text_en": "You will not be able to drive for about two weeks.",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 179.72,
+    "end": 184.24,
+    "text_en": "Periodically, you will need to follow up with your doctor to test and adjust your new",
+    "category_ids": []
+  },
+  {
+    "file": "ANH00010_Pacemaker Insertion.mp4",
+    "title": "ANH00010 Pacemaker Insertion",
+    "start": 184.24,
+    "end": 185.0,
+    "text_en": "pacemaker.",
+    "category_ids": []
+  }
+]

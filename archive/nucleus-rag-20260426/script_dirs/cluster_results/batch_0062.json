@@ -1,0 +1,522 @@
+[
+  {
+    "global_index": 2480,
+    "seg_id": "S3-L1",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国外现在完全放弃了吗",
+    "template": "hero_text",
+    "items": [
+      "退市≠放弃，研发从未停止"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2481,
+    "seg_id": "S3-L2",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国外现在完全放弃了吗",
+    "template": "step_arrow",
+    "items": [
+      "支架梁优化至100微米以下",
+      "改良可降解聚合物材料",
+      "兼顾支撑力与降解速度"
+    ],
+    "needs_animation": true,
+    "label": "可吸收支架结构优化（支架梁厚度与降解材料改良）"
+  },
+  {
+    "global_index": 2482,
+    "seg_id": "S3-L3",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国外现在完全放弃了吗",
+    "template": "split_column",
+    "items": [
+      "新一代产品仍在三期临床",
+      "主流仍是金属药物洗脱支架",
+      "尚未大规模常规临床应用",
+      "传统支架经验成熟广泛使用"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2483,
+    "seg_id": "S3-L4",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国外现在完全放弃了吗",
+    "template": "list_fade",
+    "items": [
+      "但目前",
+      "国外这些",
+      "新一代产品",
+      "大多还处于",
+      "三期临床试验阶段"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2484,
+    "seg_id": "S4-L1",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国产支架不是小白鼠",
+    "template": "myth_buster",
+    "items": [
+      "国外退市国内用是拿患者试验",
+      "国产支架完全独立重新研发改良",
+      "国产支架照搬了国外失败产品",
+      "充分吸取第一代教训从头攻关"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2485,
+    "seg_id": "S4-L2",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国产支架不是小白鼠",
+    "template": "vertical_timeline",
+    "items": [
+      "2019年：国内首款可吸收支架获批",
+      "此后：多款国产产品相继获批上市"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2486,
+    "seg_id": "S4-L3",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国产支架不是小白鼠",
+    "template": "list_fade",
+    "items": [
+      "支架梁减薄至110-130微米",
+      "降解周期精准控制2-3年",
+      "涂层药物抑制血管再狭窄"
+    ],
+    "needs_animation": true,
+    "label": "可吸收支架体内降解过程与药物涂层抑制血管再狭窄"
+  },
+  {
+    "global_index": 2487,
+    "seg_id": "S4-L4",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国产支架不是小白鼠",
+    "template": "number_center",
+    "items": [
+      "2-3"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2488,
+    "seg_id": "S4-L5",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国产支架不是小白鼠",
+    "template": "split_column",
+    "items": [
+      "国产可吸收支架",
+      "最优金属支架",
+      "一年再狭窄率基本相当",
+      "晚期血栓发生率基本相当"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2489,
+    "seg_id": "S4-L6",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "国产支架不是小白鼠",
+    "template": "hero_text",
+    "items": [
+      "安全性和有效性经得起临床验证"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2490,
+    "seg_id": "S5-L1",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "谁适合放可吸收支架",
+    "template": "hero_text",
+    "items": [
+      "可吸收支架有严格医学适应症"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2491,
+    "seg_id": "S5-L2",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "谁适合放可吸收支架",
+    "template": "color_grid",
+    "items": [
+      "年龄30-50岁年轻患者",
+      "不愿终身携带金属异物"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2492,
+    "seg_id": "S5-L3",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "谁适合放可吸收支架",
+    "template": "list_fade",
+    "items": [
+      "血管直径2.5-3.5毫米",
+      "病变简单局限",
+      "无严重钙化或迂曲"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉适宜病变解剖（正常管径与简单局限性病变）"
+  },
+  {
+    "global_index": 2493,
+    "seg_id": "S5-L4",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "谁适合放可吸收支架",
+    "template": "branch_path",
+    "items": [
+      "能否耐受2年双联抗血栓治疗",
+      "可考虑可吸收支架",
+      "不适合可吸收支架"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2494,
+    "seg_id": "S5-L5",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "谁适合放可吸收支架",
+    "template": "list_fade",
+    "items": [
+      "血管严重钙化或病变过长",
+      "血管过粗过细或分叉开口",
+      "出血风险高无法长期用药"
+    ],
+    "needs_animation": true,
+    "label": "冠状动脉复杂病变解剖（严重钙化、迂曲、分叉开口病变）"
+  },
+  {
+    "global_index": 2495,
+    "seg_id": "S5-L6",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "谁适合放可吸收支架",
+    "template": "hero_text",
+    "items": [
+      "复杂病变首选传统金属支架"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2496,
+    "seg_id": "S6-L1",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "选支架的核心原则",
+    "template": "myth_buster",
+    "items": [
+      "可吸收支架是骗局是智商税",
+      "可吸收支架是介入治疗补充选项",
+      "选支架要选贵的新的才好",
+      "选最适合自己血管和身体状况的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2497,
+    "seg_id": "S6-L2",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "选支架的核心原则",
+    "template": "hero_text",
+    "items": [
+      "选对的，不选贵的"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2498,
+    "seg_id": "S6-L3",
+    "bp_title": "可吸收支架真相：为什么国外退市，国内还在用？",
+    "scene_title": "选支架的核心原则",
+    "template": "hero_text",
+    "items": [
+      "听专业心内科医生的建议"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2499,
+    "seg_id": "S1-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "手术意外引发的困境",
+    "template": "hero_text",
+    "items": [
+      "一场开颅手术，改变了两个家庭"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2500,
+    "seg_id": "S1-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "手术意外引发的困境",
+    "template": "warning_alert",
+    "items": [
+      "二十多岁的儿子，颤抖着无法签字"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2501,
+    "seg_id": "S1-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "手术意外引发的困境",
+    "template": "hero_text",
+    "items": [
+      "接下来发生的事，你绝对想不到"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2502,
+    "seg_id": "S1-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "手术意外引发的困境",
+    "template": "step_arrow",
+    "items": [
+      "父亲已脑死亡",
+      "其他器官仍然健康",
+      "院方提出器官捐献建议"
+    ],
+    "needs_animation": true,
+    "label": "脑死亡病理状态（大脑功能不可逆丧失而其他器官存活）"
+  },
+  {
+    "global_index": 2503,
+    "seg_id": "S1-L5",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "手术意外引发的困境",
+    "template": "hero_text",
+    "items": [
+      "手术没救回人，还要捐器官？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2504,
+    "seg_id": "S1-L6",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "手术意外引发的困境",
+    "template": "hero_text",
+    "items": [
+      "很多人觉得：医院太无情了"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2505,
+    "seg_id": "S2-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "三十万人在等待",
+    "template": "hero_text",
+    "items": [
+      "别急着生气，先看一组数字"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2506,
+    "seg_id": "S2-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "三十万人在等待",
+    "template": "number_center",
+    "items": [
+      "30万"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2507,
+    "seg_id": "S2-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "三十万人在等待",
+    "template": "split_column",
+    "items": [
+      "30万人在苦苦等待",
+      "仅约2万人等到器官",
+      "28万人的缺口",
+      "部分人在等待中离世"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2508,
+    "seg_id": "S2-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "三十万人在等待",
+    "template": "warning_alert",
+    "items": [
+      "很多人在等待中耗尽最后的时间"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2509,
+    "seg_id": "S3-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "技术不是问题",
+    "template": "hero_text",
+    "items": [
+      "是医生技术不行吗？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2510,
+    "seg_id": "S3-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "技术不是问题",
+    "template": "number_center",
+    "items": [
+      "全球第2"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2511,
+    "seg_id": "S3-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "技术不是问题",
+    "template": "list_fade",
+    "items": [
+      "肝脏移植\"杭州标准\"国际认可",
+      "无缺血移植技术令外国专家折服",
+      "手术台上不缺技术，缺的是器官"
+    ],
+    "needs_animation": true,
+    "label": "器官移植手术过程（无缺血器官移植技术）"
+  },
+  {
+    "global_index": 2512,
+    "seg_id": "S3-L4",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "技术不是问题",
+    "template": "hero_text",
+    "items": [
+      "弹药不足——器官严重短缺"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2513,
+    "seg_id": "S4-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官从哪里来",
+    "template": "branch_path",
+    "items": [
+      "是否为三代以内直系亲属？",
+      "符合：可合法捐献（如父母捐肾给孩子）",
+      "不符合：不受法律保护"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2514,
+    "seg_id": "S4-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官从哪里来",
+    "template": "hero_text",
+    "items": [
+      "2015年起，自愿捐献是唯一合法来源"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2515,
+    "seg_id": "S4-L3",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "器官从哪里来",
+    "template": "warning_alert",
+    "items": [
+      "愿意捐献的人，依然太少"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2516,
+    "seg_id": "S5-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "捐献率国际对比",
+    "template": "hero_text",
+    "items": [
+      "每百万人中有多少人愿意捐？"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2517,
+    "seg_id": "S5-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "捐献率国际对比",
+    "template": "number_center",
+    "items": [
+      "第51位"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2518,
+    "seg_id": "S6-L1",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "为何不愿意捐",
+    "template": "hero_text",
+    "items": [
+      "不是觉悟问题，是有两层原因"
+    ],
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2519,
+    "seg_id": "S6-L2",
+    "bp_title": "器官捐献：生命最高级的延续",
+    "scene_title": "为何不愿意捐",
+    "template": "split_column",
+    "items": [
+      "不知道自己可以捐献",
+      "不了解登记和流程",
+      "不清楚捐后如何对待",
+      "信息缺失导致沉默"
+    ],
+    "needs_animation": false,
+    "label": ""
+  }
+]

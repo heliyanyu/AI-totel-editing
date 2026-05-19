@@ -1,0 +1,338 @@
+[
+  {
+    "file": "ANS00433_DVT (Abbreviated Version).mp4",
+    "title": "ANS00433 DVT (Abbreviated Version)",
+    "start_sec": 32.9,
+    "end_sec": 57.6,
+    "summary_zh": "DVT的形成过程：长期制动导致静脉循环减慢，血液中的凝血因子使缓慢流动的血液聚集，形成血栓（thrombus），即深静脉血栓。",
+    "text_en": "When you are a mobile for an extended period, your venous circulation slows down. As a result, clotting factors in the blood may cause the slow moving blood to clump together, forming a blood clot or thrombus. This condition is called deep vein thrombosis or DVT.",
+    "category_ids": [
+      18,
+      31
+    ]
+  },
+  {
+    "file": "ANS00433_DVT (Abbreviated Version).mp4",
+    "title": "ANS00433 DVT (Abbreviated Version)",
+    "start_sec": 57.6,
+    "end_sec": 70.1,
+    "summary_zh": "DVT的常见症状：下肢肿胀、静脉肿胀、疼痛或压痛、局部皮肤温度升高、皮肤发红或变色。",
+    "text_en": "Common symptoms of DVT include swelling of the leg or a vein in the leg, pain or tenderness in the area, increased warmth in the skin, and red or discolored skin.",
+    "category_ids": [
+      18
+    ]
+  },
+  {
+    "file": "ANS00434_Pulmonary Embolism Caused by DVT.mp4",
+    "title": "ANS00434 Pulmonary Embolism Caused by DVT",
+    "start_sec": 0,
+    "end_sec": 25.7,
+    "summary_zh": "深静脉血栓脱落并随血流迁移的过程：血栓从腿部深静脉脱落，经腹部静脉进入心脏，最终嵌塞在肺动脉或其分支中，阻断肺部血流供应。",
+    "text_en": "In some DVT cases, a blood clot may detach from a deep vein and join the bloodstream. The clot travels from the deep veins of the leg through the veins of the abdomen, into the heart, and finally lodges in the pulmonary artery or its branches, blocking blood flow to the lungs.",
+    "category_ids": [
+      18
+    ]
+  },
+  {
+    "file": "ANS00434_Pulmonary Embolism Caused by DVT.mp4",
+    "title": "ANS00434 Pulmonary Embolism Caused by DVT",
+    "start_sec": 25.7,
+    "end_sec": 42.6,
+    "summary_zh": "肺栓塞的定义与严重后果：该病症称为肺栓塞（PE），可永久性损伤部分肺组织；若血栓较大或数量较多，可导致死亡。",
+    "text_en": "This condition, called pulmonary embolism, is very serious and may permanently damage a portion of the lung. If a clot is large or if there are many clots, pulmonary embolism may also cause death.",
+    "category_ids": [
+      18
+    ]
+  },
+  {
+    "file": "ANS11476_Atrial Fibrillation (Abbreviated Version).mp4",
+    "title": "ANS11476 Atrial Fibrillation (Abbreviated Version)",
+    "start_sec": 0,
+    "end_sec": 10.3,
+    "summary_zh": "房颤的定义：房颤是心律失常的一种，即心跳节奏或力度的异常",
+    "text_en": "Atrial fibrillation is a type of arrhythmia, which is an abnormality in the pace or force of your heartbeat.",
+    "category_ids": [
+      20,
+      120
+    ]
+  },
+  {
+    "file": "ANS11476_Atrial Fibrillation (Abbreviated Version).mp4",
+    "title": "ANS11476 Atrial Fibrillation (Abbreviated Version)",
+    "start_sec": 10.3,
+    "end_sec": 20,
+    "summary_zh": "房颤的具体表现：心脏上腔（心房）快速、颤动性收缩，导致心跳不规则、不协调",
+    "text_en": "If you have atrial fibrillation, the heart's upper chambers contract in a fast, twitchy fashion, resulting in an irregular, uncoordinated heartbeat.",
+    "category_ids": [
+      20,
+      120
+    ]
+  },
+  {
+    "file": "ANS11477_Four Heart Chambers.mp4",
+    "title": "ANS11477 Four Heart Chambers",
+    "start_sec": 0,
+    "end_sec": 12,
+    "summary_zh": "心脏是由四个腔室组成的肌性器官：左右心房和左右心室。展示心脏的基本解剖结构。",
+    "text_en": "Your heart is a muscular organ made up of four chambers, the right and left atria, and the right and left ventricles.",
+    "category_ids": [
+      46
+    ]
+  },
+  {
+    "file": "ANS11477_Four Heart Chambers.mp4",
+    "title": "ANS11477 Four Heart Chambers",
+    "start_sec": 12,
+    "end_sec": 26,
+    "summary_zh": "正常心跳过程中，四个腔室按节律性收缩和舒张，维持全身稳定的血液循环。展示心脏搏动的基本机制。",
+    "text_en": "During a normal heartbeat, the chambers of your heart contract and relax in a rhythmic pattern to deliver a consistent flow of blood throughout your body.",
+    "category_ids": [
+      126
+    ]
+  },
+  {
+    "file": "ANS11477_Four Heart Chambers.mp4",
+    "title": "ANS11477 Four Heart Chambers",
+    "start_sec": 26,
+    "end_sec": 55,
+    "summary_zh": "右心房收集全身回流的静脉血，右心室将其泵入肺部进行气体交换（摄氧排碳）；同时左心房接收来自肺部的含氧血，左心室将其泵出供应全身组织氧气和营养。展示体循环与肺循环的完整血流路径。",
+    "text_en": "The right atrium collects blood from the body, and the right ventricle pumps it to the lungs, which bring oxygen to and remove carbon dioxide from the blood. At the same time, the left atrium receives blood from the lungs, and the left ventricle pumps it out to supply your body's tissues with oxygen and nutrients.",
+    "category_ids": [
+      46,
+      126
+    ]
+  },
+  {
+    "file": "ANW10009_Echocardiogram.mp4",
+    "title": "ANW10009 Echocardiogram",
+    "start_sec": 0,
+    "end_sec": 16,
+    "summary_zh": "超声心动图概述：利用声波检测心脏的形态、大小及泵血功能，帮助医生发现心脏瓣膜和心腔的异常。",
+    "text_en": "An echocardiogram is a common test using sound waves to map out the shape and size of your heart, thus allowing your doctor to see how well your heart pumps blood and look for abnormalities of the heart valves and chambers.",
+    "category_ids": [
+      52
+    ]
+  },
+  {
+    "file": "ANW10009_Echocardiogram.mp4",
+    "title": "ANW10009 Echocardiogram",
+    "start_sec": 20,
+    "end_sec": 45,
+    "summary_zh": "经胸超声心动图（TTE）操作流程：超声技师在胸部涂抹凝胶，用探头发射无痛声波至心脏，声波反射回探头后转换为心肌、心腔和瓣膜的动态影像显示在屏幕上。",
+    "text_en": "In a trans thoracic echocardiogram, your synographer will put a cool gel on your chest. Your synographer will move a transducer firmly through the gel, sending painless sound waves to your heart. The sound waves bounce off your heart and echo back to the transducer. The sound waves are converted to moving images of your heart muscles, chambers, and valves on a video screen.",
+    "category_ids": [
+      52
+    ]
+  },
+  {
+    "file": "ANW10009_Echocardiogram.mp4",
+    "title": "ANW10009 Echocardiogram",
+    "start_sec": 46,
+    "end_sec": 59,
+    "summary_zh": "多普勒超声心动图：记录血细胞的回声信号，通过血流速度和方向评估心脏内部的血液循环状况。",
+    "text_en": "A Doppler echocardiogram records echoes from blood cells. The speed and direction of the blood flow indicate how well blood gets around inside your heart.",
+    "category_ids": [
+      52
+    ]
+  },
+  {
+    "file": "ANW10009_Echocardiogram.mp4",
+    "title": "ANW10009 Echocardiogram",
+    "start_sec": 59,
+    "end_sec": 83,
+    "summary_zh": "负荷超声心动图（压力超声）：对比运动前后（或药物模拟运动后）的心脏影像，帮助医生发现仅在运动时出现的心脏问题，如冠状动脉疾病。",
+    "text_en": "A stress echocardiogram evaluates images of the heart before and after exercise or following medication that simulates exercise on the heart. Comparing your echo results before and after activity provides your doctor information about certain heart problems, such as coronary artery disease, that may only occur with exertion.",
+    "category_ids": [
+      52
+    ]
+  },
+  {
+    "file": "ANW10009_Echocardiogram.mp4",
+    "title": "ANW10009 Echocardiogram",
+    "start_sec": 83,
+    "end_sec": 97,
+    "summary_zh": "经食道超声心动图（TEE）：在镇静状态下将探头经咽喉送入食道，从更近距离对心脏进行更详细的评估。",
+    "text_en": "A transisophageal echocardiogram sends sound waves through a transducer past gently down your throat while your under sedation. This test provides a closer, more detailed evaluation of your heart.",
+    "category_ids": [
+      52
+    ]
+  },
+  {
+    "file": "ANW10012_Implantable Cardioverter Defibrillator (ICD).mp4",
+    "title": "ANW10012 Implantable Cardioverter Defibrillator (ICD)",
+    "start_sec": 0,
+    "end_sec": 20,
+    "summary_zh": "心脏的正常功能：心脏泵送含氧血液至全身，心脏内部有节律的电脉冲使心肌壁收缩，确保心脏稳定跳动。",
+    "text_en": "Your heart pumps oxygenated blood throughout your body. Rhythmic electrical impulses inside your heart cause its muscular walls to contract, ensuring your heart beats steadily.",
+    "category_ids": [
+      34
+    ]
+  },
+  {
+    "file": "ANW10012_Implantable Cardioverter Defibrillator (ICD).mp4",
+    "title": "ANW10012 Implantable Cardioverter Defibrillator (ICD)",
+    "start_sec": 20,
+    "end_sec": 40.5,
+    "summary_zh": "心律失常与ICD的适应症：当心脏电传导系统出现问题时，可能发生危及生命的心律失常；医生可能建议植入心律转复除颤器（ICD）来恢复正常心律并预防心脏性猝死。",
+    "text_en": "If problems occur with your heart's electrical system, you may develop an abnormal, potentially life-threatening heart beat called arrhythmia. Your doctor may want you to have an implantable cardio-verter defibrillator or ICD to restore the heart's normal rhythm and prevent sudden cardiac death.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANW10012_Implantable Cardioverter Defibrillator (ICD).mp4",
+    "title": "ANW10012 Implantable Cardioverter Defibrillator (ICD)",
+    "start_sec": 40.5,
+    "end_sec": 67.2,
+    "summary_zh": "ICD植入手术过程：医生将细导线经静脉送入右心室，导线持续监测心律；确认导线位置正确且工作正常后，将导线连接至ICD脉冲发生器，然后将ICD装置植入锁骨下方胸部皮肤下。",
+    "text_en": "During the procedure, your doctor will thread a small wire through a vein until it reaches your right ventricle. The wires continuously monitor the heart's rhythm. After verifying the wire is in the correct location and works properly, your doctor will attach the wire to the ICD generator. Then your doctor will insert the ICD device under the skin of your chest below the collarbone.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANW10012_Implantable Cardioverter Defibrillator (ICD).mp4",
+    "title": "ANW10012 Implantable Cardioverter Defibrillator (ICD)",
+    "start_sec": 67.2,
+    "end_sec": 89.9,
+    "summary_zh": "ICD的工作原理：电池驱动的ICD通过内置计算机持续监测心跳；当检测到危及生命的心律失常时，ICD向心脏发送电击以重置心律恢复正常；ICD还可被编程进行心脏起搏以恢复自然心律。",
+    "text_en": "The battery-powered ICD constantly monitors your heart beat using a computer. If a life-threatening arrhythmia occurs, the ICD delivers an electrical shock to your heart, resetting your heart beat back to normal. The ICD can also be programmed to paste the heart and restore its natural rhythm.",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANZ23179_Ventricular Fibrillation.mp4",
+    "title": "ANZ23179 Ventricular Fibrillation",
+    "start_sec": 0,
+    "end_sec": 21.3,
+    "summary_zh": "心室颤动（室颤）的动画演示：展示心室肌细胞电活动紊乱，心室失去协调收缩能力，无法有效泵血的病理过程",
+    "text_en": "ANZ23179 Ventricular Fibrillation",
+    "category_ids": [
+      20
+    ]
+  },
+  {
+    "file": "ANZ23373_Blood Oxygenation.mp4",
+    "title": "ANZ23373 Blood Oxygenation",
+    "start_sec": 0,
+    "end_sec": 31.1,
+    "summary_zh": "血液氧合过程动画展示（无语音旁白，仅标题标识 ANZ23373 Blood Oxygenation）",
+    "text_en": "ANZ23373 Blood Oxygenation",
+    "category_ids": [
+      46
+    ]
+  },
+  {
+    "file": "Common Causes of Heart Failure.mp4",
+    "title": "Common Causes of Heart Failure",
+    "start_sec": 0,
+    "end_sec": 10,
+    "summary_zh": "总述：任何损害心脏泵血能力的疾病或状况都可能导致心力衰竭",
+    "text_en": "Any condition or disease that damages your heart's ability to pump blood can cause heart failure.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Common Causes of Heart Failure.mp4",
+    "title": "Common Causes of Heart Failure",
+    "start_sec": 10,
+    "end_sec": 21,
+    "summary_zh": "最常见病因——冠状动脉疾病：为心肌供血的冠状动脉被脂肪物质（粥样斑块）阻塞，导致心肌缺血",
+    "text_en": "For example, the most common cause is coronary artery disease in which blood vessels that supply your heart muscle, called coronary arteries, become blocked by a fatty substance called",
+    "category_ids": [
+      75,
+      8
+    ]
+  },
+  {
+    "file": "Common Causes of Heart Failure.mp4",
+    "title": "Common Causes of Heart Failure",
+    "start_sec": 23.5,
+    "end_sec": 33.2,
+    "summary_zh": "其他常见病因：未控制的高血压，以及糖尿病引起的高血糖对心脏的损害",
+    "text_en": "Other common causes of heart failure include uncontrolled high blood pressure and high blood sugar in diabetes.",
+    "category_ids": [
+      75,
+      106
+    ]
+  },
+  {
+    "file": "Common Causes of Heart Failure.mp4",
+    "title": "Common Causes of Heart Failure",
+    "start_sec": 33.2,
+    "end_sec": 50.5,
+    "summary_zh": "较少见病因：心脏瓣膜病变/感染/损伤、心律失常、先天性心脏缺陷、毒物或药物滥用、肺部疾病、以及睡眠呼吸暂停",
+    "text_en": "Less common causes of heart failure include diseased, infected or damaged heart valves, your regular heartbeats, called arrhythmias, heart defects, poisons or substance abuse, lung diseases, and breathing problems during sleep, called sleep apnea.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Effects of Congestive Heart Failure.mp4",
+    "title": "Effects of Congestive Heart Failure",
+    "start_sec": 0,
+    "end_sec": 30.8,
+    "summary_zh": "心力衰竭的定义与两种基本机制：心室壁薄弱无力导致泵血不足，或心室壁僵硬增厚导致充盈不足",
+    "text_en": "If you have heart failure, your heart has lost the ability to pump enough blood to meet your body's needs. You may have weak or damaged ventricular walls that are not able to push enough blood out of your heart. You may also have stiff and thickened ventricular walls that do not allow your heart to fill with enough blood.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Effects of Congestive Heart Failure.mp4",
+    "title": "Effects of Congestive Heart Failure",
+    "start_sec": 30.8,
+    "end_sec": 65.8,
+    "summary_zh": "左心衰竭的影响：左心室无法输送足够含氧血液导致疲劳和气短；左心衰竭使肺静脉压力升高，液体渗入肺组织造成呼吸困难（肺水肿）",
+    "text_en": "If you have left-sided heart failure, your left ventricle does not deliver enough oxygen rich blood to your body, making you feel tired and out of breath. Your failing left ventricle also increases the blood pressure in the blood vessels between your lungs and left ventricle. This increased pressure forces fluid out of your blood and into your lung tissues, which makes it difficult for you to breathe.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Effects of Congestive Heart Failure.mp4",
+    "title": "Effects of Congestive Heart Failure",
+    "start_sec": 65.8,
+    "end_sec": 87.6,
+    "summary_zh": "右心衰竭的影响：右心室收缩力不足无法将血液泵入肺部，静脉血液淤积导致全身组织液体积聚（外周水肿）",
+    "text_en": "If you have right-sided heart failure, your right ventricle is unable to contract with enough force to push blood to your lungs. The result is a build-up of blood in your veins, which causes a build-up of fluid called edema throughout the tissues in your body.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Effects of Congestive Heart Failure.mp4",
+    "title": "Effects of Congestive Heart Failure",
+    "start_sec": 87.6,
+    "end_sec": 118.2,
+    "summary_zh": "心衰的代偿与恶性循环：心室逐渐扩大、泵血减少；神经系统释放应激激素加快心率以代偿，但长期激素刺激反而损伤心肌细胞，加重心衰",
+    "text_en": "Over time, heart failure on either side of your heart results in weakened and large ventricles that deliver less blood to your body. To make up for the decreased amount of blood, your nervous system releases stress hormones that increase the speed and force of your heart beat. Unfortunately, the continued release of these stress hormones makes your heart fail your worse because they damage the muscle cells in your ventricles.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 14,
+    "end_sec": 29,
+    "summary_zh": "心衰患者需要改变生活方式以防止心脏进一步损伤，戒烟是最重要的措施之一",
+    "text_en": "As a heart failure patient, you may need to make some lifestyle changes to prevent further damage to your heart. If you smoke, quitting is one of the most important things you can do for your heart.",
+    "category_ids": [
+      75
+    ]
+  },
+  {
+    "file": "Heart Failure Treatment_ Lifestyle Changes.mp4",
+    "title": "Heart Failure Treatment  Lifestyle Changes",
+    "start_sec": 29,
+    "end_sec": 55,
+    "summary_zh": "心脏健康饮食计划的总体原则：包括蔬菜、水果、瘦肉、全谷物和低脂乳制品，用果蔬替代高热量食品如饼干和汽水",
+    "text_en": "Work with your healthcare provider to create a nutritious eating plan that also helps you maintain a healthy weight. A heart healthy diet includes vegetables, fruits, lean meats and whole grains, as well as low fat or fat-free dairy products. High calorie foods such as cookies and soda should be replaced with fruits and vegetables that don't contain added salt and sugar.",
+    "category_ids": [
+      75
+    ]
+  }
+]

@@ -1,0 +1,553 @@
+[
+  {
+    "global_index": 3080,
+    "seg_id": "S4-L7",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "肝肾影响与药物冲突",
+    "template": "category_table",
+    "items": [
+      "肾功能不全",
+      "避免瑞舒伐他汀",
+      "多药联用",
+      "优选瑞舒或匹伐"
+    ],
+    "atoms_text": "反过来说呢 肝脏负担重 同时在吃很多药的朋友 瑞舒伐他汀 或者匹伐他汀 可能更适合你一些",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3081,
+    "seg_id": "S5-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "大脑与睡眠影响",
+    "template": "hero_text",
+    "items": [
+      "第四维度：大脑与睡眠影响"
+    ],
+    "atoms_text": "第四个 是对大脑和睡眠的影响",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3082,
+    "seg_id": "S5-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "大脑与睡眠影响",
+    "template": "warning_alert",
+    "items": [
+      "阿托伐他汀可致头痛失眠记忆下降"
+    ],
+    "atoms_text": "阿托伐他汀 是脂溶性的 它能穿过血脑屏障 跑到脑子里去 所以有些人 确实会出现 头疼 失眠 记忆力下降 这些反应",
+    "needs_animation": true,
+    "label": "脂溶性阿托伐他汀穿过血脑屏障进入大脑"
+  },
+  {
+    "global_index": 3083,
+    "seg_id": "S5-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "大脑与睡眠影响",
+    "template": "split_column",
+    "items": [
+      "阿托伐他汀：脂溶性",
+      "瑞舒伐他汀：水溶性",
+      "可穿透血脑屏障影响神经",
+      "匹伐他汀：水溶性，神经影响小"
+    ],
+    "atoms_text": "瑞舒伐他汀 和匹伐他汀呢 都是水溶性的 进不了血脑屏障 对神经系统的影响 就相对小一些",
+    "needs_animation": true,
+    "label": "水溶性他汀被血脑屏障阻挡无法进入大脑"
+  },
+  {
+    "global_index": 3084,
+    "seg_id": "S6-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "血糖影响对比",
+    "template": "hero_text",
+    "items": [
+      "第五维度：对血糖的影响"
+    ],
+    "atoms_text": "第五 是对血糖的影响",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3085,
+    "seg_id": "S6-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "血糖影响对比",
+    "template": "warning_alert",
+    "items": [
+      "糖尿病患者选他汀必须关注血糖风险"
+    ],
+    "atoms_text": "这个是 他汀的糖尿病朋友 一定要知道",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3086,
+    "seg_id": "S6-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "血糖影响对比",
+    "template": "split_column",
+    "items": [
+      "阿托伐他汀有升血糖风险",
+      "匹伐他汀对血糖几乎无影响",
+      "瑞舒伐他汀可增加新发糖尿病风险",
+      "糖尿病患者匹伐更友好"
+    ],
+    "atoms_text": "阿托伐他汀 和瑞舒伐他汀 这两个强效的他汀呢 都有一定的概率 升高血糖 甚至增加新发糖尿病的风险",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3087,
+    "seg_id": "S6-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "血糖影响对比",
+    "template": "hero_text",
+    "items": [
+      "有糖尿病风险首选匹伐他汀"
+    ],
+    "atoms_text": "匹伐他汀 目前的研究显示 它对血糖 几乎没有影响",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3088,
+    "seg_id": "S7-L1",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "总结与就医建议",
+    "template": "hero_text",
+    "items": [
+      "五维对比听明白了吗"
+    ],
+    "atoms_text": "好了 都听明白了吧",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3089,
+    "seg_id": "S7-L2",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "总结与就医建议",
+    "template": "warning_alert",
+    "items": [
+      "千万不要看完视频就自己换药"
+    ],
+    "atoms_text": "最后我多说一句啊 千万不要 自己对着这个视频 就去换药了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3090,
+    "seg_id": "S7-L3",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "总结与就医建议",
+    "template": "list_fade",
+    "items": [
+      "血脂水平高低不同",
+      "肝肾功能因人而异",
+      "合并用药情况各异",
+      "最终用药由医生决定"
+    ],
+    "atoms_text": "每个人的 血脂水平 肝肾功能 合并用药情况 都不一样 最终吃哪个 一定要让你的医生来定",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3091,
+    "seg_id": "S7-L4",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "总结与就医建议",
+    "template": "hero_text",
+    "items": [
+      "带着知识去复诊心里有底才从容"
+    ],
+    "atoms_text": "你能做的 就是把今天这些知识 装在心里 下次去门诊复查的时候啊 心里有底 这就够了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3092,
+    "seg_id": "S7-L5",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "总结与就医建议",
+    "template": "list_fade",
+    "items": [
+      "转给身边在吃他汀的家人朋友",
+      "别再稀里糊涂吃药了"
+    ],
+    "atoms_text": "觉得这些话 对你有用 就转给身边 在吃他汀的 家人朋友 看看 别再稀里糊涂的吃了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3093,
+    "seg_id": "S7-L6",
+    "bp_title": "阿托伐他汀 vs 瑞舒伐他汀 vs 匹伐他汀 五维全比较",
+    "scene_title": "总结与就医建议",
+    "template": "hero_text",
+    "items": [
+      "关注我持续获取用药知识"
+    ],
+    "atoms_text": "关注我 下个视频啊 接着给你 更多有用的 用药知识 咱们不见不散",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3094,
+    "seg_id": "S1-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "开场点题",
+    "template": "split_column",
+    "items": [
+      "几十块的药嫌贵",
+      "上万保健品眼不眨"
+    ],
+    "atoms_text": "我发现 好多朋友啊 几十块钱的药 嫌贵 但几千上万的保健品 买起来 手都不带软的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3095,
+    "seg_id": "S1-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "开场点题",
+    "template": "warning_alert",
+    "items": [
+      "吃错保健品真的会出事"
+    ],
+    "atoms_text": "其实 有些保健品 不光白花钱 吃错了 还真的会出事儿",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3096,
+    "seg_id": "S1-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "掀三大免疫保健品的底牌"
+    ],
+    "atoms_text": "今天我 再做一次 得罪资本家的事 把最常见的 三个免疫力保健品的底牌 给你掀了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3097,
+    "seg_id": "S1-L4",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "开场点题",
+    "template": "hero_text",
+    "items": [
+      "听完你再决定这钱花不花"
+    ],
+    "atoms_text": "这有可能 这个视频啊 很快会被和谐掉 听完你再决定 这个钱还花不花",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3098,
+    "seg_id": "S2-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "鱼油的真相",
+    "template": "hero_text",
+    "items": [
+      "鱼油被奉为护心神药"
+    ],
+    "atoms_text": "第一个 鱼油 它在很多人的心目中啊 简直就是 护心神药",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3099,
+    "seg_id": "S2-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "鱼油的真相",
+    "template": "hero_text",
+    "items": [
+      "鱼油天生有两个大问题"
+    ],
+    "atoms_text": "但作为医生 我得给你讲清楚 鱼油天生 有两个大问题",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3100,
+    "seg_id": "S2-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "鱼油的真相",
+    "template": "number_center",
+    "items": [
+      "10%"
+    ],
+    "atoms_text": "第一呢 可能增加 房颤的风险 有研究数据显示呢 每多吃一克的鱼油 房颤的风险 就增加百分之十",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3101,
+    "seg_id": "S2-L4",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "鱼油的真相",
+    "template": "warning_alert",
+    "items": [
+      "心脏不好补鱼油，房颤反而更频繁"
+    ],
+    "atoms_text": "有些人 本身就有过 房颤心慌的毛病 觉得心脏不好 就买鱼油 补一补吧 结果补来补去 房颤反而 发作的更频繁了 这不就南辕北辙了吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3102,
+    "seg_id": "S2-L5",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "鱼油的真相",
+    "template": "brick_stack",
+    "items": [
+      "阿司匹林 / 氯吡格雷",
+      "利伐沙班等抗凝药",
+      "再加鱼油叠吃",
+      "胃出血脑出血风险上升"
+    ],
+    "atoms_text": "第二个问题 增加出血的风险 如果你正在吃 阿司匹林 氯吡格雷 这些抗血小板的药 或者吃 利伐沙班 这类抗凝药 再叠加鱼油一起吃 胃出血 甚至脑出血的风险 都会往上走",
+    "needs_animation": true,
+    "label": "鱼油与抗血小板药和抗凝药叠加增加出血风险"
+  },
+  {
+    "global_index": 3103,
+    "seg_id": "S2-L6",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "鱼油的真相",
+    "template": "branch_path",
+    "items": [
+      "你平时规律吃鱼吗？",
+      "规律吃鱼→完全没必要买鱼油",
+      "几乎不吃鱼→偶尔补一补还行"
+    ],
+    "atoms_text": "所以 常年一口鱼都不沾的人 偶尔补一补 那还行 对于普通人来讲 你只要 平时会规律的 吃一些鱼 那鱼油 就完全没必要买了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3104,
+    "seg_id": "S3-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "牛初乳的真相",
+    "template": "hero_text",
+    "items": [
+      "牛初乳含抗体，宣称增强抵抗力"
+    ],
+    "atoms_text": "第二个呢 是牛初乳 含抗体 含免疫球蛋白 小婴儿吃了 能增强抵抗力 道理是对的",
+    "needs_animation": true,
+    "label": "初乳中免疫球蛋白增强婴儿抵抗力的机制"
+  },
+  {
+    "global_index": 3105,
+    "seg_id": "S3-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "牛初乳的真相",
+    "template": "myth_buster",
+    "items": [
+      "牛初乳含抗体，人吃了也有效",
+      "牛初乳针对牛的病毒，对人效果有限"
+    ],
+    "atoms_text": "但人的初乳 是给人宝宝准备的 那牛的初乳呢 那是给小牛准备的 针对的是 牛的细菌和病毒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3106,
+    "seg_id": "S3-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "牛初乳的真相",
+    "template": "split_column",
+    "items": [
+      "昂贵牛初乳效果存疑",
+      "一杯纯牛奶更实惠划算"
+    ],
+    "atoms_text": "吃不坏 但你指望它 帮你提高免疫力 效果非常有限 花那个钱 真不如 老老实实喝杯纯牛奶 来的划算",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3107,
+    "seg_id": "S4-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "灵芝孢子粉的真相",
+    "template": "hero_text",
+    "items": [
+      "灵芝孢子粉：智商税排名靠前"
+    ],
+    "atoms_text": "第三个 就是灵芝孢子粉 它是保健品里的 智商税 排名非常靠前的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3108,
+    "seg_id": "S4-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "灵芝孢子粉的真相",
+    "template": "step_arrow",
+    "items": [
+      "外壳几丁质与虾壳成分相同",
+      "人体肠胃无法消化这层壳",
+      "吃进去什么样出来什么样"
+    ],
+    "atoms_text": "这个灵芝孢子啊 外面包着一层壳 成分叫几丁质 跟虾壳螃蟹壳 是一个东西 咱们人的肠胃 根本消化不了 吃进去啥样 出来基本还啥样",
+    "needs_animation": true,
+    "label": "灵芝孢子几丁质外壳在人体肠胃中无法被消化"
+  },
+  {
+    "global_index": 3109,
+    "seg_id": "S4-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "灵芝孢子粉的真相",
+    "template": "myth_buster",
+    "items": [
+      "破壁技术能释放活性成分",
+      "破壁后活性成分同步氧化变质"
+    ],
+    "atoms_text": "有人说 不是有破壁技术了吗 确实壳是打碎了 但里边的活性成分 也跟着氧化变质了",
+    "needs_animation": true,
+    "label": "破壁后孢子内活性成分氧化变质"
+  },
+  {
+    "global_index": 3110,
+    "seg_id": "S4-L4",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "灵芝孢子粉的真相",
+    "template": "split_column",
+    "items": [
+      "几百元一盒灵芝孢子粉",
+      "早餐两个鸡蛋营养更扎实"
+    ],
+    "atoms_text": "好几百一盒的东西 那点营养 可能还真比不上 你早上踏踏实实 吃俩鸡蛋 来的划算",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3111,
+    "seg_id": "S5-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "免疫力的真相",
+    "template": "hero_text",
+    "items": [
+      "你真的需要提高免疫力吗？"
+    ],
+    "atoms_text": "三个坑说完了 我还想跟你 再多聊两句 你真的需要 提高免疫力吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3112,
+    "seg_id": "S5-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "免疫力的真相",
+    "template": "myth_buster",
+    "items": [
+      "免疫力越高越好",
+      "免疫力讲究平衡而非越高越好"
+    ],
+    "atoms_text": "太多人 把免疫力当成 一个越高越好的东西 这个观点 其实是错的啊",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3113,
+    "seg_id": "S5-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "免疫力的真相",
+    "template": "split_column",
+    "items": [
+      "太低：容易感冒生病",
+      "太高：攻击自身正常组织"
+    ],
+    "atoms_text": "免疫力 讲究的是平衡 太低了 你容易感冒生病 但太高了呀 它就开始乱来了 连你自己身体的 正常组织都攻击",
+    "needs_animation": true,
+    "label": "免疫力过高时免疫细胞攻击自身正常组织"
+  },
+  {
+    "global_index": 3114,
+    "seg_id": "S5-L4",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "免疫力的真相",
+    "template": "list_fade",
+    "items": [
+      "类风湿性关节炎",
+      "红斑狼疮",
+      "桥本甲状腺炎"
+    ],
+    "atoms_text": "类风湿性关节炎 红斑狼疮 桥本甲状腺炎 就是免疫系统太亢奋了 六亲不认 搞出来的",
+    "needs_animation": true,
+    "label": "免疫系统亢奋攻击关节、皮肤、甲状腺等自身组织引发自身免疫病"
+  },
+  {
+    "global_index": 3115,
+    "seg_id": "S5-L5",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "免疫力的真相",
+    "template": "hero_text",
+    "items": [
+      "目标是平衡，而不是拼命拉高"
+    ],
+    "atoms_text": "所以你要做的 不是拼命拉高免疫力 而是让它 稳稳当当的 待在平衡的状态",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3116,
+    "seg_id": "S6-L1",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "三件真正有用的事",
+    "template": "hero_text",
+    "items": [
+      "不花大钱，三件小事就够了"
+    ],
+    "atoms_text": "不用花大价钱 就三样小事 做好了就可以了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3117,
+    "seg_id": "S6-L2",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "三件真正有用的事",
+    "template": "step_arrow",
+    "items": [
+      "每天户外晒太阳十分钟",
+      "冬天日照不足时",
+      "可适当口服维生素D补剂"
+    ],
+    "atoms_text": "第一样 适当的补点维生素D 维生素D 跟免疫功能关系很大 但它得靠晒太阳 每天出门 晒个十来分钟 就够了 冬天日照不足 或者晒不到的时候啊 可以考虑 适当的口服一些 维生素D补剂",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3118,
+    "seg_id": "S6-L3",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "三件真正有用的事",
+    "template": "number_center",
+    "items": [
+      "150分钟"
+    ],
+    "atoms_text": "第二样呢 就是坚持运动 每周至少 运动一百五十分钟以上 中等强度 快走慢跑游泳 都行 有点喘 能说话 但唱不了歌 这个力度就刚好",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3119,
+    "seg_id": "S6-L4",
+    "bp_title": "三个坑人保健品，医生帮你掀底牌",
+    "scene_title": "三件真正有用的事",
+    "template": "warning_alert",
+    "items": [
+      "天天熬夜，免疫系统连修复机会都没有"
+    ],
+    "atoms_text": "第三个呢 就是好好睡觉 免疫系统 白天干了一整天的活 夜里是要 休息修复的 你天天熬夜到后半夜 它连喘口气的机会都没有 时间一长呢 不垮才怪",
+    "needs_animation": true,
+    "label": "免疫系统在夜间睡眠时进行休息修复"
+  }
+]

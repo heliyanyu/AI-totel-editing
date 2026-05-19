@@ -1,0 +1,555 @@
+[
+  {
+    "global_index": 760,
+    "seg_id": "S5-L3",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "医生总结：读懂身体的预警信号",
+    "template": "branch_path",
+    "items": [
+      "CK升高，是否伴有胸闷胸痛？",
+      "有胸痛→优先排查心脏问题",
+      "无胸痛→排查运动、外伤、肌肉皮肤异常"
+    ],
+    "atoms_text": "如果肌酸激酶高了 还伴有胸闷胸痛 那一定要 先排查心脏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 761,
+    "seg_id": "S5-L4",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "医生总结：读懂身体的预警信号",
+    "template": "list_fade",
+    "items": [
+      "近期有无剧烈运动",
+      "近期有无磕碰外伤",
+      "有无莫名肌肉酸痛",
+      "有无皮肤异常变化"
+    ],
+    "atoms_text": "但如果 只有总CK高 心肌相关的指标正常 那就要想想 最近有没有 剧烈运动 有没有 磕到碰到 有没有 莫名其妙的 肌肉酸痛 皮肤异常",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 762,
+    "seg_id": "S5-L5",
+    "bp_title": "肌酸激酶升高≠心梗，一个被忽视的细节差点误诊",
+    "scene_title": "医生总结：读懂身体的预警信号",
+    "template": "hero_text",
+    "items": [
+      "精准排查病因，科学干预才能守护健康"
+    ],
+    "atoms_text": "重视每个异常信号 及时寻求 专业医生的排查 精准找到病因 科学干预 才是 守护健康的关键",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 763,
+    "seg_id": "S1-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "引出核心问题",
+    "template": "hero_text",
+    "items": [
+      "颈动脉斑块会脱落吗？"
+    ],
+    "atoms_text": "讲了这么多 可我还是有人没懂 颈动脉斑块 是不是会脱落",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 764,
+    "seg_id": "S1-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "引出核心问题",
+    "template": "list_fade",
+    "items": [
+      "哪种斑块危险哪种稳定",
+      "斑块有没有办法缩小"
+    ],
+    "atoms_text": "今天我们就详细讲一下 这个斑块到底 哪一种危险 哪一种稳定 有没有办法缩小它",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 765,
+    "seg_id": "S1-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "引出核心问题",
+    "template": "hero_text",
+    "items": [
+      "点赞收藏不迷路"
+    ],
+    "atoms_text": "大家点赞收藏",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 766,
+    "seg_id": "S2-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "斑块为何如此常见",
+    "template": "hero_text",
+    "items": [
+      "颈动脉斑块中老年人极常见"
+    ],
+    "atoms_text": "我们先说 颈动脉斑块 在中老年人中 非常常见",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 767,
+    "seg_id": "S2-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "斑块为何如此常见",
+    "template": "step_arrow",
+    "items": [
+      "血管内壁随年龄磨损",
+      "坏胆固醇沉积损伤处",
+      "斑块逐渐形成"
+    ],
+    "atoms_text": "因为随着年龄增长 咱们的血管内壁 就像用久了的水管 难免会有磨损",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 768,
+    "seg_id": "S2-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "斑块为何如此常见",
+    "template": "brick_stack",
+    "items": [
+      "高血压损伤血管壁",
+      "高血脂推高坏胆固醇",
+      "高血糖加速血管损伤"
+    ],
+    "atoms_text": "再加上 高血压高血脂高血糖 这些危险因素 血液里的坏胆固醇 就会沉积在 血管内壁的损伤地方 形成斑块",
+    "needs_animation": true,
+    "label": "坏胆固醇在血管内壁损伤处沉积形成斑块"
+  },
+  {
+    "global_index": 769,
+    "seg_id": "S2-L4",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "斑块为何如此常见",
+    "template": "number_center",
+    "items": [
+      "40%"
+    ],
+    "atoms_text": "四十岁以上人群发生率啊 能达到百分之四十以上",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 770,
+    "seg_id": "S2-L5",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "斑块为何如此常见",
+    "template": "hero_text",
+    "items": [
+      "大部分斑块属于自然老化"
+    ],
+    "atoms_text": "大部分人是自然老化现象",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 771,
+    "seg_id": "S2-L6",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "斑块为何如此常见",
+    "template": "myth_buster",
+    "items": [
+      "拿到报告就要紧张害怕",
+      "斑块常见，关键看稳不稳定"
+    ],
+    "atoms_text": "所以拿到报告 不要盲目紧张 斑块很常见 关键是它的类型 看它稳不稳定",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 772,
+    "seg_id": "S3-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "稳定与危险斑块对比",
+    "template": "hero_text",
+    "items": [
+      "颈动脉超声报告会明确提示"
+    ],
+    "atoms_text": "我们做颈动脉超声的时候 报告上会有明确提示",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 773,
+    "seg_id": "S3-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "稳定与危险斑块对比",
+    "template": "split_column",
+    "items": [
+      "强回声——硬如石头",
+      "低回声——软如稀粥",
+      "不易破裂风险低",
+      "表面不平整易损伤"
+    ],
+    "atoms_text": "稳定的斑块 超声下看着是强回声 就像硬邦邦的石头 不容易破裂 风险很低",
+    "needs_animation": true,
+    "label": "稳定斑块超声下呈强回声的硬质结构"
+  },
+  {
+    "global_index": 774,
+    "seg_id": "S3-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "稳定与危险斑块对比",
+    "template": "step_arrow",
+    "items": [
+      "血压升高情绪激动",
+      "软斑块破裂",
+      "形成血栓导致脑梗"
+    ],
+    "atoms_text": "而危险的斑块 大多数低回声或混合回声 软乎乎的 就像没凝固的粥 表面还不平整 医学上叫易损斑块",
+    "needs_animation": true,
+    "label": "易损斑块低回声、质软、表面不平整的内部结构"
+  },
+  {
+    "global_index": 775,
+    "seg_id": "S3-L4",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "稳定与危险斑块对比",
+    "template": "warning_alert",
+    "items": [
+      "斑块致血管狭窄超50%须重视"
+    ],
+    "atoms_text": "这种斑块就像定时炸弹 血压一高 情绪一激动 血流一冲击 就可能破裂 形成血栓 成为脑梗的元凶",
+    "needs_animation": true,
+    "label": "易损斑块在血压升高和血流冲击下破裂形成血栓导致脑梗"
+  },
+  {
+    "global_index": 776,
+    "seg_id": "S3-L5",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "稳定与危险斑块对比",
+    "template": "hero_text",
+    "items": [
+      "易损斑块是脑梗真正元凶"
+    ],
+    "atoms_text": "另外呢 报告上如果写着 斑块导致血管狭窄 超过百分之五十 也要格外重视",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 777,
+    "seg_id": "S4-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "稳定斑块的希望",
+    "template": "hero_text",
+    "items": [
+      "斑块做对了甚至可以缩小"
+    ],
+    "atoms_text": "最后我也给大家一条建议 教你如何稳定斑块 做的好 甚至有缩小的可能",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 778,
+    "seg_id": "S5-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "规范用药是核心",
+    "template": "hero_text",
+    "items": [
+      "规范用药——稳定斑块的核心"
+    ],
+    "atoms_text": "第一就是规范用药 这个是核心",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 779,
+    "seg_id": "S5-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "规范用药是核心",
+    "template": "list_fade",
+    "items": [
+      "高血压患者需规范用药",
+      "高血脂患者优先使用他汀",
+      "糖尿病患者同样需要他汀"
+    ],
+    "atoms_text": "尤其是有高血压高血脂糖尿病的人 他汀类药物 是稳定斑块的主力军",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 780,
+    "seg_id": "S5-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "规范用药是核心",
+    "template": "step_arrow",
+    "items": [
+      "降低血液中坏胆固醇",
+      "软斑块慢慢变硬变稳定",
+      "部分小斑块逐渐缩小"
+    ],
+    "atoms_text": "它能降低血液里的坏胆固醇 让软斑块慢慢变硬变稳定 部分小斑块还能慢慢缩小",
+    "needs_animation": true,
+    "label": "他汀降低坏胆固醇使软斑块逐渐变硬稳定并缩小"
+  },
+  {
+    "global_index": 781,
+    "seg_id": "S5-L4",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "规范用药是核心",
+    "template": "warning_alert",
+    "items": [
+      "必须遵医嘱不可自行停药"
+    ],
+    "atoms_text": "不过吃药一定要遵医嘱 不能自己随便停",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 782,
+    "seg_id": "S6-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "科学饮食控血脂",
+    "template": "hero_text",
+    "items": [
+      "科学饮食——控制血脂来源"
+    ],
+    "atoms_text": "第二就是科学饮食",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 783,
+    "seg_id": "S6-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "科学饮食控血脂",
+    "template": "split_column",
+    "items": [
+      "肥肉油炸食品",
+      "蔬菜水果全谷物",
+      "动物内脏高胆固醇",
+      "深海鱼护血管"
+    ],
+    "atoms_text": "少吃肥肉油炸食品 以及动物内脏 这些高油高胆固醇的东西 多吃蔬菜水果 全谷物 和深海鱼",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 784,
+    "seg_id": "S6-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "科学饮食控血脂",
+    "template": "hero_text",
+    "items": [
+      "把血脂控制在合理范围内"
+    ],
+    "atoms_text": "把血脂控制在合理范围",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 785,
+    "seg_id": "S7-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "坚持运动促循环",
+    "template": "number_center",
+    "items": [
+      "150分钟"
+    ],
+    "atoms_text": "第三坚持运动 每周坚持一百五十分钟 中等强度运动 比如快走慢跑游泳",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 786,
+    "seg_id": "S7-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "坚持运动促循环",
+    "template": "list_fade",
+    "items": [
+      "快走改善血液循环",
+      "慢跑减少血管垃圾堆积",
+      "游泳全身有氧护血管"
+    ],
+    "atoms_text": "都能促进血液循环 减少血管里的垃圾堆积",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 787,
+    "seg_id": "S8-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "戒掉坏习惯",
+    "template": "list_fade",
+    "items": [
+      "戒烟减少血管毒素",
+      "限酒降低血管负担"
+    ],
+    "atoms_text": "第四就是戒掉坏习惯 尤其是戒烟限酒",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 788,
+    "seg_id": "S8-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "戒掉坏习惯",
+    "template": "list_fade",
+    "items": [
+      "不熬夜让血管得到修复",
+      "控制情绪避免血压骤升"
+    ],
+    "atoms_text": "平时也不要熬夜 控制好情绪 减轻血管的负担",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 789,
+    "seg_id": "S8-L3",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "戒掉坏习惯",
+    "template": "hero_text",
+    "items": [
+      "生活方式调整是长期功课"
+    ],
+    "atoms_text": "老生常谈啊 这些内容说了很多",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 790,
+    "seg_id": "S9-L1",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "科学应对总结",
+    "template": "hero_text",
+    "items": [
+      "斑块不可怕，但不能不管"
+    ],
+    "atoms_text": "总的来说 颈动脉斑块不可怕 但不能不管不顾",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 791,
+    "seg_id": "S9-L2",
+    "bp_title": "颈动脉斑块：哪种危险哪种稳定？怎么缩小它？",
+    "scene_title": "科学应对总结",
+    "template": "step_arrow",
+    "items": [
+      "判断是稳定还是易损斑块",
+      "配合医生治疗方案",
+      "调整生活方式守护脑血管"
+    ],
+    "atoms_text": "判断是稳定斑块还是易损斑块 再配合医生的治疗 调整生活方式 科学应对 就能守护好我们的脑血管健康",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 792,
+    "seg_id": "S1-L1",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦这么多有啥区别",
+    "template": "hero_text",
+    "items": [
+      "沙坦这么多，到底该怎么选？"
+    ],
+    "atoms_text": "沙坦类降压药 这么多 到底该怎么选呢 它们不都叫什么沙坦吗 为什么还不一样呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 793,
+    "seg_id": "S1-L2",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦这么多有啥区别",
+    "template": "hero_text",
+    "items": [
+      "同是包子，口味却各有不同"
+    ],
+    "atoms_text": "我给你打个比方嘛 你就明白了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 794,
+    "seg_id": "S1-L3",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦这么多有啥区别",
+    "template": "hero_text",
+    "items": [
+      "都叫猪肉大葱，但皮馅各不同"
+    ],
+    "atoms_text": "就像你进包子铺 问老板 老板你家有啥包子 老板说 都是猪肉大葱馅儿的",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 795,
+    "seg_id": "S1-L4",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦这么多有啥区别",
+    "template": "list_fade",
+    "items": [
+      "有的皮薄",
+      "有的馅大汁多",
+      "有的还加香菇提鲜"
+    ],
+    "atoms_text": "但你仔细一尝 有的皮实薄 有的馅儿大 有的汁水多 有的呀 还放里边加了香菇提鲜",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 796,
+    "seg_id": "S1-L5",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦这么多有啥区别",
+    "template": "hero_text",
+    "items": [
+      "配方不同，适合的人自然不同"
+    ],
+    "atoms_text": "你看 虽然都是猪肉大葱 但手法配方 果然不一样 最后吃到嘴里的效果 和适合的人 才能一样吗",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 797,
+    "seg_id": "S2-L1",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦的基本原理",
+    "template": "hero_text",
+    "items": [
+      "都叫血管紧张素受体抑制剂"
+    ],
+    "atoms_text": "咱们这些沙坦类药物 大名都叫 血管紧张素受体抑制剂",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 798,
+    "seg_id": "S2-L2",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦的基本原理",
+    "template": "step_arrow",
+    "items": [
+      "血管紧张素二收缩血管升压",
+      "沙坦摁住它阻断与受体结合",
+      "血压得到控制"
+    ],
+    "atoms_text": "说白了 他们干的是同一份工作 把血管紧张素二 这个收缩血管升高血压的坏分子 给摁住了 不让它跟受体结合",
+    "needs_animation": true,
+    "label": "沙坦阻断血管紧张素II与受体结合从而阻止血管收缩"
+  },
+  {
+    "global_index": 799,
+    "seg_id": "S2-L3",
+    "bp_title": "沙坦类降压药怎么选？医生选药的真实逻辑",
+    "scene_title": "沙坦的基本原理",
+    "template": "hero_text",
+    "items": [
+      "基本功相同，强弱与附加功能各异"
+    ],
+    "atoms_text": "但这是它们的基本功能 不过每个 作用强弱有所不同 有的还有一些 额外赠送的功能",
+    "needs_animation": false,
+    "label": ""
+  }
+]

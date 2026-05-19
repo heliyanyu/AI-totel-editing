@@ -1,0 +1,544 @@
+[
+  {
+    "global_index": 0,
+    "seg_id": "S1-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "隐形杀手登场",
+    "template": "warning_alert",
+    "items": [
+      "体检单藏着一个隐形杀手"
+    ],
+    "atoms_text": "体检单上啊 有一个隐形的杀手 悄无声息的 损伤您的血管 让脑梗死的风险翻倍",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 1,
+    "seg_id": "S1-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "隐形杀手登场",
+    "template": "hero_text",
+    "items": [
+      "同型半胱氨酸，你听说过吗"
+    ],
+    "atoms_text": "它就是 同型半胱氨酸 很多人 连名字都没听过 被它盯上的呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 2,
+    "seg_id": "S1-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "隐形杀手登场",
+    "template": "number_center",
+    "items": [
+      "1/2"
+    ],
+    "atoms_text": "接诊过太多的脑梗死患者 将近半数的人 都有一个共同的问题 同型半胱氨酸偏高",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 3,
+    "seg_id": "S1-L4",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "隐形杀手登场",
+    "template": "hero_text",
+    "items": [
+      "听懂这期，帮家人避开脑梗陷阱"
+    ],
+    "atoms_text": "今天就一次性呢 把这个事儿给您讲明白 听懂了 能帮助您和家人 避开脑梗死的隐形陷阱",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 4,
+    "seg_id": "S2-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "什么是同型半胱氨酸",
+    "template": "hero_text",
+    "items": [
+      "用大白话讲清楚它是什么"
+    ],
+    "atoms_text": "首先呢 用大白话告诉您 同型半胱氨酸到底是什么",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 5,
+    "seg_id": "S2-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "什么是同型半胱氨酸",
+    "template": "hero_text",
+    "items": [
+      "代谢蛋白质产生的代谢垃圾"
+    ],
+    "atoms_text": "它不是什么大病 而是我们身体呀 代谢蛋白质时 产生的一种代谢垃圾",
+    "needs_animation": true,
+    "label": "蛋白质代谢过程中产生同型半胱氨酸"
+  },
+  {
+    "global_index": 6,
+    "seg_id": "S2-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "什么是同型半胱氨酸",
+    "template": "split_column",
+    "items": [
+      "做饭产生厨房垃圾",
+      "代谢产生同型半胱氨酸"
+    ],
+    "atoms_text": "就像我们做饭 会产生厨房的垃圾一样 身体代谢 也会产生这种垃圾",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 7,
+    "seg_id": "S2-L4",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "什么是同型半胱氨酸",
+    "template": "branch_path",
+    "items": [
+      "代谢是否正常",
+      "正常：分解排出，不堆积",
+      "失调：垃圾堆积血液中"
+    ],
+    "atoms_text": "正常情况下呀 身体就能把它 分解排出 可一旦代谢出了问题 这种垃圾 就会在血里堆积 越堆越多",
+    "needs_animation": true,
+    "label": "同型半胱氨酸正常分解排出与代谢异常时在血液中堆积"
+  },
+  {
+    "global_index": 8,
+    "seg_id": "S3-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "同型半胱氨酸的危害",
+    "template": "hero_text",
+    "items": [
+      "这种垃圾有多可怕"
+    ],
+    "atoms_text": "重点来了 这种垃圾有多可怕",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 9,
+    "seg_id": "S3-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "同型半胱氨酸的危害",
+    "template": "step_arrow",
+    "items": [
+      "长期偏高腐蚀血管内壁",
+      "血管变脆变粗糙如锈管",
+      "形成斑块与血栓"
+    ],
+    "atoms_text": "它就像 血管的腐蚀剂 长期偏高 会一点一点 损伤我们的血管内壁 让血管变脆变粗糙 就像生锈的水管一样 容易形成斑块血栓",
+    "needs_animation": true,
+    "label": "同型半胱氨酸持续损伤血管内壁导致血管变脆粗糙并形成斑块血栓"
+  },
+  {
+    "global_index": 10,
+    "seg_id": "S3-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "同型半胱氨酸的危害",
+    "template": "step_arrow",
+    "items": [
+      "大脑血管细且脆弱",
+      "血栓堵塞引发脑梗死",
+      "轻则麻木失语，重则瘫痪"
+    ],
+    "atoms_text": "而我们的大脑血管 又细又脆弱 一旦血栓堵塞 就会引起脑梗死 轻则说肢体麻木 说话不清 重则瘫痪 甚至危及生命",
+    "needs_animation": true,
+    "label": "血栓堵塞细小脑血管引发脑梗死"
+  },
+  {
+    "global_index": 11,
+    "seg_id": "S4-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "为什么会偏高",
+    "template": "hero_text",
+    "items": [
+      "血压血糖正常，为何还会超标"
+    ],
+    "atoms_text": "可能有人会问 我们平时 血压血糖都正常 怎么会 同型半胱氨酸偏高呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 12,
+    "seg_id": "S4-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "为什么会偏高",
+    "template": "hero_text",
+    "items": [
+      "三大原因，最后一条最易忽视"
+    ],
+    "atoms_text": "其实原因很简单 主要和三点有关 尤其最后一点 很多人都忽略了",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 13,
+    "seg_id": "S5-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因一：饮食不均衡",
+    "template": "hero_text",
+    "items": [
+      "原因一：饮食不均衡"
+    ],
+    "atoms_text": "第一 饮食不均衡",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 14,
+    "seg_id": "S5-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因一：饮食不均衡",
+    "template": "list_fade",
+    "items": [
+      "绿叶蔬菜富含叶酸",
+      "豆类含维生素B6",
+      "蛋类含维生素B12"
+    ],
+    "atoms_text": "平时不爱吃蔬菜水果 尤其是绿叶蔬菜 还有豆类呀 豆干子 这些食物里 含有丰富的 叶酸 维生素B六 B十二",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 15,
+    "seg_id": "S5-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因一：饮食不均衡",
+    "template": "hero_text",
+    "items": [
+      "三种帮手不足，垃圾自然堆积"
+    ],
+    "atoms_text": "而这三种物质 正是分解同型半胱氨酸的 关键帮手 吃的少 帮手就不够 垃圾自然那就堆了起来",
+    "needs_animation": true,
+    "label": "叶酸与维生素B6B12参与分解同型半胱氨酸的代谢通路"
+  },
+  {
+    "global_index": 16,
+    "seg_id": "S6-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因二：不良生活习惯",
+    "template": "hero_text",
+    "items": [
+      "原因二：不良生活习惯"
+    ],
+    "atoms_text": "第二 不良的生活习惯",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 17,
+    "seg_id": "S6-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因二：不良生活习惯",
+    "template": "brick_stack",
+    "items": [
+      "长期吸烟损伤代谢功能",
+      "长期饮酒降低分解效率",
+      "熬夜导致代谢紊乱超标"
+    ],
+    "atoms_text": "长期吸烟喝酒熬夜 会严重影响 身体代谢功能 让同型半胱氨酸的 分解效率大打降低 慢慢的就会超标",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 18,
+    "seg_id": "S7-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因三：遗传因素",
+    "template": "hero_text",
+    "items": [
+      "原因三：遗传因素"
+    ],
+    "atoms_text": "第三 遗传因素",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 19,
+    "seg_id": "S7-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "原因三：遗传因素",
+    "template": "hero_text",
+    "items": [
+      "家族偏高史，天生代谢能力弱"
+    ],
+    "atoms_text": "有些家族里 就有同型半胱氨酸偏高的情况 天生代谢这种垃圾的能力就弱 更需要重点关注 提前干预",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 20,
+    "seg_id": "S8-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "如何检测是否超标",
+    "template": "hero_text",
+    "items": [
+      "怎么知道自己是否超标"
+    ],
+    "atoms_text": "大家最关心的问题 怎么知道自己 同型半胱氨酸是否超标呢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 21,
+    "seg_id": "S8-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "如何检测是否超标",
+    "template": "list_fade",
+    "items": [
+      "医院抽血做同型半胱氨酸检测",
+      "费用低廉，几十元即可明确"
+    ],
+    "atoms_text": "很简单 去医院抽血化验一下 做一个同型半胱氨酸检测 费用也不高 几十块钱就能明确数值",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 22,
+    "seg_id": "S8-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "如何检测是否超标",
+    "template": "number_center",
+    "items": [
+      "15"
+    ],
+    "atoms_text": "正常情况下 数值应该低于 十五微摩尔每升 超过这个数值 就属于偏高 数值越高 脑梗死的风险就越大",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 23,
+    "seg_id": "S9-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "超标怎么办",
+    "template": "hero_text",
+    "items": [
+      "超标不用慌，两个方法有效降低"
+    ],
+    "atoms_text": "超标了怎么办呢 不用慌 记住这两个方法 就能有效降低 尤其是中老年人 一定要记牢",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 24,
+    "seg_id": "S10-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "方法一：调整饮食",
+    "template": "hero_text",
+    "items": [
+      "方法一：调整饮食结构"
+    ],
+    "atoms_text": "第一 调整饮食",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 25,
+    "seg_id": "S10-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "方法一：调整饮食",
+    "template": "color_grid",
+    "items": [
+      "菠菜油麦菜等绿叶蔬菜",
+      "黄豆绿豆等豆类",
+      "动物肝脏与蛋类",
+      "猕猴桃草莓等水果"
+    ],
+    "atoms_text": "多吃富含叶酸 维生素B六B十二的食物 绿叶蔬菜里的 菠菜 生菜 油麦菜 豆类有黄豆绿豆 动物的肝脏 蛋类 还有猕猴桃 草莓等水果",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 26,
+    "seg_id": "S10-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "方法一：调整饮食",
+    "template": "hero_text",
+    "items": [
+      "每天坚持补充，帮手充足垃圾少"
+    ],
+    "atoms_text": "坚持每天吃点 慢慢的 就能补充身体所需要的帮手",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 27,
+    "seg_id": "S11-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "方法二：补充营养素",
+    "template": "hero_text",
+    "items": [
+      "方法二：必要时补充营养素"
+    ],
+    "atoms_text": "第二 必要时补充营养素",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 28,
+    "seg_id": "S11-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "方法二：补充营养素",
+    "template": "branch_path",
+    "items": [
+      "饮食调整后数值是否仍偏高",
+      "在医生指导下补充叶酸B6B12",
+      "有高血压糖尿病史者优先考虑"
+    ],
+    "atoms_text": "如果饮食调整后 数值还是偏高 或者本身就有 高血压 糖尿病 脑梗死病史 建议在医生的指导下 补充叶酸 维生素B6B12 坚持服用 就能有效降低 同型半胱氨酸",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 29,
+    "seg_id": "S12-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "综合预防提醒",
+    "template": "hero_text",
+    "items": [
+      "脑梗预防不能只盯一个指标"
+    ],
+    "atoms_text": "最后再次提醒大家一句 脑梗死的预防 从来不是 单一控制某一项指标",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 30,
+    "seg_id": "S12-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "综合预防提醒",
+    "template": "list_fade",
+    "items": [
+      "血压血糖血脂需长期控制",
+      "同型半胱氨酸不可忽视"
+    ],
+    "atoms_text": "血压血糖血脂要控制 同型半胱氨酸这个隐形杀手 也不能忽视",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 31,
+    "seg_id": "S12-L3",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "综合预防提醒",
+    "template": "category_table",
+    "items": [
+      "40岁以上中老年人定期检查",
+      "有脑梗家族史者提前干预",
+      "长期吸烟饮酒者重点关注",
+      "多危险因素叠加者优先筛查"
+    ],
+    "atoms_text": "尤其是四十岁以上的中老年人 有脑梗死家族史的 有长期吸烟饮酒的人 一定要定期检查 提前干预",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 32,
+    "seg_id": "S13-L1",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "结尾行动召唤",
+    "template": "hero_text",
+    "items": [
+      "觉得有用，转发给亲戚朋友"
+    ],
+    "atoms_text": "如果觉得这条视频有用 记得转发给 身边的亲戚和朋友",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 33,
+    "seg_id": "S13-L2",
+    "bp_title": "同型半胱氨酸——脑梗死的隐形杀手",
+    "scene_title": "结尾行动召唤",
+    "template": "hero_text",
+    "items": [
+      "关注我，每天学一点神经科知识"
+    ],
+    "atoms_text": "关注我 每天学一点神经科知识 远离脑血管疾病",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 34,
+    "seg_id": "S1-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "脑梗复发有多危险",
+    "template": "hero_text",
+    "items": [
+      "最可怕的不是第一次，是复发"
+    ],
+    "atoms_text": "我经常对病人说 脑梗死 最可怕的 不是第一次 而是第二次的复发",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 35,
+    "seg_id": "S1-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "脑梗复发有多危险",
+    "template": "number_center",
+    "items": [
+      "25–30%"
+    ],
+    "atoms_text": "数据很明确 得过脑梗的人 五年之内 复发的概率 是百分之二十五到三十左右 差不多 每三到四个人里 就有一个 会再发",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 36,
+    "seg_id": "S1-L3",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "脑梗复发有多危险",
+    "template": "warning_alert",
+    "items": [
+      "第二次往往比第一次更严重",
+      "血管底子差，再发可能不止偏瘫"
+    ],
+    "atoms_text": "而且第二次 往往比第一次更重 因为 血管的底子 已经很差了 脑组织 也伤过一次 再来一次 可能就不只是偏瘫那么简单了",
+    "needs_animation": true,
+    "label": "已受损血管和脑组织再次遭受血栓堵塞导致二次脑梗"
+  },
+  {
+    "global_index": 37,
+    "seg_id": "S1-L4",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "脑梗复发有多危险",
+    "template": "hero_text",
+    "items": [
+      "今天讲清楚预防复发最关键五件事"
+    ],
+    "atoms_text": "所以今天 必须讲清楚 预防脑梗死 最关键的五件事",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 38,
+    "seg_id": "S2-L1",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第一件事：把药吃好",
+    "template": "hero_text",
+    "items": [
+      "把药吃好，这是一切的基础"
+    ],
+    "atoms_text": "第一 把药吃好 这是一切的基础",
+    "needs_animation": false,
+    "label": ""
+  },
+  {
+    "global_index": 39,
+    "seg_id": "S2-L2",
+    "bp_title": "脑梗复发怎么防？医生讲清楚这五件事",
+    "scene_title": "第一件事：把药吃好",
+    "template": "warning_alert",
+    "items": [
+      "恢复尚好就停药，非常危险"
+    ],
+    "atoms_text": "太多的人 出院一两个月 觉得恢复的不错 手脚能动了 就把药停了 这种做法 是非常危险的",
+    "needs_animation": false,
+    "label": ""
+  }
+]
